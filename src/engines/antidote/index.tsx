@@ -37,7 +37,7 @@ export const AntidoteBook: React.FC<{ config: AntidoteConfig }> = ({ config }) =
             durationInFrames={scene.durationFrames + transIn}
             name={scene.id}
           >
-            <Scene scene={scene} transIn={transIn} cast={config.meta.cast} />
+            <Scene scene={scene} transIn={transIn} cast={config.meta.cast} multiplane={config.meta.multiplane} />
           </Sequence>
         );
       })}

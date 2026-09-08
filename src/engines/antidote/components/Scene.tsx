@@ -4,11 +4,12 @@ import { Everyman } from "../characters/Everyman";
 import { KineticText } from "./KineticText";
 import { Backdrop } from "./Backdrop";
 import { ChapterCard } from "./ChapterCard";
+import { Diagram } from "./Diagram";
 import { transitionRender } from "./Transition";
 import { Motif } from "../motifs";
 import { resolveBody, shotPreset, stageChar, stageText } from "../shots";
 import { DEFAULT_TRANSITION, DEFAULT_VARIANT } from "../schema";
-import { enter, pose, ambient, arcOf } from "../movements";
+import { enter, pose, ambient, arcOf, parallax } from "../movements";
 import { interpolate } from "remotion";
 import { camera } from "../movements";
 import type { SceneSpec, CharacterSpec, ShotName, VariantSpec, CastBible, BodyPlan, HandProp } from "../schema";
@@ -64,15 +65,23 @@ function resolveVariant(spec: CharacterSpec, cast?: CastBible): VariantSpec {
 // ── a placed, entering, acting character ────────────────────────────────────
 const CharacterLayer: React.FC<{
   spec: CharacterSpec; shot: ShotName; index: number; cast?: CastBible;
-  durationFrames: number; accent?: string;
-}> = ({ spec, shot, index, cast, durationFrames, accent }) => {
+  durationFrames: number; accent?: string; lookAtPoint?: { x: number; y: number } | null;
+}> = ({ spec, shot, index, cast, durationFrames, accent, lookAtPoint }) => {
   const frame = useCurrentFrame();
   const { fps } = useVideoConfig();
   const variant = resolveVariant(spec, cast);
   const st = stageChar(shot, spec, index);
   const body = resolveBody(shot, spec);
   const e = enter(spec.enter, frame, fps);
-  const p = pose(spec.action, frame + (spec.poseAt ?? 0), fps);
+  let p = pose(spec.action, frame + (spec.poseAt ?? 0), fps);
+  // LOOK-AT (4.0): turn gaze + head toward the resolved target. The whole rig is
+  // drawn then flipped by the wrapper's scaleX, so a screen-space direction must
+  // be negated back into rig space when the figure is flipped.
+  if (lookAtPoint) {
+    const screenG = Math.max(-1, Math.min(1, (lookAtPoint.x - st.x) / 520));
+    const g = st.flip ? -screenG : screenG;
+    p = { ...p, gazeX: g, headX: (p.headX ?? 0) + g * 9, headYaw: 1 - Math.abs(g) * 0.1 };
+  }
   const scale = st.scale * e.scale;
   // TRAVEL — the figure actually crosses the set over the beat. Without it a
   // `walk` is a gait cycle on a treadmill: the legs move and the person never
@@ -163,8 +172,9 @@ const CrowdLayer: React.FC<{ spec: CharacterSpec; shot: ShotName; cast?: CastBib
 };
 
 // ── the scene: backdrop + camera-transformed stage + transition reveal ──────
-export const Scene: React.FC<{ scene: SceneSpec; transIn?: number; cast?: CastBible }> = ({ scene, transIn = 0, cast }) => {
+export const Scene: React.FC<{ scene: SceneSpec; transIn?: number; cast?: CastBible; multiplane?: boolean }> = ({ scene, transIn = 0, cast, multiplane = false }) => {
   const frame = useCurrentFrame();
+  const { fps } = useVideoConfig();
   const local = Math.max(0, frame - transIn); // frames since the narration for this scene starts
   // Runtime defaults, not schema defaults: Remotion passes `defaultProps` to the
   // renderer without parsing them, so a config written before the shot grammar
@@ -191,32 +201,72 @@ export const Scene: React.FC<{ scene: SceneSpec; transIn?: number; cast?: CastBi
     );
   }
 
+  // ── MULTIPLANE (4.0) ──────────────────────────────────────────────────────
+  // Pre-4.0 the whole stage shared ONE camera transform (a flat plane in front of
+  // a parallaxing backdrop). Now each element rides its own depth: `camPlane`
+  // returns that element's camera transform via parallax(). With multiplane off
+  // every depth collapses to 1, i.e. parallax(cam, 1) === the old single plane —
+  // so existing books render byte-for-byte the same.
+  const iconShot = ["insert", "illustration", "diorama", "beforeAfter"].includes(scene.shot);
+  const camPlane = (depth: number): React.CSSProperties => {
+    const pr = parallax(cam, multiplane ? depth : 1);
+    return { transform: `translate(${pr.tx}px, ${pr.ty}px) scale(${pr.scale})`, transformOrigin: "center" };
+  };
+
+  // LOOK-AT (4.0): resolve a character's `lookAt` to a stage point so the rig can
+  // turn toward it. Uses the same staging the elements themselves resolve to.
+  const props = scene.props ?? [];
+  const texts = scene.texts ?? [];
+  const lookPointFor = (c: CharacterSpec, i: number): { x: number; y: number } | null => {
+    const la = c.lookAt;
+    if (!la) return null;
+    if (typeof la === "object") return la;
+    const self = stageChar(scene.shot, c, i);
+    switch (la) {
+      case "partner": {
+        const bi = bodies.findIndex((b) => b.id !== c.id);
+        if (bi < 0) return null;
+        return stageChar(scene.shot, bodies[bi], bi);
+      }
+      case "motif": {
+        const p = props[0];
+        return p ? { x: p.x ?? preset.motif.x, y: p.y ?? preset.motif.y } : null;
+      }
+      case "callout": {
+        const tx = texts[0];
+        return tx ? stageText(scene.shot, tx, 0) : null;
+      }
+      case "camera":
+      case "ahead":
+      default:
+        return { x: self.x, y: self.y }; // dx 0 → front
+    }
+  };
+
   return (
     <AbsoluteFill style={t.style}>
       <Backdrop bg={bg} cam={cam} />
-      <AbsoluteFill style={{ transform: `translate(${cam.x}px, ${cam.y}px) scale(${cam.scale})`, transformOrigin: "center" }}>
-        {(scene.props ?? []).map((p, i) => {
-          // A motif left at scale 1 means "however big this shot wants it";
-          // an authored scale is taken literally.
-          const s = p.scale ?? 1;
-          // A Sequence (layout="none", so it adds no wrapper) shifts the motif's
-          // whole internal clock, which is what makes `at` actually delay the
-          // drawing-in rather than just its fade.
-          // Ambient float: a prop that stops moving after its draw-in is what
-          // makes a long scene read as a still. Seeded by index so no two
-          // props on the same stage drift in phase.
-          const amb = ambient((i * 0.37 + 0.11) % 1, local);
-          // The metaphor's arc: what this object DOES over the beat. Runs from
-          // the motif's own entrance to the end of the scene, composed on top
-          // of the ambient float (ambient keeps it alive, the arc gives it
-          // meaning). See movements.arcOf.
-          const from = (p.at ?? 0);
-          const arc = arcOf(p.arc, local - from, Math.max(1, scene.durationFrames - from));
-          return (
-            <Sequence key={`p${i}`} from={from + transIn} layout="none" name={`motif-${p.type}`}>
-              {/* inset:0 — a transformed wrapper becomes the containing block for the
-                  motif's absolute left/top, so it must cover the full stage or
-                  every prop snaps to the top-left. */}
+      {props.map((p, i) => {
+        // A motif left at scale 1 means "however big this shot wants it";
+        // an authored scale is taken literally.
+        const s = p.scale ?? 1;
+        // Ambient float: a prop that stops moving after its draw-in is what
+        // makes a long scene read as a still. Seeded by index so no two
+        // props on the same stage drift in phase.
+        const amb = ambient((i * 0.37 + 0.11) % 1, local);
+        // The metaphor's arc: what this object DOES over the beat.
+        const from = (p.at ?? 0);
+        const arc = arcOf(p.arc, local - from, Math.max(1, scene.durationFrames - from));
+        // Decorative motifs sit back in the set; icon-shot motifs are the hero,
+        // so they stay on the focal plane.
+        const depth = p.depth ?? (iconShot ? 1 : 0.72);
+        return (
+          // A Sequence (layout="none") shifts the motif's own clock so `at`
+          // actually delays the draw-in. It rides its depth plane.
+          <Sequence key={`p${i}`} from={from + transIn} layout="none" name={`motif-${p.type}`}>
+            <AbsoluteFill style={camPlane(depth)}>
+              {/* inset:0 — a transformed wrapper is the containing block for the
+                  motif's absolute left/top, so it must cover the full stage. */}
               <div style={{ position: "absolute", inset: 0, opacity: arc.opacity, filter: "drop-shadow(0 18px 30px rgba(0,0,0,0.14))", transform: `translate(${amb.tx}px, ${amb.ty + arc.ty}px) rotate(${amb.rotate + arc.rotate}deg) scale(${amb.scale * arc.scale})`, transformOrigin: "center" }}>
                 <Motif
                   spec={{ ...p, x: p.x ?? preset.motif.x, y: p.y ?? preset.motif.y, scale: s * (s === 1 ? preset.motif.scale : 1) }}
@@ -224,22 +274,48 @@ export const Scene: React.FC<{ scene: SceneSpec; transIn?: number; cast?: CastBi
                   ink={ink}
                 />
               </div>
-            </Sequence>
-          );
-        })}
-        {bodies.map((c, i) =>
-          c.crowd && c.crowd > 1 ? (
-            <CrowdLayer key={c.id} spec={c} shot={scene.shot} cast={cast} accent={accent} />
-          ) : (
-            <CharacterLayer key={c.id} spec={c} shot={scene.shot} index={i} cast={cast} durationFrames={scene.durationFrames} accent={accent} />
-          ),
-        )}
-        {(scene.texts ?? []).map((tx, i) => {
-          const st = stageText(scene.shot, tx, i);
-          // `at` is authored against the narration, so it shifts with the pre-roll
-          return <KineticText key={`t${i}`} spec={{ ...tx, x: st.x, y: st.y, size: st.size, at: (tx.at ?? 0) + transIn }} />;
-        })}
-      </AbsoluteFill>
+            </AbsoluteFill>
+          </Sequence>
+        );
+      })}
+      {scene.diagram ? (
+        <Sequence from={(scene.diagram.at ?? 0) + transIn} layout="none" name={`diagram-${scene.diagram.type}`}>
+          <AbsoluteFill style={camPlane(1)}>
+            <Diagram
+              spec={scene.diagram}
+              accent={accent}
+              ink={ink}
+              paper={typeof bg.colors?.[0] === "string" ? bg.colors[0] : "rgb(246,241,232)"}
+              frame={Math.max(0, local - (scene.diagram.at ?? 0))}
+              fps={fps}
+              durationFrames={scene.durationFrames}
+            />
+          </AbsoluteFill>
+        </Sequence>
+      ) : null}
+      {bodies.map((c, i) => {
+        const stg = stageChar(scene.shot, c, i);
+        const depth = c.depth ?? (stg.silhouette ? 1.35 : 1);
+        return (
+          <AbsoluteFill key={c.id} style={camPlane(depth)}>
+            {c.crowd && c.crowd > 1 ? (
+              <CrowdLayer spec={c} shot={scene.shot} cast={cast} accent={accent} />
+            ) : (
+              <CharacterLayer spec={c} shot={scene.shot} index={i} cast={cast} durationFrames={scene.durationFrames} accent={accent} lookAtPoint={lookPointFor(c, i)} />
+            )}
+          </AbsoluteFill>
+        );
+      })}
+      {texts.map((tx, i) => {
+        const st = stageText(scene.shot, tx, i);
+        // `at` is authored against the narration, so it shifts with the pre-roll.
+        // Copy usually stays on the focal plane (depth 1) so it reads crisp.
+        return (
+          <AbsoluteFill key={`t${i}`} style={camPlane(tx.depth ?? 1)}>
+            <KineticText spec={{ ...tx, x: st.x, y: st.y, size: st.size, at: (tx.at ?? 0) + transIn }} />
+          </AbsoluteFill>
+        );
+      })}
       {t.overlay}
     </AbsoluteFill>
   );

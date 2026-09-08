@@ -29,6 +29,67 @@ _(clear your row when you stop; move the summary into the Changelog below.)_
 
 ## Changelog (newest first)
 
+### 2026-09-08 — antidote-4 — #3 SHIPPED: explanatory diagram subsystem (engine)
+
+Tier-1 #3 from `ANTIDOTE_4_ROADMAP.md` — the self-drawing conceptual graphics that are the
+reference-channel signature (motifs NAME a beat; diagrams EXPLAIN it). Engine-level, all SVG
++ interpolate/spring, deterministic, CPU-cheap.
+- New `components/Diagram.tsx` with 4 data-driven archetypes: **sorter** (taxonomy → N
+  labelled buckets), **matchWave** (two rhythms drift then lock into sync), **flow**
+  (cause→effect chain with a travelling token), **spectrum** (marker on a continuum).
+- Schema: `diagramType` + `diagramSchema` (`type`,`title`,`labels[]`,`values[]`,`at`,`x/y/scale`)
+  and optional `scene.diagram` (`schema.ts`). `Scene.tsx` renders it on the focal plane as the
+  hero (usually shot `insert`, cast dropped). Accent follows the beat's transition color.
+- Demo beats added to `Antidote4-lab` (`lab4.ts`); all 4 verified via stills.
+- Gotcha fixed: Remotion `interpolate` THROWS on a non-increasing input range (crashed a
+  render with exit 0 but no file) — keep input ranges strictly increasing.
+- **Director wiring DONE** — `plan-antidote.js` now consumes a `diagram` per beat (Claude's
+  authored one in the emit-beats art file wins; else the director's heuristic), makes it the
+  hero (forces `insert`, drops cast/props/callout), and emits it in the handoff with authoring
+  instructions for all 4 types. `antidote-director.js` has a conservative `detectDiagram`
+  fallback (matchWave on sync/entrainment language only — the one type needing no authored
+  labels), cooldown ≥10 beats. Verified `--out` on supercommunicators: 4 auto matchWaves on
+  the sync beats (incl. neural-entrainment scene-225), handoff carries `diagram` on every beat.
+  So future books get sync diagrams automatically and the richer types (sorter/flow/spectrum)
+  during normal Claude art-direction. Existing configs untouched (no re-plan).
+
+### 2026-09-08 — antidote-4 — Phase A SHIPPED: multiplane + look-at (engine, opt-in)
+
+Implemented Tier-1 #1 + #2 from `ANTIDOTE_4_ROADMAP.md`. **Engine-level, benefits every
+future book; opt-in so all existing configs render byte-for-byte the same.**
+- **Multiplane 2.5D** — cast/motifs/copy now each ride their own `depth` plane, parallaxed
+  against the camera by `parallax(cam, depth)` (`movements.ts`). `Scene.tsx` was one flat
+  `cam` transform; now wraps each element in its own `camPlane(depth)` layer. Gated by
+  **`meta.multiplane`** (default off → every depth collapses to 1 → identical to pre-4.0).
+  Depth defaults: silhouette/foreground → 1.35 near, subject → 1, decorative motif → 0.72,
+  icon-shot motif/copy → 1. Optional `depth` override on character/prop/text.
+- **Look-at** — optional `character.lookAt` (`"partner"|"motif"|"callout"|"camera"|{x,y}`).
+  Scene resolves it to a stage point; `CharacterLayer` turns gaze + head toward it (new
+  no-op-default `pose.headX`/`headYaw` in `Everyman.tsx`, flip-aware). Omit → unchanged.
+- New optional schema fields only (`schema.ts`): `meta.multiplane`, char `depth`+`lookAt`,
+  prop `depth`, text `depth`. `tsc` clean in all touched files.
+- Dev reel **`Antidote4-lab`** (`lab4.ts`, registered in `Root.tsx`) demonstrates both;
+  compare vs flat `Antidote-lab`. Verified via stills (look-at + depth confirmed; flat lab
+  unchanged).
+- **Director wiring DONE** (`plan-antidote.js`): new plans now emit `meta.multiplane:true`
+  and auto-assign `lookAt` (twoShot/split/overShoulder → `partner`; illustration/diorama +
+  motif → `motif`; medium/closeUp lead + motif → `motif`). Verified in `--out` test mode on
+  supercommunicators: 184/281 scenes get a lookAt (162 partner, 103 motif), multiplane on,
+  hand-refined thumbnail preserved. **Existing book config files are NOT re-planned** (they
+  lack the flag → render flat, unchanged) — Phase A applies to future books / any re-plan.
+
+### 2026-09-08 — antidote-4 — Visual roadmap authored (no code change yet)
+
+Wrote `ANTIDOTE_4_ROADMAP.md` — a ranked, code-grounded plan for the next visual tier of
+the Antidote engine (SFX/audio explicitly out of scope; those stay in
+`ANTIDOTE_SFX_ROADMAP.md`). Nine upgrades across 3 tiers; headline gaps vs the reference
+channel: **(1) no true multiplane** (cast+motifs share one flat plane in `Scene.tsx:197`
+while only the backdrop parallaxes), **(2) always-front rig, no look-at/interaction**
+(`Everyman.tsx`), **(3) no explanatory self-drawing diagrams** (motifs are icons). All
+proposed changes are opt-in/optional-field so existing configs render unchanged. **No engine
+code touched yet** — next is a throwaway `Antidote4-sample` prototype comp for Phase A
+(#1+#2). Don't start Tier-1 engine edits without checking here.
+
 ### 2026-09-07 — antidote-body — Antidote 3.1: the Character Foundry (book-specific cast)
 
 The 3.0 entry below gave the rig a body. This gives it an identity per book. **Still no SFX

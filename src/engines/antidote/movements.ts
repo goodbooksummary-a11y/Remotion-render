@@ -112,6 +112,11 @@ export type Pose = {
   headY: number; // head bob px
   blink: number; // 0 open → 1 shut (quick close-open every ~3s)
   gazeX: number; // -1 far left → 0 center → +1 far right (pupil offset)
+  // ── LOOK-AT (4.0) — head orientation toward a target. Both optional and
+  //    no-op by default (headX 0, headYaw 1), so every existing pose is
+  //    unchanged; Scene sets them when a character has a `lookAt`. ──────────
+  headX?: number; // head horizontal shift px (turn toward the look target)
+  headYaw?: number; // head horizontal scale (¾-turn illusion); 1 = dead front
   // ── lower body (Antidote 3.0) — only read by the `full` rig, so every pose
   //    literal written for the waist-up rig still type-checks. ──────────────
   elbowL?: number; // left forearm rotate deg, relative to the upper arm
@@ -308,5 +313,25 @@ export function camera(spec: CameraSpec, frame: number, durationFrames: number) 
     scale,
     x: interpolate(e, [0, 1], spec.panX),
     y: interpolate(e, [0, 1], spec.panY),
+  };
+}
+
+// ── MULTIPLANE (4.0) — parallax a stage layer against the camera by its depth ─
+/**
+ * parallax(cam, depth) — how a layer at `depth` should move under the camera.
+ *
+ * The backdrop already parallaxes its three internal layers (Backdrop.tsx); this
+ * extends the same idea to the CAST, MOTIFS and COPY, which until 4.0 all shared
+ * one flat plane (Scene.tsx). A near layer (depth > 1) slides and zooms MORE than
+ * a far one (depth < 1), so a simple camera pan reveals real 2.5D depth.
+ *
+ * depth === 1 returns the camera unchanged, so a book without multiplane (every
+ * element at depth 1) renders byte-for-byte as it did before.
+ */
+export function parallax(cam: { x: number; y: number; scale: number }, depth = 1) {
+  return {
+    tx: cam.x * depth,
+    ty: cam.y * depth,
+    scale: 1 + (cam.scale - 1) * depth,
   };
 }

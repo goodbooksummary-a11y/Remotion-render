@@ -253,8 +253,12 @@ export const Everyman: React.FC<{
           </g>
 
           {/* HEAD — its own group so build never distorts the face, and
-              headScale grows it from the neck up. */}
-          <g transform={`translate(0 ${pose.headY}) translate(200 262) scale(${headScale}) translate(-200 -262)`}>
+              headScale grows it from the neck up. `headX` shifts it toward a
+              look-at target; `headYaw` (default 1) scales it horizontally for a
+              ¾-turn illusion, wrapped around the head centre so it never moves
+              the neck. Both are no-ops at their defaults (4.0 look-at). */}
+          <g transform={`translate(${pose.headX ?? 0} ${pose.headY}) translate(200 262) scale(${headScale}) translate(-200 -262)`}>
+           <g transform={`translate(200 150) scale(${pose.headYaw ?? 1} 1) translate(-200 -150)`}>
             {/* a hood's drape belongs BEHIND the head — in front it is a mask */}
             <HeadwearBack style={variant.headwear ?? "none"} color={trim} accent={shirt} />
             <BackHair style={hairStyle} color={hair} />
@@ -330,6 +334,7 @@ export const Everyman: React.FC<{
 
             {/* headwear sits over hair and face alike — it IS the outline */}
             <Headwear style={variant.headwear ?? "none"} color={trim} accent={shirt} />
+           </g>
           </g>
 
           {front.map((o, i) => <path key={`of${i}`} d={o.d} fill={o.fill} opacity={o.opacity ?? 1} />)}

@@ -365,6 +365,20 @@ function roleIndex(cast) {
       concept: hasOwn(ART && ART[i], "concept") ? ART[i].concept : undefined,
     });
 
+    // ── EXPLANATORY DIAGRAM (4.0) ────────────────────────────────────────────
+    // Claude's authored `diagram` in the art file wins (a truthy value forces it,
+    // null forces it off); otherwise the director's conservative heuristic. A
+    // diagram is the whole beat: insert framing, no cast, no competing motif or
+    // callout — the diagram's own title carries the copy.
+    const diagram = hasOwn(ART && ART[i], "diagram") ? ART[i].diagram : (d.diagram || null);
+    if (diagram) {
+      d.shot = "insert";
+      d.cast = { ...d.cast, count: 0, crowd: 0 };
+      d.props = [];
+      d.concept = null;
+      texts.length = 0;
+    }
+
     // ── cast: roles, not looks. meta.cast resolves the face at render time ───
     const characters = [];
     // BUSINESS — what the lead does with their body this beat (hold an object,
@@ -374,10 +388,26 @@ function roleIndex(cast) {
     const business = d.cast.business || null;
     // A sustained beat is the SAME take: nobody re-enters and no pose replays.
     const continued = !!d.cast.continued;
+    // LOOK-AT (Antidote 4.0): give a beat's cast something to look AT, so two
+    // people in a shot face each other and a lone figure turns to the idea it is
+    // discussing instead of staring at the lens. Assigned from the shot's own
+    // intent; the renderer resolves it to a stage point (Scene.lookPointFor) and
+    // no-ops when the target is absent, so this can never break a beat.
+    const motifPresent = Array.isArray(d.props) && d.props.length > 0;
+    const lookAtFor = (c) => {
+      // dialogue / contrast shots → the two figures face each other
+      if (d.shot === "twoShot" || d.shot === "split" || d.shot === "overShoulder") return "partner";
+      // the figure stands with its subject → it looks at the icon
+      if ((d.shot === "illustration" || d.shot === "diorama") && motifPresent) return "motif";
+      // a presenter with a motif on screen turns to it (lead only)
+      if (motifPresent && c === 0 && (d.shot === "medium" || d.shot === "closeUp")) return "motif";
+      return undefined;
+    };
     for (let c = 0; c < d.cast.count; c++) {
       const role = castKeyFor(d.cast.roles[c] || "extra");
       const isSecond = c > 0;
       const lead = c === 0 && !isTitle && business;
+      const la = isTitle ? undefined : lookAtFor(c);
       characters.push({
         id: `c${i}-${c}`,
         rig: "everyman",
@@ -389,6 +419,7 @@ function roleIndex(cast) {
         ...(lead && business.holds ? { holds: business.holds } : {}),
         ...(lead && business.travel ? { travel: business.travel } : {}),
         ...(d.cast.crowd && c === 0 ? { crowd: d.cast.crowd } : {}),
+        ...(la ? { lookAt: la } : {}),
       });
     }
 
@@ -401,6 +432,7 @@ function roleIndex(cast) {
       _act: d.act, // where the color script places this beat; safe to delete
       ...(d.sustain ? { _take: "sustained" } : {}), // continues the previous shot; safe to delete
       ...(d.concept ? { concept: d.concept } : {}), // the beat's literal subject (icon)
+      ...(diagram ? { diagram } : {}), // explanatory graphic — the hero of the beat (4.0)
       shot: d.shot,
       transition: d.transition,
       bg: d.bg,
@@ -442,6 +474,15 @@ function roleIndex(cast) {
         "  object IN THE LEAD'S HAND, an outdoor beat can make them walk across the set, an indoor",
         "  one can sit them down. You do not author that here; naming the right `concept` is what",
         "  turns it on. A wrong concept costs more now than it used to.",
+        "`diagram`: an EXPLANATORY self-drawing graphic that BECOMES the whole beat (cast dropped,",
+        "  no callout). Author one ONLY on a genuinely conceptual beat; leave null otherwise — a weak",
+        "  or generic diagram is worse than none. Use at most a handful across the whole book. Shape:",
+        "  { type, title?, labels[], values[] }, where type is one of:",
+        "    sorter   — a taxonomy sorting into buckets. labels = the 2-4 category names; values = optional per-bucket counts.",
+        "    matchWave— two rhythms drifting then locking into sync. labels[0] = the payoff word (e.g. IN SYNC).",
+        "    flow     — a cause→effect chain. labels = 2-3 ordered node names.",
+        "    spectrum — a marker on a continuum. labels = [leftPole, rightPole]; values = [0..1 marker position].",
+        "  Keep labels 1-2 words. Best on the beat that first NAMES a framework, a sync, a process or a scale.",
         "Keep the array order and length. Then re-run plan-antidote with --callouts=<this file>.",
         "After re-running: node scripts/audit-antidote.js --slug=<slug> — it FAILS the plan if any",
         "  window runs longer than 8s with nothing happening on screen.",
@@ -451,6 +492,7 @@ function roleIndex(cast) {
         shot: sc.shot,
         beat: sc._beat,
         concept: sc.concept ?? null,
+        diagram: sc.diagram ?? null,
         narration: scenes[i].text,
         callout: sc.texts.length ? { text: sc.texts[sc.texts.length - 1].text, style: sc.texts[sc.texts.length - 1].style } : null,
       })),
@@ -492,7 +534,10 @@ function roleIndex(cast) {
   }
 
   const config = {
-    meta: { slug: SLUG, title: TITLE, author: AUTHOR, fps: FPS, width: 1920, height: 1080, ...(audio ? { audio } : {}), durationInFrames, thumbnail, cast: CAST_BIBLE },
+    // multiplane: Antidote 4.0 2.5D depth — cast/motifs/copy parallax against the
+    // camera by depth (Scene applies per-shot depth defaults). New plans opt in;
+    // configs written before 4.0 simply lack the flag and render flat, unchanged.
+    meta: { slug: SLUG, title: TITLE, author: AUTHOR, fps: FPS, width: 1920, height: 1080, ...(audio ? { audio } : {}), durationInFrames, multiplane: true, thumbnail, cast: CAST_BIBLE },
     scenes: sceneSpecs,
     captions,
   };

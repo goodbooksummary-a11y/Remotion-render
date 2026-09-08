@@ -4,6 +4,7 @@ import { VoxBook, voxBookSchema, VoxThumbnail, thumbnailSchema } from './engines
 import { AntidoteBook, antidoteBookSchema, AntidoteThumbnail, antidoteThumbPropsSchema } from './engines/antidote';
 import { ChapterCard } from './engines/antidote/components/ChapterCard';
 import { ANTIDOTE_LAB } from './engines/antidote/lab';
+import { ANTIDOTE_LAB4 } from './engines/antidote/lab4';
 import { CastSheet } from './engines/antidote/CastSheet';
 import { BOOKS, ANTIDOTE_BOOKS, BOOK_PALETTES, type Palette } from './books.generated';
 
@@ -125,6 +126,20 @@ export const RemotionRoot: React.FC = () => {
                 height={1080}
                 schema={antidoteBookSchema}
                 defaultProps={{ config: ANTIDOTE_LAB } as any}
+            />
+
+            {/* Antidote 4.0 Phase A — MULTIPLANE (2.5D depth parallax) + LOOK-AT
+                (characters orient toward each other / the motif). Same render
+                path; compare against Antidote-lab (flat). */}
+            <Composition
+                id="Antidote4-lab"
+                component={AntidoteBook}
+                durationInFrames={ANTIDOTE_LAB4.meta.durationInFrames}
+                fps={ANTIDOTE_LAB4.meta.fps}
+                width={1920}
+                height={1080}
+                schema={antidoteBookSchema}
+                defaultProps={{ config: ANTIDOTE_LAB4 } as any}
             />
 
             {/* What the parametric rig can look like — one rig, whole cast. */}

@@ -123,6 +123,20 @@ function detectConcept(text) {
 }
 const SCENE_ICON_SET = new Set(CONCEPT_LEXICON.map(([c]) => c));
 
+// ── EXPLANATORY DIAGRAM detector (4.0) ───────────────────────────────────────
+// A conservative HEURISTIC fallback. The high-quality path is Claude authoring a
+// `diagram` in the emit-beats handoff (labels need real understanding); this only
+// catches the one pattern whose diagram needs no authored labels — two rhythms
+// locking into sync — so a book art-directed without Claude still gets the
+// signature graphic on the beats that most call for it. A wrong diagram is worse
+// than none, so everything that needs specific labels declines here and defers.
+function detectDiagram(text) {
+  const t = String(text).toLowerCase();
+  if (/\b(in sync|synchron|entrain|neural align|align(?:ed|ing)? (?:their|our|the)|same (?:frequency|wavelength|rhythm)|lock(?:ed)? (?:in|into) (?:sync|phase|step)|match(?:ing|ed)? (?:their|the)? ?(?:frequency|rhythm|energy|intensity))\b/.test(t))
+    return { type: "matchWave", labels: ["IN SYNC"], values: [] };
+  return null;
+}
+
 // Icons that read as a place/event a figure can stand INSIDE — these use the
 // `diorama` shot (large environmental icon + a silhouette in front of it) instead
 // of the side-by-side `illustration`. The rest (an object held up, an emotion) stay
@@ -305,6 +319,7 @@ function createDirector({ palette, genre, slug }) {
     scenesSinceInterrupt: 0,
     lastConceptAt: {}, // concept -> scene index (per-icon cooldown)
     scenesSinceIllustration: 99,
+    lastDiagramAt: -99, // explanatory-diagram cooldown (4.0)
     // sustained-take bookkeeping
     sustainRun: 0, // how many beats the current take has already been extended by
     prev: null, // the previous beat's full decision, so a take can continue it
@@ -718,7 +733,18 @@ function arcFor(cls, motif) {
       state.scenesSinceIllustration += 1;
     }
 
-    const out = { shot, transition, bg, props, cast, camera, class: cls, act: field.act, concept: useIllustration ? concept : null, sustain: false };
+    // ── EXPLANATORY DIAGRAM (4.0) ────────────────────────────────────────────
+    // A heuristic diagram is a fallback; Claude's authored `diagram` (via the
+    // emit-beats handoff) wins in the planner. Gated by a cooldown so the graphic
+    // stays an event, never on a title/illustration/insert beat.
+    const heurDiagram =
+      !isTitle && !useIllustration && shot !== "insert" && shot !== "beforeAfter" &&
+      index - state.lastDiagramAt >= 10
+        ? detectDiagram(text)
+        : null;
+    if (heurDiagram) state.lastDiagramAt = index;
+
+    const out = { shot, transition, bg, props, cast, camera, class: cls, act: field.act, concept: useIllustration ? concept : null, sustain: false, diagram: heurDiagram };
     state.prev = { ...out, usedIllustration: useIllustration };
     return out;
   }
@@ -733,7 +759,7 @@ function arcFor(cls, motif) {
 }
 
 module.exports = {
-  createDirector, classify, detectConcept, lighten, darken,
+  createDirector, classify, detectConcept, detectDiagram, lighten, darken,
   SCENE_ICONS: CONCEPT_LEXICON.map(([c]) => c),
   CONCEPT_SET, CONCEPT_HOLD, FULL_BODY_SHOTS,
 };

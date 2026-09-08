@@ -261,6 +261,25 @@ export const characterSchema = z.object({
    *  `action: "walk"` and the figure actually crosses the set instead of
    *  marching on the spot. */
   travel: z.tuple([z.number(), z.number()]).optional(),
+  /**
+   * MULTIPLANE DEPTH (4.0). How far this figure sits from camera on the z axis:
+   * >1 = nearer (parallaxes more on a pan, zooms more), <1 = farther. Only read
+   * when `meta.multiplane` is on; otherwise every element is depth 1 (one flat
+   * plane) and the shot renders exactly as it did pre-4.0. Omit to let the shot
+   * decide (foreground/silhouette → near, subject → focal).
+   */
+  depth: z.number().optional(),
+  /**
+   * LOOK-AT (4.0). Where this character's gaze/head turns. `"partner"` = the
+   * other character in the shot, `"motif"` = the first prop, `"callout"` = the
+   * first kinetic text, `"camera"` = the viewer, or an explicit stage point.
+   * Overrides the pose's own wandering gaze. Omit → the character looks wherever
+   * its action looks, exactly as before.
+   */
+  lookAt: z.union([
+    z.enum(["partner", "motif", "callout", "camera", "ahead"]),
+    z.object({ x: z.number(), y: z.number() }),
+  ]).optional(),
 });
 export type CharacterSpec = z.infer<typeof characterSchema>;
 
@@ -311,6 +330,10 @@ export const propSchema = z.object({
    * Runs once over the scene, on top of the endless `ambient()` float.
    */
   arc: z.enum(["none", "grow", "shrink", "rise", "fall", "closein", "tilt"]).default("none"),
+  /** Multiplane depth (4.0) — see characterSchema.depth. Only read when
+   *  `meta.multiplane` is on; omit to let the shot decide (icon shots → focal,
+   *  decorative motifs → set back). */
+  depth: z.number().optional(),
 });
 export type PropSpec = z.infer<typeof propSchema>;
 export type PropArc = PropSpec["arc"];
@@ -341,6 +364,9 @@ export const textSchema = z.object({
   size: z.number().optional(),
   enter: enterAnim.default("pop"),
   at: z.number().default(0), // frames after the scene starts
+  /** Multiplane depth (4.0) — see characterSchema.depth. Only read when
+   *  `meta.multiplane` is on. Copy usually stays on the focal plane (1). */
+  depth: z.number().optional(),
 });
 export type TextSpec = z.infer<typeof textSchema>;
 
@@ -360,6 +386,30 @@ export const setName = z.enum([
 export type SetName = z.infer<typeof setName>;
 export const textureName = z.enum(["none", "grain", "dots", "rays", "grid", "paper"]);
 export type TextureName = z.infer<typeof textureName>;
+
+// ── EXPLANATORY DIAGRAMS (4.0) ───────────────────────────────────────────────
+// Self-drawing conceptual graphics — the reference-channel signature. A diagram
+// EXPLAINS a beat (a taxonomy, a sync, a cause→effect, a continuum) where a motif
+// only names it. Data-driven: `labels` name the buckets/nodes/poles, `values`
+// give optional magnitudes. Rendered on the focal plane, usually with cast dropped.
+export const diagramType = z.enum([
+  "sorter", // items route into N labelled buckets (classification / taxonomy)
+  "matchWave", // two rhythms drift, then lock into sync (matching / entrainment)
+  "flow", // cause → effect, a token travelling the chain (process)
+  "spectrum", // a marker on a continuum between two poles
+]);
+export type DiagramType = z.infer<typeof diagramType>;
+export const diagramSchema = z.object({
+  type: diagramType,
+  title: z.string().optional(),
+  labels: z.array(z.string()).default([]),
+  values: z.array(z.number()).default([]),
+  at: z.number().default(0), // frames after the scene starts
+  x: z.number().optional(),
+  y: z.number().optional(),
+  scale: z.number().default(1),
+});
+export type DiagramSpec = z.infer<typeof diagramSchema>;
 
 export const chapterCardSchema = z.object({
   category: z.string().default("CHAPTER"),
@@ -402,6 +452,8 @@ export const sceneSchema = z.object({
   concept: z.string().optional(),
   shot: shotName.default("medium"),
   chapterCard: chapterCardSchema.optional(),
+  /** An explanatory diagram (4.0) — the hero graphic of a conceptual beat. */
+  diagram: diagramSchema.optional(),
   transition: transitionSchema.default({ type: "cut", frames: 10 }),
   bg: bgSchema.default({ type: "flat", colors: ["#8FC0E8"], set: "none", texture: "none" }),
   camera: cameraSchema.default({ zoom: [1, 1], panX: [0, 0], panY: [0, 0] }),
@@ -449,6 +501,13 @@ export const antidoteConfigSchema = z.object({
     thumbnail: antidoteThumbnailSchema.optional(),
     /** The book's recurring cast; scenes reference these by role. */
     cast: castSchema.optional(),
+    /**
+     * MULTIPLANE (4.0). When true, the renderer parallaxes cast, motifs and copy
+     * against the camera by their per-element `depth` (2.5D diorama), instead of
+     * the single flat plane every pre-4.0 book uses. Opt-in per book so existing
+     * configs are byte-for-byte unchanged; the director sets it on new plans.
+     */
+    multiplane: z.boolean().optional(),
   }),
   scenes: z.array(sceneSchema),
   captions: z.array(captionSchema).default([]),
