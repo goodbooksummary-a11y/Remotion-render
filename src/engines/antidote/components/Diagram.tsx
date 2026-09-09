@@ -57,7 +57,7 @@ const Sorter: React.FC<ArchProps> = ({ spec, accent, ink, paper, frame, fps }) =
       {labels.map((lab, i) => {
         const x = 60 + i * (bw + gap);
         const enter = spring({ frame: frame - i * 6, fps, config: { damping: 15, stiffness: 120 } });
-        const dots = Math.max(1, Math.min(6, spec.values[i] ?? 3));
+        const dots = Math.max(1, Math.min(6, spec.values?.[i] ?? 3));
         return (
           <g key={i} opacity={enter} transform={`translate(0 ${(1 - enter) * 24})`}>
             {/* open-top container */}
@@ -162,7 +162,7 @@ const Flow: React.FC<ArchProps> = ({ spec, accent, ink, paper, frame, fps, durat
 const Spectrum: React.FC<ArchProps> = ({ spec, accent, ink, frame, fps }) => {
   const y = VH / 2;
   const x0 = 120, x1 = VW - 120;
-  const target = clamp01(spec.values[0] ?? 0.5);
+  const target = clamp01(spec.values?.[0] ?? 0.5);
   const p = spring({ frame: frame - 12, fps, config: { damping: 13, stiffness: 90 } });
   const mx = interpolate(p, [0, 1], [(x0 + x1) / 2, interpolate(target, [0, 1], [x0, x1])]);
   const show = spring({ frame, fps, config: { damping: 16 } });

@@ -440,6 +440,12 @@ export const cameraSchema = z.object({
   panY: numPair.default([0, 0] as [number, number]),
   // a quick push-in synced to a beat (usually the kinetic callout's `at` frame)
   punch: z.object({ at: z.number(), amount: z.number().default(0.06) }).optional(),
+  // LATE PULSES — extra beats-of-attention on content words spoken later in the
+  // scene, so a long scene does not fire everything up front and then hold a
+  // frozen frame. Antidote's equivalent of the Vox `anchors` tail (SKILL 9.3b).
+  // Frames are RELATIVE to the scene start, same as `punch.at`. Optional, so
+  // every pre-existing config renders exactly as before.
+  pulses: z.array(z.number()).optional(),
 });
 
 export const sceneSchema = z.object({

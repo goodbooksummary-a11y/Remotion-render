@@ -88,6 +88,16 @@ const emphasisWords = (text, n = 2) =>
 // video than the voice. The VTT already carries per-word frame timings, so the
 // fix is just to use them: find where the phrase is actually spoken and put the
 // type there, a few frames early so it is already on screen as the word arrives.
+// A non-quantity motif must be on screen within this many frames of the cut, so
+// a late word-anchored callout can never leave the scene opening frozen. 12 was
+// already what a SILENT scene used, so this just extends that same rule to the
+// scenes that do have a callout.
+const MOTIF_LATEST = 12;
+// Motifs that ARE a quantity: they animate their own value, so they keep leading
+// the callout instead of firing at the cut. (The directors own SELF_ANIMATING set
+// lists "lineChart", which is not a real propType - the actual one is
+// "lineGrowth", named here. That set governs ARCS and is left untouched.)
+const QUANTITY_MOTIFS = new Set(["counter", "barChart", "stack", "ladder", "clock", "lineGrowth"]);
 const LEAD = 4; // frames the callout leads the spoken word
 const MIN_HOLD = 40; // a callout must stay up at least this long, or it just flashes
 const normw = (w) => String(w).toLowerCase().replace(/[^a-z0-9']/g, "");
@@ -104,6 +114,60 @@ function anchorAt(scene, phrase, fallback, durationFrames) {
   if (frame < 0) return fallback;
   const latest = Math.max(0, durationFrames - MIN_HOLD);
   return Math.max(0, Math.min(frame - scene.from - LEAD, latest));
+}
+
+// ── LATE PULSES ─────────────────────────────────────────────────────────────
+// A scene fires its motif near the cut and its callout on the spoken word, and
+// then holds a frozen frame for whatever is left. On a-good-man-is-hard-to-find
+// that was 45 scenes leaving >8s of tail after their last event. `ambient()`
+// keeps the set breathing, but breathing is not a CHANGE — neither the dead-air
+// audit nor a viewer looking for something to happen can see it.
+//
+// So pad the scene with extra beats-of-attention on content words spoken later
+// in it, at roughly the rate the reference channels change something (~2s).
+// This is Antidote's equivalent of the Vox `anchors` tail (SKILL 9.3b); like
+// there, the Scene CAMERA consumes them as a small push-in.
+const PULSE_GAP = Math.round(2.2 * FPS); // a beat of attention roughly every 2s
+const PULSE_TAIL = Math.round(0.9 * FPS); // never pulse right before the cut
+
+/**
+ * pulseClock — fill EVERY gap in the scene, not just the tail.
+ *
+ * A first version only padded after the scene's last event, which fixed frozen
+ * TAILS and left frozen HEADS: a scene with no motif and a word-anchored callout
+ * 8-10s in still opened on a static frame, because the pulses all queued up
+ * behind the callout. So walk the scene's words once and drop a pulse wherever
+ * more than PULSE_GAP has passed since the last thing that happened — whether
+ * that was the cut, one of the scene's own events, or an earlier pulse.
+ *
+ * Frame 0 counts as an event: the scene opens on its `transition`, which sweeps
+ * the whole frame, so the head only needs filling once that has settled.
+ *
+ * The cap follows the scene LENGTH rather than being a constant — sustaining a
+ * ~2s rate across a 13s scene takes more than the 3 that suit an 8s one. Spacing
+ * is still enforced at PULSE_GAP, so a higher cap extends coverage and cannot
+ * bunch them up.
+ */
+function pulseClock(scene, ownEvents, durationFrames) {
+  if (!scene.words || !scene.words.length) return [];
+  const limit = durationFrames - PULSE_TAIL;
+  const max = Math.max(3, Math.ceil(durationFrames / PULSE_GAP));
+  const own = ownEvents.filter((n) => n != null).sort((a, b) => a - b);
+  const out = [];
+  let last = 0; // the cut/transition itself
+  let oi = 0;
+  for (const w of scene.words) {
+    const rel = w.s - scene.from; // words carry ABSOLUTE frames
+    if (rel > limit) break;
+    // anything the scene already does before this word resets the clock
+    while (oi < own.length && own[oi] <= rel) { last = Math.max(last, own[oi]); oi += 1; }
+    if (rel <= last + PULSE_GAP) continue;
+    if (normw(w.w).length < 4) continue; // land on a real word, not filler
+    out.push(rel);
+    last = rel;
+    if (out.length >= max) break;
+  }
+  return out;
 }
 
 // ── palette (book-specific, from book.json → drives bg + text + cast colors so
@@ -423,6 +487,41 @@ function roleIndex(cast) {
       });
     }
 
+    // Motif timing, hoisted so the pulse clock can see where the last event is.
+    // A motif illustrates the idea, so it should arrive with it. On the icon shots
+    // (insert / illustration / diorama / beforeAfter) the icon IS the shot, so keep
+    // the director's own `at` (0, or the beforeAfter stagger).
+    //
+    // Otherwise a metaphor motif leads the callout slightly - but only as far as
+    // MOTIF_LATEST. Callouts are word-anchored (anchorAt lands the type on the frame
+    // its phrase is actually spoken), so an authored callout quoting a phrase spoken
+    // late in its scene used to drag the motif late with it and the scene opened on
+    // a frozen frame. QUANTITY motifs are exempt and still lead the callout: they
+    // animate their own value, so firing one at the cut means a counter finishes
+    // counting before its number is spoken. The clamp is monotone - it can only move
+    // a motif EARLIER, never later.
+    const props = d.props.map((p) => ({
+      ...p,
+      at: ["insert", "illustration", "diorama", "beforeAfter"].includes(d.shot)
+        ? (p.at ?? 0)
+        : calloutAt != null
+          ? QUANTITY_MOTIFS.has(p.type)
+            ? Math.max(0, calloutAt - 8)
+            : Math.min(MOTIF_LATEST, Math.max(0, calloutAt - 8))
+          : MOTIF_LATEST,
+    }));
+
+    // The pulse clock is handed everything this scene already does, so it only
+    // fills the gaps between them — a scene that is already busy throughout gets
+    // no pulses at all.
+    const ownEvents = [
+      calloutAt,
+      d.camera && d.camera.punch ? d.camera.punch.at : null,
+      ...props.map((p) => p.at ?? 0),
+    ];
+    const pulses = pulseClock(s, ownEvents, durationFrames);
+    const cam = pulses.length ? { ...d.camera, pulses } : d.camera;
+
     return {
       id: isTitle ? "intro" : `scene-${String(i).padStart(2, "0")}`,
       fromFrame: s.from,
@@ -436,19 +535,9 @@ function roleIndex(cast) {
       shot: d.shot,
       transition: d.transition,
       bg: d.bg,
-      camera: d.camera,
+      camera: cam,
       characters,
-      // A motif illustrates the idea, so it should arrive with it. On the icon
-      // shots (insert / illustration / diorama / beforeAfter) the icon IS the shot,
-      // so keep the director's own `at` (0, or the beforeAfter stagger); otherwise
-      // a metaphor motif leads the callout slightly. Firing every motif at scene
-      // start meant a counter finished counting before the number was spoken.
-      props: d.props.map((p) => ({
-        ...p,
-        at: ["insert", "illustration", "diorama", "beforeAfter"].includes(d.shot)
-          ? (p.at ?? 0)
-          : calloutAt != null ? Math.max(0, calloutAt - 8) : 12,
-      })),
+      props,
       texts,
     };
   });

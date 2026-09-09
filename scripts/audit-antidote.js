@@ -92,6 +92,12 @@ function auditConfig(config, label) {
     (sc.props || []).forEach((p) => { push(from + (p.at || 0), `motif:${p.type}`, sc.id); own += 1; });
     (sc.texts || []).forEach((t) => { push(from + (t.at || 0), "callout", sc.id); own += 1; });
     if (sc.camera && sc.camera.punch) push(from + (sc.camera.punch.at || 0), "punch", sc.id);
+    // LATE PULSES — the camera push-ins that fill a long scene's tail. They are
+    // real on-screen changes, so they count; a scene that already runs events to
+    // its end is given none by the planner, so this cannot inflate a busy scene.
+    (sc.camera && sc.camera.pulses ? sc.camera.pulses : []).forEach((at) => {
+      push(from + (at || 0), "pulse", sc.id); own += 1;
+    });
     (sc.characters || []).forEach((c) => {
       if (c.action && business[c.action] !== undefined) business[c.action] += 1;
       if (c.holds) held += 1;

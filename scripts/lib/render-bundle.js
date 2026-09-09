@@ -151,7 +151,12 @@ function resolveFiles(slug) {
     else missing.push(s);
   }
 
-  return { files: [...files].sort(), missing, configRel: cfgRel };
+  // The bundle ships the RAW audio (above), so a config naming the mastered file
+  // would point at something that is not in the bundle. Report it, and let
+  // buildBundle() write a bundle-local config with the raw path.
+  const audioNeedsRaw =
+    !!cfg && !!cfg.meta && typeof cfg.meta.audio === "string" && /\.mastered\.m4a$/.test(cfg.meta.audio);
+  return { files: [...files].sort(), missing, configRel: cfgRel, audioNeedsRaw };
 }
 
 /** Total on-disk size of a path (file or directory), in bytes. */
@@ -179,7 +184,7 @@ function sizeOf(rel) {
  */
 function buildBundle({ slug, quiet = false } = {}) {
   if (!slug) throw new Error("buildBundle: slug gerekli.");
-  const { files, missing, configRel } = resolveFiles(slug);
+  const { files, missing, configRel, audioNeedsRaw } = resolveFiles(slug);
 
   if (missing.length) {
     const err = new Error(
@@ -200,6 +205,28 @@ function buildBundle({ slug, quiet = false } = {}) {
     git(["read-tree", "--empty"], { env });
     // pathspec-from-file avoids the Windows argv length limit (a book is ~120 paths).
     git(["add", "--pathspec-from-file=-"], { env, input: files.join("\n") });
+    // ── meta.audio must name the RAW file INSIDE the bundle ─────────────────
+    // *.mastered.m4a is gitignored, so it is never in the bundle; the runner
+    // re-masters from the raw file and repoints meta.audio itself (the
+    // "Master audio" step in render-video.yml). A config still naming the
+    // mastered file therefore pointed at nothing that shipped — and if
+    // mastering ever failed, the render produced a SILENT video that the
+    // post-render ffprobe check passed happily (it verifies duration and
+    // decode, not loudness).
+    //
+    // Doing it here rather than on disk means no agent has to remember it per
+    // book: the local config keeps the mastered path (what you want for Studio
+    // preview) and only the bundled copy is re-pointed.
+    if (audioNeedsRaw) {
+      const localCfg = JSON.parse(fs.readFileSync(path.join(ROOT, configRel), "utf8"));
+      localCfg.meta.audio = localCfg.meta.audio.replace(/\.mastered\.m4a$/, ".m4a");
+      const blob = git(["hash-object", "-w", "--stdin"], {
+        env,
+        input: JSON.stringify(localCfg, null, 2),
+      }).trim();
+      git(["update-index", "--add", "--cacheinfo", "100644," + blob + "," + configRel], { env });
+      if (!quiet) console.log("   meta.audio → " + localCfg.meta.audio + "  (bundle only; runner re-masters)");
+    }
     const tree = git(["write-tree"], { env }).trim();
     // No -p → PARENTLESS. This is what makes the push history-free.
     const sha = git(["commit-tree", tree, "-m", `render bundle: ${slug}`], { env }).trim();

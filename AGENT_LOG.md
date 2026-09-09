@@ -21,6 +21,7 @@ Conventions:
 |---|---|---|---|
 | worker-orchestrator | `scripts/render.js` (multi-worker REST dispatch), `render-accounts.json`, `.github/workflows/render-video.yml` | landed (local, unpushed commits up to b7a04c0) | pooled GitHub-Actions render across accounts; round-robin |
 | antidote-pipeline | download+cleanup half of the pool (`scripts/render-github-{download,cleanup}.js`, `scripts/lib/render-pool.js`), coordination log | landed | done; not pushed to origin (local commit on top of worker-orchestrator's b7a04c0) |
+| book-orchestrator | **ALL 8 GitHub render workers** — `a-good-man-is-hard-to-find`, 8-way split, dispatched 2026-09-09 | RENDERING | pool is BUSY; do not dispatch another render until this clears. Engine changes (motif clamp + `camera.pulses`) ride in the bundle uncommitted. |
 | _(none — Antidote 3.0 landed; see the 2026-09-07 changelog entry)_ | | | |
 
 _(clear your row when you stop; move the summary into the Changelog below.)_
@@ -28,6 +29,212 @@ _(clear your row when you stop; move the summary into the Changelog below.)_
 ---
 
 ## Changelog (newest first)
+
+### 2026-09-09 — book-orchestrator — the mastered-audio trap is gone (no per-book step any more)
+
+**READ THIS IF YOU EVER DISPATCH A GITHUB RENDER.** There was a way to ship a silent
+45-minute video and have every check pass. It is closed now, and nothing is left for you
+to remember per book.
+
+**The trap.** `*.mastered.m4a` is gitignored, so a render bundle only ever ships the RAW
+audio. `resolveFiles()` already resolved a mastered reference back to the raw file for the
+ASSET list — but the config went into the bundle from the working tree unchanged, so a
+`meta.audio` naming `.mastered.m4a` pointed at a file that was not there. The workflow's
+"Master audio" step was supposed to create it, but it ended in
+`|| echo "master-audio skipped"`, so a mastering failure was swallowed and the render
+carried on against a missing file. And `render-github-download.js` verifies duration and
+decode, **not loudness** — so a silent render passed verification.
+
+**Two fixes, so this cannot recur:**
+1. **`scripts/lib/render-bundle.js` re-points `meta.audio` in the BUNDLE only.** When the
+   config names the mastered file, `buildBundle()` writes a rewritten config blob
+   (`hash-object -w` + `update-index --cacheinfo`) into the bundle index at the config
+   path. The on-disk config is untouched, which is what you want — the local copy keeps
+   the mastered path for Studio preview, and only the bundled copy names the raw file the
+   runner will master. **So there is no longer a manual "flip meta.audio before
+   dispatching" step.**
+2. **`.github/workflows/render-video.yml`: mastering is no longer allowed to fail.** The
+   `|| echo "master-audio skipped"` is gone. Burning ~45 min of runner time on an
+   unusable master is far worse than stopping in the first minute.
+
+**Verified:** with the local config set to `.mastered.m4a`, `buildBundle()` prints
+`meta.audio → audio/<slug>.m4a (bundle only; runner re-masters)`; `git show <sha>:<config>`
+inside the bundle reads the raw path while the on-disk file still reads the mastered one,
+and the bundle ships `public/audio/<slug>.m4a`.
+
+**Note on the two books that carry `.mastered.m4a` in their committed configs**
+(`fruit-fly`, `all-the-bright-places`): they are already rendered and published on
+YouTube, so they need no fix — and with the bundle re-point they would render correctly
+anyway if they were ever re-run.
+
+### 2026-09-09 — book-orchestrator — FIX: `values` is documented optional but crashed the render (Diagram.tsx)
+
+`src/engines/antidote/components/Diagram.tsx` indexed `spec.values` BEFORE the nullish
+fallback, in both places that read it:
+- L60 `sorter`  — `spec.values[i] ?? 3`
+- L165 `spectrum` — `spec.values[0] ?? 0.5`
+
+The `??` was clearly meant to cover a missing `values`, and the schema + the authoring
+instructions in `plan-antidote.js` both document it as **optional** (`values[]` = "optional
+per-bucket counts"). But indexing happens first, so a `sorter` or `spectrum` authored
+without `values` throws **`TypeError: Cannot read properties of undefined (reading '0')`**.
+Fixed to `spec.values?.[i]` / `spec.values?.[0]`, so the documented default actually works.
+
+**How it surfaced:** it killed a GitHub split render. `a-good-man-is-hard-to-find` seg6
+failed all 3 chunk retries with that TypeError after 42 min; the other 7 segments were fine
+because the only `sorter` in the book (scene-197) sits in seg6's frame range, and the book's
+other diagram is a `flow`, which never reads `values`. Re-dispatched seg6 alone with the
+fixed bundle (`--seg=6 --force`), which force-pushes a freshly built bundle to that one
+isolated ref — the 4 already-finished segments were left as they were, since none of them
+renders a `sorter` or `spectrum`.
+
+**Verified** by rendering the exact frame that crashed (53478) locally: the sorter draws its
+two labelled buckets with the default 3 dots each.
+
+**Worth knowing for anyone authoring diagrams:** until this fix, `sorter` and `spectrum`
+required `values` in practice. Any book with such a diagram authored without it would have
+died mid-render, with the failure only visible ~40 min in and the orchestrator reporting
+`exit code 0`.
+
+### 2026-09-09 — book-orchestrator — Antidote art-direction override layer (set / cast / thumbnail)
+
+**The gap.** The director picks a scene's SET and CAST from the beat's **class**, and the
+classifier only ever sees one chunk of narration. The art file (`--callouts`) can carry
+`callout`, `concept` and `diagram` — but **not `bg` or cast**, so there is no way to
+correct a misread at plan time. Measured on `a-good-man-is-hard-to-find`:
+- **50 of 66** scenes with a concrete location got the wrong set, and **10** used sets the
+  book has no equivalent for (`classroom` ×7, `court` ×3).
+- `castRoles()` sends every `question`/`neutral`/`time`/`title` beat to the **narrator**, so
+  any STORY beat the classifier reads as neutral loses its characters. The climax of the
+  title story — the grandmother reaching out to touch her killer — rendered as **the
+  narrator alone in a classroom** (verified by a still).
+- `meta.thumbnail` scaffolds to `action:"celebrate"` + `motif:"risingBars"` +
+  `expression:"happy"` + `hook`=title: a cheering figure and a rising bar chart on a
+  collection about a family being murdered. Note the thumbnail reads **`config.meta.thumbnail`,
+  not `youtube-meta.json`** — hand-refining the YouTube pack alone changes nothing on the PNG.
+
+**New `scripts/apply-antidote-overrides.js`** — post-plan, per-book overrides from
+`books/<slug>/overrides.json`; the Antidote sibling of the Vox retrofit scripts
+(`apply-emphasis` / `fix-names` / `apply-phrases`). No planner change, so **no other book's
+output moves**.
+- `setRemap` — blanket replace of sets the book has no location for.
+- `rules[]` — `when` (case-insensitive regex on the scene's `_narration`), first match wins,
+  setting `set` / `cast[]` / `expression`. Cast rewriting keeps the director's rig and
+  animation and only re-assigns WHO is on screen, cloning the first entry when a rule needs
+  more bodies than were staged.
+- `thumbnail` — merged into `config.meta.thumbnail`, clearing `_needsClaudeRefine`.
+- Validates every set and role against the engine's own enums up front — a typo'd set
+  silently renders a blank backdrop, which is the kind of thing you only catch in a render.
+- Idempotent; `--dry` previews; exits 0 with a notice when the book has no `overrides.json`.
+- **Re-apply after any re-plan** — `plan-antidote` writes the config from scratch. The
+  script says so on every run.
+- **Result on this book:** 110 scenes matched → 85 sets + 101 casts corrected; `classroom`
+  and `court` gone; climax now `highway` with `protagonist+foil`. Verified by re-rendering
+  the same frame before/after.
+- **Files:** `scripts/apply-antidote-overrides.js` (NEW),
+  `books/a-good-man-is-hard-to-find/overrides.json`.
+
+**APPLIED — motif no longer chained to a late callout.** `plan-antidote.js` now clamps a
+NON-icon, NON-quantity motif to `MOTIF_LATEST = 12` frames (`at = min(12, max(0,
+calloutAt-8))`); quantity motifs (`counter barChart stack ladder clock lineGrowth`) still
+lead the callout, because they animate their own value and firing one at the cut means a
+counter finishes counting before its number is spoken — the original reason for the chain.
+The clamp is monotone: it can only move a motif EARLIER. 12 was already what a SILENT
+scene used, so this extends that same rule to scenes that DO have a callout.
+- **Verified:** 141 non-icon non-quantity motifs now at <=12, zero over. Scenes whose FIRST
+  event lands >1.5s after the cut: **73 -> 45**. No regression (worst gap and window count
+  unchanged, so nothing got later).
+- Note while here: the director’s `SELF_ANIMATING` set lists `"lineChart"`, which is **not a
+  real propType** (the actual one is `lineGrowth`) — so that entry is dead and `lineGrowth`
+  is currently NOT excluded from arcs. Left alone (it governs arcs, not timing); the timing
+  set in `plan-antidote.js` names `lineGrowth` correctly.
+
+**Then: LATE PULSES — the missing Antidote event source. Audit now PASSES.**
+The clamp alone did not move the audit, because it was never the binding constraint.
+Breaking the 62 windows down: **45 scenes** ran longer than 8s and left **>8s of tail**
+after their last event (fire everything up front, then hold a frozen frame), and the rest
+were scene-boundary gaps into a scene whose only event was a late word-anchored callout.
+`ambient()` keeps the set breathing but emits no discrete CHANGE, so neither the audit nor
+a viewer could see anything happen. Vox has solved this since SKILL 9.3b (`beatAnchors`
+pads a beat with late pulses ~2.2s apart, consumed by the Scene camera); Antidote had no
+equivalent. It does now.
+
+- **`plan-antidote.js` → `pulseClock(scene, ownEvents, durationFrames)`** walks the scene's
+  words once and drops a pulse wherever more than `PULSE_GAP` (2.2s) has passed since the
+  last thing that happened — the cut, one of the scene's own events, or an earlier pulse.
+  Frame 0 counts as an event (the scene opens on its `transition`, which sweeps the frame).
+  Guards: never inside the last 0.9s before the cut, and only on words of >=4 chars so a
+  pulse lands on a real word rather than filler.
+  - **It fills every gap, not just the tail.** A first version only padded after the last
+    event, which fixed frozen TAILS and left frozen HEADS — a scene with no motif and a
+    callout 8-10s in still opened static, because the pulses all queued behind the callout.
+    That version got the audit to 13 windows; filling heads too got it to 0.
+  - **The cap follows scene LENGTH**, `max(3, ceil(durationFrames / PULSE_GAP))`: sustaining
+    a ~2s rate across a 13s scene takes more than the 3 that suit an 8s one. Spacing is
+    still enforced at `PULSE_GAP`, so a higher cap only extends coverage — it cannot bunch.
+- **`camera.pulses?: number[]`** (frames relative to the scene start) added to
+  `cameraSchema` (`schema.ts`) and to the hand-written `CameraSpec` type (`movements.ts` —
+  that type is separate from the zod schema, so both need it or tsc fails).
+- **`camera()` in `movements.ts`** applies the same bump curve as `punch` at each pulse, at
+  `PULSE_AMOUNT = 0.035` vs the callout punch's 0.06 — a pulse says "still moving", the
+  punch says "this is the word".
+- **`audit-antidote.js`** counts `camera.pulses` as events. Not metric-gaming: the planner
+  gives a scene that already runs events to its end no pulses at all.
+
+**Measured on a-good-man-is-hard-to-find (274 scenes / 41.9 min):**
+
+| | before | after |
+|---|---|---|
+| visual events | 925 (22.1/min) | **1552 (37.1/min)** |
+| worst gap | 18.03s | **6.73s** |
+| windows over the 8s budget | 62 | **0 — PASS** |
+
+37.1/min is a change roughly every 1.6s, which is the reference-channel band SKILL 9.3b
+targets (1.5-2.5s). 627 pulses across 273 scenes, **zero** closer together than 2.2s and
+zero inside the pre-cut guard.
+
+**Backward compatible:** `pulses` is optional and the planner only writes it when non-empty,
+so an existing config has none — verified on `supercommunicators` (281 scenes, 0 pulses),
+which renders exactly as it did when it was rendered and verified on 2026-09-08. Only a
+re-plan adds pulses.
+
+**Left alone deliberately:** `audit-antidote.js` still does not count `sc.transition`, even
+though every scene opens on one and it sweeps the whole frame. 58 of the original 74
+cross-boundary windows had an uncounted transition inside them. Counting it would change
+what the metric MEANS, and the pulse clock made it unnecessary — the audit passes without
+inflating the number. Worth revisiting only if the budget is ever tightened below 8s.
+
+### 2026-09-09 — book-orchestrator — ASR name fixes moved BEFORE planning, and made engine-agnostic
+
+**The gap.** `fix-names.js` repairs ASR-garbled proper nouns AFTER planning and only for
+Vox — it hard-requires `config.vox.json`. So an **Antidote book had no name fix at all**,
+and `books/<slug>/names.json` was read by nothing else. `a-good-man-is-hard-to-find`
+arrived with 99 garbles across the VTT (`Flannry O' Conor` ×12, `Holga` ×18 for Hulga,
+`Shiflet` ×6 for Shiftlet, lowercase `misfit` ×51 for the character The Misfit) — all of
+which both planners copy verbatim into on-screen emphasis and captions.
+
+**New `scripts/fix-vtt-names.js`** — normalizes the **raw VTT** from the same
+`books/<slug>/names.json` map, so you plan from correct names and every downstream
+artifact (config, clean.vtt, chapters, meta, thumbnail) is right by construction instead
+of retrofitted. Engine-agnostic; no config needed.
+- **Multi-word keys merge across word-timing tags.** The ASR splits a name into separate
+  timed tokens (`O'</c><00:00:03.679><c> Conor's`); a key with a space matches either
+  plain whitespace *or* that tag sandwich and collapses it into one token
+  (`O'Connor's`), keeping the first token's timestamp. This is the part `fix-names.js`
+  could never do — it only ever saw already-joined config strings.
+- Same semantics otherwise: case-insensitive, word-boundary, longest key first (so
+  `"O' Conor"` wins before `"Conor"`), `_comment` ignored.
+- Backs up to `<slug>.vtt.orig.bak` on first run; `--dry` previews; **exits 0 with a
+  notice when the book has no `names.json`**, so it is safe to wire in unconditionally.
+- The map is still authored by hand per book (grep the VTT for that book's character and
+  author names first — see the `vox-asr-name-fix` rule).
+- **NOT yet wired into `make-book.js`** — run it manually between the VTT landing and
+  make-book. Wiring it as step 0.1 (before `plan-*`) is the obvious next move; left out
+  here to avoid touching shared pipeline mid-flight.
+- **Files:** `scripts/fix-vtt-names.js` (NEW), `books/a-good-man-is-hard-to-find/names.json`.
+- **Verified:** `--dry` then applied on `a-good-man-is-hard-to-find` → 99 replacements,
+  `Flannery O'Connor's` reads correctly as one token, zero residual garbles.
+- **`fix-names.js` is unchanged** and still valid for repairing an already-planned Vox book.
 
 ### 2026-09-08 — antidote-4 — #3 SHIPPED: explanatory diagram subsystem (engine)
 

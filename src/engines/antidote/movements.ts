@@ -287,7 +287,18 @@ export type CameraSpec = {
   panY: [number, number];
   /** A quick push-in on a beat — usually the frame the kinetic callout lands. */
   punch?: { at: number; amount: number };
+  /**
+   * Late pulses — frames (relative to the scene start) of extra beats-of-attention
+   * on words spoken later in the scene, so a long scene does not hold a frozen
+   * frame after its callout has landed. Antidote's equivalent of the Vox `anchors`
+   * tail. Optional, so every pre-existing config renders exactly as before.
+   */
+  pulses?: number[];
 };
+
+// A late pulse is a secondary event, so it pushes in less far than the callout
+// punch (default 0.06) — enough to register as a change, not enough to compete.
+const PULSE_AMOUNT = 0.035;
 
 export function camera(spec: CameraSpec, frame: number, durationFrames: number) {
   const e = interpolate(frame, [0, Math.max(1, durationFrames)], [0, 1], {
@@ -308,6 +319,19 @@ export function camera(spec: CameraSpec, frame: number, durationFrames: number) 
       });
       scale += bump;
     }
+  }
+  // The late pulses: the same bump shape, smaller, on words spoken later in the
+  // scene. `ambient()` keeps the set breathing but never CHANGES anything, so a
+  // long scene still read as a frozen frame once its callout had landed. These
+  // are deliberately weaker than the callout punch — a pulse says "still moving",
+  // the punch says "this is the word".
+  for (const at of spec.pulses ?? []) {
+    const d = frame - at;
+    if (d < 0 || d > 20) continue;
+    scale += interpolate(d, [0, 3, 20], [0, PULSE_AMOUNT, 0], {
+      extrapolateRight: "clamp",
+      easing: Easing.out(Easing.quad),
+    });
   }
   return {
     scale,
