@@ -24,6 +24,29 @@ if (!SLUG) {
   process.exit(1);
 }
 
+// ── refuse to masquerade one segment as the whole film ──────────────────────
+// This script pulls ONE worker's artifact. On a SPLIT render that is a single
+// segment, and it used to save it as out/<slug>.mp4 and print "DOĞRULANDI" —
+// a 5.3 min piece of a 41.9 min film, verified, under the final name. The
+// duration check only asks whether the file decodes at its head and tail; it
+// never compares against the render's expected length, so nothing caught it.
+const splitState = [
+  path.join(ROOT, `.render-github-split.${SLUG}.json`),
+  path.join(ROOT, ".render-github-split.json"),
+].find((p) => {
+  if (!fs.existsSync(p)) return false;
+  try { return JSON.parse(fs.readFileSync(p, "utf8")).slug === SLUG; } catch { return false; }
+});
+if (splitState && !args.segment) {
+  const st = JSON.parse(fs.readFileSync(splitState, "utf8"));
+  console.error(`❌ ${SLUG} BÖLÜNMÜŞ bir render (${(st.segments || []).length} segment, ${path.basename(splitState)}).`);
+  console.error("   Bu script tek worker'dan tek artifact indirir — yani filmin sadece bir parçasını.");
+  console.error("   Tümünü indirip kare sırasına göre birleştirmek için:");
+  console.error(`     node scripts/render-github-assemble.js --slug=${SLUG}`);
+  console.error("   (Tek bir segmenti bilerek incelemek istiyorsan: --segment ekle.)");
+  process.exit(1);
+}
+
 const acc = loadAccounts();
 const worker = resolveWorker(acc, args.worker);
 const repo = repoOf(worker);
@@ -87,7 +110,7 @@ if (ok) {
   const postScript = path.join(ROOT, "scripts", "post-render.js");
   if (fs.existsSync(postScript)) {
     const { spawnSync } = require("child_process");
-    spawnSync("node", [postScript, `--slug=${SLUG}`], { cwd: ROOT, stdio: "inherit" });
+    spawnSync("node", [postScript, `--slug=${SLUG}`], { cwd: ROOT, stdio: process.stdout.isTTY ? "inherit" : "pipe" });
   }
   console.log(`✅ Sorunsuzsa ONAYLA ve o repoyu temizle (kota boşalt, sıradaki render'a hazırla):`);
   console.log(`   node scripts/render-github-cleanup.js --slug=${SLUG}`);

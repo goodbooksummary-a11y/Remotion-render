@@ -21,7 +21,6 @@ Conventions:
 |---|---|---|---|
 | worker-orchestrator | `scripts/render.js` (multi-worker REST dispatch), `render-accounts.json`, `.github/workflows/render-video.yml` | landed (local, unpushed commits up to b7a04c0) | pooled GitHub-Actions render across accounts; round-robin |
 | antidote-pipeline | download+cleanup half of the pool (`scripts/render-github-{download,cleanup}.js`, `scripts/lib/render-pool.js`), coordination log | landed | done; not pushed to origin (local commit on top of worker-orchestrator's b7a04c0) |
-| book-orchestrator | **ALL 8 GitHub render workers** — `a-good-man-is-hard-to-find`, 8-way split, dispatched 2026-09-09 | RENDERING | pool is BUSY; do not dispatch another render until this clears. Engine changes (motif clamp + `camera.pulses`) ride in the bundle uncommitted. |
 | _(none — Antidote 3.0 landed; see the 2026-09-07 changelog entry)_ | | | |
 
 _(clear your row when you stop; move the summary into the Changelog below.)_
@@ -29,6 +28,31 @@ _(clear your row when you stop; move the summary into the Changelog below.)_
 ---
 
 ## Changelog (newest first)
+
+### 2026-09-09 — book-orchestrator — GUARD: download-vs-assemble on a split render
+
+`render-github-download.js` pulls ONE worker's artifact. On a SPLIT render that is a
+single segment — and it saved it as **`out/<slug>.mp4`** and printed **"✓ DOĞRULANDI"**.
+I hit this on `a-good-man-is-hard-to-find`: a 131 MB / **5.3 min** file under the final
+name for a **41.9 min** film (41.9 / 8 segments = 5.24), reported as verified. The
+verification only decode-checks the head and tail of whatever it downloaded; it never
+compares against the render's expected length, so nothing flagged it.
+
+CLAUDE.md lists `render-github-download.js` as the post-render step, which is right for a
+single-piece render and wrong for a split one — the correct script is
+`render-github-assemble.js`, which pulls every segment, verifies each, concatenates in
+frame order and decode-verifies the result.
+
+**Guard added:** `render-github-download.js` now refuses when a split-state file
+(`.render-github-split.<slug>.json`, or the shared one carrying that slug) exists,
+naming the segment count and pointing at `render-github-assemble.js`. `--segment`
+overrides it for deliberately inspecting one piece.
+
+**Also worth knowing:** `render.js` wrote the split state to the SHARED
+`.render-github-split.json` this run, not the per-slug file the assemble script prefers.
+Another agent dispatching a render would have overwritten it and stranded this one. I
+copied it to `.render-github-split.<slug>.json` before assembling; having `render.js`
+always write the per-slug name would remove the race.
 
 ### 2026-09-09 — book-orchestrator — the mastered-audio trap is gone (no per-book step any more)
 
