@@ -1,0 +1,4562 @@
+WEBVTT
+
+1
+00:00:00.067 --> 00:00:02.400
+The driver in Sievo takes one wrong turn on
+
+2
+00:00:02.400 --> 00:00:05.267
+a sunny morning, stalls the car outside a sandwich
+
+3
+00:00:05.267 --> 00:00:08.400
+shop, and 20 million people die in World War
+
+4
+00:00:08.400 --> 00:00:11.433
+I. What if your entire life isn't
+
+5
+00:00:11.433 --> 00:00:14.333
+a neat story of merit and planning, but an
+
+6
+00:00:14.333 --> 00:00:17.367
+unbroken chain of I mean, it really is the
+
+7
+00:00:17.367 --> 00:00:20.967
+ultimate, terrifying, but also kind of beautiful question,
+
+8
+00:00:20.967 --> 00:00:23.767
+right? Because we spend our days structuring our lives,
+
+9
+00:00:23.767 --> 00:00:26.633
+you know, our careers and our global institutions around
+
+10
+00:00:26.633 --> 00:00:30.000
+this incredibly comforting that effort linearly
+
+11
+00:00:30.000 --> 00:00:32.967
+dictates outcome. Exactly. We want to believe that if
+
+12
+00:00:32.967 --> 00:00:35.033
+you put X in, you get Y out.
+
+13
+00:00:35.033 --> 00:00:36.800
+But the reality is that we exist in a
+
+14
+00:00:36.800 --> 00:00:39.933
+highly sensitive, deeply coupled, chaotic system where
+
+15
+00:00:39.933 --> 00:00:43.200
+microscopic, entirely arbitrary accidents literally
+
+16
+00:00:43.200 --> 00:00:44.467
+dictate the course of history.
+
+17
+00:00:44.467 --> 00:00:45.667
+They completely dictate it.
+
+18
+00:00:45.667 --> 00:00:47.933
+Yeah. So, welcome to this deep dive.
+
+19
+00:00:47.933 --> 00:00:49.533
+Today we are taking you on a journey through
+
+20
+00:00:49.533 --> 00:00:52.867
+the ideas in Brian Claus's book, Fluke: Chance,
+
+21
+00:00:52.867 --> 00:00:55.533
+Chaos, and Why Everything We Do And it is
+
+22
+00:00:55.533 --> 00:00:56.800
+such a wild book.
+
+23
+00:00:56.800 --> 00:00:59.033
+It really is. The mission for this deep dive
+
+24
+00:00:59.033 --> 00:01:00.867
+is basically to shatter the way you look at
+
+25
+00:01:00.867 --> 00:01:03.133
+cause and effect. We are analyzing what you could
+
+26
+00:01:03.133 --> 00:01:06.333
+call the tyranny of linear causality, right?
+
+27
+00:01:06.333 --> 00:01:10.733
+We're going to explore chaos theory, contingency, and
+
+28
+00:01:10.733 --> 00:01:13.833
+uh why hyperoptimizing your life might actually
+
+29
+00:01:13.833 --> 00:01:15.767
+be engineering your own fragility.
+
+30
+00:01:15.767 --> 00:01:18.967
+Crucially, we want to establish why recognizing
+
+31
+00:01:18.967 --> 00:01:22.067
+this contingency, this randomness doesn't strip you
+
+32
+00:01:22.067 --> 00:01:25.367
+of your Yeah. It actually proves that every single
+
+33
+00:01:25.367 --> 00:01:28.567
+ordinary action you take matters So,
+
+34
+00:01:28.567 --> 00:01:31.133
+I want you, the listener, to drop into a
+
+35
+00:01:31.133 --> 00:01:32.800
+scenario for a second.
+
+36
+00:01:32.800 --> 00:01:35.833
+Put yourself in this sensory present tense
+
+37
+00:01:35.833 --> 00:01:36.800
+Okay, set the scene.
+
+38
+00:01:36.800 --> 00:01:38.400
+You are lying in bed.
+
+39
+00:01:38.400 --> 00:01:40.633
+The room is dark and your alarm goes off.
+
+40
+00:01:40.633 --> 00:01:42.633
+You reach over and you hit the snooze button.
+
+41
+00:01:42.633 --> 00:01:43.767
+We all do it, right?
+
+42
+00:01:43.767 --> 00:01:46.633
+You're buying yourself exactly five more minutes of sleep
+
+43
+00:01:46.633 --> 00:01:48.733
+and in the moment it feels like the most
+
+44
+00:01:48.733 --> 00:01:50.733
+meaningless micro choice in the world.
+
+45
+00:01:50.733 --> 00:01:53.133
+Just five minutes. But what if those five minutes
+
+46
+00:01:53.133 --> 00:01:55.433
+completely rewire the rest of your life?
+
+47
+00:01:55.433 --> 00:01:57.433
+What if hitting snooze means you walk out your
+
+48
+00:01:57.433 --> 00:02:00.067
+front door 5 minutes later you miss a specific
+
+49
+00:02:00.067 --> 00:02:02.567
+subway train and you don't bump into that stranger?
+
+50
+00:02:02.567 --> 00:02:04.633
+Exactly. A stranger who is supposed to become your
+
+51
+00:02:04.633 --> 00:02:07.667
+business partner and an entire company is just never
+
+52
+00:02:07.667 --> 00:02:10.400
+founded. All because of a snooze button.
+
+53
+00:02:10.400 --> 00:02:13.533
+That scenario is the perfect entry point really because
+
+54
+00:02:13.533 --> 00:02:16.567
+it introduces the fundamental engine of complex
+
+55
+00:02:16.567 --> 00:02:20.333
+systems which is sensitive dependence on initial
+
+56
+00:02:20.333 --> 00:02:23.933
+Sensitive dependence. Yeah. We have this psychological
+
+57
+00:02:23.933 --> 00:02:27.033
+intuition that small actions just kind of
+
+58
+00:02:27.033 --> 00:02:28.400
+wash out over time.
+
+59
+00:02:28.400 --> 00:02:30.233
+Like we act as if the universe is a
+
+60
+00:02:30.233 --> 00:02:31.767
+giant shock absorber, right?
+
+61
+00:02:31.767 --> 00:02:34.167
+Designed to dampen our little errors and keep us
+
+62
+00:02:34.167 --> 00:02:36.967
+on some predetermined Exactly.
+
+63
+00:02:36.967 --> 00:02:40.167
+But mathematically in a complex system,
+
+64
+00:02:40.167 --> 00:02:44.233
+tiny fluctuations don't dampen, they compound, they cascade.
+
+65
+00:02:44.233 --> 00:02:46.333
+And to really understand the mechanics of this, we
+
+66
+00:02:46.333 --> 00:02:49.600
+have to look back at 1961 and this meteorologist
+
+67
+00:02:49.600 --> 00:02:51.433
+and mathematician named Edward Loren.
+
+68
+00:02:51.433 --> 00:02:53.133
+Loren is such a fascinating figure.
+
+69
+00:02:53.133 --> 00:02:54.733
+He really is. He was trying to predict the
+
+70
+00:02:54.733 --> 00:02:57.133
+weather. And you have to picture this setup.
+
+71
+00:02:57.133 --> 00:02:59.600
+He's using an LGP30 computer.
+
+72
+00:02:59.600 --> 00:03:01.267
+Oh man, those old machines.
+
+73
+00:03:01.267 --> 00:03:02.800
+Yeah. This isn't a sleek laptop.
+
+74
+00:03:02.800 --> 00:03:06.067
+It's a massive clunky vacuum tube desk computer
+
+75
+00:03:06.067 --> 00:03:09.200
+that literally sounded like a washing just grinding away,
+
+76
+00:03:09.200 --> 00:03:12.000
+right? And he was running a simplified mathematical model
+
+77
+00:03:12.000 --> 00:03:15.033
+of the atmosphere using just 12 equations.
+
+78
+00:03:15.033 --> 00:03:18.633
+He was essentially building a miniature digital universe
+
+79
+00:03:18.633 --> 00:03:21.833
+in this machine. He was mapping convection.
+
+80
+00:03:21.833 --> 00:03:24.233
+So you know how heat rises and falls in
+
+81
+00:03:24.233 --> 00:03:27.433
+fluid dynamics. And he knew the exact mathematical
+
+82
+00:03:27.433 --> 00:03:30.867
+measurements of every single variable in his model.
+
+83
+00:03:30.867 --> 00:03:32.800
+He did. Now, one day he wanted to examine
+
+84
+00:03:32.800 --> 00:03:34.733
+a specific sequence longer.
+
+85
+00:03:34.733 --> 00:03:37.667
+So, to save time, rather than starting the simulation
+
+86
+00:03:37.667 --> 00:03:39.533
+from the very beginning, which would take forever on
+
+87
+00:03:39.533 --> 00:03:42.633
+a 1961 Exactly. He decided
+
+88
+00:03:42.633 --> 00:03:44.400
+to restart it from the middle.
+
+89
+00:03:44.400 --> 00:03:46.867
+He looked at a previous printout, took the numbers
+
+90
+00:03:46.867 --> 00:03:49.133
+for wind speed and temperature from halfway through the
+
+91
+00:03:49.133 --> 00:03:51.433
+run, and type them back into the machine.
+
+92
+00:03:51.433 --> 00:03:53.367
+Which, I mean, that makes complete sense.
+
+93
+00:03:53.367 --> 00:03:55.200
+If I have a mathematical formula and I put
+
+94
+00:03:55.200 --> 00:03:57.433
+the exact same variables in, I should get the
+
+95
+00:03:57.433 --> 00:04:00.233
+exact same output. It's basic determinism, right?
+
+96
+00:04:00.233 --> 00:04:01.533
+But that is not what happened.
+
+97
+00:04:01.533 --> 00:04:04.400
+The weather that emerged in his rerun simulation began
+
+98
+00:04:04.400 --> 00:04:07.767
+to diverge slowly and then radically from the original
+
+99
+00:04:07.767 --> 00:04:09.600
+run. Like how radically?
+
+100
+00:04:09.600 --> 00:04:12.067
+We are talking about the difference between a clear
+
+101
+00:04:12.067 --> 00:04:15.933
+blue sky and a torrential hurricane within his digital
+
+102
+00:04:15.933 --> 00:04:18.167
+That's insane. So what went wrong?
+
+103
+00:04:18.167 --> 00:04:21.133
+Well, Lawrence thought the vacuum tubes had blown, but
+
+104
+00:04:21.133 --> 00:04:23.600
+then he realized what he had actually done.
+
+105
+00:04:23.600 --> 00:04:27.267
+His computer calculated out to six decimal places,
+
+106
+00:04:27.267 --> 00:04:29.767
+but to save space on the physical paper, the
+
+107
+00:04:29.767 --> 00:04:31.200
+printer only printed out three.
+
+108
+00:04:31.200 --> 00:04:33.767
+Oh wow. So instead of entering the exact wind
+
+109
+00:04:33.767 --> 00:04:37.667
+speed of 0506127, he typed in 0506.
+
+110
+00:04:37.667 --> 00:04:39.133
+Yeah, he truncated the data.
+
+111
+00:04:39.133 --> 00:04:43.033
+He left off 0.0000127, a
+
+112
+00:04:43.033 --> 00:04:44.333
+millionth of a degree.
+
+113
+00:04:44.333 --> 00:04:46.733
+A completely meaningless truncation, you would think.
+
+114
+00:04:46.733 --> 00:04:49.600
+You would think, but because of how the atmospheric
+
+115
+00:04:49.600 --> 00:04:52.567
+equations fed back into themselves, where the output of
+
+116
+00:04:52.567 --> 00:04:55.600
+one equation instantly becomes the input for the next,
+
+117
+00:04:55.600 --> 00:04:59.600
+that infantessimal difference compounded Exactly.
+
+118
+00:04:59.600 --> 00:05:02.467
+Loren had inadvertently mapped deterministic chaos.
+
+119
+00:05:02.467 --> 00:05:05.200
+He proved that in nonlinear systems, if your initial
+
+120
+00:05:05.200 --> 00:05:07.200
+measurements are off by even a fraction of a
+
+121
+00:05:07.200 --> 00:05:10.633
+fraction, your long-term predictions will eventually become wildly
+
+122
+00:05:10.633 --> 00:05:13.300
+wrong. And this is basically the mathematical birth of
+
+123
+00:05:13.310 --> 00:05:14.800
+the butterfly effect. It is.
+
+124
+00:05:14.800 --> 00:05:17.433
+A butterfly flapping its wings in Brazil can set
+
+125
+00:05:17.433 --> 00:05:19.200
+off a tornado in Texas.
+
+126
+00:05:19.200 --> 00:05:21.267
+But this didn't just change meteorology.
+
+127
+00:05:21.267 --> 00:05:25.033
+It completely dismantled this centuries old scientific philosophy.
+
+128
+00:05:25.033 --> 00:05:27.267
+It destroyed Lel's demon.
+
+129
+00:05:27.267 --> 00:05:29.667
+Yes. Pierre Simon Lelass.
+
+130
+00:05:29.667 --> 00:05:32.467
+He was an 18th century scholar who championed the
+
+131
+00:05:32.467 --> 00:05:36.167
+clockwork universe. The idea that everything is just gears
+
+132
+00:05:36.167 --> 00:05:39.133
+right? He argued that if there were a theoretical
+
+133
+00:05:39.133 --> 00:05:42.167
+demon, like a super intellect, that knew the
+
+134
+00:05:42.167 --> 00:05:45.533
+precise location, mass, and momentum of every
+
+135
+00:05:45.533 --> 00:05:48.400
+single atom in the universe and understood all the
+
+136
+00:05:48.400 --> 00:05:51.367
+forces acting on Yeah, this demon could calculate the
+
+137
+00:05:51.367 --> 00:05:54.567
+future flawlessly. By plugging everything into
+
+138
+00:05:54.567 --> 00:05:57.667
+a master equation, the future, just like the past,
+
+139
+00:05:57.667 --> 00:05:59.367
+would be perfectly visible.
+
+140
+00:05:59.367 --> 00:06:02.733
+But Loren proved that Lelass's demon is a mathematical
+
+141
+00:06:02.733 --> 00:06:04.867
+impossibility for any complex system.
+
+142
+00:06:04.867 --> 00:06:06.733
+He proved it was a complete fantasy.
+
+143
+00:06:06.733 --> 00:06:08.733
+Okay, wait. I'm getting stuck on this being an
+
+144
+00:06:08.733 --> 00:06:11.667
+absolute impossibility. Oh, so I mean, Loren was using
+
+145
+00:06:11.667 --> 00:06:14.567
+a computer from 1961 that couldn't even hold a
+
+146
+00:06:14.567 --> 00:06:17.933
+megabyte of data. If we build massive
+
+147
+00:06:17.933 --> 00:06:21.433
+quantum computers and we deploy billions of atmospheric
+
+148
+00:06:21.433 --> 00:06:24.800
+sensors and we'd literally measure down to the atom,
+
+149
+00:06:24.800 --> 00:06:27.767
+can't we eventually predict the weather You're thinking it's
+
+150
+00:06:27.767 --> 00:06:30.567
+a hardware right? Isn't it just that our computers
+
+151
+00:06:30.567 --> 00:06:31.600
+aren't good enough yet?
+
+152
+00:06:31.600 --> 00:06:33.667
+No, it is not a hardware limitation.
+
+153
+00:06:33.667 --> 00:06:36.367
+It is an irreducible property of reality.
+
+154
+00:06:37.533 --> 00:06:39.833
+Let's step away from global weather and take something
+
+155
+00:06:39.833 --> 00:06:43.667
+seemingly much simpler. A game of billiards.
+
+156
+00:06:43.667 --> 00:06:46.000
+Okay. Pool table. If I ask you to calculate
+
+157
+00:06:46.000 --> 00:06:48.567
+exactly where a billiard ball will be after I
+
+158
+00:06:48.567 --> 00:06:51.767
+strike it, you can use basic Newtonian physics
+
+159
+00:06:51.767 --> 00:06:53.133
+to map the first bounce.
+
+160
+00:06:53.133 --> 00:06:56.233
+Sure. Angle of incidence equals angle of Maybe the
+
+161
+00:06:56.233 --> 00:06:59.200
+second bounce, too. But chaos theory tells us that
+
+162
+00:06:59.200 --> 00:07:01.367
+by the time you try to calculate the ninth
+
+163
+00:07:01.367 --> 00:07:03.667
+or tenth bounce off the other balls and the
+
+164
+00:07:03.667 --> 00:07:07.433
+cushions, the trajectory becomes entirely Wait,
+
+165
+00:07:07.433 --> 00:07:10.800
+why? Because of microscopic imperfections on the table.
+
+166
+00:07:10.800 --> 00:07:14.067
+More than that, to accurately calculate that ninth
+
+167
+00:07:14.067 --> 00:07:17.200
+bounce, your mathematical model literally has to
+
+168
+00:07:17.200 --> 00:07:20.000
+account for the gravitational pull of the human body
+
+169
+00:07:20.000 --> 00:07:21.533
+standing near the billard table.
+
+170
+00:07:21.533 --> 00:07:23.367
+Are you serious? I'm completely serious.
+
+171
+00:07:23.367 --> 00:07:25.367
+If someone shifts their weight from their left foot
+
+172
+00:07:25.367 --> 00:07:28.733
+to their right foot, that micro gravitational shift
+
+173
+00:07:28.733 --> 00:07:31.833
+alters the trajectory of the ball just enough that
+
+174
+00:07:31.833 --> 00:07:35.033
+after compounding through multiple it completely changes
+
+175
+00:07:35.033 --> 00:07:37.600
+the outcome of the It completely changes it.
+
+176
+00:07:37.600 --> 00:07:40.400
+That fundamentally breaks how we view reality.
+
+177
+00:07:40.400 --> 00:07:42.967
+You're saying the gravity of a bystander shifting their
+
+178
+00:07:42.967 --> 00:07:45.833
+weight alters a physical collision on a table.
+
+179
+00:07:45.833 --> 00:07:48.800
+Exactly. And if you scale that up to global
+
+180
+00:07:48.800 --> 00:07:52.067
+events, it means that confidence in a perfectly predictable
+
+181
+00:07:52.067 --> 00:07:55.133
+future is a biological delusion.
+
+182
+00:07:55.133 --> 00:07:58.067
+We live in a universe where the tiniest fluctuations
+
+183
+00:07:58.067 --> 00:08:00.067
+rewrite the macro reality.
+
+184
+00:08:00.067 --> 00:08:03.267
+Wow. A tiny fluke doesn't just change the score,
+
+185
+00:08:03.267 --> 00:08:05.200
+it rewrites the entire game.
+
+186
+00:08:05.200 --> 00:08:08.167
+That's exactly it. So if human history and physical
+
+187
+00:08:08.167 --> 00:08:11.433
+reality are entirely hijacked by passing anomalies,
+
+188
+00:08:11.433 --> 00:08:13.600
+we really have to ask how this applies to
+
+189
+00:08:13.600 --> 00:08:15.200
+the things we think we control.
+
+190
+00:08:15.200 --> 00:08:18.233
+Things like corporate strategy or military planning.
+
+191
+00:08:18.233 --> 00:08:21.367
+Yes. You spend months, maybe years, crafting a
+
+192
+00:08:21.367 --> 00:08:24.567
+flawless strategic plan. You optimize every single variable
+
+193
+00:08:24.567 --> 00:08:26.567
+you can control. You run the risk assessments.
+
+194
+00:08:26.567 --> 00:08:27.433
+You get board approval.
+
+195
+00:08:27.433 --> 00:08:28.633
+They'll feel totally in control.
+
+196
+00:08:28.633 --> 00:08:31.133
+And then out of nowhere, a freak server outage
+
+197
+00:08:31.133 --> 00:08:33.833
+on Zoom or a chance meeting in an elevator
+
+198
+00:08:33.833 --> 00:08:36.967
+between two junior employees completely derails
+
+199
+00:08:36.967 --> 00:08:40.000
+the entire We cling to this belief that history
+
+200
+00:08:40.000 --> 00:08:43.667
+and society are guided by cold rational We
+
+201
+00:08:43.667 --> 00:08:46.800
+really do. We read biographies of CEOs and
+
+202
+00:08:46.800 --> 00:08:50.233
+generals and we retroactively apply lessian
+
+203
+00:08:50.233 --> 00:08:52.467
+determinism to their Right?
+
+204
+00:08:52.467 --> 00:08:54.567
+We want to believe that the people in charge
+
+205
+00:08:54.567 --> 00:08:58.000
+are making decisions based on meticulous foolproof
+
+206
+00:08:58.000 --> 00:09:01.133
+logic. But the reality is that geopolitical
+
+207
+00:09:01.133 --> 00:09:04.400
+destiny often hangs on things as random as
+
+208
+00:09:04.400 --> 00:09:06.867
+holiday nostalgia and passing weather.
+
+209
+00:09:06.867 --> 00:09:08.633
+And the book illustrates this with one of the
+
+210
+00:09:08.633 --> 00:09:11.833
+most sobering moments in history, the atomic bombings
+
+211
+00:09:11.833 --> 00:09:14.400
+in 1945. It's a haunting example.
+
+212
+00:09:14.400 --> 00:09:17.433
+The United States has successfully tested the weapon.
+
+213
+00:09:17.433 --> 00:09:20.633
+They form a highly structured target committee to decide
+
+214
+00:09:20.633 --> 00:09:23.267
+which Japanese city is going to be And this
+
+215
+00:09:23.267 --> 00:09:25.200
+committee isn't just throwing darts at a map.
+
+216
+00:09:25.200 --> 00:09:27.667
+They have rigorous mathematical criteria.
+
+217
+00:09:27.667 --> 00:09:29.433
+And at the very top of that list, the
+
+218
+00:09:29.433 --> 00:09:31.433
+absolute prime target is Kyoto.
+
+219
+00:09:31.433 --> 00:09:34.800
+Kyoto made perfect strategic sense to the military apparatus.
+
+220
+00:09:34.800 --> 00:09:37.667
+Why Kyoto specifically? Well, it was home to major
+
+221
+00:09:37.667 --> 00:09:40.400
+wartime factories producing aircraft engines.
+
+222
+00:09:40.400 --> 00:09:42.967
+It was an intellectual hub with a highly educated
+
+223
+00:09:42.967 --> 00:09:46.000
+population at Kyoto University, meaning the survivors
+
+224
+00:09:46.000 --> 00:09:49.433
+would fully comprehend the scientific leap of the
+
+225
+00:09:49.433 --> 00:09:52.567
+Exactly. Furthermore, Kyoto sat in a basin, meaning
+
+226
+00:09:52.567 --> 00:09:56.333
+the surrounding mountains would reflect the blast wave inward,
+
+227
+00:09:56.333 --> 00:09:58.400
+maximizing the destructive yield.
+
+228
+00:09:58.400 --> 00:10:00.233
+So, the committee was unanimous.
+
+229
+00:10:00.233 --> 00:10:03.267
+By every metric of military logic, Kyoto
+
+230
+00:10:03.267 --> 00:10:04.800
+must be the primary target.
+
+231
+00:10:04.800 --> 00:10:07.033
+Kyoto wasn't bombed, right?
+
+232
+00:10:07.033 --> 00:10:09.833
+And the mechanism of why it was spared is
+
+233
+00:10:09.833 --> 00:10:12.000
+exactly what we're talking about with the failure of
+
+234
+00:10:12.000 --> 00:10:15.133
+linear causality. Henry Stimson, the US Secretary
+
+235
+00:10:15.133 --> 00:10:18.000
+of War at the time, unilaterally blocks the generals.
+
+236
+00:10:18.000 --> 00:10:18.800
+He just steps in.
+
+237
+00:10:18.800 --> 00:10:21.667
+He goes over their heads straight to President Truman
+
+238
+00:10:21.667 --> 00:10:24.000
+and demands they take Kyoto off the list.
+
+239
+00:10:24.000 --> 00:10:26.733
+And the military commanders are completely baffled.
+
+240
+00:10:26.733 --> 00:10:29.767
+They were confused because Stimson's reasoning had absolutely nothing
+
+241
+00:10:29.767 --> 00:10:30.800
+to do with warfare.
+
+242
+00:10:30.800 --> 00:10:32.067
+It was entirely personal.
+
+243
+00:10:32.067 --> 00:10:35.267
+Yes. In October of 1926, nearly two decades
+
+244
+00:10:35.267 --> 00:10:36.633
+earlier, Mr. Stern and Mrs.
+
+245
+00:10:36.633 --> 00:10:39.933
+Henry Stimson had taken a steam train to Kyoto
+
+246
+00:10:39.933 --> 00:10:43.433
+and checked into room 56 of the Mako Hotel.
+
+247
+00:10:43.433 --> 00:10:45.200
+They strolled through the pristine gardens.
+
+248
+00:10:45.200 --> 00:10:47.667
+They admired the crimson Japanese maples and the golden
+
+249
+00:10:47.667 --> 00:10:50.867
+ginko trees. They had a wonderful, deeply
+
+250
+00:10:50.867 --> 00:10:54.000
+romantic vacation. And because Stimson held a personal
+
+251
+00:10:54.000 --> 00:10:57.133
+nostalgic fondness for the city's he
+
+252
+00:10:57.133 --> 00:10:59.200
+refused to let it be vaporized.
+
+253
+00:10:59.200 --> 00:11:02.000
+Ground zero for the atomic blast was slated to
+
+254
+00:11:02.000 --> 00:11:04.467
+be roughly half a mile from the hotel where
+
+255
+00:11:04.467 --> 00:11:07.667
+he had stayed. So, one man's lingering vacation
+
+256
+00:11:07.667 --> 00:11:10.867
+memories literally overrode millions of hours
+
+257
+00:11:10.867 --> 00:11:12.867
+of strategic military planning.
+
+258
+00:11:12.867 --> 00:11:16.000
+It did. And because Kyoto was removed, the entire
+
+259
+00:11:16.000 --> 00:11:17.933
+chain of events shifts.
+
+260
+00:11:17.933 --> 00:11:20.333
+Taking it off the list meant adding a backup
+
+261
+00:11:20.333 --> 00:11:23.767
+city. And that introduces a second layer of chaos,
+
+262
+00:11:23.767 --> 00:11:26.333
+which people call Kura's luck.
+
+263
+00:11:26.333 --> 00:11:29.433
+Right. With Kyoto safe, the primary target for
+
+264
+00:11:29.433 --> 00:11:32.467
+the second atomic bomb became the city of Kura.
+
+265
+00:11:32.467 --> 00:11:35.833
+The B-29 bomber Boxcar flew to Kokura
+
+266
+00:11:35.833 --> 00:11:38.333
+with the weapon. But when it arrived, the crew
+
+267
+00:11:38.333 --> 00:11:41.433
+found the city obscured by unexpected heavy cloud
+
+268
+00:11:41.433 --> 00:11:44.467
+cover. Even though the military meteorologist had predicted clear
+
+269
+00:11:44.467 --> 00:11:47.533
+skies. Exactly. The atmosphere acting with the very
+
+270
+00:11:47.533 --> 00:11:51.133
+nonlinear chaos Loren would later map didn't cooperate.
+
+271
+00:11:51.133 --> 00:11:53.533
+The bombers circled for nearly an hour hoping for
+
+272
+00:11:53.533 --> 00:11:54.633
+a break in the clouds.
+
+273
+00:11:54.633 --> 00:11:57.133
+But their fuel was running dangerously Right.
+
+274
+00:11:57.133 --> 00:11:59.033
+They couldn't drop the bomb blind, so they diverted
+
+275
+00:11:59.033 --> 00:12:01.200
+to their secondary target, Nagasaki.
+
+276
+00:12:01.200 --> 00:12:03.600
+And Nagasaki wasn't even on the original top tier
+
+277
+00:12:03.600 --> 00:12:06.333
+list. It was added late, almost as an And
+
+278
+00:12:06.333 --> 00:12:09.267
+as the bomber approached Nagasaki, it too was heavily
+
+279
+00:12:09.267 --> 00:12:12.533
+overcast. They were seconds away from aborting the mission
+
+280
+00:12:13.133 --> 00:12:16.167
+But at 11. AU2 a.m., the clouds
+
+281
+00:12:16.167 --> 00:12:18.567
+parted just enough to allow a visual on the
+
+282
+00:12:18.567 --> 00:12:20.733
+city and the bomb fell.
+
+283
+00:12:20.733 --> 00:12:23.667
+Tens of thousands of casualties in an instant.
+
+284
+00:12:23.667 --> 00:12:26.167
+And to this day in Japan, people use the
+
+285
+00:12:26.167 --> 00:12:29.267
+phrase Kokura's luck to describe unknowingly
+
+286
+00:12:29.267 --> 00:12:31.933
+escaping a massive Let me push back on this
+
+287
+00:12:31.933 --> 00:12:34.000
+though because I'm struggling with the definition of a
+
+288
+00:12:34.000 --> 00:12:35.433
+fluke here. Okay, let's hear it.
+
+289
+00:12:35.433 --> 00:12:38.467
+We keep calling this chaos, but Henry Stimson
+
+290
+00:12:38.467 --> 00:12:40.633
+consciously marched into the Oval Office.
+
+291
+00:12:40.633 --> 00:12:42.000
+He used his authority.
+
+292
+00:12:42.000 --> 00:12:43.367
+He debated the president.
+
+293
+00:12:43.367 --> 00:12:45.667
+How is that a You're saying it's a deliberate
+
+294
+00:12:45.667 --> 00:12:47.933
+act. Yeah, that just sounds like a powerful guy
+
+295
+00:12:47.933 --> 00:12:49.767
+throwing his political weight around.
+
+296
+00:12:49.767 --> 00:12:52.867
+It's human agency, not some random butterfly flapping
+
+297
+00:12:52.867 --> 00:12:55.667
+its wings. The agency is real, but the intersection
+
+298
+00:12:55.667 --> 00:12:57.433
+of timelines is the fluke.
+
+299
+00:12:57.433 --> 00:13:00.867
+This requires understanding what economists and philosophers call
+
+300
+00:13:00.867 --> 00:13:03.267
+cornaut contingency. Cornaut contingency.
+
+301
+00:13:03.267 --> 00:13:05.267
+We'll definitely dive deeper into that later.
+
+302
+00:13:05.267 --> 00:13:08.400
+Yeah, it's when two completely independent, unrelated
+
+303
+00:13:08.400 --> 00:13:11.533
+causal chains intersect in time and space.
+
+304
+00:13:11.533 --> 00:13:14.633
+Yes, Stimson used his power, but trace his
+
+305
+00:13:14.633 --> 00:13:17.667
+causal chain backward. Why did he choose Kyoto
+
+306
+00:13:17.667 --> 00:13:20.567
+for his vacation in 1926 instead of Osaka?
+
+307
+00:13:20.567 --> 00:13:23.667
+Exactly. What minor conversational detail from
+
+308
+00:13:23.667 --> 00:13:26.967
+a friend prompted him to book the Myako Hotel?
+
+309
+00:13:26.967 --> 00:13:28.733
+Now trace the other chain.
+
+310
+00:13:28.733 --> 00:13:32.000
+Why did the clouds gather over Kakura despite clear
+
+311
+00:13:32.000 --> 00:13:35.133
+forecasts? Why did they part over Nagasaki at
+
+312
+00:13:35.133 --> 00:13:37.133
+the exact moment the plane was running out of
+
+313
+00:13:37.133 --> 00:13:39.433
+fuel? The illusion we suffer from is that the
+
+314
+00:13:39.433 --> 00:13:42.467
+general's cold, logical criteria drove the
+
+315
+00:13:42.467 --> 00:13:43.533
+outcome of the war.
+
+316
+00:13:43.533 --> 00:13:47.133
+But the terrifying reality is that structural military logic
+
+317
+00:13:47.133 --> 00:13:50.567
+was entirely superseded by the intersection of a 1926
+
+318
+00:13:50.567 --> 00:13:53.200
+vacation and a localized weather anomaly.
+
+319
+00:13:53.200 --> 00:13:56.000
+It completely flips the concept of historical analysis on
+
+320
+00:13:56.000 --> 00:13:58.800
+its head. We study troop movements and industrial supply
+
+321
+00:13:58.800 --> 00:14:00.567
+lines to understand geopolitics.
+
+322
+00:14:00.567 --> 00:14:02.567
+But maybe we should be studying where cabinet members
+
+323
+00:14:02.567 --> 00:14:05.367
+went on their Seriously, once again, a tiny fluke
+
+324
+00:14:05.367 --> 00:14:08.233
+doesn't just change the score, it rewrites the entire
+
+325
+00:14:08.233 --> 00:14:10.867
+game. It births a totally new universe for hundreds
+
+326
+00:14:10.867 --> 00:14:12.067
+of thousands of people.
+
+327
+00:14:12.067 --> 00:14:15.033
+And this lack of control isn't just about global
+
+328
+00:14:15.033 --> 00:14:18.067
+historical events. It is literally written into
+
+329
+00:14:18.067 --> 00:14:20.967
+your own DNA. The contingency of the past is
+
+330
+00:14:20.967 --> 00:14:22.400
+the only reason you have a present.
+
+331
+00:14:22.400 --> 00:14:24.200
+It's so true. Let's test that.
+
+332
+00:14:25.200 --> 00:14:27.267
+Later today, listener, I want you to go look
+
+333
+00:14:27.267 --> 00:14:30.400
+in a mirror. You are looking at a generational
+
+334
+00:14:30.400 --> 00:14:33.600
+composite of eyes, noses, jaw lines, and lips
+
+335
+00:14:33.600 --> 00:14:36.633
+from thousands and thousands of strangers stretching back
+
+336
+00:14:36.633 --> 00:14:38.800
+through millennia. All those random people.
+
+337
+00:14:38.800 --> 00:14:41.033
+If even one of those ancestors missed a train
+
+338
+00:14:41.033 --> 00:14:43.267
+or turned left instead of right or caught a
+
+339
+00:14:43.267 --> 00:14:45.833
+cold on a specific Tuesday, the exact timing of
+
+340
+00:14:45.833 --> 00:14:48.867
+their reproduction a different sperm meets a different
+
+341
+00:14:48.867 --> 00:14:50.633
+egg and you wouldn't be here.
+
+342
+00:14:50.633 --> 00:14:53.600
+Biologically, we are the surviving barbs of a chain
+
+343
+00:14:53.600 --> 00:14:56.000
+link past. We think of our family trees as
+
+344
+00:14:56.000 --> 00:14:58.967
+these sturdy oaks, you know, but they are actually
+
+345
+00:14:58.967 --> 00:15:01.267
+incredibly fragile webs of chance.
+
+346
+00:15:01.267 --> 00:15:04.167
+And to fully accept this requires a heavy philosophical
+
+347
+00:15:04.167 --> 00:15:07.267
+framework that Friedrich Nichze called amor fati
+
+348
+00:15:07.267 --> 00:15:08.967
+the love of one's fate.
+
+349
+00:15:08.967 --> 00:15:12.000
+It is the radical unflinching acceptance that our
+
+350
+00:15:12.000 --> 00:15:14.233
+lives are built on the absolute entirety of the
+
+351
+00:15:14.233 --> 00:15:17.367
+past. You cannot separate the beautiful triumphs of
+
+352
+00:15:17.367 --> 00:15:20.633
+history from its unspeakable atrocities because both
+
+353
+00:15:20.633 --> 00:15:23.433
+are structurally required for you to exist right now.
+
+354
+00:15:23.433 --> 00:15:26.467
+The author, Brian Clauss, shares a deeply
+
+355
+00:15:26.467 --> 00:15:29.767
+personal story in the book that crystallizes this and
+
+356
+00:15:29.767 --> 00:15:32.467
+honestly is disturbing. It's a really tough story.
+
+357
+00:15:32.467 --> 00:15:35.433
+It takes place on June 15th, 1905 in a
+
+358
+00:15:35.433 --> 00:15:36.933
+little farmhouse in Wisconsin.
+
+359
+00:15:37.833 --> 00:15:40.867
+A woman named Clara Magdalene Jansen suffers what we
+
+360
+00:15:40.867 --> 00:15:44.400
+would now recognize as a severe psychological break.
+
+361
+00:15:44.400 --> 00:15:46.867
+She murders all four of her young children, Mary,
+
+362
+00:15:46.867 --> 00:15:49.767
+Claire, Frederick, John, and Theodore.
+
+363
+00:15:49.767 --> 00:15:51.767
+She tucks their bodies into bed and then she
+
+364
+00:15:51.767 --> 00:15:52.633
+takes her own life.
+
+365
+00:15:52.633 --> 00:15:54.967
+Her husband Paul F-class had left the house on
+
+366
+00:15:54.967 --> 00:15:58.000
+an errand. He comes home to discover this unimaginable
+
+367
+00:15:58.000 --> 00:16:01.267
+horror. He loses his entire family in a single
+
+368
+00:16:01.267 --> 00:16:02.867
+It is one of the darkest things a human
+
+369
+00:16:02.867 --> 00:16:05.767
+being can experience. But the reason Brian Clauss knows
+
+370
+00:16:05.767 --> 00:16:07.233
+this story and the reason he is able to
+
+371
+00:16:07.243 --> 00:16:08.733
+write this book is because Paul F.
+
+372
+00:16:08.733 --> 00:16:10.800
+Clauss was his great-grandfather.
+
+373
+00:16:10.800 --> 00:16:13.933
+Right? Because Clara tragically ended her branch
+
+374
+00:16:13.933 --> 00:16:16.733
+of the family tree, Paul eventually had to rebuild
+
+375
+00:16:16.733 --> 00:16:20.167
+his life. He and that second marriage
+
+376
+00:16:20.167 --> 00:16:23.567
+initiated a new lineage, a new sequence of genetic
+
+377
+00:16:24.233 --> 00:16:26.733
+which eventually produced Brian Claus.
+
+378
+00:16:26.733 --> 00:16:29.033
+When Brian was 20 years old, his father showed
+
+379
+00:16:29.033 --> 00:16:31.433
+him the gravestone and the newspaper clippings of the
+
+380
+00:16:31.433 --> 00:16:34.633
+murders. And Brian had this shocking realization.
+
+381
+00:16:34.633 --> 00:16:37.833
+His very existence, his consciousness was entirely
+
+382
+00:16:37.833 --> 00:16:40.567
+contingent on a gruesome mass murder.
+
+383
+00:16:40.567 --> 00:16:43.433
+If Clara had not committed that horrific act, Paul
+
+384
+00:16:43.433 --> 00:16:44.567
+would have stayed with her.
+
+385
+00:16:44.567 --> 00:16:47.267
+their descendants would have populated the earth and Brian
+
+386
+00:16:47.267 --> 00:16:48.867
+would never have been born.
+
+387
+00:16:48.867 --> 00:16:51.600
+But it's not just big historical murders or major
+
+388
+00:16:51.600 --> 00:16:55.033
+tragedies. The math behind human reproduction
+
+389
+00:16:55.033 --> 00:16:58.467
+makes every single birth a statistical miracle.
+
+390
+00:16:58.467 --> 00:17:00.800
+Richard Dawkins talks about this with his concept of
+
+391
+00:17:00.800 --> 00:17:03.533
+unborn ghosts. Dawkins points out that the potential people
+
+392
+00:17:03.533 --> 00:17:05.933
+who could have existed outnumber the grains of sand
+
+393
+00:17:05.933 --> 00:17:08.167
+in Arabia. Let's look at the cellular mechanics of
+
+394
+00:17:08.167 --> 00:17:11.267
+it. During meiosis, human chromosomes cross
+
+395
+00:17:11.267 --> 00:17:14.633
+over and recombine in a process that generates essentially
+
+396
+00:17:14.633 --> 00:17:18.167
+infinite genetic variation. A human male produces
+
+397
+00:17:18.167 --> 00:17:20.567
+hundreds of millions of sperm cells in a single
+
+398
+00:17:20.567 --> 00:17:23.667
+day. The specific genetic combination that resulted in
+
+399
+00:17:23.667 --> 00:17:26.800
+you required one exact sperm out of
+
+400
+00:17:26.800 --> 00:17:29.933
+hundreds of millions to reach one exact egg.
+
+401
+00:17:29.933 --> 00:17:32.733
+If your parents had consummated their relationship even 1
+
+402
+00:17:32.733 --> 00:17:35.200
+second later, a different sperm would have won the
+
+403
+00:17:35.200 --> 00:17:37.533
+race. A sibling would have been born instead of
+
+404
+00:17:37.533 --> 00:17:40.633
+you. And that biological razor's edge applies
+
+405
+00:17:40.633 --> 00:17:43.200
+to every single generation before you.
+
+406
+00:17:43.200 --> 00:17:46.467
+Exactly. Your existence hinges on an infinite
+
+407
+00:17:46.467 --> 00:17:48.633
+sequence of exact timings.
+
+408
+00:17:48.633 --> 00:17:51.767
+It relies on the mating preferences of highly
+
+409
+00:17:51.767 --> 00:17:55.033
+specific chimpanzeee ancestors 6 million
+
+410
+00:17:55.033 --> 00:17:57.767
+years ago. It relies on a distant ice age
+
+411
+00:17:57.767 --> 00:18:00.733
+surviving a saber-tooth tiger attack because they happen to
+
+412
+00:18:00.733 --> 00:18:02.400
+look over their shoulder at the right moment.
+
+413
+00:18:02.400 --> 00:18:04.467
+Trace it back far enough and it relies on
+
+414
+00:18:04.467 --> 00:18:07.367
+a specific wormlike creature in the Cambrian period.
+
+415
+00:18:07.367 --> 00:18:10.000
+hundreds of millions of years ago, managing to avoid
+
+416
+00:18:10.000 --> 00:18:11.433
+getting squished by Iraq.
+
+417
+00:18:11.433 --> 00:18:13.533
+I have to admit, I struggle with the moral
+
+418
+00:18:13.533 --> 00:18:14.800
+weight of this. It's heavy.
+
+419
+00:18:14.800 --> 00:18:18.633
+If our existence fundamentally relies on brutal murders
+
+420
+00:18:18.633 --> 00:18:22.567
+or on global wars and plagues that shifted populations,
+
+421
+00:18:22.567 --> 00:18:26.000
+doesn't that make it impossible to celebrate life without
+
+422
+00:18:26.000 --> 00:18:29.033
+somehow endorsing the tragedies that made it possible?
+
+423
+00:18:29.033 --> 00:18:31.133
+You mean does it justify the evil?
+
+424
+00:18:31.133 --> 00:18:34.233
+Yeah. Doesn't amorafati just become an excuse to
+
+425
+00:18:34.233 --> 00:18:36.867
+say, "Well, the Holocaust had to happen so I
+
+426
+00:18:36.867 --> 00:18:39.667
+could be born." That is the ultimate burden of
+
+427
+00:18:39.667 --> 00:18:42.233
+amorphati and it's a vital distinction to make.
+
+428
+00:18:42.233 --> 00:18:45.600
+Radical acceptance is not an Okay, explain that.
+
+429
+00:18:45.600 --> 00:18:47.200
+It is not saying that a murder was a
+
+430
+00:18:47.200 --> 00:18:50.167
+good thing or that atrocities are morally justified because
+
+431
+00:18:50.167 --> 00:18:51.433
+they led to the present.
+
+432
+00:18:51.433 --> 00:18:54.567
+You can utterly condemn a historical evil while
+
+433
+00:18:54.567 --> 00:18:57.767
+simultaneously acknowledging the cold mechanical reality
+
+434
+00:18:57.767 --> 00:19:00.800
+that your specific biological sequence required it.
+
+435
+00:19:00.800 --> 00:19:03.600
+We owe our existence to a messy, intertwined history
+
+436
+00:19:03.600 --> 00:19:06.400
+of immense kindness and unspeakable cruelty.
+
+437
+00:19:06.400 --> 00:19:08.800
+If the past had been even marginally different, if
+
+438
+00:19:08.800 --> 00:19:11.433
+a single Roman soldier had spared a life instead
+
+439
+00:19:11.433 --> 00:19:13.833
+of taking it, a different person would be listening
+
+440
+00:19:13.833 --> 00:19:15.433
+to this audio right now.
+
+441
+00:19:15.433 --> 00:19:17.600
+But you wouldn't. We have to accept the jagged
+
+442
+00:19:17.600 --> 00:19:20.733
+edges of how we got here without morally
+
+443
+00:19:20.733 --> 00:19:23.667
+validating them. A tiny fluke doesn't just change the
+
+444
+00:19:23.667 --> 00:19:26.233
+score, it rewrites the entire game.
+
+445
+00:19:26.233 --> 00:19:29.433
+Okay, so if human timelines are this fragile, let's
+
+446
+00:19:29.433 --> 00:19:31.267
+zoom out to the planetary timeline.
+
+447
+00:19:31.267 --> 00:19:33.200
+Let's apply this to the entirety of life on
+
+448
+00:19:33.200 --> 00:19:34.633
+Earth. Let's do it.
+
+449
+00:19:34.633 --> 00:19:36.333
+Imagine you have a coin.
+
+450
+00:19:36.333 --> 00:19:38.633
+You flip it, it lands on heads.
+
+451
+00:19:38.633 --> 00:19:41.367
+Now, if you could rewind the universe to the
+
+452
+00:19:41.367 --> 00:19:44.467
+exact millisecond before the flip and perfectly
+
+453
+00:19:44.467 --> 00:19:47.433
+recreate the exact same conditions, the force of your
+
+454
+00:19:47.433 --> 00:19:50.333
+thumb, the air currents, the friction on your skin.
+
+455
+00:19:50.333 --> 00:19:51.667
+Does it land on heads again?
+
+456
+00:19:51.667 --> 00:19:54.000
+Or does quantum randomness mean it might land on
+
+457
+00:19:54.000 --> 00:19:56.967
+tails? Right? And if we apply that thought experiment
+
+458
+00:19:56.967 --> 00:19:59.600
+to evolution, if we rewind the tape of life
+
+459
+00:19:59.600 --> 00:20:01.667
+on Earth back a billion years and let it
+
+460
+00:20:01.667 --> 00:20:04.467
+play out again, would humans emerge again?
+
+461
+00:20:04.467 --> 00:20:06.333
+You're touching on one of the greatest debates in
+
+462
+00:20:06.333 --> 00:20:09.667
+evolutionary biology. It was famously popularized by Steven
+
+463
+00:20:09.667 --> 00:20:11.367
+J. Gold. The tape of life.
+
+464
+00:20:11.367 --> 00:20:14.567
+Yes. It's the debate between contingent evolution and
+
+465
+00:20:14.567 --> 00:20:17.667
+convergent evolution. Contingent evolution basically argues
+
+466
+00:20:17.667 --> 00:20:21.033
+that stuff happens. It's a jagged, unpredictable
+
+467
+00:20:21.033 --> 00:20:24.167
+march driven by random accidents, lightning strikes, and
+
+468
+00:20:24.167 --> 00:20:27.567
+passing asteroids. And convergent evolution argues that
+
+469
+00:20:28.233 --> 00:20:30.000
+everything happens for a reason.
+
+470
+00:20:30.000 --> 00:20:32.867
+Meaning that natural selection is so powerful.
+
+471
+00:20:32.867 --> 00:20:35.933
+Nature will inevitably find its way to specific
+
+472
+00:20:35.933 --> 00:20:38.967
+optimal solutions, regardless of the random bumps along
+
+473
+00:20:38.967 --> 00:20:42.067
+the The ultimate poster child for contingency is, of
+
+474
+00:20:42.067 --> 00:20:45.433
+course, the asteroid Oh, absolutely.
+
+475
+00:20:45.433 --> 00:20:48.800
+66 million years ago, a rock roughly 9 m
+
+476
+00:20:48.800 --> 00:20:51.533
+wide slams into the earth with the force of
+
+477
+00:20:51.533 --> 00:20:53.667
+10 billion Hroshima bombs.
+
+478
+00:20:53.667 --> 00:20:55.600
+But it's not just that it hit the Earth.
+
+479
+00:20:55.600 --> 00:20:57.767
+It is where and when it hit.
+
+480
+00:20:57.767 --> 00:21:01.033
+The asteroid struck a very specific spot, the
+
+481
+00:21:01.033 --> 00:21:04.733
+shallow gypsum rich sea of the Yucatan Peninsula.
+
+482
+00:21:04.733 --> 00:21:07.533
+And the geology of that specific impact zone is
+
+483
+00:21:07.533 --> 00:21:09.267
+crucial. It changed everything.
+
+484
+00:21:09.267 --> 00:21:12.467
+The impact pulverized the gypsum rock, unleashing
+
+485
+00:21:12.467 --> 00:21:15.667
+massive clouds of poisonous sulfur into the atmosphere.
+
+486
+00:21:15.667 --> 00:21:18.867
+This created a global infrared pulse that literally broiled
+
+487
+00:21:18.867 --> 00:21:21.267
+the dinosaurs alive on the surface, followed by a
+
+488
+00:21:21.267 --> 00:21:24.067
+nuclear winter that destroyed the food The only creatures
+
+489
+00:21:24.067 --> 00:21:26.233
+that survived were mostly those that lived deep in
+
+490
+00:21:26.233 --> 00:21:29.133
+the sea, or tiny shrew-like creatures that could burrow
+
+491
+00:21:29.133 --> 00:21:30.800
+underground and eat detritus.
+
+492
+00:21:30.800 --> 00:21:33.933
+And those little burrowing scavengers were early mammals,
+
+493
+00:21:33.933 --> 00:21:37.267
+our direct ancestors. The asteroid literally
+
+494
+00:21:37.267 --> 00:21:39.600
+cleared the real estate we needed to evolve.
+
+495
+00:21:39.600 --> 00:21:42.167
+But if you tweak the timing even this is
+
+496
+00:21:42.167 --> 00:21:45.433
+the crazy part. The Earth is rotating at roughly
+
+497
+00:21:45.433 --> 00:21:47.733
+a,000 m hour at the equator.
+
+498
+00:21:48.333 --> 00:21:51.667
+If that asteroid had arrived just 12 minutes earlier
+
+499
+00:21:51.667 --> 00:21:54.467
+or 12 minutes later, the Yucatan Peninsula would have
+
+500
+00:21:54.467 --> 00:21:56.067
+rotated out of the crosshairs.
+
+501
+00:21:56.067 --> 00:21:58.467
+The asteroid would have crashed into the deep waters
+
+502
+00:21:58.467 --> 00:22:01.267
+of the Pacific or Atlantic That would have caused
+
+503
+00:22:01.267 --> 00:22:04.000
+massive devastating tsunamis. Absolutely.
+
+504
+00:22:04.000 --> 00:22:07.533
+But it wouldn't have vaporized the sulfurrich It
+
+505
+00:22:07.533 --> 00:22:10.400
+wouldn't have released the massive toxic gas clouds.
+
+506
+00:22:10.400 --> 00:22:13.200
+The dinosaurs likely would have survived the climate shift.
+
+507
+00:22:13.200 --> 00:22:16.233
+And if the dinosaurs survive, mammals remain small,
+
+508
+00:22:16.233 --> 00:22:19.367
+underground, nocturnal scavengers. The evolutionary niche
+
+509
+00:22:19.367 --> 00:22:22.633
+for large bipeedal primates never opens up.
+
+510
+00:22:22.633 --> 00:22:24.733
+And what blows my mind is why the asteroid
+
+511
+00:22:24.733 --> 00:22:26.000
+hit us in the first place.
+
+512
+00:22:26.000 --> 00:22:28.000
+This isn't just about Earth's rotation.
+
+513
+00:22:28.000 --> 00:22:29.933
+It's about galactic physics.
+
+514
+00:22:29.933 --> 00:22:32.967
+Yes, there is an astrophysicist at Harvard, Lisa
+
+515
+00:22:32.967 --> 00:22:35.033
+Randall, who wrote a book called Dark Matter and
+
+516
+00:22:35.033 --> 00:22:38.233
+the Dinosaurs. She traces the asteroid's path back
+
+517
+00:22:38.233 --> 00:22:40.733
+to the structure of the Milky Way galaxy itself.
+
+518
+00:22:40.733 --> 00:22:43.333
+It is a stunning theory of deep contingency.
+
+519
+00:22:44.067 --> 00:22:46.467
+Our solar system isn't just sitting still.
+
+520
+00:22:46.467 --> 00:22:48.800
+It revolves around the center of the Milky Way.
+
+521
+00:22:48.800 --> 00:22:50.733
+And as it does, it bobs up and down
+
+522
+00:22:50.733 --> 00:22:52.467
+through the galactic plane like a horse on a
+
+523
+00:22:52.467 --> 00:22:55.667
+carousel. Randall theorizes that there is a thin
+
+524
+00:22:55.667 --> 00:22:58.400
+dense disc of dark matter running through the center
+
+525
+00:22:58.400 --> 00:23:01.767
+of our galaxy. Roughly every 30 to 35
+
+526
+00:23:01.767 --> 00:23:04.800
+million years, our solar system passes through this
+
+527
+00:23:04.800 --> 00:23:06.467
+dense dark matter disc.
+
+528
+00:23:06.467 --> 00:23:10.067
+The immense gravitational tidal forces from that dark matter
+
+529
+00:23:10.067 --> 00:23:13.200
+perturb the orort cloud, the icy debris field at
+
+530
+00:23:13.200 --> 00:23:14.800
+the very edge of our solar system.
+
+531
+00:23:14.800 --> 00:23:18.067
+And that gravitational nudge dislodged a specific
+
+532
+00:23:18.067 --> 00:23:21.433
+comet or asteroid, sending it on a multi-millionyear
+
+533
+00:23:21.433 --> 00:23:24.567
+collision course with So, an invisible oscillation of dark
+
+534
+00:23:24.567 --> 00:23:27.267
+matter in deep space sent a rock h hurtling
+
+535
+00:23:27.267 --> 00:23:30.567
+toward a specific patch of sulfurrich shallow water,
+
+536
+00:23:30.567 --> 00:23:32.733
+clearing the dinosaurs and creating humanity.
+
+537
+00:23:32.733 --> 00:23:34.633
+That is peak contingency.
+
+538
+00:23:34.633 --> 00:23:36.000
+But to be fair to the other side of
+
+539
+00:23:36.000 --> 00:23:38.967
+the debate, the natural world also provides incredible evidence
+
+540
+00:23:38.967 --> 00:23:41.933
+for convergence. Nature seems to repeat itself.
+
+541
+00:23:41.933 --> 00:23:45.367
+It does. Consider the evolution of the eye.
+
+542
+00:23:45.367 --> 00:23:48.733
+The human camera type eye is incredibly complex, originating
+
+543
+00:23:48.733 --> 00:23:51.600
+from a mutation in a specific snippet of DNA
+
+544
+00:23:51.600 --> 00:23:53.433
+called the PX6 gene.
+
+545
+00:23:53.433 --> 00:23:56.233
+For a long time, evolutionary biologists thought this level
+
+546
+00:23:56.233 --> 00:23:59.433
+of complexity had to be a lucky contingent fluke,
+
+547
+00:23:59.433 --> 00:24:02.633
+a one-off. But then scientists sequenced the genomes
+
+548
+00:24:02.633 --> 00:24:06.233
+of squids and octopuses, and they found something stunning.
+
+549
+00:24:06.233 --> 00:24:09.367
+Sephopod eyes are almost functionally identical to ours.
+
+550
+00:24:09.367 --> 00:24:12.000
+They have a lens, a retina, a pupil.
+
+551
+00:24:12.000 --> 00:24:15.367
+But our evolutionary paths split from squids roughly
+
+552
+00:24:15.367 --> 00:24:17.667
+600 million years ago, back when we were just
+
+553
+00:24:17.667 --> 00:24:20.800
+primitive flatworms. Exactly. Octopus and squid eyes
+
+554
+00:24:20.800 --> 00:24:23.933
+evolved completely independently from ours, separated by hundreds
+
+555
+00:24:23.933 --> 00:24:26.867
+of millions of years of distinct evolutionary history.
+
+556
+00:24:26.867 --> 00:24:29.367
+But they emerged from a separate but highly similar
+
+557
+00:24:29.367 --> 00:24:32.800
+mutation in that exact same PX6 gene.
+
+558
+00:24:32.800 --> 00:24:35.533
+Lightning struck twice in the exact same spot.
+
+559
+00:24:35.533 --> 00:24:37.033
+Nature was presented with a problem.
+
+560
+00:24:37.033 --> 00:24:39.133
+How to process light to hunt and survive.
+
+561
+00:24:39.133 --> 00:24:42.333
+And it converged on the exact same anatomical solution.
+
+562
+00:24:42.333 --> 00:24:43.267
+And it's not just eyes.
+
+563
+00:24:43.267 --> 00:24:46.633
+My absolute favorite example of this is Oh,
+
+564
+00:24:46.633 --> 00:24:47.667
+I love this one.
+
+565
+00:24:47.667 --> 00:24:50.633
+Nature keeps trying to turn crustaceans into crabs.
+
+566
+00:24:50.633 --> 00:24:52.400
+It's hilarious, but true.
+
+567
+00:24:52.400 --> 00:24:55.433
+If you look at king crabs or hermit crabs,
+
+568
+00:24:55.433 --> 00:24:57.333
+they aren't actually true crabs.
+
+569
+00:24:58.067 --> 00:25:01.267
+They evolved from completely different crustation ancestors.
+
+570
+00:25:01.267 --> 00:25:04.733
+But nature has independently evolved the wide,
+
+571
+00:25:04.733 --> 00:25:07.933
+flat, heavily armored crab body plan
+
+572
+00:25:07.933 --> 00:25:10.067
+at least five separate times.
+
+573
+00:25:10.067 --> 00:25:13.367
+It's just an incredibly efficient biological shape
+
+574
+00:25:13.367 --> 00:25:16.167
+for surviving in that Which brings us to the
+
+575
+00:25:16.167 --> 00:25:19.267
+core tension. Convergence suggests that the random
+
+576
+00:25:19.267 --> 00:25:22.567
+bumps produced by small chance events eventually get smoothed
+
+577
+00:25:22.567 --> 00:25:25.200
+out by the sheer pressure of natural selection.
+
+578
+00:25:25.200 --> 00:25:28.567
+Right? If evolution constantly invents crabs and eyes
+
+579
+00:25:28.567 --> 00:25:31.600
+independently, doesn't that prove that the little flukes
+
+580
+00:25:31.600 --> 00:25:33.133
+do get washed out eventually?
+
+581
+00:25:33.133 --> 00:25:35.433
+That's the argument. Doesn't it suggest that human level
+
+582
+00:25:35.433 --> 00:25:37.933
+intelligence or something very much like us was destined
+
+583
+00:25:37.933 --> 00:25:40.967
+to emerge anyway simply because highle intelligence
+
+584
+00:25:40.967 --> 00:25:43.200
+is a hyperefficient survival trait?
+
+585
+00:25:43.200 --> 00:25:45.033
+It is a compelling argument, but we have to
+
+586
+00:25:45.033 --> 00:25:47.600
+make a vital distinction between the solution and the
+
+587
+00:25:47.600 --> 00:25:49.767
+survivor. Solution versus survivor.
+
+588
+00:25:49.767 --> 00:25:52.800
+Yes, it is highly probable that evolution
+
+589
+00:25:52.800 --> 00:25:55.833
+converges on solutions like vision, flight, or even
+
+590
+00:25:55.833 --> 00:25:59.133
+high level intelligence. But the survivor, the
+
+591
+00:25:59.133 --> 00:26:02.733
+specific genetic lineage that gets to carry that intelligence
+
+592
+00:26:02.733 --> 00:26:05.767
+is deeply contingent. If the asteroid misses the
+
+593
+00:26:05.767 --> 00:26:09.133
+Yucatan, a highly intelligent tool using
+
+594
+00:26:09.133 --> 00:26:12.333
+bipeedal dinosaur might have eventually evolved.
+
+595
+00:26:12.333 --> 00:26:15.833
+The trait of intelligence might be convergent, but we,
+
+596
+00:26:15.833 --> 00:26:18.967
+this exact specific iteration of hairless
+
+597
+00:26:18.967 --> 00:26:22.067
+apes with our specific emotional capacities and
+
+598
+00:26:22.067 --> 00:26:25.200
+physical vulnerabilities are a total fluke of
+
+599
+00:26:25.200 --> 00:26:28.233
+geology, timing, and a dark matter oscillation.
+
+600
+00:26:28.233 --> 00:26:31.067
+The trait was likely inevitable, but the author of
+
+601
+00:26:31.077 --> 00:26:33.533
+the trait was a roll of the Once again,
+
+602
+00:26:33.533 --> 00:26:35.933
+a tiny fluke doesn't just change the score, it
+
+603
+00:26:35.933 --> 00:26:37.533
+rewrites the entire game.
+
+604
+00:26:37.533 --> 00:26:40.567
+So, if the physical universe, our biological origins, and
+
+605
+00:26:40.567 --> 00:26:43.267
+our global history are all governed by this chaotic
+
+606
+00:26:43.267 --> 00:26:46.333
+contingency, we have to ask why we constantly try
+
+607
+00:26:46.333 --> 00:26:47.133
+to pretend they aren't.
+
+608
+00:26:47.133 --> 00:26:48.167
+It's a great question.
+
+609
+00:26:48.167 --> 00:26:49.833
+I mean, every day you scroll through your news
+
+610
+00:26:49.833 --> 00:26:52.733
+feed and you see these incredibly neat, definitive headlines
+
+611
+00:26:52.733 --> 00:26:53.933
+from the social sciences.
+
+612
+00:26:53.933 --> 00:26:57.267
+Oh, the headlines. things like voting while ovulating
+
+613
+00:26:57.267 --> 00:27:00.333
+changes your political preferences or listening to
+
+614
+00:27:00.333 --> 00:27:03.433
+the Beatles makes you younger or a 10%
+
+615
+00:27:03.433 --> 00:27:06.400
+increase in coffee consumption leads to a 5% increase
+
+616
+00:27:06.400 --> 00:27:09.667
+in productivity. We desperately crave these need
+
+617
+00:27:09.667 --> 00:27:11.267
+A causes B formulas.
+
+618
+00:27:11.267 --> 00:27:13.933
+We crave them because they offer a psychological lifeline.
+
+619
+00:27:13.933 --> 00:27:16.467
+They give us a sense of epistemic control.
+
+620
+00:27:16.467 --> 00:27:19.600
+We treat human society like a simple machine, a
+
+621
+00:27:19.600 --> 00:27:22.467
+clockwork pendulum. We want to believe that if we
+
+622
+00:27:22.467 --> 00:27:25.600
+just pull the right economic lever or implement the
+
+623
+00:27:25.600 --> 00:27:28.633
+perfect psychological nudge, we can engineer the
+
+624
+00:27:28.633 --> 00:27:31.433
+exact outcome we want in our societies and our
+
+625
+00:27:31.433 --> 00:27:34.633
+personal lives. And social science often feeds this delusion
+
+626
+00:27:34.633 --> 00:27:36.400
+by using a foundational crutch.
+
+627
+00:27:36.400 --> 00:27:39.433
+It's a Latin phrase, cetus parabus, all else being
+
+628
+00:27:39.433 --> 00:27:42.467
+equal. Yes. When economists, political scientists
+
+629
+00:27:42.467 --> 00:27:46.167
+or sociologists build mathematical models to predict human behavior,
+
+630
+00:27:46.167 --> 00:27:47.767
+they have to isolate variables.
+
+631
+00:27:47.767 --> 00:27:49.433
+The world is too messy otherwise.
+
+632
+00:27:49.433 --> 00:27:51.600
+So, they construct a model that assumes everything else
+
+633
+00:27:51.600 --> 00:27:54.333
+in the world remains completely static while they test
+
+634
+00:27:54.333 --> 00:27:57.200
+their one specific cause and They assume the gravity
+
+635
+00:27:57.200 --> 00:28:00.000
+of the bystander won't affect the billiard ball.
+
+636
+00:28:00.000 --> 00:28:03.267
+But in a highly coupled, chaotic world, all else
+
+637
+00:28:03.267 --> 00:28:05.767
+is never equal. Which brings us directly to one
+
+638
+00:28:05.767 --> 00:28:08.867
+of the biggest scientific controversies of the last decade,
+
+639
+00:28:08.867 --> 00:28:12.467
+the replication crisis and the mechanics of P hacking.
+
+640
+00:28:12.467 --> 00:28:15.033
+This is a major scandal that exposed how we
+
+641
+00:28:15.033 --> 00:28:17.600
+try to force chaos into neat boxes.
+
+642
+00:28:17.600 --> 00:28:20.067
+To get a study published in a prestigious academic
+
+643
+00:28:20.067 --> 00:28:23.133
+journal, researchers usually need their results to reach a
+
+644
+00:28:23.133 --> 00:28:25.600
+certain threshold of statistical significance.
+
+645
+00:28:25.600 --> 00:28:27.933
+In most social sciences, this is known as an
+
+646
+00:28:27.933 --> 00:28:31.833
+alpha level or a p value of under Let's
+
+647
+00:28:31.833 --> 00:28:35.000
+explain what that actually means mathematically because it's crucial.
+
+648
+00:28:35.600 --> 00:28:38.633
+Simplistically, a p value of 0.05 means there
+
+649
+00:28:38.633 --> 00:28:41.133
+is a 5% probability that you would get these
+
+650
+00:28:41.133 --> 00:28:43.833
+results purely by random chance if your hypothesis was
+
+651
+00:28:43.833 --> 00:28:46.067
+actually false. It's supposed to be a mathematical filter
+
+652
+00:28:46.067 --> 00:28:48.733
+to prove that your result, say that coffee makes
+
+653
+00:28:48.733 --> 00:28:51.767
+people type faster, wasn't just random noise.
+
+654
+00:28:51.767 --> 00:28:54.867
+If you hit 05, your study is deemed statistically
+
+655
+00:28:54.867 --> 00:28:56.400
+significant and gets published.
+
+656
+00:28:56.400 --> 00:28:58.633
+If you get 06, it gets thrown in a
+
+657
+00:28:58.633 --> 00:29:00.333
+drawer and your career stalls.
+
+658
+00:29:00.333 --> 00:29:02.333
+And researchers are human beings.
+
+659
+00:29:02.333 --> 00:29:05.533
+Their tenure, their funding, and their livelihoods depend
+
+660
+00:29:05.533 --> 00:29:08.633
+on publishing. Exactly. So if an experiment
+
+661
+00:29:08.633 --> 00:29:11.667
+yields a p value of 0.051, 051 just
+
+662
+00:29:11.667 --> 00:29:13.600
+barely missing the cutoff.
+
+663
+00:29:13.600 --> 00:29:16.967
+There is a massive often subconscious temptation
+
+664
+00:29:16.967 --> 00:29:20.567
+to massage the It's like the sharpshooter fallacy.
+
+665
+00:29:20.567 --> 00:29:21.933
+You shoot a bunch of holes in the side
+
+666
+00:29:21.933 --> 00:29:23.767
+of a barn and then you walk up and
+
+667
+00:29:23.767 --> 00:29:26.233
+draw a bullseye around the tightest cluster of bullet
+
+668
+00:29:26.233 --> 00:29:28.400
+holes and you tell everyone you're a sniper.
+
+669
+00:29:28.400 --> 00:29:30.167
+That is a perfect analogy.
+
+670
+00:29:30.167 --> 00:29:32.233
+You exclude a few outliers here.
+
+671
+00:29:32.233 --> 00:29:33.667
+You tweak a parameter there.
+
+672
+00:29:33.667 --> 00:29:36.233
+You run the statistical analysis slightly differently.
+
+673
+00:29:36.233 --> 00:29:38.567
+You check for subgroups you didn't originally intend to
+
+674
+00:29:38.567 --> 00:29:41.600
+test until the number magically drops to 049.
+
+675
+00:29:41.600 --> 00:29:42.733
+That is P hacking.
+
+676
+00:29:42.733 --> 00:29:45.433
+Yes. You torture the data until it confesses to
+
+677
+00:29:45.433 --> 00:29:48.733
+a neat linear And this led to some genuinely
+
+678
+00:29:48.733 --> 00:29:52.067
+wild publications. The most famous is probably Daryl BMP,
+
+679
+00:29:52.067 --> 00:29:54.867
+a highly respected Yeah, that was a huge deal.
+
+680
+00:29:54.867 --> 00:29:57.033
+He had published a peer-reviewed study in a major
+
+681
+00:29:57.033 --> 00:30:00.167
+top tier scientific journal claiming to mathematically prove
+
+682
+00:30:00.167 --> 00:30:03.033
+the existence of ESP extrensory perception.
+
+683
+00:30:03.033 --> 00:30:06.067
+Bem's study passed the peerreview process because the math
+
+684
+00:30:06.067 --> 00:30:07.533
+looked right on paper.
+
+685
+00:30:07.533 --> 00:30:09.600
+But when other scientists around the world set up
+
+686
+00:30:09.600 --> 00:30:13.267
+the exact same experiments and tried to replicate Bem's
+
+687
+00:30:13.267 --> 00:30:16.400
+and the findings of dozens of other famous foundational
+
+688
+00:30:16.400 --> 00:30:19.433
+psychological they couldn't. The effects vanished.
+
+689
+00:30:19.433 --> 00:30:23.200
+The original results were illusions created by statistical manipulation
+
+690
+00:30:23.200 --> 00:30:25.533
+and the pressure to find order and noise.
+
+691
+00:30:25.533 --> 00:30:27.933
+We were systematically trying to write the flukes out
+
+692
+00:30:27.933 --> 00:30:31.267
+of society because a tidy ordered
+
+693
+00:30:31.267 --> 00:30:33.767
+reality is easier to publish and much easier for
+
+694
+00:30:33.767 --> 00:30:35.200
+the public to digest.
+
+695
+00:30:35.200 --> 00:30:37.933
+The book introduces a concept to explain why these
+
+696
+00:30:37.933 --> 00:30:40.967
+models fail so spectacularly when applied to the real
+
+697
+00:30:40.967 --> 00:30:45.267
+world. It's called the land of Heraclesian Heracitis
+
+698
+00:30:45.267 --> 00:30:48.000
+was the ancient Greek philosopher who famously said, "You
+
+699
+00:30:48.000 --> 00:30:49.767
+can never step in the same river twice because
+
+700
+00:30:49.767 --> 00:30:51.433
+it's not the same river and you're not the
+
+701
+00:30:51.433 --> 00:30:54.600
+same person." It perfectly describes the problem of non-station
+
+702
+00:30:55.200 --> 00:30:57.133
+in predicting human behavior.
+
+703
+00:30:57.133 --> 00:30:59.433
+Physical laws like the speed of light or gravity
+
+704
+00:30:59.433 --> 00:31:02.233
+are stationary. They don't change over time.
+
+705
+00:31:02.233 --> 00:31:04.133
+But human society is non-stationary.
+
+706
+00:31:04.800 --> 00:31:06.867
+The rules are constantly evolving.
+
+707
+00:31:06.867 --> 00:31:10.067
+Imagine it is 1995 and you are hired
+
+708
+00:31:10.067 --> 00:31:13.033
+as a top data scientist to build a highly
+
+709
+00:31:13.033 --> 00:31:16.167
+sophisticated statistical model to predict how many
+
+710
+00:31:16.167 --> 00:31:18.633
+hours a British person will spend looking at a
+
+711
+00:31:18.633 --> 00:31:20.800
+screen in the year 2020.
+
+712
+00:31:20.800 --> 00:31:23.267
+You could use all the polling and behavioral data
+
+713
+00:31:23.267 --> 00:31:25.267
+available from the 80s and 90s.
+
+714
+00:31:25.267 --> 00:31:27.667
+Your regression analysis could be flawless.
+
+715
+00:31:27.667 --> 00:31:30.967
+But your prediction would be spectacularly, embarrassingly
+
+716
+00:31:30.967 --> 00:31:34.733
+wrong. Because in 1995, the iPhone didn't exist.
+
+717
+00:31:34.733 --> 00:31:36.567
+Social media algorithms didn't exist.
+
+718
+00:31:36.567 --> 00:31:39.200
+And a once in a century viral pandemic that
+
+719
+00:31:39.200 --> 00:31:42.167
+locked everyone in their houses for months certainly wasn't
+
+720
+00:31:42.167 --> 00:31:43.600
+accounted for in the data.
+
+721
+00:31:43.600 --> 00:31:46.867
+The underlying architecture of the system fundamentally changed.
+
+722
+00:31:46.867 --> 00:31:50.067
+Probabilities and historical models become entirely useless when
+
+723
+00:31:50.067 --> 00:31:52.067
+the world itself is shifting under your feet.
+
+724
+00:31:52.067 --> 00:31:54.333
+You cannot use a static snapshot of the past
+
+725
+00:31:54.333 --> 00:31:57.667
+to predict a chaotic, continuously evolving future.
+
+726
+00:31:57.667 --> 00:31:59.933
+But wait, I can hear the objection Let's hear
+
+727
+00:31:59.933 --> 00:32:02.633
+it. If social science models are flawed and historical
+
+728
+00:32:02.633 --> 00:32:04.800
+data can't predict the future because the rules keep
+
+729
+00:32:04.800 --> 00:32:07.200
+changing, what does this actually mean for us?
+
+730
+00:32:07.200 --> 00:32:09.667
+Should we just throw out all data science, political
+
+731
+00:32:09.667 --> 00:32:12.233
+polling, macroeconomics, and psychology?
+
+732
+00:32:12.233 --> 00:32:14.067
+Do we just throw our hands up and admit
+
+733
+00:32:14.067 --> 00:32:16.567
+we know nothing and that everything is random?
+
+734
+00:32:16.567 --> 00:32:19.033
+No, we absolutely do not throw out the science.
+
+735
+00:32:19.033 --> 00:32:21.667
+We navigate the world infinitely better today because of
+
+736
+00:32:21.667 --> 00:32:26.000
+the insights of sociology, psychology, and What
+
+737
+00:32:26.000 --> 00:32:29.200
+we must throw out is the delusion of certainty.
+
+738
+00:32:29.200 --> 00:32:32.400
+We have to stop treating statistical models as
+
+739
+00:32:32.400 --> 00:32:35.767
+infallible crystal balls. We need epistemic humility.
+
+740
+00:32:35.767 --> 00:32:38.167
+We have to understand the limits of our knowledge.
+
+741
+00:32:38.167 --> 00:32:41.200
+Stop relying on static models that ignore external
+
+742
+00:32:41.200 --> 00:32:44.333
+shocks and recognize that the exact sequence
+
+743
+00:32:44.333 --> 00:32:47.667
+and timing of unpredictable events fundamentally dictate
+
+744
+00:32:47.667 --> 00:32:50.233
+the outcome. Because a tiny fluke doesn't just change
+
+745
+00:32:50.233 --> 00:32:53.567
+the score, it rewrites the entire game.
+
+746
+00:32:54.400 --> 00:32:57.267
+Let's take all of this highlevel chaos theory and
+
+747
+00:32:57.267 --> 00:32:59.267
+apply it to how we actually live our lives
+
+748
+00:32:59.267 --> 00:33:02.567
+dayto-day. Look at the calendar of a successful modern
+
+749
+00:33:02.567 --> 00:33:04.800
+professional or look at how a modern corporation is
+
+750
+00:33:04.800 --> 00:33:06.867
+run. Everything is packed back to back.
+
+751
+00:33:06.867 --> 00:33:10.167
+Every single minute is optimized for maximum productivity,
+
+752
+00:33:10.167 --> 00:33:13.667
+commute time, meeting times, gym time, sleep time.
+
+753
+00:33:13.667 --> 00:33:15.133
+But what actually happens?
+
+754
+00:33:15.133 --> 00:33:17.600
+One meeting runs 5 minutes late, the subway gets
+
+755
+00:33:17.600 --> 00:33:20.333
+delayed because of a signal failure, and the entire
+
+756
+00:33:20.333 --> 00:33:22.633
+week collapses like a house of cards.
+
+757
+00:33:22.633 --> 00:33:24.200
+This is a danger of optimization.
+
+758
+00:33:25.133 --> 00:33:28.333
+In our relentless quest for maximum efficiency and maximum
+
+759
+00:33:28.333 --> 00:33:31.533
+profit, modern society has systematically stripped all
+
+760
+00:33:31.533 --> 00:33:34.400
+the slack, all the buffer, and all the redundancy
+
+761
+00:33:34.400 --> 00:33:36.400
+out of our lives and our global systems.
+
+762
+00:33:36.400 --> 00:33:39.267
+We have engineered a world that features incredible local
+
+763
+00:33:39.267 --> 00:33:43.033
+stability, but massive, terrifying global fragility.
+
+764
+00:33:43.033 --> 00:33:45.200
+To really understand how different this is from the
+
+765
+00:33:45.200 --> 00:33:48.233
+way humanity used to live, Clauss brings up the
+
+766
+00:33:48.233 --> 00:33:51.267
+1875 locust plague. It is hard for a
+
+767
+00:33:51.267 --> 00:33:54.000
+modern mind to even comprehend the sheer scale of
+
+768
+00:33:54.000 --> 00:33:57.267
+this biological event. In 1875, a swarm
+
+769
+00:33:57.267 --> 00:33:59.533
+of Rocky Mountain locusts the size of the state
+
+770
+00:33:59.533 --> 00:34:01.933
+of California swept across the United States.
+
+771
+00:34:01.933 --> 00:34:04.967
+We are talking about an estimated 3.5 trillion
+
+772
+00:34:04.967 --> 00:34:08.167
+individual insects forming a cloud 1,800 m
+
+773
+00:34:08.167 --> 00:34:10.733
+long. They literally blocked out the sun for days.
+
+774
+00:34:10.733 --> 00:34:13.267
+And they ate absolutely everything in their path, crops,
+
+775
+00:34:13.267 --> 00:34:14.733
+obviously, but it went beyond that.
+
+776
+00:34:14.733 --> 00:34:16.233
+They ate the bark off peach trees.
+
+777
+00:34:16.233 --> 00:34:19.200
+Laura Engles Wilder famously wrote about this in on
+
+778
+00:34:19.200 --> 00:34:20.567
+the banks of Plum Creek.
+
+779
+00:34:20.567 --> 00:34:23.133
+The locusts ate the clothes off the clothes lines,
+
+780
+00:34:23.133 --> 00:34:25.667
+the leather off harnesses, and the wool straight off
+
+781
+00:34:25.667 --> 00:34:27.367
+the backs of living sheep.
+
+782
+00:34:27.367 --> 00:34:30.000
+Now compare the structure of the world in 1875
+
+783
+00:34:30.000 --> 00:34:31.667
+to our world today.
+
+784
+00:34:31.667 --> 00:34:34.933
+For our ancestors, life was defined by local
+
+785
+00:34:35.933 --> 00:34:38.967
+A locust plague, a localized drought, or a
+
+786
+00:34:38.967 --> 00:34:41.833
+sudden illness could completely wipe out your town or
+
+787
+00:34:41.833 --> 00:34:45.033
+your family. But globally, the system was stable and
+
+788
+00:34:45.033 --> 00:34:48.167
+disconnected. A plague that destroyed crops in
+
+789
+00:34:48.167 --> 00:34:51.267
+Minnesota did not cause a stock market crash or
+
+790
+00:34:51.267 --> 00:34:52.400
+a famine in London.
+
+791
+00:34:52.400 --> 00:34:54.633
+The nodes of the network were isolated.
+
+792
+00:34:54.633 --> 00:34:56.567
+Today, it is the exact opposite.
+
+793
+00:34:56.567 --> 00:34:59.767
+Right today, local life is incredibly stable and ordered.
+
+794
+00:34:59.767 --> 00:35:03.133
+We are like a highly organized, perfectly synchronized human
+
+795
+00:35:03.133 --> 00:35:05.433
+swarm. I can walk into a chain coffee shop
+
+796
+00:35:05.433 --> 00:35:07.833
+in 118 different countries and get the exact same
+
+797
+00:35:07.833 --> 00:35:09.933
+latte. I can punch a code into an ATM
+
+798
+00:35:09.933 --> 00:35:12.633
+in Tokyo and instantly withdraw money from my checking
+
+799
+00:35:12.633 --> 00:35:13.433
+account in New York.
+
+800
+00:35:13.433 --> 00:35:15.667
+If you get an elevator anywhere on Earth, everyone
+
+801
+00:35:15.667 --> 00:35:17.767
+organically turns around and faces the door.
+
+802
+00:35:17.767 --> 00:35:20.333
+But because everything is so perfectly optimized and every
+
+803
+00:35:20.333 --> 00:35:22.733
+node is so tightly connected to every other node
+
+804
+00:35:22.733 --> 00:35:26.400
+through just in time manufacturing and global internet protocols,
+
+805
+00:35:26.400 --> 00:35:29.600
+we are highly vulnerable to global black
+
+806
+00:35:29.600 --> 00:35:31.433
+swans. Well, we live in a world where a
+
+807
+00:35:31.433 --> 00:35:34.733
+single container ship, the Evergiven, getting blown sideways
+
+808
+00:35:34.733 --> 00:35:36.800
+by a gust of wind and stuck diagonally in
+
+809
+00:35:36.800 --> 00:35:39.933
+the Suez Canal, can instantly paralyze global
+
+810
+00:35:39.933 --> 00:35:42.633
+trade, costing billions of dollars a day, and causing
+
+811
+00:35:42.633 --> 00:35:45.667
+shortages of medical supplies and consumer goods on the
+
+812
+00:35:45.667 --> 00:35:46.633
+other side of the planet.
+
+813
+00:35:46.633 --> 00:35:48.967
+It makes me think of Formula 1 racing.
+
+814
+00:35:48.967 --> 00:35:51.267
+If you look at a consumer sedan, it's heavy.
+
+815
+00:35:51.267 --> 00:35:53.933
+It's got a steel frame, massive bumpers, a heavy
+
+816
+00:35:53.933 --> 00:35:56.400
+engine block. It's inefficient, but if you hit a
+
+817
+00:35:56.400 --> 00:35:59.133
+pothole of 40 mph, you're fine.
+
+818
+00:35:59.133 --> 00:36:01.600
+It is But a Formula 1 car is built
+
+819
+00:36:01.600 --> 00:36:03.767
+for pure optimized speed.
+
+820
+00:36:03.767 --> 00:36:06.633
+They strip away every single ounce of protective framing.
+
+821
+00:36:06.633 --> 00:36:08.400
+They use lightweight carbon fiber.
+
+822
+00:36:08.400 --> 00:36:10.633
+They tune the engine to the absolute limit.
+
+823
+00:36:10.633 --> 00:36:12.800
+It is a masterpiece of efficiency.
+
+824
+00:36:12.800 --> 00:36:14.967
+But because all the redundancy is gone, if that
+
+825
+00:36:14.967 --> 00:36:18.067
+F1 car hits a pebble at 200 mph, the
+
+826
+00:36:18.067 --> 00:36:20.800
+entire vehicle disintegrates into a million pieces.
+
+827
+00:36:20.800 --> 00:36:22.633
+That is exactly what we have done to global
+
+828
+00:36:22.633 --> 00:36:24.167
+supply chains and our own schedules.
+
+829
+00:36:24.167 --> 00:36:27.600
+We are driving F1 cars over a chaotic pebble
+
+830
+00:36:27.600 --> 00:36:30.333
+strewn track. The author uses a structural analogy for
+
+831
+00:36:30.333 --> 00:36:32.967
+this involving a paper bowl and a marble.
+
+832
+00:36:32.967 --> 00:36:35.533
+It perfectly illustrates the concept of moving toward the
+
+833
+00:36:35.533 --> 00:36:38.633
+edge of chaos. Imagine society is a paper bowl
+
+834
+00:36:38.633 --> 00:36:41.033
+sitting on a table and you place a marble
+
+835
+00:36:41.033 --> 00:36:43.533
+inside it. The marble rests at the bottom.
+
+836
+00:36:43.533 --> 00:36:46.400
+If you nudge the marble, say a local banking
+
+837
+00:36:46.400 --> 00:36:48.967
+crisis or a bad harvest, it rolls up the
+
+838
+00:36:48.967 --> 00:36:51.667
+side, but gravity pulls it back down to rest
+
+839
+00:36:51.667 --> 00:36:52.733
+safely at the center.
+
+840
+00:36:52.733 --> 00:36:53.833
+The system is resilient.
+
+841
+00:36:53.833 --> 00:36:55.433
+It can absorb shocks.
+
+842
+00:36:55.433 --> 00:36:58.000
+But then we decide the bowl isn't efficient enough.
+
+843
+00:36:58.000 --> 00:36:59.933
+It takes up too much space.
+
+844
+00:36:59.933 --> 00:37:02.633
+The walls of the bowl are wasted resources.
+
+845
+00:37:02.633 --> 00:37:05.033
+So we flattened the paper out into a plate.
+
+846
+00:37:05.033 --> 00:37:06.867
+Now if you push the margle, it rolls away
+
+847
+00:37:06.867 --> 00:37:08.333
+and falls off the edge.
+
+848
+00:37:08.333 --> 00:37:09.667
+It doesn't come back.
+
+849
+00:37:09.667 --> 00:37:11.133
+But we didn't stop there.
+
+850
+00:37:11.133 --> 00:37:14.467
+Driven by algorithmic optimization and the demand for constant
+
+851
+00:37:14.467 --> 00:37:17.267
+quarterly growth. We relentlessly optimize.
+
+852
+00:37:17.267 --> 00:37:19.667
+We essentially folded that piece of paper into a
+
+853
+00:37:19.667 --> 00:37:22.000
+sharp inverted cone. And we are now trying to
+
+854
+00:37:22.000 --> 00:37:24.067
+balance the marble at the absolute peak.
+
+855
+00:37:24.067 --> 00:37:27.133
+We have removed all the protective walls.
+
+856
+00:37:27.133 --> 00:37:30.167
+Now, even a single human breath, a microscopic
+
+857
+00:37:30.167 --> 00:37:33.267
+tremor in a semiconductor supply chain or a
+
+858
+00:37:33.267 --> 00:37:36.233
+localized virus crossing from a bat to a human
+
+859
+00:37:36.233 --> 00:37:39.267
+in a single city market causes the marble
+
+860
+00:37:39.267 --> 00:37:41.067
+to cascade down catastrophically.
+
+861
+00:37:41.767 --> 00:37:43.600
+But I want to push back on this critique
+
+862
+00:37:43.600 --> 00:37:45.267
+of optimization. Go for it.
+
+863
+00:37:45.267 --> 00:37:48.233
+Hasn't this hyperefficiency brought us the highest standard of
+
+864
+00:37:48.233 --> 00:37:51.667
+living in human I mean, we have life-saving medicines
+
+865
+00:37:51.667 --> 00:37:54.400
+delivered globally. We have cheap goods delivered to our
+
+866
+00:37:54.400 --> 00:37:58.000
+front doors in 24 We have unprecedented global connection,
+
+867
+00:37:58.000 --> 00:38:01.367
+plummeting poverty rates, and massive technological leaps.
+
+868
+00:38:01.367 --> 00:38:04.567
+Isn't the fragility just the necessary price of progress?
+
+869
+00:38:04.567 --> 00:38:07.033
+You're highlighting the core trade-off, but it raises an
+
+870
+00:38:07.033 --> 00:38:09.833
+important question about what we value long term.
+
+871
+00:38:09.833 --> 00:38:12.967
+Yes, optimization brings wealth, speed, and convenience, but we
+
+872
+00:38:12.967 --> 00:38:16.000
+are fundamentally mistaking efficiency for resilience.
+
+873
+00:38:16.000 --> 00:38:18.233
+When you engineer a system to have zero friction
+
+874
+00:38:18.233 --> 00:38:21.267
+and zero redundancy, when hospitals only stock
+
+875
+00:38:21.267 --> 00:38:24.333
+exactly enough masks for a normal week, or when
+
+876
+00:38:24.333 --> 00:38:27.833
+companies eliminate backup suppliers to save 2% on margins,
+
+877
+00:38:27.833 --> 00:38:31.367
+you are engineering a system that simply cannot handle
+
+878
+00:38:31.367 --> 00:38:34.567
+the chaotic nonlinear reality of the physical
+
+879
+00:38:34.567 --> 00:38:36.967
+universe. We are balancing on the edge of chaos
+
+880
+00:38:36.967 --> 00:38:40.067
+by design and then acting surprise when a passing
+
+881
+00:38:40.067 --> 00:38:41.600
+breeze knocks us off the cliff.
+
+882
+00:38:41.600 --> 00:38:44.400
+Because a tiny fluke doesn't just change the score,
+
+883
+00:38:44.400 --> 00:38:46.233
+it rewrites the entire game.
+
+884
+00:38:46.233 --> 00:38:48.400
+And this brings us to what I think is
+
+885
+00:38:48.400 --> 00:38:51.767
+the most profound and perhaps the most uncomfortable implication
+
+886
+00:38:51.767 --> 00:38:53.433
+of this entire deep dive.
+
+887
+00:38:53.433 --> 00:38:56.733
+It's about how we view human value, success, and
+
+888
+00:38:56.733 --> 00:38:58.867
+failure. If you look at a map of global
+
+889
+00:38:58.867 --> 00:39:01.267
+wealth and poverty or you look at the successful
+
+890
+00:39:01.267 --> 00:39:04.233
+people in your own life, the CEOs, the famous
+
+891
+00:39:04.233 --> 00:39:07.433
+artists, the politicians, the storybook version
+
+892
+00:39:07.433 --> 00:39:10.467
+of reality tells you that success perfectly correlates with
+
+893
+00:39:10.467 --> 00:39:12.867
+human effort, intelligence or merit.
+
+894
+00:39:12.867 --> 00:39:15.200
+It is the myth of the pure meritocracy.
+
+895
+00:39:15.200 --> 00:39:16.867
+We desperately want to believe that if you are
+
+896
+00:39:16.867 --> 00:39:19.533
+wealthy and successful, it is entirely because you earned
+
+897
+00:39:19.533 --> 00:39:21.200
+it through grit and hard work.
+
+898
+00:39:21.200 --> 00:39:23.200
+And conversely, if you are struggling, if you are
+
+899
+00:39:23.200 --> 00:39:25.933
+poor, it is a personal moral failure.
+
+900
+00:39:25.933 --> 00:39:28.867
+you just didn't work hard But understanding the deep
+
+901
+00:39:28.867 --> 00:39:32.233
+chaotic contingency of our world forces a radical
+
+902
+00:39:32.233 --> 00:39:35.267
+humility. It shatters the myth that we all start
+
+903
+00:39:35.267 --> 00:39:36.333
+from a blank slate.
+
+904
+00:39:36.333 --> 00:39:39.200
+The geographic lottery is the ultimate proof of this.
+
+905
+00:39:39.200 --> 00:39:41.367
+We talked about the asteroid, but the book takes
+
+906
+00:39:41.367 --> 00:39:44.967
+us back to another geological era, the Cretaceous
+
+907
+00:39:44.967 --> 00:39:48.333
+Back then, a massive shallow inland sea covered
+
+908
+00:39:48.333 --> 00:39:50.467
+what is now the deep south of the United
+
+909
+00:39:50.467 --> 00:39:52.967
+States. Let's trace the mechanics of this because it
+
+910
+00:39:52.967 --> 00:39:55.933
+shows how deep time dictates modern reality.
+
+911
+00:39:55.933 --> 00:39:59.033
+In that shallow sea, trillions upon trillions of
+
+912
+00:39:59.033 --> 00:40:02.400
+microscopic phytolankton, specifically single-sellled
+
+913
+00:40:02.400 --> 00:40:05.433
+algae called cockalithophores lived, photosynthesized,
+
+914
+00:40:05.433 --> 00:40:08.467
+and died. When they died, their calcium carbonate shells
+
+915
+00:40:08.467 --> 00:40:09.667
+sank to the bottom.
+
+916
+00:40:09.667 --> 00:40:13.033
+Over millions of years, this formed a massive crescent-shaped
+
+917
+00:40:13.033 --> 00:40:15.267
+layer of nutrient-rich chalk rock.
+
+918
+00:40:15.267 --> 00:40:17.367
+Tens of millions of years pass.
+
+919
+00:40:17.367 --> 00:40:18.633
+The sea dries up.
+
+920
+00:40:18.633 --> 00:40:20.333
+The tectonic plates shift.
+
+921
+00:40:20.333 --> 00:40:23.667
+That specific chalk layer degrades and mixes with organic
+
+922
+00:40:23.667 --> 00:40:25.367
+matter to become a band of some of the
+
+923
+00:40:25.367 --> 00:40:29.133
+most incredibly fertile dark soil on the North American
+
+924
+00:40:29.133 --> 00:40:32.233
+And because that specific crescent-shaped band of
+
+925
+00:40:32.233 --> 00:40:35.533
+soil was so incredibly fertile, it was perfect
+
+926
+00:40:35.533 --> 00:40:38.733
+for growing a very specific resource inensive
+
+927
+00:40:38.733 --> 00:40:41.833
+crop, cotton. This geological fluke dictated
+
+928
+00:40:41.833 --> 00:40:44.867
+the economic and agricultural development of the American South
+
+929
+00:40:44.867 --> 00:40:46.000
+in the 19th century.
+
+930
+00:40:46.000 --> 00:40:49.267
+It dictated exactly where wealthy plantation owners bought
+
+931
+00:40:49.267 --> 00:40:51.133
+massive tracks of land.
+
+932
+00:40:51.133 --> 00:40:54.400
+And tragically, it dictated exactly where they brought enslaved
+
+933
+00:40:54.400 --> 00:40:56.000
+human beings to work that land.
+
+934
+00:40:56.000 --> 00:40:58.633
+And the contingency doesn't stop in the 1800s.
+
+935
+00:40:58.633 --> 00:41:01.533
+If you look at modern political and demographic maps
+
+936
+00:41:01.533 --> 00:41:04.333
+today, millions of years after that inland sea dried
+
+937
+00:41:04.333 --> 00:41:06.400
+up, you can overlay a map of that ancient
+
+938
+00:41:06.400 --> 00:41:09.533
+chalk deposit directly on top of modern 21st
+
+939
+00:41:09.533 --> 00:41:12.867
+century election maps. The voting patterns of those specific
+
+940
+00:41:12.867 --> 00:41:15.833
+counties driven by the demographic descendants of the enslaved
+
+941
+00:41:15.833 --> 00:41:19.367
+people brought there to work that specific soil reliably
+
+942
+00:41:19.367 --> 00:41:22.233
+vote differently than the surrounding less fertile areas in
+
+943
+00:41:22.233 --> 00:41:23.533
+the exact same states.
+
+944
+00:41:23.533 --> 00:41:26.000
+To be clear, we are not taking a political
+
+945
+00:41:26.000 --> 00:41:27.933
+stance on the voting itself.
+
+946
+00:41:27.933 --> 00:41:30.200
+We are observing the underlying mechanism.
+
+947
+00:41:30.867 --> 00:41:34.000
+Ancient phytolankton accumulating on a seabed millions of
+
+948
+00:41:34.000 --> 00:41:37.133
+years ago fundamentally dictates modern demographic
+
+949
+00:41:37.133 --> 00:41:39.533
+distribution and geopolitical power.
+
+950
+00:41:39.533 --> 00:41:41.400
+It's an incredible chain of causality.
+
+951
+00:41:42.067 --> 00:41:44.400
+But it's not just ancient history that dictates our
+
+952
+00:41:44.400 --> 00:41:47.267
+fates. It happens in real time every single day
+
+953
+00:41:47.267 --> 00:41:50.567
+through what we mentioned earlier, corno contingency.
+
+954
+00:41:50.567 --> 00:41:53.933
+Right? Corno contingency is what happens when two completely
+
+955
+00:41:53.933 --> 00:41:56.967
+independent unrelated paths intersect randomly
+
+956
+00:41:56.967 --> 00:42:00.233
+in time and space creating a massive The book
+
+957
+00:42:00.233 --> 00:42:02.233
+gives a visceral tragic example.
+
+958
+00:42:02.233 --> 00:42:05.367
+A motorcyclist is riding down a winding country road.
+
+959
+00:42:05.367 --> 00:42:07.267
+A fly is buzzing around a field.
+
+960
+00:42:07.267 --> 00:42:10.467
+Both are operating on their own independent timelines driven
+
+961
+00:42:10.467 --> 00:42:12.967
+by completely different biological imperatives.
+
+962
+00:42:12.967 --> 00:42:15.367
+But if the fly zips into the motorcyclist's eye
+
+963
+00:42:15.367 --> 00:42:17.767
+at the exact millisecond they are navigating a sharp
+
+964
+00:42:17.767 --> 00:42:20.633
+dangerous turn. It causes a fatal crash.
+
+965
+00:42:20.633 --> 00:42:22.233
+You cannot out optimize a fly.
+
+966
+00:42:22.233 --> 00:42:24.400
+You cannot out hustle random timing.
+
+967
+00:42:24.400 --> 00:42:26.967
+No amount of merit or hard work saves the
+
+968
+00:42:26.967 --> 00:42:28.867
+motorcyclist in that millisecond.
+
+969
+00:42:28.867 --> 00:42:30.567
+Exactly. You can wear a helmet.
+
+970
+00:42:30.567 --> 00:42:32.000
+You can take riding courses.
+
+971
+00:42:32.000 --> 00:42:34.233
+You can be the most skilled driver on earth,
+
+972
+00:42:34.233 --> 00:42:37.033
+which is the effort part of the equation, but
+
+973
+00:42:37.033 --> 00:42:40.233
+you're still subject to the chaotic intersection of a
+
+974
+00:42:40.233 --> 00:42:42.400
+flies flight path. I have to push back hard
+
+975
+00:42:42.400 --> 00:42:44.400
+on the moral implications of this though, right?
+
+976
+00:42:44.400 --> 00:42:47.600
+What is it? If geography, random timing, and
+
+977
+00:42:47.600 --> 00:42:50.633
+ancient magma dictate so much of our societal
+
+978
+00:42:50.633 --> 00:42:53.767
+structure and our personal fates, doesn't that just
+
+979
+00:42:53.767 --> 00:42:56.867
+excuse human atrocities? Doesn't it excuse bad
+
+980
+00:42:56.867 --> 00:42:59.200
+leadership or systemic cruelty?
+
+981
+00:42:59.200 --> 00:43:01.433
+Like a dictator could just say, "Hey, the famine
+
+982
+00:43:01.433 --> 00:43:03.300
+wasn't my fault. It was the tectonic plates and
+
+983
+00:43:03.310 --> 00:43:05.933
+the weather." Or a billionaire could say, "I shouldn't
+
+984
+00:43:05.933 --> 00:43:07.600
+have to pay taxes to help people.
+
+985
+00:43:07.600 --> 00:43:10.167
+The universe is just chaotic." That is the great
+
+986
+00:43:10.167 --> 00:43:13.433
+moral hazard of misunderstanding chaos theory and the author
+
+987
+00:43:13.433 --> 00:43:15.600
+is very explicit about avoiding it.
+
+988
+00:43:15.600 --> 00:43:18.733
+Acknowledging geographic and historical contingency
+
+989
+00:43:18.733 --> 00:43:22.167
+absolutely does not negate the horrors of human atrocities,
+
+990
+00:43:22.167 --> 00:43:25.367
+the reality of systemic injustice or the vital importance
+
+991
+00:43:25.367 --> 00:43:28.167
+of human choices. The dictator is still responsible for
+
+992
+00:43:28.167 --> 00:43:30.800
+the famine. What chaos theory proves is that we
+
+993
+00:43:30.800 --> 00:43:33.433
+do not start from an equal blank slate.
+
+994
+00:43:33.433 --> 00:43:36.167
+The playing field is structurally uneven.
+
+995
+00:43:36.167 --> 00:43:40.167
+So, it's an argument against arrogance, not against accountability.
+
+996
+00:43:40.167 --> 00:43:43.267
+Precisely. Recognizing contingency shouldn't lead
+
+997
+00:43:43.267 --> 00:43:46.400
+to excuses. It should foster deep empathy.
+
+998
+00:43:46.400 --> 00:43:49.767
+It should dismantle the arrogant certainty of the highly
+
+999
+00:43:49.767 --> 00:43:52.467
+successful who often suffer from the delusion that they
+
+1000
+00:43:52.467 --> 00:43:55.433
+hit a home run when in reality, the genetic,
+
+1001
+00:43:55.433 --> 00:43:58.567
+geographical, and historical lottery meant they
+
+1002
+00:43:58.567 --> 00:44:00.067
+were born on third base.
+
+1003
+00:44:00.067 --> 00:44:02.467
+It demands that we build social safety nets because
+
+1004
+00:44:02.467 --> 00:44:04.333
+anyone can get a fly in their eye at
+
+1005
+00:44:04.333 --> 00:44:07.200
+any moment. A tiny fluke doesn't just change the
+
+1006
+00:44:07.200 --> 00:44:09.833
+score, it rewrites the entire game.
+
+1007
+00:44:09.833 --> 00:44:12.400
+Okay, we've established that the world is chaotic, that
+
+1008
+00:44:12.400 --> 00:44:15.667
+meritocracy is largely a myth, and that ancient phytolanin
+
+1009
+00:44:15.667 --> 00:44:18.400
+and errant clouds direct the flow of I can
+
+1010
+00:44:18.400 --> 00:44:20.800
+feel the listener getting a bit existential right now.
+
+1011
+00:44:20.800 --> 00:44:22.800
+You're sitting in traffic listening to this deep dive,
+
+1012
+00:44:22.800 --> 00:44:24.967
+and you might be thinking, well, if everything's an
+
+1013
+00:44:24.967 --> 00:44:27.767
+arbitrary fluke and my plans don't matter and chaos
+
+1014
+00:44:27.767 --> 00:44:29.667
+rules the universe, why bother?
+
+1015
+00:44:29.667 --> 00:44:33.433
+Does chaos just equal moral nihilism and learned helplessness?
+
+1016
+00:44:33.433 --> 00:44:34.633
+Let's set the scene.
+
+1017
+00:44:34.633 --> 00:44:35.933
+You're in that traffic jam.
+
+1018
+00:44:35.933 --> 00:44:38.733
+Someone aggressively cuts you off, almost causing an accident.
+
+1019
+00:44:38.733 --> 00:44:39.633
+You have a choice.
+
+1020
+00:44:40.333 --> 00:44:42.967
+You can lay on the horn, scream and flick
+
+1021
+00:44:42.967 --> 00:44:45.833
+them off, or you can take a breath, realize
+
+1022
+00:44:45.833 --> 00:44:47.533
+they might be rushing to a hospital, and let
+
+1023
+00:44:47.533 --> 00:44:50.233
+it go. In a llasian clockwork universe, maybe that
+
+1024
+00:44:50.233 --> 00:44:52.333
+choice only matters to you and the other driver.
+
+1025
+00:44:52.333 --> 00:44:53.267
+It's a closed loop.
+
+1026
+00:44:53.267 --> 00:44:54.867
+But we have proven we live in a highly
+
+1027
+00:44:54.867 --> 00:44:58.400
+sensitive, deeply coupled, chaotic system.
+
+1028
+00:44:58.400 --> 00:45:01.600
+Your choice instantly alters the emotional ecosystem of a
+
+1029
+00:45:01.600 --> 00:45:03.133
+dozen strangers around you.
+
+1030
+00:45:03.133 --> 00:45:06.000
+If you honk and enrage the driver, they carry
+
+1031
+00:45:06.000 --> 00:45:07.533
+that cortisol spike with them.
+
+1032
+00:45:07.533 --> 00:45:09.433
+They might go to work and aggressively yell at
+
+1033
+00:45:09.433 --> 00:45:12.467
+their subordinate. That subordinate, now distressed,
+
+1034
+00:45:12.467 --> 00:45:14.633
+makes a critical coding error in a piece of
+
+1035
+00:45:14.633 --> 00:45:16.567
+software used by thousands.
+
+1036
+00:45:16.567 --> 00:45:19.367
+The ripples of your anger or your grace are
+
+1037
+00:45:19.367 --> 00:45:22.567
+literally infinite. There is a wild story in
+
+1038
+00:45:22.567 --> 00:45:26.000
+the book about a Zambian coup attempt that perfectly
+
+1039
+00:45:26.000 --> 00:45:29.367
+illustrates how microactions dictate massive outcomes.
+
+1040
+00:45:29.367 --> 00:45:32.567
+Brian Claus actually traveled to Zambia to study
+
+1041
+00:45:32.567 --> 00:45:35.667
+why a specific military coup had failed.
+
+1042
+00:45:35.667 --> 00:45:38.333
+As a social scientist, he was originally looking for
+
+1043
+00:45:38.333 --> 00:45:41.367
+macro structural reasons, lack of
+
+1044
+00:45:41.367 --> 00:45:44.733
+popular support, broader economic factors,
+
+1045
+00:45:44.733 --> 00:45:47.833
+military logistics. He interviewed the soldiers who had
+
+1046
+00:45:47.833 --> 00:45:49.933
+actually participated in the attempt.
+
+1047
+00:45:49.933 --> 00:45:52.233
+Their plan was highly organized.
+
+1048
+00:45:52.233 --> 00:45:54.633
+break into the army commander compound in the middle
+
+1049
+00:45:54.633 --> 00:45:57.200
+of the night, kidnap him, and force him at
+
+1050
+00:45:57.200 --> 00:45:59.533
+gunpoint to announce the coup on the national radio
+
+1051
+00:45:59.533 --> 00:46:02.167
+station. A solid strategic plan.
+
+1052
+00:46:02.167 --> 00:46:04.567
+It's exactly the kind of thing political scientists build
+
+1053
+00:46:04.567 --> 00:46:07.833
+models around. So, what structural failure stopped it?
+
+1054
+00:46:07.833 --> 00:46:09.533
+A literal thread of fabric.
+
+1055
+00:46:09.533 --> 00:46:11.433
+The soldiers burst into the compound.
+
+1056
+00:46:11.433 --> 00:46:13.367
+The commander wakes up, leaps out of bed, and
+
+1057
+00:46:13.367 --> 00:46:15.367
+sprints for the high back wall to escape into
+
+1058
+00:46:15.367 --> 00:46:18.000
+the darkness. A pursuing soldier reaches up and grabs
+
+1059
+00:46:18.000 --> 00:46:20.733
+the commander's pant leg as he's scaling the wall.
+
+1060
+00:46:20.733 --> 00:46:21.833
+The commander pulls up.
+
+1061
+00:46:21.833 --> 00:46:23.133
+The soldier pulls down.
+
+1062
+00:46:23.133 --> 00:46:25.433
+And then the physical fabric of the pant legs
+
+1063
+00:46:25.433 --> 00:46:26.867
+slipped through the solders's fingers.
+
+1064
+00:46:26.867 --> 00:46:29.367
+The commander scrambled over the wall, escaped into the
+
+1065
+00:46:29.367 --> 00:46:32.467
+night. The plot was foiled, and the government survived.
+
+1066
+00:46:32.467 --> 00:46:35.133
+If the soldier's grip had been a millimeter tighter,
+
+1067
+00:46:35.133 --> 00:46:36.800
+or if the cotton of the pants had been
+
+1068
+00:46:36.800 --> 00:46:40.333
+woven slightly stronger, a democracy would have fallen.
+
+1069
+00:46:40.333 --> 00:46:43.200
+A nation's history hinged on the friction of a
+
+1070
+00:46:43.200 --> 00:46:45.300
+pant leg. It brings to mind this quote from
+
+1071
+00:46:45.310 --> 00:46:48.167
+the philosopher Hannah Art that Clauss uses in the
+
+1072
+00:46:48.167 --> 00:46:51.433
+book. The smallest act in the most limited
+
+1073
+00:46:51.433 --> 00:46:54.800
+circumstances bears the seed of boundlessness because
+
+1074
+00:46:54.800 --> 00:46:58.067
+one deed and sometimes one word suffices
+
+1075
+00:46:58.067 --> 00:46:59.733
+to change every constellation.
+
+1076
+00:47:00.400 --> 00:47:01.933
+But I want to nail this down before we
+
+1077
+00:47:01.933 --> 00:47:04.867
+end. If I can't control the ultimate outcome of
+
+1078
+00:47:04.867 --> 00:47:07.667
+my actions, if a kind act can accidentally cause
+
+1079
+00:47:07.667 --> 00:47:10.000
+a disaster down the line or a dropped pant
+
+1080
+00:47:10.000 --> 00:47:12.467
+leg can save a nation, why should I even
+
+1081
+00:47:12.467 --> 00:47:15.267
+try to do If I can't steer the ship,
+
+1082
+00:47:15.267 --> 00:47:16.733
+why bother holding the wheel?
+
+1083
+00:47:16.733 --> 00:47:19.133
+And here is the ultimate payoff of this entire
+
+1084
+00:47:19.133 --> 00:47:20.867
+philosophy. This is the reframe.
+
+1085
+00:47:20.867 --> 00:47:23.767
+The cure for the anxiety of lacking control is
+
+1086
+00:47:23.767 --> 00:47:26.567
+not fatalism. He is trading the delusion of certainty
+
+1087
+00:47:26.567 --> 00:47:28.067
+for the wonder of contingency.
+
+1088
+00:47:28.067 --> 00:47:29.033
+You are absolutely right.
+
+1089
+00:47:29.033 --> 00:47:30.567
+You cannot direct the hurricane.
+
+1090
+00:47:30.567 --> 00:47:32.567
+You cannot control the tenth bounce of the billiard
+
+1091
+00:47:32.567 --> 00:47:35.667
+ball. But because our world is so deeply beautifully
+
+1092
+00:47:35.667 --> 00:47:39.367
+interconnected, your micro choices will ripple outward forever.
+
+1093
+00:47:39.367 --> 00:47:41.833
+So it's not that nothing matters, it's that everything
+
+1094
+00:47:41.833 --> 00:47:45.033
+matters. Precisely. What you do every single day
+
+1095
+00:47:45.033 --> 00:47:47.933
+matters far more than you could possibly realize because
+
+1096
+00:47:47.933 --> 00:47:50.567
+you cannot control its final destination.
+
+1097
+00:47:50.567 --> 00:47:52.967
+You are not a mechanic working on a predictable
+
+1098
+00:47:52.967 --> 00:47:56.167
+machine. You are constantly tending to a vast garden
+
+1099
+00:47:56.167 --> 00:47:58.800
+of forking paths for billions of other people.
+
+1100
+00:47:58.800 --> 00:48:01.933
+Every smile, every withheld insult, every small act
+
+1101
+00:48:01.933 --> 00:48:05.267
+of diligence changes the initial conditions of the universe
+
+1102
+00:48:05.267 --> 00:48:08.633
+for someone else. We have covered massive ground today.
+
+1103
+00:48:08.633 --> 00:48:11.833
+We started with Edward Loren truncating a decimal point
+
+1104
+00:48:11.833 --> 00:48:14.733
+and discovering the mathematics of the butterfly effect.
+
+1105
+00:48:14.733 --> 00:48:18.000
+We watched Henry Stimson's romantic vacation memories
+
+1106
+00:48:18.000 --> 00:48:20.733
+spare Kyoto from nuclear fire.
+
+1107
+00:48:20.733 --> 00:48:23.833
+We explored how a tragic 1905 Wisconsin
+
+1108
+00:48:23.833 --> 00:48:26.733
+farm massacre birthed the author of this very book.
+
+1109
+00:48:26.733 --> 00:48:29.600
+We examine how asteroid timing and galactic dark matter
+
+1110
+00:48:29.600 --> 00:48:33.033
+oscillations made room for mammals while the universe continually
+
+1111
+00:48:33.033 --> 00:48:35.200
+tries to evolve crabs and eyes.
+
+1112
+00:48:35.200 --> 00:48:38.333
+We exposed the mathematical flaws of P hacking and
+
+1113
+00:48:38.333 --> 00:48:41.033
+the danger of treating a chaotic society like a
+
+1114
+00:48:41.033 --> 00:48:44.233
+predictable machine. We saw how hyperoptimization
+
+1115
+00:48:44.233 --> 00:48:46.967
+makes us vulnerable to the slightest breeze and how
+
+1116
+00:48:46.967 --> 00:48:50.067
+ancient seas dictate modern wealth and empathy.
+
+1117
+00:48:50.067 --> 00:48:53.133
+You are no longer navigating a rigid, predictable
+
+1118
+00:48:53.133 --> 00:48:56.567
+clockwork machine. You are walking through an infinite,
+
+1119
+00:48:56.567 --> 00:49:00.067
+terrifying, and absolutely beautiful garden of forking
+
+1120
+00:49:00.067 --> 00:49:03.033
+paths. Every step you take creates a new universe
+
+1121
+00:49:03.033 --> 00:49:06.233
+of possibilities while permanently closing off millions of
+
+1122
+00:49:06.233 --> 00:49:08.867
+others. So here is a final thought to leave
+
+1123
+00:49:08.867 --> 00:49:11.033
+you with, especially as we enter the era of
+
+1124
+00:49:11.033 --> 00:49:14.167
+artificial intelligence. We think of AI as this
+
+1125
+00:49:14.167 --> 00:49:17.200
+cold calculating machine learning from vast data
+
+1126
+00:49:17.200 --> 00:49:20.167
+sets. But those data sets are just human history.
+
+1127
+00:49:20.167 --> 00:49:23.200
+Imagine a single person, maybe you, posting a minor,
+
+1128
+00:49:23.200 --> 00:49:25.633
+passing thought on a random internet forum 10 years
+
+1129
+00:49:25.643 --> 00:49:28.867
+ago. Today, a massive language model scrapes that
+
+1130
+00:49:28.867 --> 00:49:30.967
+specific text, weighing its sentiment.
+
+1131
+00:49:30.967 --> 00:49:34.000
+Tomorrow, that slight shift in the algorithms neural network
+
+1132
+00:49:34.000 --> 00:49:36.733
+subtly alters how an AI drafts a policy memo
+
+1133
+00:49:36.733 --> 00:49:38.167
+for a world leader.
+
+1134
+00:49:38.167 --> 00:49:40.800
+Your forgotten midnight thought from a decade ago could
+
+1135
+00:49:40.800 --> 00:49:43.267
+literally rewrite global policy tomorrow.
+
+1136
+00:49:43.267 --> 00:49:46.233
+The fluke doesn't just adjust the trajectory.
+
+1137
+00:49:46.233 --> 00:49:49.033
+It writes an entirely new rule book.
+
+1138
+00:49:49.033 --> 00:49:50.433
+Thank you so much for joining us on this
+
+1139
+00:49:50.443 --> 00:49:52.800
+deep dive. It's been an incredible journey and we'll
+
+1140
+00:49:52.800 --> 00:49:53.867
+catch you on the next
+

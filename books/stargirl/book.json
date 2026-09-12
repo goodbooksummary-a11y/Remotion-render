@@ -1,0 +1,15 @@
+{
+  "slug": "stargirl",
+  "title": "Stargirl",
+  "author": "Jerry Spinelli",
+  "genre": "young adult",
+  "engine": "antidote",
+  "engineRationale": "Young adult psychological allegory exploring conformity, peer surveillance, and individuality. Antidote's flat-vector rigged characters and kinetic typography vividly capture the high school crowd dynamics, social ostracism, and the contrast between conformity and radical authenticity without requiring photoreal depiction.",
+  "palette": {
+    "paper": "#FDF9F0",
+    "ink": "#1C1917",
+    "red": "#E0533C",
+    "gold": "#F59E0B"
+  },
+  "bgTint": true
+}

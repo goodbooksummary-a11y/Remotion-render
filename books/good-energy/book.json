@@ -1,0 +1,15 @@
+{
+  "slug": "good-energy",
+  "title": "Good Energy: The Surprising Connection Between Metabolism and Limitless Health",
+  "author": "Casey Means, Calley Means",
+  "genre": "health",
+  "engine": "antidote",
+  "engineRationale": "Good Energy examines the cellular metabolic engine, systemic chronic fatigue, blood biomarkers, nutrition, and daily lifestyle habits. It centers on an Everyman protagonist navigating energy crashes, confusing doctor visits, grocery store choices, and biological reclamation. Antidote's flat-vector Everyman rig + kinetic typography and drawn visual motifs (bar charts, metabolic meters, clocks, biological arrows) provide maximum clarity, high emotional resonance, and CPU-efficient rendering.",
+  "bgTint": true,
+  "palette": {
+    "paper": "#F6FAF4",
+    "ink": "#0F2018",
+    "red": "#15803D",
+    "gold": "#EAB308"
+  }
+}

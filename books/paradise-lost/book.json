@@ -1,0 +1,9 @@
+{
+  "slug": "paradise-lost",
+  "title": "Paradise Lost",
+  "author": "John Milton",
+  "genre": "classics",
+  "engine": "antidote",
+  "engineRationale": "Milton's cast is God, Satan, Adam and Eve — mythic archetypes, not photographable real people; the book's real subject is interior (pride, obedience, self-deception, the mind as its own place), which is exactly what Antidote's flat-vector rig + kinetic typography portray. Vox cut-outs would need photoreal angels, which reads as AI slop.",
+  "bgTint": true
+}

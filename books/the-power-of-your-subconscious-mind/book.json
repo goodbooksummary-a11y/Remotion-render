@@ -1,0 +1,15 @@
+{
+  "slug": "the-power-of-your-subconscious-mind",
+  "title": "The Power of Your Subconscious Mind",
+  "author": "Joseph Murphy",
+  "genre": "self-help",
+  "engine": "antidote",
+  "engineRationale": "The Power of Your Subconscious Mind explores internal cognitive machinery, autosuggestion, the pre-sleep hypnagogic state, and emotional self-talk. It centers on an Everyman protagonist navigating internal friction, doubts, and subconscious reprogramming without specific historical figures to depict. Antidote's flat-vector Everyman rig + kinetic typography provides high emotional resonance and dynamic visual metaphors for psychological concepts.",
+  "bgTint": true,
+  "palette": {
+    "paper": "#F5F3EC",
+    "ink": "#131B24",
+    "red": "#3A4CB2",
+    "gold": "#E5A838"
+  }
+}

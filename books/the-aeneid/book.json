@@ -1,0 +1,15 @@
+{
+  "slug": "the-aeneid",
+  "title": "The Aeneid",
+  "author": "Virgil",
+  "genre": "classics",
+  "engine": "vox",
+  "engineRationale": "Named epic figures (Aeneas, Dido, Turnus, Anchises), Trojan-war and Roman-founding scenes and documentary-realist imagery — photoreal Flux cut-outs fit; same lane as the-iliad and the-odyssey.",
+  "bgTint": true,
+  "palette": {
+    "paper": "#EDE7DB",
+    "ink": "#161219",
+    "red": "#7A2B46",
+    "gold": "#B0793A"
+  }
+}

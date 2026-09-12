@@ -1,0 +1,15 @@
+{
+  "slug": "hoot",
+  "title": "Hoot",
+  "author": "Carl Hiaasen",
+  "genre": "young adult",
+  "engine": "antidote",
+  "engineRationale": "Hoot has no real public figures to depict - it is a small-town Florida story carried by kids, a construction lot and a corporate villain on a speakerphone. Antidote's flat-vector rig (bus, site fence, burrowing owl, golden shovel, microphone) plus kinetic type portrays the whole cast and the paperwork climax without photoreal people.",
+  "bgTint": true,
+  "palette": {
+    "paper": "#F4F0E2",
+    "ink": "#1A2018",
+    "red": "#2F7D4A",
+    "gold": "#E0A32E"
+  }
+}
