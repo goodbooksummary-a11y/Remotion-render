@@ -1,6 +1,7 @@
 import React from "react";
 import { AbsoluteFill, useCurrentFrame } from "remotion";
 import type { BgSpec } from "../schema";
+import { ANTIDOTE_FONT } from "./KineticText";
 
 /**
  * Backdrop — the world behind the cast.
@@ -568,6 +569,186 @@ export const SETS: Record<string, Array<React.FC<LayerProps>>> = {
             return <rect key={i} x={960 - w / 2} y={y} width={w} height={h} rx={4} />;
           })}
         </g>
+      </g>
+    ),
+  ],
+
+  // ── TECH & SILICON VALLEY PLACES (Antidote 5.0) ───────────────────────────
+  workstation: [
+    ({ ink }) => (
+      <g opacity={0.1}>
+        {/* Modern office window / geometric acoustic wall panels */}
+        <rect x={120} y={100} width={420} height={340} rx={12} fill="none" stroke={ink} strokeWidth={8} />
+        <line x1={330} y1={100} x2={330} y2={440} stroke={ink} strokeWidth={6} />
+        <line x1={120} y1={270} x2={540} y2={270} stroke={ink} strokeWidth={6} />
+        {/* Wall shelving with tech manuals / books */}
+        <rect x={1380} y={140} width={440} height={16} rx={6} fill={ink} />
+        <rect x={1420} y={70} width={26} height={70} rx={4} fill={ink} />
+        <rect x={1452} y={55} width={22} height={85} rx={4} fill={ink} opacity={0.7} />
+        <rect x={1480} y={64} width={24} height={76} rx={4} fill={ink} />
+      </g>
+    ),
+    ({ ink, accent }) => (
+      <g opacity={0.22}>
+        {/* Dual monitors on heavy ergonomic arm */}
+        {/* Monitor 1 (Main IDE / Code Screen on Left) */}
+        <rect x={260} y={320} width={460} height={280} rx={10} fill={ink} opacity={0.75} />
+        <rect x={276} y={336} width={428} height={248} rx={6} fill="#0F172A" />
+        {/* Syntax code lines */}
+        <g fill={accent} opacity={0.85}>
+          <rect x={296} y={360} width={90} height={12} rx={3} />
+          <rect x={396} y={360} width={140} height={12} rx={3} fill="#38BDF8" />
+          <rect x={320} y={386} width={180} height={10} rx={3} fill="#94A3B8" />
+          <rect x={340} y={408} width={120} height={10} rx={3} fill="#A7F3D0" />
+          <rect x={340} y={430} width={220} height={10} rx={3} fill="#FDE047" />
+          <rect x={320} y={452} width={160} height={10} rx={3} fill="#38BDF8" />
+          <rect x={296} y={476} width={70} height={12} rx={3} />
+        </g>
+        {/* Monitor 2 (Analytics / Dashboard on Right) */}
+        <rect x={1200} y={340} width={440} height={260} rx={10} fill={ink} opacity={0.75} />
+        <rect x={1214} y={354} width={412} height={232} rx={6} fill="#0F172A" />
+        {/* Mini metric cards & growth chart */}
+        <rect x={1234} y={374} width={110} height={50} rx={6} fill={accent} opacity={0.4} />
+        <rect x={1360} y={374} width={110} height={50} rx={6} fill="#38BDF8" opacity={0.35} />
+        <path d="M1234,540 L1320,480 L1410,510 L1520,440 L1600,420" fill="none" stroke={accent} strokeWidth={8} strokeLinecap="round" />
+        {/* Heavy Desk & Stand */}
+        <rect x={180} y={630} width={1560} height={32} rx={10} fill={ink} />
+        <rect x={260} y={662} width={28} height={260} fill={ink} />
+        <rect x={1632} y={662} width={28} height={260} fill={ink} />
+      </g>
+    ),
+    ({ ink }) => (
+      <g>
+        <rect x={-100} y={920} width={2120} height={200} fill={ink} opacity={0.16} />
+        <rect x={-100} y={906} width={2120} height={18} fill={ink} opacity={0.24} />
+      </g>
+    ),
+  ],
+
+  startupGarage: [
+    ({ ink }) => (
+      <g opacity={0.09}>
+        {/* Industrial loft brick seams & ducting */}
+        <line x1={-100} y1={80} x2={2020} y2={80} stroke={ink} strokeWidth={36} opacity={0.5} />
+        {[0, 180, 360, 540, 720, 900, 1080, 1260, 1440, 1620, 1800].map((x) => (
+          <rect key={x} x={x} y={62} width={16} height={36} fill={ink} />
+        ))}
+      </g>
+    ),
+    ({ ink, accent }) => (
+      <g opacity={0.24}>
+        {/* Big Architectural Glass Whiteboard on Left */}
+        <rect x={120} y={220} width={620} height={420} rx={14} fill="rgba(255,255,255,0.4)" stroke={ink} strokeWidth={8} />
+        {/* Flowchart Boxes on Whiteboard */}
+        <rect x={160} y={260} width={140} height={60} rx={8} fill={accent} opacity={0.5} />
+        <line x1={300} y1={290} x2={380} y2={290} stroke={ink} strokeWidth={6} strokeLinecap="round" />
+        <polygon points="380,282 396,290 380,298" fill={ink} />
+        <rect x={400} y={260} width={150} height={60} rx={8} fill={ink} opacity={0.4} />
+        <line x1={475} y1={320} x2={475} y2={390} stroke={ink} strokeWidth={6} strokeLinecap="round" />
+        <polygon points="467,390 475,406 483,390" fill={ink} />
+        <rect x={380} y={410} width={190} height={70} rx={10} fill={accent} opacity={0.7} />
+        {/* Sticky Notes on board */}
+        <rect x={590} y={260} width={50} height={50} rx={4} fill="#FDE047" opacity={0.9} />
+        <rect x={650} y={275} width={50} height={50} rx={4} fill="#F472B6" opacity={0.9} />
+        {/* Wall TV on Right displaying Key Metrics */}
+        <rect x={1280} y={200} width={520} height={300} rx={12} fill={ink} opacity={0.8} />
+        <rect x={1300} y={220} width={480} height={260} rx={6} fill="#0F172A" />
+        <circle cx={1420} cy={350} r={50} fill="none" stroke={accent} strokeWidth={14} />
+        <rect x={1510} y={320} width={210} height={20} rx={4} fill="#FFFFFF" opacity={0.8} />
+        <rect x={1510} y={356} width={140} height={16} rx={4} fill={accent} />
+        {/* Standing desk */}
+        <rect x={1200} y={640} width={680} height={28} rx={8} fill={ink} />
+        <rect x={1280} y={668} width={24} height={250} fill={ink} />
+        <rect x={1780} y={668} width={24} height={250} fill={ink} />
+      </g>
+    ),
+    ({ ink }) => (
+      <g>
+        <rect x={-100} y={918} width={2120} height={200} fill={ink} opacity={0.16} />
+      </g>
+    ),
+  ],
+
+  serverRoom: [
+    ({ ink }) => (
+      <g opacity={0.1}>
+        {/* Perspective server hallway grid */}
+        <line x1={0} y1={0} x2={800} y2={540} stroke={ink} strokeWidth={6} />
+        <line x1={1920} y1={0} x2={1120} y2={540} stroke={ink} strokeWidth={6} />
+        <rect x={800} y={260} width={320} height={340} fill={ink} opacity={0.1} />
+      </g>
+    ),
+    ({ ink, accent }) => (
+      <g opacity={0.25}>
+        {/* Large Server Rack Left */}
+        <rect x={80} y={180} width={420} height={740} rx={12} fill={ink} opacity={0.8} />
+        <rect x={100} y={200} width={380} height={700} rx={8} fill="#0F172A" />
+        {/* Server Blades with Blinking LEDs */}
+        {Array.from({ length: 9 }).map((_, i) => (
+          <g key={i} transform={`translate(120 ${220 + i * 74})`}>
+            <rect x={0} y={0} width={340} height={60} rx={6} fill={ink} opacity={0.6} />
+            <circle cx={20} cy={30} r={6} fill={accent} />
+            <circle cx={40} cy={30} r={5} fill={i % 2 === 0 ? "#38BDF8" : "#22C55E"} />
+            <rect x={66} y={24} width={180} height={12} rx={3} fill="#64748B" opacity={0.5} />
+          </g>
+        ))}
+        {/* Large Server Rack Right */}
+        <rect x={1420} y={180} width={420} height={740} rx={12} fill={ink} opacity={0.8} />
+        <rect x={1440} y={200} width={380} height={700} rx={8} fill="#0F172A" />
+        {Array.from({ length: 9 }).map((_, i) => (
+          <g key={i} transform={`translate(1460 ${220 + i * 74})`}>
+            <rect x={0} y={0} width={340} height={60} rx={6} fill={ink} opacity={0.6} />
+            <circle cx={20} cy={30} r={6} fill={i % 3 === 0 ? "#EAB308" : accent} />
+            <circle cx={40} cy={30} r={5} fill="#38BDF8" />
+            <rect x={66} y={24} width={180} height={12} rx={3} fill="#64748B" opacity={0.5} />
+          </g>
+        ))}
+      </g>
+    ),
+    ({ ink }) => (
+      <g>
+        <rect x={-100} y={920} width={2120} height={200} fill={ink} opacity={0.2} />
+        {/* Raised floor tiles */}
+        <g stroke={ink} strokeWidth={6} opacity={0.2}>
+          {[0, 240, 480, 720, 960, 1200, 1440, 1680, 1920].map((x) => (
+            <line key={x} x1={x} y1={920} x2={x} y2={1080} />
+          ))}
+        </g>
+      </g>
+    ),
+  ],
+
+  pitchStage: [
+    ({ ink }) => (
+      <g opacity={0.08}>
+        {/* Elegant vertical acoustic wall fins */}
+        {[0, 120, 240, 360, 480, 600, 720, 840, 960, 1080, 1200, 1320, 1440, 1560, 1680, 1800].map((x) => (
+          <rect key={x} x={x} y={0} width={24} height={800} fill={ink} />
+        ))}
+      </g>
+    ),
+    ({ ink, accent }) => (
+      <g opacity={0.24}>
+        {/* Giant Keynote / Pitch Screen in Background */}
+        <rect x={980} y={160} width={820} height={460} rx={16} fill={ink} opacity={0.85} />
+        <rect x={1002} y={182} width={776} height={416} rx={10} fill="#0F172A" />
+        {/* Pitch Slide Content: Growth Bar Chart + Metric Tag */}
+        <rect x={1040} y={220} width={280} height={36} rx={8} fill={accent} opacity={0.9} />
+        <text x={1056} y={245} fill="#FFFFFF" fontSize={18} fontWeight="bold" fontFamily={ANTIDOTE_FONT}>
+          48-HOUR VALIDATION
+        </text>
+        {/* Big Hockey-Stick Curve on Screen */}
+        <path d="M1060,530 Q1300,520 1480,440 T1720,270" fill="none" stroke={accent} strokeWidth={12} strokeLinecap="round" />
+        <circle cx={1720} cy={270} r={14} fill="#FFFFFF" stroke={accent} strokeWidth={6} />
+        {/* Speaker Podium on Left */}
+        <polygon points="260,540 380,540 420,920 220,920" fill={ink} opacity={0.7} />
+        <rect x={220} y={520} width={200} height={24} rx={8} fill={accent} opacity={0.8} />
+      </g>
+    ),
+    ({ ink }) => (
+      <g>
+        {/* Curved stage apron */}
+        <path d="M-100,920 Q960,860 2020,920 L2020,1120 L-100,1120 Z" fill={ink} opacity={0.2} />
       </g>
     ),
   ],

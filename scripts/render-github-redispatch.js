@@ -55,10 +55,11 @@ function ensureRef(w, sg) {
   const remote = w.remoteName || `render-worker-${sg.seg}`;
   const ref = sg.ref.replace("refs/heads/", "");
   try {
-    execSync(`git push ${remote} ${bundleSha()}:refs/heads/${ref} --force`, {
-      cwd: ROOT, stdio: "inherit",
+    const rpOut = execSync(`git push ${remote} ${bundleSha()}:refs/heads/${ref} --force 2>&1`, {
+      cwd: ROOT, encoding: "utf8",
       env: { ...process.env, GIT_TERMINAL_PROMPT: "0", GCM_INTERACTIVE: "never" },
     });
+    if (rpOut.trim()) console.log(`    ${rpOut.trim()}`);
     return true;
   } catch (e) {
     console.error(`    ❌ push başarısız: ${String(e.message).slice(0, 200)}`);

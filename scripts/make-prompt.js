@@ -46,7 +46,8 @@ const ANTIDOTE_GENRES = new Set([
   "fiction", "historical fiction", "literary fiction", "science fiction", "fantasy",
   "thriller", "mystery", "horror", "dystopian", "young adult", "ya",
   "philosophy", "finance", "business", "economics", "politics", "science",
-  "health", "leadership",
+  "health", "leadership", "classics", "classic", "classic literature",
+  "literary", "poetry", "drama", "satire", "existentialism", "absurdism",
 ]);
 function decideEngine(genre, title) {
   const g = String(genre).toLowerCase();

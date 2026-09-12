@@ -9,7 +9,7 @@
    - Asla bu depoda render iş yükü veya GitHub Actions render kotası çalıştırılmaz.
    - Tüm geliştirme ve kod tabanı burada tutulur.
 
-2. **Render Worker Havuzu (7 Hesap — 14.000 dk / ay Toplam Kota)**:
+2. **Render Worker Havuzu (10 Hesap — 20.000 dk / ay Toplam Kota)**:
    - **Worker 1**: `@sates52ko` ➔ `sates52ko/Remotion-render` (2.000 dk/ay)
    - **Worker 2**: `@goodbooksummary-a11y` ➔ `goodbooksummary-a11y/Remotion-render` (2.000 dk/ay)
    - **Worker 3**: `@ahmetbahadir79-wq` ➔ `ahmetbahadir79-wq/Remotion-render` (2.000 dk/ay)
@@ -17,7 +17,11 @@
    - **Worker 5**: `@canek65` ➔ `canek65/Remotion-render` (2.000 dk/ay)
    - **Worker 6**: `@cansukilic134-cyber` ➔ `cansukilic134-cyber/Remotion-render` (2.000 dk/ay)
    - **Worker 7**: `@konusarakogrenduru-web` ➔ `konusarakogrenduru-web/Remotion-render` (2.000 dk/ay)
-   - **Rotasyon**: `render-accounts.json` üzerinden **Round-Robin** (sırayla) döner (1 ➔ 2 ➔ 3 ➔ 4 ➔ 5 ➔ 6 ➔ 7 ➔ 1).
+   - **Worker 8**: `@konusarakogrensiniflar-ctrl` ➔ `konusarakogrensiniflar-ctrl/Remotion-render` (2.000 dk/ay)
+   - **Worker 9**: `@labsnarrative-coder` ➔ `labsnarrative-coder/Remotion-render` (2.000 dk/ay)
+   - **Worker 10**: `@gulbendeniz0102-ai` ➔ `gulbendeniz0102-ai/Remotion-render` (2.000 dk/ay)
+   - **Rotasyon**: `render-accounts.json` üzerinden **Round-Robin** (sırayla) döner (1 ➔ 2 ➔ 3 ➔ 4 ➔ 5 ➔ 6 ➔ 7 ➔ 8 ➔ 9 ➔ 10 ➔ 1).
+   - **Yeni Hesap Ekleme Rehberi**: Kullanıcı yeni hesap eklemek istediğinde adımlar [NEW_RENDER_ACCOUNT_GUIDE.md](file:///c:/Users/savas/Cursor/Remotion/test/NEW_RENDER_ACCOUNT_GUIDE.md) dosyasından sunulur.
 
 3. **Varsayılan Render Yöntemi**:
    - Yöntem belirtilmediğinde veya pipeline normal çağrıldığında **varsayılan yerel mikro-chunk render** (`--method=local`) çalışır.

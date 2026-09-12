@@ -123,9 +123,9 @@ Return STRICT JSON with keys:
 - "summary": 2 short paragraphs of keyword-rich, genuinely informative description body (no fluff, no ending spoilers).
 - "hashtags": 5 relevant hashtags (with #).
 - "tags": 18 SEO tags — mix broad ("book summary","${genre} books"), specific (title, author, key themes), and long-tail search phrases. No # prefix.
-- "thumbnailHook": 2-3 word ALL-CAPS punchy text for the thumbnail. Rules: (1) NOT the title or author name, (2) creates a curiosity gap or emotional stake ("THEY LIED", "SHE KNEW"), (3) never a bare name pair ("ACHILLES HECTOR"), (4) must make sense as a standalone phrase. Generate 3 candidates and pick the best.
-- "thumbnailSubject": a concrete, dramatic cinematic image subject (include the protagonist's gender, approximate age, and period/setting). NEVER generic "dramatic scene" — be specific ("young woman in 1960s Idaho mountains, determined expression" or "crumbling letter on a dark wooden desk"). For abstract/concept books, describe an OBJECT instead of a person ("stack of gold coins with one falling, dramatic lighting").
-- "thumbnailLayout": one of "portrait-right", "split-face", "full-bleed", "object-hero", "two-subject-vs", "text-poster". Choose based on the book: conflict books → "two-subject-vs" or "split-face", abstract/concept books → "object-hero" or "text-poster", character-driven → "portrait-right" or "full-bleed". Vary across the catalog.
+- "thumbnailHook": 2-3 word ALL-CAPS punchy curiosity text for the YouTube thumbnail. Rules: (1) NEVER the title or author name, (2) must create an INTENSE curiosity gap, dramatic stake, or shocking truth ("THEY LIED", "SHE KNEW", "DON'T TRUST HIM", "TOTAL ILLUSION", "THE FATAL LIE", "NEVER CRIED"), (3) maximum 3 words so it is readable in 0.5s on mobile feeds, (4) must provoke an immediate click when paired with the title.
+- "thumbnailSubject": a concrete, dramatic cinematic image subject for a 16:9 widescreen shot. The subject (protagonist with intense micro-expression or iconic symbolic object) MUST be described as positioned on the right side of the canvas with intense rim-lighting/side-lighting, leaving dark atmospheric negative space on the left side for typography.
+- "thumbnailLayout": "cinematic-bleed" (default 16:9 full-bleed high-CTR).
 - "chapterTitles": an array with EXACTLY ${chapters.length} entries, one curiosity-driven chapter title (<= 45 chars) for each numbered excerpt below, IN ORDER. Base each strictly on that excerpt's actual content; never invent facts. Entry 0 is the intro.
 - "chapterTeasers": an array with EXACTLY ${chapters.length} entries, an OPEN-LOOP teaser (a curiosity question or provocative half-statement, lowercase, <= 48 chars) for each chapter IN ORDER. It appears ON the chapter card in the video to pull the viewer INTO that chapter, so it must preview the payoff WITHOUT resolving it, and stay strictly grounded in that excerpt content. Entry 0 (the cold open) is never shown, use "".`;
   const user = `Book: "${title}"${author ? " by " + author : ""} (${genre}).\n\n${synopsis()}\n\nCHAPTER EXCERPTS (write chapterTitles for these, in order):\n${chapExcerpts}\n\nReturn ONLY the JSON object.`;
@@ -180,8 +180,8 @@ function fallbackMeta() {
       title, `${shortTitle} key ideas`,
     ].filter(Boolean),
     thumbnailHook: deriveHook(),
-    thumbnailSubject: `dramatic ${gWord} scene — a specific person or object representing the core theme of "${shortTitle}"`,
-    thumbnailLayout: undefined, // will use auto-pick from slug hash
+    thumbnailSubject: `dramatic cinematic scene representing "${shortTitle}", intense emotional character framed on right side with dark atmospheric lighting`,
+    thumbnailLayout: "cinematic-bleed",
   };
 }
 

@@ -15,6 +15,7 @@ import { z } from "zod";
 
 // ── LAYOUT ENUM ──────────────────────────────────────────────────────────────
 export const THUMB_LAYOUTS = [
+  "cinematic-bleed",  // HIGH-CTR 16:9 full-bleed cinematic image + left scrim + giant bold typography
   "portrait-right",   // cutout right, text left (current default, improved)
   "split-face",       // subject fills left half hard-crop, hook on solid right
   "full-bleed",       // image full-frame darkened, centered 2-word hook
@@ -27,6 +28,12 @@ export type ThumbLayout = typeof THUMB_LAYOUTS[number];
 
 export const thumbLayoutSchema = z.enum(THUMB_LAYOUTS as unknown as [string, ...string[]]);
 
+// ── HIGH-CTR COLOR CONSTANTS ────────────────────────────────────────────────
+export const CTR_YELLOW = "#FFE500"; // Electric Yellow — highest eye-tracking priority on YouTube dark feeds
+export const CTR_RED = "#FF2E2E";    // Vibrant Fire Red
+export const CTR_CYAN = "#00E5FF";   // High-voltage Cyan
+export const CTR_WHITE = "#FFFFFF";  // Crisp Pure White
+
 // ── DETERMINISTIC LAYOUT FROM SLUG ──────────────────────────────────────────
 export function hashStr(s: string): number {
   let h = 2166136261;
@@ -38,24 +45,15 @@ export function hashStr(s: string): number {
 }
 
 /**
- * Pick a layout for a book. Explicit override wins; otherwise hash the slug
- * into one of the 6 variants. `object-hero` and `text-poster` (no hero image)
- * are only reachable via explicit override — auto-pick stays in the 4 layouts
- * that use hero imagery so existing pipeline keeps working.
+ * Pick a layout for a book. Explicit override wins.
+ * Default for all new videos is "cinematic-bleed" for maximum CTR.
  */
 export function pickLayout(slug: string, override?: string): ThumbLayout {
   if (override && THUMB_LAYOUTS.includes(override as ThumbLayout)) {
     return override as ThumbLayout;
   }
-  // auto-pick from 4 image-based layouts
-  const imageLayouts: ThumbLayout[] = [
-    "portrait-right",
-    "split-face",
-    "full-bleed",
-    "two-subject-vs",
-  ];
-  const idx = Math.floor(hashStr(slug) * imageLayouts.length);
-  return imageLayouts[idx];
+  // High-CTR default: cinematic-bleed gives the strongest YouTube conversion
+  return "cinematic-bleed";
 }
 
 // ── CONTRAST UTILITIES ──────────────────────────────────────────────────────

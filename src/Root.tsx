@@ -6,6 +6,12 @@ import { ChapterCard } from './engines/antidote/components/ChapterCard';
 import { ANTIDOTE_LAB } from './engines/antidote/lab';
 import { ANTIDOTE_LAB4 } from './engines/antidote/lab4';
 import { CastSheet } from './engines/antidote/CastSheet';
+import { RemocnShowcase } from './compositions/RemocnShowcase';
+import { AntidoteShowcase } from './compositions/AntidoteShowcase';
+import { AntidoteGazeShowcase } from './compositions/AntidoteGazeShowcase';
+import { AntidoteHUDShowcase } from './compositions/AntidoteHUDShowcase';
+import { AntidotePropsShowcase } from './compositions/AntidotePropsShowcase';
+import { AntidoteMetaphorsShowcase, ANTIDOTE_METAPHORS_DURATION } from './compositions/AntidoteMetaphorsShowcase';
 import { BOOKS, ANTIDOTE_BOOKS, BOOK_PALETTES, type Palette } from './books.generated';
 
 const DEFAULT_PALETTE: Palette = { paper: '#EAF0E8', ink: '#1E2A24', red: '#F0A63C', gold: '#3E8E7A' };
@@ -16,7 +22,9 @@ export const RemotionRoot: React.FC = () => {
         <>
             {ANTIDOTE_BOOKS.map((b) => {
                 const pal = paletteFor(b.slug);
-                const t = b.config.meta.thumbnail;
+                const t = b.meta?.thumbnail || b.config.meta.thumbnail;
+                const title = b.meta?.title || b.config.meta.title;
+                const author = (b.meta?.author || b.config.meta.author) ? 'by ' + (b.meta?.author || b.config.meta.author) : '';
                 return (
                     <React.Fragment key={b.slug}>
                         <Composition
@@ -39,8 +47,8 @@ export const RemotionRoot: React.FC = () => {
                                 height={720}
                                 schema={antidoteThumbPropsSchema}
                                 defaultProps={{
-                                    title: b.config.meta.title,
-                                    author: b.config.meta.author ? 'by ' + b.config.meta.author : '',
+                                    title,
+                                    author,
                                     hook: t.hook,
                                     paper: pal.paper,
                                     ink: pal.ink,
@@ -51,6 +59,7 @@ export const RemotionRoot: React.FC = () => {
                                     expression: t.expression,
                                     motif: t.motif,
                                     slug: b.slug,
+                                    heroImg: (t as any).image || `scenes/${b.slug}/thumbnail-hero.png`,
                                     layout: (t as any).layout,
                                 }}
                             />
@@ -148,6 +157,66 @@ export const RemotionRoot: React.FC = () => {
                 component={CastSheet}
                 durationInFrames={120}
                 fps={30}
+                width={1920}
+                height={1080}
+            />
+
+            {/* Remocn Starter Component Showcase */}
+            <Composition
+                id="Remocn-Showcase"
+                component={RemocnShowcase}
+                durationInFrames={504}
+                fps={24}
+                width={1920}
+                height={1080}
+            />
+
+            {/* Antidote Character Emotions & Micro-Reactions Showcase */}
+            <Composition
+                id="Antidote-Showcase"
+                component={AntidoteShowcase}
+                durationInFrames={360}
+                fps={24}
+                width={1920}
+                height={1080}
+            />
+
+            {/* Antidote Living Gaze & Focus Tracking Showcase */}
+            <Composition
+                id="Antidote-Gaze"
+                component={AntidoteGazeShowcase}
+                durationInFrames={360}
+                fps={24}
+                width={1920}
+                height={1080}
+            />
+
+            {/* Antidote Retention HUD Showcase */}
+            <Composition
+                id="Antidote-HUD"
+                component={AntidoteHUDShowcase}
+                durationInFrames={288}
+                fps={24}
+                width={1920}
+                height={1080}
+            />
+
+            {/* Antidote Handprops Showcase */}
+            <Composition
+                id="Antidote-Props"
+                component={AntidotePropsShowcase}
+                durationInFrames={360}
+                fps={24}
+                width={1920}
+                height={1080}
+            />
+
+            {/* Antidote Hypnotic Vector Metaphors Showcase */}
+            <Composition
+                id="Antidote-Metaphors"
+                component={AntidoteMetaphorsShowcase}
+                durationInFrames={ANTIDOTE_METAPHORS_DURATION}
+                fps={24}
                 width={1920}
                 height={1080}
             />

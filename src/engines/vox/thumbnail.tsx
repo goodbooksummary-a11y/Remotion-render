@@ -1,7 +1,7 @@
 import React from "react";
 import { AbsoluteFill, Img, staticFile } from "remotion";
 import { z } from "zod";
-import { INK, RED, HEADLINE, SERIF, resolvePalette, DEFAULT_PALETTE } from "./palette";
+import { INK, RED, HEADLINE, SERIF, resolvePalette, Palette } from "./palette";
 import { BG } from "./backgrounds";
 import {
   thumbLayoutSchema,
@@ -13,6 +13,8 @@ import {
   CHANNEL_MONOGRAM,
   SPINE_HEIGHT,
   SPINE_FONT,
+  CTR_YELLOW,
+  CTR_WHITE,
 } from "../thumbnail-shared";
 
 export const thumbnailSchema = z.object({
@@ -154,7 +156,9 @@ const HookText: React.FC<{
         color: baseColor,
         textTransform: "uppercase",
         textAlign: align,
-        textShadow: shadow ? "3px 3px 0 rgba(0,0,0,0.5)" : "none",
+        textShadow: shadow
+          ? "0 4px 24px rgba(0,0,0,0.95), 0 2px 6px rgba(0,0,0,0.95), 2px 2px 0 rgba(0,0,0,0.9)"
+          : "none",
       }}
     >
       {words.map((w, i) => (
@@ -175,7 +179,110 @@ const HookText: React.FC<{
 
 // ── LAYOUT RENDERERS ────────────────────────────────────────────────────────
 
-const PortraitRight: React.FC<ThumbnailProps & { pal: typeof DEFAULT_PALETTE }> = ({
+/**
+ * CinematicBleed — High-CTR YouTube layout.
+ * Full-bleed 16:9 cinematic Flux image, left directional gradient scrim,
+ * and massive two-tone bold typography (White + Electric Yellow).
+ */
+export const CinematicBleed: React.FC<ThumbnailProps & { pal?: Palette }> = ({
+  hook,
+  heroImg,
+  heroCut,
+  pal,
+}) => {
+  const hero = heroImg || heroCut;
+  const words = hook.trim().split(/\s+/);
+  const maxWordLen = Math.max(...words.map((w) => w.length));
+  // Dynamic font scaling for maximum browse-size punch (110px-138px)
+  const fontSize =
+    words.length <= 2 && maxWordLen <= 7
+      ? 136
+      : words.length <= 3 && maxWordLen <= 9
+        ? 118
+        : 100;
+
+  return (
+    <>
+      {/* 16:9 Full-Bleed Hero Image */}
+      {hero ? (
+        <Img
+          src={staticFile(hero)}
+          alt=""
+          style={{
+            position: "absolute",
+            inset: 0,
+            width: "100%",
+            height: "100%",
+            objectFit: "cover",
+            objectPosition: "center 20%",
+            filter: "contrast(1.15) saturate(1.2) brightness(0.95)",
+            zIndex: 0,
+          }}
+        />
+      ) : (
+        <AbsoluteFill style={{ background: "#0B0D11", zIndex: 0 }} />
+      )}
+
+      {/* Cinematic directional dark scrim on left for text contrast */}
+      <div
+        style={{
+          position: "absolute",
+          inset: 0,
+          background:
+            "linear-gradient(90deg, rgba(5,7,10,0.94) 0%, rgba(5,7,10,0.82) 42%, rgba(5,7,10,0.32) 68%, rgba(5,7,10,0.02) 100%)",
+          zIndex: 2,
+        }}
+      />
+
+      {/* Subtle radial atmosphere */}
+      <div
+        style={{
+          position: "absolute",
+          inset: 0,
+          background:
+            "radial-gradient(circle at 75% 45%, transparent 35%, rgba(0,0,0,0.55) 100%)",
+          zIndex: 3,
+        }}
+      />
+
+      {/* Giant Hook Typography on Left side (leaves bottom-right free for YouTube timestamp) */}
+      <div
+        style={{
+          position: "absolute",
+          left: 72,
+          top: 0,
+          bottom: 0,
+          width: 720,
+          display: "flex",
+          flexDirection: "column",
+          justifyContent: "center",
+          gap: 18,
+          zIndex: 6,
+        }}
+      >
+        <HookText
+          hook={hook}
+          fontSize={fontSize}
+          baseColor={CTR_WHITE}
+          accentColor={CTR_YELLOW}
+          shadow
+        />
+        {/* Visual energy underline */}
+        <div
+          style={{
+            width: 140,
+            height: 6,
+            background: CTR_YELLOW,
+            borderRadius: 3,
+            boxShadow: "0 0 16px rgba(255,229,0,0.7)",
+          }}
+        />
+      </div>
+    </>
+  );
+};
+
+const PortraitRight: React.FC<ThumbnailProps & { pal: Palette }> = ({
   title,
   author,
   hook,
@@ -231,7 +338,7 @@ const PortraitRight: React.FC<ThumbnailProps & { pal: typeof DEFAULT_PALETTE }> 
   );
 };
 
-const SplitFace: React.FC<ThumbnailProps & { pal: typeof DEFAULT_PALETTE }> = ({
+const SplitFace: React.FC<ThumbnailProps & { pal: Palette }> = ({
   author,
   hook,
   heroCut,
@@ -312,7 +419,7 @@ const SplitFace: React.FC<ThumbnailProps & { pal: typeof DEFAULT_PALETTE }> = ({
   );
 };
 
-const FullBleed: React.FC<ThumbnailProps & { pal: typeof DEFAULT_PALETTE }> = ({
+const FullBleed: React.FC<ThumbnailProps & { pal: Palette }> = ({
   author,
   hook,
   heroCut,
@@ -366,7 +473,7 @@ const FullBleed: React.FC<ThumbnailProps & { pal: typeof DEFAULT_PALETTE }> = ({
   );
 };
 
-const ObjectHero: React.FC<ThumbnailProps & { pal: typeof DEFAULT_PALETTE }> = ({
+const ObjectHero: React.FC<ThumbnailProps & { pal: Palette }> = ({
   author,
   hook,
   heroCut,
@@ -427,7 +534,7 @@ const ObjectHero: React.FC<ThumbnailProps & { pal: typeof DEFAULT_PALETTE }> = (
   );
 };
 
-const TwoSubjectVs: React.FC<ThumbnailProps & { pal: typeof DEFAULT_PALETTE }> = ({
+const TwoSubjectVs: React.FC<ThumbnailProps & { pal: Palette }> = ({
   author,
   hook,
   heroCut,
@@ -480,7 +587,7 @@ const TwoSubjectVs: React.FC<ThumbnailProps & { pal: typeof DEFAULT_PALETTE }> =
   );
 };
 
-const TextPoster: React.FC<ThumbnailProps & { pal: typeof DEFAULT_PALETTE }> = ({
+const TextPoster: React.FC<ThumbnailProps & { pal: Palette }> = ({
   author,
   hook,
   pal,
@@ -555,6 +662,7 @@ export const VoxThumbnail: React.FC<ThumbnailProps> = (props) => {
 
   return (
     <AbsoluteFill style={{ ...paletteVars, backgroundColor: pal.paper, overflow: "hidden" }}>
+      {layout === "cinematic-bleed" && <CinematicBleed {...layoutProps} />}
       {layout === "portrait-right" && <PortraitRight {...layoutProps} />}
       {layout === "split-face" && <SplitFace {...layoutProps} />}
       {layout === "full-bleed" && <FullBleed {...layoutProps} />}
@@ -562,8 +670,10 @@ export const VoxThumbnail: React.FC<ThumbnailProps> = (props) => {
       {layout === "two-subject-vs" && <TwoSubjectVs {...layoutProps} />}
       {layout === "text-poster" && <TextPoster {...layoutProps} />}
 
-      {/* Brand lock: always present */}
-      <Spine color={isDark(pal.paper) ? pal.paper : pal.ink} bg={pal.paper} />
+      {/* Brand lock: subtle texture, no spine clutter on cinematic-bleed */}
+      {layout !== "cinematic-bleed" && (
+        <Spine color={isDark(pal.paper) ? pal.paper : pal.ink} bg={pal.paper} />
+      )}
       <Vignette />
       <Grain />
     </AbsoluteFill>

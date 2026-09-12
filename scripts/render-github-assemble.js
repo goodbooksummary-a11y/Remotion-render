@@ -58,6 +58,10 @@ for (const sg of segsSorted) {
   let got = null;
   for (const r of done) {
     try {
+      // Clean segDir before each attempt — a prior partial extraction leaves files that
+      // make gh's zip extractor fail with "file exists" on retry.
+      fs.rmSync(segDir, { recursive: true, force: true });
+      fs.mkdirSync(segDir, { recursive: true });
       gh(worker, ["run", "download", String(r.databaseId), "--repo", repo, "--name", artifact, "--dir", segDir]);
       const mp4 = walk(segDir).find((f) => f.toLowerCase().endsWith(".mp4"));
       if (mp4) { got = mp4; break; }
@@ -71,12 +75,20 @@ for (const sg of segsSorted) {
   segFiles.push(got);
 }
 
+// ── pre-concat sanity: every segment file must still exist ───────────────────
+for (const f of segFiles) {
+  if (!fs.existsSync(f)) {
+    console.error(`❌ Segment dosyası kayıp (download sonrası silindi?): ${f}`);
+    process.exit(1);
+  }
+}
+
 // ── concat in frame order ─────────────────────────────────────────────────────
 const partsFile = path.join(tmpRoot, "parts.txt");
 fs.writeFileSync(partsFile, segFiles.map((f) => `file '${f.replace(/\\/g, "/")}'`).join("\n"));
 const dest = path.join(ROOT, "out", `${SLUG}.mp4`);
 console.log(`\n🔗 ${segFiles.length} segment birleştiriliyor → out/${SLUG}.mp4`);
-execSync(`ffmpeg -y -f concat -safe 0 -i "${partsFile}" -c copy "${dest}"`, { cwd: ROOT, stdio: "inherit" });
+execSync(`ffmpeg -y -f concat -safe 0 -i "${partsFile}" -c copy "${dest}"`, { cwd: ROOT, stdio: process.stdout.isTTY ? "inherit" : "pipe" });
 
 // ── verify final (concat can silently truncate) ───────────────────────────────
 let ok = true, durMin = "?";
@@ -99,7 +111,7 @@ fs.writeFileSync(path.join(ROOT, ".render-github-state.json"), JSON.stringify({
 if (ok) {
   const postScript = path.join(ROOT, "scripts", "post-render.js");
   if (fs.existsSync(postScript)) {
-    spawnSync("node", [postScript, `--slug=${SLUG}`], { cwd: ROOT, stdio: "inherit" });
+    spawnSync("node", [postScript, `--slug=${SLUG}`], { cwd: ROOT, stdio: process.stdout.isTTY ? "inherit" : "pipe" });
   }
   console.log(`\nSorunsuzsa temizle (her worker reposunun artifact/log'ları):`);
   segsSorted.forEach((s) => console.log(`   node scripts/render-github-cleanup.js --slug=${SLUG} --worker=${s.username}`));

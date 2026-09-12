@@ -125,7 +125,7 @@ export const SHOTS: Record<ShotName, ShotPreset> = {
     chars: [C(960, 986, 2.15), C(1300, 986, 1.9, true)],
     // heroic: tall figure, feet just past the bottom edge
     charsFull: [C(960, 720, 0.87), C(1320, 720, 0.80, true)],
-    text: { x: 960, y: 238, size: 140 },
+    text: { x: 960, y: 200, size: 116 },
     textStep: 162,
     motif: { x: 300, y: 400, scale: 0.7 },
   },
@@ -232,9 +232,13 @@ export function stageChar(shot: ShotName, spec: CharacterSpec, index: number): C
 /** Resolve a text block's staging; stacked blocks step down the copy zone. */
 export function stageText(shot: ShotName, spec: TextSpec, index: number): TextStage {
   const preset = shotPreset(shot);
+  // Face safe-zone: in lowAngle (center-cast hero shot), stepping straight down by textStep
+  // places index >= 1 directly onto the character's face (y: 330-520).
+  // Sequential texts in lowAngle share the hero upper sky; only step down in side-cast shots.
+  const step = shot === "lowAngle" ? 0 : preset.textStep;
   return {
     x: spec.x ?? preset.text.x,
-    y: spec.y ?? preset.text.y + index * preset.textStep,
+    y: spec.y ?? (preset.text.y + index * step),
     size: spec.size ?? (index === 0 ? preset.text.size : Math.round(preset.text.size * 0.78)),
   };
 }

@@ -19,9 +19,10 @@
  *   3) node scripts/plan-antidote.js --callouts=<file> ...same args...
  */
 const fs = require("fs");
+const path = require("path");
 const { rel, abs, ensureBookDir, readManifest } = require("./lib/paths");
 const { parseWords, buildCaptions } = require("./lib/vtt");
-const { createDirector, classify: beatOf, SCENE_ICONS } = require("./lib/antidote-director");
+const { createDirector, classify: beatOf, SCENE_ICONS, detectEmotion } = require("./lib/antidote-director");
 const { createCopywriter } = require("./lib/antidote-copy");
 const { castBook, WORLD_NAMES } = require("./lib/antidote-costume");
 
@@ -34,6 +35,14 @@ const args = Object.fromEntries(
 );
 const slugify = (s) => String(s).toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
 const TITLE = args.title || "Untitled";
+// Clean short title: strip Amazon/marketing subtitles (anything after :, —, –, |, or -)
+// so the hero headline stays bold, punchy and readable without suffocating the frame.
+const cleanShortTitle = (t) => {
+  if (!t) return "";
+  const part = t.split(/[:—–|]/)[0].trim();
+  return part || t;
+};
+const SHORT_TITLE = cleanShortTitle(TITLE);
 const AUTHOR = args.author || "";
 const GENRE = (args.genre || "psychology").toLowerCase();
 const SLUG = args.slug || slugify(TITLE);
@@ -372,7 +381,19 @@ function roleIndex(cast) {
   // The DIRECTOR owns framing, transitions, backdrops and motifs (see
   // scripts/lib/antidote-director.js). The planner keeps what it is good at:
   // timing, cast continuity and the kinetic copy.
-  const director = createDirector({ palette: PAL, genre: GENRE, slug: SLUG });
+  const bibleFile = path.join("books", SLUG, "creative-bible.json");
+  const bible = fs.existsSync(bibleFile) ? JSON.parse(fs.readFileSync(bibleFile, "utf8")) : null;
+  if (bible) {
+    console.log(`[+] Art Director Creative Bible detected: ${bible.world?.label || "Custom Universe"}`);
+  }
+  const customPalette = bible?.world?.palette ? {
+    ...PAL,
+    red: bible.world.palette.primary || PAL.red,
+    accent: bible.world.palette.primary || PAL.accent,
+    ink: bible.world.palette.ink || PAL.ink,
+  } : null;
+  const effectivePalette = customPalette || PAL;
+  const director = createDirector({ palette: effectivePalette, genre: GENRE, slug: SLUG, bible });
   // Callouts: Claude-authored when --callouts was given, heuristic otherwise.
   const copy = createCopywriter();
 
@@ -390,14 +411,26 @@ function roleIndex(cast) {
     let calloutAt = null;
     const authored = CALLOUTS ? CALLOUTS[i] : null;
     if (isTitle) {
-      texts.push({ text: TITLE.toUpperCase(), style: "plain", color: PAL.ink, enter: "down", at: 6 });
       // With a --callouts file, Claude's `null` MEANS silence — never fall back to
       // the heuristic, or every deliberately silent beat gets a weak word stamped.
       const sub = CALLOUTS
         ? (authored ? authored.text : null)
         : (copy.write(s.text.replace(new RegExp(TITLE, "i"), ""), "title") || {}).text;
-      if (sub) {
-        const at = anchorAt(s, sub, 26, durationFrames);
+      const rawAt = sub ? anchorAt(s, sub, 26, durationFrames) : null;
+      // Let the hero title breathe for at least ~80 frames before sub-callout enters
+      const at = rawAt != null ? Math.max(90, rawAt) : null;
+      const titleDuration = at != null ? Math.min(80, at - 15) : undefined;
+
+      texts.push({
+        text: (SHORT_TITLE || TITLE).toUpperCase(),
+        style: "plain",
+        color: PAL.ink,
+        enter: "down",
+        at: 6,
+        ...(titleDuration ? { duration: titleDuration } : {}),
+      });
+
+      if (sub && at != null) {
         texts.push({ text: sub.toUpperCase(), style: "box", color: PAL.paper, boxColor: PAL.red, enter: "pop", at });
         calloutAt = at;
       }
@@ -461,22 +494,31 @@ function roleIndex(cast) {
     const lookAtFor = (c) => {
       // dialogue / contrast shots → the two figures face each other
       if (d.shot === "twoShot" || d.shot === "split" || d.shot === "overShoulder") return "partner";
+      // if holding an object with no dominant motif, look down to inspect the held prop
+      if (c === 0 && business && business.holds && !motifPresent) return "heldProp";
       // the figure stands with its subject → it looks at the icon
       if ((d.shot === "illustration" || d.shot === "diorama") && motifPresent) return "motif";
       // a presenter with a motif on screen turns to it (lead only)
       if (motifPresent && c === 0 && (d.shot === "medium" || d.shot === "closeUp")) return "motif";
-      return undefined;
+      // if callout is on screen and no motif, glance at text
+      if (calloutAt != null && c === 0 && d.shot === "medium") return "callout";
+      // wandering contemplative gaze on questions or stories
+      if (d.class === "question" || d.class === "story") return "wander";
+      return "viewer";
     };
     for (let c = 0; c < d.cast.count; c++) {
       const role = castKeyFor(d.cast.roles[c] || "extra");
       const isSecond = c > 0;
       const lead = c === 0 && !isTitle && business;
       const la = isTitle ? undefined : lookAtFor(c);
+      const emotion = isTitle ? "none" : lead ? (d.emotion || detectEmotion(s.text, d.class)) : (isSecond ? "none" : (d.emotion || "none"));
+      const emotionAt = calloutAt != null ? Math.max(4, calloutAt - 4) : 8;
       characters.push({
         id: `c${i}-${c}`,
         rig: "everyman",
         role,
         expression: isTitle ? "happy" : isSecond ? (r.expression === "happy" ? "worried" : "neutral") : r.expression,
+        ...(emotion && emotion !== "none" ? { emotion, emotionAt } : {}),
         enter: continued ? "none" : d.shot === "twoShot" || d.shot === "split" ? (c === 0 ? "left" : "right") : i % 2 === 0 ? "left" : "fade",
         ...(continued ? { poseAt: 60 } : {}),
         action: lead ? business.action : isTitle ? "talk" : isSecond ? (r.action === "celebrate" ? "slump" : "idle") : r.action,
@@ -522,10 +564,56 @@ function roleIndex(cast) {
     const pulses = pulseClock(s, ownEvents, durationFrames);
     const cam = pulses.length ? { ...d.camera, pulses } : d.camera;
 
+    // ── RETENTION HUD PER-SCENE AUTO-TAGGING ──────────────────────────────────
+    const totalScenes = scenes.length;
+    const totalInsights = Math.max(3, Math.min(8, Math.ceil(totalScenes / 12)));
+    const insightNum = Math.min(totalInsights, Math.floor((i / totalScenes) * totalInsights) + 1);
+    const CONCEPT_HUMAN_LABELS = {
+      alarmClock: "THE SNOOZE BUTTON",
+      butterfly: "THE BUTTERFLY EFFECT",
+      subway: "THE MISSED TRAIN",
+      car: "ONE WRONG TURN",
+      coffee: "MORNING ROUTINE",
+      hourglass: "PASSAGE OF TIME",
+      zap: "THE TURNING POINT",
+      dominoCascade: "CHAIN REACTION",
+      icebergDepth: "HIDDEN DEPTHS",
+      funnelTrap: "RUTHLESS FOCUS",
+      codeWindow: "SOFTWARE SYSTEM",
+      laptopMockup: "DIGITAL PLATFORM",
+      rocketLaunch: "STARTUP LAUNCH",
+      dollarExchange: "THE MARKETPLACE",
+      shield: "RISK & DEFENSE",
+      target: "CLEAR OBJECTIVE",
+      trophy: "THE WINNING EDGE",
+      sword: "DECISIVE ACTION",
+      magnifier: "UNDER THE LENS",
+      wallet: "FINANCIAL STAKE",
+      gift: "RECIPROCITY",
+      road: "THE UNSEEN PATH",
+      crash: "SYSTEM COLLAPSE",
+      war: "GLOBAL CONFLICT",
+    };
+
+    const firstText = texts[0] && texts[0].text ? texts[0].text.replace(/[\r\n]+/g, " ").trim() : "";
+    const hudTopic =
+      (d.concept && CONCEPT_HUMAN_LABELS[d.concept]) ||
+      (firstText && firstText.length <= 32 ? firstText.toUpperCase() : "") ||
+      (d.concept ? String(d.concept).replace(/([A-Z])/g, " $1").toUpperCase() : "") ||
+      (TITLE || "INSIGHT").toUpperCase();
+
+    const hud = isTitle || d.shot === "chapterCard"
+      ? { hidden: true }
+      : {
+          badge: `INSIGHT ${String(insightNum).padStart(2, "0")} / ${String(totalInsights).padStart(2, "0")}`,
+          topic: hudTopic,
+        };
+
     return {
       id: isTitle ? "intro" : `scene-${String(i).padStart(2, "0")}`,
       fromFrame: s.from,
       durationFrames: Math.max(FPS, durationFrames),
+      hud,
       _narration: s.text.slice(0, 160), // hint for Claude's art-direction; safe to delete
       _beat: d.class, // which beat class the director read; safe to delete
       _act: d.act, // where the color script places this beat; safe to delete
@@ -626,7 +714,26 @@ function roleIndex(cast) {
     // multiplane: Antidote 4.0 2.5D depth — cast/motifs/copy parallax against the
     // camera by depth (Scene applies per-shot depth defaults). New plans opt in;
     // configs written before 4.0 simply lack the flag and render flat, unchanged.
-    meta: { slug: SLUG, title: TITLE, author: AUTHOR, fps: FPS, width: 1920, height: 1080, ...(audio ? { audio } : {}), durationInFrames, multiplane: true, thumbnail, cast: CAST_BIBLE },
+    meta: {
+      slug: SLUG,
+      title: TITLE,
+      author: AUTHOR,
+      fps: FPS,
+      width: 1920,
+      height: 1080,
+      ...(audio ? { audio } : {}),
+      durationInFrames,
+      multiplane: true,
+      hud: {
+        enabled: true,
+        accent: PAL.red || PAL.gold || "#F59E0B",
+        title: (SHORT_TITLE || TITLE || "GOOD BOOK SUMMARY").toUpperCase(),
+        showProgress: true,
+        showBadge: true,
+      },
+      thumbnail,
+      cast: CAST_BIBLE,
+    },
     scenes: sceneSpecs,
     captions,
   };

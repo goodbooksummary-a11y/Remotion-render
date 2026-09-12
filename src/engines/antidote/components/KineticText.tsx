@@ -39,7 +39,8 @@ const CAPTION_SAFE_TOP = 800; // conservative: the scene camera can zoom ~1.05 a
 const fitSize = (text: string, size: number) => {
   const len = text.replace(/\s+/g, " ").trim().length;
   if (len <= 16) return size;
-  return Math.max(size * 0.55, size * (16 / len) ** 0.45);
+  // Dynamic scaling: smoother decay down to 0.40x so rogue long titles or sentences don't overflow
+  return Math.max(size * 0.4, size * (16 / len) ** 0.5);
 };
 
 export const KineticText: React.FC<{ spec: ResolvedTextSpec }> = ({ spec }) => {
@@ -53,7 +54,23 @@ export const KineticText: React.FC<{ spec: ResolvedTextSpec }> = ({ spec }) => {
   const staggered = spec.style === "reveal" || spec.style === "stack";
   const t = enter(staggered ? "none" : spec.enter, frame, fps, spec.at);
   if (frame < spec.at) return null;
-  if (!staggered && t.opacity <= 0) return null;
+
+  // Lifecycle: smooth exit fade when duration is specified
+  const exitDuration = 10;
+  let exitOpacity = 1;
+  if (spec.duration != null) {
+    const endFrame = spec.at + spec.duration;
+    if (frame >= endFrame + exitDuration) return null;
+    if (frame >= endFrame) {
+      exitOpacity = interpolate(frame, [endFrame, endFrame + exitDuration], [1, 0], {
+        extrapolateLeft: "clamp",
+        extrapolateRight: "clamp",
+      });
+    }
+  }
+
+  const effectiveOpacity = (staggered ? 1 : t.opacity) * exitOpacity;
+  if (effectiveOpacity <= 0) return null;
 
   // Keep the callout clear of the subtitle band however many lines it wraps to.
   const low = spec.y > LOW_ZONE;
@@ -67,7 +84,7 @@ export const KineticText: React.FC<{ spec: ResolvedTextSpec }> = ({ spec }) => {
     left: spec.x,
     top: y,
     transform: `translate(-50%, ${anchorY}) translate(${t.tx}px, ${t.ty}px) scale(${t.scale}) rotate(${t.rotate}deg)`,
-    opacity: t.opacity,
+    opacity: effectiveOpacity,
     fontFamily: ANTIDOTE_FONT,
     fontWeight: 800,
     fontSize: size,
@@ -75,8 +92,9 @@ export const KineticText: React.FC<{ spec: ResolvedTextSpec }> = ({ spec }) => {
     letterSpacing: "0.5px",
     textTransform: "uppercase",
     // phrases wrap; single words stay on one line exactly as before
+    // plain headlines get extra width (1120px) so clean titles don't awkwardly wrap
     whiteSpace: multi ? "pre-wrap" : "pre",
-    maxWidth: multi ? 860 : undefined,
+    maxWidth: multi ? (spec.style === "plain" ? 1120 : 860) : undefined,
     textAlign: "center",
   };
 
@@ -87,7 +105,7 @@ export const KineticText: React.FC<{ spec: ResolvedTextSpec }> = ({ spec }) => {
       <div
         style={{
           ...common,
-          opacity: 1,
+          opacity: effectiveOpacity,
           transform: `translate(-50%, ${anchorY})`,
           display: "flex",
           flexDirection: column ? "column" : "row",

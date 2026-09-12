@@ -41,7 +41,9 @@ def generate_accent_image(index, prompt):
         log(f"  [SKIP] {filename} already exists ({os.path.getsize(filepath)/1024:.0f} KB)")
         return True
 
-    enhanced = f"{prompt} - isolated subject, transparent background, sharp edges, high contrast, 8K quality, no watermark, no text"
+    # Flux is bad at rendering text — suppress it so Remotion handles all on-screen text.
+    NO_TEXT = "no text, no words, no letters, no writing, no typography, no labels, no captions, no titles"
+    enhanced = f"{prompt} - isolated subject, transparent background, sharp edges, high contrast, 8K quality, no watermark, {NO_TEXT}"
 
     payload = {
         "prompt": enhanced,

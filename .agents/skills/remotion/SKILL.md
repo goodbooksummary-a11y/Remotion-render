@@ -97,14 +97,15 @@ The full flow to turn a book title into a preview-ready Vox video. All content i
 > Every asset in the YouTube Publishing Kit (`youtube.md`, `youtube-meta.json`), video title, description, chapter timestamp, tag, pinned comment, and chat summary of the publishing pack **MUST BE 100% IN ENGLISH**. Never generate or translate YouTube publishing metadata to Turkish.
 
 ```
-Step 0  make-prompt.js   → books/<slug>/prompt.notebooklm.md   (bespoke NotebookLM "Audio Overview" prompt)
-        └─ [manual] paste into NotebookLM → generate audio → save public/audio/<slug>.m4a
-        └─ [manual] upload to YouTube (unlisted) → download word-level VTT → public/captions/<slug>.vtt
-Step 1  make-book.js     → plan-vox → gen-vox-images → cutout → plan-meta → clean-vtt → gen-thumbnail
-                            → verify-assets → gen-books-registry → thumbnail-still
-                            (produces books/<slug>/config.vox.json, the full YouTube publish pack, + registers composition)
-Step 2  [user] preview in Remotion Studio; render is user-driven (never auto-render)
-Step 3  render (local chunk OR Amazon Lambda-segmented) → out/<slug>.mp4  (see "Lambda Scaling")
+Step 0    make-prompt.js   → books/<slug>/prompt.notebooklm.md   (bespoke NotebookLM "Audio Overview" prompt)
+           └─ [manual] paste into NotebookLM → generate audio → save public/audio/<slug>.m4a
+           └─ [manual] upload to YouTube (unlisted) → download word-level VTT → public/captions/<slug>.vtt
+Step 0.8  preproduce.js    → books/<slug>/creative-bible.json    (AI Art Director: worldbuilding, palette, engine recommendation, asset gap analysis, dynamic SVG synthesis)
+Step 1    make-book.js     → plan-vox/plan-antidote → gen-vox-images → cutout → plan-meta → clean-vtt → gen-thumbnail
+                               → verify-assets → gen-books-registry → thumbnail-still
+                               (consumes creative-bible.json, produces config, full YouTube publish pack, + registers composition)
+Step 2    [user] preview in Remotion Studio; render is user-driven (never auto-render)
+Step 3    render (local chunk OR Amazon Lambda-segmented) → out/<slug>.mp4  (see "Lambda Scaling")
 ```
 
 **Publish pack produced automatically by Step 1** (render-independent — ready before the video even renders):
@@ -148,8 +149,20 @@ The channel runs **two** render engines; each book chooses one (mixing them acro
 | **Antidote** | Flat-vector **rigged characters** + a 10-shot grammar, transitions, parallax sets and drawn motifs; CPU-cheap **SVG (no WebGL)** | none — everything is vector, generated from the VTT | character/story-driven books |
 
 - **Source of truth:** `books/<slug>/book.json` → `"engine": "vox" | "antidote"`. `gen-books-registry.js` auto-registers `Vox-<slug>` for every `config.vox.json` and `Antidote-<slug>` for every `config.antidote.json`; **never hand-edit Root.tsx** for a new book.
-- **Deciding (Claude-first):** after the VTT exists, run `node scripts/suggest-engine.js --slug=<slug>` for a signal (pronoun/proper-noun/story vs numbers/data). It's advisory — Claude makes the real call (does the book have concrete characters/scenes to animate → Antidote; abstract/statistical → Vox), writes it to `book.json`. Can also be decided before NotebookLM by book type.
-- **Antidote pipeline:** `node scripts/plan-antidote.js --slug=<slug> --title="…" --genre=…` → scaffolds `books/<slug>/config.antidote.json` (timing + word-timed captions + a fully directed shot list) and sets `book.json` engine. **Then Claude ART-DIRECTS** on top — the `_narration` + `_beat` hints on each scene are the guide. Then `node scripts/gen-books-registry.js` and preview `Antidote-<slug>` in Studio. Engine code: `src/engines/antidote/` (all data-driven — new book = new JSON). Re-planning a book **preserves a hand-refined `meta.thumbnail`** brief (only a scaffold carrying `_needsClaudeRefine` gets overwritten).
+
+### Autonomous Art Director & Pre-Production Engine (Step 0.8)
+Before running `plan-vox.js` or `plan-antidote.js` (or automatically executed as Step 0.8 by `make-book.js`), run:
+```bash
+node scripts/preproduce.js --slug=<slug> --genre=<genre> [--title="..."] [--author="..."]
+```
+This produces `books/<slug>/creative-bible.json`:
+1. **World & Era Detection:** Classifies the universe (Classical Antiquity, Modern Silicon Valley, Behavioral Psychology, Cold War Investigation, Wealth/Finance) and generates a bespoke palette.
+2. **Engine Recommendation:** Evaluates content suitability for Antidote vs. Vox with a confidence score and rationale.
+3. **Asset Gap Analysis & Dynamic Synthesis:**
+   - **Antidote:** Audits required backdrops and motifs. If custom metaphors are needed, synthesizes parametric vector SVGs (`customSvg: { paths, title }`) that Remotion renders without code edits.
+   - **Vox:** Assigns appropriate historical document templates (`parchment`, `telegram`, `lab`, `financial`, `newspaper`, `declassified`), map coordinates, and photo prompt styles.
+
+- **Antidote pipeline:** `node scripts/plan-antidote.js --slug=<slug> --title="…" --genre=…` → scaffolds `books/<slug>/config.antidote.json` (timing + word-timed captions + a fully directed shot list) and sets `book.json` engine. It automatically loads `creative-bible.json` when present. **Then Claude ART-DIRECTS** on top — the `_narration` + `_beat` hints on each scene are the guide. Then `node scripts/gen-books-registry.js` and preview `Antidote-<slug>` in Studio. Engine code: `src/engines/antidote/` (all data-driven — new book = new JSON). Re-planning a book **preserves a hand-refined `meta.thumbnail`** brief (only a scaffold carrying `_needsClaudeRefine` gets overwritten).
 - **Subtitles (Antidote):** `CaptionLayer` renders word-timed captions in a reserved bottom safe-zone (spoken word lightly highlighted); kinetic callouts stay upper/mid so the two never collide.
 
 #### Antidote shot grammar — why a 45-min video doesn't read as one long slide
@@ -188,9 +201,64 @@ Motifs get the same treatment via `propSchema.at`: the renderer wraps each one i
 Rotating five backdrop palettes in a fixed order is decoration: the frame's color said nothing about where you were in the book. `colorScript()` in the director makes the field a function of narrative **position** and beat **valence** — four acts (`setup · tension · turn · resolution`), each drifting continuously within itself so neighbouring scenes match while the film as a whole moves. On clear-thinking: 139 distinct backdrop fields (was 5), the tension act visibly dimmer (max luminance 219 vs 244–245 elsewhere), and `_act` is written to each scene as an art-direction hint.
 
 > **Color-helper trap (cost a render):** `hx()`/`shade()` parsed **hex only**, but the color script *composes* helpers (`darken(lighten(x))`) and they return `rgb(r,g,b)` strings — so the nested call produced `NaN` and rendered **74 scenes (41% of the film) on pure black**. Both parsers now accept `rgb()` as well as hex and return a safe fallback instead of NaN. Any new color math in this engine must be composable.
-
 #### Antidote cast bible — one recurring cast, not 224 strangers
 The planner used to do `CAST[(i + c) % CAST.length]`: **224 character instances in clear-thinking, 224 distinct identities.** No face ever came back, so 45 minutes read as stock clip-art. Scenes now carry a **role** (`narrator · protagonist · foil · mentor · extra`) and the look is resolved at render time from `meta.cast` (`resolveVariant()` in `components/Scene.tsx`): 224 bodies → **4 identities**. The narrator frames ideas, the protagonist is the "you" of the book and carries lived beats, the foil is who they're up against, the mentor lands advice beats — assigned per beat class by `castRoles()` in the director. Per-scene `expression` layers on top; `variant` remains a one-off override, so pre-bible configs (full `variant`, no `role`) are unaffected. Lead gender presentation is seeded from the slug so books don't all look like one series. Editing `meta.cast` restyles the entire film in one place.
+
+#### Antidote Character Emotions & Micro-Reactions (Kurzgesagt Emotion FX)
+To boost audience retention and emotional connection in long-form explainer animations, characters in Antidote support head-anchored micro-reaction overlays (`src/engines/antidote/characters/Emotions.tsx`).
+
+Properties on `CharacterSpec` (`src/engines/antidote/schema.ts`):
+- `emotion`: `"none" | "lightbulb" | "sweat" | "question" | "shock" | "fire"`
+- `emotionAt`: Frame within the scene when the reaction pops (defaults to ~8-10 frames after scene entrance).
+
+**The 5 Reaction Archetypes:**
+1. **`lightbulb` (💡 Aha! / Epiphany):** Golden glowing bulb `#FBBF24` with spring pop, radiating spark rays, and floating bob. Best for conceptual breakthroughs, discoveries, and eureka moments.
+2. **`sweat` (💧 Cognitive Bias / Anxiety / Dilemma):** Sky-blue droplet `#38BDF8` appearing at the character's temple with realistic gravity drip and fade, coupled with an automatic subtle shivering body jitter (`jitterX`).
+3. **`question` (❓ Confusion / Paradigm Questioning):** 3 staggered cartoon question marks floating up in an arc above the head. Ideal for skeptical beats, inquiry, and challenging assumptions.
+4. **`shock` (⚡ Sudden Realization / Paradigm Shift):** Dramatic comic shock burst lines radiating outward from the head.
+5. **`fire` (🔥 Intense Drive / Burning Discipline):** Vector flame crown with organic wave flicker above the head for beats on unstoppable motivation, grit, and discipline.
+
+These overlays are mounted inside the Everyman `<g transform="translate(pose.headX, pose.headY)...">` group so they naturally inherit head turns, tilt, yaw, and scaling.
+
+#### Vox Superpowers & Editorial Archetypes (Powered by Remocn)
+Vox video scenes are powered by high-conversion editorial motion components in `src/components/remocn/` and unified under `src/engines/vox/scenes.tsx`.
+
+The automated planner (`scripts/plan-vox.js`) and LLM director assign these archetypes automatically based on narration cues:
+
+1. **`stat` (`StatScene`):**
+   - Automatically parses metrics, numbers, percentages, or multipliers (`85%`, `37x`, `$100K`, `300`).
+   - Renders animated **`RollingNumber`** (odometer tick) framed inside an organic stop-motion **`ScribbleCircle`**.
+   - If no numeric stat is parsed, smoothly falls back to kinetic emphasis words.
+
+2. **`quote` (`QuoteScene`):**
+   - Renders pull quotes with book attribution.
+   - Highlights the quote/author with an organic hand-drawn **`InkUnderline`**.
+
+3. **`compare` (`CompareScene`):**
+   - For paradigm shifts ("From X to Y", "Forget goals, focus on systems"), automatically falls back to **`StrikethroughReplace`** when side-by-side images are omitted.
+   - Crosses out the old trap/misconception in blood-red ink and stamps the new rule.
+
+4. **`statement` (`StatementScene`):**
+   - Bold kinetic statement text.
+   - Variant 2 applies **`MarkerHighlight`** behind the operative words for editorial magazine feel.
+
+5. **`checklist` (`ChecklistScene`):**
+   - Triggered by narration mentioning "rules", "steps", "laws", "framework", "habits", or "checklist".
+   - Renders a tactile card with animated handwritten (`Handwrite` using Google Caveat font) checklist items that get progressively checked off with stop-motion ticks.
+   - Props on `VoxBeat`: `checklistItems: Array<{ text: string; checked?: boolean }>`
+
+6. **`polaroid` (`PolaroidScene`):**
+   - Triggered by biographical stories, psychological experiments, or case studies ("Daniel Kahneman", "Stanley Milgram", "In 1974...", "The experiment...").
+   - Renders an instant physical photo frame with masking tape (`PaperSticker`), realistic drop shadow, subtle rotation, and handwritten archival caption.
+   - Props on `VoxBeat`: `polaroidCaption?: string`, `image?: string`
+
+7. **`chart` (`ChartScene`):**
+   - Triggered by narration about growth curves, exponential trends, compounding, financial returns, or decline ("compounding", "exponential", "over time", "curve", "plateau").
+   - Pure SVG animated line chart with grid, axis labels, and glowing leading pulse dot (100% GPU-safe, zero WebGL overhead).
+   - Props on `VoxBeat`: `chartData?: number[]`, `chartLabels?: string[]`, `chartTitle?: string`, `chartSubtitle?: string`
+
+8. **`ChapterOverlay` Upgrades (`src/engines/vox/overlays.tsx`):**
+   - Chapter titles now render with tactile editorial styling: a taped paper badge (`PaperSticker`) for the chapter number and an organic **`InkUnderline`** for the title.
 
 ### Who authors the creative work — **Claude-first (default); NVIDIA/llama is dormant**
 The three creative stages are, by default, authored by **Claude directly** — sharper and more book-specific than llama-3.3-70b. The NVIDIA path (`scripts/lib/llm.js`) is kept but **only wakes on explicit opt-in** (`USE_NVIDIA=1`, or `--use-llm` on plan-vox) so a stray `NVIDIA_API_KEY` in `.env` never silently takes over.
@@ -508,14 +576,21 @@ npm run build        # runs: remotion bundle
 
 ## Multi-Worker GitHub Actions Render Pool & Sequential Queue Protocol
 
-The project operates a dedicated **Multi-Worker GitHub Actions render pool** (4 independent worker accounts, 8,000 free minutes/month total) to offload all video rendering workloads. The primary codebase repo (`sates52/Remotion-test`) **never** runs render jobs.
+The project operates a dedicated **Multi-Worker GitHub Actions render pool** (10 independent worker accounts, 20,000 free minutes/month total) to offload all video rendering workloads. The primary codebase repo (`sates52/Remotion-test`) **never** runs render jobs.
 
 ### 👥 Active Worker Pool (Round-Robin Rotated)
 - **Worker 1**: `@sates52ko` ➔ `sates52ko/Remotion-render` (2,000 min/mo)
 - **Worker 2**: `@goodbooksummary-a11y` ➔ `goodbooksummary-a11y/Remotion-render` (2,000 min/mo)
 - **Worker 3**: `@ahmetbahadir79-wq` ➔ `ahmetbahadir79-wq/Remotion-render` (2,000 min/mo)
 - **Worker 4**: `@berilasal099-byte` ➔ `berilasal099-byte/Remotion-render` (2,000 min/mo)
-- **Registry & Rotation**: Stored in `render-accounts.json`. Dispatches automatically rotate across workers (1 ➔ 2 ➔ 3 ➔ 4 ➔ 1).
+- **Worker 5**: `@canek65` ➔ `canek65/Remotion-render` (2,000 min/mo)
+- **Worker 6**: `@cansukilic134-cyber` ➔ `cansukilic134-cyber/Remotion-render` (2,000 min/mo)
+- **Worker 7**: `@konusarakogrenduru-web` ➔ `konusarakogrenduru-web/Remotion-render` (2,000 min/mo)
+- **Worker 8**: `@konusarakogrensiniflar-ctrl` ➔ `konusarakogrensiniflar-ctrl/Remotion-render` (2,000 min/mo)
+- **Worker 9**: `@labsnarrative-coder` ➔ `labsnarrative-coder/Remotion-render` (2,000 min/mo)
+- **Worker 10**: `@gulbendeniz0102-ai` ➔ `gulbendeniz0102-ai/Remotion-render` (2,000 min/mo)
+- **Registry & Rotation**: Stored in `render-accounts.json`. Dispatches automatically rotate across workers (1 ➔ 2 ➔ 3 ➔ 4 ➔ 5 ➔ 6 ➔ 7 ➔ 8 ➔ 9 ➔ 10 ➔ 1).
+- **Onboarding Guide for New Workers**: Whenever the user asks for new account creation steps, reference and present [NEW_RENDER_ACCOUNT_GUIDE.md](file:///c:/Users/savas/Cursor/Remotion/test/NEW_RENDER_ACCOUNT_GUIDE.md).
 
 ### 🚦 Sequential Render Queue (Kuyruk Yöneticisi)
 When producing multiple books or running batch renders, **always use the sequential queue** so jobs run one-by-one, wait for completion, auto-download the resulting `out/<slug>.mp4`, and proceed cleanly to the next video:
@@ -787,5 +862,77 @@ To prevent burning personal GitHub Actions quotas and maintain a dedicated codeb
 - Dispatch & Monitor: `node scripts/render.js --slug=<slug> --method=github [--wait]`
 - Sequential Multi-Video Queue: `node scripts/render-queue.js --add=<slug1>,<slug2> --run --method=github`
 - Automatic Round-Robin worker selection rotates `worker1` ➔ `worker2` ➔ `worker3` ➔ `worker4` ➔ `worker5` ➔ `worker6` ➔ `worker7`.
+
+---
+
+## Antidote Animation Engine (`src/engines/antidote/`)
+
+Pure vector 2D flat-minimal character and scene animation engine for high-retention book summary videos:
+- **Zero WebGL overhead:** 100% SVG and CSS transforms rendered deterministically at 1080p @ 24fps.
+- **Strict Safe-Zones:**
+  - **Top:** Safe zone / HUD (timeline, progress).
+  - **Center:** Character, handprops, kinetic typography, metaphors.
+  - **Bottom:** Subtitle / captions overlay.
+
+### Character Micro-Reactions & Emotions
+Characters support dynamic head-anchored micro-reactions configured in `SceneSpec.characters[n]`:
+```ts
+emotion?: "none" | "lightbulb" | "sweat" | "question" | "shock" | "fire";
+emotionAt?: number; // frame relative to character entrance (defaults to 8)
+```
+- `"lightbulb"`: Eureka / Aha! insight moment with glowing bulb and radiating amber light rays.
+- `"sweat"`: Cognitive bias / anxiety / stress trigger with droplet pop and subtle shiver jitter (`jitterX`).
+- `"question"`: Mystery / paradox with staggered floating bouncy question marks.
+- `"shock"`: Sudden realization / paradigm shift with sharp comic shock spikes radiating from head.
+- `"fire"`: Extreme passion / unstoppable discipline with dynamic licking flame on head crown.
+
+### Living Gaze & Focus Tracking
+Characters dynamically track scene objects, breaking the 4th wall or looking at each other:
+```ts
+lookAt?: "partner" | "motif" | "callout" | "camera" | "ahead" | "viewer" | "text" | "prop" | "heldProp" | "hand" | "wander" | { x: number; y: number };
+```
+- `"viewer"` / `"camera"`: Looks straight into the viewer's eyes (breaking 4th wall).
+- `"text"` / `"callout"`: Head and 2D pupils lock onto the active kinetic headline / callout box.
+- `"heldProp"` / `"hand"`: Pupils shift downward and inward to inspect what's held in hands (e.g. `holds: "book"`).
+- `"wander"`: Contemplative drifting gaze with organic micro-saccades.
+- `"partner"`: Two characters orient gaze and head tilt directly toward each other's eye line.
+- **Biomechanical Life:** Every character features 2D pupil translation (`gazeX`, `gazeY`), catchlight reflection highlights, and rhythmic sinusoidal chest breathing (`Torso` respiratory scale).
+
+### Retention HUD & Chapter Tracker (`RetentionHUD.tsx`)
+Top safe-zone minimal progress timeline and insight trackers designed to slash viewer drop-off:
+- **Timeline:** 4px top progress bar filled with accent color, glowing tip dot, and vertical scene milestone divider ticks.
+- **Insight Pill:** Glassmorphism badge (`INSIGHT 01 / 07 • TOPIC`) with pulsing status dot on top-left.
+- **Watermark:** Minimal mono tracking title on top-right.
+- **Auto-Hide:** Automatically fades to 0% opacity during monumental `chapterCard` shots to preserve cinematic focus.
+- **Config:**
+  ```ts
+  // Book-level meta:
+  hud?: { enabled?: boolean; accent?: string; title?: string; showProgress?: boolean; showBadge?: boolean; }
+  // Scene-level override:
+  hud?: { badge?: string; topic?: string; hidden?: boolean; }
+### Vector Handprop Collection (`handprops.tsx`)
+Characters can hold 13 pure vector props with automatic arm counter-rotation (`rotate(-(armRot + elbowRot))`) keeping items naturally oriented during gestures:
+- `holds?: "none" | "coffee" | "phone" | "book" | "shield" | "trophy" | "hourglass" | "sword" | "target" | "magnifier" | "wallet" | "gift" | "zap"`
+  - `"shield"`: Defensive risk management, protecting the downside (*Skin in the Game*, *Antifragile*).
+  - `"hourglass"`: Time arbitrage, urgency, patience (*Psychology of Money*, *Deep Work*).
+  - `"target"`: Concentric target with bullseye arrow, ruthless focus (*The ONE Thing*, *Essentialism*).
+  - `"sword"`: Steel blade with purple hilt, courage, decisive action (*War of Art*, *Can't Hurt Me*).
+  - `"trophy"`: Gold cup with star emblem, mastery, winning the long game (*Grit*, *Atomic Habits*).
+  - `"magnifier"`: Detailed magnifying glass, micro-habits, rigorous analysis.
+  - `"wallet"`: Stitched leather wallet with gold coin, personal finance discipline.
+  - `"gift"`: Wrapped gift package with bow, delivering value (*Give and Take*).
+  - `"zap"`: Dual-step lightning bolt, instant momentum, habit trigger.
+- **Natural Look-At Coupling:** Pair `holds: "<prop>"` with `lookAt: "heldProp"` to make the character naturally glance down at the object in their hand.
+
+### Hypnotic Vector Metaphors (`motifs.tsx`)
+Rich, dynamic philosophical and strategic visual metaphors for high audience retention:
+- `props: [{ type: "dominoCascade" | "icebergDepth" | "funnelTrap", ... }]`
+  - `"dominoCascade"`: 6-tier geometric domino cascade with spring-eased collisions, shock rings, arching compound growth curve, and final explosive starburst. Use for compound effect, small habits, exponential breakthroughs (*Atomic Habits*, *Compound Effect*).
+  - `"icebergDepth"`: Dynamic bobbing waterline, 10% visible mountain peak, scanning sonar beam, and deep 90% submerged crystalline iceberg revealing hidden foundation layers ("HABITS", "FAILURES", "90% SACRIFICE"). Use for mastery, iceberg of success, resilience (*Grit*, *Outliers*).
+  - `"funnelTrap"`: Wide conical funnel receiving 100+ chaotic bouncing distraction particles, an animated laser sorting throat, and a single pure concentrated golden diamond dropping onto the bullseye target. Use for ruthless prioritization, noise filtering, finding the one thing (*The ONE Thing*, *Essentialism*).
+- **Presenter Coupling:** Pair metaphor props with characters using `action: "point"`, `lookAt: "motif"`, and fitting emotions (`emotion: "lightbulb" | "shock" | "fire"`).
+
+
+
 
 

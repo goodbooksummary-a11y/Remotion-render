@@ -142,10 +142,147 @@ const Briefcase: G = ({ ink, accent }) => (
   </g>
 );
 
+const Shield: G = ({ ink, accent }) => (
+  <g>
+    <path d="M-36,-44 L36,-44 Q36,12 0,52 Q-36,12 -36,-44 Z" fill={accent} stroke={ink} strokeWidth={5} />
+    <path d="M-24,-34 L24,-34 Q24,6 0,38 Q-24,6 -24,-34 Z" fill="#FFFFFF" opacity={0.3} />
+    <path d="M0,-30 L0,32" stroke={ink} strokeWidth={6} strokeLinecap="round" opacity={0.7} />
+    <path d="M-20,-10 L20,-10" stroke={ink} strokeWidth={6} strokeLinecap="round" opacity={0.7} />
+  </g>
+);
+
+const Trophy: G = ({ ink, accent }) => (
+  <g>
+    <rect x={-24} y={32} width={48} height={14} rx={3} fill={ink} />
+    <rect x={-8} y={16} width={16} height={18} rx={2} fill={accent} stroke={ink} strokeWidth={3} />
+    <path d="M-32,-38 L32,-38 L26,6 Q22,18 0,18 Q-22,18 -26,6 Z" fill={accent} stroke={ink} strokeWidth={5} />
+    <path d="M-32,-26 Q-50,-24 -46,-4 Q-42,12 -24,8" fill="none" stroke={ink} strokeWidth={6} strokeLinecap="round" />
+    <path d="M32,-26 Q50,-24 46,-4 Q42,12 24,8" fill="none" stroke={ink} strokeWidth={6} strokeLinecap="round" />
+    <polygon points="0,-18 3,-10 11,-10 5,-4 7,4 0,0 -7,4 -5,-4 -11,-10 -3,-10" fill="#FFFFFF" opacity={0.9} />
+  </g>
+);
+
+const Hourglass: G = ({ ink, accent }) => (
+  <g>
+    <rect x={-30} y={-44} width={60} height={10} rx={3} fill={ink} />
+    <rect x={-30} y={34} width={60} height={10} rx={3} fill={ink} />
+    <path d="M-24,-34 C-24,-12 -6,-4 0,0 C6,-4 24,-12 24,-34 Z" fill="rgba(255,255,255,0.2)" stroke={ink} strokeWidth={4} />
+    <path d="M-24,34 C-24,12 -6,4 0,0 C6,4 24,12 24,34 Z" fill="rgba(255,255,255,0.2)" stroke={ink} strokeWidth={4} />
+    <path d="M-18,-30 C-18,-20 -8,-10 0,-3 C8,-10 18,-20 18,-30 Z" fill={accent} />
+    <path d="M-19,30 C-19,20 -6,14 0,7 C6,14 19,20 19,30 Z" fill={accent} />
+    <line x1={0} y1={-3} x2={0} y2={8} stroke={accent} strokeWidth={3} strokeDasharray="3 3" />
+  </g>
+);
+
+const Sword: G = ({ ink, accent }) => (
+  <g transform="rotate(35)">
+    <path d="M-7,12 L-5,-50 L0,-62 L5,-50 L7,12 Z" fill="#E2E8F0" stroke={ink} strokeWidth={4} />
+    <line x1={0} y1={-54} x2={0} y2={12} stroke={ink} strokeWidth={2} opacity={0.5} />
+    <rect x={-24} y={12} width={48} height={9} rx={3} fill={accent} stroke={ink} strokeWidth={3} />
+    <rect x={-4} y={21} width={8} height={18} rx={2} fill={ink} />
+    <circle cx={0} cy={44} r={7} fill={accent} stroke={ink} strokeWidth={3} />
+  </g>
+);
+
+const Target: G = ({ ink, accent }) => (
+  <g>
+    <circle cx={0} cy={0} r={44} fill={accent} stroke={ink} strokeWidth={5} />
+    <circle cx={0} cy={0} r={32} fill="#FFFFFF" stroke={ink} strokeWidth={4} />
+    <circle cx={0} cy={0} r={20} fill={accent} stroke={ink} strokeWidth={4} />
+    <circle cx={0} cy={0} r={8} fill="#FFFFFF" />
+    <path d="M-28,-28 L0,0" stroke={ink} strokeWidth={6} strokeLinecap="round" />
+    <path d="M-36,-36 L-24,-28 L-28,-24 Z" fill={accent} stroke={ink} strokeWidth={2} />
+  </g>
+);
+
+const Magnifier: G = ({ ink, accent }) => (
+  <g transform="rotate(-25)">
+    <circle cx={-4} cy={-12} r={30} fill="rgba(255,255,255,0.4)" stroke={accent} strokeWidth={9} />
+    <circle cx={-4} cy={-12} r={30} fill="none" stroke={ink} strokeWidth={3} />
+    <path d="M-22,-24 A22,22 0 0,1 6,-32" fill="none" stroke="#FFFFFF" strokeWidth={5} strokeLinecap="round" />
+    <rect x={18} y={8} width={14} height={38} rx={6} fill={ink} transform="rotate(-45 25 27)" />
+  </g>
+);
+
+const Wallet: G = ({ ink, accent }) => (
+  <g>
+    <rect x={-32} y={-36} width={64} height={20} rx={3} fill="#10B981" stroke={ink} strokeWidth={3} />
+    <line x1={-20} y1={-26} x2={20} y2={-26} stroke="#FFFFFF" strokeWidth={2} opacity={0.6} />
+    <rect x={-42} y={-22} width={84} height={54} rx={9} fill={accent} stroke={ink} strokeWidth={5} />
+    <path d="M14,-4 L38,-4 Q44,-4 44,4 L44,8 Q44,16 38,16 L14,16 Z" fill={ink} />
+    <circle cx={34} cy={6} r={4} fill="#F59E0B" />
+  </g>
+);
+
+const Gift: G = ({ ink, accent }) => (
+  <g>
+    <rect x={-32} y={-16} width={64} height={52} rx={6} fill={accent} stroke={ink} strokeWidth={4} />
+    <rect x={-38} y={-26} width={76} height={14} rx={3} fill={accent} stroke={ink} strokeWidth={4} />
+    <rect x={-6} y={-26} width={12} height={62} fill="#FFFFFF" opacity={0.9} stroke={ink} strokeWidth={2} />
+    <rect x={-32} y={6} width={64} height={10} fill="#FFFFFF" opacity={0.9} stroke={ink} strokeWidth={2} />
+    <path d="M-14,-34 C-24,-46 0,-40 -2,-26 Z" fill="#FFFFFF" stroke={ink} strokeWidth={3} />
+    <path d="M14,-34 C24,-46 0,-40 2,-26 Z" fill="#FFFFFF" stroke={ink} strokeWidth={3} />
+  </g>
+);
+
+const Zap: G = ({ ink, accent }) => (
+  <g>
+    <path
+      d="M8,-56 L-32,2 L-2,2 L-14,54 L36,-6 L6,-6 Z"
+      fill={accent}
+      stroke={ink}
+      strokeWidth={5}
+      strokeLinejoin="round"
+    />
+    <path
+      d="M2,-44 L-22,-2 L4,-2 L-6,36 L24,-8 L4,-8 Z"
+      fill="#FFFFFF"
+      opacity={0.4}
+    />
+  </g>
+);
+
+const Laptop: G = ({ ink, accent }) => (
+  <g transform="translate(0 6)">
+    {/* Open screen */}
+    <rect x={-36} y={-44} width={72} height={46} rx={4} fill={ink} />
+    <rect x={-32} y={-40} width={64} height={38} rx={2} fill="#0F172A" />
+    <rect x={-26} y={-32} width={28} height={8} rx={2} fill={accent} />
+    <rect x={-26} y={-20} width={42} height={6} rx={2} fill="#38BDF8" opacity={0.6} />
+    {/* Base keyboard */}
+    <polygon points="-42,4 42,4 36,18 -36,18" fill={ink} />
+    <rect x={-30} y={6} width={60} height={8} rx={2} fill="#334155" />
+  </g>
+);
+
+const CreditCard: G = ({ ink, accent }) => (
+  <g transform="rotate(-15)">
+    <rect x={-36} y={-24} width={72} height={48} rx={6} fill={accent} stroke={ink} strokeWidth={4} />
+    <rect x={-28} y={-14} width={14} height={10} rx={2} fill="#FDE047" />
+    <rect x={-36} y={6} width={72} height={8} fill="#0F172A" opacity={0.7} />
+    <circle cx={18} cy={-8} r={5} fill="#FFFFFF" opacity={0.9} />
+    <circle cx={25} cy={-8} r={5} fill="#FDE047" opacity={0.8} />
+  </g>
+);
+
+const Smartphone: G = ({ ink, accent }) => (
+  <g>
+    <rect x={-20} y={-40} width={40} height={80} rx={8} fill={ink} />
+    <rect x={-16} y={-34} width={32} height={68} rx={4} fill="#0F172A" />
+    {/* Chat bubbles on screen */}
+    <rect x={-12} y={-24} width={18} height={8} rx={3} fill={accent} />
+    <rect x={-4} y={-10} width={18} height={8} rx={3} fill="#38BDF8" />
+    <rect x={-12} y={4} width={20} height={8} rx={3} fill={accent} />
+  </g>
+);
+
 export const HAND_PROPS: Record<HandProp, G> = {
   book: Book, phone: Phone, key: Key, notes: Notes, letter: Letter, coin: Coin,
   cup: Cup, lightbulb: Lightbulb, mask: Mask, photo: Photo, mirror: Mirror,
   flower: Flower, compass: Compass, briefcase: Briefcase,
+  shield: Shield, trophy: Trophy, hourglass: Hourglass, sword: Sword,
+  target: Target, magnifier: Magnifier, wallet: Wallet, gift: Gift, zap: Zap,
+  laptop: Laptop, creditCard: CreditCard, smartphone: Smartphone,
 };
 
 /**

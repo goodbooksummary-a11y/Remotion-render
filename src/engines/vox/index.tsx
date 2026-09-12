@@ -2,7 +2,7 @@ import React from "react";
 import { AbsoluteFill, Audio, Sequence, staticFile } from "remotion";
 import { BOOK_BG_TINT } from "../../books.generated";
 import type { VoxConfig } from "./schema";
-import { PAPER, resolvePalette } from "./palette";
+import { PAPER, resolvePalette, resolveCaptionHighlight } from "./palette";
 import { PaperBackground, FloatingSpecks, Grain, Vignette } from "./backgrounds";
 import { SCENES, StatementScene } from "./scenes";
 import { CaptionLayer } from "./captions";
@@ -20,11 +20,13 @@ export * from "./scenes-journalism";
 
 export const VoxBook: React.FC<{ config: VoxConfig }> = ({ config }) => {
   const pal = resolvePalette(config.meta.slug);
+  const captionHighlight = resolveCaptionHighlight(pal);
   const paletteVars = {
     "--vox-paper": pal.paper,
     "--vox-ink": pal.ink,
     "--vox-red": pal.red,
     "--vox-gold": pal.gold,
+    "--vox-caption-highlight": captionHighlight,
   } as React.CSSProperties;
   return (
   <AbsoluteFill style={{ ...paletteVars, backgroundColor: PAPER }}>

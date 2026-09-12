@@ -1162,6 +1162,1395 @@ const Compass: React.FC<MotifProps> = ({ spec, accent, ink }) => {
   );
 };
 
+// ── Hypnotic Vector Metaphors (Compounding, Depth, Ruthless Focus) ────────
+const DominoCascade: React.FC<MotifProps> = ({ spec, accent, ink }) => {
+  const frame = useCurrentFrame();
+  const { fps } = useVideoConfig();
+  const sp = spring({ frame, fps, config: { damping: 12, stiffness: 140 } });
+
+  const baseY = 430;
+  const dominoes = [
+    { x: 60, w: 14, h: 44, delay: 10 },
+    { x: 110, w: 18, h: 68, delay: 17 },
+    { x: 170, w: 24, h: 105, delay: 24 },
+    { x: 245, w: 32, h: 160, delay: 31 },
+    { x: 335, w: 42, h: 235, delay: 38 },
+    { x: 440, w: 54, h: 340, delay: 46 },
+  ];
+
+  const finalHit = frame > 53;
+  const finalImpactScale = spring({
+    frame: Math.max(0, frame - 53),
+    fps,
+    config: { damping: 10, stiffness: 180 },
+  });
+
+  return (
+    <Frame spec={spec}>
+      <line x1={30} y1={baseY} x2={500} y2={baseY} stroke={ink} strokeWidth={8} strokeLinecap="round" opacity={0.35 * sp} />
+      <line
+        x1={60}
+        y1={baseY + 12}
+        x2={interpolate(frame, [10, 54], [60, 480], { extrapolateLeft: "clamp", extrapolateRight: "clamp" })}
+        y2={baseY + 12}
+        stroke={accent}
+        strokeWidth={4}
+        strokeLinecap="round"
+        opacity={0.8 * sp}
+      />
+
+      {dominoes.map((d, i) => {
+        const rot = interpolate(frame, [d.delay, d.delay + 9], [0, 68], {
+          extrapolateLeft: "clamp",
+          extrapolateRight: "clamp",
+          easing: Easing.bezier(0.35, 0, 0.15, 1),
+        });
+
+        const isFallen = frame >= d.delay + 7;
+        const isTriggered = frame >= d.delay;
+
+        const hitFrame = d.delay + 7;
+        const hitAge = frame - hitFrame;
+        const showHit = hitAge >= 0 && hitAge < 12;
+        const hitRingR = interpolate(hitAge, [0, 12], [4, d.w * 1.8], { extrapolateLeft: "clamp", extrapolateRight: "clamp" });
+        const hitRingOp = interpolate(hitAge, [0, 12], [0.9, 0], { extrapolateLeft: "clamp", extrapolateRight: "clamp" });
+
+        const isLast = i === dominoes.length - 1;
+        const fillColor = isLast && isFallen ? accent : isTriggered ? accent : ink;
+        const fillOpacity = isLast ? (isFallen ? 1 : 0.85) : isTriggered ? 0.95 : 0.8;
+
+        return (
+          <g key={i} opacity={sp}>
+            <g transform={`translate(${d.x + d.w}, ${baseY}) rotate(${rot}) translate(${-(d.x + d.w)}, ${-baseY})`}>
+              <rect x={d.x + 4} y={baseY - d.h + 4} width={d.w} height={d.h} rx={6} fill="black" opacity={0.12} />
+              <rect x={d.x} y={baseY - d.h} width={d.w} height={d.h} rx={6} fill={fillColor} opacity={fillOpacity} />
+              <line
+                x1={d.x + 3}
+                y1={baseY - d.h * 0.5}
+                x2={d.x + d.w - 3}
+                y2={baseY - d.h * 0.5}
+                stroke={isTriggered ? "#FFFFFF" : accent}
+                strokeWidth={Math.max(2, d.w * 0.08)}
+                strokeLinecap="round"
+                opacity={0.65}
+              />
+              <circle
+                cx={d.x + d.w / 2}
+                cy={baseY - d.h * 0.75}
+                r={Math.max(2, d.w * 0.12)}
+                fill={isTriggered ? "#FFFFFF" : accent}
+                opacity={0.8}
+              />
+              <circle
+                cx={d.x + d.w / 2}
+                cy={baseY - d.h * 0.25}
+                r={Math.max(2, d.w * 0.12)}
+                fill={isTriggered ? "#FFFFFF" : accent}
+                opacity={0.8}
+              />
+            </g>
+
+            {showHit && (
+              <circle
+                cx={d.x + d.w + 6}
+                cy={baseY - d.h * 0.4}
+                r={hitRingR}
+                fill="none"
+                stroke={accent}
+                strokeWidth={3}
+                opacity={hitRingOp}
+              />
+            )}
+          </g>
+        );
+      })}
+
+      {finalHit && (
+        <g transform="translate(480, 410)" opacity={Math.min(1, finalImpactScale)}>
+          <polygon
+            points={spikes(0, 0, 52 * finalImpactScale, 22 * finalImpactScale, 10)}
+            fill={accent}
+            opacity={0.9}
+          />
+          <circle cx={0} cy={0} r={16 * finalImpactScale} fill="#FFFFFF" />
+        </g>
+      )}
+
+      <path
+        d="M 68, 380 Q 240, 360 460, 90"
+        fill="none"
+        stroke={accent}
+        strokeWidth={3}
+        strokeDasharray="6,6"
+        opacity={0.45 * sp}
+      />
+
+      <g transform="translate(60, 465)" opacity={sp}>
+        <rect x={0} y={0} width={185} height={26} rx={13} fill={ink} opacity={0.85} />
+        <circle cx={13} cy={13} r={4} fill={accent} />
+        <text
+          x={24}
+          y={17}
+          fill="#FFFFFF"
+          fontSize={11}
+          fontWeight="bold"
+          fontFamily={ANTIDOTE_FONT}
+          letterSpacing="1px"
+        >
+          COMPOUND EFFECT
+        </text>
+      </g>
+    </Frame>
+  );
+};
+
+const IcebergDepth: React.FC<MotifProps> = ({ spec, accent, ink }) => {
+  const frame = useCurrentFrame();
+  const { fps } = useVideoConfig();
+  const sp = spring({ frame, fps, config: { damping: 13, stiffness: 120 } });
+  
+  const waterY = 190;
+  const bob = Math.sin(frame * 0.06) * 5;
+
+  const scanY = interpolate(frame, [15, 60], [waterY, 460], {
+    extrapolateLeft: "clamp",
+    extrapolateRight: "clamp",
+    easing: Easing.bezier(0.25, 0.1, 0.25, 1),
+  });
+
+  const showL1 = frame > 24;
+  const showL2 = frame > 38;
+  const showL3 = frame > 50;
+
+  return (
+    <Frame spec={spec}>
+      <rect
+        x={20}
+        y={waterY}
+        width={480}
+        height={310}
+        rx={8}
+        fill={accent}
+        opacity={0.12 * sp}
+      />
+
+      <g opacity={0.35 * sp} stroke={ink} strokeWidth={2}>
+        <line x1={40} y1={250} x2={55} y2={250} />
+        <line x1={40} y1={330} x2={55} y2={330} />
+        <line x1={40} y1={410} x2={55} y2={410} />
+        <text x={38} y={254} fill={ink} fontSize={10} fontFamily={ANTIDOTE_FONT} textAnchor="end" opacity={0.6}>-100m</text>
+        <text x={38} y={334} fill={ink} fontSize={10} fontFamily={ANTIDOTE_FONT} textAnchor="end" opacity={0.6}>-500m</text>
+        <text x={38} y={414} fill={ink} fontSize={10} fontFamily={ANTIDOTE_FONT} textAnchor="end" opacity={0.6}>-1000m</text>
+      </g>
+
+      <g transform={`translate(0, ${bob})`} opacity={sp}>
+        <polygon
+          points={`260,${waterY + 2} 190,${waterY + 2} 80,280 120,380 230,470 260,${waterY + 2}`}
+          fill={accent}
+          opacity={0.38}
+        />
+        <polygon
+          points={`260,${waterY + 2} 230,470 290,470 330,360 260,${waterY + 2}`}
+          fill={accent}
+          opacity={0.55}
+        />
+        <polygon
+          points={`260,${waterY + 2} 330,${waterY + 2} 440,270 410,380 290,470 260,${waterY + 2}`}
+          fill={ink}
+          opacity={0.25}
+        />
+        <polygon
+          points={`190,${waterY + 2} 80,280 190,320 260,${waterY + 2}`}
+          fill={ink}
+          opacity={0.18}
+        />
+        <polygon
+          points={`190,${waterY + 2} 80,280 120,380 230,470 290,470 410,380 440,270 330,${waterY + 2}`}
+          fill="none"
+          stroke={ink}
+          strokeWidth={6}
+          strokeLinejoin="round"
+          opacity={0.7}
+        />
+
+        <polygon
+          points={`260,78 205,${waterY - 2} 260,${waterY - 2}`}
+          fill="#FFFFFF"
+          stroke={ink}
+          strokeWidth={5}
+          strokeLinejoin="round"
+        />
+        <polygon
+          points={`260,78 260,${waterY - 2} 315,${waterY - 2}`}
+          fill={PAPER_ICON}
+          stroke={ink}
+          strokeWidth={5}
+          strokeLinejoin="round"
+        />
+
+        <g transform="translate(325, 115)">
+          <line x1={-10} y1={8} x2={16} y2={8} stroke={accent} strokeWidth={2} strokeDasharray="3,3" />
+          <rect x={18} y={-4} width={135} height={24} rx={12} fill={accent} />
+          <text
+            x={85}
+            y={12}
+            fill="#FFFFFF"
+            fontSize={10}
+            fontWeight="bold"
+            fontFamily={ANTIDOTE_FONT}
+            textAnchor="middle"
+            letterSpacing="1px"
+          >
+            10% VISIBLE RESULT
+          </text>
+        </g>
+      </g>
+
+      {frame >= 15 && scanY <= 460 && (
+        <g opacity={sp}>
+          <line
+            x1={50}
+            y1={scanY}
+            x2={470}
+            y2={scanY}
+            stroke={accent}
+            strokeWidth={3}
+            opacity={0.85}
+          />
+          <circle cx={260} cy={scanY} r={4} fill="#FFFFFF" />
+        </g>
+      )}
+
+      {showL1 && (
+        <g transform="translate(260, 255)" opacity={sp}>
+          <rect x={-95} y={-12} width={190} height={24} rx={12} fill={ink} opacity={0.88} />
+          <text x={0} y={4} fill="#FFFFFF" fontSize={11} fontWeight="bold" fontFamily={ANTIDOTE_FONT} textAnchor="middle" letterSpacing="0.8px">
+            HABITS & DISCIPLINE
+          </text>
+        </g>
+      )}
+
+      {showL2 && (
+        <g transform="translate(260, 335)" opacity={sp}>
+          <rect x={-105} y={-12} width={210} height={24} rx={12} fill={ink} opacity={0.88} />
+          <text x={0} y={4} fill="#FFFFFF" fontSize={11} fontWeight="bold" fontFamily={ANTIDOTE_FONT} textAnchor="middle" letterSpacing="0.8px">
+            FAILURES & REJECTIONS
+          </text>
+        </g>
+      )}
+
+      {showL3 && (
+        <g transform="translate(260, 415)" opacity={sp}>
+          <rect x={-115} y={-14} width={230} height={28} rx={14} fill={accent} opacity={0.95} />
+          <text x={0} y={5} fill="#FFFFFF" fontSize={12} fontWeight="bold" fontFamily={ANTIDOTE_FONT} textAnchor="middle" letterSpacing="1px">
+            90% UNSEEN SACRIFICE
+          </text>
+        </g>
+      )}
+
+      <path
+        d={`M 20,${waterY} Q 80,${waterY - 6} 140,${waterY} T 260,${waterY} T 380,${waterY} T 500,${waterY}`}
+        fill="none"
+        stroke={accent}
+        strokeWidth={7}
+        strokeLinecap="round"
+        opacity={0.95 * sp}
+      />
+    </Frame>
+  );
+};
+
+const FunnelTrap: React.FC<MotifProps> = ({ spec, accent, ink }) => {
+  const frame = useCurrentFrame();
+  const { fps } = useVideoConfig();
+  const sp = spring({ frame, fps, config: { damping: 12, stiffness: 130 } });
+
+  const particles = [
+    { seedX: 140, delay: 6, size: 10, color: ink },
+    { seedX: 180, delay: 12, size: 8, color: accent },
+    { seedX: 220, delay: 4, size: 12, color: ink },
+    { seedX: 260, delay: 16, size: 9, color: ink },
+    { seedX: 300, delay: 8, size: 11, color: accent },
+    { seedX: 340, delay: 14, size: 8, color: ink },
+    { seedX: 380, delay: 10, size: 10, color: ink },
+    { seedX: 200, delay: 20, size: 9, color: ink },
+    { seedX: 320, delay: 22, size: 10, color: accent },
+  ];
+
+  const throatPulse = 0.7 + Math.sin(frame * 0.25) * 0.3;
+
+  const dropFrame = Math.max(0, frame - 28);
+  const diamondDrop = spring({
+    frame: dropFrame,
+    fps,
+    config: { damping: 11, stiffness: 120, mass: 0.8 },
+  });
+  const diamondY = interpolate(diamondDrop, [0, 1], [315, 435]);
+  const diamondOp = frame >= 26 ? 1 : 0;
+  const landed = frame >= 38;
+
+  return (
+    <Frame spec={spec}>
+      <polygon
+        points="90,110 430,110 300,260 300,325 220,325 220,260"
+        fill={accent}
+        opacity={0.14 * sp}
+      />
+
+      <ellipse
+        cx={260}
+        cy={110}
+        rx={170}
+        ry={22}
+        fill="none"
+        stroke={ink}
+        strokeWidth={8}
+        opacity={0.75 * sp}
+      />
+
+      <path
+        d="M 90,110 L 220,260 L 220,325 M 430,110 L 300,260 L 300,325"
+        fill="none"
+        stroke={ink}
+        strokeWidth={8}
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        opacity={sp}
+      />
+
+      <g opacity={sp * throatPulse}>
+        <line x1={220} y1={270} x2={300} y2={270} stroke={accent} strokeWidth={4} />
+        <line x1={220} y1={290} x2={300} y2={290} stroke={accent} strokeWidth={4} />
+        <line x1={220} y1={310} x2={300} y2={310} stroke={accent} strokeWidth={4} />
+      </g>
+
+      {particles.map((p, i) => {
+        const pFrame = frame - p.delay;
+        if (pFrame < 0) return null;
+        const prog = interpolate(pFrame, [0, 24], [0, 1], { extrapolateRight: "clamp" });
+        const currX = interpolate(prog, [0, 1], [p.seedX, 260]);
+        const currY = interpolate(prog, [0, 1], [40, 280]);
+        const pOpacity = interpolate(prog, [0, 0.7, 1], [0, 0.85, 0]);
+
+        return (
+          <circle
+            key={i}
+            cx={currX}
+            cy={currY}
+            r={p.size * (1 - prog * 0.4)}
+            fill={p.color}
+            opacity={pOpacity * sp}
+          />
+        );
+      })}
+
+      <g transform="translate(260, 65)" opacity={sp}>
+        <text
+          x={0}
+          y={0}
+          fill={ink}
+          fontSize={12}
+          fontWeight="bold"
+          fontFamily={ANTIDOTE_FONT}
+          textAnchor="middle"
+          letterSpacing="1.5px"
+          opacity={0.65}
+        >
+          100+ DISTRACTIONS & NOISE
+        </text>
+      </g>
+
+      <g transform="translate(260, 435)" opacity={sp}>
+        <circle cx={0} cy={0} r={34} fill="none" stroke={ink} strokeWidth={3} strokeDasharray="5,5" opacity={0.35} />
+        <circle cx={0} cy={0} r={24} fill="none" stroke={accent} strokeWidth={2} opacity={0.5} />
+      </g>
+
+      {diamondOp > 0 && (
+        <g transform={`translate(260, ${diamondY})`} opacity={sp}>
+          <circle cx={0} cy={0} r={28} fill={accent} opacity={0.25} />
+          <polygon
+            points="0,-22 22,0 0,22 -22,0"
+            fill={accent}
+            stroke="#FFFFFF"
+            strokeWidth={4}
+          />
+          <line x1={0} y1={-22} x2={0} y2={22} stroke="#FFFFFF" strokeWidth={2} opacity={0.8} />
+          <line x1={-22} y1={0} x2={22} y2={0} stroke="#FFFFFF" strokeWidth={2} opacity={0.8} />
+
+          {landed && (
+            <g opacity={Math.sin(frame * 0.2) * 0.3 + 0.7}>
+              <polygon points={spikes(0, 0, 36, 16, 6)} fill={accent} opacity={0.4} />
+            </g>
+          )}
+        </g>
+      )}
+
+      {landed && (
+        <g transform="translate(260, 485)" opacity={sp}>
+          <rect x={-100} y={-13} width={200} height={26} rx={13} fill={ink} opacity={0.92} />
+          <circle cx={-85} cy={0} r={4} fill={accent} />
+          <text
+            x={-74}
+            y={4}
+            fill="#FFFFFF"
+            fontSize={11}
+            fontWeight="bold"
+            fontFamily={ANTIDOTE_FONT}
+            letterSpacing="1px"
+          >
+            THE ESSENTIAL 1%
+          </text>
+        </g>
+      )}
+    </Frame>
+  );
+};
+
+// ── TECH & SILICON VALLEY MOTIFS (Antidote 5.0) ─────────────────────────────
+const CodeWindow: React.FC<MotifProps> = ({ spec, accent, ink }) => {
+  const frame = useCurrentFrame();
+  const cursorBlink = Math.floor(frame / 12) % 2 === 0;
+  const p = draw(frame, 38, 4);
+  return (
+    <Frame spec={spec}>
+      {/* Window chassis with shadow */}
+      <rect x={30} y={50} width={460} height={420} rx={16} fill={ink} opacity={0.92} />
+      <rect x={32} y={52} width={456} height={416} rx={14} fill="#0F172A" />
+      {/* Title bar */}
+      <rect x={32} y={52} width={456} height={44} rx={14} fill="#1E293B" />
+      {/* Window control buttons */}
+      <circle cx={62} cy={74} r={7} fill="#EF4444" />
+      <circle cx={84} cy={74} r={7} fill="#F59E0B" />
+      <circle cx={106} cy={74} r={7} fill="#10B981" />
+      {/* Active Tab */}
+      <rect x={140} y={60} width={130} height={28} rx={6} fill="#0F172A" />
+      <text x={158} y={79} fill="#94A3B8" fontSize={12} fontFamily={ANTIDOTE_FONT} fontWeight="700">
+        launch.ts
+      </text>
+
+      {/* Editor Body */}
+      {/* Line numbers column */}
+      <g fill="#475569" fontSize={13} fontFamily="monospace" fontWeight="600">
+        <text x={54} y={135}>01</text>
+        <text x={54} y={175}>02</text>
+        <text x={54} y={215}>03</text>
+        <text x={54} y={255}>04</text>
+        <text x={54} y={295}>05</text>
+        <text x={54} y={335}>06</text>
+        <text x={54} y={375}>07</text>
+        <text x={54} y={415}>08</text>
+      </g>
+      <line x1={84} y1={110} x2={84} y2={440} stroke="#334155" strokeWidth={1.5} />
+
+      {/* Code syntax lines (drawing in sequentially) */}
+      <g transform="translate(100 0)">
+        {/* line 1: const idea = "48h_launch"; */}
+        <rect x={0} y={122} width={Math.min(180, 200 * p)} height={14} rx={4} fill="#38BDF8" />
+        <rect x={190} y={122} width={Math.min(110, Math.max(0, (p - 0.2) * 250))} height={14} rx={4} fill={accent} />
+        {/* line 2: async function validate() { */}
+        <rect x={0} y={162} width={Math.min(240, Math.max(0, (p - 0.3) * 350))} height={14} rx={4} fill="#F472B6" />
+        {/* line 3:   const customers = await ask(); */}
+        <rect x={30} y={202} width={Math.min(260, Math.max(0, (p - 0.4) * 350))} height={14} rx={4} fill="#A7F3D0" />
+        {/* line 4:   if (customers >= 3) { */}
+        <rect x={30} y={242} width={Math.min(190, Math.max(0, (p - 0.5) * 300))} height={14} rx={4} fill="#FDE047" />
+        {/* line 5:     return buildProduct(); */}
+        <rect x={60} y={282} width={Math.min(210, Math.max(0, (p - 0.6) * 300))} height={14} rx={4} fill={accent} />
+        {/* line 6:   } */}
+        <rect x={30} y={322} width={20} height={14} rx={4} fill="#94A3B8" />
+        {/* line 7: } */}
+        <rect x={0} y={362} width={20} height={14} rx={4} fill="#94A3B8" />
+        {/* Blinking cursor */}
+        {cursorBlink && <rect x={280} y={280} width={10} height={18} rx={2} fill="#38BDF8" />}
+      </g>
+    </Frame>
+  );
+};
+
+const LaptopMockup: React.FC<MotifProps> = ({ spec, accent, ink }) => {
+  const frame = useCurrentFrame();
+  const { fps } = useVideoConfig();
+  const lift = spring({ frame, fps, delay: 4, config: { damping: 14, stiffness: 120 } });
+  return (
+    <Frame spec={spec}>
+      {/* Laptop Screen (Lifting up) */}
+      <g transform={`translate(260 360) scale(1 ${lift}) translate(-260 -360)`}>
+        {/* Screen Bezel */}
+        <rect x={70} y={80} width={380} height={260} rx={16} fill={ink} />
+        <rect x={86} y={96} width={348} height={228} rx={8} fill="#0F172A" />
+        {/* Webcam dot */}
+        <circle cx={260} cy={88} r={3} fill="#475569" />
+        {/* Screen Content / SaaS Dashboard */}
+        <rect x={106} y={116} width={90} height={22} rx={6} fill={accent} />
+        <rect x={210} y={116} width={70} height={22} rx={6} fill="#38BDF8" opacity={0.4} />
+        {/* Chart Card */}
+        <rect x={106} y={154} width={308} height={110} rx={8} fill="#1E293B" />
+        <path d="M126,236 Q190,220 240,190 T380,166" fill="none" stroke={accent} strokeWidth={8} strokeLinecap="round" />
+        <circle cx={380} cy={166} r={8} fill="#FFFFFF" stroke={accent} strokeWidth={4} />
+        <rect x={126} y={170} width={100} height={14} rx={4} fill="#F8FAFC" opacity={0.9} />
+        {/* Bottom Cards */}
+        <rect x={106} y={276} width={146} height={32} rx={6} fill="#1E293B" />
+        <rect x={268} y={276} width={146} height={32} rx={6} fill="#1E293B" />
+      </g>
+
+      {/* Laptop Base & Keyboard Well */}
+      <polygon points="30,370 490,370 460,396 60,396" fill={ink} opacity={0.85} />
+      <rect x={40} y={368} width={440} height={14} rx={6} fill="#334155" />
+      {/* Trackpad notch */}
+      <rect x={220} y={370} width={80} height={8} rx={3} fill="#64748B" />
+    </Frame>
+  );
+};
+
+const FunnelMetrics: React.FC<MotifProps> = ({ spec, accent, ink }) => {
+  const frame = useCurrentFrame();
+  const { fps } = useVideoConfig();
+  const s1 = spring({ frame, fps, delay: 6, config: { damping: 12, stiffness: 160 } });
+  const s2 = spring({ frame, fps, delay: 16, config: { damping: 12, stiffness: 160 } });
+  const s3 = spring({ frame, fps, delay: 26, config: { damping: 12, stiffness: 160 } });
+
+  return (
+    <Frame spec={spec}>
+      {/* Funnel Tier 1: 100 LEADS / OUTREACH */}
+      <g transform={`translate(260 110) scale(${s1}) translate(-260 -110)`}>
+        <polygon points="50,70 470,70 410,150 110,150" fill={ink} opacity={0.85} />
+        <text x={260} y={120} fill="#FFFFFF" fontSize={18} fontWeight="800" fontFamily={ANTIDOTE_FONT} textAnchor="middle">
+          48H VALIDATION: 100 OUTREACH
+        </text>
+      </g>
+
+      {/* Funnel Tier 2: 10 CONVERSATIONS */}
+      <g transform={`translate(260 210) scale(${s2}) translate(-260 -210)`}>
+        <polygon points="120,165 400,165 350,245 170,245" fill="#334155" />
+        <text x={260} y={214} fill="#F8FAFC" fontSize={17} fontWeight="800" fontFamily={ANTIDOTE_FONT} textAnchor="middle">
+          10 CONVERSATIONS
+        </text>
+      </g>
+
+      {/* Funnel Tier 3: 3 PAYING CUSTOMERS ($) */}
+      <g transform={`translate(260 310) scale(${s3}) translate(-260 -310)`}>
+        <polygon points="180,260 340,260 300,340 220,340" fill={accent} />
+        <text x={260} y={310} fill="#FFFFFF" fontSize={18} fontWeight="900" fontFamily={ANTIDOTE_FONT} textAnchor="middle">
+          3 PAYING
+        </text>
+      </g>
+
+      {/* Dropping Result Badge: "BUSINESS PROVEN" */}
+      {s3 > 0.8 && (
+        <g transform="translate(260 410)">
+          <rect x={-140} y={-24} width={280} height={48} rx={24} fill="#16A34A" />
+          <text x={0} y={6} fill="#FFFFFF" fontSize={16} fontWeight="900" fontFamily={ANTIDOTE_FONT} textAnchor="middle" letterSpacing="1px">
+            ✓ FIRST $ REVENUE
+          </text>
+        </g>
+      )}
+    </Frame>
+  );
+};
+
+const RocketLaunch: React.FC<MotifProps> = ({ spec, accent, ink }) => {
+  const frame = useCurrentFrame();
+  const { fps } = useVideoConfig();
+  const lift = spring({ frame, fps, delay: 6, config: { damping: 10, stiffness: 90, mass: 0.8 } });
+  const yShift = (1 - lift) * 200;
+  const flamePulse = 1 + Math.sin(frame * 0.4) * 0.18;
+
+  return (
+    <Frame spec={spec}>
+      {/* Exhaust Smoke Clouds */}
+      <g fill="#CBD5E1" opacity={0.6}>
+        <circle cx={200} cy={440 + Math.sin(frame * 0.1) * 6} r={34} />
+        <circle cx={260} cy={456 + Math.cos(frame * 0.12) * 8} r={46} />
+        <circle cx={320} cy={440 + Math.sin(frame * 0.14) * 6} r={36} />
+      </g>
+
+      {/* Speed lines */}
+      <g stroke={ink} strokeWidth={6} strokeLinecap="round" opacity={0.3}>
+        <line x1={140} y1={220} x2={140} y2={360} />
+        <line x1={380} y1={180} x2={380} y2={340} />
+      </g>
+
+      {/* Rocket Body */}
+      <g transform={`translate(0 ${yShift})`}>
+        {/* Thrust Flame */}
+        <g transform={`translate(260 350) scale(1 ${flamePulse}) translate(-260 -350)`}>
+          <polygon points="240,350 280,350 260,450" fill="#F97316" />
+          <polygon points="248,350 272,350 260,410" fill="#FDE047" />
+        </g>
+
+        {/* Fins */}
+        <polygon points="210,310 180,360 226,345" fill={accent} />
+        <polygon points="310,310 340,360 294,345" fill={accent} />
+
+        {/* Fuselage */}
+        <path d="M226,350 L226,220 Q226,110 260,80 Q294,110 294,220 L294,350 Z" fill="#F8FAFC" stroke={ink} strokeWidth={8} />
+
+        {/* Porthole Window */}
+        <circle cx={260} cy={190} r={24} fill="#0F172A" stroke={accent} strokeWidth={7} />
+        <circle cx={256} cy={186} r={6} fill="#FFFFFF" opacity={0.8} />
+
+        {/* Booster Base */}
+        <rect x={236} y={346} width={48} height={16} rx={4} fill={ink} />
+      </g>
+    </Frame>
+  );
+};
+
+const DollarExchange: React.FC<MotifProps> = ({ spec, accent, ink }) => {
+  const frame = useCurrentFrame();
+  const { fps } = useVideoConfig();
+  const s = spring({ frame, fps, delay: 6, config: { damping: 11, stiffness: 140 } });
+  const pulse = 1 + Math.sin(frame * 0.15) * 0.04;
+
+  return (
+    <Frame spec={spec}>
+      {/* Radiating Sparkles */}
+      {Array.from({ length: 8 }).map((_, i) => {
+        const a = (i / 8) * Math.PI * 2;
+        const r1 = 180;
+        const r2 = 215;
+        return (
+          <line
+            key={i}
+            x1={260 + Math.cos(a) * r1}
+            y1={260 + Math.sin(a) * r1}
+            x2={260 + Math.cos(a) * r2}
+            y2={260 + Math.sin(a) * r2}
+            stroke={accent}
+            strokeWidth={6}
+            strokeLinecap="round"
+            opacity={0.6}
+          />
+        );
+      })}
+
+      {/* Floating Center Credit Card / Dollar Bill */}
+      <g transform={`translate(260 260) scale(${s * pulse}) translate(-260 -260)`}>
+        {/* Main Bank Card */}
+        <rect x={110} y={160} width={300} height={190} rx={18} fill={accent} stroke={ink} strokeWidth={8} />
+        {/* Chip */}
+        <rect x={150} y={205} width={44} height={34} rx={6} fill="#FDE047" stroke={ink} strokeWidth={4} />
+        {/* Magnetic stripe / accent bar */}
+        <rect x={110} y={260} width={300} height={20} fill="#0F172A" opacity={0.6} />
+        {/* Card numbers dot pattern */}
+        <g fill="#FFFFFF" opacity={0.9}>
+          <circle cx={160} cy={308} r={5} /><circle cx={178} cy={308} r={5} /><circle cx={196} cy={308} r={5} />
+          <circle cx={228} cy={308} r={5} /><circle cx={246} cy={308} r={5} /><circle cx={264} cy={308} r={5} />
+          <text x={310} y={314} fill="#FFFFFF" fontSize={18} fontWeight="bold" fontFamily={ANTIDOTE_FONT}>
+            $1,000
+          </text>
+        </g>
+      </g>
+    </Frame>
+  );
+};
+
+/**
+ * CustomSvgMotif — Dynamic Vector SVG Renderer (Antidote Extensible Fabric)
+ *
+ * Enables the AI Art Director to inject bespoke vector motifs (DNA helix,
+ * Stoic marble bust, quantum entanglement, neural synapse, medieval crown, etc.)
+ * straight from JSON into Remotion without needing to recompile code.
+ */
+const CustomSvgMotif: React.FC<MotifProps> = ({ spec, accent, ink }) => {
+  const frame = useCurrentFrame();
+  const cSvg = spec.customSvg;
+  const paths = cSvg?.paths || [];
+  const viewBox = cSvg?.viewBox || "0 0 520 520";
+  const drawProg = draw(frame, 28);
+
+  return (
+    <Frame spec={spec}>
+      <svg viewBox={viewBox} width={BOX} height={BOX} style={{ overflow: "visible" }}>
+        {paths.map((p, idx) => {
+          const fill = p.fill === "accent" ? accent : p.fill === "ink" ? ink : p.fill || "none";
+          const stroke = p.stroke === "accent" ? accent : p.stroke === "ink" ? ink : p.stroke || ink;
+          const strokeWidth = p.strokeWidth ?? (fill === "none" ? 7 : 0);
+          const opacity = (p.opacity ?? 1) * Math.min(1, drawProg * 1.5);
+          return (
+            <path
+              key={idx}
+              d={p.d}
+              fill={fill}
+              stroke={stroke}
+              strokeWidth={strokeWidth}
+              strokeLinecap="round"
+              strokeLinejoin="round"
+              opacity={opacity}
+            />
+          );
+        })}
+        {cSvg?.title ? (
+          <text
+            x={BOX / 2}
+            y={BOX - 24}
+            textAnchor="middle"
+            fill={ink}
+            fontSize={22}
+            fontWeight={800}
+            fontFamily={ANTIDOTE_FONT}
+            letterSpacing={3}
+            opacity={draw(frame, 20, 10) * 0.75}
+          >
+            {cSvg.title.toUpperCase()}
+          </text>
+        ) : null}
+      </svg>
+    </Frame>
+  );
+};
+
+// ── High-Retention Narrative & Metaphor Motifs (Antidote 5.1) ───────────────
+
+const AlarmClock: React.FC<MotifProps> = ({ spec, accent, ink }) => {
+  const frame = useCurrentFrame();
+  const ring = Math.sin(frame * 1.8) * 16;
+  const vib = Math.sin(frame * 2.2) * 4;
+
+  return (
+    <Frame spec={spec}>
+      <g transform={`translate(${vib}, 0)`}>
+        {/* Ringing Soundwave Arcs */}
+        {[-1, 1].map((dir, idx) => (
+          <g key={idx} opacity={0.6 + Math.sin(frame * 0.4 + idx) * 0.3}>
+            <path
+              d={`M${260 + dir * 180},160 A210,210 0 0,${dir > 0 ? 1 : 0} ${260 + dir * 180},80`}
+              fill="none"
+              stroke={accent}
+              strokeWidth={8}
+              strokeLinecap="round"
+            />
+            <path
+              d={`M${260 + dir * 210},180 A250,250 0 0,${dir > 0 ? 1 : 0} ${260 + dir * 210},60`}
+              fill="none"
+              stroke={accent}
+              strokeWidth={6}
+              strokeLinecap="round"
+              opacity={0.6}
+            />
+          </g>
+        ))}
+
+        {/* Angled Peg Legs */}
+        <line x1={180} y1={390} x2={130} y2={464} stroke={ink} strokeWidth={18} strokeLinecap="round" />
+        <line x1={340} y1={390} x2={390} y2={464} stroke={ink} strokeWidth={18} strokeLinecap="round" />
+
+        {/* Twin Bells */}
+        <g transform="rotate(-30 160 140)">
+          <path d="M110,140 C110,90 210,90 210,140 Z" fill={ink} opacity={0.9} />
+          <line x1={160} y1={90} x2={160} y2={74} stroke={ink} strokeWidth={10} strokeLinecap="round" />
+        </g>
+        <g transform="rotate(30 360 140)">
+          <path d="M310,140 C310,90 410,90 410,140 Z" fill={ink} opacity={0.9} />
+          <line x1={360} y1={90} x2={360} y2={74} stroke={ink} strokeWidth={10} strokeLinecap="round" />
+        </g>
+
+        {/* Vibrating Clapper Hammer */}
+        <g transform={`rotate(${ring} 260 140)`}>
+          <line x1={260} y1={140} x2={260} y2={90} stroke={ink} strokeWidth={12} strokeLinecap="round" />
+          <circle cx={260} cy={82} r={16} fill={accent} />
+        </g>
+
+        {/* Top Handle Loop */}
+        <path d="M210,150 C210,96 310,96 310,150" fill="none" stroke={ink} strokeWidth={12} strokeLinecap="round" />
+
+        {/* Main Clock Body */}
+        <circle cx={260} cy={290} r={154} fill="#FFFFFF" stroke={ink} strokeWidth={16} />
+        <circle cx={260} cy={290} r={136} fill="none" stroke={accent} strokeWidth={6} opacity={0.35} />
+
+        {/* Dial Ticks */}
+        {Array.from({ length: 12 }).map((_, i) => {
+          const a = (i / 12) * Math.PI * 2;
+          return (
+            <line
+              key={i}
+              x1={260 + Math.cos(a) * 110}
+              y1={290 + Math.sin(a) * 110}
+              x2={260 + Math.cos(a) * 128}
+              y2={290 + Math.sin(a) * 128}
+              stroke={ink}
+              strokeWidth={i % 3 === 0 ? 8 : 4}
+              strokeLinecap="round"
+              opacity={0.7}
+            />
+          );
+        })}
+
+        {/* Clock Hands Set to 07:00 (Morning Wake-up) */}
+        <line
+          x1={260}
+          y1={290}
+          x2={260 + Math.cos(((120) * Math.PI) / 180) * 65}
+          y2={290 + Math.sin(((120) * Math.PI) / 180) * 65}
+          stroke={ink}
+          strokeWidth={14}
+          strokeLinecap="round"
+        />
+        <line
+          x1={260}
+          y1={290}
+          x2={260}
+          y2={190}
+          stroke={accent}
+          strokeWidth={10}
+          strokeLinecap="round"
+        />
+        {/* Center Cap */}
+        <circle cx={260} cy={290} r={14} fill={accent} stroke={ink} strokeWidth={4} />
+
+        {/* "SNOOZE" button on top */}
+        <rect x={220} y={124} width={80} height={18} rx={6} fill={accent} stroke={ink} strokeWidth={4} />
+      </g>
+    </Frame>
+  );
+};
+
+const Hourglass: React.FC<MotifProps> = ({ spec, accent, ink }) => {
+  const frame = useCurrentFrame();
+  const sandProgress = (frame * 0.008) % 1;
+
+  return (
+    <Frame spec={spec}>
+      {/* Top & Bottom Wooden Plinths */}
+      <rect x={120} y={54} width={280} height={28} rx={10} fill={ink} />
+      <rect x={140} y={44} width={240} height={14} rx={6} fill={accent} />
+      <rect x={120} y={438} width={280} height={28} rx={10} fill={ink} />
+      <rect x={140} y={462} width={240} height={14} rx={6} fill={accent} />
+
+      {/* Side Support Pillars */}
+      <line x1={148} y1={82} x2={148} y2={438} stroke={ink} strokeWidth={16} strokeLinecap="round" />
+      <line x1={372} y1={82} x2={372} y2={438} stroke={ink} strokeWidth={16} strokeLinecap="round" />
+
+      {/* Glass Contour (Curved Double Bulbs) */}
+      <path
+        d="M170,82 C170,180 238,240 254,260 C238,280 170,340 170,438 L350,438 C350,340 282,280 266,260 C282,240 350,180 350,82 Z"
+        fill="rgba(255, 255, 255, 0.15)"
+        stroke={ink}
+        strokeWidth={10}
+        strokeLinejoin="round"
+      />
+
+      {/* Upper Sand Draining */}
+      <path
+        d={`M${190 + sandProgress * 40},${130 + sandProgress * 110} C${220},${220} ${250},${255} 255,258 C260,258 ${290},${220} ${330 - sandProgress * 40},${130 + sandProgress * 110} Z`}
+        fill={accent}
+        opacity={0.9}
+      />
+
+      {/* Center Falling Sand Stream */}
+      <line
+        x1={260}
+        y1={258}
+        x2={260}
+        y2={410}
+        stroke={accent}
+        strokeWidth={6}
+        strokeDasharray="8 8"
+        strokeDashoffset={-frame * 14}
+        strokeLinecap="round"
+      />
+
+      {/* Lower Accumulating Sand Mound */}
+      <path
+        d={`M${180},434 Q260,${370 - sandProgress * 40} 340,434 Z`}
+        fill={accent}
+      />
+
+      {/* Glass Highlight Sheen */}
+      <path
+        d="M188,100 C188,160 216,210 230,230"
+        fill="none"
+        stroke="#FFFFFF"
+        strokeWidth={8}
+        strokeLinecap="round"
+        opacity={0.65}
+      />
+    </Frame>
+  );
+};
+
+const Zap: React.FC<MotifProps> = ({ spec, accent, ink }) => {
+  const frame = useCurrentFrame();
+  const pulse = Math.sin(frame * 0.4) * 0.15 + 1;
+
+  return (
+    <Frame spec={spec}>
+      <g transform={`scale(${pulse}) translate(${260 * (1 - pulse)}, ${260 * (1 - pulse)})`}>
+        {/* Outer Electric Aura / Glow */}
+        <polygon
+          points="290,40 120,270 240,270 170,480 390,210 270,210"
+          fill={accent}
+          opacity={0.3}
+          stroke={accent}
+          strokeWidth={32}
+          strokeLinejoin="round"
+        />
+
+        {/* Main Sharp Bolt */}
+        <polygon
+          points="290,40 120,270 240,270 170,480 390,210 270,210"
+          fill={accent}
+          stroke={ink}
+          strokeWidth={14}
+          strokeLinejoin="round"
+        />
+
+        {/* Inner Bright Core */}
+        <polygon
+          points="286,60 146,260 250,260 190,440 366,220 276,220"
+          fill="#FFFFFF"
+          opacity={0.6}
+        />
+
+        {/* Sparks branching off */}
+        {[-1, 1].map((side, i) => (
+          <path
+            key={i}
+            d={`M${260 + side * 90},${220 + i * 80} L${260 + side * 140},${200 + i * 80} L${260 + side * 170},${230 + i * 80}`}
+            fill="none"
+            stroke={accent}
+            strokeWidth={7}
+            strokeLinecap="round"
+            opacity={0.75}
+          />
+        ))}
+      </g>
+    </Frame>
+  );
+};
+
+const Shield: React.FC<MotifProps> = ({ spec, accent, ink }) => {
+  const frame = useCurrentFrame();
+  const sheen = (frame * 6) % 600 - 100;
+
+  return (
+    <Frame spec={spec}>
+      <defs>
+        <clipPath id="shieldClip">
+          <path d="M120,90 L400,90 Q400,320 260,450 Q120,320 120,90 Z" />
+        </clipPath>
+      </defs>
+
+      {/* Main Outer Shield */}
+      <path
+        d="M120,90 L400,90 Q400,320 260,450 Q120,320 120,90 Z"
+        fill={accent}
+        stroke={ink}
+        strokeWidth={16}
+        strokeLinejoin="round"
+      />
+
+      {/* Inner Trim */}
+      <path
+        d="M144,114 L376,114 Q376,306 260,420 Q144,306 144,114 Z"
+        fill="none"
+        stroke="#FFFFFF"
+        strokeWidth={8}
+        opacity={0.4}
+      />
+
+      {/* Center Heraldic Emblem / Star */}
+      <polygon
+        points={spikes(260, 240, 68, 30, 4)}
+        fill="#FFFFFF"
+        stroke={ink}
+        strokeWidth={8}
+      />
+
+      {/* Moving Sheen Stripe */}
+      <g clipPath="url(#shieldClip)">
+        <rect
+          x={sheen}
+          y={40}
+          width={60}
+          height={440}
+          fill="#FFFFFF"
+          opacity={0.28}
+          transform={`rotate(25 ${sheen + 30} 260)`}
+        />
+      </g>
+    </Frame>
+  );
+};
+
+const Target: React.FC<MotifProps> = ({ spec, accent, ink }) => {
+  const frame = useCurrentFrame();
+  const hitWiggle = Math.sin(frame * 1.5) * Math.max(0, 1 - frame * 0.05) * 8;
+
+  return (
+    <Frame spec={spec}>
+      {/* Concentric Bullseye Rings */}
+      <circle cx={260} cy={260} r={210} fill="#FFFFFF" stroke={ink} strokeWidth={16} />
+      <circle cx={260} cy={260} r={165} fill={ink} opacity={0.12} stroke={ink} strokeWidth={10} />
+      <circle cx={260} cy={260} r={120} fill={accent} stroke={ink} strokeWidth={12} />
+      <circle cx={260} cy={260} r={75} fill="#FFFFFF" stroke={ink} strokeWidth={10} />
+      <circle cx={260} cy={260} r={35} fill={accent} stroke={ink} strokeWidth={8} />
+
+      {/* Arrow Struck at the Center */}
+      <g transform={`rotate(${hitWiggle} 260 260)`}>
+        <line x1={120} y1={120} x2={260} y2={260} stroke={ink} strokeWidth={14} strokeLinecap="round" />
+        <polygon points="260,260 240,240 250,225" fill={ink} />
+        <polygon points="120,120 144,112 136,136" fill={accent} />
+        <polygon points="104,104 128,96 120,120" fill={accent} />
+      </g>
+    </Frame>
+  );
+};
+
+const Trophy: React.FC<MotifProps> = ({ spec, accent, ink }) => {
+  return (
+    <Frame spec={spec}>
+      {/* Marble Pedestal */}
+      <rect x={140} y={420} width={240} height={42} rx={8} fill={ink} />
+      <rect x={170} y={370} width={180} height={50} rx={6} fill={ink} opacity={0.8} />
+
+      {/* Pedestal Stem */}
+      <path d="M220,370 L240,300 L280,300 L300,370 Z" fill={accent} stroke={ink} strokeWidth={10} />
+
+      {/* Chalice Cup */}
+      <path
+        d="M170,120 L350,120 L330,270 Q320,310 260,310 Q200,310 190,270 Z"
+        fill={accent}
+        stroke={ink}
+        strokeWidth={14}
+      />
+
+      {/* Twin Sweeping Handles */}
+      <path
+        d="M170,140 C100,150 100,240 190,250"
+        fill="none"
+        stroke={ink}
+        strokeWidth={16}
+        strokeLinecap="round"
+      />
+      <path
+        d="M350,140 C420,150 420,240 330,250"
+        fill="none"
+        stroke={ink}
+        strokeWidth={16}
+        strokeLinecap="round"
+      />
+
+      {/* Embossed Champion Star */}
+      <polygon
+        points={spikes(260, 200, 44, 18, 5)}
+        fill="#FFFFFF"
+        stroke={ink}
+        strokeWidth={6}
+      />
+
+      {/* Rim Highlight */}
+      <ellipse cx={260} cy={120} rx={90} ry={16} fill="none" stroke="#FFFFFF" strokeWidth={8} opacity={0.6} />
+    </Frame>
+  );
+};
+
+const Subway: React.FC<MotifProps> = ({ spec, accent, ink }) => {
+  return (
+    <Frame spec={spec}>
+      {/* Converging Railway Tracks */}
+      <line x1={60} y1={490} x2={220} y2={390} stroke={ink} strokeWidth={10} opacity={0.4} />
+      <line x1={460} y1={490} x2={300} y2={390} stroke={ink} strokeWidth={10} opacity={0.4} />
+      {[460, 430, 405].map((y, i) => (
+        <line
+          key={i}
+          x1={140 + i * 35}
+          y1={y}
+          x2={380 - i * 35}
+          y2={y}
+          stroke={ink}
+          strokeWidth={8}
+          opacity={0.35}
+        />
+      ))}
+
+      {/* Train Body Chassis */}
+      <rect x={130} y={110} width={260} height={300} rx={36} fill={ink} />
+      <rect x={144} y={124} width={232} height={272} rx={28} fill="#FFFFFF" />
+
+      {/* Front Windshield Glass */}
+      <rect x={160} y={150} width={200} height={110} rx={16} fill={ink} opacity={0.85} />
+      <path d="M174,164 L230,164 L200,246 L174,246 Z" fill="#FFFFFF" opacity={0.25} />
+
+      {/* Destination Board ("EXPRESS") */}
+      <rect x={190} y={124} width={140} height={20} rx={4} fill={accent} />
+
+      {/* Bold Accent Stripe */}
+      <rect x={144} y={280} width={232} height={32} fill={accent} />
+
+      {/* Dual Glowing Headlights */}
+      <circle cx={180} cy={345} r={24} fill="#FEF08A" stroke={ink} strokeWidth={8} />
+      <circle cx={340} cy={345} r={24} fill="#FEF08A" stroke={ink} strokeWidth={8} />
+
+      {/* Beaming Light Cones on Tracks */}
+      <polygon points="180,360 80,480 230,480" fill="#FEF08A" opacity={0.2} />
+      <polygon points="340,360 290,480 440,480" fill="#FEF08A" opacity={0.2} />
+
+      {/* Coupler */}
+      <rect x={235} y={400} width={50} height={24} rx={6} fill={ink} />
+    </Frame>
+  );
+};
+
+const Butterfly: React.FC<MotifProps> = ({ spec, accent, ink }) => {
+  const frame = useCurrentFrame();
+  const flap = Math.abs(Math.cos(frame * 0.35));
+  const scaleX = 0.45 + flap * 0.55;
+
+  return (
+    <Frame spec={spec}>
+      {/* Chaotic Ripple Trail (Fluke / Butterfly Effect) */}
+      {[0, 1, 2].map((i) => {
+        const ringScale = ((frame * 0.03 + i * 0.33) % 1);
+        return (
+          <ellipse
+            key={i}
+            cx={260}
+            cy={260}
+            rx={200 * ringScale}
+            ry={140 * ringScale}
+            fill="none"
+            stroke={accent}
+            strokeWidth={4}
+            strokeDasharray="6 8"
+            opacity={(1 - ringScale) * 0.45}
+          />
+        );
+      })}
+
+      <g transform={`translate(${260 * (1 - scaleX)}, 0) scale(${scaleX}, 1)`}>
+        {/* Upper Left Wing */}
+        <path
+          d="M256,230 C220,110 110,90 90,170 C70,240 180,280 256,260 Z"
+          fill={accent}
+          stroke={ink}
+          strokeWidth={10}
+        />
+        {/* Upper Right Wing */}
+        <path
+          d="M264,230 C300,110 410,90 430,170 C450,240 340,280 264,260 Z"
+          fill={accent}
+          stroke={ink}
+          strokeWidth={10}
+        />
+
+        {/* Lower Left Wing */}
+        <path
+          d="M256,260 C200,280 120,330 140,400 C160,450 230,410 256,310 Z"
+          fill={accent}
+          opacity={0.88}
+          stroke={ink}
+          strokeWidth={10}
+        />
+        {/* Lower Right Wing */}
+        <path
+          d="M264,260 C320,280 400,330 380,400 C360,450 290,410 264,310 Z"
+          fill={accent}
+          opacity={0.88}
+          stroke={ink}
+          strokeWidth={10}
+        />
+
+        {/* Wing Pattern Details */}
+        <circle cx={160} cy={180} r={18} fill="#FFFFFF" opacity={0.6} />
+        <circle cx={360} cy={180} r={18} fill="#FFFFFF" opacity={0.6} />
+        <circle cx={190} cy={360} r={14} fill="#FFFFFF" opacity={0.6} />
+        <circle cx={330} cy={360} r={14} fill="#FFFFFF" opacity={0.6} />
+
+        {/* Body */}
+        <ellipse cx={260} cy={270} rx={14} ry={60} fill={ink} />
+        <circle cx={260} cy={195} r={16} fill={ink} />
+
+        {/* Antennæ */}
+        <path d="M256,185 Q220,130 190,140" fill="none" stroke={ink} strokeWidth={6} strokeLinecap="round" />
+        <path d="M264,185 Q300,130 330,140" fill="none" stroke={ink} strokeWidth={6} strokeLinecap="round" />
+        <circle cx={190} cy={140} r={6} fill={accent} />
+        <circle cx={330} cy={140} r={6} fill={accent} />
+      </g>
+    </Frame>
+  );
+};
+
+const Car: React.FC<MotifProps> = ({ spec, accent, ink }) => {
+  const frame = useCurrentFrame();
+  const wheelRot = (frame * 12) % 360;
+
+  return (
+    <Frame spec={spec}>
+      {/* Ground Line */}
+      <line x1={40} y1={410} x2={480} y2={410} stroke={ink} strokeWidth={8} opacity={0.3} />
+
+      {/* Car Body (Vintage 1914 Touring Sedan) */}
+      <path
+        d="M60,340 L160,340 L180,240 L340,240 L390,300 L450,320 L450,370 L60,370 Z"
+        fill={accent}
+        stroke={ink}
+        strokeWidth={12}
+        strokeLinejoin="round"
+      />
+
+      {/* Cabin Windows */}
+      <path
+        d="M196,254 L326,254 L366,306 L196,306 Z"
+        fill="#FFFFFF"
+        stroke={ink}
+        strokeWidth={8}
+        opacity={0.8}
+      />
+      <line x1={260} y1={254} x2={260} y2={306} stroke={ink} strokeWidth={8} />
+
+      {/* Radiator & Lantern Headlight */}
+      <rect x={440} y={320} width={20} height={44} rx={6} fill={ink} />
+      <circle cx={456} cy={308} r={16} fill="#FEF08A" stroke={ink} strokeWidth={6} />
+      <polygon points="466,308 510,290 510,340" fill="#FEF08A" opacity={0.3} />
+
+      {/* Running Board */}
+      <rect x={180} y={376} width={160} height={12} rx={4} fill={ink} />
+
+      {/* Wheels */}
+      <g transform={`translate(140, 390) rotate(${wheelRot})`}>
+        <circle cx={0} cy={0} r={46} fill={ink} />
+        <circle cx={0} cy={0} r={28} fill="#FFFFFF" />
+        <circle cx={0} cy={0} r={10} fill={accent} />
+        <line x1={-28} y1={0} x2={28} y2={0} stroke={ink} strokeWidth={4} />
+        <line x1={0} y1={-28} x2={0} y2={28} stroke={ink} strokeWidth={4} />
+      </g>
+      <g transform={`translate(380, 390) rotate(${wheelRot})`}>
+        <circle cx={0} cy={0} r={46} fill={ink} />
+        <circle cx={0} cy={0} r={28} fill="#FFFFFF" />
+        <circle cx={0} cy={0} r={10} fill={accent} />
+        <line x1={-28} y1={0} x2={28} y2={0} stroke={ink} strokeWidth={4} />
+        <line x1={0} y1={-28} x2={0} y2={28} stroke={ink} strokeWidth={4} />
+      </g>
+    </Frame>
+  );
+};
+
+const Coffee: React.FC<MotifProps> = ({ spec, accent, ink }) => {
+  const frame = useCurrentFrame();
+
+  return (
+    <Frame spec={spec}>
+      {/* Animated Rising Steam Tendrils */}
+      {[0, 1, 2].map((i) => {
+        const offset = i * 40;
+        const wave = Math.sin(frame * 0.15 + i * 2) * 14;
+        return (
+          <path
+            key={i}
+            d={`M${220 + offset},180 Q${240 + offset + wave},130 ${220 + offset},80 T${240 + offset - wave},30`}
+            fill="none"
+            stroke={accent}
+            strokeWidth={8}
+            strokeLinecap="round"
+            opacity={0.55}
+          />
+        );
+      })}
+
+      {/* Saucer */}
+      <ellipse cx={260} cy={430} rx={180} ry={24} fill={ink} opacity={0.18} />
+      <ellipse cx={260} cy={422} rx={160} ry={18} fill="#FFFFFF" stroke={ink} strokeWidth={12} />
+
+      {/* Handle */}
+      <path
+        d="M340,240 C430,240 430,360 340,360"
+        fill="none"
+        stroke={ink}
+        strokeWidth={22}
+        strokeLinecap="round"
+      />
+      <path
+        d="M340,250 C410,250 410,350 340,350"
+        fill="none"
+        stroke={accent}
+        strokeWidth={10}
+        strokeLinecap="round"
+      />
+
+      {/* Cup Body */}
+      <rect x={160} y={200} width={180} height={200} rx={28} fill={accent} stroke={ink} strokeWidth={14} />
+
+      {/* Liquid */}
+      <ellipse cx={250} cy={204} rx={90} ry={22} fill={ink} stroke={ink} strokeWidth={6} />
+      <ellipse cx={250} cy={206} rx={76} ry={16} fill="#451A03" />
+
+      {/* Highlight Streak */}
+      <line x1={186} y1={230} x2={186} y2={370} stroke="#FFFFFF" strokeWidth={12} strokeLinecap="round" opacity={0.5} />
+    </Frame>
+  );
+};
+
+const Wallet: React.FC<MotifProps> = ({ spec, accent, ink }) => {
+  return (
+    <Frame spec={spec}>
+      {/* Green Cash Banknotes */}
+      <g transform="rotate(-15 260 220)">
+        <rect x={180} y={120} width={180} height={90} rx={8} fill="#10B981" stroke={ink} strokeWidth={10} />
+        <circle cx={270} cy={165} r={22} fill="none" stroke="#FFFFFF" strokeWidth={6} />
+      </g>
+      <g transform="rotate(8 260 220)">
+        <rect x={190} y={140} width={180} height={90} rx={8} fill="#34D399" stroke={ink} strokeWidth={10} />
+        <circle cx={280} cy={185} r={22} fill="none" stroke="#FFFFFF" strokeWidth={6} />
+      </g>
+
+      {/* Wallet Body */}
+      <rect x={120} y={210} width={280} height={200} rx={24} fill={accent} stroke={ink} strokeWidth={16} />
+      <path d="M120,280 L400,280" stroke={ink} strokeWidth={10} strokeDasharray="12 12" />
+
+      {/* Clasp */}
+      <path d="M360,280 L420,280 Q436,280 436,310 Q436,340 420,340 L360,340 Z" fill={ink} />
+      <circle cx={414} cy={310} r={10} fill="#F59E0B" />
+    </Frame>
+  );
+};
+
+const Gift: React.FC<MotifProps> = ({ spec, accent, ink }) => {
+  return (
+    <Frame spec={spec}>
+      {/* Box */}
+      <rect x={130} y={210} width={260} height={230} rx={16} fill={accent} stroke={ink} strokeWidth={16} />
+      <rect x={110} y={170} width={300} height={54} rx={12} fill={accent} stroke={ink} strokeWidth={16} />
+      <rect x={236} y={170} width={48} height={270} fill="#FFFFFF" stroke={ink} strokeWidth={10} />
+      <rect x={110} y={186} width={300} height={22} fill="#FFFFFF" opacity={0.6} />
+
+      {/* Bow */}
+      <path d="M260,170 C220,90 150,110 180,160 C200,180 240,170 260,170 Z" fill="#FFFFFF" stroke={ink} strokeWidth={10} />
+      <path d="M260,170 C300,90 370,110 340,160 C320,180 280,170 260,170 Z" fill="#FFFFFF" stroke={ink} strokeWidth={10} />
+      <circle cx={260} cy={170} r={18} fill={ink} />
+    </Frame>
+  );
+};
+
+const Magnifier: React.FC<MotifProps> = ({ spec, accent, ink }) => {
+  return (
+    <Frame spec={spec}>
+      <g transform="rotate(-25 260 260)">
+        <rect x={242} y={350} width={36} height={140} rx={16} fill={ink} stroke={ink} strokeWidth={6} />
+        <rect x={248} y={330} width={24} height={24} fill={accent} />
+        <circle cx={260} cy={210} r={130} fill="rgba(255, 255, 255, 0.4)" stroke={accent} strokeWidth={24} />
+        <circle cx={260} cy={210} r={130} fill="none" stroke={ink} strokeWidth={10} />
+        <path d="M180,140 A100,100 0 0,1 330,140" fill="none" stroke="#FFFFFF" strokeWidth={14} strokeLinecap="round" opacity={0.7} />
+        <circle cx={260} cy={210} r={32} fill={accent} opacity={0.8} />
+        <text x={260} y={222} textAnchor="middle" fontSize={42} fontWeight={800} fill="#FFFFFF">?</text>
+      </g>
+    </Frame>
+  );
+};
+
+const Sword: React.FC<MotifProps> = ({ spec, accent, ink }) => {
+  return (
+    <Frame spec={spec}>
+      <g transform="rotate(35 260 260)">
+        <path d="M246,360 L248,80 L260,30 L272,80 L274,360 Z" fill="#E2E8F0" stroke={ink} strokeWidth={12} strokeLinejoin="round" />
+        <line x1={260} y1={60} x2={260} y2={340} stroke={ink} strokeWidth={6} opacity={0.4} />
+        <rect x={170} y={360} width={180} height={26} rx={8} fill={accent} stroke={ink} strokeWidth={10} />
+        <rect x={248} y={386} width={24} height={68} rx={6} fill={ink} />
+        <circle cx={260} cy={470} r={22} fill={accent} stroke={ink} strokeWidth={10} />
+      </g>
+    </Frame>
+  );
+};
+
 const REGISTRY: Record<PropSpec["type"], React.FC<MotifProps>> = {
   moneyRain: MoneyRain, coin: Coin, book: Book, arrow: Arrow, shape: Shape,
   barChart: BarChart, lineGrowth: LineGrowth, balance: Balance, ladder: Ladder,
@@ -1177,6 +2566,33 @@ const REGISTRY: Record<PropSpec["type"], React.FC<MotifProps>> = {
   // Archetypal / Philosophical Metaphors
   lightbulb: Lightbulb, shadowSelf: ShadowSelf, puppeteer: Puppeteer,
   iceberg: Iceberg, chains: Chains, compass: Compass,
+  // Hypnotic Vector Metaphors
+  dominoCascade: DominoCascade,
+  icebergDepth: IcebergDepth,
+  funnelTrap: FunnelTrap,
+  // Tech & Silicon Valley Business Motifs
+  codeWindow: CodeWindow,
+  laptopMockup: LaptopMockup,
+  funnelMetrics: FunnelMetrics,
+  rocketLaunch: RocketLaunch,
+  dollarExchange: DollarExchange,
+  // High-Retention Narrative & Metaphor Motifs (Antidote 5.1)
+  alarmClock: AlarmClock,
+  hourglass: Hourglass,
+  zap: Zap,
+  shield: Shield,
+  target: Target,
+  trophy: Trophy,
+  sword: Sword,
+  magnifier: Magnifier,
+  wallet: Wallet,
+  gift: Gift,
+  subway: Subway,
+  butterfly: Butterfly,
+  coffee: Coffee,
+  car: Car,
+  // Dynamic Extensible SVG Motifs (AI Art Director)
+  customSvg: CustomSvgMotif,
 };
 
 /** The concrete narrative icons — the vocabulary the `illustration` shot draws from. */
@@ -1185,12 +2601,19 @@ export const SCENE_ICONS: PropSpec["type"][] = [
   "ledge", "medical", "grave", "notes", "water", "fire", "crash", "tree",
   "work", "game", "war", "food", "city", "photo", "law", "mask", "key", "mirror",
   "lightbulb", "shadowSelf", "puppeteer", "iceberg", "chains", "compass",
+  "dominoCascade", "icebergDepth", "funnelTrap",
+  "codeWindow", "laptopMockup", "funnelMetrics", "rocketLaunch", "dollarExchange",
+  "alarmClock", "hourglass", "zap", "shield", "target", "trophy", "sword",
+  "magnifier", "wallet", "gift", "subway", "butterfly", "coffee", "car",
+  "customSvg",
 ];
 
 /** Motifs that read as the sole subject of an `insert` shot. */
 export const INSERT_MOTIFS: PropSpec["type"][] = [
   "barChart", "lineGrowth", "balance", "clock", "maze", "counter",
   "orbit", "stack", "crack", "ripple", "summit", "ladder", "door", "spotlight",
+  "alarmClock", "hourglass", "zap", "shield", "target", "trophy", "sword",
+  "magnifier", "wallet", "gift", "subway", "butterfly", "coffee", "car",
   ...SCENE_ICONS,
 ];
 

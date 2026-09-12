@@ -12,7 +12,7 @@ import { DEFAULT_TRANSITION, DEFAULT_VARIANT } from "../schema";
 import { enter, pose, ambient, arcOf, parallax } from "../movements";
 import { interpolate } from "remotion";
 import { camera } from "../movements";
-import type { SceneSpec, CharacterSpec, ShotName, VariantSpec, CastBible, BodyPlan, HandProp } from "../schema";
+import type { SceneSpec, CharacterSpec, ShotName, VariantSpec, CastBible, BodyPlan, HandProp, CharEmotion } from "../schema";
 
 /**
  * Scene — one beat of the film.
@@ -38,14 +38,15 @@ const mute = (hex: string, amt = 0.55) => {
 const Rig: React.FC<{
   variant: VariantSpec; poseValue: ReturnType<typeof pose>; silhouette?: boolean;
   body?: BodyPlan; holds?: HandProp; accent?: string;
-}> = ({ variant, poseValue, silhouette, body, holds, accent }) => {
-  if (!silhouette) return <Everyman variant={variant} pose={poseValue} body={body} holds={holds} accent={accent} />;
+  emotion?: CharEmotion; emotionAt?: number;
+}> = ({ variant, poseValue, silhouette, body, holds, accent, emotion, emotionAt }) => {
+  if (!silhouette) return <Everyman variant={variant} pose={poseValue} body={body} holds={holds} accent={accent} emotion={emotion} emotionAt={emotionAt} />;
   // Flat dark cut-out: the overShoulder foreground and the silhouette shot.
   // Fully opaque on purpose — any transparency lets the backdrop bleed through
   // the shoulder and turns the rig's overlapping parts into visible seams.
   return (
     <div style={{ filter: "brightness(0)" }}>
-      <Everyman variant={variant} pose={poseValue} body={body} holds={holds} accent={accent} />
+      <Everyman variant={variant} pose={poseValue} body={body} holds={holds} accent={accent} emotion={emotion} emotionAt={emotionAt} />
     </div>
   );
 };
@@ -74,13 +75,28 @@ const CharacterLayer: React.FC<{
   const body = resolveBody(shot, spec);
   const e = enter(spec.enter, frame, fps);
   let p = pose(spec.action, frame + (spec.poseAt ?? 0), fps);
-  // LOOK-AT (4.0): turn gaze + head toward the resolved target. The whole rig is
+  // LOOK-AT (4.0 + 4.1): turn gaze (2D) + head toward the resolved target. The whole rig is
   // drawn then flipped by the wrapper's scaleX, so a screen-space direction must
   // be negated back into rig space when the figure is flipped.
   if (lookAtPoint) {
-    const screenG = Math.max(-1, Math.min(1, (lookAtPoint.x - st.x) / 520));
-    const g = st.flip ? -screenG : screenG;
-    p = { ...p, gazeX: g, headX: (p.headX ?? 0) + g * 9, headYaw: 1 - Math.abs(g) * 0.1 };
+    const eyeY = st.y - 120 * st.scale;
+    const screenGx = Math.max(-1, Math.min(1, (lookAtPoint.x - st.x) / 520));
+    const screenGy = Math.max(-1, Math.min(1, (lookAtPoint.y - eyeY) / 420));
+    const gx = st.flip ? -screenGx : screenGx;
+    const gy = screenGy;
+
+    // Living micro-saccade: eyes never stay 100% frozen on a static coordinate
+    const saccadeX = Math.sin(frame * 0.14) * 0.035;
+    const saccadeY = Math.cos(frame * 0.18) * 0.025;
+
+    p = {
+      ...p,
+      gazeX: Math.max(-1, Math.min(1, gx + saccadeX)),
+      gazeY: Math.max(-1, Math.min(1, gy + saccadeY)),
+      headX: (p.headX ?? 0) + gx * 10,
+      headY: (p.headY ?? 0) + gy * 6,
+      headYaw: 1 - Math.abs(gx) * 0.12,
+    };
   }
   const scale = st.scale * e.scale;
   // TRAVEL — the figure actually crosses the set over the beat. Without it a
@@ -89,6 +105,9 @@ const CharacterLayer: React.FC<{
   const travel = spec.travel
     ? interpolate(frame, [0, Math.max(1, durationFrames)], spec.travel, { extrapolateLeft: "clamp", extrapolateRight: "clamp" })
     : 0;
+  const isNervous = spec.emotion === "sweat";
+  const jitterX = isNervous && frame >= (spec.emotionAt ?? 8) ? Math.sin(frame * 1.6) * 1.5 : 0;
+
   return (
     <div
       style={{
@@ -97,11 +116,20 @@ const CharacterLayer: React.FC<{
         top: st.y,
         opacity: e.opacity,
         filter: "drop-shadow(0 16px 28px rgba(0,0,0,0.14))",
-        transform: `translate(-50%, -50%) translate(${e.tx + travel}px, ${e.ty}px) scale(${scale}) scaleX(${st.flip ? -1 : 1})`,
+        transform: `translate(-50%, -50%) translate(${e.tx + travel + jitterX}px, ${e.ty}px) scale(${scale}) scaleX(${st.flip ? -1 : 1})`,
         transformOrigin: "center",
       }}
     >
-      <Rig variant={variant} poseValue={p} silhouette={st.silhouette} body={body} holds={spec.holds} accent={accent} />
+      <Rig
+        variant={variant}
+        poseValue={p}
+        silhouette={st.silhouette}
+        body={body}
+        holds={spec.holds}
+        accent={accent}
+        emotion={spec.emotion}
+        emotionAt={spec.emotionAt}
+      />
     </div>
   );
 };
@@ -162,7 +190,16 @@ const CrowdLayer: React.FC<{ spec: CharacterSpec; shot: ShotName; cast?: CastBib
                 zIndex: ri,
               }}
             >
-              <Rig variant={variant} poseValue={p} silhouette={st.silhouette} body={body} holds={isHero ? spec.holds : undefined} accent={accent} />
+              <Rig
+                variant={variant}
+                poseValue={p}
+                silhouette={st.silhouette}
+                body={body}
+                holds={isHero ? spec.holds : undefined}
+                accent={accent}
+                emotion={isHero ? spec.emotion : undefined}
+                emotionAt={spec.emotionAt}
+              />
             </div>
           );
         }),
@@ -228,18 +265,34 @@ export const Scene: React.FC<{ scene: SceneSpec; transIn?: number; cast?: CastBi
         if (bi < 0) return null;
         return stageChar(scene.shot, bodies[bi], bi);
       }
+      case "prop":
       case "motif": {
         const p = props[0];
         return p ? { x: p.x ?? preset.motif.x, y: p.y ?? preset.motif.y } : null;
       }
+      case "text":
       case "callout": {
         const tx = texts[0];
         return tx ? stageText(scene.shot, tx, 0) : null;
       }
+      case "heldProp":
+      case "hand": {
+        return {
+          x: self.x + (self.flip ? -40 : 40) * self.scale,
+          y: self.y + 65 * self.scale,
+        };
+      }
+      case "wander": {
+        // Natural lifelike wandering gaze across the stage
+        const wx = self.x + Math.sin(frame * 0.025) * 320 + Math.sin(frame * 0.06) * 120;
+        const wy = self.y - 120 + Math.cos(frame * 0.03) * 110;
+        return { x: wx, y: wy };
+      }
+      case "viewer":
       case "camera":
       case "ahead":
       default:
-        return { x: self.x, y: self.y }; // dx 0 → front
+        return { x: self.x, y: self.y - 120 * self.scale }; // eye level front
     }
   };
 

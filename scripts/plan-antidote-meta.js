@@ -145,7 +145,8 @@ function fallbackMeta() {
       `${genre} books`, `best ${genre} books`, "book club", title,
     ].filter(Boolean),
     thumbnailHook: hook,
-    thumbnailSubject: `flat-vector ${genre} scene`,
+    thumbnailSubject: `dramatic cinematic scene representing "${shortTitle}", intense emotional character framed on right side with dark atmospheric lighting`,
+    thumbnailLayout: "cinematic-bleed",
   };
 }
 
@@ -171,7 +172,12 @@ function fallbackMeta() {
     tags: m.tags,
     hashtags: m.hashtags,
     chapters,
-    thumbnail: { hook: m.thumbnailHook, subject: m.thumbnailSubject, layout: m.thumbnailLayout || undefined, image: `out/thumbnail-${SLUG}.png` },
+    thumbnail: {
+      hook: m.thumbnailHook,
+      subject: m.thumbnailSubject,
+      layout: m.thumbnailLayout || "cinematic-bleed",
+      image: `scenes/${SLUG}/thumbnail-hero.png`,
+    },
     metaSource: "fallback",
     needsClaudeRefine,
     generatedAt: null,

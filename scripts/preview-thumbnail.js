@@ -31,6 +31,7 @@ const OUT = path.join(ROOT, "out");
 fs.mkdirSync(OUT, { recursive: true });
 
 const LAYOUTS = [
+  "cinematic-bleed",
   "portrait-right",
   "split-face",
   "full-bleed",

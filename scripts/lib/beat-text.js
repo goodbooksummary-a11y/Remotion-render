@@ -43,15 +43,28 @@ const EMPH_META = new Set((
 const _emClean = (w) => w.toLowerCase().replace(/[^a-z0-9$%-]/g, "");
 const _emIsContent = (c) =>
   !!c && (/\d/.test(c) || (c.length >= 3 && !EMPH_STOP.has(c) && !EMPH_FILLER.has(c)));
-// tok = {clean, cap} ; first = is this the segment-initial token (ASR capitalises
-// sentence starts unreliably, so a cap bonus only counts mid-segment = a name).
+// tok = {clean, cap, raw} ; first = is this the segment-initial token (ASR
+// capitalises sentence starts unreliably, so a cap bonus only counts
+// mid-segment = a name).
 const _emScore = (tok, first) => {
-  let sc = Math.min(tok.clean.length, 10);                 // cap: mangled ASR mega-tokens shouldn't dominate
-  if (/\d/.test(tok.clean)) sc += 8;
-  if (/^[a-z]{6,}$/.test(tok.clean)) sc += 2;             // meaty lowercase content word
-  if (tok.cap && !first) sc += 5;                          // proper noun (Vincennes, Ashura, Roya)
-  if (EMPH_META.has(tok.clean)) sc -= 8;                   // discussion scaffold, not story
-  if (/ly$/.test(tok.clean) && tok.clean.length > 5) sc -= 3; // adverb (incredibly, utterly)
+  let sc = 0;
+  // ── base: prefer medium-length words, diminish very short/long ones ──
+  sc += Math.min(tok.clean.length, 8);                     // cap at 8 so length alone can't dominate
+
+  // ── strong signals: the things a viewer should remember ──
+  if (/\d/.test(tok.clean)) sc += 12;                      // numbers, stats, years, ages
+  if (/^\$/.test(tok.raw || tok.clean)) sc += 6;           // dollar amounts
+  if (tok.cap && !first) sc += 10;                         // proper noun mid-sentence (Vincennes, Ashura, Roya)
+
+  // ── weak positive: substantial content word (but not as good as a name) ──
+  if (/^[a-z]{5,}$/.test(tok.clean) && !EMPH_STOP.has(tok.clean) && !EMPH_FILLER.has(tok.clean)) sc += 1;
+
+  // ── penalties ──
+  if (EMPH_META.has(tok.clean)) sc -= 10;                  // discussion scaffold, not story
+  if (/ly$/.test(tok.clean) && tok.clean.length > 5) sc -= 5; // adverb (incredibly, utterly)
+  // common verbs/adjectives that feel generic on screen
+  if (/^(become|becomes|became|happen|happens|happened|start|starts|started|begin|begins|began|feel|feels|felt|realize|realizes|realized|decide|decides|decided|discover|discovers|discovered|learn|learns|learned|change|changes|changed|important|different|actually|certain|entire|another|something|everything|nothing|everyone|someone|without|because|between|through|before|during|after)$/.test(tok.clean)) sc -= 4;
+
   return sc;
 };
 
@@ -81,7 +94,10 @@ function phraseEmphasis(text, { max = 3, want = 2 } = {}) {
         const stopInside = len - content.length;
         if (stopInside > 1) continue;                    // bridge at most one connector
         let score = win.reduce((s, t, k) => s + (_emIsContent(t.clean) ? _emScore(t, a + k === 0) : -3), 0);
-        score += len === want ? 4 : len === 1 ? -3 : len === 3 ? 1 : 0; // prefer tight phrases
+        // prefer tight phrases, but a single high-value word (proper noun, number) should still win
+        const hasProper = win.some((w, j) => w.cap && (a + j > 0));
+        const hasNumber = win.some((w) => /\d/.test(w.clean));
+        score += len === want ? 4 : len === 1 ? ((hasProper || hasNumber) ? 2 : -3) : len === 3 ? 1 : 0;
         cands.push({ words: win.map((t) => t.raw.toUpperCase()), score });
       }
     }

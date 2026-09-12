@@ -42,6 +42,8 @@ import cfg_slow_productivity from '../books/slow-productivity/config.vox.json';
 import meta_slow_productivity from '../books/slow-productivity/youtube-meta.json';
 import cfg_sway from '../books/sway/config.vox.json';
 import meta_sway from '../books/sway/youtube-meta.json';
+import cfg_the_chosen from '../books/the-chosen/config.vox.json';
+import meta_the_chosen from '../books/the-chosen/youtube-meta.json';
 import cfg_the_color_purple from '../books/the-color-purple/config.vox.json';
 import meta_the_color_purple from '../books/the-color-purple/youtube-meta.json';
 import cfg_the_frozen_river from '../books/the-frozen-river/config.vox.json';
@@ -69,14 +71,35 @@ import meta_unreasonable_hospitality from '../books/unreasonable-hospitality/you
 import cfg_war_of_the_worlds from '../books/war-of-the-worlds/config.vox.json';
 import meta_war_of_the_worlds from '../books/war-of-the-worlds/youtube-meta.json';
 import ant_a_gentleman_in_moscow from '../books/a-gentleman-in-moscow/config.antidote.json';
+import ant_meta_a_gentleman_in_moscow from '../books/a-gentleman-in-moscow/youtube-meta.json';
+import ant_a_good_man_is_hard_to_find from '../books/a-good-man-is-hard-to-find/config.antidote.json';
+import ant_meta_a_good_man_is_hard_to_find from '../books/a-good-man-is-hard-to-find/youtube-meta.json';
 import ant_all_the_bright_places from '../books/all-the-bright-places/config.antidote.json';
+import ant_meta_all_the_bright_places from '../books/all-the-bright-places/youtube-meta.json';
 import ant_all_the_colors_of_the_dark from '../books/all-the-colors-of-the-dark/config.antidote.json';
+import ant_meta_all_the_colors_of_the_dark from '../books/all-the-colors-of-the-dark/youtube-meta.json';
 import ant_clear_thinking from '../books/clear-thinking/config.antidote.json';
+import ant_meta_clear_thinking from '../books/clear-thinking/youtube-meta.json';
+import ant_feel_good_productivity from '../books/feel-good-productivity/config.antidote.json';
+import ant_meta_feel_good_productivity from '../books/feel-good-productivity/youtube-meta.json';
+import ant_fluke from '../books/fluke/config.antidote.json';
+import ant_meta_fluke from '../books/fluke/youtube-meta.json';
 import ant_fruit_fly from '../books/fruit-fly/config.antidote.json';
+import ant_meta_fruit_fly from '../books/fruit-fly/youtube-meta.json';
+import ant_good_energy from '../books/good-energy/config.antidote.json';
+import ant_meta_good_energy from '../books/good-energy/youtube-meta.json';
 import ant_hidden_potential from '../books/hidden-potential/config.antidote.json';
+import ant_meta_hidden_potential from '../books/hidden-potential/youtube-meta.json';
+import ant_million_dollar_weekend from '../books/million-dollar-weekend/config.antidote.json';
+import ant_meta_million_dollar_weekend from '../books/million-dollar-weekend/youtube-meta.json';
 import ant_psychology_of_money from '../books/psychology-of-money/config.antidote.json';
+import ant_meta_psychology_of_money from '../books/psychology-of-money/youtube-meta.json';
+import ant_siddhartha from '../books/siddhartha/config.antidote.json';
+import ant_meta_siddhartha from '../books/siddhartha/youtube-meta.json';
 import ant_supercommunicators from '../books/supercommunicators/config.antidote.json';
+import ant_meta_supercommunicators from '../books/supercommunicators/youtube-meta.json';
 import ant_the_power_of_your_subconscious_mind from '../books/the-power-of-your-subconscious-mind/config.antidote.json';
+import ant_meta_the_power_of_your_subconscious_mind from '../books/the-power-of-your-subconscious-mind/youtube-meta.json';
 import ant_the_wedding_people from '../books/the-wedding-people/config.antidote.json';
 
 export type Palette = { paper: string; ink: string; red: string; gold: string; captionHighlight?: string };
@@ -92,6 +115,7 @@ export type AntidoteBookEntry = {
   slug: string;
   engine: 'vox' | 'antidote';
   config: any;
+  meta?: any | null;
 };
 
 // Per-book palettes (from books/<slug>/book.json). resolvePalette() in voxkit and
@@ -103,20 +127,26 @@ export const BOOK_PALETTES: Record<string, Palette> = {
   'diary-of-a-ceo': { paper: '#E7E3DC', ink: '#141414', red: '#E4322A', gold: '#C9A24B' },
   'discipline-is-destiny': { paper: '#DED9CF', ink: '#211E1A', red: '#B5462B', gold: '#B58A4B' },
   'east-of-eden': { paper: '#F4EBDA', ink: '#1C1712', red: '#9C2B1B', gold: '#C99A3B' },
+  'feel-good-productivity': { paper: '#FAF8F2', ink: '#181A20', red: '#E85D04', gold: '#F59E0B' },
   'fences': { paper: '#E8DDD0', ink: '#1C1410', red: '#8B3A2A', gold: '#C4943A' },
+  'fluke': { paper: '#F8FAFC', ink: '#0F172A', red: '#EA580C', gold: '#F59E0B' },
   'fruit-fly': { paper: '#F0DFD4', ink: '#1A1018', red: '#B81E4A', gold: '#9AA83C' },
   'glass-castle': { paper: '#F4ECDD', ink: '#1E1A16', red: '#C24A21', gold: '#E0A73E' },
+  'good-energy': { paper: '#F6FAF4', ink: '#0F2018', red: '#15803D', gold: '#EAB308' },
   'happiness-trap': { paper: '#DCE7E4', ink: '#1E2B2B', red: '#2E9E8F', gold: '#E0A94B' },
   'hidden-potential': { paper: '#EAF0E8', ink: '#1E2A24', red: '#F0A63C', gold: '#3E8E7A' },
   'how-to-read-a-person-like-a-book': { paper: '#E0E1E8', ink: '#1B1B24', red: '#4C5BD4', gold: '#D99A3C' },
   'laws-of-human-nature': { paper: '#DAD5CC', ink: '#17130F', red: '#8E2B2B', gold: '#B98F3E' },
   'let-them-theory': { paper: '#F0E7D8', ink: '#26201A', red: '#EE5A3C', gold: '#F0B44A' },
+  'million-dollar-weekend': { paper: '#FAF9F5', ink: '#111827', red: '#16A34A', gold: '#EAB308' },
   'outlive': { paper: '#DBE7EA', ink: '#142229', red: '#1FA0A6', gold: '#E4A63C' },
   'project-hail-mary': { paper: '#0B1120', ink: '#E8EDF3', red: '#FF6B35', gold: '#00D4AA' },
   'psychology-of-money': { paper: '#DEE4DC', ink: '#17201A', red: '#2F8F5B', gold: '#D9A93A' },
+  'siddhartha': { paper: '#F6F1E7', ink: '#1A1714', red: '#C04A26', gold: '#D97706' },
   'single-dad-dilemma': { paper: '#F1E4E1', ink: '#2A1D22', red: '#D64A6B', gold: '#E0A25C' },
   'slow-productivity': { paper: '#E6E5DE', ink: '#1C1E22', red: '#3E7CA8', gold: '#C99A48' },
   'sway': { paper: '#E4E1E8', ink: '#1C1822', red: '#7C3AED', gold: '#D9A13C' },
+  'the-chosen': { paper: '#F3EFE8', ink: '#15181E', red: '#1E3A8A', gold: '#C48B28' },
   'the-iliad': { paper: '#F4EFE6', ink: '#141312', red: '#9E2A2B', gold: '#C28833' },
   'the-mountain-is-you': { paper: '#DBE0DE', ink: '#22303C', red: '#E4762B', gold: '#4E93A0' },
   'the-odyssey': { paper: '#F6F1E5', ink: '#131922', red: '#B33827', gold: '#C89538' },
@@ -130,11 +160,18 @@ export const BOOK_PALETTES: Record<string, Palette> = {
 // Books opted into the palette-tinted background (new books; see book.json.bgTint).
 export const BOOK_BG_TINT: Record<string, boolean> = {
   'a-gentleman-in-moscow': true,
+  'a-good-man-is-hard-to-find': true,
   'all-the-colors-of-the-dark': true,
   'atonement': true,
+  'feel-good-productivity': true,
   'fences': true,
+  'fluke': true,
+  'good-energy': true,
   'i-m-thinking-of-ending-things': true,
+  'million-dollar-weekend': true,
+  'siddhartha': true,
   'supercommunicators': true,
+  'the-chosen': true,
   'the-handmaids-tale': true,
   'the-power-of-your-subconscious-mind': true,
   'the-stranger': true,
@@ -268,6 +305,12 @@ export const BOOKS: BookEntry[] = [
     meta: meta_sway as any,
   },
   {
+    slug: 'the-chosen',
+    engine: 'vox',
+    config: cfg_the_chosen as any,
+    meta: meta_the_chosen as any,
+  },
+  {
     slug: 'the-color-purple',
     engine: 'vox',
     config: cfg_the_color_purple as any,
@@ -352,50 +395,96 @@ export const ANTIDOTE_BOOKS: AntidoteBookEntry[] = [
     slug: 'a-gentleman-in-moscow',
     engine: 'antidote',
     config: ant_a_gentleman_in_moscow as any,
+    meta: ant_meta_a_gentleman_in_moscow as any,
+  },
+  {
+    slug: 'a-good-man-is-hard-to-find',
+    engine: 'antidote',
+    config: ant_a_good_man_is_hard_to_find as any,
+    meta: ant_meta_a_good_man_is_hard_to_find as any,
   },
   {
     slug: 'all-the-bright-places',
     engine: 'antidote',
     config: ant_all_the_bright_places as any,
+    meta: ant_meta_all_the_bright_places as any,
   },
   {
     slug: 'all-the-colors-of-the-dark',
     engine: 'antidote',
     config: ant_all_the_colors_of_the_dark as any,
+    meta: ant_meta_all_the_colors_of_the_dark as any,
   },
   {
     slug: 'clear-thinking',
     engine: 'antidote',
     config: ant_clear_thinking as any,
+    meta: ant_meta_clear_thinking as any,
+  },
+  {
+    slug: 'feel-good-productivity',
+    engine: 'antidote',
+    config: ant_feel_good_productivity as any,
+    meta: ant_meta_feel_good_productivity as any,
+  },
+  {
+    slug: 'fluke',
+    engine: 'antidote',
+    config: ant_fluke as any,
+    meta: ant_meta_fluke as any,
   },
   {
     slug: 'fruit-fly',
     engine: 'antidote',
     config: ant_fruit_fly as any,
+    meta: ant_meta_fruit_fly as any,
+  },
+  {
+    slug: 'good-energy',
+    engine: 'antidote',
+    config: ant_good_energy as any,
+    meta: ant_meta_good_energy as any,
   },
   {
     slug: 'hidden-potential',
     engine: 'antidote',
     config: ant_hidden_potential as any,
+    meta: ant_meta_hidden_potential as any,
+  },
+  {
+    slug: 'million-dollar-weekend',
+    engine: 'antidote',
+    config: ant_million_dollar_weekend as any,
+    meta: ant_meta_million_dollar_weekend as any,
   },
   {
     slug: 'psychology-of-money',
     engine: 'vox',
     config: ant_psychology_of_money as any,
+    meta: ant_meta_psychology_of_money as any,
+  },
+  {
+    slug: 'siddhartha',
+    engine: 'antidote',
+    config: ant_siddhartha as any,
+    meta: ant_meta_siddhartha as any,
   },
   {
     slug: 'supercommunicators',
     engine: 'antidote',
     config: ant_supercommunicators as any,
+    meta: ant_meta_supercommunicators as any,
   },
   {
     slug: 'the-power-of-your-subconscious-mind',
     engine: 'antidote',
     config: ant_the_power_of_your_subconscious_mind as any,
+    meta: ant_meta_the_power_of_your_subconscious_mind as any,
   },
   {
     slug: 'the-wedding-people',
     engine: 'antidote',
     config: ant_the_wedding_people as any,
+    meta: null,
   },
 ];

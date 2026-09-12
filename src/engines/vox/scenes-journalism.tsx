@@ -2,7 +2,7 @@ import React from "react";
 import type { Beat } from "./schema";
 import { INK, RED, hash } from "./palette";
 import { Scene, beatAnchors, KickerChip } from "./shared";
-import { NewspaperHeadline, DeclassifiedFile } from "./documents";
+import { ThematicDocument } from "./documents";
 import { DeskPerspective } from "./desk";
 import { GeoMap } from "./cartography";
 import { ScaleMatrix, ComparativeBarChart, BalanceScale, NetworkGraph, AnnotatedTrendline, InfluenceFlow } from "./infographics";
@@ -16,36 +16,26 @@ import { ScaleMatrix, ComparativeBarChart, BalanceScale, NetworkGraph, Annotated
  * tam otomasyonla Remotion'da render eden sahneler.
  */
 
-// ── 1. DOCUMENT SCENE (Gazete Manşeti veya Gizli Evrak) ───────────────────
+// ── 1. DOCUMENT SCENE (Tematik Evrak / Gazete / Parşömen / Telgraf / Lab) ──
 
 export const DocumentScene: React.FC<{ beat: Beat }> = ({ beat }) => {
   const at = beatAnchors(beat, 2, 4, 16);
   const headline = beat.props.emphasis.join(" ") || beat.props.keywords.slice(0, 3).join(" ").toUpperCase();
   const subhead = beat.props.kicker || "PRIMARY HISTORICAL RECORD";
   const seed = hash(beat.id);
-  const isDeclassified = seed > 0.5;
+  const docType = beat.props.docType || (seed > 0.5 ? "declassified" : "newspaper");
 
   return (
     <Scene beat={beat} accent={false}>
       <DeskPerspective tiltX={10} tiltY={-2} drift={true}>
-        {isDeclassified ? (
-          <DeclassifiedFile
-            title={headline}
-            keyFinding={beat.props.text.slice(0, 120)}
-            classification={seed > 0.75 ? "CONFIDENTIAL" : "TOP SECRET"}
-            caseNumber={`FILE REF: ${Math.floor(seed * 899 + 100)}-V`}
-            startFrame={at[0]}
-            width={940}
-          />
-        ) : (
-          <NewspaperHeadline
-            headline={headline}
-            subhead={subhead}
-            snippet={beat.props.text}
-            startFrame={at[0]}
-            width={960}
-          />
-        )}
+        <ThematicDocument
+          type={docType}
+          title={headline}
+          body={beat.props.text}
+          subhead={subhead}
+          startFrame={at[0]}
+          width={940}
+        />
       </DeskPerspective>
     </Scene>
   );

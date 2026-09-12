@@ -444,6 +444,385 @@ export const DeclassifiedFile: React.FC<{
   );
 };
 
+// ── 5B. ANTİK PARŞÖMEN / FELSEFİ METİN (PARCHMENT SCROLL) ───────────────────
+
+export const ParchmentScroll: React.FC<{
+  title: string;
+  excerpt: string;
+  authorOrEra?: string;
+  startFrame: number;
+  width?: number;
+}> = ({
+  title,
+  excerpt,
+  authorOrEra = "CLASSICAL DISPUTATION",
+  startFrame,
+  width = 920,
+}) => {
+  const frame = useCurrentFrame();
+  const { fps } = useVideoConfig();
+
+  const drop = spring({
+    frame: frame - startFrame,
+    fps,
+    config: { damping: 14, mass: 0.8, stiffness: 120 },
+    durationInFrames: 24,
+  });
+
+  const op = interpolate(frame, [startFrame, startFrame + 8], [0, 1], {
+    extrapolateLeft: "clamp",
+    extrapolateRight: "clamp",
+  });
+
+  const sealPop = spring({
+    frame: frame - (startFrame + 16),
+    fps,
+    config: { damping: 10, mass: 0.5, stiffness: 160 },
+  });
+
+  const y = interpolate(drop, [0, 1], [80, 0]);
+  const rot = interpolate(drop, [0, 1], [-2.5, -0.6]);
+
+  return (
+    <div
+      style={{
+        position: "relative",
+        width,
+        background: "#F5EEDB",
+        color: "#2C241B",
+        padding: "48px 56px 52px 56px",
+        boxShadow: "0 22px 52px rgba(45, 34, 20, 0.38), 0 4px 14px rgba(0,0,0,0.2)",
+        border: "3px double #A89070",
+        transform: `translateY(${y}px) rotate(${rot}deg)`,
+        opacity: op,
+        fontFamily: SERIF,
+        zIndex: 12,
+      }}
+    >
+      {/* Kırmızı Balmumu Mühür (Wax Seal) */}
+      <div
+        style={{
+          position: "absolute",
+          top: 32,
+          right: 48,
+          width: 76,
+          height: 76,
+          borderRadius: "50%",
+          background: "radial-gradient(circle at 35% 35%, #B91C1C 0%, #7F1D1D 70%, #450A0A 100%)",
+          boxShadow: "0 4px 12px rgba(0,0,0,0.45), inset 0 2px 4px rgba(255,255,255,0.25)",
+          display: "flex",
+          alignItems: "center",
+          justifyContent: "center",
+          transform: `scale(${sealPop}) rotate(12deg)`,
+          opacity: interpolate(sealPop, [0, 1], [0, 0.95]),
+          border: "2px solid rgba(120, 20, 20, 0.6)",
+        }}
+      >
+        <span style={{ color: "#FDE68A", fontSize: 28, fontWeight: 900, fontFamily: SERIF }}>❦</span>
+      </div>
+
+      <div style={{ textAlign: "center", letterSpacing: 4, fontSize: 13, textTransform: "uppercase", color: "#785E42", marginBottom: 12, fontWeight: 700 }}>
+        {authorOrEra}
+      </div>
+      <div style={{ width: 140, height: 1, background: "#A89070", margin: "0 auto 20px auto" }} />
+
+      <div style={{ fontSize: 36, fontWeight: 900, textAlign: "center", textTransform: "uppercase", letterSpacing: 2, marginBottom: 26, maxWidth: 680, margin: "0 auto 24px auto", lineHeight: 1.15 }}>
+        {title}
+      </div>
+
+      <div style={{ fontSize: 22, fontStyle: "italic", lineHeight: 1.6, textAlign: "justify", opacity: 0.9, position: "relative" }}>
+        <span style={{ float: "left", fontSize: 52, lineHeight: 0.8, fontWeight: 900, marginRight: 10, marginTop: 4, fontFamily: SERIF, color: "#854D0E" }}>
+          {excerpt[0] || "I"}
+        </span>
+        {excerpt.slice(1)}
+        <HighlighterStroke startFrame={startFrame + 18} height={26} color="rgba(250, 204, 21, 0.45)" />
+      </div>
+    </div>
+  );
+};
+
+// ── 5C. TELGRAF & ASKERİ KABLO MESAJI (TELEGRAM WIRE) ────────────────────────
+
+export const TelegramWire: React.FC<{
+  sender?: string;
+  recipient?: string;
+  message: string;
+  startFrame: number;
+  width?: number;
+}> = ({
+  sender = "CENTRAL RELAY // STATION 4",
+  recipient = "FIELD DISPATCH",
+  message,
+  startFrame,
+  width = 900,
+}) => {
+  const frame = useCurrentFrame();
+  const { fps } = useVideoConfig();
+
+  const drop = spring({
+    frame: frame - startFrame,
+    fps,
+    config: { damping: 13, mass: 0.85, stiffness: 130 },
+    durationInFrames: 24,
+  });
+
+  const op = interpolate(frame, [startFrame, startFrame + 6], [0, 1], {
+    extrapolateLeft: "clamp",
+    extrapolateRight: "clamp",
+  });
+
+  const y = interpolate(drop, [0, 1], [85, 0]);
+  const rot = interpolate(drop, [0, 1], [2.2, 0.4]);
+
+  return (
+    <div
+      style={{
+        position: "relative",
+        width,
+        background: "#FAF0BE",
+        color: "#18181B",
+        padding: "40px 48px 44px 48px",
+        boxShadow: "0 20px 44px rgba(40, 30, 10, 0.32), 0 3px 8px rgba(0,0,0,0.16)",
+        border: "2px solid #D4C586",
+        transform: `translateY(${y}px) rotate(${rot}deg)`,
+        opacity: op,
+        fontFamily: "'Courier New', Courier, monospace",
+        zIndex: 12,
+      }}
+    >
+      <Tape width={130} height={30} rotate={-1.5} style={{ position: "absolute", top: -14, left: "35%" }} />
+
+      <div style={{ display: "flex", justifyContent: "space-between", borderBottom: "2px solid #27272A", paddingBottom: 10, marginBottom: 18 }}>
+        <div style={{ fontWeight: 900, fontSize: 18, letterSpacing: 2 }}>WESTERN UNION CABLEGRAM</div>
+        <div style={{ fontWeight: 700, fontSize: 13, color: RED }}>URGENT TRANSMISSION</div>
+      </div>
+
+      <div style={{ fontSize: 12, letterSpacing: 1, marginBottom: 16, opacity: 0.8, textTransform: "uppercase" }}>
+        FROM: {sender} · TO: {recipient}
+      </div>
+
+      <div style={{ background: "rgba(0,0,0,0.05)", padding: "20px 24px", border: "1px dashed #71717A", fontSize: 24, fontWeight: 900, lineHeight: 1.4, letterSpacing: 1, textTransform: "uppercase", position: "relative" }}>
+        {message} = STOP =
+        <HighlighterStroke startFrame={startFrame + 14} height={30} color="rgba(253, 224, 71, 0.7)" />
+      </div>
+    </div>
+  );
+};
+
+// ── 5D. BİLİMSEL / TIP LAB RAPORU (LAB REPORT SHEET) ─────────────────────────
+
+export const LabReportSheet: React.FC<{
+  testName: string;
+  finding: string;
+  specimenId?: string;
+  startFrame: number;
+  width?: number;
+}> = ({
+  testName,
+  finding,
+  specimenId = "LAB-SPEC-9042",
+  startFrame,
+  width = 920,
+}) => {
+  const frame = useCurrentFrame();
+  const { fps } = useVideoConfig();
+
+  const drop = spring({
+    frame: frame - startFrame,
+    fps,
+    config: { damping: 14, mass: 0.8, stiffness: 125 },
+    durationInFrames: 24,
+  });
+
+  const op = interpolate(frame, [startFrame, startFrame + 6], [0, 1], {
+    extrapolateLeft: "clamp",
+    extrapolateRight: "clamp",
+  });
+
+  const y = interpolate(drop, [0, 1], [80, 0]);
+  const rot = interpolate(drop, [0, 1], [-1.8, -0.3]);
+
+  return (
+    <div
+      style={{
+        position: "relative",
+        width,
+        background: "#F8FAFC",
+        color: "#0F172A",
+        padding: "40px 48px 44px 48px",
+        boxShadow: "0 22px 48px rgba(15, 23, 42, 0.28), 0 3px 10px rgba(0,0,0,0.12)",
+        border: "1px solid #CBD5E1",
+        transform: `translateY(${y}px) rotate(${rot}deg)`,
+        opacity: op,
+        fontFamily: "'Inter', -apple-system, sans-serif",
+        zIndex: 12,
+      }}
+    >
+      <Paperclip size={48} rotate={6} style={{ position: "absolute", top: -16, right: 40 }} />
+
+      {/* Lab Banner Header */}
+      <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center", borderBottom: "3px solid #0284C7", paddingBottom: 12, marginBottom: 20 }}>
+        <div>
+          <div style={{ fontSize: 11, fontWeight: 900, letterSpacing: 2, color: "#0284C7", textTransform: "uppercase" }}>
+            CLINICAL DIAGNOSTICS & RESEARCH ARCHIVE
+          </div>
+          <div style={{ fontSize: 24, fontWeight: 900, textTransform: "uppercase", letterSpacing: 0.5 }}>
+            {testName}
+          </div>
+        </div>
+        <div style={{ textAlign: "right", fontFamily: "monospace", fontSize: 12, opacity: 0.75 }}>
+          <div>SPECIMEN: {specimenId}</div>
+          <div style={{ color: "#16A34A", fontWeight: 700 }}>STATUS: CONFIRMED</div>
+        </div>
+      </div>
+
+      <div style={{ background: "#EFF6FF", borderLeft: "5px solid #0284C7", padding: "18px 24px", marginBottom: 20 }}>
+        <div style={{ fontSize: 11, fontWeight: 800, color: "#0369A1", letterSpacing: 1.5, textTransform: "uppercase", marginBottom: 4 }}>
+          PRIMARY CLINICAL FINDING:
+        </div>
+        <div style={{ fontSize: 22, fontWeight: 700, lineHeight: 1.35, position: "relative" }}>
+          {finding}
+          <HighlighterStroke startFrame={startFrame + 16} height={28} color="rgba(56, 189, 248, 0.55)" />
+        </div>
+      </div>
+
+      <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr 1fr", gap: 16, fontSize: 12, fontFamily: "monospace", opacity: 0.8, borderTop: "1px solid #E2E8F0", paddingTop: 12 }}>
+        <div>METRIC: STATISTICAL VARIANCE</div>
+        <div>TOLERANCE: ± 0.04%</div>
+        <div style={{ color: RED, fontWeight: 700 }}>VERIFICATION: POSITIVE</div>
+      </div>
+    </div>
+  );
+};
+
+// ── 5E. FİNANSAL BİLANÇO & MUHASEBE DEFTERİ (FINANCIAL LEDGER) ───────────────
+
+export const FinancialLedger: React.FC<{
+  entity: string;
+  metric: string;
+  figures: string;
+  startFrame: number;
+  width?: number;
+}> = ({
+  entity,
+  metric,
+  figures,
+  startFrame,
+  width = 920,
+}) => {
+  const frame = useCurrentFrame();
+  const { fps } = useVideoConfig();
+
+  const drop = spring({
+    frame: frame - startFrame,
+    fps,
+    config: { damping: 14, mass: 0.8, stiffness: 120 },
+    durationInFrames: 24,
+  });
+
+  const op = interpolate(frame, [startFrame, startFrame + 6], [0, 1], {
+    extrapolateLeft: "clamp",
+    extrapolateRight: "clamp",
+  });
+
+  const stampPop = spring({
+    frame: frame - (startFrame + 14),
+    fps,
+    config: { damping: 11, mass: 0.55, stiffness: 170 },
+  });
+
+  const y = interpolate(drop, [0, 1], [80, 0]);
+  const rot = interpolate(drop, [0, 1], [1.5, 0.2]);
+
+  return (
+    <div
+      style={{
+        position: "relative",
+        width,
+        background: "#F0FDF4",
+        color: "#064E3B",
+        padding: "42px 50px 44px 50px",
+        boxShadow: "0 22px 48px rgba(6, 78, 59, 0.25), 0 3px 10px rgba(0,0,0,0.12)",
+        border: "2px solid #86EFAC",
+        transform: `translateY(${y}px) rotate(${rot}deg)`,
+        opacity: op,
+        fontFamily: "'Inter', monospace",
+        zIndex: 12,
+      }}
+    >
+      {/* Yeşil Kaşe Damgası */}
+      <div
+        style={{
+          position: "absolute",
+          top: 36,
+          right: 48,
+          transform: `rotate(-10deg) scale(${stampPop})`,
+          border: "4px solid #16A34A",
+          padding: "6px 16px",
+          color: "#16A34A",
+          fontFamily: HEADLINE,
+          fontWeight: 900,
+          fontSize: 22,
+          letterSpacing: 3,
+          opacity: interpolate(stampPop, [0, 1], [0, 0.9]),
+          textTransform: "uppercase",
+        }}
+      >
+        AUDITED & CONFIRMED
+      </div>
+
+      <div style={{ fontSize: 12, fontWeight: 900, letterSpacing: 2, color: "#15803D", textTransform: "uppercase", marginBottom: 6 }}>
+        GENERAL LEDGER // FINANCIAL STATEMENT
+      </div>
+      <div style={{ fontSize: 30, fontWeight: 900, textTransform: "uppercase", letterSpacing: 1, marginBottom: 18, color: "#064E3B" }}>
+        {entity}
+      </div>
+
+      <div style={{ borderTop: "2px solid #16A34A", borderBottom: "2px solid #16A34A", padding: "16px 0", marginBottom: 16 }}>
+        <div style={{ fontSize: 13, fontWeight: 700, opacity: 0.75, textTransform: "uppercase", marginBottom: 4 }}>
+          {metric}
+        </div>
+        <div style={{ fontSize: 40, fontWeight: 900, letterSpacing: 1, color: "#047857", position: "relative" }}>
+          {figures}
+          <HighlighterStroke startFrame={startFrame + 14} height={34} color="rgba(74, 222, 128, 0.55)" />
+        </div>
+      </div>
+
+      <div style={{ display: "flex", justifyContent: "space-between", fontSize: 11, fontWeight: 700, opacity: 0.7 }}>
+        <span>ACCOUNTING STANDARD: GAAP // AUDIT APPROVED</span>
+        <span>FISCAL VALIDATION: 100%</span>
+      </div>
+    </div>
+  );
+};
+
+// ── 5F. ÇOK DÖNEMLİ EVRAK SEÇİCİ (THEMATIC DOCUMENT DISPATCHER) ─────────────
+
+export const ThematicDocument: React.FC<{
+  type?: "newspaper" | "declassified" | "parchment" | "telegram" | "lab" | "financial";
+  title: string;
+  body: string;
+  subhead?: string;
+  startFrame: number;
+  width?: number;
+}> = ({ type = "newspaper", title, body, subhead, startFrame, width = 940 }) => {
+  switch (type) {
+    case "parchment":
+      return <ParchmentScroll title={title} excerpt={body} authorOrEra={subhead} startFrame={startFrame} width={width} />;
+    case "telegram":
+      return <TelegramWire message={title} sender={subhead} startFrame={startFrame} width={width} />;
+    case "lab":
+      return <LabReportSheet testName={title} finding={body} specimenId={subhead} startFrame={startFrame} width={width} />;
+    case "financial":
+      return <FinancialLedger entity={title} metric={subhead || "RECORDED CAPITAL"} figures={body} startFrame={startFrame} width={width} />;
+    case "declassified":
+      return <DeclassifiedFile title={title} keyFinding={body} startFrame={startFrame} width={width} />;
+    case "newspaper":
+    default:
+      return <NewspaperHeadline headline={title} subhead={subhead} snippet={body} startFrame={startFrame} width={width} />;
+  }
+};
+
 // ── 6. YIRTIK KAĞIT KENARI (TORN PAPER EDGE) ──────────────────────────────
 
 /**

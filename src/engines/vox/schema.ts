@@ -21,7 +21,10 @@ export type VoxArchetype =
   | "dataviz"
   | "network"
   | "trendline"
-  | "flow";
+  | "flow"
+  | "checklist"
+  | "polaroid"
+  | "chart";
 
 export type VImage = { path: string; prompt: string; style: "cutout" | "card"; cut?: string };
 export type Beat = {
@@ -40,8 +43,15 @@ export type Beat = {
     author?: string;
     compareLabels?: string[];
     sourceRef?: string;
+    docType?: "newspaper" | "declassified" | "parchment" | "telegram" | "lab" | "financial";
     trendPoints?: { label: string; year?: string; value: number }[];
     flowNodes?: { label: string; sub?: string }[];
+    checklistItems?: (string | { text: string; checked?: boolean })[];
+    chartData?: number[];
+    chartLabels?: string[];
+    chartTitle?: string;
+    chartSubtitle?: string;
+    polaroidCaption?: string;
     /**
      * SUB-BEAT EVENT CLOCK (see AGENT_LOG 2026-09-03 "visual event rate").
      * Frames — RELATIVE to the beat's start — at which this beat's on-screen

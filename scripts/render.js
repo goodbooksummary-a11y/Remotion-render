@@ -21,6 +21,20 @@ const path = require("path");
 
 const ROOT = path.resolve(__dirname, "..");
 const ENTRY = "src/index.ts";
+const IS_TTY = process.stdout.isTTY;
+const STDIO = IS_TTY ? "inherit" : "pipe";
+function runCmd(cmd, opts = {}) {
+  const o = { cwd: ROOT, encoding: "utf8", ...opts, stdio: STDIO };
+  try {
+    const out = execSync(cmd, o);
+    if (!IS_TTY && out && out.trim()) process.stdout.write(out);
+    return out;
+  } catch (e) {
+    if (!IS_TTY && e.stdout) process.stdout.write(e.stdout);
+    if (!IS_TTY && e.stderr) process.stderr.write(e.stderr);
+    throw e;
+  }
+}
 
 // ── Argument Parsing ────────────────────────────────────────────────────────
 const args = {};
@@ -220,7 +234,7 @@ function runLocalRender() {
       let ok = false;
       while (!ok && retries > 0) {
         try {
-          execSync(cmd, { cwd: ROOT, stdio: "inherit" });
+          execSync(cmd, { cwd: ROOT, stdio: STDIO });
           if (verifyChunkFile(chunkFile)) {
             ok = true;
           } else {
@@ -253,7 +267,7 @@ function runLocalRender() {
   try {
     execSync(`ffmpeg -y -f concat -safe 0 -i "${partsFile}" -c copy "${finalOutPath}"`, {
       cwd: ROOT,
-      stdio: "inherit",
+      stdio: STDIO,
     });
     console.log(`\n🎉 [BAŞARILI] Video oluşturuldu: ${finalOutPath}`);
     runPostRender();
@@ -289,14 +303,14 @@ function runLambdaRender() {
 
   // Registry güncelle
   try {
-    execSync("node scripts/gen-books-registry.js", { cwd: ROOT, stdio: "inherit" });
+    execSync("node scripts/gen-books-registry.js", { cwd: ROOT, stdio: STDIO });
   } catch {}
 
   console.log(`\n1. Lambda Site Deploy ediliyor (${siteName}, region: ${region})...`);
   try {
     execSync(`npx remotion lambda sites create ${ENTRY} --site-name=${siteName} --region=${region}`, {
       cwd: ROOT,
-      stdio: "inherit",
+      stdio: STDIO,
     });
   } catch (e) {
     console.error("❌ Lambda site oluşturma başarısız. AWS kimlik bilgilerinizi (.env) kontrol edin.");
@@ -331,7 +345,7 @@ function runLambdaRender() {
         console.log(`  S3'ten indiriliyor (${renderId})...`);
         execSync(`node scripts/dl-render.js ${renderId} ${outName} "${segLocalPath}"`, {
           cwd: ROOT,
-          stdio: "inherit",
+          stdio: STDIO,
         });
       }
       segIndex++;
@@ -343,7 +357,7 @@ function runLambdaRender() {
     fs.writeFileSync(segParts, segFiles.map((f) => `file '${f.replace(/\\/g, "/")}'`).join("\n"));
     execSync(`ffmpeg -y -f concat -safe 0 -i "${segParts}" -c copy "${finalOutPath}"`, {
       cwd: ROOT,
-      stdio: "inherit",
+      stdio: STDIO,
     });
     console.log(`\n🎉 [BAŞARILI] Lambda render tamamlandı: ${finalOutPath}`);
     runPostRender();
@@ -351,7 +365,7 @@ function runLambdaRender() {
     console.log(`\n2. Lambda render başlatılıyor...`);
     const framesFlag = args.frames ? `--frames=${args.frames}` : "";
     const renderCmd = `npx remotion lambda render ${siteName} ${composition} --region=${region} --codec=h264 ${framesFlag}`;
-    execSync(renderCmd, { cwd: ROOT, stdio: "inherit" });
+    execSync(renderCmd, { cwd: ROOT, stdio: STDIO });
   }
 }
 
@@ -441,8 +455,9 @@ async function dispatchSplit(safeMax) {
     const ref = `render/${slug}-seg${sg.seg}`;
     console.log(`\n↑ ${bundleSha ? `Bundle ${bundleSha.slice(0, 8)}` : "Kod"} push → ${worker.username}/${worker.repo} (${remote} → ${ref})`);
     try {
-      execSync(`git push ${remote} ${pushSrc}:refs/heads/${ref} --force`, { cwd: ROOT, stdio: "inherit", env: { ...process.env, GIT_TERMINAL_PROMPT: "0", GCM_INTERACTIVE: "never" } });
-    } catch (e) { console.warn(`⚠ push: ${e.message}`); }
+      const pushOut = execSync(`git push ${remote} ${pushSrc}:refs/heads/${ref} --force 2>&1`, { cwd: ROOT, encoding: "utf8", env: { ...process.env, GIT_TERMINAL_PROMPT: "0", GCM_INTERACTIVE: "never" } });
+      if (pushOut.trim()) console.log(pushOut.trim());
+    } catch (e) { console.warn(`⚠ push: ${String(e.message).slice(0, 200)}`); }
     const payload = JSON.stringify({ ref, inputs: {
       slug, composition, chunk_size: String(chunkSize), concurrency: String(args.concurrency || 2),
       frames: `${sg.start}-${sg.end}`, seg: String(sg.seg),
@@ -469,7 +484,9 @@ async function dispatchSplit(safeMax) {
       ], { encoding: "utf8", env: { ...process.env, GH_TOKEN: w.token, GITHUB_TOKEN: w.token, NO_COLOR: "1" } }) || "[]");
       const bare = sg.ref.replace("refs/heads/", "");
       return runs.find((r) => r.headBranch === bare || r.headBranch === sg.ref) || null;
-    } catch {
+    } catch (err) {
+      const msg = String(err && err.message || err).slice(0, 200);
+      console.warn(`  ⚠ runFor seg${sg.seg} @${w.username}: ${msg}`);
       return undefined; // undefined = couldn't tell (API/auth hiccup), not "absent"
     }
   };
@@ -484,9 +501,10 @@ async function dispatchSplit(safeMax) {
   const healSeg = async (w, sg) => {
     const bare = sg.ref.replace("refs/heads/", "");
     try {
-      execSync(`git push ${sg.remoteName || w.remoteName} ${pushSrc}:refs/heads/${bare} --force`,
-        { cwd: ROOT, stdio: "inherit", env: { ...process.env, GIT_TERMINAL_PROMPT: "0", GCM_INTERACTIVE: "never" } });
-    } catch (e) { console.warn(`   ⚠ push: ${String(e.message).slice(0, 160)}`); }
+      const hpOut = execSync(`git push ${sg.remoteName || w.remoteName} ${pushSrc}:refs/heads/${bare} --force 2>&1`,
+        { cwd: ROOT, encoding: "utf8", env: { ...process.env, GIT_TERMINAL_PROMPT: "0", GCM_INTERACTIVE: "never" } });
+      if (hpOut.trim()) console.log(`   ${hpOut.trim()}`);
+    } catch (e) { console.warn(`   ⚠ push: ${String(e.message).slice(0, 200)}`); }
     const payload = JSON.stringify({ ref: bare, inputs: {
       slug, composition, chunk_size: String(chunkSize), concurrency: String(args.concurrency || 2),
       frames: `${sg.start}-${sg.end}`, seg: String(sg.seg),
@@ -544,7 +562,17 @@ async function dispatchSplit(safeMax) {
         if (!w) continue;
         const segRun = runFor(w, sg);
         if (segRun === undefined) {
-          allDone = false; // couldn't read status — don't count it as missing
+          allDone = false;
+          // Count API/TLS failures toward misses so persistent outages trigger healSeg
+          const n = (misses.get(sg.seg) || 0) + 1;
+          misses.set(sg.seg, n);
+          const tried = heals.get(sg.seg) || 0;
+          if (n >= MISS_LIMIT && tried < HEAL_LIMIT) {
+            heals.set(sg.seg, tried + 1);
+            misses.set(sg.seg, 0);
+            console.log(`\n🔧 seg${sg.seg} @${w.username}: ${n} kontrolde durum okunamadı — kurtarılıyor (${tried + 1}/${HEAL_LIMIT})...`);
+            await healSeg(w, sg);
+          }
           continue;
         }
         if (!segRun) {
@@ -574,7 +602,7 @@ async function dispatchSplit(safeMax) {
         console.log(`\n✅ Tüm ${state.segments.length} segment tamamlandı (${elapsedStr}).`);
         console.log(`\n4. Otomatik birleştirme başlatılıyor...`);
         try {
-          execSync(`node scripts/render-github-assemble.js --slug=${slug}`, { cwd: ROOT, stdio: "inherit" });
+          execSync(`node scripts/render-github-assemble.js --slug=${slug}`, { cwd: ROOT, stdio: STDIO });
         } catch (e) {
           console.error(`❌ Birleştirme hatası: ${e.message}`);
           process.exit(1);
@@ -604,7 +632,7 @@ async function runGithubActionsRender() {
   if (slug && !args["skip-verify"]) {
     if (args["legacy-push"]) {
       console.log(`[GITHUB ACTIONS] Ön-kontrol (git-aware — legacy push)...`);
-      const pf = spawnSync("node", ["scripts/verify-render-assets.js", `--slug=${slug}`], { cwd: ROOT, stdio: "inherit" });
+      const pf = spawnSync("node", ["scripts/verify-render-assets.js", `--slug=${slug}`], { cwd: ROOT, stdio: STDIO });
       if (pf.status !== 0) {
         console.error(`\n❌ Ön-kontrol başarısız — render TETİKLENMEDİ. Eksik/commit'lenmemiş dosyaları ekleyip tekrar dene (veya --skip-verify).`);
         process.exit(1);
@@ -699,14 +727,15 @@ async function runGithubActionsRender() {
   console.log(`1. ${bundleSha ? `Bundle ${bundleSha.slice(0, 8)}` : "Son değişiklikler"} → Render Worker (${remote}/${branch})...`);
   try {
     const pushSrc = bundleSha || execSync("git rev-parse --abbrev-ref HEAD", { encoding: "utf8" }).trim();
-    execSync(`git push ${remote} ${pushSrc}:refs/heads/${branch} --force`, {
+    const lpOut = execSync(`git push ${remote} ${pushSrc}:refs/heads/${branch} --force 2>&1`, {
       cwd: ROOT,
-      stdio: "inherit",
+      encoding: "utf8",
       env: { ...process.env, GIT_TERMINAL_PROMPT: "0", GCM_INTERACTIVE: "never" },
     });
+    if (lpOut.trim()) console.log(lpOut.trim());
     console.log(`✓ Kodlar başarıyla Render Worker'a aktarıldı.`);
   } catch (err) {
-    console.warn(`⚠ Git push uyarısı: ${err.message}. Mevcut kodla devam ediliyor...`);
+    console.warn(`⚠ Git push uyarısı: ${String(err.message).slice(0, 200)}. Mevcut kodla devam ediliyor...`);
   }
 
   // 2. GitHub Actions Workflow Dispatch API çağrısı
@@ -783,7 +812,7 @@ async function runGithubActionsRender() {
                     if (fs.existsSync(path.join(ROOT, "scripts", "render-github-download.js"))) {
                       console.log(`\n3. Video indiriliyor (out/${slug}.mp4)...`);
                       try {
-                        execSync(`node scripts/render-github-download.js --slug=${slug} --worker=${worker.id}`, { cwd: ROOT, stdio: "inherit" });
+                        execSync(`node scripts/render-github-download.js --slug=${slug} --worker=${worker.id}`, { cwd: ROOT, stdio: STDIO });
                         runPostRender();
                       } catch (e) {
                         console.warn(`⚠ İndirme uyarısı: ${e.message}`);
@@ -821,7 +850,7 @@ function runPostRender() {
   const postScript = path.join(ROOT, "scripts", "post-render.js");
   if (!fs.existsSync(postScript)) return;
   try {
-    spawnSync("node", [postScript, `--slug=${slug}`], { cwd: ROOT, stdio: "inherit" });
+    spawnSync("node", [postScript, `--slug=${slug}`], { cwd: ROOT, stdio: STDIO });
   } catch {}
 }
 

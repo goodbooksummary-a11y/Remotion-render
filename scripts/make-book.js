@@ -114,6 +114,8 @@ if (ENGINE === "antidote") {
   const ACFG = rel.antidoteConfig(SLUG);
   const t0a = Date.now();
   step(0, "VTT ön-kontrol", `node scripts/check-vtt.js --slug=${SLUG} --vtt=${VTT} --audio=${AUDIO} --title=${q(TITLE)} --author=${q(AUTHOR)}`);
+  step(0.8, "Art Director (Ön Yapım, Dünya & Varlık Analizi)",
+    `node scripts/preproduce.js --slug=${SLUG} --title=${q(TITLE)} --author=${q(AUTHOR)} --genre=${GENRE} --vtt=${VTT}`);
   if (!args["skip-plan"]) {
     step(1, "Plan (VTT → sahneler, kinetik metin, altyazı) [Antidote]",
       `node scripts/plan-antidote.js --vtt=${VTT} --slug=${SLUG} --title=${q(TITLE)} --author=${q(AUTHOR)} --genre=${GENRE}${args.until ? ` --until=${args.until}` : ""}`);
@@ -144,10 +146,12 @@ if (ENGINE === "antidote") {
   const A_CLEAN_VTT = `public/captions/${SLUG}.clean.vtt`;
   step(4, "YouTube metadata (CTR + SEO) [Antidote]", `node scripts/plan-antidote-meta.js --slug=${SLUG}`, { optional: true });
   step(4.1, "Temiz altyazı (YouTube CC)", `node scripts/clean-vtt.js ${VTT} ${A_CLEAN_VTT}`, { optional: true });
+  // 5) High-CTR 16:9 cinematic Flux thumbnail
+  step(5, "Thumbnail görseli (Flux)", `python scripts/gen-thumbnail.py ${A_META}`, { optional: true });
   step(7, "Kompozisyon kaydı", `node scripts/gen-books-registry.js`);
   // Thumbnail PNG (code-rendered Thumb-<slug>; no --gl=angle on this GPU-less box).
   const A_THUMB = `out/thumbnail-${SLUG}.png`;
-  step(8, "Thumbnail PNG (Remotion still)", `npx remotion still Thumb-${SLUG} ${A_THUMB} --frame=0`, { optional: true });
+  step(8, "Thumbnail PNG (Remotion still)", `npx remotion still Thumb-${SLUG} ${A_THUMB} --frame=0 --puppeteer-timeout=120000`, { optional: true, retries: 2 });
   step(9, "Kitap hub index", `node scripts/gen-book-readme.js ${SLUG}`, { optional: true });
   console.log(`\n═══════════════════════════════════════════`);
   console.log(`✅ HAZIR (Antidote scaffold) — ${TITLE}  (${((Date.now() - t0a) / 1000).toFixed(0)}s)`);
@@ -237,6 +241,9 @@ if (!args["skip-master"]) {
   console.log(`
 ── [0.5] Ses mastering atlandı (--skip-master)`);
 }
+
+step(0.8, "Art Director (Ön Yapım, Dünya & Varlık Analizi)",
+  `node scripts/preproduce.js --slug=${SLUG} --title=${q(TITLE)} --author=${q(AUTHOR)} --genre=${GENRE} --vtt=${VTT}`);
 
 // 1) plan  (--skip-plan keeps an existing hand-directed books/<slug>/config.vox.json;
 //    Claude-first flow: pre-run plan-vox with --emit-beats/--designs, then make-book --skip-plan)

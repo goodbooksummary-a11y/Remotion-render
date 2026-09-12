@@ -23,14 +23,13 @@ import {
   HEADLINE as HEADLINE_SHARED,
   SERIF as SERIF_SHARED,
 } from "../thumbnail-shared";
+import { CinematicBleed } from "../vox/thumbnail";
 
 /**
- * AntidoteThumbnail — 6-layout system (flat-vector engine).
+ * AntidoteThumbnail — 6-layout system (flat-vector engine) + High-CTR Cinematic fallback.
  *
- * Mirrors the Vox 6-layout system but in Antidote's visual language:
- * Everyman rig, SVG motifs, flat color, kinetic text. The two engines
- * running different thumbnail styles is itself the variation that keeps
- * the browse feed from looking templated (YPP originality).
+ * When a cinematic Flux hero image is present or layout is cinematic-bleed,
+ * it renders the high-converting full-bleed cover to ensure high CTR on YouTube.
  */
 
 export const antidoteThumbPropsSchema = z.object({
@@ -46,6 +45,7 @@ export const antidoteThumbPropsSchema = z.object({
   expression: expressionEnum.default("happy"),
   motif: thumbMotif.default("risingBars"),
   slug: z.string().optional(),
+  heroImg: z.string().optional(),
   layout: thumbLayoutSchema.optional(),
 });
 export type AntidoteThumbProps = z.infer<typeof antidoteThumbPropsSchema>;
@@ -408,8 +408,28 @@ const TextPoster: React.FC<AntidoteThumbProps> = ({
 // ── MAIN COMPONENT ──────────────────────────────────────────────────────────
 
 export const AntidoteThumbnail: React.FC<AntidoteThumbProps> = (props) => {
-  const { paper, ink, slug, layout: layoutOverride } = props;
+  const { paper, ink, slug, layout: layoutOverride, heroImg } = props;
   const layout = pickLayout(slug ?? "default", layoutOverride);
+
+  // If layout is cinematic-bleed or a heroImg is available, render the high-CTR cinematic thumbnail!
+  if (layout === "cinematic-bleed" || heroImg) {
+    const resolvedHero = heroImg || (slug ? `scenes/${slug}/thumbnail-hero.png` : undefined);
+    return (
+      <AbsoluteFill style={{ backgroundColor: "#0B0D11", overflow: "hidden" }}>
+        <CinematicBleed
+          title={props.title}
+          author={props.author}
+          hook={props.hook}
+          heroCut=""
+          heroImg={resolvedHero}
+          slug={slug}
+          layout="cinematic-bleed"
+        />
+        <Vignette />
+        <Grain ink={ink} />
+      </AbsoluteFill>
+    );
+  }
 
   return (
     <AbsoluteFill style={{ backgroundColor: paper, overflow: "hidden" }}>

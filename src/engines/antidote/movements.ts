@@ -112,6 +112,7 @@ export type Pose = {
   headY: number; // head bob px
   blink: number; // 0 open → 1 shut (quick close-open every ~3s)
   gazeX: number; // -1 far left → 0 center → +1 far right (pupil offset)
+  gazeY?: number; // -1 looking up → 0 center → +1 looking down (pupil vertical offset)
   // ── LOOK-AT (4.0) — head orientation toward a target. Both optional and
   //    no-op by default (headX 0, headYaw 1), so every existing pose is
   //    unchanged; Scene sets them when a character has a `lookAt`. ──────────
@@ -128,7 +129,7 @@ export type Pose = {
   hipY?: number; // whole-body vertical offset px (walk bounce, sitting drop)
   sit?: number; // 0 standing → 1 seated (thighs forward, shins down)
 };
-const BASE: Pose = { lean: 0, armL: 8, armR: -8, mouth: 0, browY: 0, headY: 0, blink: 0, gazeX: 0, elbowL: 0, elbowR: 0, legL: 0, legR: 0, kneeL: 0, kneeR: 0, hipY: 0, sit: 0 };
+const BASE: Pose = { lean: 0, armL: 8, armR: -8, mouth: 0, browY: 0, headY: 0, blink: 0, gazeX: 0, gazeY: 0, elbowL: 0, elbowR: 0, legL: 0, legR: 0, kneeL: 0, kneeR: 0, hipY: 0, sit: 0 };
 
 /**
  * gait — a front-facing walk cycle.
@@ -207,16 +208,16 @@ export function pose(action: CharAction, frame: number, fps: number): Pose {
     case "slump": {
       const d = spring({ frame, fps, config: { damping: 14, stiffness: 90 } });
       // slumped characters look down-left (withdrawn)
-      return { ...BASE, lean: interpolate(d, [0, 1], [0, 10]), headY: interpolate(d, [0, 1], [0, 12]), armL: 4, armR: -4, browY: 3, blink, gazeX: -0.4 };
+      return { ...BASE, lean: interpolate(d, [0, 1], [0, 10]), headY: interpolate(d, [0, 1], [0, 12]), armL: 4, armR: -4, browY: 3, blink, gazeX: -0.4, gazeY: 0.5 };
     }
     case "think": {
       // thinkers look up and to the left slowly
       const gazeX = -0.3 + Math.sin(frame * 0.02) * 0.2;
-      return { ...BASE, armR: -70, lean: 3, headY: Math.sin(frame * 0.05) * 2, blink, gazeX };
+      return { ...BASE, armR: -70, lean: 3, headY: Math.sin(frame * 0.05) * 2, blink, gazeX, gazeY: -0.45 };
     }
     case "walk": {
       const g = gait(frame, fps);
-      return { ...BASE, ...g, mouth: 0, headY: g.hipY * 0.35, blink, gazeX: Math.sin(frame * 0.02) * 0.2 };
+      return { ...BASE, ...g, mouth: 0, headY: g.hipY * 0.35, blink, gazeX: Math.sin(frame * 0.02) * 0.2, gazeY: 0 };
     }
     case "sit": {
       // settle into the chair rather than snapping into it
@@ -234,6 +235,7 @@ export function pose(action: CharAction, frame: number, fps: number): Pose {
         headY: bob(frame, 2, 130),
         blink,
         gazeX: Math.sin(frame * 0.018) * 0.2,
+        gazeY: 0,
       };
     }
     case "hold": {
@@ -252,6 +254,7 @@ export function pose(action: CharAction, frame: number, fps: number): Pose {
         headY: bob(frame, 2, 140),
         blink,
         gazeX: 0.3,
+        gazeY: 0.35,
       };
     }
     case "reach": {
@@ -267,6 +270,7 @@ export function pose(action: CharAction, frame: number, fps: number): Pose {
         headY: 2,
         blink,
         gazeX: 0.75,
+        gazeY: -0.15,
       };
     }
     case "idle":

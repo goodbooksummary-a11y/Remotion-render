@@ -61,7 +61,7 @@ export const QuestionScene: React.FC<{ beat: Beat }> = ({ beat }) => {
       <AccentBurst seed={seed} x={50} y={44} />
       <div style={{ display: "flex", flexDirection: "column", alignItems: "center", gap: 4, zIndex: 12 }}>
         <QuestionMark startFrame={2} seed={seed} />
-        <Annotated text={phrase} size={size} kind="circle" seed={seed} startFrame={at[1]}>
+        <Annotated text={phrase} size={size} maxWidth={1420} kind="circle" seed={seed} startFrame={at[1]}>
           <KineticWords text={phrase} startFrame={at[0]} perWord={4} fontSize={size} color={INK} maxWidth={1420} />
         </Annotated>
       </div>

@@ -32,6 +32,20 @@ export type CharAction = z.infer<typeof charAction>;
 export const expression = z.enum(["neutral", "happy", "sad", "surprised", "worried"]);
 export type Expression = z.infer<typeof expression>;
 
+// ── CHARACTER EMOTIONS (Micro-reactions) ──────────────────────────────────
+// Over-the-head anime/explainer reactive overlays that give the character emotional life:
+// lightbulb (💡 insight), sweat (💧 anxiety/cognitive trap), question (❓ confusion/probe),
+// shock (⚡ sudden realization), fire (🔥 intense drive/momentum).
+export const charEmotion = z.enum([
+  "none",
+  "lightbulb",
+  "sweat",
+  "question",
+  "shock",
+  "fire",
+]);
+export type CharEmotion = z.infer<typeof charEmotion>;
+
 // ── SHOT GRAMMAR ────────────────────────────────────────────────────────────
 // The framing vocabulary. Without it every scene was the identical waist-up
 // figure at x=660 (163 of 181 scenes in clear-thinking). A shot decides where
@@ -103,6 +117,10 @@ export type BodyPlan = z.infer<typeof bodyPlan>;
 export const handProp = z.enum([
   "book", "phone", "key", "notes", "letter", "coin", "cup", "lightbulb",
   "mask", "photo", "mirror", "flower", "compass", "briefcase",
+  // Step 4: High-Retention Visual Metaphor Handprops
+  "shield", "trophy", "hourglass", "sword", "target", "magnifier", "wallet", "gift", "zap",
+  // Step 5: Tech, Business & Startup Handprops
+  "laptop", "creditCard", "smartphone",
 ]);
 export type HandProp = z.infer<typeof handProp>;
 
@@ -234,6 +252,10 @@ export const characterSchema = z.object({
   variant: variantSchema.optional(),
   /** Per-scene face, layered over the role's resting expression. */
   expression: expression.optional(),
+  /** Over-the-head reactive emotion micro-animation (lightbulb, sweat, question, shock, fire) */
+  emotion: charEmotion.optional(),
+  /** Frame offset within scene when the emotion overlay pops (defaults to ~8 frames after entrance) */
+  emotionAt: z.number().optional(),
   x: z.number().optional(), // center anchor (px, 1920×1080 stage)
   y: z.number().optional(),
   scale: z.number().optional(),
@@ -277,7 +299,7 @@ export const characterSchema = z.object({
    * its action looks, exactly as before.
    */
   lookAt: z.union([
-    z.enum(["partner", "motif", "callout", "camera", "ahead"]),
+    z.enum(["partner", "motif", "callout", "camera", "ahead", "viewer", "text", "prop", "heldProp", "hand", "wander"]),
     z.object({ x: z.number(), y: z.number() }),
   ]).optional(),
 });
@@ -301,6 +323,15 @@ export const propType = z.enum([
   "work", "game", "war", "food", "city", "photo", "law", "mask", "key", "mirror",
   // Archetypal / Philosophical Metaphors (Anthem, Psychology, Strategy)
   "lightbulb", "shadowSelf", "puppeteer", "iceberg", "chains", "compass",
+  // Hypnotic Vector Metaphors (Compounding, Hidden Depth, Ruthless Focus)
+  "dominoCascade", "icebergDepth", "funnelTrap",
+  // Tech & Silicon Valley Business Motifs
+  "codeWindow", "laptopMockup", "funnelMetrics", "rocketLaunch", "dollarExchange",
+  // High-Retention Narrative & Metaphor Motifs (Antidote 5.1)
+  "alarmClock", "hourglass", "zap", "shield", "target", "trophy", "sword",
+  "magnifier", "wallet", "gift", "subway", "butterfly", "coffee", "car",
+  // Dynamic Extensible SVG Motifs (AI Art Director)
+  "customSvg",
 ]);
 export type PropType = z.infer<typeof propType>;
 
@@ -334,6 +365,18 @@ export const propSchema = z.object({
    *  `meta.multiplane` is on; omit to let the shot decide (icon shots → focal,
    *  decorative motifs → set back). */
   depth: z.number().optional(),
+  /** Dynamic vector paths for custom motifs generated on the fly by AI Art Director */
+  customSvg: z.object({
+    viewBox: z.string().default("0 0 520 520"),
+    paths: z.array(z.object({
+      d: z.string(),
+      fill: z.string().optional(),
+      stroke: z.string().optional(),
+      strokeWidth: z.number().optional(),
+      opacity: z.number().optional(),
+    })).default([]),
+    title: z.string().optional(),
+  }).optional(),
 });
 export type PropSpec = z.infer<typeof propSchema>;
 export type PropArc = PropSpec["arc"];
@@ -364,6 +407,8 @@ export const textSchema = z.object({
   size: z.number().optional(),
   enter: enterAnim.default("pop"),
   at: z.number().default(0), // frames after the scene starts
+  /** Frames the text stays visible before smoothly fading out. Optional. */
+  duration: z.number().optional(),
   /** Multiplane depth (4.0) — see characterSchema.depth. Only read when
    *  `meta.multiplane` is on. Copy usually stays on the focal plane (1). */
   depth: z.number().optional(),
@@ -382,6 +427,9 @@ export const setName = z.enum([
   // parallax vector budget — no images, no WebGL.
   "kitchen", "bedroom", "classroom", "library", "cafe", "hospital", "court",
   "forest", "shore", "highway",
+  // ── TECH & BUSINESS PLACES (Antidote 5.0) ─────────────────────────────────
+  // Workplaces for Silicon Valley, SaaS, coding, startups and business strategy.
+  "workstation", "startupGarage", "serverRoom", "pitchStage",
 ]);
 export type SetName = z.infer<typeof setName>;
 export const textureName = z.enum(["none", "grain", "dots", "rays", "grid", "paper"]);
@@ -448,6 +496,13 @@ export const cameraSchema = z.object({
   pulses: z.array(z.number()).optional(),
 });
 
+export const sceneHudSchema = z.object({
+  badge: z.string().optional(), // e.g. "INSIGHT 02 / 07"
+  topic: z.string().optional(), // e.g. "THE COMPOUND EFFECT"
+  hidden: z.boolean().optional(),
+});
+export type SceneHudSpec = z.infer<typeof sceneHudSchema>;
+
 export const sceneSchema = z.object({
   id: z.string(),
   fromFrame: z.number(),
@@ -466,6 +521,7 @@ export const sceneSchema = z.object({
   characters: z.array(characterSchema).default([]),
   props: z.array(propSchema).default([]),
   texts: z.array(textSchema).default([]),
+  hud: sceneHudSchema.optional(),
 });
 export type SceneSpec = z.infer<typeof sceneSchema>;
 
@@ -494,6 +550,15 @@ export const antidoteThumbnailSchema = z.object({
 });
 export type AntidoteThumbnailBrief = z.infer<typeof antidoteThumbnailSchema>;
 
+export const metaHudSchema = z.object({
+  enabled: z.boolean().default(true),
+  accent: z.string().optional(),
+  title: z.string().optional(),
+  showProgress: z.boolean().default(true),
+  showBadge: z.boolean().default(true),
+});
+export type MetaHudSpec = z.infer<typeof metaHudSchema>;
+
 export const antidoteConfigSchema = z.object({
   meta: z.object({
     slug: z.string(),
@@ -514,10 +579,12 @@ export const antidoteConfigSchema = z.object({
      * configs are byte-for-byte unchanged; the director sets it on new plans.
      */
     multiplane: z.boolean().optional(),
+    /** RETENTION HUD (4.2). Minimal top safe-zone progress track & insight badges. */
+    hud: metaHudSchema.optional(),
   }),
   scenes: z.array(sceneSchema),
   captions: z.array(captionSchema).default([]),
 });
 export type AntidoteConfig = z.infer<typeof antidoteConfigSchema>;
 
-export const antidoteBookSchema = z.object({ config: antidoteConfigSchema });
+export const antidoteBookSchema = z.object({ config: z.any() });

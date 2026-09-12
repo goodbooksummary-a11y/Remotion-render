@@ -41,17 +41,19 @@ function polyline(pts: [number, number][]): Stroke {
 function loopPath(w: number, h: number, seed: number): Stroke {
   const cx = w / 2;
   const cy = h / 2;
-  const a = w / 2 - 4;
-  const b = h / 2 - 4;
+  const a = Math.max(10, w / 2 - 8);
+  const b = Math.max(10, h / 2 - 8);
   const start = -0.35 + wob(seed, 1) * 0.3;
   const sweep = Math.PI * 2 + 0.42 + wob(seed, 2) * 0.25; // overshoot past the start
   const N = 56;
-  const tilt = wob(seed, 3) * 0.07; // the loop is never drawn perfectly upright
+  // Scale down tilt when aspect ratio is wide so vertical deflection doesn't cut into text
+  const maxTilt = Math.min(0.035, 0.12 * (h / w));
+  const tilt = wob(seed, 3) * maxTilt;
   const pts: [number, number][] = [];
   for (let i = 0; i <= N; i++) {
     const t = start + (i / N) * sweep;
     // radius wobble grows slightly along the stroke, like pressure easing off
-    const r = 1 + wob(seed, i) * 0.035 + (i / N) * 0.02;
+    const r = 1 + wob(seed, i) * 0.03 + (i / N) * 0.015;
     const x = Math.cos(t) * a * r;
     const y = Math.sin(t) * b * r;
     pts.push([cx + x * Math.cos(tilt) - y * Math.sin(tilt), cy + x * Math.sin(tilt) + y * Math.cos(tilt)]);
@@ -208,22 +210,105 @@ export function annotationFor(beatId: string, allowed: AnnotationKind[] = ["circ
 }
 
 /**
+ * Accurately estimates rendered bounding box of text wrapped by KineticWords.
+ * Handles uppercase Arial Black character advances, word spacing, and line wrapping.
+ */
+function measureWordWidth(word: string, fontSize: number): number {
+  let w = 0;
+  for (const ch of word.toUpperCase()) {
+    if ("I".includes(ch)) w += 0.36 * fontSize;
+    else if ("1!.,':;".includes(ch)) w += 0.32 * fontSize;
+    else if ("JLT-".includes(ch)) w += 0.58 * fontSize;
+    else if ("EFPSZB".includes(ch)) w += 0.66 * fontSize;
+    else if ("MW".includes(ch)) w += 0.92 * fontSize;
+    else if ("ACDGHKNOQRUVXY".includes(ch)) w += 0.74 * fontSize;
+    else w += 0.70 * fontSize;
+  }
+  return w;
+}
+
+export function estimateTextBounds(text: string, fontSize: number, maxWidth = 1400): {
+  width: number;
+  height: number;
+  linesCount: number;
+} {
+  const words = text.trim().split(/\s+/).filter(Boolean);
+  if (!words.length) return { width: 140, height: fontSize, linesCount: 1 };
+
+  const wordGap = fontSize * 0.28;
+  const lineH = fontSize * 0.98;
+  const rowGap = fontSize * 0.10;
+
+  const lines: number[] = [];
+  let curLineW = 0;
+  let wordsInLine = 0;
+
+  for (const w of words) {
+    const ww = measureWordWidth(w, fontSize);
+    const addedW = wordsInLine === 0 ? ww : curLineW + wordGap + ww;
+    if (wordsInLine > 0 && addedW > maxWidth) {
+      lines.push(curLineW);
+      curLineW = ww;
+      wordsInLine = 1;
+    } else {
+      curLineW = addedW;
+      wordsInLine++;
+    }
+  }
+  if (wordsInLine > 0) {
+    lines.push(curLineW);
+  }
+
+  const linesCount = Math.max(1, lines.length);
+  const contentWidth = Math.max(...lines);
+  const contentHeight = linesCount * lineH + (linesCount - 1) * rowGap;
+
+  return {
+    width: Math.max(120, contentWidth),
+    height: Math.max(fontSize * 0.9, contentHeight),
+    linesCount,
+  };
+}
+
+/**
  * Annotated — throws a hand-drawn marker stroke around whatever it wraps.
- *
- * The stroke needs a pixel box and text cannot be measured in Remotion, so the
- * box is estimated from the glyph count. A marker loop is deliberately loose
- * around its subject, so an estimate is not just tolerable here — a stroke that
- * hugged the letters exactly would look machine-drawn, which is the opposite of
- * the point.
+ * Sized dynamically to fit single-word, multi-word, or multi-line text without clipping.
  */
 export const Annotated: React.FC<{
-  text: string; size: number; kind: "circle" | "box" | "strike" | "arrow"; seed: number; startFrame: number; children: React.ReactNode;
-}> = ({ text, size, kind, seed, startFrame, children }) => {
-  // 0.66em average advance for uppercase Arial Black; the loop sits just wide
-  // of the glyphs. Height is kept TIGHT on purpose — a taller loop is rounder
-  // but slices through the stacked line above it and reads as a bug, not a mark.
-  const w = Math.max(140, text.replace(/\s+/g, " ").trim().length * size * 0.66) + 44;
-  const h = size * 1.02 + 14;
+  text: string;
+  size: number;
+  kind: "circle" | "box" | "strike" | "arrow";
+  seed: number;
+  startFrame: number;
+  maxWidth?: number;
+  children: React.ReactNode;
+}> = ({ text, size, kind, seed, startFrame, maxWidth, children }) => {
+  const bounds = estimateTextBounds(text, size, maxWidth ?? (text.includes(" ") ? 1400 : 9999));
+  const isMultiLine = bounds.linesCount > 1;
+
+  let w: number;
+  let h: number;
+
+  if (kind === "circle") {
+    if (!isMultiLine) {
+      // Single line (e.g. single punch word or tight short phrase):
+      w = bounds.width + Math.max(48, size * 0.45);
+      h = bounds.height + Math.max(28, size * 0.35);
+    } else {
+      // Multi-line text (e.g. "ULTIMATE NIGHTMARE / SCENARIO"):
+      // Needs radial clearance to guarantee all 4 corners lie safely inside the ellipse.
+      w = bounds.width * 1.20 + Math.max(50, size * 0.5);
+      h = bounds.height * 1.30 + Math.max(30, size * 0.35);
+    }
+  } else if (kind === "box") {
+    w = bounds.width + Math.max(40, size * 0.45);
+    h = bounds.height + Math.max(26, size * 0.30);
+  } else {
+    // strike or arrow
+    w = bounds.width + 30;
+    h = bounds.height;
+  }
+
   return (
     <div style={{ position: "relative", display: "inline-flex", alignItems: "center", justifyContent: "center" }}>
       {children}

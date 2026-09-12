@@ -1,8 +1,10 @@
 import React from "react";
-import type { BodyPlan, HandProp, VariantSpec } from "../schema";
+import { useCurrentFrame, useVideoConfig } from "remotion";
+import type { BodyPlan, CharEmotion, HandProp, VariantSpec } from "../schema";
 import type { Pose } from "../movements";
 import { HeldProp } from "../handprops";
 import { Accessory, BackHair, Beard, darken, FrontHair, Headwear, HeadwearBack, Torso } from "../wardrobe";
+import { EmotionOverlay } from "./Emotions";
 
 /**
  * Everyman — a flat-vector, rigged, PARAMETRIC character in the Antidote style.
@@ -141,7 +143,13 @@ export const Everyman: React.FC<{
   holds?: HandProp;
   /** Accent for the held glyph; defaults to the character's shirt color. */
   accent?: string;
-}> = ({ variant, pose, width = 400, body = "bust", holds, accent }) => {
+  /** Micro-reaction emotion overlay above the head */
+  emotion?: CharEmotion;
+  /** Frame when the emotion appears (defaults to 8) */
+  emotionAt?: number;
+}> = ({ variant, pose, width = 400, body = "bust", holds, accent, emotion, emotionAt }) => {
+  const frame = useCurrentFrame();
+  const { fps } = useVideoConfig();
   const { skin, hair, suit, shirt, expression, hairStyle, glasses, beard, gender, age, outfit } = variant;
   const full = body === "full";
   const boxH = full ? 900 : 600;
@@ -219,8 +227,11 @@ export const Everyman: React.FC<{
             <Arm side={-1} shoulderX={96} shoulder={pose.armL} elbow={pose.elbowL ?? 0} suit={suit} skin={skin} />
             <Arm side={1} shoulderX={304} shoulder={armRot} elbow={elbowRot} suit={suit} skin={skin} />
 
-            <Torso outfit={outfit} suit={suit} shirt={shirt} full={full} />
-            <Accessory style={variant.accessory ?? "none"} color={trim} skin={skin} />
+            {/* Organic breathing chest expansion */}
+            <g transform={`translate(200 360) scale(1 ${1 + Math.sin((frame / 48) * Math.PI * 2) * 0.008}) translate(-200 -360)`}>
+              <Torso outfit={outfit} suit={suit} shirt={shirt} full={full} />
+              <Accessory style={variant.accessory ?? "none"} color={trim} skin={skin} />
+            </g>
 
             {/* Held prop — drawn AFTER the torso so it reads as being in front of
                 the body, but transformed by the same shoulder+elbow chain as the
@@ -274,11 +285,13 @@ export const Everyman: React.FC<{
               <line x1={250} y1={f.browOuter} x2={214} y2={f.browInner} />
             </g>
 
-            {/* eyes — blink squashes the whites; gaze offsets the pupils */}
+            {/* eyes — blink squashes the whites; 2D gaze offsets pupils + living catchlights */}
             {(() => {
               const blinkRy = eyeRy * (1 - pose.blink * 0.92); // nearly shut at blink=1
-              const pupilDx = (pose.gazeX ?? 0) * 6; // ±6px max offset
-              const pupilDy = Math.abs(pose.gazeX ?? 0) * 1.2; // pupils drop slightly at extremes
+              const rawDx = (pose.gazeX ?? 0) * 6.5; // ±6.5px max offset
+              const rawDy = (pose.gazeY ?? 0) * 4.5 + Math.abs(pose.gazeX ?? 0) * 0.8;
+              const pupilDx = clamp(rawDx, -7.5, 7.5);
+              const pupilDy = clamp(rawDy, -5.5, 5.5);
               // Eyelid: a skin-colored arc that covers the top of the eye during blinks
               const lidDrop = pose.blink * (eyeRy * 0.85);
               return (
@@ -289,6 +302,9 @@ export const Everyman: React.FC<{
                     <>
                       <circle cx={170 + pupilDx} cy={134 + pupilDy} r={7} fill="#26241F" />
                       <circle cx={234 + pupilDx} cy={134 + pupilDy} r={7} fill="#26241F" />
+                      {/* Living eye catchlight reflections */}
+                      <circle cx={170 + pupilDx + 2} cy={134 + pupilDy - 2} r={1.8} fill="#FFFFFF" opacity={0.88} />
+                      <circle cx={234 + pupilDx + 2} cy={134 + pupilDy - 2} r={1.8} fill="#FFFFFF" opacity={0.88} />
                     </>
                   )}
                   {pose.blink > 0.05 && (
@@ -334,6 +350,9 @@ export const Everyman: React.FC<{
 
             {/* headwear sits over hair and face alike — it IS the outline */}
             <Headwear style={variant.headwear ?? "none"} color={trim} accent={shirt} />
+
+            {/* Over-the-head reactive emotion micro-animation */}
+            <EmotionOverlay emotion={emotion} at={emotionAt} frame={frame} fps={fps} />
            </g>
           </g>
 

@@ -7,7 +7,7 @@ Use --candidates=3 to generate 3 options and auto-pick the sharpest.
 
 Usage: python scripts/gen-thumbnail.py books/<slug>/youtube-meta.json [--candidates=N]
 """
-import requests, base64, os, sys, time, json, hashlib
+import requests, base64, os, sys, time, json, hashlib, re
 
 ROOT = os.path.join(os.path.dirname(__file__), "..")
 try:
@@ -21,15 +21,17 @@ if not API_KEY:
     print("ERROR: NVIDIA_API_KEY not found"); sys.exit(1)
 INVOKE_URL = "https://ai.api.nvidia.com/v1/genai/black-forest-labs/flux.2-klein-4b"
 
-# ── DIVERSE PROMPT STYLES ────────────────────────────────────────────────────
-# Rotated per slug hash so two adjacent books never share the same photographic feel.
+# Flux is bad at rendering text — suppress it in every prompt so Remotion handles all text.
+NO_TEXT_SUFFIX = ", no text, no words, no letters, no writing, no typography, no labels, no captions, no titles"
+
+# ── DIVERSE PROMPT STYLES FOR HIGH-CTR YOUTUBE ─────────────────────────────
+# Engineered for YouTube browse feed (high contrast, rim lighting, 16:9 composition)
 FLUX_STYLES = [
-    "cinematic studio portrait, professional lighting, medium close-up, vivid colors, sharp focus, poster quality",
-    "vintage 70mm film still, warm grain, golden hour, Kodak Portra tones, shallow depth of field",
-    "stark editorial photograph, high contrast, desaturated background, single strong key light",
-    "dramatic chiaroscuro, Rembrandt lighting, deep blacks, painterly quality, museum portrait",
-    "bright commercial portrait, clean solid-color background, pop of accent color, lifestyle feel",
-    "cold blue moonlit scene, moody atmosphere, muted tones, cinematic anamorphic bokeh",
+    "cinematic film still, 35mm photography, dramatic side key lighting, deep shadow on left side, intense rim lighting on subject, photorealistic, sharp focus, 8k",
+    "moody dark cinematic portrait, high contrast Chiaroscuro, deep blacks, striking intense eye contact, vivid rim light, shallow depth of field, anamorphic lens",
+    "stark high-contrast documentary still, rich saturated color accents, single powerful dramatic spotlight, dark negative space on left, award-winning cinematography",
+    "dramatic film noir lighting, golden hour rim backlight, deep moody atmospheric background, sharp micro-contrast, cinematic poster quality",
+    "intense cinematic close-up, dramatic split lighting, volumetric fog, vivid accent glow, photorealistic textures, 8k masterpiece",
 ]
 
 def slug_hash(s):
@@ -57,10 +59,8 @@ if not meta_path:
 with open(os.path.join(ROOT, meta_path), "r", encoding="utf-8") as f:
     meta = json.load(f)
 
-thumb = meta["thumbnail"]
-subject = thumb["subject"]
-img_rel = thumb["image"]
-cut_rel = thumb.get("cut")
+thumb = meta.get("thumbnail") or {}
+subject = thumb.get("subject")
 
 # Extract slug from path for style rotation
 slug = meta_path.split("/")[-1].replace("youtube-meta.", "").replace(".json", "")
@@ -69,36 +69,82 @@ if "slug" in meta:
 elif "slug" in thumb:
     slug = thumb["slug"]
 
+# Ensure valid subject fallback if missing
+if not subject:
+    title_str = meta.get("title") or slug.replace("-", " ").title()
+    subject = f"dramatic cinematic scene representing '{title_str}', intense emotional character"
+
+# Normalise image path (ensure it is under scenes/<slug>/)
+img_rel = thumb.get("image")
+if not img_rel or img_rel.startswith("out/"):
+    img_rel = f"scenes/{slug}/thumbnail-hero.png"
+    thumb["image"] = img_rel
+
+cut_rel = thumb.get("cut")
+
 style = thumb.get("fluxStyle") or pick_style(slug)
 print(f"  slug: {slug}")
 print(f"  style: {style}")
 print(f"  subject: {subject}")
 
-# Build prompt WITHOUT the old hardcoded suffix — style rotates per book.
-# The subject from plan-meta already contains the specific person/object/scene.
-prompt = f"{subject}. {style}, eye-catching, no text, no watermark, no letters, 8k"
+FILTER_REPLACEMENTS = [
+    (r"\bhotel lounge\b", "grand estate library"),
+    (r"\blounge\b", "grand interior hall"),
+    (r"\bboudoir\b", "private study"),
+    (r"\bbedroom\b", "study room"),
+    (r"\bbed\b", "interior"),
+    (r"\bnaked\b", ""),
+    (r"\bnude\b", ""),
+    (r"\bblood\b", "shadows"),
+    (r"\bkill\b", "confront"),
+]
+
+def sanitize_subject(text):
+    out = text
+    for pattern, repl in FILTER_REPLACEMENTS:
+        out = re.sub(pattern, repl, out, flags=re.IGNORECASE)
+    return out.strip()
+
+# 16:9 widescreen composition: subject on right side / center-right, negative space / deep shadow on left for typography
+sanitized_subj = sanitize_subject(subject)
+prompt = f"{sanitized_subj}, cinematic wide shot, subject framed on right side with dark atmospheric negative space on left side. {style}, eye-catching YouTube thumbnail composition, no watermark, 8k" + NO_TEXT_SUFFIX
 print(f"  prompt: {prompt[:120]}...")
 
 def gen(rel, prompt, tag="hero"):
     out = os.path.join(ROOT, "public", rel)
     os.makedirs(os.path.dirname(out), exist_ok=True)
-    payload = {"prompt": prompt, "width": 1024, "height": 1024, "steps": 4}
+    current_prompt = prompt
     headers = {"Authorization": f"Bearer {API_KEY}", "Accept": "application/json"}
     for attempt in range(1, 5):
         try:
             print(f"[{tag}] attempt {attempt}", flush=True)
+            payload = {"prompt": current_prompt, "width": 1344, "height": 768, "steps": 4}
             r = requests.post(INVOKE_URL, headers=headers, json=payload, timeout=120)
             if r.status_code == 200:
                 arts = r.json().get("artifacts") or []
-                b64 = arts[0].get("base64") if arts else None
-                if b64:
-                    with open(out, "wb") as fh:
-                        fh.write(base64.b64decode(b64))
-                    print(f"  [OK] {rel} ({os.path.getsize(out)/1024:.0f} KB)"); return True
+                if arts:
+                    finish = arts[0].get("finishReason")
+                    if finish == "CONTENT_FILTERED":
+                        print(f"  [FILTERED] prompt hit safety filter on attempt {attempt}, falling back...")
+                        if attempt == 1:
+                            clean_subj = sanitize_subject(subject.split(",")[0].replace("flat-vector", "").strip())
+                            current_prompt = f"dramatic cinematic shot of {clean_subj}, framed on right side with dark moody negative space on left, 35mm film photography, high contrast lighting, photorealistic, 8k" + NO_TEXT_SUFFIX
+                        elif attempt == 2:
+                            title_clean = meta.get("title") or slug.replace("-", " ").title()
+                            current_prompt = f"dramatic cinematic atmosphere inspired by {title_clean}, wide shot, chiaroscuro lighting, deep shadows on left side, 35mm film still, 8k" + NO_TEXT_SUFFIX
+                        else:
+                            current_prompt = "dramatic vintage cinematic book scene, atmospheric rim lighting, deep shadows, 35mm photography, 8k" + NO_TEXT_SUFFIX
+                        time.sleep(2)
+                        continue
+                    b64 = arts[0].get("base64")
+                    if b64:
+                        with open(out, "wb") as fh:
+                            fh.write(base64.b64decode(b64))
+                        print(f"  [OK] {rel} ({os.path.getsize(out)/1024:.0f} KB)"); return True
             print(f"  [ERR] HTTP {r.status_code}: {r.text[:140]}")
         except Exception as e:
             print(f"  [ERR] {e}")
-        time.sleep(8 * attempt)
+        time.sleep(4 * attempt)
     return False
 
 def image_sharpness(path):
@@ -167,5 +213,11 @@ if cut_rel:
         print(f"  [OK] cutout {cut_rel} ({out.width}x{out.height})")
     except Exception as e:
         print(f"  [WARN] cutout failed ({e}); thumbnail will use the full hero image.")
+
+try:
+    with open(os.path.join(ROOT, meta_path), "w", encoding="utf-8") as f:
+        json.dump(meta, f, indent=2)
+except Exception:
+    pass
 
 print("DONE")

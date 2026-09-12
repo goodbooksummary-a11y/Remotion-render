@@ -3,6 +3,7 @@ import { AbsoluteFill, Audio, Sequence, staticFile } from "remotion";
 import { Scene } from "./components/Scene";
 import { CaptionLayer } from "./components/CaptionLayer";
 import { AudioEngine } from "./components/AudioEngine";
+import { RetentionHUD } from "./components/RetentionHUD";
 import { antidoteBookSchema, DEFAULT_TRANSITION, type AntidoteConfig } from "./schema";
 
 export { antidoteBookSchema };
@@ -43,6 +44,8 @@ export const AntidoteBook: React.FC<{ config: AntidoteConfig }> = ({ config }) =
       })}
       {/* Subtitles sit above every scene, on the absolute timeline, in the reserved bottom band. */}
       <CaptionLayer captions={config.captions} />
+      {/* Top safe-zone retention HUD: timeline progress & insight trackers */}
+      {config.meta.hud?.enabled !== false && <RetentionHUD config={config} />}
       {/* Frame-accurate sound design (transitions, ticks, chapter hits) */}
       <AudioEngine config={config} />
     </AbsoluteFill>

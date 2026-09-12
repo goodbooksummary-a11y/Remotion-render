@@ -21,6 +21,9 @@ if not API_KEY:
 
 INVOKE_URL = "https://ai.api.nvidia.com/v1/genai/black-forest-labs/flux.2-klein-4b"
 
+# Flux is bad at rendering text — suppress it in every prompt so Remotion handles all text.
+NO_TEXT_SUFFIX = ", no text, no words, no letters, no writing, no typography, no labels, no captions, no titles"
+
 cfg_path = sys.argv[1] if len(sys.argv) > 1 else "vox-config.single-dad-dilemma.json"
 with open(os.path.join(ROOT, cfg_path), "r", encoding="utf-8") as f:
     cfg = json.load(f)
@@ -33,7 +36,7 @@ def gen(rel_path, prompt):
     os.makedirs(os.path.dirname(out), exist_ok=True)
     if os.path.exists(out) and os.path.getsize(out) > 10000:
         print(f"  [SKIP] {rel_path}"); return True
-    payload = {"prompt": prompt, "width": 1024, "height": 1024, "steps": 4}
+    payload = {"prompt": prompt + NO_TEXT_SUFFIX, "width": 1024, "height": 1024, "steps": 4}
     headers = {"Authorization": f"Bearer {API_KEY}", "Accept": "application/json"}
     for attempt in range(1, 4):
         try:

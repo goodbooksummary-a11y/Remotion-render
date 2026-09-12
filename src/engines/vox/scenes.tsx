@@ -7,6 +7,17 @@ import { Scene, KineticWords, MarkerUnderline, KickerChip, Cutout, HalftoneCard,
 import { Annotated, annotationFor } from "./annotations";
 import { QuestionScene, TimelineScene, PlaceScene, DuoScene, RevealScene } from "./scenes-narrative";
 import { DocumentScene, MapScene, DataVizScene, NetworkScene, TrendlineScene, FlowScene } from "./scenes-journalism";
+import {
+  MarkerHighlight,
+  StrikethroughReplace,
+  RollingNumber,
+  ScribbleCircle,
+  InkUnderline,
+  CheckList,
+  Polaroid,
+  PaperSticker,
+  AnimatedLineChart,
+} from "../../components/remocn";
 
 const TitleScene: React.FC<{ beat: Beat }> = ({ beat }) => {
   const { title, author, kicker } = beat.props;
@@ -26,23 +37,6 @@ const TitleScene: React.FC<{ beat: Beat }> = ({ beat }) => {
   );
 };
 
-/**
- * HighlightChip — the red slab behind a hot statement word. It wipes open from
- * the left on the word's own anchor frame so the box and the text arrive
- * together (see beatAnchors).
- */
-const HighlightChip: React.FC<{ startFrame: number; children: React.ReactNode }> = ({ startFrame, children }) => {
-  const frame = useCurrentFrame();
-  const p = interpolate(frame, [startFrame, startFrame + 9], [0, 1], {
-    extrapolateLeft: "clamp", extrapolateRight: "clamp",
-  });
-  return (
-    <div style={{ position: "relative", padding: "4px 22px", transform: "rotate(-1.5deg)" }}>
-      <div aria-hidden style={{ position: "absolute", inset: 0, background: RED, boxShadow: `10px 10px 0 ${INK}`, transformOrigin: "left center", transform: `scaleX(${p})` }} />
-      <div style={{ position: "relative" }}>{children}</div>
-    </div>
-  );
-};
 
 const StatementScene: React.FC<{ beat: Beat }> = ({ beat }) => {
   const words = (beat.props.emphasis.length ? beat.props.emphasis : beat.props.keywords.map((k) => k.toUpperCase())).slice(0, 3);
@@ -91,12 +85,16 @@ const StatementScene: React.FC<{ beat: Beat }> = ({ beat }) => {
           <KickerChip text={beat.props.kicker || ""} startFrame={2} align="center" />
           {words.map((w, i) =>
             i === hot ? (
-              // The chip is painted with its word, not before it: once reveals
-              // are word-anchored a statically-mounted box would sit on screen
-              // empty for seconds before its text arrives.
-              <HighlightChip key={i} startFrame={at[i]}>
-                <KineticWords text={w} startFrame={at[i]} perWord={3} fontSize={size * 0.96} color={PAPER} />
-              </HighlightChip>
+              <div key={i} style={{ marginTop: 4, marginBottom: 4 }}>
+                <MarkerHighlight
+                  highlight={w}
+                  markerColor={RED}
+                  baseColor={INK}
+                  highlightedTextColor={PAPER}
+                  fontSize={size * 0.94}
+                  fontWeight={900}
+                />
+              </div>
             ) : (
               <KineticWords key={i} text={w} startFrame={at[i]} perWord={3} fontSize={size} color={INK} />
             ),
@@ -167,22 +165,52 @@ const QuoteScene: React.FC<{ beat: Beat }> = ({ beat }) => {
       <div style={{ display: "flex", flexDirection: "column", alignItems: "center", gap: 14, maxWidth: 1300 }}>
         <div style={{ fontFamily: SERIF, fontSize: 220, color: RED, lineHeight: 0.4, height: 92 }}>&quot;</div>
         <KineticWords text={phrase} startFrame={at[0]} perWord={5} fontSize={92} fontFamily={SERIF} weight={700} italic uppercase={false} color={INK} />
-        <MarkerUnderline startFrame={at[0] + 22} width={360} height={12} />
+        <div style={{ marginTop: 8 }}>
+          <InkUnderline width={Math.min(960, Math.max(380, phrase.length * 24))} thickness={12} color={RED} delay={at[0] + 16} />
+        </div>
       </div>
     </Scene>
   );
 };
 
 const StatScene: React.FC<{ beat: Beat }> = ({ beat }) => {
-  const m = beat.props.text.match(/\$?\d[\d,\.]*\s?(%|percent|million|billion|trillion|k)?/i);
+  const m = beat.props.text.match(/\$?\d[\d,\.]*\s?(%|percent|million|billion|trillion|k|x)?/i);
   const num = m ? m[0].trim() : beat.props.emphasis[0] || "";
   const label = beat.props.emphasis.filter((e) => !/\d/.test(e)).slice(0, 2).join(" ") || beat.props.keywords[0]?.toUpperCase() || "";
   const at = beatAnchors(beat, 2, 4, 22);
+
+  // Check if num is a simple integer/stat (e.g. 85%, 37x, $100)
+  const cleanMatch = num.match(/^(\$)?(\d+)(%|x|k)?$/i);
+  const parsedInt = cleanMatch ? parseInt(cleanMatch[2], 10) : null;
+
   return (
     <Scene beat={beat}>
-      <div style={{ display: "flex", flexDirection: "column", alignItems: "center", gap: 10 }}>
-        <KineticWords text={num} startFrame={at[0]} perWord={2} fontSize={230} color={RED} uppercase={false} />
-        <MarkerUnderline startFrame={at[0] + 16} width={520} height={20} />
+      <div style={{ display: "flex", flexDirection: "column", alignItems: "center", gap: 14 }}>
+        {parsedInt !== null && parsedInt <= 9999 ? (
+          <div style={{ display: "flex", alignItems: "center", justifyContent: "center", minHeight: 220, position: "relative" }}>
+            <ScribbleCircle
+              width={340}
+              height={190}
+              color={RED}
+              strokeWidth={14}
+              delay={at[0] + 8}
+            >
+              <RollingNumber
+                from={0}
+                to={parsedInt}
+                prefix={cleanMatch![1] ?? ""}
+                suffix={cleanMatch![3] ?? ""}
+                fontSize={160}
+                color={RED}
+              />
+            </ScribbleCircle>
+          </div>
+        ) : (
+          <>
+            <KineticWords text={num} startFrame={at[0]} perWord={2} fontSize={230} color={RED} uppercase={false} />
+            <MarkerUnderline startFrame={at[0] + 16} width={520} height={20} />
+          </>
+        )}
         <KineticWords text={label} startFrame={at[1]} perWord={3} fontSize={52} color={INK} />
       </div>
     </Scene>
@@ -201,8 +229,8 @@ const ImageFocusScene: React.FC<{ beat: Beat }> = ({ beat }) => {
   const at = beatAnchors(beat, 3, 16, 18);
   const late = Math.max(at[2], at[1] + 16);
   const ann = annotationFor(beat.id, ["circle", "box"]);
-  const mark = (node: React.ReactNode, size: number) =>
-    ann ? <Annotated text={label} size={size} kind={ann.kind} seed={ann.seed} startFrame={late}>{node}</Annotated> : node;
+  const mark = (node: React.ReactNode, size: number, maxWidth?: number) =>
+    ann ? <Annotated text={label} size={size} maxWidth={maxWidth} kind={ann.kind} seed={ann.seed} startFrame={late}>{node}</Annotated> : node;
 
   if (variant === 1) {
     return (
@@ -218,7 +246,7 @@ const ImageFocusScene: React.FC<{ beat: Beat }> = ({ beat }) => {
       >
         <div style={{ display: "flex", flexDirection: "column", gap: 16, alignItems: "flex-start", width: "100%", maxWidth: 1400 }}>
           <KickerChip text={beat.props.kicker || ""} startFrame={10} />
-          {mark(<KineticWords text={label} startFrame={at[0]} perWord={4} fontSize={110} align="left" maxWidth={1100} color={PAPER} />, 110)}
+          {mark(<KineticWords text={label} startFrame={at[0]} perWord={4} fontSize={110} align="left" maxWidth={1100} color={PAPER} />, 110, 1100)}
           <MarkerUnderline startFrame={at[1]} width={360} height={16} />
         </div>
       </Scene>
@@ -229,7 +257,7 @@ const ImageFocusScene: React.FC<{ beat: Beat }> = ({ beat }) => {
     return (
       <Scene beat={beat} accent>
         <div style={{ display: "flex", flexDirection: "column", alignItems: "center", gap: 12, zIndex: 12 }}>
-          {mark(<KineticWords text={label} startFrame={at[0]} perWord={3} fontSize={92} color={INK} />, 92)}
+          {mark(<KineticWords text={label} startFrame={at[0]} perWord={3} fontSize={92} color={INK} />, 92, 1500)}
           {cut ? <Cutout asset={cut} startFrame={4} height={560} /> : <HalftoneCard asset={img!.path} keyword={beat.props.keywords[0]?.toUpperCase()} startFrame={4} width={780} height={460} />}
         </div>
       </Scene>
@@ -245,7 +273,7 @@ const ImageFocusScene: React.FC<{ beat: Beat }> = ({ beat }) => {
   const text = (
     <div style={{ display: "flex", flexDirection: "column", gap: 14, maxWidth: 560, paddingBottom: 20 }}>
       <KickerChip text={beat.props.kicker || ""} startFrame={12} />
-      {mark(<KineticWords text={label} startFrame={at[0]} perWord={4} fontSize={86} align="left" maxWidth={560} />, 86)}
+      {mark(<KineticWords text={label} startFrame={at[0]} perWord={4} fontSize={86} align="left" maxWidth={560} />, 86, 560)}
       <MarkerUnderline startFrame={at[1]} width={320} height={16} />
     </div>
   );
@@ -264,6 +292,27 @@ const CompareScene: React.FC<{ beat: Beat }> = ({ beat }) => {
   const [la, lb] = beat.props.compareLabels || beat.props.emphasis;
   const a = beat.images[0];
   const b = beat.images[1];
+
+  // If there are no images, render StrikethroughReplace for an impactful conceptual paradigm shift!
+  if (!a && !b && la && lb) {
+    return (
+      <Scene beat={beat} accent={false}>
+        <div style={{ display: "flex", flexDirection: "column", alignItems: "center", justifyContent: "center", gap: 24, zIndex: 12 }}>
+          <KickerChip text={beat.props.kicker || "PARADIGM SHIFT"} startFrame={2} />
+          <StrikethroughReplace
+            from={la}
+            to={lb}
+            lineColor={RED}
+            color="rgba(30,42,36,0.45)"
+            toColor={INK}
+            fontSize={68}
+            fontWeight={900}
+          />
+        </div>
+      </Scene>
+    );
+  }
+
   const vs = interpolate(frame, [36, 54], [0, 1], { extrapolateLeft: "clamp", extrapolateRight: "clamp" });
   const side = (img: VImage | undefined, sideLabel: string | undefined, sf = 4, tint = RED) => (
     <div style={{ display: "flex", flexDirection: "column", alignItems: "center", gap: 14 }}>
@@ -298,6 +347,88 @@ const PunchlineScene: React.FC<{ beat: Beat }> = ({ beat }) => {
   );
 };
 
+const ChecklistScene: React.FC<{ beat: Beat }> = ({ beat }) => {
+  const rawItems = beat.props.checklistItems || beat.props.items || beat.props.emphasis;
+  const items = (rawItems.length ? rawItems : ["THE HABIT LOOP", "CUE AND CRAVING", "THE RESPONSE", "THE REWARD"]).slice(0, 4);
+  const at = beatAnchors(beat, 1, 4, 0);
+  return (
+    <Scene beat={beat}>
+      <div style={{ display: "flex", flexDirection: "column", alignItems: "flex-start", gap: 20, maxWidth: 1100 }}>
+        <KickerChip text={beat.props.kicker || "KEY ACTION STEPS"} startFrame={2} />
+        <CheckList
+          items={items.map((it) => (typeof it === "string" ? { text: it, checked: true } : it))}
+          width={980}
+          fontSize={44}
+          color={INK}
+          boxColor={INK}
+          tickColor={RED}
+          delay={at[0]}
+        />
+      </div>
+    </Scene>
+  );
+};
+
+const PolaroidScene: React.FC<{ beat: Beat }> = ({ beat }) => {
+  const img = beat.images[0];
+  const caption = beat.props.polaroidCaption || beat.props.emphasis.join(" ") || beat.props.keywords[0]?.toUpperCase() || "";
+  const at = beatAnchors(beat, 2, 6, 18);
+  return (
+    <Scene beat={beat}>
+      <div style={{ display: "flex", alignItems: "center", justifyContent: "center", position: "relative" }}>
+        {beat.props.kicker ? (
+          <div style={{ position: "absolute", top: -20, right: -40, zIndex: 20 }}>
+            <PaperSticker at={at[0] + 6} background={RED} borderColor={INK}>
+              <span style={{ color: PAPER, fontWeight: 800, fontSize: 20, letterSpacing: "0.08em", textTransform: "uppercase" }}>
+                {beat.props.kicker}
+              </span>
+            </PaperSticker>
+          </div>
+        ) : null}
+        <Polaroid
+          width={640}
+          caption={caption}
+          captionAt={at[1]}
+          frameColor="#FAF8F5"
+          captionColor={INK}
+          captionSize={34}
+        >
+          {img ? (
+            <BackdropImg asset={img.path} />
+          ) : (
+            <div style={{ width: "100%", height: "100%", background: "#222", display: "flex", alignItems: "center", justifyContent: "center" }}>
+              <span style={{ color: "#fff", fontSize: 28, fontWeight: 700 }}>{caption}</span>
+            </div>
+          )}
+        </Polaroid>
+      </div>
+    </Scene>
+  );
+};
+
+const ChartScene: React.FC<{ beat: Beat }> = ({ beat }) => {
+  const data = beat.props.chartData || [1, 2, 4, 8, 16, 32, 65, 120];
+  const labels = beat.props.chartLabels || ["START", "DAY 30", "DAY 90", "DAY 180", "1 YEAR"];
+  return (
+    <Scene beat={beat}>
+      <div style={{ display: "flex", flexDirection: "column", alignItems: "center", gap: 12 }}>
+        <KickerChip text={beat.props.kicker || "THE TRAJECTORY"} startFrame={2} />
+        <AnimatedLineChart
+          data={data}
+          labels={labels}
+          title={beat.props.chartTitle || beat.props.emphasis.slice(0, 3).join(" ")}
+          subtitle={beat.props.chartSubtitle}
+          width={1080}
+          height={520}
+          strokeColor={RED}
+          textColor={INK}
+          gridColor="rgba(30,42,36,0.14)"
+        />
+      </div>
+    </Scene>
+  );
+};
+
 export const SCENES: Record<string, React.FC<{ beat: Beat }>> = {
   title: TitleScene, statement: StatementScene, list: ListScene, quote: QuoteScene,
   stat: StatScene, imagefocus: ImageFocusScene, compare: CompareScene, punchline: PunchlineScene,
@@ -307,6 +438,19 @@ export const SCENES: Record<string, React.FC<{ beat: Beat }>> = {
   // journalism & investigative archetypes — see scenes-journalism.tsx
   document: DocumentScene, map: MapScene, dataviz: DataVizScene, network: NetworkScene,
   trendline: TrendlineScene, flow: FlowScene,
+  // remocn editorial archetypes
+  checklist: ChecklistScene, polaroid: PolaroidScene, chart: ChartScene,
 };
 
-export { StatementScene, DocumentScene, MapScene, DataVizScene, NetworkScene, TrendlineScene, FlowScene };
+export {
+  StatementScene,
+  DocumentScene,
+  MapScene,
+  DataVizScene,
+  NetworkScene,
+  TrendlineScene,
+  FlowScene,
+  ChecklistScene,
+  PolaroidScene,
+  ChartScene,
+};
