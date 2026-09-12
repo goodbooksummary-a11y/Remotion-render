@@ -47862,7 +47862,7 @@
   "beats": [
     {
       "id": "beat-000",
-      "type": "coldopen",
+      "type": "imagefocus",
       "fromFrame": 0,
       "durationFrames": 422,
       "props": {
@@ -47889,7 +47889,7 @@
     },
     {
       "id": "beat-001",
-      "type": "coldopen",
+      "type": "statement",
       "fromFrame": 422,
       "durationFrames": 82,
       "props": {
@@ -47910,7 +47910,7 @@
     },
     {
       "id": "beat-002",
-      "type": "coldopen",
+      "type": "statement",
       "fromFrame": 504,
       "durationFrames": 196,
       "props": {

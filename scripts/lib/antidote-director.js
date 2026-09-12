@@ -77,6 +77,18 @@ function classify(text) {
 // with an explicit concept at art-direction time (same Claude-first split as the
 // callouts). The set is the highest-frequency concepts across the book catalog.
 const CONCEPT_LEXICON = [
+  // ── High-Retention Narrative & Metaphor Concepts (Antidote 5.1) ──────────
+  ["alarmClock", /\b(alarm|snooze|wake(s|d| up)?|waking up|asleep|sleep(ing|s)?|in bed|nightstand|morning alarm|five more minutes)\b/i],
+  ["butterfly", /\b(butterfly( effect)?|fluke|chaos( theory)?|randomness|contingency|unbroken chain)\b/i],
+  ["subway", /\b(subway|metro|train|transit|commute|platform|miss the train|railway)\b/i],
+  ["car", /\b(car|automobile|driver|motorcade|stalls? the car|vehicle|steering wheel)\b/i],
+  ["coffee", /\b(coffee|espresso|cup of|mug|cafe|breakfast|morning routine)\b/i],
+  // ── Tech, Silicon Valley & Startup Concepts (Antidote 5.0) ───────────────
+  ["codeWindow", /\b(code|coding|programmer|developer|software|python|javascript|typescript|engineer|github|algorithm|app|build(ing)? an app|bug|feature|stack|repo|database)\b/i],
+  ["rocketLaunch", /\b(launch(ed|ing)?|startup|silicon valley|take off|liftoff|mvp|prototype|y combinator|found(er|ed|ing)?|co-founder|scale|scale-up)\b/i],
+  ["funnelMetrics", /\b(funnel|conversion|leads?|prospects?|outreach|cold email|traffic|visitors?|subscribers?|opt-?in|retention rate)\b/i],
+  ["dollarExchange", /\b(customer|paying customer|ask for money|pre-?order|first dollar|sale|sell(ing)?|credit card|stripe|paypal|transaction|payment|revenue|checkout)\b/i],
+  ["laptopMockup", /\b(laptop|computer|macbook|dashboard|website|saas|platform|screen|interface|portal|landing page)\b/i],
   ["crash", /\b(car crash|crash(ed|ing)?|collision|accident|wreck(ed|age)?|smash(ed)?|totaled|head-on|pile-?up)\b/i],
   ["ledge", /\b(ledge|rooftop|\broof\b|cliff|bell tower|the edge|jump(ed|ing|s)?|leap(ed|t|ing)?|\bfell\b|falling|plunge|stories up|balcony)\b/i],
   ["water", /\b(lake|river(bed)?|ocean|\bsea\b|drown(ed|ing)?|flood|underwater|the water|blue hole|\bswim|\bwaves?\b)\b/i],
@@ -115,6 +127,20 @@ const CONCEPT_LEXICON = [
   ["iceberg", /\b(iceberg|tip of the iceberg|below the surface|hidden depths|under the water|surface level)\b/i],
   ["chains", /\b(chains|chained|freedom|escape|break free|liberation|shackles|prison|cage|unshackle)\b/i],
   ["compass", /\b(compass|true north|direction|guidance|navigation|purpose|moral compass|orient)\b/i],
+  // Hypnotic Vector Metaphors (Compounding, Depth, Focus)
+  ["dominoCascade", /\b(domino(es)?|compound(ing|ed)?|exponential|chain reaction|atomic habits?|small habits?|slight edge|ripple effect|snowball effect)\b/i],
+  ["icebergDepth", /\b(iceberg|below the surface|hidden depths?|under the water|tip of the iceberg|unseen (effort|work|sacrifice)|what people see)\b/i],
+  ["funnelTrap", /\b(funnel|prioritiz(e|ation|ing)|filter(ing)? the noise|essentialism|the one thing|ruthless(ly)?|100 distractions|noise into signal)\b/i],
+  // Vector Handprops
+  ["shield", /\b(shield|protect(ion|ed|ing)?|defense|defend|downside|guard|safe(ty)?|risk management|asymmetry)\b/i],
+  ["trophy", /\b(trophy|champion(ship)?|win(ning|ner)?|victory|mastery|prize|conquer|award)\b/i],
+  ["hourglass", /\b(hourglass|patience|urgent|urgency|deadline|clock ticking)\b/i],
+  ["sword", /\b(sword|courage|brave|warrior|slay|cut through|decisive)\b/i],
+  ["target", /\b(target|aim|bullseye|focus|the one thing|goal|objective|mission)\b/i],
+  ["magnifier", /\b(magnifi(er|ed|ying)|examine|inspect|analyze|microscope|details?|look closer)\b/i],
+  ["wallet", /\b(wallet|sav(e|ing|ings)|budget|cash|invest(ment|ing)?)\b/i],
+  ["gift", /\b(gift|give|giving|generos(ity|ous)|present|charity|reciprocity)\b/i],
+  ["zap", /\b(zap|lightning|momentum|spark|electric|momentum cascade)\b/i],
 ];
 
 function detectConcept(text) {
@@ -122,6 +148,23 @@ function detectConcept(text) {
   return null;
 }
 const SCENE_ICON_SET = new Set(CONCEPT_LEXICON.map(([c]) => c));
+// lowercase spelling -> canonical (camelCase) icon name, so an authored
+// "codewindow" / "CodeWindow" / "codeWindow" all resolve to the drawable one.
+const CONCEPT_BY_LOWER = new Map(CONCEPT_LEXICON.map(([c]) => [c.toLowerCase(), c]));
+// one warning per unknown authored concept per run, not one per scene
+const warnedConcepts = new Set();
+
+// ── CHARACTER EMOTIONS (Micro-reactions) ──────────────────────────────────
+function detectEmotion(text, cls) {
+  const t = String(text).toLowerCase();
+  if (/\b(fire|burn(ing)?|discipline|unstoppable|drive|relentless|grind|dominate|crush it|passion|momentum|energy|warrior)\b/i.test(t)) return "fire";
+  if (/\b(shock(ed|ing)?|sudden(ly)?|everything changed|blew my mind|blown away|crisis|unbelievable|astonishing|jaw drop)\b/i.test(t)) return "shock";
+  if (/\b(lightbulb|eureka|aha|idea|realized|realize|discover(ed)?|the secret|the key|insight|breakthrough|clarity)\b/i.test(t)) return "lightbulb";
+  if (/\b(mistake|trap|danger|fail(ure|ed)?|worry|stress|anxious|anxiety|threat|cost(ly)?|panic|fear|downside|stuck)\b/i.test(t) || cls === "negative") return "sweat";
+  if (/\?|\b(why|how come|what if|puzzle|wonder|paradox|mystery|curious|ask yourself)\b/i.test(t) || cls === "question") return "question";
+  if (cls === "positive") return "lightbulb";
+  return "none";
+}
 
 // ── EXPLANATORY DIAGRAM detector (4.0) ───────────────────────────────────────
 // A conservative HEURISTIC fallback. The high-quality path is Claude authoring a
@@ -169,10 +212,24 @@ const CONCEPT_SET = {
   storm: "sky", star: "sky", heart: "cafe", phone: "cafe",
   mirror: "bedroom", photo: "bedroom", key: "room",
   game: "stage", war: "horizon", ledge: "street",
+  // Tech & Silicon Valley (Antidote 5.0)
+  codeWindow: "workstation",
+  laptopMockup: "workstation",
+  rocketLaunch: "startupGarage",
+  funnelMetrics: "pitchStage",
+  dollarExchange: "pitchStage",
+  // High-Retention Narrative & Metaphor Concepts (Antidote 5.1)
+  alarmClock: "bedroom",
+  subway: "street",
+  car: "street",
+  butterfly: "horizon",
+  coffee: "kitchen",
+  hourglass: "room",
+  zap: "abstract",
 };
 // Places a figure can plausibly SIT in — the sit pose needs furniture behind it
 // or it reads as a person crouching in a void.
-const SEATED_SETS = new Set(["kitchen", "cafe", "library", "classroom", "hospital", "bedroom", "office", "room"]);
+const SEATED_SETS = new Set(["kitchen", "cafe", "library", "classroom", "hospital", "bedroom", "office", "room", "workstation", "startupGarage", "pitchStage"]);
 // Places that are outdoors and wide — where WALKING across the frame reads.
 const WALKABLE_SETS = new Set(["street", "highway", "forest", "shore", "horizon", "city", "sky"]);
 // Shots that draw the full rig (must mirror charsFull in src/engines/antidote/shots.ts).
@@ -180,14 +237,47 @@ const WALKABLE_SETS = new Set(["street", "highway", "forest", "shore", "horizon"
 const FULL_BODY_SHOTS = new Set(["wide", "crowd", "diorama", "illustration", "lowAngle", "silhouette"]);
 
 // ── CONCEPT → HAND PROP ─────────────────────────────────────────────────────
-// The motif library and the rig never touched: a beat about a letter drew a
-// 500px letter NEXT TO a person whose hands hung at their sides. When the
-// subject is something a person can hold, the person holds it.
+// When the subject is something a person can hold, the person holds it.
 const CONCEPT_HOLD = {
-  notes: "notes", phone: "phone", key: "key", photo: "photo", book: "book",
-  coin: "coin", mirror: "mirror", mask: "mask", lightbulb: "lightbulb",
-  compass: "compass", food: "cup", heart: "flower", work: "briefcase",
-  law: "letter", school: "book", medical: "notes",
+  // Direct vector handprops
+  shield: "shield",
+  trophy: "trophy",
+  hourglass: "hourglass",
+  sword: "sword",
+  target: "target",
+  magnifier: "magnifier",
+  wallet: "wallet",
+  gift: "gift",
+  zap: "zap",
+  book: "book",
+  phone: "phone",
+  // Tech & Business Handprops (5.0)
+  laptop: "laptop",
+  creditCard: "creditCard",
+  smartphone: "smartphone",
+  codeWindow: "laptop",
+  laptopMockup: "laptop",
+  dollarExchange: "creditCard",
+  // Narrative mapping. These were substitutions for glyphs that in fact exist
+  // under the concept's own name in the `handProp` enum (schema.ts) — `key` was
+  // being handed a `target`, `compass` an `hourglass` — and `food` was mapped to
+  // "coffee", which is NOT in the enum at all, so the character held nothing.
+  // Prefer the literal glyph; substitute only where the concept has none.
+  coin: "coin",
+  food: "cup",
+  notes: "notes",
+  key: "key",
+  lightbulb: "lightbulb",
+  compass: "compass",
+  game: "trophy",
+  war: "sword",
+  // Previously unreachable glyphs that the lexicon already names as concepts.
+  mask: "mask",
+  photo: "photo",
+  mirror: "mirror",
+  work: "briefcase",
+  heart: "flower",
+  home: "key",
 };
 // Shots where the cast is present AND its hands are in frame. `closeUp` is
 // deliberately absent: at that scale the hands are below the bottom edge, so a
@@ -247,14 +337,18 @@ const MONEY_MOTIFS = ["coin", "moneyRain", "barChart", "counter"];
 
 // ── backdrop sets per genre — a "location" holds for a run of beats ─────────
 const SET_MENU = {
-  money: ["office", "street", "abstract", "horizon"],
-  business: ["office", "street", "stage", "abstract"],
+  money: ["workstation", "pitchStage", "office", "street"],
+  business: ["workstation", "startupGarage", "pitchStage", "office", "serverRoom"],
+  tech: ["workstation", "serverRoom", "startupGarage", "office"],
   psychology: ["room", "abstract", "horizon", "stage"],
   philosophy: ["horizon", "sky", "abstract", "stage"],
   "self-help": ["room", "horizon", "abstract", "street"],
   default: ["abstract", "horizon", "room", "street"],
 };
-const TEXTURE_FOR = { office: "grid", street: "grain", room: "grain", stage: "rays", sky: "none", abstract: "dots", horizon: "grain", none: "grain" };
+const TEXTURE_FOR = {
+  office: "grid", street: "grain", room: "grain", stage: "rays", sky: "none", abstract: "dots", horizon: "grain", none: "grain",
+  workstation: "grid", startupGarage: "dots", serverRoom: "grid", pitchStage: "grain",
+};
 
 // ── transitions per beat class ──────────────────────────────────────────────
 const TRANS_MENU = {
@@ -303,9 +397,12 @@ function genreSets(genre) {
  * Director — stateful across the film so it can enforce anti-repeat, cooldowns
  * and pattern interrupts.
  */
-function createDirector({ palette, genre, slug }) {
+function createDirector({ palette, genre, slug, bible }) {
   const PAL = palette;
-  const sets = genreSets(genre);
+  const sets = (bible && bible.antidote && Array.isArray(bible.antidote.preferredSets) && bible.antidote.preferredSets.length > 0)
+    ? bible.antidote.preferredSets
+    : genreSets(genre);
+  const customMotifs = (bible && bible.antidote && bible.antidote.activeCustomMotifs) || {};
   const seedBase = String(slug || "antidote").split("").reduce((a, c) => a + c.charCodeAt(0), 0);
 
   const state = {
@@ -423,7 +520,10 @@ function createDirector({ palette, genre, slug }) {
 //
 // Motifs that ARE a quantity (counter/bars/ladder) animate their own value, so
 // scaling them on top would fight their own read; they stay still.
-const SELF_ANIMATING = new Set(["counter", "barChart", "stack", "ladder", "clock", "lineChart"]);
+// "lineChart" was never a propType — the drawable one is `lineGrowth`
+// (motifs.tsx REGISTRY), so the guard that stops a redundant arc on a motif that
+// already animates a quantity has been missing its most obvious member.
+const SELF_ANIMATING = new Set(["counter", "barChart", "stack", "ladder", "clock", "lineGrowth"]);
 const ARC_FOR_CLASS = {
   negative: "closein",   // the problem crowds the frame
   crowd: "grow",         // "everyone" gets bigger than you
@@ -441,17 +541,51 @@ function arcFor(cls, motif) {
 }
 
   function pickMotif(cls, shot, i, text) {
+    if (customMotifs && typeof customMotifs === "object") {
+      for (const [mKey, mDef] of Object.entries(customMotifs)) {
+        // Two landmines lived in this one line. An entry with no `title` built
+        // `\b(key|)\b`, whose empty alternative matches EVERY beat — one custom
+        // SVG on every scene of the film. And an unescaped `.` or `(` in a key
+        // or title threw and killed the whole plan run. Build the alternation
+        // from escaped, non-empty terms only.
+        const terms = [mKey, mDef && mDef.title]
+          .filter((t) => t && String(t).trim())
+          .map((t) => String(t).trim().replace(/[.*+?^${}()|[\]\\]/g, "\\$&"));
+        if (!terms.length) continue;
+        const kwPattern = new RegExp(`\\b(${terms.join("|")})\\b`, "i");
+        if (kwPattern.test(text)) {
+          return {
+            type: "customSvg",
+            customSvg: mDef,
+            scale: 1,
+            enter: "pop",
+            color: PAL.accent || PAL.red,
+            color2: PAL.ink,
+            arc: "none",
+          };
+        }
+      }
+    }
     const isMoney = /\$|\bmoney|dollars?|wealth|income|salary|cost|price|invest/i.test(text);
     let menu = isMoney ? MONEY_MOTIFS : MOTIF_MENU[cls] || MOTIF_MENU.neutral;
     menu = menu.filter((m) => m !== state.lastMotif);
-    if (!menu.length) menu = MOTIF_MENU.neutral;
+    // A `counter` renders its number at 188px. With no number in the narration
+    // it used to fall back to `value = 90` — twelve shipped scenes count up to a
+    // "90" that is spoken nowhere in the film, and ten more count up to a year.
+    // A quantity graphic must not invent a quantity, so the motif is simply not
+    // available on a beat that states no number.
+    const spokenNumber = (() => {
+      const m = String(text).match(/\b(\d[\d,]{0,9})\b/);
+      const n = m ? parseInt(m[1].replace(/,/g, ""), 10) : 0;
+      return n > 0 && n < 1000000 ? n : null;
+    })();
+    if (spokenNumber === null) menu = menu.filter((m) => m !== "counter");
+    if (!menu.length) menu = MOTIF_MENU.neutral.filter((m) => m !== "counter");
     const motif = menu[Math.floor(rnd(seedBase + i * 7) * menu.length) % menu.length];
     state.lastMotif = motif;
     const spec = { type: motif, scale: 1, enter: "pop", color: PAL.red, color2: PAL.ink };
     if (motif === "counter") {
-      const m = text.match(/\b(\d[\d,]{1,9})\b/);
-      const n = m ? parseInt(m[1].replace(/,/g, ""), 10) : 0;
-      spec.value = n > 0 && n < 1000000 ? n : 90;
+      spec.value = spokenNumber;
       if (/%|percent/i.test(text)) spec.label = "PERCENT";
       else if (/million/i.test(text)) spec.label = "MILLION";
       else if (/\$/.test(text)) spec.label = "DOLLARS";
@@ -476,11 +610,24 @@ function arcFor(cls, motif) {
     // repeat within 8 scenes, illustrations don't run back-to-back, and only the
     // talking-head-prone classes yield to it (stat/crowd/contrast keep their own
     // strong shot). Same anti-repeat discipline as the shot picker.
-    const rawConcept =
-      authoredConcept !== undefined && authoredConcept !== null
-        ? String(authoredConcept).toLowerCase()
-        : detectConcept(text);
-    const concept = rawConcept && SCENE_ICON_SET.has(rawConcept) ? rawConcept : null;
+    // Claude's authored concept used to be lowercased before the membership
+    // test, so every camelCase icon the --emit-beats instructions advertise
+    // (codeWindow, shadowSelf, dominoCascade, icebergDepth, funnelTrap,
+    // rocketLaunch, alarmClock, …) failed `SCENE_ICON_SET.has()` and was
+    // dropped in silence — the author had no way to learn the override never
+    // took. Resolve case-insensitively to the canonical name instead, and say
+    // so out loud when the name is not one we can draw.
+    let concept = null;
+    if (authoredConcept !== undefined && authoredConcept !== null && String(authoredConcept).trim()) {
+      const canon = CONCEPT_BY_LOWER.get(String(authoredConcept).trim().toLowerCase());
+      if (canon) concept = canon;
+      else if (!warnedConcepts.has(String(authoredConcept))) {
+        warnedConcepts.add(String(authoredConcept));
+        console.warn(`  ⚠ authored concept "${authoredConcept}" is not a drawable icon — ignored (scene ${index})`);
+      }
+    } else {
+      concept = detectConcept(text);
+    }
     const conceptFresh = concept && index - (state.lastConceptAt[concept] ?? -99) >= 8;
     // A contrast beat isn't illustratable on its own (it keeps its split/two-shot),
     // EXCEPT when its concept has an opposite — then a two-icon beforeAfter says the
@@ -588,7 +735,19 @@ function arcFor(cls, motif) {
       setChanged = true;
     }
     state.setRun += 1;
-    const placed = concept ? CONCEPT_SET[concept] : null;
+    let placed = concept ? CONCEPT_SET[concept] : null;
+    // Genre-aware sanitation (Antidote 5.0):
+    // In business/tech/finance genres, strictly forbid domestic (kitchen/bedroom), clinical (hospital)
+    // or criminal/legal (court) backdrops. Remap them to workplace/strategy equivalents.
+    const isBusinessOrTech = /business|tech|money|finance|invest|startup|entrepreneur/.test(String(genre || "").toLowerCase());
+    if (isBusinessOrTech && placed) {
+      if (placed === "kitchen" || placed === "bedroom") placed = "workstation";
+      else if (placed === "hospital") placed = "office";
+      else if (placed === "court") placed = "pitchStage";
+      else if (concept === "phone") placed = "workstation"; // cold outreach / customer validation is at the desk, not a cafe
+      else if (placed === "forest" || placed === "shore") placed = "startupGarage";
+    }
+
     if (placed && placed !== state.forcedSet && index - state.forcedSetAt >= 3) {
       state.forcedSet = placed;
       state.forcedSetAt = index;
@@ -744,7 +903,8 @@ function arcFor(cls, motif) {
         : null;
     if (heurDiagram) state.lastDiagramAt = index;
 
-    const out = { shot, transition, bg, props, cast, camera, class: cls, act: field.act, concept: useIllustration ? concept : null, sustain: false, diagram: heurDiagram };
+    const emotion = detectEmotion(text, cls);
+    const out = { shot, transition, bg, props, cast, camera, class: cls, act: field.act, concept: useIllustration ? concept : null, sustain: false, diagram: heurDiagram, emotion };
     state.prev = { ...out, usedIllustration: useIllustration };
     return out;
   }
@@ -759,7 +919,7 @@ function arcFor(cls, motif) {
 }
 
 module.exports = {
-  createDirector, classify, detectConcept, detectDiagram, lighten, darken,
+  createDirector, classify, detectConcept, detectDiagram, detectEmotion, lighten, darken,
   SCENE_ICONS: CONCEPT_LEXICON.map(([c]) => c),
   CONCEPT_SET, CONCEPT_HOLD, FULL_BODY_SHOTS,
 };

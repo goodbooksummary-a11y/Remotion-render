@@ -29,6 +29,103 @@ _(clear your row when you stop; move the summary into the Changelog below.)_
 
 ## Changelog (newest first)
 
+### 2026-09-12 — relevance — LANDED: Phase 0 + 1b of the relevance plan (planners only, no engine files)
+
+Implements the first two phases of [`VISUAL_RELEVANCE_PLAN.md`](VISUAL_RELEVANCE_PLAN.md).
+All changes are in `scripts/`; **no file under `src/engines/` was touched**, to stay clear of
+the in-flight Vox engine WIP.
+
+**A/B on one book (`public/captions/siddhartha.vtt`, same args, `--no-llm`), HEAD vs now:**
+
+| | HEAD | now |
+|---|---|---|
+| airtime over own narration | **63.4 %** | **95.8 %** |
+| scenes drawing fabricated data (`map`/`dataviz`/`network`/`document`/`flow`) | **34** | **0** |
+| `quote` beats asserting a quotation the narration never makes | 5 | **0** |
+
+`scripts/plan-vox.js`
+- **ANCHOR WINDOW (the airtime fix).** The anchor search ran to `rb.end + 9`, i.e. up to nine
+  seconds *past* the beat's own narration, so a third to a half of every film showed beat N's
+  picture under beat N+1's words. Capped to `min(rb.end, rb.start + 1.0s)`; the word reveal
+  still lands on the word via the existing sub-beat `props.anchors` clock. `--anchor-window=`
+  tunes it, `--legacy-anchor` reproduces an old plan byte-for-byte.
+- **One detector vocabulary (`RE`), word-anchored.** The loose ladder in `heuristicDesign()`
+  and the strict one in the main loop were duplicates where the loose copy always won; there is
+  now one copy and every token is ``-anchored (a bare `ratio` was matching inside
+  na**ratio**n, `pact` inside im**pact**, `from .* to` on ordinary prose).
+- **Grounding gate.** `dataviz`/`trendline`/`flow`/`network`/`chart`/`map` are only selected when
+  `groundedPayload()` can build them from numbers/items/places the narration actually states;
+  otherwise the beat falls back to its ordinary treatment. The run now prints what it declined.
+- **No more index parity.** `type = i % 2 === 0 ? "imagefocus" : "statement"` decided whether a
+  beat got a photograph at all on ~78 % of beats; replaced by `isPicturable()` (a proper noun or
+  a place). Images on the test book: 135 → 102, all of them on beats that name something.
+- **`quote` is no longer a free rotation slot** — QuoteScene puts words in the author's mouth, so
+  the monotony breaker may only pick it for a beat that contains a quotation.
+- Writes `props.docType` and `props.checklistItems`, and fixes the **TDZ `ReferenceError`** where
+  `props.checklistItems` was assigned 56 lines before `const props` (payload is parked in a local
+  and merged at construction). Prints the achieved airtime % at the end of every run.
+
+`scripts/lib/antidote-director.js`
+- **A counter may no longer invent its number.** `value = … : 90` shipped **14 scenes across 7
+  books** counting up to a "90" spoken nowhere in the film; `counter` is now simply unavailable
+  on a beat that states no number.
+- **`CONCEPT_HOLD` repaired against the `handProp` enum.** `food: "coffee"` is not in the enum,
+  so the character held an invisible object; `key`→`target` and `compass`→`hourglass` were
+  substitutions for glyphs that exist under their own name. Also reaches six previously
+  unreachable glyphs (`mask`, `photo`, `mirror`, `briefcase`, `flower`, `cup`). All 31 entries
+  now validate against `schema.ts`.
+- **Authored concepts stop being silently dropped.** `String(authoredConcept).toLowerCase()`
+  failed `SCENE_ICON_SET.has()` for every camelCase icon the `--emit-beats` instructions
+  advertise (`codeWindow`, `shadowSelf`, `dominoCascade`, …). Now resolved case-insensitively,
+  and an unknown name warns once instead of vanishing.
+- **`customSvg` landmines defused.** An entry with no `title` built `(key|)`, whose empty
+  alternative matches every beat (one custom SVG on every scene of the film); a regex
+  metacharacter in a key threw and killed the plan run. Terms are now escaped and non-empty.
+- `SELF_ANIMATING` named a non-existent `lineChart`; the real propType is `lineGrowth`.
+
+`scripts/apply-coldopen.js`
+- `coldopen` is **not** in the renderer's `SCENES` registry, so every beat this script retyped
+  fell through to `StatementScene`. Retypes to `imagefocus`/`statement` instead, refuses to write
+  an unrenderable archetype, and repairs books already migrated — **20 beats across 6 books
+  (enders-game, little-fires-everywhere, little-women, project-hail-mary, the-color-purple,
+  the-frozen-river), restoring 11 orphaned Flux images.** Those six `config.vox.json` are the only
+  book files changed.
+
+Not done here (needs the engine files, which another agent is holding): the invented defaults
+still inside `scenes-journalism.tsx` (`STANDARD BENCHMARK 35%`, `LINKED TO`/`INFLUENCED`) and
+`infographics.tsx` — the planner simply no longer selects the archetypes that draw them.
+
+
+### 2026-09-12 — relevance — NEW ROADMAP: narration-vs-visual relevance (`VISUAL_RELEVANCE_PLAN.md`)
+
+Measured, across shipped `books/<slug>/config.*.json`, why the picture so often does not
+match the words, and wrote the plan: **[`VISUAL_RELEVANCE_PLAN.md`](VISUAL_RELEVANCE_PLAN.md)**.
+Read it before touching either planner or director.
+
+Headline numbers (reproducible from the configs): Vox image prompts are a 3-keyword bag
+(`"cinematic editorial still: lingering, period., ghost.."`), 55-60% of Vox beats carry no
+image at all, archetype falls back to `i % 2` parity; Antidote picks its on-screen object with
+`rnd(seed + i*7)` off a class menu (81.8% of props are abstract filler, 60-64% of scenes in the
+older books have no prop at all, 14 of 63 motifs ever used); and scene timing alone puts only
+**57.7% / 62.7% / 74.6%** of a beat's airtime over its own narration.
+
+Two things every agent should know right now:
+
+1. **We ship fabricated evidence.** `scenes-journalism.tsx:111` draws `STANDARD BENCHMARK 35%`
+   next to `firstNumber % 100`; `:144` asserts `LINKED TO` / `INFLUENCED` between three emphasis
+   words; `antidote-director.js:551` animates a counter to **90** when the narration has no
+   number. Six typed payload fields (`docType`/`trendPoints`/`flowNodes`/`chartData`/…) exist for
+   real data and are written by nothing, in any of the 34 books. Phase 0 deletes these defaults:
+   a data graphic with no data must refuse to render.
+2. **There is a 945-line UNCOMMITTED, UNLOGGED Vox WIP** in the tree (`scripts/plan-vox.js` +
+   11 files under `src/engines/vox/`). It carries a live bug: `plan-vox.js:513` writes
+   `props.checklistItems` 56 lines before `const props` is declared (`:569`) — a TDZ
+   `ReferenceError` for any beat hitting the `checklist` branch. Whoever owns that work,
+   please claim an Active WIP row; anyone else, coordinate before editing those files.
+
+No code changed in this entry — planning only.
+
+
 ### 2026-09-09 — book-orchestrator — GUARD: download-vs-assemble on a split render
 
 `render-github-download.js` pulls ONE worker's artifact. On a SPLIT render that is a

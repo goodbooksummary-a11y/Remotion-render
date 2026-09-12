@@ -35,9 +35,13 @@ const AUTHOR = args.author || "";
 const GENRE = (args.genre || "drama").toLowerCase();
 const SLUG = args.slug || slugify(TITLE);
 const UNTIL = args.until ? parseFloat(args.until) : Infinity;
-// VTT sits ~0.5s ahead of the audio for this project (legacy captionOffset).
-// Shift beats + captions later by OFFSET seconds to lock visuals to the voice.
-const OFFSET = args.offset !== undefined ? parseFloat(args.offset) : 0.5;
+// Word-level VTT from YouTube is already accurately synchronized with the audio.
+// Default OFFSET is 0.0 so captions lock onto spoken words in real time without lag.
+const OFFSET = args.offset !== undefined ? parseFloat(args.offset) : 0.0;
+// Reproduce a pre-2026-09-12 plan byte-for-byte: lets a scene be re-anchored up
+// to 9s past its own narration. See the ANCHOR WINDOW note further down; only
+// use this to diff against an old config.
+const LEGACY_ANCHOR = "legacy-anchor" in args;
 // Opt-in transition sound layer (src/engines/vox/sfx.tsx). Off unless asked
 // for: the narration is continuous speech, so every effect lands on a voice —
 // worth having, but only after someone has listened to it.
@@ -294,28 +298,163 @@ const isReveal = (t) =>
   /\b(but then|until|instead|turns out|in fact|no longer|the truth is|never again|everything changed)\b/i.test(t) &&
   String(t).split(/\s+/).length <= 24;
 
+/**
+ * DETECTOR VOCABULARY — one definition, shared by heuristicDesign() and the
+ * main assignment ladder below.
+ *
+ * Two bugs lived here and both are structural, not typos:
+ *
+ * 1. UNANCHORED SUBSTRINGS. Every token is now `\b`-anchored, because a bare
+ *    `ratio` matched inside naRATIOn / frustRATIOn / geneRATIOn (185 of 202
+ *    `dataviz` hits across the shipped corpus were that), `pact` matched inside
+ *    imPACT, and `from .* to` matched ordinary English ("takes the vase from her
+ *    to fill it" rendered a transatlantic flight path).
+ * 2. TWO COMPETING LADDERS. heuristicDesign() used LOOSE regexes and the main
+ *    ladder STRICT ones, but each strict branch was guarded by `d.type === X ||`
+ *    — so in the default no-LLM path (which is every shipped book) the loose
+ *    copy always won and the strict copy was dead code. There is now one copy.
+ *
+ * Rule for editing: a detector fires on MEANING. If a token also appears inside
+ * unrelated words, or inside ordinary prose, it does not belong here.
+ */
+const RE = {
+  checklist: /\b(action step|takeaway|checklist|habit|rule\s+#?\d|lesson\s+#?\d)\b/i,
+  polaroid: /\b(photograph|portrait|case study|snapshot|archival photo)\b/i,
+  chart: /\b(compound(ing|ed)?|exponential|growth curve|return on investment)\b/i,
+  stat: /(\$?\d[\d,\.]*\s?(%|percent|million|billion|trillion|x\b))/i,
+  quote: /["“”]/,
+  document: /\b(newspaper|headline|official record|classified|declassified|dossier|investigation)\b/i,
+  map: /\b(flight path|trade route|the border|geography of|journey across|fled to|sailed to|crossed into)\b/i,
+  trendline: /\b(trend|trajectory|surge|decline|over time|through the years|decade)\b/i,
+  flow: /\b(chain reaction|mechanism of|leads to the|domino effect|step by step)\b/i,
+  dataviz: /\b(percent|proportion of|ratio of|scale matrix)\b/i,
+  network: /\b(conspiracy|network of|web of|connected to|allies with|alliance)\b/i,
+  year: /\b(19\d\d|20\d\d)\b/,
+};
+
+/**
+ * Archetypes that can only draw a graphic if the planner hands them real data.
+ * Left to their own defaults they invent it — a `STANDARD BENCHMARK 35%` next to
+ * `firstNumberInText % 100`, a conspiracy board asserting LINKED TO / INFLUENCED
+ * between three emphasis words, a trendline plotting a hardcoded 24/58/42/89.
+ * That is fabricated evidence in a factual video, and it is worse than a plain
+ * frame. `groundedPayload()` below is the gate: no payload, no archetype.
+ * Phase 3 of VISUAL_RELEVANCE_PLAN.md supplies the payloads and re-opens them.
+ */
+const NEEDS_REAL_DATA = new Set(["dataviz", "trendline", "flow", "network", "chart", "map"]);
+
+/**
+ * The real numbers a beat actually says, in order. A quantity graphic that is
+ * not built from these must not render.
+ */
+function spokenNumbers(text) {
+  return (String(text).match(/\b\d[\d,]*(?:\.\d+)?\b/g) || [])
+    .map((n) => parseFloat(n.replace(/,/g, "")))
+    .filter((n) => Number.isFinite(n));
+}
+
+/**
+ * Returns the grounded payload for a data archetype, or null when the beat
+ * cannot support it. Null means "pick a different archetype".
+ */
+function groundedPayload(type, text) {
+  const nums = spokenNumbers(text);
+  if (type === "dataviz") {
+    // one real percentage, compared against nothing it did not say
+    const pct = String(text).match(/\b(\d{1,3}(?:\.\d+)?)\s?(?:%|percent)\b/i);
+    return pct ? { chartData: [parseFloat(pct[1])], chartLabels: [(pct[0] || "").toUpperCase()] } : null;
+  }
+  if (type === "trendline" || type === "chart") {
+    // a trend needs at least three points it actually spoke
+    return nums.length >= 3 ? { trendPoints: nums.slice(0, 6) } : null;
+  }
+  if (type === "flow") {
+    const stops = cleanItems(listItems(text) || []);
+    return stops.length >= 2 ? { flowNodes: stops.slice(0, 4) } : null;
+  }
+  if (type === "network") {
+    const stops = cleanItems(listItems(text) || []);
+    return stops.length >= 3 ? { flowNodes: stops.slice(0, 4) } : null;
+  }
+  if (type === "map") {
+    // GeoMap invents its own continent and a North-America→Europe flight path
+    // from hash(beat.id); only let it draw when the narration names a real
+    // place for it to anchor on. (Real coordinates land in Phase 3.)
+    return placeName(text) ? {} : null;
+  }
+  return null;
+}
+
+/**
+ * Which paper a `document` beat is: today the renderer coin-flips newspaper vs
+ * declassified on hash(beat.id), so a 1930s novel got a TOP SECRET dossier.
+ * The narration names it; write it down. (Consumed by DocumentScene's
+ * `beat.props.docType`.)
+ */
+function docTypeOf(text) {
+  if (/\b(classified|declassified|dossier|top secret|case file)\b/i.test(text)) return "declassified";
+  if (/\b(newspaper|headline|the press|front page)\b/i.test(text)) return "newspaper";
+  if (/\b(letter|telegram|wrote to|note|diary|journal entry)\b/i.test(text)) return "letter";
+  return "newspaper";
+}
+
+/**
+ * Does this sentence contain something a camera could point at? A proper noun
+ * (a person, a place, a title) or a detected place name. Deliberately narrow:
+ * with the current keyword-bag image prompts, a picture we cannot name is worse
+ * than no picture, so the default answer is no.
+ */
+const NOT_A_NAME = new Set([
+  "I", "I'm", "I've", "I'd", "I'll", "And", "But", "So", "Then", "Now", "The", "A", "An",
+  "It", "It's", "He", "She", "They", "We", "You", "This", "That", "There", "Here",
+  "Yeah", "Okay", "OK", "Right", "Well", "Oh", "What", "When", "Where", "Why", "How", "Who",
+  "Because", "If", "Just", "Like", "Not", "No", "Yes", "Her", "His", "My", "Your", "Our",
+]);
+function isPicturable(text) {
+  if (placeName(text)) return true;
+  const toks = String(text).trim().split(/\s+/);
+  for (let k = 1; k < toks.length; k++) {           // k=1: skip the sentence-initial capital
+    const w = toks[k].replace(/^[^A-Za-z']+|[^A-Za-z']+$/g, "");
+    if (w.length < 3 || NOT_A_NAME.has(w)) continue;
+    // a real proper noun mid-sentence, not an ASR all-caps artifact
+    if (/^[A-Z][a-z']+$/.test(w) && !/[.!?]$/.test(toks[k - 1] || "")) return true;
+  }
+  return false;
+}
+
 function heuristicDesign(text, i, total) {
   const li = listItems(text);
   let type = "statement";
   if (i === 0) type = "title";
   else if (i === total - 1) type = "punchline";
   else if (isQuestion(text)) type = "question";
+  else if (RE.checklist.test(text) && li) type = "checklist";
   else if (li) type = "list";
+  else if (RE.polaroid.test(text)) type = "polaroid";
+  else if (RE.chart.test(text)) type = "chart";
   else if (timelineStops(text)) type = "timeline";
-  else if (/(\$?\d[\d,\.]*\s?(%|percent|million|billion|trillion))/i.test(text)) type = "stat";
-  else if (/["“”]/.test(text)) type = "quote";
-  else if (/(newspaper|headline|report|document|record|article|archive|dossier|official|classified|secret|investigation)/i.test(text)) type = "document";
-  else if (/(route|flight|journey|travel|border|continent|territory|across the|from .* to)/i.test(text)) type = "map";
-  else if (/(trend|trajectory|surge|decline|over time|through the years|accelerat|historical|decade)/i.test(text) && /\b(19\d\d|20\d\d)\b/.test(text)) type = "trendline";
-  else if (/(mechanism|leads to|results in|causes|chain reaction|catalyst|drives the|domino effect|step by step)/i.test(text)) type = "flow";
-  else if (/(\d+%\s|percent|ratio|proportion|statistic)/i.test(text)) type = "dataviz";
-  else if (/(connected|relationship|network|conspiracy|tied to|linked to|web of|alliance|pact)/i.test(text)) type = "network";
+  else if (RE.stat.test(text)) type = "stat";
+  else if (RE.quote.test(text)) type = "quote";
+  else if (RE.document.test(text)) type = "document";
+  else if (RE.map.test(text)) type = "map";
+  else if (RE.trendline.test(text) && RE.year.test(text)) type = "trendline";
+  else if (RE.flow.test(text)) type = "flow";
+  else if (RE.dataviz.test(text)) type = "dataviz";
+  else if (RE.network.test(text)) type = "network";
   else if (placeName(text)) type = "place";
   else if (text.split(/\s+/).length <= 8) type = "statement";
-  else type = i % 2 === 0 ? "imagefocus" : "statement";
+  // A beat with no detected subject used to alternate imagefocus/statement on
+  // INDEX PARITY (`i % 2 === 0`) — whether a beat got a photograph at all was
+  // decided by whether its index was even, on ~78% of all beats. Ask instead
+  // whether the sentence has something picturable in it: a proper noun or a
+  // place. Everything else is an idea, and an idea is better served by type on
+  // paper than by whatever Flux returns for three scraped keywords.
+  // (Phase 3 of VISUAL_RELEVANCE_PLAN.md replaces this with the beat's real
+  // subject, at which point far more beats can safely carry a picture.)
+  else type = isPicturable(text) ? "imagefocus" : "statement";
   const kw = keywords(text, 3);
-  const d = { type, kicker: type === "title" ? "BOOK BREAKDOWN" : "", emphasis: emphasis(text, type === "list" ? 1 : 2), items: li || [], compare: null };
-  if (type === "title" || type === "imagefocus") d.image = { subject: kw.join(", "), style: "card" };
+  const d = { type, kicker: type === "title" ? "BOOK BREAKDOWN" : "", emphasis: emphasis(text, type === "list" || type === "checklist" ? 1 : 2), items: li || [], compare: null };
+  if (type === "title" || type === "imagefocus" || type === "polaroid") d.image = { subject: kw.join(", "), style: "card" };
   else d.image = null;
   return d;
 }
@@ -357,7 +496,10 @@ For each narration beat, design ONE scene. Output STRICT JSON: an array (same le
   "dataviz" (data journalism, percentages, scale matrices, proportion of people/items, or comparative bar scales),
   "trendline" (historical trajectory, economic or social trends across decades, inflection points),
   "flow" (cause-and-effect mechanism, step-by-step pipeline from catalyst to structural friction to outcome),
-  "network" (connection web, relationships between multiple characters/institutions, conspiracy board).
+  "network" (connection web, relationships between multiple characters/institutions, conspiracy board),
+  "checklist" (3-4 actionable steps, habits or lessons from the book to check off),
+  "polaroid" (an archival photograph, portrait, experiment or case study framed as an instant photo),
+  "chart" (compounding growth curve, exponential curve, or trend line for finance/habits/psychology).
 - "kicker": 2-4 word ALL-CAPS label or "" (a section tag, not a sentence).
 - "emphasis": 1-3 SHORT ALL-CAPS words that will appear big on screen. Pick the most SPECIFIC, CONCRETE nouns from the beat — character names, place names, key terms, numbers, book-specific concepts. NEVER generic verbs (happens, becomes, realizes), adjectives (important, different), or common words. A proper noun alone ("ASHURA") beats a vague phrase ("THE MOMENT"). NEVER a full sentence.
 - "items": for "list" only, 2-4 SHORT ALL-CAPS items, else [].
@@ -433,7 +575,7 @@ function imagePrompt(subject, style) {
       instructions:
         "Author one design per beat, SAME order & length. Then: node scripts/plan-vox.js --designs=<thisFileEdited> (same other args).",
       designSchema: {
-        type: "title|statement|list|quote|stat|imagefocus|compare|punchline",
+        type: "title|statement|list|quote|stat|imagefocus|compare|punchline|checklist|polaroid|chart",
         kicker: "2-4 word ALL-CAPS section tag or ''",
         emphasis: "1-3 SHORT ALL-CAPS words: pick the most SPECIFIC nouns — names, places, key terms, numbers (never generic verbs/adjectives, never a full sentence)",
         items: "list-only: 2-4 SHORT ALL-CAPS items, else []",
@@ -470,6 +612,9 @@ function imagePrompt(subject, style) {
 
   const arr = (v) => (Array.isArray(v) ? v : v ? String(v).split(/\s*[,/]\s*/) : []);
   const usedTypes = [];
+  // data archetypes declined for lack of real data, counted so the decline is a
+  // reported number rather than a silent downgrade
+  const ungrounded = {};
   const beats = rawBeats.map((b, i) => {
     const d = designs[i] || heuristicDesign(texts[i], i, texts.length);
     const id = `beat-${String(i).padStart(3, "0")}`;
@@ -490,6 +635,10 @@ function imagePrompt(subject, style) {
     const stops = timelineStops(texts[i]);
     const place = placeName(texts[i]);
     let duoLabels = duoPair(texts[i]);
+    // `props` is built further down (after the archetype is known), so a branch
+    // that discovers a payload parks it here and it is merged in at that point.
+    // Writing to `props` from inside this ladder is a TDZ ReferenceError.
+    const payload = {};
     if (i === 0) type = "title";
     else if (i === texts.length - 1) type = "punchline";
     // A question owns the frame before anything else claims the beat: it is the
@@ -497,29 +646,56 @@ function imagePrompt(subject, style) {
     else if (d.type === "question" || isQuestion(texts[i])) type = "question";
     else if (/\bVS\b/i.test(blob) || d.type === "compare") type = "compare";
     // a chronology cue WITH labels to hang on the rail beats a plain list
-    // a chronology, with real time markers to hang on the rail
     else if (d.type === "timeline" || stops) {
       type = "timeline";
       // the stops ARE the nodes; LLM-authored items only fill in when it asked
       // for a timeline itself and supplied its own labels
       items = stops || (list2.length >= 2 ? list2 : emphasis.slice(0, 3));
+    } else if (d.type === "checklist" || (RE.checklist.test(texts[i]) && (items.length >= 2 || textList.length >= 2))) {
+      type = "checklist";
+      payload.checklistItems = items.length >= 2 ? items : textList;
     } else if (items.length >= 2 || textList.length >= 2) {
       type = "list";
       if (items.length < 2) items = textList;
-    } else if (d.type === "stat" || /(\$?\d[\d,\.]*\s?(%|percent|million|billion|trillion))/i.test(texts[i])) type = "stat";
+    } else if (d.type === "stat" || RE.stat.test(texts[i])) type = "stat";
     else if (d.type === "quote") type = "quote";
+    else if (d.type === "polaroid" || (RE.polaroid.test(texts[i]) && d.image)) {
+      type = "polaroid";
+    } else if (d.type === "chart" || RE.chart.test(texts[i])) {
+      type = "chart";
+    }
     // two NAMED subjects held together; compare covers the opposition case
     else if (d.type === "duo" || duoLabels) type = "duo";
     else if (d.type === "reveal" || isReveal(texts[i])) type = "reveal";
     else if (d.type === "place" || place) type = "place";
-    else if (d.type === "document" || /(newspaper|headline|official record|classified|declassified|dossier|investigation)/i.test(texts[i])) type = "document";
-    else if (d.type === "map" || /(flight|route|border|geography|journey across)/i.test(texts[i])) type = "map";
-    else if (d.type === "trendline" || (/(trend|trajectory|surge|decline|over time|through the years|decade)/i.test(texts[i]) && /\b(19\d\d|20\d\d)\b/.test(texts[i]))) type = "trendline";
-    else if (d.type === "flow" || /(chain reaction|mechanism of|leads to the|domino effect|step by step)/i.test(texts[i])) type = "flow";
-    else if (d.type === "dataviz" || /(\d+%\s|percent|scale matrix|proportion of|ratio)/i.test(texts[i])) type = "dataviz";
-    else if (d.type === "network" || /(conspiracy|network of|web of|connected to|allies with|alliance)/i.test(texts[i])) type = "network";
+    else if (d.type === "document" || RE.document.test(texts[i])) type = "document";
+    else if (d.type === "map" || RE.map.test(texts[i])) type = "map";
+    else if (d.type === "trendline" || (RE.trendline.test(texts[i]) && RE.year.test(texts[i]))) type = "trendline";
+    else if (d.type === "flow" || RE.flow.test(texts[i])) type = "flow";
+    else if (d.type === "dataviz" || RE.dataviz.test(texts[i])) type = "dataviz";
+    else if (d.type === "network" || RE.network.test(texts[i])) type = "network";
     else if (d.image && d.image.subject) type = "imagefocus";
     else type = "statement";
+
+    // ── GROUNDING GATE ─────────────────────────────────────────────────────
+    // The data archetypes draw a graphic whether or not anyone gave them data,
+    // and their defaults are invented (a 35% "standard benchmark", a conspiracy
+    // board wiring three emphasis words together with LINKED TO / INFLUENCED,
+    // a trendline plotting 24/58/42/89). In a video that presents itself as
+    // factual that is fabricated evidence, so an archetype that cannot be fed
+    // from the narration does not get selected: it falls back to the ordinary
+    // treatment of the same words.
+    if (NEEDS_REAL_DATA.has(type)) {
+      const g = groundedPayload(type, texts[i]);
+      if (g) Object.assign(payload, g);
+      else {
+        ungrounded[type] = (ungrounded[type] || 0) + 1;
+        type = d.image && d.image.subject ? "imagefocus" : "statement";
+      }
+    }
+    // A `document` beat knows which paper it is; the renderer otherwise
+    // coin-flips newspaper vs TOP SECRET dossier on hash(beat.id).
+    if (type === "document") payload.docType = docTypeOf(texts[i]);
     // ── MONOTONY BREAKER ───────────────────────────────────────────────────
     // The content detectors above are strict on purpose, so they stay rare and
     // most beats still land on statement/imagefocus. This rotation is what
@@ -532,7 +708,15 @@ function imagePrompt(subject, style) {
     // A WINDOW, not just the previous beat: the planner's natural output is a
     // strict statement/imagefocus alternation, so an "is the last one the same"
     // check never fires and the viewer still sees two frames for forty minutes.
-    const TEXT_ROTATION = ["statement", "reveal", "quote"];
+    // …with ONE correction to that claim: `quote` is not a neutral treatment.
+    // QuoteScene wraps the words in quotation marks, which asserts that the book
+    // said them in that order — and 38% of shipped `quote` beats have no
+    // quotation mark anywhere in their narration. A treatment may restyle the
+    // words; it may not put words in the author's mouth. So `quote` is only in
+    // the rotation for a beat that actually contains a quotation.
+    const TEXT_ROTATION = RE.quote.test(texts[i])
+      ? ["statement", "reveal", "quote"]
+      : ["statement", "reveal"];
     const win = usedTypes.slice(-4);
     if (type === "statement" && win.filter((t) => t === "statement").length >= 2) {
       const count = (t) => usedTypes.filter((u) => u === t).length;
@@ -553,7 +737,7 @@ function imagePrompt(subject, style) {
 
     const sourceMatch = texts[i].match(/\b(?:according to|study by|research at|published in|harvard|stanford|in chapter \d+)\b[^,\.\;]{0,36}/i);
     const sourceRef = sourceMatch ? sourceMatch[0].trim().toUpperCase() : undefined;
-    const props = { text: texts[i], kicker, emphasis, items, keywords: kws, ...(sourceRef ? { sourceRef } : {}) };
+    const props = { text: texts[i], kicker, emphasis, items, keywords: kws, ...payload, ...(sourceRef ? { sourceRef } : {}) };
     if (i === 0) { props.title = TITLE; props.author = AUTHOR; if (!props.kicker) props.kicker = "BOOK BREAKDOWN"; }
 
     if (type === "compare") {
@@ -593,7 +777,9 @@ function imagePrompt(subject, style) {
       const style = d.image && d.image.style === "card" ? "card" : "cutout";
       addImg("", subj, style);
     }
-    return { id, type, fromFrame, durationFrames, props, images };
+    // `_raw` is the beat's own narration window; used to report airtime
+    // alignment at the end of the run and stripped before the config is written.
+    return { id, type, fromFrame, durationFrames, props, images, _raw: { start: rawBeats[i].start, end: rawBeats[i].end } };
   });
 
   // ── SYNC: re-anchor each scene to when its on-screen key word is actually
@@ -615,11 +801,28 @@ function imagePrompt(subject, style) {
     }
     return null;
   };
+  // ── ANCHOR WINDOW (the airtime fix) ────────────────────────────────────────
+  // The search used to run to `rb.end + 9`, i.e. up to nine seconds PAST the
+  // beat's own narration, and the scene then ran from there to the next scene's
+  // start. Measured on shipped books, only 57.7% (atonement) / 62.7%
+  // (the-handmaid's-tale) / 74.6% (the-color-purple) of a scene's airtime sat
+  // over the words it was planned for — median lag 2.9s. So roughly a third to a
+  // half of every finished film showed beat N's picture under beat N+1's words,
+  // no matter how good that picture was.
+  //
+  // Cutting on the word is still worth having, so the anchor survives — but only
+  // when the word arrives EARLY in the beat. If the key word is spoken later, the
+  // scene starts with its own narration and the word reveal still lands on time,
+  // because the sub-beat event clock below already gives every on-screen word its
+  // own anchor frame (props.anchors) relative to the scene start. The whole-scene
+  // shift was written before that clock existed and is now redundant past this
+  // window.
+  const ANCHOR_WINDOW = Number(args["anchor-window"] ?? 1.0); // s after the beat's first word
   const anchorTime = beats.map((beat, i) => {
     const rb = rawBeats[i];
     const primary = tokenize([...(beat.props.emphasis || []), ...(beat.props.items || []), ...(beat.props.compareLabels || [])]);
     const secondary = tokenize(beat.props.keywords);
-    const cap = rb.end + 9; // don't let a mismatched word drag the scene minutes away
+    const cap = LEGACY_ANCHOR ? rb.end + 9 : Math.min(rb.end, rb.start + ANCHOR_WINDOW);
     const at = firstSpokenAfter(primary, rb.start, cap) ?? firstSpokenAfter(secondary, rb.start, cap);
     return at != null ? at : rb.start;
   });
@@ -736,7 +939,9 @@ function imagePrompt(subject, style) {
     captions,
     beats: finalBeats,
   };
-  fs.writeFileSync(OUT, JSON.stringify(config, null, 2));
+  // `_raw` is planner bookkeeping (the beat's own narration window) — it must
+  // not reach the config the renderer validates.
+  fs.writeFileSync(OUT, JSON.stringify(config, (k, v) => (k === "_raw" ? undefined : v), 2));
 
   const counts = finalBeats.reduce((a, b) => ((a[b.type] = (a[b.type] || 0) + 1), a), {});
   const imgCount = finalBeats.reduce((a, b) => a + b.images.length, 0);
@@ -746,4 +951,24 @@ function imagePrompt(subject, style) {
   console.log(`  beats: ${finalBeats.length} (collapsed ${collapsed} rapid)  captions: ${captions.length}  duration: ${(totalFrames / FPS).toFixed(1)}s`);
   console.log(`  archetypes:`, counts);
   console.log(`  images: ${imgCount} (cutouts: ${cutCount})  shortest scene: ${minDur.toFixed(1)}s`);
+  const ug = Object.entries(ungrounded);
+  if (ug.length) {
+    console.log(`  declined (no real data in the narration, so no invented graphic): ` +
+      ug.map(([t, n]) => `${t} ×${n}`).join(", "));
+  }
+  // The airtime number this plan actually achieved — the metric Phase 1b of
+  // VISUAL_RELEVANCE_PLAN.md governs. Anything under ~90% means scenes are
+  // playing over the wrong words regardless of how good the art direction is.
+  {
+    let own = 0, tot = 0;
+    finalBeats.forEach((b, i) => {
+      const rb = b._raw;
+      if (!rb) return;
+      const nS = Math.round((rb.start + OFFSET) * FPS), nE = Math.round((rb.end + OFFSET) * FPS);
+      const bS = b.fromFrame, bE = b.fromFrame + b.durationFrames;
+      own += Math.max(0, Math.min(nE, bE) - Math.max(nS, bS));
+      tot += bE - bS;
+    });
+    if (tot) console.log(`  airtime over own narration: ${(own / tot * 100).toFixed(1)}%  (target ≥ 90%)`);
+  }
 })();

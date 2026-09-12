@@ -24417,7 +24417,7 @@
   "beats": [
     {
       "id": "beat-000",
-      "type": "coldopen",
+      "type": "imagefocus",
       "fromFrame": 0,
       "durationFrames": 377,
       "props": {
@@ -24444,7 +24444,7 @@
     },
     {
       "id": "beat-001",
-      "type": "coldopen",
+      "type": "statement",
       "fromFrame": 377,
       "durationFrames": 158,
       "props": {
@@ -24465,7 +24465,7 @@
     },
     {
       "id": "beat-002",
-      "type": "coldopen",
+      "type": "imagefocus",
       "fromFrame": 535,
       "durationFrames": 79,
       "props": {
@@ -24492,7 +24492,7 @@
     },
     {
       "id": "beat-003",
-      "type": "coldopen",
+      "type": "statement",
       "fromFrame": 614,
       "durationFrames": 283,
       "props": {

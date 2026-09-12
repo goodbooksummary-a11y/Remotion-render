@@ -42,3 +42,10 @@ vox-prompts.*.txt
 youtube-meta.*.json
 fast_assemble.py
 aws.txt
+AWS_SESSION_REGISTRY.md
+
+# Credential dumps pasted in by hand (guncel_env.txt held live AWS keys)
+guncel_env.txt
+*env*.txt
+lambda_help.txt
+lambda_sites_help.txt

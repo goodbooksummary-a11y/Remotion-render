@@ -42,7 +42,18 @@ if (!fs.existsSync(cfgAbs)) {
 const cfg = JSON.parse(fs.readFileSync(cfgAbs, "utf8"));
 const fps = cfg.meta.fps || 30;
 
-if (cfg.beats.some((b) => b.type === "coldopen")) {
+// Repair pass for books migrated before we noticed `coldopen` has no renderer:
+// those beats are currently rendering as bare StatementScene and ignoring their
+// own images. Retype them to something the engine can actually draw.
+const legacy = cfg.beats.filter((b) => b.type === "coldopen");
+if (legacy.length) {
+  legacy.forEach((b) => { b.type = b.images && b.images.length ? "imagefocus" : "statement"; });
+  if (!DRY) fs.writeFileSync(cfgAbs, JSON.stringify(cfg, null, 2));
+  console.log(`✓ ${SLUG}: ${legacy.length} "coldopen" beat onarıldı (coldopen'ın renderer'ı yok → imagefocus/statement).`);
+  process.exit(0);
+}
+// Idempotency: the title card has already been moved off the first beat.
+if (cfg.beats[0] && cfg.beats[0].type !== "title" && cfg.beats.some((b) => b.props && b.props.title)) {
   console.log(`✓ ${SLUG}: cold open zaten uygulanmış — değişiklik yok.`);
   process.exit(0);
 }
@@ -66,9 +77,23 @@ if (titleIdx === 0) {
   process.exit(0);
 }
 
+// `coldopen` is NOT a renderable archetype — there is no such key in the SCENES
+// registry (src/engines/vox/index.tsx), so every beat this script retyped fell
+// through to the default StatementScene. Across six shipped books that is 20
+// hook beats rendered as plain text, and 11 already-generated Flux images that
+// are never drawn. Retype to the archetype that actually expresses the intent —
+// image-led when the beat owns an image, plain type when it does not — and
+// refuse anything the renderer cannot draw.
+const RENDERABLE = new Set([
+  "title", "statement", "list", "quote", "stat", "imagefocus", "compare", "punchline",
+  "question", "timeline", "place", "duo", "reveal", "document", "map", "dataviz",
+  "network", "trendline", "flow", "chart", "checklist", "polaroid",
+]);
 const before = cfg.beats.slice(0, titleIdx);
 before.forEach((b) => {
-  b.type = "coldopen";
+  const t = b.images && b.images.length ? "imagefocus" : "statement";
+  if (!RENDERABLE.has(t)) throw new Error(`refusing to write unrenderable archetype "${t}"`);
+  b.type = t;
   delete b.props.title;
   delete b.props.author;
 });
