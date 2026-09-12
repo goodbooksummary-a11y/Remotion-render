@@ -384,13 +384,36 @@ clock already reveals each word at the frame it is spoken.
 Every `plan-vox.js` run now prints the achieved percentage, so a regression is visible
 immediately.
 
-### Phase 2 — the story bible · ~2–3 days
+### Phase 2 — the story bible · ~2–3 days — ✅ **LANDED 2026-09-12**
 
-`scripts/plan-bible.js` (VTT → Claude → `story-bible.json`), superseding `creative-bible.json`,
-feeding `antidote-costume.js` and the Vox cast that `buildPersonSet()` already finds.
+[`scripts/plan-bible.js`](scripts/plan-bible.js) reads the **whole** narration once and writes
+`books/<slug>/story-bible.json`: world (era + an anachronism `forbid` list), cast (each with a
+Flux-ready `look` and Antidote `variant`), places (mapped to real Backdrop sets), the book's own
+recurring objects, and the act spine. Claude-first with the repo's usual handoff —
+`--emit=<file>` drafts it with the evidence attached, Claude rewrites, `--bible=<file>`
+validates and installs. A heuristic-only run still produces a usable draft.
 
-**Gate:** on two books (one per engine), the bible names ≥ 90 % of the characters and places
-that actually appear in the narration, and the era `forbid` list is correct.
+It supersedes `creative-bible.json`, whose universe heuristic is the problem in miniature: it
+classified *Siddhartha* as "Investigative Journalism & Modern History" at 0.95 confidence and
+handed the Vox planner `docType: declassified` for a Buddhist novel.
+
+The narration is read from `--vtt=` when the raw file is still on disk, **or straight out of the
+already-planned `config.*.json`** (`captions[]` is the full word-level transcript) — so it works
+on all 49 planned books today with nothing to re-download.
+
+**Gate met** — authored for `atonement` (Vox) and `all-the-bright-places` (Antidote).
+`--coverage` reports how much of the film the bible can speak for:
+
+| book | scenes | names a cast member | names a bible object | **either** |
+|---|---|---|---|---|
+| atonement | 310 | 36.1 % | 22.6 % | **48.7 %** |
+| all-the-bright-places | 115 | 40.9 % | 49.6 % | **67.0 %** |
+
+Against a 6.6 % subject-bearing baseline, that is the headroom Phase 3 converts. The heuristic
+draft also earned its keep twice: it produced the correct `forbid` list for a 1935 book without
+being told the period, and it surfaced `Bry` / `Brainy` as recurring "characters" in *Atonement*
+— both ASR corruptions of **Briony** that the VTT name pre-pass missed. They now live in the
+bible as `aliases`, so the same person resolves under every spelling.
 
 ### Phase 3 — beat briefs + directors consume them · ~3–5 days
 

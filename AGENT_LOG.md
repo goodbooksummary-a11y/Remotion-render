@@ -29,6 +29,58 @@ _(clear your row when you stop; move the summary into the Changelog below.)_
 
 ## Changelog (newest first)
 
+### 2026-09-12 — relevance — PHASE 2: the pipeline reads the book now (`story-bible.json`)
+
+Nothing in this pipeline had ever read a book. Every visual decision was a regex over one
+~6.5-second chunk in isolation, which is why 6.6% of the catalogue shows anything tied to its own
+narration. **[`scripts/plan-bible.js`](scripts/plan-bible.js)** reads the whole narration once and
+writes `books/<slug>/story-bible.json`:
+
+- **world** — era plus a `forbid` list of icons the period cannot contain (an anachronism is the
+  loudest mistake available to us, and nothing prevented one)
+- **cast** — each with a Flux-ready `look` (what makes a character the same person in beat 12 and
+  beat 204) and an Antidote `variant`, plus `aliases`
+- **places** — validated against the real `Backdrop.tsx` SETS
+- **objects** — the book's own recurring subjects, by the engine's icon vocabulary
+- **spine** — the acts, each with the claim it makes
+
+Claude-first via the repo's usual handoff: `--emit=<file>` drafts it **with the evidence
+attached** (sample sentences per name, per place, per object), Claude rewrites, `--bible=<file>`
+validates (cast keys are slugs, `look` non-empty, every place is a real set) and installs.
+A heuristic-only run still yields a usable draft.
+
+**It supersedes `creative-bible.json`**, whose universe heuristic is the whole problem in
+miniature: it classified *Siddhartha* as "Investigative Journalism & Modern History" at 0.95
+confidence and handed the Vox planner `docType: declassified` for a Buddhist novel.
+
+**Works on every existing book with nothing to re-download:** narration comes from `--vtt=` when
+the raw file survives, otherwise straight out of the planned `config.*.json` (`captions[]` is the
+full word-level transcript).
+
+**Gate met.** Authored for `atonement` (Vox) and `all-the-bright-places` (Antidote); `--coverage`
+reports what share of scenes the bible can speak for:
+
+| book | scenes | cast named | object named | either |
+|---|---|---|---|---|
+| atonement | 310 | 36.1% | 22.6% | **48.7%** |
+| all-the-bright-places | 115 | 40.9% | 49.6% | **67.0%** |
+
+Against the 6.6% baseline that is the headroom Phase 3 converts.
+
+Two things the heuristic draft found on its own, worth knowing:
+1. It produced the correct `forbid` list for a 1935 book without being told the period.
+2. In *Atonement* it reported `Bry` and `Brainy` as recurring characters — both ASR corruptions
+   of **Briony** that `fix-vtt-names.js` missed. They are now `aliases` in the bible, so the same
+   person resolves under every spelling. If you are looking for a systemic fix, the name pre-pass
+   could be seeded from the bible's cast rather than from a per-book names.json.
+
+**Trap for whoever writes the next script here:** do NOT build a regex inside a bash heredoc
+through the agent tooling. `new RegExp("\b(" + names.join("|") + ")")` lost its escapes in
+transit and the resulting regex had no word boundaries, silently reporting 0% cast coverage on a
+book that says "Robbie" 55 times. The coverage check now uses a token Set and no regex at all.
+Use the Write tool for files containing regexes.
+
+
 ### 2026-09-12 — relevance — PHASE 1: relevance is a number now (`audit-relevance.js` + baseline)
 
 `audit-antidote.js` asks whether the picture CHANGES often enough. Nothing asked whether it is

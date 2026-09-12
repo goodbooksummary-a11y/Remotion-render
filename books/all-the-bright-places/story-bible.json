@@ -1,0 +1,129 @@
+{
+  "slug": "all-the-bright-places",
+  "world": {
+    "era": "contemporary",
+    "approxYear": 2015,
+    "setting": "A small Indiana town and its high school; two teenagers meet on the ledge of the school bell tower and spend the rest of the book wandering the state.",
+    "register": "contemporary YA, dual first person",
+    "forbid": []
+  },
+  "cast": {
+    "finch": {
+      "name": "Theodore Finch",
+      "role": "protagonist",
+      "look": "a lanky American teenage boy with dark messy hair, a black t-shirt and a battered jacket, restless, present day",
+      "variant": {
+        "height": 1.02,
+        "build": 0.95,
+        "garment": "hoodie",
+        "hair": "messy"
+      },
+      "mentions": 40
+    },
+    "violet": {
+      "name": "Violet Markey",
+      "role": "protagonist",
+      "look": "an American teenage girl with long blonde hair, a cardigan over a school dress, holding herself carefully, present day",
+      "variant": {
+        "height": 0.96,
+        "garment": "dress",
+        "hair": "long"
+      },
+      "mentions": 38
+    },
+    "embry": {
+      "name": "Mr Embry",
+      "role": "mentor",
+      "look": "a short, thickset middle-aged American school counsellor in a rumpled shirt and tie, built like a bull",
+      "variant": {
+        "height": 0.98,
+        "build": 1.25,
+        "garment": "vest"
+      },
+      "mentions": 4
+    },
+    "amanda": {
+      "name": "Amanda Monk",
+      "role": "foil",
+      "look": "an American teenage girl in cheerleader colours, immaculate, watching who is watching",
+      "variant": {
+        "height": 0.95,
+        "garment": "dress",
+        "hair": "ponytail"
+      },
+      "mentions": 2
+    }
+  },
+  "places": {
+    "classroom": {
+      "set": "classroom",
+      "look": "Mr Black's US Geography room, wall map, desks in rows",
+      "mentions": 26
+    },
+    "bedroom": {
+      "set": "bedroom",
+      "look": "Finch's room with the wall of Post-it notes he rearranges at night",
+      "mentions": 12
+    },
+    "highway": {
+      "set": "highway",
+      "look": "Indiana two-lane roads between wandering sites, flat fields either side",
+      "mentions": 12
+    },
+    "office": {
+      "set": "office",
+      "look": "the school counsellor's small office, one window, two chairs too close together",
+      "mentions": 4
+    }
+  },
+  "objects": [
+    {
+      "concept": "ledge",
+      "mentions": 13,
+      "why": "the bell tower ledge is where they meet and where the book returns - its single central image"
+    },
+    {
+      "concept": "school",
+      "mentions": 26,
+      "why": "the institution that labels both of them and helps neither"
+    },
+    {
+      "concept": "notes",
+      "mentions": 17,
+      "why": "Finch's Post-it wall and the Wander notes - how he thinks out loud"
+    },
+    {
+      "concept": "water",
+      "mentions": 0,
+      "why": "the Blue Hole - the book's last place, and the one it refuses to explain"
+    },
+    {
+      "concept": "road",
+      "mentions": 12,
+      "why": "Wander Indiana: the project is a road trip, and the road is the relationship"
+    }
+  ],
+  "spine": [
+    {
+      "act": "The ledge",
+      "fromFrame": 0,
+      "claim": "Two teenagers save each other in the wrong direction on a bell tower."
+    },
+    {
+      "act": "Wandering",
+      "fromFrame": 6000,
+      "claim": "A school project becomes the only structure either of them has."
+    },
+    {
+      "act": "The adults",
+      "fromFrame": 14000,
+      "claim": "Every institution around them optimises for its own risk, not for the kid in front of it."
+    },
+    {
+      "act": "The Blue Hole",
+      "fromFrame": 22000,
+      "claim": "The illness did not make him deep; it killed the depth he already had."
+    }
+  ],
+  "authored": true
+}

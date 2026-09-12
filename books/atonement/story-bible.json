@@ -1,0 +1,148 @@
+{
+  "slug": "atonement",
+  "world": {
+    "era": "1935, then 1940 and a 1999 coda",
+    "approxYear": 1935,
+    "setting": "An English country house in the Surrey heat, then the retreat to Dunkirk and a London military hospital; told back from 1999 by the girl who caused it.",
+    "register": "literary, interior, unreliable",
+    "forbid": [
+      "phone",
+      "codeWindow",
+      "laptopMockup",
+      "rocketLaunch",
+      "funnelMetrics",
+      "dollarExchange",
+      "subway",
+      "car",
+      "alarmClock"
+    ]
+  },
+  "cast": {
+    "briony": {
+      "name": "Briony Tallis",
+      "role": "protagonist",
+      "look": "a thin, watchful thirteen-year-old English girl in a plain white summer dress, dark hair cut straight at the jaw, 1935",
+      "variant": {
+        "height": 0.78,
+        "headScale": 1.18,
+        "garment": "dress",
+        "hair": "bob"
+      },
+      "aliases": [
+        "Bry",
+        "Brainy"
+      ],
+      "mentions": 10
+    },
+    "cecilia": {
+      "name": "Cecilia Tallis",
+      "role": "foil",
+      "look": "a bored, elegant young Englishwoman of twenty-three in a green silk evening dress, dark hair pinned up, a cigarette, 1935",
+      "variant": {
+        "height": 1,
+        "garment": "dress",
+        "hair": "updo"
+      },
+      "mentions": 8
+    },
+    "robbie": {
+      "name": "Robbie Turner",
+      "role": "protagonist",
+      "look": "a tall young Englishman in his early twenties, the housekeeper's son, shirtsleeves and braces in summer, later a private's battledress, 1935-1940",
+      "variant": {
+        "height": 1.06,
+        "build": 1.05,
+        "garment": "vest"
+      },
+      "mentions": 24
+    },
+    "lola": {
+      "name": "Lola Quincey",
+      "role": "extra",
+      "look": "a fifteen-year-old English girl, coppery hair, an older girl's dress worn too deliberately, 1935",
+      "variant": {
+        "height": 0.92,
+        "garment": "dress",
+        "hair": "long"
+      },
+      "mentions": 3
+    }
+  },
+  "places": {
+    "library": {
+      "set": "library",
+      "look": "the dim Tallis library at dusk, tall shelves, one lamp",
+      "mentions": 4
+    },
+    "bedroom": {
+      "set": "bedroom",
+      "look": "Briony's tidy, over-ordered child's bedroom, models in rows",
+      "mentions": 3
+    },
+    "hospital": {
+      "set": "hospital",
+      "look": "St Thomas's in London under wartime discipline, scrubbed floors, rows of beds",
+      "mentions": 2
+    },
+    "shore": {
+      "set": "shore",
+      "look": "the beach at Dunkirk, men and abandoned equipment to the waterline",
+      "mentions": 0
+    }
+  },
+  "objects": [
+    {
+      "concept": "notes",
+      "mentions": 21,
+      "why": "the letter Robbie sends by mistake, and later Briony's drafts - this book is made of documents"
+    },
+    {
+      "concept": "family",
+      "mentions": 24,
+      "why": "the Tallis household is the machine that convicts him"
+    },
+    {
+      "concept": "war",
+      "mentions": 18,
+      "why": "the retreat to Dunkirk is the second half's engine"
+    },
+    {
+      "concept": "law",
+      "mentions": 12,
+      "why": "the accusation, the police, the sentence"
+    },
+    {
+      "concept": "water",
+      "mentions": 0,
+      "why": "the fountain and the broken vase - the book's opening image and its recurring one"
+    }
+  ],
+  "spine": [
+    {
+      "act": "The hottest day",
+      "fromFrame": 0,
+      "claim": "A thirteen-year-old novelist watches a scene at a fountain she has no vocabulary for."
+    },
+    {
+      "act": "The letter and the library",
+      "fromFrame": 3600,
+      "claim": "Desire becomes legible to everyone except the child interpreting it."
+    },
+    {
+      "act": "The accusation",
+      "fromFrame": 9000,
+      "claim": "Interpretation becomes an act of violence, and a class system supplies the verdict."
+    },
+    {
+      "act": "Dunkirk and the ward",
+      "fromFrame": 16000,
+      "claim": "The cost is paid by the two people who never got to answer."
+    },
+    {
+      "act": "1999",
+      "fromFrame": 26000,
+      "claim": "The novel admits it is the crime, and the atonement is the lie."
+    }
+  ],
+  "authored": true
+}
