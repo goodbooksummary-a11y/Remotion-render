@@ -5,6 +5,7 @@
  * All configuration options: https://remotion.dev/docs/config
  */
 
+import path from "path";
 import { Config } from "@remotion/cli/config";
 import { enableTailwind } from '@remotion/tailwind-v4';
 
@@ -12,4 +13,18 @@ import { enableTailwind } from '@remotion/tailwind-v4';
 Config.setOverwriteOutput(true);
 // Config.setLambdaMemory(2048);
 // Config.setLambdaTimeout(120);
-Config.overrideWebpackConfig(enableTailwind);
+
+Config.overrideWebpackConfig((currentConfiguration) => {
+    const withTailwind = enableTailwind(currentConfiguration);
+    return {
+        ...withTailwind,
+        resolve: {
+            ...withTailwind.resolve,
+            alias: {
+                ...(withTailwind.resolve?.alias ?? {}),
+                "@": path.resolve(process.cwd(), "src"),
+            },
+        },
+    };
+});
+
