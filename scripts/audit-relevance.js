@@ -286,6 +286,8 @@ function inventoryAntidote(scene) {
   return {
     icons: props.map((x) => x.type).concat(holds),
     images: [],
+    // the claim, when the planner stated one (written from a beat brief)
+    subject: scene._subject || null,
     set: (scene.bg && scene.bg.set) || null,
     numbers,
     assertsQuote: false,
@@ -316,7 +318,7 @@ function auditBook(slug, configPath) {
   const words = wordStream(cfg);
 
   const scenes = [];
-  let airOwn = 0, airTot = 0;
+  let airOwn = 0, airTot = 0, airSkipped = 0;
   for (const u of units) {
     const from = u.fromFrame || 0;
     const to = from + (u.durationFrames || 0);
@@ -325,6 +327,16 @@ function auditBook(slug, configPath) {
     const shown = engine === "vox" ? inventoryVox(u) : inventoryAntidote(u);
     scenes.push(scoreScene({ engine, id: u.id, from, dur: to - from, spoken, planned, shown }));
 
+    // AIRTIME, only where it can be measured honestly.
+    //
+    // The span of a scene's own narration is located by matching its planned
+    // text back into the word stream. Antidote writes `_narration` TRUNCATED to
+    // 160 characters (plan-antidote.js), so for a longer scene the measured span
+    // ends early and the overlap is understated — 43% of a typical Antidote book
+    // hits that limit, which is most of the apparent gap. A truncated scene is
+    // skipped rather than scored, and a book where too many are skipped reports
+    // no airtime at all instead of a misleading number.
+    if (String(planned).length >= 160) { airSkipped++; continue; }
     const own = ownNarrationSpan(words, planned);
     if (own) {
       airOwn += Math.max(0, Math.min(own.e, to) - Math.max(own.s, from));
@@ -343,7 +355,8 @@ function auditBook(slug, configPath) {
     wrong: pct(count("contradicts") + count("unrelated"), n),
     filler: pct(count("filler"), n),
     thin: pct(count("thin"), n),
-    airtime: airTot ? pct(airOwn, airTot) : null,
+    // too much of the book unmeasurable -> say nothing rather than mislead
+    airtime: airTot && airSkipped / (scenes.length || 1) < 0.35 ? pct(airOwn, airTot) : null,
     vocabReach: distinctGrounded.size,
     verdicts: { ok: count("ok"), thin: count("thin"), filler: count("filler"), unrelated: count("unrelated"), contradicts: count("contradicts") },
     detail: scenes,

@@ -274,6 +274,58 @@ function summarise(briefs) {
   console.log(`${SLUG}: ${briefs.length} briefs from ${file}`);
   summarise(briefs);
 
+  // ── TARGETED AUTHORING ────────────────────────────────────────────────────
+  // A full emit of a 40-minute book is ~320 briefs, and most of them the
+  // heuristic already got right. Authoring all of them is the kind of per-book
+  // manual pass this project has learned to design out. `--emit-weak` emits only
+  // the beats whose confidence is below what the directors will act on, i.e.
+  // exactly the ones currently rendering as neutral text, and `--merge` folds
+  // the authored answers back in by fingerprint. The rest are left alone.
+  if (args["emit-weak"]) {
+    const floor = args["weak-below"] !== undefined ? parseFloat(args["weak-below"]) : 0.6;
+    const weak = briefs.filter((b) => (b.confidence ?? 0) < floor);
+    fs.writeFileSync(args["emit-weak"], JSON.stringify({
+      slug: SLUG,
+      note: `${weak.length} of ${briefs.length} beats are below ${floor} — the directors draw nothing for these.`,
+      instructions: [
+        "These beats have no concrete subject the heuristic could find. Most are argument,",
+        "not scene. For each one decide honestly:",
+        "  • it CAN be shown  -> write `subject` (what it is about) and `vox.shot` (a described",
+        "    photograph: who, doing what, where, when), set `antidote.concept` to an icon from",
+        "    knownConcepts when one genuinely means it, and raise `confidence` to 0.7-0.9.",
+        "  • it is an idea with no picture -> LEAVE IT. Type on paper is the right answer, and",
+        "    a metaphor nobody asked for is how this engine got 39.6% filler.",
+        "ENGLISH ONLY. Never change `fp`.",
+        "Then: node scripts/plan-briefs.js --slug=" + SLUG + " --merge=<this file>",
+      ],
+      knownConcepts: CONCEPT_LEXICON.map(([c]) => c),
+      bible: { world: bible.world, cast: bible.cast, places: bible.places, objects: bible.objects },
+      briefs: weak,
+    }, null, 2) + "\n");
+    console.log(`\n✍  ${args["emit-weak"]} — ${weak.length} beat(s) below ${floor}`);
+    console.log(`   author only what can actually be shown, then --merge=<file>`);
+    return;
+  }
+
+  if (args.merge) {
+    const loaded = JSON.parse(fs.readFileSync(args.merge, "utf8"));
+    const authored = new Map((loaded.briefs || loaded).filter((b) => b && b.fp).map((b) => [b.fp, b]));
+    let merged = 0, raised = 0;
+    const out = briefs.map((b) => {
+      const a = authored.get(b.fp);
+      if (!a) return b;
+      merged++;
+      if ((a.confidence ?? 0) > (b.confidence ?? 0)) raised++;
+      return { ...b, ...a, fp: b.fp, i: b.i, from: b.from, _said: b._said };
+    });
+    const orphans = [...authored.keys()].filter((fp) => !out.some((b) => b.fp === fp)).length;
+    if (!DRY) fs.writeFileSync(OUT, JSON.stringify({ slug: SLUG, authored: true, briefs: out }, null, 2) + "\n");
+    console.log(`✓ ${path.relative(ROOT, OUT)} — merged ${merged} authored brief(s), ${raised} raised above the heuristic` +
+      (orphans ? `  ⚠ ${orphans} authored brief(s) matched no beat` : ""));
+    summarise(out);
+    return;
+  }
+
   if (args.emit) {
     fs.writeFileSync(args.emit, JSON.stringify({
       slug: SLUG,

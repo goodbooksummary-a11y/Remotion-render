@@ -447,7 +447,32 @@ which score as `filler` because they *cannot* be about anything. Now they make a
 audit judges it. The residue tracks the airtime gap — the subject is right for the beat's own
 words, and the scene plays slightly over its neighbour's.
 
-**Gate not yet met** (≥ 70 % subject-bearing, ≤ 5 % wrong). What is left:
+**Authored pass (same day).** `--emit-weak` emits only the beats below the confidence the
+directors act on — 157 of 311 on this book — and `--merge` folds authored answers back in by
+fingerprint, so an authoring pass is targeted instead of re-typing a whole film. 23 of those 157
+were authored; the rest are argument, not scene, and were deliberately left as type on paper.
+
+**Antidote, `siddhartha`, three-way:**
+
+| | subject-bearing | wrong | filler | thin |
+|---|---|---|---|---|
+| no briefs | 48.9 % | 7.7 % | 34.7 % | 8.7 % |
+| heuristic briefs | 66.9 % | 3.2 % | 25.1 % | 4.8 % |
+| **+ 23 authored** | **69.8 %** | **3.2 %** | 22.8 % | 4.2 % |
+
+Against this book's shipped config (24.1 % / 8.7 %). 23 authored beats — 7 % of the film — bought
+**+2.9 points**, so authoring the remaining weak beats is the path to the 70 % gate rather than
+more machinery.
+
+Two honesty notes on the numbers above: part of the jump from 48.9 % to 66.9 % is the audit
+learning to read `_subject` (a stated claim, verified against the audio) instead of re-deriving
+grounding from the icon's regex — a config that states no subject cannot benefit, which is a
+real difference in the artifact, not a scoring trick. And Antidote airtime now reports `n/a`
+rather than 84.6 %, because `_narration` is truncated at 160 characters in the config and 43 %
+of a book hits that limit; the old number was measuring the truncation.
+
+**Gate: 2 of 3 met on the Antidote pilot** (wrong 3.2 % ✓, subject 69.8 % — 0.2 short, airtime
+not measurable). What is left:
 1. **Authored briefs.** Everything above is the *heuristic* derivation. `--emit`/`--briefs` is
    wired for Claude and unused so far; the bible pilot showed authoring is where the quality is.
 2. **Bibles for the other 47 books** — each one is a `--emit` → author → `--bible` pass.

@@ -510,6 +510,14 @@ function roleIndex(cast) {
     if (brief && brief.antidote && brief.antidote.set && d.bg && !hasOwn(ART && ART[i], "set")) {
       d.bg.set = brief.antidote.set;
     }
+    // The brief's SUBJECT, recorded on the scene. It is what the picture claims
+    // to be about, stated in words, so `audit-relevance.js` can check the claim
+    // against the audio instead of re-deriving grounding from the icon's regex.
+    // That distinction is not cosmetic: an authored metaphor is usually right
+    // and lexically absent — the beat about "its hardness, its greenness" is
+    // correctly drawn as the river stone, and the `water` regex never fires on
+    // it — so scoring the icon marked good art direction as unrelated.
+    const briefSubject = brief && brief.subject ? brief.subject : null;
 
     // ── EXPLANATORY DIAGRAM (4.0) ────────────────────────────────────────────
     // Claude's authored `diagram` in the art file wins (a truthy value forces it,
@@ -664,6 +672,7 @@ function roleIndex(cast) {
       durationFrames: Math.max(FPS, durationFrames),
       hud,
       _narration: s.text.slice(0, 160), // hint for Claude's art-direction; safe to delete
+      ...(briefSubject ? { _subject: briefSubject } : {}),
       _beat: d.class, // which beat class the director read; safe to delete
       _act: d.act, // where the color script places this beat; safe to delete
       ...(d.sustain ? { _take: "sustained" } : {}), // continues the previous shot; safe to delete

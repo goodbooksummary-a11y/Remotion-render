@@ -29,6 +29,48 @@ _(clear your row when you stop; move the summary into the Changelog below.)_
 
 ## Changelog (newest first)
 
+### 2026-09-12 — relevance — PHASE 3b: targeted authoring, and two metric corrections
+
+**`plan-briefs.js --emit-weak` / `--merge`.** A full emit of a 40-minute book is ~320 briefs and
+most of them the heuristic already got right; authoring all of them is the per-book manual pass
+this project keeps learning to design out. `--emit-weak` emits ONLY the beats below the
+confidence the directors act on (157 of 311 on `siddhartha`), and `--merge` folds authored
+answers back in by fingerprint. 23 were authored; the rest are argument rather than scene and
+were deliberately left as type on paper — a metaphor nobody asked for is how this engine reached
+39.6% filler.
+
+**Antidote `siddhartha`, three-way, same VTT and args:**
+
+| | subject-bearing | wrong | filler | thin |
+|---|---|---|---|---|
+| no briefs | 48.9% | 7.7% | 34.7% | 8.7% |
+| heuristic briefs | 66.9% | 3.2% | 25.1% | 4.8% |
+| + 23 authored | **69.8%** | **3.2%** | 22.8% | 4.2% |
+
+Shipped config for comparison: 24.1% / 8.7%. 23 authored beats (7% of the film) bought +2.9
+points, so finishing the authoring is the path to the 70% gate, not more machinery.
+
+**TWO CORRECTIONS TO THE METRIC — read these before quoting any earlier number.**
+
+1. **The audit now reads `_subject`.** The first authored pass scored WORSE than the heuristic
+   (55.9% -> 52.1%, wrong 4.5% -> 10.3%) and the cause was the metric, not the art direction:
+   the audit tested whether the ICON's lexicon regex matched the spoken words, and an authored
+   metaphor is usually right and lexically absent. The beat about "its hardness, its greenness"
+   is correctly drawn as the river stone, and the `water` regex never fires on it. So
+   `plan-antidote.js` now records the brief's subject on the scene as `_subject`, and the audit
+   checks that stated claim against the audio — the same fix already made on the Vox side for
+   Flux prompts, which are costume descriptions rather than claims. Not circular and not
+   gameable by decoration: a subject that lies is still caught by the audio.
+2. **Antidote airtime is now `n/a`, not 84.6%.** A scene's own span is located by matching its
+   planned text back into the word stream, and `_narration` is stored TRUNCATED to 160 chars,
+   which 43% of a typical Antidote book hits. The old figure was measuring the truncation. The
+   audit skips truncated scenes and reports nothing when more than 35% of a book is skipped.
+   Airtime remains a real, measurable Vox number: 51-79% before the anchor fix, 90.1% after.
+
+`RELEVANCE_BASELINE.md` has been regenerated under the corrected metric (catalogue figures are
+unchanged at 6.6% / 6.0% / 39.6% / 47.7%; only Antidote airtime moved, to n/a).
+
+
 ### 2026-09-12 — relevance — PHASE 3 (first cut): every beat has a SUBJECT now
 
 Neither engine's schema had a field saying what a beat is ABOUT. The renderers consumed
