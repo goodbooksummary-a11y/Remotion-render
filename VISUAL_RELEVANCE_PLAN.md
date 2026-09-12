@@ -305,14 +305,23 @@ instead of silently deleting the image entry, and an emptiness check in `cutout.
 
 Baselines below are measured today; thresholds are the gate `audit-relevance.js` enforces.
 
-| metric | today | ship gate | why |
-|---|---|---|---|
-| **Subject-bearing share** — scenes whose main visual is tied to the beat's subject | Antidote ≈ 18 % (81.8 % filler) · Vox ≈ 40 % (60 % have no image) | **≥ 70 %** | this is the operator's complaint, stated as a number |
-| **Wrong-visual rate** — contradicts / era-violation / fabricated number / wrong place | `a-good-man`: 50 of 66 located scenes (**76 %**) | **≤ 5 %**, zero fabricated numbers | a wrong picture costs more retention than a neutral one |
-| **Airtime alignment** — share of frames sitting over their own narration | 57.7 % / 62.7 % / 74.6 % | **≥ 90 %** | the cheapest fix; pure timing |
+Measured, not estimated: see [`RELEVANCE_BASELINE.md`](RELEVANCE_BASELINE.md) — 49 planned
+books, 12 935 scenes, every one scored. (The estimates in an earlier draft of this table were
+too generous; the real figures are below.)
 
-A fourth, diagnostic rather than gating: **vocabulary reach** — distinct motifs used ÷ motifs
-available (14/63 on `all-the-bright-places`).
+| metric | baseline (2026-09-12) | ship gate | why |
+|---|---|---|---|
+| **Subject-bearing share** — scenes whose picture is tied to the beat's subject | **6.6 %** catalogue-wide; **29 of 49 books at 0 %**; best book 36.4 % | **≥ 70 %** | this is the operator's complaint, stated as a number |
+| **Wrong-visual rate** — contradicts (false quote, fabricated number, wrong place) + unrelated | **6.0 %**, but two legacy books at 37.1 % / 28.7 % | **≤ 5 %**, zero fabricated numbers | a wrong picture costs more retention than a neutral one |
+| **Airtime alignment** — share of frames sitting over their own narration | **68.8 %** (Vox 51–79 %, recent Antidote 80–85 %) | **≥ 90 %** | fixed at the planner in `cfa52b8`; any book re-planned since should clear it |
+
+Two diagnostics that explain the headline rather than gate it: **filler share** (39.6 % — a
+picture that cannot be about anything) and **thin share** (47.7 % — nothing on screen but type).
+Together they are 87 %: the catalogue's problem is overwhelmingly *absence of a grounded
+picture*, not a wrong one.
+
+The metric validates itself: the three highest-scoring Vox books are exactly the three whose
+art direction was hand-authored through `--designs`. The audit was not told that.
 
 ---
 
@@ -351,13 +360,18 @@ Pure defect work on what already exists.
 **Gate:** zero fabricated numbers or invented relations in any newly planned config;
 `node --check` clean on both planners.
 
-### Phase 1 — measure before building · ~1–2 days
+### Phase 1 — measure before building · ~1–2 days — ✅ **LANDED 2026-09-12**
 
-Build `audit-relevance.js` **first**, against the metrics in §4, and run it over all 56
-existing books to get a real baseline and a ranked worst-books list.
+[`scripts/audit-relevance.js`](scripts/audit-relevance.js) scores every scene of a planned
+config against the words **actually spoken during that scene's own frame window** — offline,
+no render, no API — and emits a per-scene verdict (`contradicts` / `unrelated` / `filler` /
+`thin` / `ok`), a per-book metric row, and a worklist. Wired advisory into `make-book.js`
+step 1.6 for **both** engines (Vox had no pre-render art-direction audit at all).
 
-**Gate:** a baseline table for every shipped book, and the numbers in §1 reproduced by the
-tool rather than by ad-hoc scripts. Everything after this is judged against it.
+**Gate met:** [`RELEVANCE_BASELINE.md`](RELEVANCE_BASELINE.md) — 49 books, 12 935 scenes,
+ranked worst-first. It also reproduced the §1 airtime figures independently (57.4 % on
+`atonement` vs the 57.7 % measured by hand), which is the cross-check that the tool measures
+what it claims.
 
 ### Phase 1b — the airtime fix · ~half day — ✅ **LANDED 2026-09-12**
 

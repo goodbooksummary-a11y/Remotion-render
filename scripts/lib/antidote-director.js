@@ -921,5 +921,9 @@ function arcFor(cls, motif) {
 module.exports = {
   createDirector, classify, detectConcept, detectDiagram, detectEmotion, lighten, darken,
   SCENE_ICONS: CONCEPT_LEXICON.map(([c]) => c),
+  // The raw [name, regex] table. scripts/audit-relevance.js needs the regexes,
+  // not just the names: to ask whether the icon on screen has any support in
+  // the words actually being spoken while it is up.
+  CONCEPT_LEXICON,
   CONCEPT_SET, CONCEPT_HOLD, FULL_BODY_SHOTS,
 };

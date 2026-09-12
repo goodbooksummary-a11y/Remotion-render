@@ -129,6 +129,13 @@ if (ENGINE === "antidote") {
   // numbers go in the log and Claude art-directs against them.
   step(1.5, "Görsel olay denetimi (dead-air bütçesi)",
     `node scripts/audit-antidote.js --slug=${SLUG} --soft`, { optional: true });
+  // ...and its sibling: audit-antidote asks whether the picture CHANGES often
+  // enough, never whether it is about the right thing. A film in which every
+  // icon is wrong passes it cleanly. Advisory for now (49/49 books are over
+  // budget on the 2026-09-12 baseline, so a hard gate would stop every run);
+  // Phase 5 of VISUAL_RELEVANCE_PLAN.md turns it into a real gate.
+  step(1.6, "Anlam denetimi (anlatım ↔ görsel uyumu)",
+    `node scripts/audit-relevance.js --slug=${SLUG} --soft`, { optional: true });
   // Mastering is NOT Vox-specific: raw NotebookLM audio sits ~-25 LUFS and
   // YouTube never boosts quiet uploads, so an un-mastered Antidote book plays
   // ~11 dB below every other video too. Runs AFTER the plan so --update-config
@@ -257,6 +264,11 @@ if (!args["skip-plan"]) {
   if (!fs.existsSync(path.join(ROOT, CFG))) { console.error(`❌ --skip-plan ama ${CFG} yok. Önce plan üret.`); process.exit(1); }
   console.log(`\n── [1] Plan atlandı (--skip-plan) — mevcut ${CFG} kullanılıyor`);
 }
+
+// 1.6) does the picture mean what the narration says? Advisory (see the note on
+// the Antidote branch above); Vox had no pre-render art-direction audit at all.
+step(1.6, "Anlam denetimi (anlatım ↔ görsel uyumu)",
+  `node scripts/audit-relevance.js --slug=${SLUG} --soft`, { optional: true });
 
 // 2) images + 3) cutouts
 if (!args["skip-images"]) {

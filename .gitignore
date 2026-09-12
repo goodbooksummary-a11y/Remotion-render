@@ -49,3 +49,6 @@ guncel_env.txt
 *env*.txt
 lambda_help.txt
 lambda_sites_help.txt
+
+# Derived, regenerable: node scripts/audit-relevance.js --slug=<slug> --report
+books/*/relevance-report.json

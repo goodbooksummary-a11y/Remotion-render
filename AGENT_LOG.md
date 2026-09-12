@@ -29,6 +29,60 @@ _(clear your row when you stop; move the summary into the Changelog below.)_
 
 ## Changelog (newest first)
 
+### 2026-09-12 — relevance — PHASE 1: relevance is a number now (`audit-relevance.js` + baseline)
+
+`audit-antidote.js` asks whether the picture CHANGES often enough. Nothing asked whether it is
+about the right thing, so a film in which every icon is wrong passed every gate we had.
+**[`scripts/audit-relevance.js`](scripts/audit-relevance.js)** is the sibling that closes it, and
+**[`RELEVANCE_BASELINE.md`](RELEVANCE_BASELINE.md)** is the "before" photograph it produced.
+
+**How it works.** A planned config holds both sides of the question: `captions[]` is the
+word-level narration and the beats/scenes are every visual decision. So the audit scores each
+scene against the words whose caption frames fall inside **that scene's own window** — what a
+viewer hears while that picture is up — not against the text the planner looked at. That
+distinction matters: both planners choose from one chunk and then move the scene elsewhere on
+the timeline. Offline, no render, no audio, no API; ~30 s for the whole catalogue.
+
+Verdicts, worst first: `contradicts` (a quotation never made, a number nobody said, a place the
+narration has moved away from) · `unrelated` (the picture names a subject that is absent from
+the words spoken over it) · `filler` (a picture that cannot be about anything) · `thin` (type
+only) · `ok`.
+
+**THE BASELINE — 49 planned books, 12 935 scenes, scene-weighted:**
+
+| subject-bearing | wrong | filler | thin | airtime |
+|---|---|---|---|---|
+| **6.6 %** | 6.0 % | 39.6 % | 47.7 % | 68.8 % |
+
+- **29 of 49 books score exactly 0 %.** Nothing in them is on screen because of what is said.
+- **The metric validated itself.** The three best Vox books — `slow-productivity` 36.4 %,
+  `east-of-eden` 29.5 %, `this-is-me` 15.7 % — are exactly the three whose art direction was
+  hand-authored through `--designs`. The audit was not told that; it found them.
+- It also reproduced the hand-measured airtime figure independently (57.4 % vs 57.7 % on
+  `atonement`).
+- **The engines fail differently.** Vox fails by filler (~44 % keyword-bag images, rest text);
+  Antidote by vocabulary (15–26 % subject-bearing, 50–60 % contentless motifs).
+  `all-the-bright-places` uses 14 motif types of which only **2** can be grounded in narration
+  at all — the most-used, `book` (10 scenes), has no concept regex, so it can only have come
+  from a seeded rotation.
+- **`wrong` being low is not comfort:** it is low because so little is claimed. A ripple cannot
+  contradict anything.
+
+**A note on building the metric.** The first `wrong-place` check asked "did any of the 56
+concept regexes fire, and does its CONCEPT_SET differ from this scene's set?" — over a
+six-second window something always fires, so it flagged a third of every book (a beat about a
+boy setting aside "his own death" was a contradiction because `grave` maps to `forest`). It is
+now a small, high-precision table of concrete location NOUNS, and the rate fell 36.5 % → 7.0 %
+on the same book with the surviving findings all real (a school counsellor's office playing in
+a generic `room`). A noisy metric is worse than none: it cannot drive a fix.
+
+Wired into `make-book.js` at step **1.6** for both engines, `--soft` and `optional` — 49/49
+books are over budget today, so a hard gate would stop every run. Phase 5 makes it real.
+`books/*/relevance-report.json` is derived and gitignored; regenerate with `--report`.
+`CONCEPT_LEXICON` is now exported from `lib/antidote-director.js` (the audit needs the regexes,
+not just the names).
+
+
 ### 2026-09-12 — relevance — the engine now REFUSES to draw data nobody gave it
 
 Completes the Phase 0 half that was left open when the Vox engine was mid-edit. The planner
