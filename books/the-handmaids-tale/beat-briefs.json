@@ -1,0 +1,4923 @@
+{
+  "slug": "the-handmaids-tale",
+  "authored": false,
+  "briefs": [
+    {
+      "fp": "1ketlui",
+      "i": 0,
+      "from": 0,
+      "subject": "home",
+      "entities": [],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "home, 1930"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": []
+      },
+      "_said": "She remembers the exact morning her bank account stopped working. And the terrifying part is she went home and made dinner. Yeah. It's it's"
+    },
+    {
+      "fp": "1r8cdct",
+      "i": 1,
+      "from": 269,
+      "subject": "city",
+      "entities": [],
+      "concept": "city",
+      "place": "street",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "city, street, 1930"
+      },
+      "antidote": {
+        "concept": "city",
+        "set": "street",
+        "cast": []
+      },
+      "_said": "the absolute killing domesticity of it. I mean, the world is ending, right? The entire financial system has just locked her out solely because of her gender. And instead of, you kn"
+    },
+    {
+      "fp": "146zatv",
+      "i": 2,
+      "from": 657,
+      "subject": "home",
+      "entities": [],
+      "concept": "home",
+      "place": "kitchen",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "home, standing in her kitchen pouring a glass of milk, kitchen, 1930"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": "kitchen",
+        "cast": []
+      },
+      "_said": "standing in her kitchen pouring a glass of milk she won't even drink. We are doing a deep dive into"
+    },
+    {
+      "fp": "1vrwmt8",
+      "i": 3,
+      "from": 804,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "read here, 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "into Margaret Atwood's The Handmaid's Tale today. But look, we need to look past the surface read here. Yeah. Way past it. Because usually when people talk about this book, they tr"
+    },
+    {
+      "fp": "d4g0b3",
+      "i": 4,
+      "from": 1168,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": "street",
+      "confidence": 0.35,
+      "vox": {
+        "shot": "street, 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": "street",
+        "cast": []
+      },
+      "_said": "know, the boots marching in the street, the oppressive laws,"
+    },
+    {
+      "fp": "1vx6n18",
+      "i": 5,
+      "from": 1250,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "laws, the obvious stuff. Exactly. The obvious horrors. But if you strip all that away, the text itself is doing something much more insidious. It's really a manual for"
+    },
+    {
+      "fp": "gr47ne",
+      "i": 6,
+      "from": 1550,
+      "subject": "law",
+      "entities": [],
+      "concept": "law",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "law, 1930"
+      },
+      "antidote": {
+        "concept": "law",
+        "set": null,
+        "cast": []
+      },
+      "_said": "for how ordinary people build the prison from the inside. Right."
+    },
+    {
+      "fp": "zpv0f9",
+      "i": 7,
+      "from": 1644,
+      "subject": "chains",
+      "entities": [],
+      "concept": "chains",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "chains, holding up, 1930"
+      },
+      "antidote": {
+        "concept": "chains",
+        "cast": []
+      },
+      "_said": "Right. One small surrender at a time. Yes. Until escape literally means dismantling the part of the structure that they themselves are holding up. That is such a profound shift in "
+    },
+    {
+      "fp": "1u4oiad",
+      "i": 8,
+      "from": 1932,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "how we process totalitarianism because well, we've been conditioned to look for the monsters. You're right. We look for the heavily armed guards, barbed wire,"
+    },
+    {
+      "fp": "1lym8a4",
+      "i": 9,
+      "from": 2193,
+      "subject": "gift",
+      "entities": [],
+      "concept": "gift",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "gift, 1930"
+      },
+      "antidote": {
+        "concept": "gift",
+        "cast": []
+      },
+      "_said": "wire, the dictators giving speeches on balconies. But this book argues that the architecture"
+    },
+    {
+      "fp": "z2s1g1",
+      "i": 10,
+      "from": 2354,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "architecture of a totalitarian society isn't held up by the commanders at the top. It's held up by the victims. So to set the stage for you, especially if you're just stepping"
+    },
+    {
+      "fp": "5tj61e",
+      "i": 11,
+      "from": 2647,
+      "subject": "Gilead",
+      "entities": [
+        "gilead"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Gilead, 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "gilead"
+        ]
+      },
+      "_said": "stepping into the world of Gilead for the first time, this is a society where"
+    },
+    {
+      "fp": "1co2dqy",
+      "i": 12,
+      "from": 2769,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "where women have been methodically stripped of everything. Property, jobs, bodily autonomy, all of it. And the fertile women are reduced to these reproductive"
+    },
+    {
+      "fp": "ze4aq1",
+      "i": 13,
+      "from": 3014,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "reproductive assets, the handmaids assigned to the elite commanders and their wives. And they're policed by this incredibly complex interlocking hierarchy. You've got the ants, the"
+    },
+    {
+      "fp": "1bqdymc",
+      "i": 14,
+      "from": 3333,
+      "subject": "law",
+      "entities": [],
+      "concept": "law",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "law, 1930"
+      },
+      "antidote": {
+        "concept": "law",
+        "set": null,
+        "cast": []
+      },
+      "_said": "guardians, the secret police known as the eyes. But we are going to completely bypass those obvious"
+    },
+    {
+      "fp": "qfdhmv",
+      "i": 15,
+      "from": 3494,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "obvious top tier villains today. We're focusing purely on this concept"
+    },
+    {
+      "fp": "11cz4tn",
+      "i": 16,
+      "from": 3597,
+      "subject": "Offered",
+      "entities": [
+        "offered"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Offered, 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "offered"
+        ]
+      },
+      "_said": "concept of complicity architecture. How the protagonist offered and literally"
+    },
+    {
+      "fp": "p3g00y",
+      "i": 17,
+      "from": 3705,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "literally everyone around her unknowingly lay the bricks for their own entrapment. And honestly, we have to start at the moment"
+    },
+    {
+      "fp": "1fsyfoq",
+      "i": 18,
+      "from": 3900,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "moment the old world actually dies. Yeah. Because the coup doesn't begin with a hail of gunfire. Atwood drops us right into Offred's"
+    },
+    {
+      "fp": "1f3z75j",
+      "i": 19,
+      "from": 4140,
+      "subject": "home",
+      "entities": [],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "home, 1930"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": []
+      },
+      "_said": "Offred's living room on the day she loses her agency. She's jittery. Very jittery. She's just"
+    },
+    {
+      "fp": "19yvjq9",
+      "i": 20,
+      "from": 4293,
+      "subject": "work",
+      "entities": [],
+      "concept": "work",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "work, 1930"
+      },
+      "antidote": {
+        "concept": "work",
+        "set": null,
+        "cast": []
+      },
+      "_said": "just been fired alongside well every other woman in the country. She goes to the store and her compart, her debit card is frozen because all accounts with an F for female were deac"
+    },
+    {
+      "fp": "1azpq8c",
+      "i": 21,
+      "from": 4697,
+      "subject": "home",
+      "entities": [],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "home, 1930"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": []
+      },
+      "_said": "to their nearest male relative. Just the push of a It's crazy. And when she gets home, she holds her"
+    },
+    {
+      "fp": "yma5lr",
+      "i": 22,
+      "from": 4886,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "her cat against her chest just to feel it purring against her throat. She's desperately trying to ground herself in something normal. It's"
+    },
+    {
+      "fp": "1lx97e7",
+      "i": 23,
+      "from": 5105,
+      "subject": "work",
+      "entities": [],
+      "concept": "work",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "work, 1930"
+      },
+      "antidote": {
+        "concept": "work",
+        "set": null,
+        "cast": []
+      },
+      "_said": "the ultimate bureaucratic nightmare. I mean, when you realize that her bank account was frozen before a single shot was fired, it completely changes how"
+    },
+    {
+      "fp": "ehegd5",
+      "i": 24,
+      "from": 5328,
+      "subject": "storm",
+      "entities": [],
+      "concept": "storm",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "storm, 1930"
+      },
+      "antidote": {
+        "concept": "storm",
+        "set": null,
+        "cast": []
+      },
+      "_said": "how you view administrative Oh, absolutely. It's like when the power goes out during a storm, you know, you don't instantly think the grid has been destroyed by a"
+    },
+    {
+      "fp": "nvx8on",
+      "i": 25,
+      "from": 5570,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "a hostile government, right? You just think, \"Oh, I'll light a candle and call the utility company.\" Exactly."
+    },
+    {
+      "fp": "1czc2da",
+      "i": 26,
+      "from": 5733,
+      "subject": "Offred and Luke — work",
+      "entities": [
+        "offred",
+        "luke"
+      ],
+      "concept": "work",
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Offred and Luke, 1930"
+      },
+      "antidote": {
+        "concept": "work",
+        "set": null,
+        "cast": [
+          "offred",
+          "luke"
+        ]
+      },
+      "_said": "Exactly. Tyranny announces itself as an inconvenience. But what really anchors this beat for me is her husband, Luke. Oh, Luke. Offred tells him what happened. She's lost her money"
+    },
+    {
+      "fp": "1wnlnym",
+      "i": 27,
+      "from": 6086,
+      "subject": "Luke — coin",
+      "entities": [
+        "luke"
+      ],
+      "concept": "coin",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Luke, 1930"
+      },
+      "antidote": {
+        "concept": "coin",
+        "cast": [
+          "luke"
+        ]
+      },
+      "_said": "independence. And Luke looks at her and says, \"I'll take care of it.\" And he means it. He does because the money has been transferred to his name."
+    },
+    {
+      "fp": "bq29zk",
+      "i": 28,
+      "from": 6297,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "name. He assumes control. And the text makes a real point of showing us how quickly he adapts to that Okay, wait, but"
+    },
+    {
+      "fp": "q31tfb",
+      "i": 29,
+      "from": 6518,
+      "subject": "Luke",
+      "entities": [
+        "luke"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Luke, 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "luke"
+        ]
+      },
+      "_said": "but I have to play devil's advocate here. I'm struggling to see Luke as a villain in this specific A villain? Maybe not a villain, but if you look at the reality of that day, he"
+    },
+    {
+      "fp": "16ghip7",
+      "i": 30,
+      "from": 6785,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "he is triaging a crisis. What's is his alternative? If he goes to the bank and throws a punch, he gets arrested or"
+    },
+    {
+      "fp": "167cpxj",
+      "i": 31,
+      "from": 7008,
+      "subject": "Offred — family",
+      "entities": [
+        "offred"
+      ],
+      "concept": "family",
+      "place": "kitchen",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Offred, kitchen, 1930"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": "kitchen",
+        "cast": [
+          "offred"
+        ]
+      },
+      "_said": "And Offred is left entirely unprotected. So when he says, \"I'll take care of it.\" And later when he literally takes their family cat"
+    },
+    {
+      "fp": "1u4f0zh",
+      "i": 32,
+      "from": 7245,
+      "subject": "Which — chains",
+      "entities": [
+        "which"
+      ],
+      "concept": "chains",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Which, 1930"
+      },
+      "antidote": {
+        "concept": "chains",
+        "cast": [
+          "which"
+        ]
+      },
+      "_said": "cat to the garage and kills it, which is brutal. It's so brutal. He kills it so it won't meow and give them away while they try to escape over the border. But I mean, he is taking "
+    },
+    {
+      "fp": "16gd1ty",
+      "i": 33,
+      "from": 7517,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": "kitchen",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, kitchen, 1930"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": "kitchen",
+        "cast": []
+      },
+      "_said": "these horrific burdens to save his family. He steps up. Look, I'm not saying he doesn't love her or that he isn't trying to survive, but we have to look closely at the psychology o"
+    },
+    {
+      "fp": "xoxajw",
+      "i": 34,
+      "from": 7900,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "notes, writes that when he tells her not to worry, 1930"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": []
+      },
+      "_said": "Atwood writes that when he tells her not to worry, he says it with a subtle,"
+    },
+    {
+      "fp": "6q3ff0",
+      "i": 35,
+      "from": 8052,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "subtle, almost imperceptible shift in tone. Like what? He's patronizing her. He is insulated by his gender and in a terrifyingly short amount of time he begins looking at her from "
+    },
+    {
+      "fp": "1tf2uyb",
+      "i": 36,
+      "from": 8390,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "a place of newly restored You think he actually likes it that his wife is now his dependent? I mean"
+    },
+    {
+      "fp": "e0duj2",
+      "i": 37,
+      "from": 8592,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "notes, 1930"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": []
+      },
+      "_said": "mean the narrator explicitly notes the shift in him when they make love that night. She feels like something"
+    },
+    {
+      "fp": "ayxkx0",
+      "i": 38,
+      "from": 8767,
+      "subject": "shield",
+      "entities": [],
+      "concept": "shield",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "shield, 1930"
+      },
+      "antidote": {
+        "concept": "shield",
+        "cast": []
+      },
+      "_said": "something has fundamentally broken between them because she is no longer his equal. She's his property. Oh wow. Luke's protection is the very first break in Gilead's"
+    },
+    {
+      "fp": "1gd6xbp",
+      "i": 39,
+      "from": 9038,
+      "subject": "heart",
+      "entities": [],
+      "concept": "heart",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "heart, 1930"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": null,
+        "cast": []
+      },
+      "_said": "Gilead's complicity architecture. Wow. The regime relies on good men, men who love their wives to accept the new normal just to maintain a semblance"
+    },
+    {
+      "fp": "gzl902",
+      "i": 40,
+      "from": 9300,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "semblance of domestic peace. Because if all the men had rejected the transfer of funds, the system would have choked. But Luke's willingness to just take care of it,"
+    },
+    {
+      "fp": "pbn43e",
+      "i": 41,
+      "from": 9540,
+      "subject": "Gilead",
+      "entities": [
+        "gilead"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Gilead, 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "gilead"
+        ]
+      },
+      "_said": "it, that's the exact mechanism Gilead needs. It's the path of least resistance. He absorbs the shock for her, but by absorbing it,"
+    },
+    {
+      "fp": "117ix68",
+      "i": 42,
+      "from": 9760,
+      "subject": "magnifier",
+      "entities": [],
+      "concept": "magnifier",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "magnifier, 1930"
+      },
+      "antidote": {
+        "concept": "magnifier",
+        "cast": []
+      },
+      "_said": "it, he validates the law. And you know, that detail about killing the cat really haunts me in this context. It's awful."
+    },
+    {
+      "fp": "j0mk43",
+      "i": 43,
+      "from": 9972,
+      "subject": "Luke — mirror",
+      "entities": [
+        "luke"
+      ],
+      "concept": "mirror",
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Luke, 1930"
+      },
+      "antidote": {
+        "concept": "mirror",
+        "set": null,
+        "cast": [
+          "luke"
+        ]
+      },
+      "_said": "awful. The narrator reflects on what Luke had to do in the garage and she says that is what you have to do before you kill. You have to create an it where none was He had to emotio"
+    },
+    {
+      "fp": "13w70r5",
+      "i": 44,
+      "from": 10392,
+      "subject": "Luke and Which",
+      "entities": [
+        "luke",
+        "which"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Luke and Which, 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "luke",
+          "which"
+        ]
+      },
+      "_said": "state's dirty work of silencing it. Which is exactly what the state is doing to offer. They're creating an it. And Luke is inadvertently rehearsing the regime's"
+    },
+    {
+      "fp": "5n0889",
+      "i": 45,
+      "from": 10641,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "regime's playbook right in his own garage."
+    },
+    {
+      "fp": "1ifkuqe",
+      "i": 46,
+      "from": 10718,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "garage. That domestic erosion paves the way for the institutional horrors because once the women are stripped of their rights and their male relatives have accepted it, they're rou"
+    },
+    {
+      "fp": "137t2ey",
+      "i": 47,
+      "from": 11045,
+      "subject": "law",
+      "entities": [],
+      "concept": "law",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "law, 1930"
+      },
+      "antidote": {
+        "concept": "law",
+        "set": null,
+        "cast": []
+      },
+      "_said": "Right. And Atwood doesn't describe the prison where they train the handmaids with iron bars or dungeons. She places them"
+    },
+    {
+      "fp": "3m7306",
+      "i": 48,
+      "from": 11210,
+      "subject": "Which — war",
+      "entities": [
+        "which"
+      ],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Which, 1930"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": [
+          "which"
+        ]
+      },
+      "_said": "them in a converted high school which is so creepy. You can practically smell the lingering odor of old sweat and perfume baked into the varnished floorboards. Yeah, that sensory d"
+    },
+    {
+      "fp": "1xtjf4j",
+      "i": 49,
+      "from": 11661,
+      "subject": "Lydia",
+      "entities": [
+        "lydia"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Lydia, 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "lydia"
+        ]
+      },
+      "_said": "cotss are Aunt Lydia and Aunt Sarah. You literally hear the creek of their leather belts. And dangling from those belts"
+    },
+    {
+      "fp": "r15w4c",
+      "i": 50,
+      "from": 11887,
+      "subject": "crash",
+      "entities": [],
+      "concept": "crash",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "crash, 1930"
+      },
+      "antidote": {
+        "concept": "crash",
+        "set": null,
+        "cast": []
+      },
+      "_said": "belts are electric cattle prods. Yes, it is a brilliant collision of the mundane and the horrific."
+    },
+    {
+      "fp": "1gxni8h",
+      "i": 51,
+      "from": 12076,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "horrific. But the critical structural revelation here is the gender of the enforcers. Because well, the"
+    },
+    {
+      "fp": "1u5rd3y",
+      "i": 52,
+      "from": 12245,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "the most effective enforcers of patriarchy in this world, they're women, the ants, right? The system"
+    },
+    {
+      "fp": "l0xoaa",
+      "i": 53,
+      "from": 12427,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "system needs brute male force. The angels and guardians with machine guns on the outside of the building, but inside to actually break the spirit of the women, they need the ants t"
+    },
+    {
+      "fp": "10paelq",
+      "i": 54,
+      "from": 12780,
+      "subject": "trophy",
+      "entities": [],
+      "concept": "trophy",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "trophy, 1930"
+      },
+      "antidote": {
+        "concept": "trophy",
+        "cast": []
+      },
+      "_said": "walls of female subjugation. Because brute force can only win compliance. I mean, a man with a gun can"
+    },
+    {
+      "fp": "n9vuuj",
+      "i": 55,
+      "from": 12933,
+      "subject": "Lydia",
+      "entities": [
+        "lydia"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Lydia, sit down, 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "lydia"
+        ]
+      },
+      "_said": "can make you sit down, but a woman in authority can make you believe you deserve to sit down. Exactly. You need the ants to get true submission. And Lydia is the master of She real"
+    },
+    {
+      "fp": "ktzeop",
+      "i": 56,
+      "from": 13276,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "violence and maternal tenderness. She will oversee a woman's feet being beaten with steel cables. And in the next breath, she calls the handmaid's"
+    },
+    {
+      "fp": "1mrjgi5",
+      "i": 57,
+      "from": 13459,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "handmaid's girls. It's so messed up. She tells them, \"Think of yourselves as She claims they"
+    },
+    {
+      "fp": "h4etnp",
+      "i": 58,
+      "from": 13663,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "they are a transitional generation doing the holy work of repopulating a poisoned earth so things will be easier for the women who come She frames this"
+    },
+    {
+      "fp": "1lp8g0",
+      "i": 59,
+      "from": 13925,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "this absolute enslavement as a spiritual elevation. She weaponizes the language of feminism and sisterhood against them."
+    },
+    {
+      "fp": "ped2sa",
+      "i": 60,
+      "from": 14136,
+      "subject": "Lydia — shield",
+      "entities": [
+        "lydia"
+      ],
+      "concept": "shield",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Lydia, 1930"
+      },
+      "antidote": {
+        "concept": "shield",
+        "cast": [
+          "lydia"
+        ]
+      },
+      "_said": "them. Aunt Lydia constantly talks about female solidarity, about women protecting each other from"
+    },
+    {
+      "fp": "fis3n7",
+      "i": 61,
+      "from": 14299,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "run a rape camp, 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "from the predatory nature of men. She uses the rhetoric of a women's shelter to run a rape camp. Let me push back on the ants for a second, though. Are they truly architects or are"
+    },
+    {
+      "fp": "eruorg",
+      "i": 62,
+      "from": 14585,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "the ultimate hostages? What do you mean? In the epilogue, we learn about the toxic colonies where dissident are sent"
+    },
+    {
+      "fp": "11sieq",
+      "i": 63,
+      "from": 14752,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "sent to shovel radioactive waste until their skin peels off and they drop dead. Right. If"
+    },
+    {
+      "fp": "1q2ldq6",
+      "i": 64,
+      "from": 14889,
+      "subject": "grave",
+      "entities": [],
+      "concept": "grave",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "grave, holding a cattle prod, 1930"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": null,
+        "cast": []
+      },
+      "_said": "If an older infertile woman is given the choice between an agonizing death in the colonies or putting on a brown uniform and holding a cattle prod, she's going to grab the prod. I "
+    },
+    {
+      "fp": "1bp1s50",
+      "i": 65,
+      "from": 15249,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "it's the trolley problem on steroids. They"
+    },
+    {
+      "fp": "yvrkud",
+      "i": 66,
+      "from": 15316,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "They are brainwashed victims doing whatever it takes to survive. See, it's comforting to think they were forced at gunpoint, but the historical records in the novel's epilog destro"
+    },
+    {
+      "fp": "1ue9yul",
+      "i": 67,
+      "from": 15621,
+      "subject": "Gilead",
+      "entities": [
+        "gilead"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Gilead, 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "gilead"
+        ]
+      },
+      "_said": "do. Professor Pieixoto explicitly states that the architects of Gilead knew the most coste effective way to control women was through women The ants"
+    },
+    {
+      "fp": "clwpzo",
+      "i": 68,
+      "from": 15919,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "ants weren't drafted against their Wait, really? Yes. Older, unmarried, or infertile women who had previously held positions of authority, teachers,"
+    },
+    {
+      "fp": "lwf6cy",
+      "i": 69,
+      "from": 16190,
+      "subject": "chains",
+      "entities": [],
+      "concept": "chains",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "chains, 1930"
+      },
+      "antidote": {
+        "concept": "chains",
+        "cast": []
+      },
+      "_said": "teachers, social workers, politicians, they were given a choice and they took the deal. Oh wow. They actively traded the freedom of younger women for their"
+    },
+    {
+      "fp": "156ln6g",
+      "i": 70,
+      "from": 16459,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "their own survival status and power. They saw a power vacuum and they stepped into it. So they chose power over solidarity. Absolutely. They didn't just acquies, they innovated."
+    },
+    {
+      "fp": "98xrmw",
+      "i": 71,
+      "from": 16747,
+      "subject": "Lydia",
+      "entities": [
+        "lydia"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Lydia, 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "lydia"
+        ]
+      },
+      "_said": "innovated. And Lydia is just following a script. She is actively refining the psychological torture. This"
+    },
+    {
+      "fp": "4qg45y",
+      "i": 72,
+      "from": 16908,
+      "subject": "Gilead — law",
+      "entities": [
+        "gilead"
+      ],
+      "concept": "law",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Gilead, 1930"
+      },
+      "antidote": {
+        "concept": "law",
+        "set": null,
+        "cast": [
+          "gilead"
+        ]
+      },
+      "_said": "This is how the complicity architecture scales up. Gilead doesn't have the manpower to police everyone's thoughts. It doesn't have to as long as it offers a sliver of authority to"
+    },
+    {
+      "fp": "1d5opbf",
+      "i": 73,
+      "from": 17186,
+      "subject": "law",
+      "entities": [],
+      "concept": "law",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "law, 1930"
+      },
+      "antidote": {
+        "concept": "law",
+        "set": null,
+        "cast": []
+      },
+      "_said": "to a few oppressed people who will then gleefully police the rest. The ants"
+    },
+    {
+      "fp": "vqukjt",
+      "i": 74,
+      "from": 17316,
+      "subject": "Which — school",
+      "entities": [
+        "which"
+      ],
+      "concept": "school",
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Which, 1930"
+      },
+      "antidote": {
+        "concept": "school",
+        "set": null,
+        "cast": [
+          "which"
+        ]
+      },
+      "_said": "ants are the middle managers of Yes. Ensuring the executive class never has to get its hands dirty. Which bleeds perfectly into"
+    },
+    {
+      "fp": "18o8uuk",
+      "i": 75,
+      "from": 17551,
+      "subject": "Gilead and Which",
+      "entities": [
+        "gilead",
+        "which"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Gilead and Which, 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "gilead",
+          "which"
+        ]
+      },
+      "_said": "into how Gilead functions inside the actual homes of the elite. The ants break the women, but the wives maintain them. Oh, the wives. We have to look at the ceremony, which is perh"
+    },
+    {
+      "fp": "18yzzic",
+      "i": 76,
+      "from": 17873,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "the most agonizing recurring scene in the entire book. It's awful to It is the ritualized monthly attempt at conception."
+    },
+    {
+      "fp": "1hm3o42",
+      "i": 77,
+      "from": 18101,
+      "subject": "Offered",
+      "entities": [
+        "offered"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Offered, 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "offered"
+        ]
+      },
+      "_said": "conception. Serena Joy, the commander's wife, lies on the bed. Offered the handmaid, lies between her legs, and the commander performs the act."
+    },
+    {
+      "fp": "ioiung",
+      "i": 78,
+      "from": 18338,
+      "subject": "magnifier",
+      "entities": [],
+      "concept": "magnifier",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "magnifier, 1930"
+      },
+      "antidote": {
+        "concept": "magnifier",
+        "cast": []
+      },
+      "_said": "act. But Atwood grounds it in this excruciating physical detail. The rings. Yes. Serena Joyy's"
+    },
+    {
+      "fp": "19vlj8a",
+      "i": 79,
+      "from": 18525,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Joyy's heavy diamond rings bite painfully into Offred's flesh because Serena is gripping her hands with such intense white-nuckled force. And"
+    },
+    {
+      "fp": "7xli1p",
+      "i": 80,
+      "from": 18777,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "runs down offred's legs while serena joy abr, 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "And when it's over, the commander's fluid runs down Offred's legs while Serena Joy abruptly straightens her blue skirt, clinches"
+    },
+    {
+      "fp": "19mnuxx",
+      "i": 81,
+      "from": 18962,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "clinches her legs together, and lies stiff as an effigy, staring up at the canopy. The mechanics of this ritual are essential to understanding the society, cuz this isn't"
+    },
+    {
+      "fp": "oe5jfz",
+      "i": 82,
+      "from": 19224,
+      "subject": "compass",
+      "entities": [],
+      "concept": "compass",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "compass, 1930"
+      },
+      "antidote": {
+        "concept": "compass",
+        "cast": []
+      },
+      "_said": "isn't just state sanctioned rape for the purpose of reproduction. Right. If it were purely clinical, purely about making babies, they wouldn't need the wife in the room. Exactly. T"
+    },
+    {
+      "fp": "1mqbisu",
+      "i": 83,
+      "from": 19488,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "for a structural reason. The ritual requires her to be a co-perpetrator who is utterly convinced she is the primary because"
+    },
+    {
+      "fp": "v1pnjr",
+      "i": 84,
+      "from": 19756,
+      "subject": "Gilead — crack",
+      "entities": [
+        "gilead"
+      ],
+      "concept": "crack",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Gilead, 1930"
+      },
+      "antidote": {
+        "concept": "crack",
+        "cast": [
+          "gilead"
+        ]
+      },
+      "_said": "because totalitarian systems thrive when they force the oppressed to compete for the status of most victimized. Yes, Gilead would fracture"
+    },
+    {
+      "fp": "gs0xn5",
+      "i": 85,
+      "from": 20004,
+      "subject": "Offred — family",
+      "entities": [
+        "offred"
+      ],
+      "concept": "family",
+      "place": "kitchen",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Offred, kitchen, 1930"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": "kitchen",
+        "cast": [
+          "offred"
+        ]
+      },
+      "_said": "fracture if Serena Joy ever looked at Offred and saw a sister in suffering. It relies on her delusion that she is the one enduring a hardship. You really see the tragedy of that wh"
+    },
+    {
+      "fp": "18aw6eb",
+      "i": 86,
+      "from": 20316,
+      "subject": "Offred",
+      "entities": [
+        "offred"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Offred, 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "offred"
+        ]
+      },
+      "_said": "when you look at Serena Joyy's backstory. Oh, her past is fascinating. Offred remembers seeing her"
+    },
+    {
+      "fp": "9skrlo",
+      "i": 87,
+      "from": 20443,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "her on Sunday morning television as a child. Serena used to be the lead soprano for the growing souls gospel hour. She was a public figure. She could cry on Q singing about But the"
+    },
+    {
+      "fp": "hpfic5",
+      "i": 88,
+      "from": 20767,
+      "subject": "home",
+      "entities": [],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "home, 1930"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": []
+      },
+      "_said": "She started making impassion speeches about how a woman's place was strictly in the home. She actively campaigned for the patriarchal fundamentalist world"
+    },
+    {
+      "fp": "9x2ajd",
+      "i": 89,
+      "from": 20993,
+      "subject": "Gilead — law",
+      "entities": [
+        "gilead"
+      ],
+      "concept": "law",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Gilead, 1930"
+      },
+      "antidote": {
+        "concept": "law",
+        "set": null,
+        "cast": [
+          "gilead"
+        ]
+      },
+      "_said": "world that Gilead eventually built. And now she is entirely trapped in the exact domestic prison she advocated for. She has no public voice. She can't read. She spends"
+    },
+    {
+      "fp": "uzoq6z",
+      "i": 90,
+      "from": 21283,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "spends her days knitting elaborate, useless scarves for the military. Scarves"
+    },
+    {
+      "fp": "l5bch8",
+      "i": 91,
+      "from": 21444,
+      "subject": "Offered",
+      "entities": [
+        "offered"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Offered, 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "offered"
+        ]
+      },
+      "_said": "Scarves that offered suspects just get unraveled and turned back into yarn just to keep the wives busy. It's an incredible irony. She"
+    },
+    {
+      "fp": "1v6jys",
+      "i": 92,
+      "from": 21636,
+      "subject": "chains",
+      "entities": [],
+      "concept": "chains",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "chains, walked inside, 1930"
+      },
+      "antidote": {
+        "concept": "chains",
+        "cast": []
+      },
+      "_said": "She built the cage, walked inside, and handed the key to her husband. I"
+    },
+    {
+      "fp": "ixtelt",
+      "i": 93,
+      "from": 21761,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "I look at Serena Joy and despite the cruelty, I do feel a profound pity for You do? I mean, imagine being a former celebrity, a woman with a voice, now forced to sit"
+    },
+    {
+      "fp": "1ru294x",
+      "i": 94,
+      "from": 22092,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "sit in silent humiliation every month, 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "sit in silent humiliation every month, physically holding the hands of a younger woman while"
+    },
+    {
+      "fp": "1adyjwz",
+      "i": 95,
+      "from": 22241,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "while your husband violates her right in front of Sure, it's terrible. That is a form"
+    },
+    {
+      "fp": "8hoowv",
+      "i": 96,
+      "from": 22365,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "form of psychological torture specifically"
+    },
+    {
+      "fp": "19qmk4t",
+      "i": 97,
+      "from": 22423,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "specifically designed to break the wife's spirit, too. She's completely Her misery is undeniable, but and this is big, but her misery is also her How so? Feeling bad for her doesn'"
+    },
+    {
+      "fp": "2diigd",
+      "i": 98,
+      "from": 22778,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "her of her active participation. Notice what she does with that pain. She doesn't direct it at her husband, the man actually orchestrating the assault. She directs it entirely down"
+    },
+    {
+      "fp": "lyi28r",
+      "i": 99,
+      "from": 23071,
+      "subject": "Offred — compass",
+      "entities": [
+        "offred"
+      ],
+      "concept": "compass",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Offred, 1930"
+      },
+      "antidote": {
+        "concept": "compass",
+        "cast": [
+          "offred"
+        ]
+      },
+      "_said": "downward at Offred. She squeezes those rings into Offred's fingers on purpose to inflict physical pain. Oh, that's true. And the moment the act is over,"
+    },
+    {
+      "fp": "15m36wb",
+      "i": 100,
+      "from": 23333,
+      "subject": "Offred",
+      "entities": [
+        "offred"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Offred, 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "offred"
+        ]
+      },
+      "_said": "over, she kicks Offred out, snapping, \"Get up and get out.\" Her tears, her stiff posture,"
+    },
+    {
+      "fp": "1xk1epf",
+      "i": 101,
+      "from": 23522,
+      "subject": "home",
+      "entities": [],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "home, 1930"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": []
+      },
+      "_said": "posture, her performed humiliation. She uses all of it to reassert her dominance over the one person in the house lower than her. It's"
+    },
+    {
+      "fp": "4p0uhm",
+      "i": 102,
+      "from": 23748,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": "kitchen",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, hold the younger sibling down during a beati, kitchen, 1930"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": "kitchen",
+        "cast": []
+      },
+      "_said": "It's like an abusive parent forcing the older sibling to hold the younger sibling down during a beating so the older sib starts hating the younger one instead of the parent. Exactl"
+    },
+    {
+      "fp": "9ypvei",
+      "i": 103,
+      "from": 24036,
+      "subject": "target",
+      "entities": [],
+      "concept": "target",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "target, 1930"
+      },
+      "antidote": {
+        "concept": "target",
+        "cast": []
+      },
+      "_said": "channel their absolute powerlessness into cruelty against the only target they are allowed to strike."
+    },
+    {
+      "fp": "99mr3o",
+      "i": 104,
+      "from": 24223,
+      "subject": "Offered — lightbulb",
+      "entities": [
+        "offered"
+      ],
+      "concept": "lightbulb",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Offered, 1930"
+      },
+      "antidote": {
+        "concept": "lightbulb",
+        "cast": [
+          "offered"
+        ]
+      },
+      "_said": "She is cannibalizing offered trauma to sustain her own sense of self. And this is the genius of the complicity architecture. The regime doesn't just divide and conquer. It forces w"
+    },
+    {
+      "fp": "avcap6",
+      "i": 105,
+      "from": 24626,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "keep the structure standing. The ceremony bonds the commander and the wife"
+    },
+    {
+      "fp": "lbsu6f",
+      "i": 106,
+      "from": 24725,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "wife in shared domination while isolating the handmaid. And that isolation drives the complicity even deeper because it doesn't just dictate how these women treat each other. It in"
+    },
+    {
+      "fp": "wrqrz0",
+      "i": 107,
+      "from": 25003,
+      "subject": "Offred",
+      "entities": [
+        "offred"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Offred, 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "offred"
+        ]
+      },
+      "_said": "infects how Offred treats herself in the privacy of her own mind. Her internal monologue. Yeah. When the ceremony is over,"
+    },
+    {
+      "fp": "2ywuji",
+      "i": 108,
+      "from": 25216,
+      "subject": "Offred",
+      "entities": [
+        "offred"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Offred, sits in her chair, 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "offred"
+        ]
+      },
+      "_said": "over, we follow Offred sneaking back to her barren room in the dark. She sits in her chair,"
+    },
+    {
+      "fp": "8bltwl",
+      "i": 109,
+      "from": 25375,
+      "subject": "storm",
+      "entities": [],
+      "concept": "storm",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "storm, 1930"
+      },
+      "antidote": {
+        "concept": "storm",
+        "set": null,
+        "cast": []
+      },
+      "_said": "chair, fully dressed in her heavy red habit. She feels the weave of the bed sheet in the darkness, And in her head, as she is telling us this story, she thinks, \"This is a reconstr"
+    },
+    {
+      "fp": "1v9zu3p",
+      "i": 110,
+      "from": 25773,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "This internal monologue is one of the most vital and disturbing psychological elements of Atwood's"
+    },
+    {
+      "fp": "yf2uo4",
+      "i": 111,
+      "from": 25936,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Atwood's world. Offred's narration itself becomes an act of What does that mean for the listener It means that when"
+    },
+    {
+      "fp": "59oxhx",
+      "i": 112,
+      "from": 26136,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "when survival demands it, even your own memory becomes a liability. You edit, you revise, you actively reshaped your trauma in real time just to"
+    },
+    {
+      "fp": "3qognt",
+      "i": 113,
+      "from": 26414,
+      "subject": "fire",
+      "entities": [],
+      "concept": "fire",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "fire, 1930"
+      },
+      "antidote": {
+        "concept": "fire",
+        "cast": []
+      },
+      "_said": "to make it bearable enough to wake up the next morning. It's a self-cleing oven for the soul. She is burning away the harshest edges of reality just to survive it. We see her do th"
+    },
+    {
+      "fp": "s22os4",
+      "i": 114,
+      "from": 26705,
+      "subject": "heart",
+      "entities": [],
+      "concept": "heart",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "heart, 1930"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": null,
+        "cast": []
+      },
+      "_said": "constantly. Like when she describes an interaction like kissing the commander in his study and she'll try to romanticize it. She'll say, \"He was so sad.\" Right. But"
+    },
+    {
+      "fp": "wrg9yx",
+      "i": 115,
+      "from": 26911,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "But then she stops herself. Yes. She admits that is a reconstruction, too. She literally"
+    },
+    {
+      "fp": "1n9isvm",
+      "i": 116,
+      "from": 27038,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "literally catches herself trying to soften her captor to make the reality of"
+    },
+    {
+      "fp": "j64bv0",
+      "i": 117,
+      "from": 27160,
+      "subject": "Luke — family",
+      "entities": [
+        "luke"
+      ],
+      "concept": "family",
+      "place": "kitchen",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Luke, kitchen, 1930"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": "kitchen",
+        "cast": [
+          "luke"
+        ]
+      },
+      "_said": "of her enslavement less repulsive. And she does this with her family, too. She obsesses over what happened to Luke and her kidnapped daughter."
+    },
+    {
+      "fp": "1iwstru",
+      "i": 118,
+      "from": 27376,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": "kitchen",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, kitchen, 1930"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": "kitchen",
+        "cast": []
+      },
+      "_said": "daughter. She imagines them escaping, then she imagines them captured, and eventually she imagines them dead. Because in"
+    },
+    {
+      "fp": "1p372to",
+      "i": 119,
+      "from": 27578,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "in her own words, it's easier to adjust. She says, \"I don't have to hope then or make a wasted effort.\" She echoes"
+    },
+    {
+      "fp": "hi1rzk",
+      "i": 120,
+      "from": 27746,
+      "subject": "Lydia",
+      "entities": [
+        "lydia"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Lydia, 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "lydia"
+        ]
+      },
+      "_said": "echoes Aunt Lydia's indoctrination without even realizing it. And Lydia tells the girls, \"Why bash your head against a wall?\""
+    },
+    {
+      "fp": "6d603e",
+      "i": 121,
+      "from": 27933,
+      "subject": "Offred",
+      "entities": [
+        "offred"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Offred, 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "offred"
+        ]
+      },
+      "_said": "wall?\" And Offred internalizes that perfectly. But wait, is that truly complicity? How could it not be? Because any psychologist reading this would say it's a textbook trauma respo"
+    },
+    {
+      "fp": "129bjcn",
+      "i": 122,
+      "from": 28209,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "response. It's PTSD fragmenting her mind so she doesn't entirely break down. Sure, trauma is a factor. If you are locked in a room where every day is a waking nightmare,"
+    },
+    {
+      "fp": "6r59f1",
+      "i": 123,
+      "from": 28471,
+      "subject": "shield",
+      "entities": [],
+      "concept": "shield",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "shield, 1930"
+      },
+      "antidote": {
+        "concept": "shield",
+        "cast": []
+      },
+      "_said": "nightmare, the survival instinct kicks in and blunts the edges. That's just human biology protecting the brain, not"
+    },
+    {
+      "fp": "nfem83",
+      "i": 124,
+      "from": 28625,
+      "subject": "shield",
+      "entities": [],
+      "concept": "shield",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "shield, 1930"
+      },
+      "antidote": {
+        "concept": "shield",
+        "cast": []
+      },
+      "_said": "not a political surrender. It begins as a defense mechanism. Yes. But in the context of a totalitarian regime, it transitions into active The state's"
+    },
+    {
+      "fp": "119ly4y",
+      "i": 125,
+      "from": 28953,
+      "subject": "target",
+      "entities": [],
+      "concept": "target",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "target, 1930"
+      },
+      "antidote": {
+        "concept": "target",
+        "cast": []
+      },
+      "_said": "state's primary goal is to erase her identity. They stripped her of her real name."
+    },
+    {
+      "fp": "1p3xzx",
+      "i": 126,
+      "from": 29097,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": "kitchen",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, kitchen, 1930"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": "kitchen",
+        "cast": []
+      },
+      "_said": "name. They took away her family. And they demanded that she forget her past. By constantly telling herself to live in the present, make the most of it. That's all you've got about."
+    },
+    {
+      "fp": "1d2rfqu",
+      "i": 127,
+      "from": 29486,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "She is internally complying with the mandate of eraser. Because if she allowed herself to hold on"
+    },
+    {
+      "fp": "1vzsi95",
+      "i": 128,
+      "from": 29640,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": "kitchen",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, kitchen, 1930"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": "kitchen",
+        "cast": []
+      },
+      "_said": "on to the full unfiltered memory of her husband, of her daughter, of her freedom, the contrast would be so violent, it would force her to act. If she refuses to edit the memories,"
+    },
+    {
+      "fp": "ych77p",
+      "i": 129,
+      "from": 29959,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "memories, the pain becomes intolerable. And intolerable pain demands a response. It demands rebellion. Right. By suiting herself with reconstruction, she dars the pain just enough "
+    },
+    {
+      "fp": "1c20o9",
+      "i": 130,
+      "from": 30252,
+      "subject": "trophy",
+      "entities": [],
+      "concept": "trophy",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "trophy, 1930"
+      },
+      "antidote": {
+        "concept": "trophy",
+        "cast": []
+      },
+      "_said": "The complicity architecture doesn't just dictate what she wears or where she It dictates how she remembers. The ultimate victory of the system is when"
+    },
+    {
+      "fp": "ahc3l7",
+      "i": 131,
+      "from": 30480,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "when the prisoner starts building the walls inside their own mind, policing"
+    },
+    {
+      "fp": "znjf49",
+      "i": 132,
+      "from": 30578,
+      "subject": "Which",
+      "entities": [
+        "which"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Which, 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "which"
+        ]
+      },
+      "_said": "policing their own thoughts so the state doesn't have to. Which begs the question, what happens to the women who refuse to edit their memories? The ones who refuse to build"
+    },
+    {
+      "fp": "qvl0so",
+      "i": 133,
+      "from": 30852,
+      "subject": "Moira — lightbulb",
+      "entities": [
+        "moira"
+      ],
+      "concept": "lightbulb",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Moira, 1930"
+      },
+      "antidote": {
+        "concept": "lightbulb",
+        "cast": [
+          "moira"
+        ]
+      },
+      "_said": "build those internal walls. Ow answers that with Moira. Moira is the absolute spark in this book. She is the rejection of Offred's"
+    },
+    {
+      "fp": "8q7nx2",
+      "i": 134,
+      "from": 31101,
+      "subject": "Moira",
+      "entities": [
+        "moira"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Moira, 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "moira"
+        ]
+      },
+      "_said": "Offred's internal retreat. Think about that incredibly tense scene back at the Red Center when Moira finally makes her move. Yes, she fakes an illness, gets sent to the bathroom, a"
+    },
+    {
+      "fp": "1insq8m",
+      "i": 135,
+      "from": 31473,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "extract a sharp pointed metal lever. It's so badass. She waits"
+    },
+    {
+      "fp": "klok6m",
+      "i": 136,
+      "from": 31588,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "waits for ann elizabeth, 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "waits for Ann Elizabeth, holds her hostage by poking that metal shard right into her ribs, threatening to puncture her lung, and then she forces the ant to strip in the furnace roo"
+    },
+    {
+      "fp": "1rivfik",
+      "i": 137,
+      "from": 31910,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "walks right out the front door, 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "like a Christmas turkey using strips of the ant's own veil, puts on the ant's clothes, and confidently walks right out the front door. It is a breathtaking moment of audacity. I me"
+    },
+    {
+      "fp": "1fwn85i",
+      "i": 138,
+      "from": 32225,
+      "subject": "Moira — gift",
+      "entities": [
+        "moira"
+      ],
+      "concept": "gift",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Moira, 1930"
+      },
+      "antidote": {
+        "concept": "gift",
+        "cast": [
+          "moira"
+        ]
+      },
+      "_said": "a book suffocating with passivity, Moira is the symbol of ultimate resistance. But Atwood doesn't give us a Hollywood ending here. No, she doesn't. Moira's"
+    },
+    {
+      "fp": "19fy8qm",
+      "i": 139,
+      "from": 32515,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Moira's arc reveals Gilead's second much"
+    },
+    {
+      "fp": "1pz9tso",
+      "i": 140,
+      "from": 32589,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "much deeper trap regarding rebellion. It shows us that resistance is actually allowed, but only within"
+    },
+    {
+      "fp": "1mqrq51",
+      "i": 141,
+      "from": 32757,
+      "subject": "Offered — puppeteer",
+      "entities": [
+        "offered"
+      ],
+      "concept": "puppeteer",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Offered, 1930"
+      },
+      "antidote": {
+        "concept": "puppeteer",
+        "cast": [
+          "offered"
+        ]
+      },
+      "_said": "within a controlled systemic zone so it can be consumed and We find that out much later when Offered is secretly taken by"
+    },
+    {
+      "fp": "wwxkgm",
+      "i": 142,
+      "from": 32990,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "by her commander to Jezebel's an underground illegal brothel operating purely for"
+    },
+    {
+      "fp": "k0smc1",
+      "i": 143,
+      "from": 33153,
+      "subject": "Moira",
+      "entities": [
+        "moira"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Moira, 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "moira"
+        ]
+      },
+      "_said": "for the elite men of And who does she find there? Moira. But she isn't"
+    },
+    {
+      "fp": "lov56u",
+      "i": 144,
+      "from": 33281,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "isn't a revolutionary anymore. She's dressed in absurd tart stuff, lace crotches, snapgu garders, a bra that aggressively pushes her chest up. She's smoking"
+    },
+    {
+      "fp": "115xlg2",
+      "i": 145,
+      "from": 33542,
+      "subject": "Offred — road",
+      "entities": [
+        "offred"
+      ],
+      "concept": "road",
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Offred, 1930"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": null,
+        "cast": [
+          "offred"
+        ]
+      },
+      "_said": "smoking a borrowed cigarette. She tells Offred that she almost made it on the underground female road, but"
+    },
+    {
+      "fp": "k4elub",
+      "i": 146,
+      "from": 33693,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "but she was caught, tortured, and given the choice between the radioactive colonies or Jezebels. And now she calls it a butch paradise because she's surrounded by other women. The "
+    },
+    {
+      "fp": "1rvpu7i",
+      "i": 147,
+      "from": 33996,
+      "subject": "fire",
+      "entities": [],
+      "concept": "fire",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "fire, 1930"
+      },
+      "antidote": {
+        "concept": "fire",
+        "cast": []
+      },
+      "_said": "is her total indifference. She tells Offer, \"Don't worry about me. It's not so bad.\" The fire is completely extinguished. Her voice lacks any valition. She has But I"
+    },
+    {
+      "fp": "tvcash",
+      "i": 148,
+      "from": 34293,
+      "subject": "Moira — war",
+      "entities": [
+        "moira"
+      ],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Moira, 1930"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": [
+          "moira"
+        ]
+      },
+      "_said": "I cannot call Moira complicit. It feels wrong to lump her into the complicity architecture. She fought the system. She escaped. She went through the underground. She got caught."
+    },
+    {
+      "fp": "1uljbmo",
+      "i": 149,
+      "from": 34596,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, 1930"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "caught. She endured horrific torture. She fought until she literally had nothing left to That's true. The system broke her with"
+    },
+    {
+      "fp": "gu5j85",
+      "i": 150,
+      "from": 34824,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, 1930"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "with overwhelming physical force. She's a casualty of war, not a collaborator. I'm"
+    },
+    {
+      "fp": "18ad9h9",
+      "i": 151,
+      "from": 34985,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "I'm not questioning her bravery and I'm not blaming her for breaking under torture. But we have to look at how the system uses her. The dark systemic truth is that"
+    },
+    {
+      "fp": "14373j5",
+      "i": 152,
+      "from": 35277,
+      "subject": "Moira",
+      "entities": [
+        "moira"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Moira, 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "moira"
+        ]
+      },
+      "_said": "that the regime designed Jezebels exactly for women like Moira. They know fundamentally that they cannot break every single woman perfectly into"
+    },
+    {
+      "fp": "5fzoy3",
+      "i": 153,
+      "from": 35563,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "into the submissive handmade mold. There will always be outliers. Exactly. So instead of executing all the rebels, they monetize them. They take the most unruly, intelligent,"
+    },
+    {
+      "fp": "r07b9o",
+      "i": 154,
+      "from": 35848,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "intelligent, dangerous women and they turn them"
+    },
+    {
+      "fp": "nagebx",
+      "i": 155,
+      "from": 35913,
+      "subject": "fire",
+      "entities": [],
+      "concept": "fire",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "fire, 1930"
+      },
+      "antidote": {
+        "concept": "fire",
+        "cast": []
+      },
+      "_said": "them into illicit sex workers for the commanders. It's like a casino letting a card counter win just enough at a low stakes table to keep them from burning the building down. They'"
+    },
+    {
+      "fp": "1o17gdj",
+      "i": 156,
+      "from": 36276,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "That is a perfect analogy. The commander even justifies it to offer it, saying, \"Neature"
+    },
+    {
+      "fp": "12biyb4",
+      "i": 157,
+      "from": 36401,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "\"Neature demands variety. You can't cheat nature.\" Yeah, the regime created a space for the men to break their own puritanical rules and they populated it with the women who wouldn"
+    },
+    {
+      "fp": "tu2ros",
+      "i": 158,
+      "from": 36708,
+      "subject": "law",
+      "entities": [],
+      "concept": "law",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "law, 1930"
+      },
+      "antidote": {
+        "concept": "law",
+        "set": null,
+        "cast": []
+      },
+      "_said": "rules. Resistance itself becomes a pressure valve that keeps the regime stable. So even when you fight back, even when you risk everything, if you don't overthrow the whole structu"
+    },
+    {
+      "fp": "1n8az31",
+      "i": 159,
+      "from": 37113,
+      "subject": "law",
+      "entities": [],
+      "concept": "law",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "law, hold up the roof, 1930"
+      },
+      "antidote": {
+        "concept": "law",
+        "set": null,
+        "cast": []
+      },
+      "_said": "prison, The complicity architecture absorbs rebellion and repurposes it to hold up the roof. And that gray area,"
+    },
+    {
+      "fp": "107vxlj",
+      "i": 160,
+      "from": 37303,
+      "subject": "Nick",
+      "entities": [
+        "nick"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Nick, 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "nick"
+        ]
+      },
+      "_said": "area, the space between following the rules and breaking them, that brings us to Nick. Nick is arguably the most complex"
+    },
+    {
+      "fp": "11u22e4",
+      "i": 161,
+      "from": 37512,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "complex and dangerous figure in the entire novel. Let's picture him out in the driveway. The sun is glinting off the commander's"
+    },
+    {
+      "fp": "xu3cs8",
+      "i": 162,
+      "from": 37689,
+      "subject": "Nick and Which",
+      "entities": [
+        "nick",
+        "which"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Nick and Which, 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "nick",
+          "which"
+        ]
+      },
+      "_said": "commander's expensive black whirlwind car. Nick is washing it lovingly with a shammy. He's smoking a cigarette, which immediately tells us"
+    },
+    {
+      "fp": "1fe9qz9",
+      "i": 163,
+      "from": 37927,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "us he has black market His cap is tilted at a jaunty angle. His sleeves are rolled up. And"
+    },
+    {
+      "fp": "sehxie",
+      "i": 164,
+      "from": 38088,
+      "subject": "Offred and Gilead",
+      "entities": [
+        "offred",
+        "gilead"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Offred and Gilead, walks by in her oppressive red habit, 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "offred",
+          "gilead"
+        ]
+      },
+      "_said": "And as Offred walks by in her oppressive red habit, he looks at her, whistles and winks. In any other novel, that wink is a romantic, inciting incident. In Gilead, it is terrifying"
+    },
+    {
+      "fp": "ydjbrj",
+      "i": 165,
+      "from": 38455,
+      "subject": "Nick and Offered — law",
+      "entities": [
+        "nick",
+        "offered"
+      ],
+      "concept": "law",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Nick and Offered, 1930"
+      },
+      "antidote": {
+        "concept": "law",
+        "set": null,
+        "cast": [
+          "nick",
+          "offered"
+        ]
+      },
+      "_said": "Because Nick occupies a space of total structural ambiguity. He's the commander's driver. He is an eye member of the secret police. And eventually, he becomes offered secret lover."
+    },
+    {
+      "fp": "xhjery",
+      "i": 166,
+      "from": 38779,
+      "subject": "Nick",
+      "entities": [
+        "nick"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Nick, 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "nick"
+        ]
+      },
+      "_said": "Right? What Nick represents is how"
+    },
+    {
+      "fp": "qyqllj",
+      "i": 167,
+      "from": 38839,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "how totalitarian regimes breed double agents so thoroughly that genuine human intimacy becomes structurally suspect. You can never trust a connection because"
+    },
+    {
+      "fp": "1jy9uyw",
+      "i": 168,
+      "from": 39170,
+      "subject": "Nick",
+      "entities": [
+        "nick"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Nick, holding you might be the person assigned to han, 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "nick"
+        ]
+      },
+      "_said": "because the person holding you might be the person assigned to hang you. The ending of the book hinges entirely on this ambiguity. When the black van finally comes to take off away"
+    },
+    {
+      "fp": "9q1wuw",
+      "i": 169,
+      "from": 39501,
+      "subject": "Nick — notes",
+      "entities": [
+        "nick"
+      ],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Nick, 1930"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": [
+          "nick"
+        ]
+      },
+      "_said": "her it's the Mayday resistance. But the historical notes at the end of the book reveal that Nick"
+    },
+    {
+      "fp": "1u9s1sl",
+      "i": 170,
+      "from": 39628,
+      "subject": "Nick and Which — heart",
+      "entities": [
+        "nick",
+        "which"
+      ],
+      "concept": "heart",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Nick and Which, carried his child which would give him massive, 1930"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": null,
+        "cast": [
+          "nick",
+          "which"
+        ]
+      },
+      "_said": "Nick was deeply embedded in the regime as an eye. So we are left totally in the dark about his Did he rescue her out of love? Did he do it because he thought she carried his child "
+    },
+    {
+      "fp": "190mftv",
+      "i": 171,
+      "from": 39996,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "this is the darkest option. Did he orchestrate her removal to cover his own tracks? Because Offred's"
+    },
+    {
+      "fp": "1p6pvqd",
+      "i": 172,
+      "from": 40152,
+      "subject": "Offred and Nick — home",
+      "entities": [
+        "offred",
+        "nick"
+      ],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Offred and Nick, 1930"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": [
+          "offred",
+          "nick"
+        ]
+      },
+      "_said": "Offred's shopping partner had just been outed as a rebel. Exactly. Maybe Nick just needed Offred out of the house before she was interrogated and spilled his secrets to the authori"
+    },
+    {
+      "fp": "180unca",
+      "i": 173,
+      "from": 40454,
+      "subject": "Nick — heart",
+      "entities": [
+        "nick"
+      ],
+      "concept": "heart",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Nick, 1930"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": null,
+        "cast": [
+          "nick"
+        ]
+      },
+      "_said": "tell us and that ambiguity is the point. But wait, why can't we choose to view Nick and Offred's relationship as a spark of humanity? In a book this dark, it's the one place"
+    },
+    {
+      "fp": "19j8bqy",
+      "i": 174,
+      "from": 40805,
+      "subject": "Offred",
+      "entities": [
+        "offred"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Offred, 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "offred"
+        ]
+      },
+      "_said": "where Offred feels actual consensual touch. Consensual is a strong word there, but go on. It's the one room where she is called by her real name, even if we, the readers, never hea"
+    },
+    {
+      "fp": "1p8xykz",
+      "i": 175,
+      "from": 41114,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Doesn't that intimacy prove that the system can't crush everything?"
+    },
+    {
+      "fp": "1772u83",
+      "i": 176,
+      "from": 41222,
+      "subject": "Gilead — heart",
+      "entities": [
+        "gilead"
+      ],
+      "concept": "heart",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Gilead, 1930"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": null,
+        "cast": [
+          "gilead"
+        ]
+      },
+      "_said": "everything? That love survives? Because in Gilead, love and entrapment use the exact same vernacular. You want to see Nick's"
+    },
+    {
+      "fp": "1sxzvx9",
+      "i": 177,
+      "from": 41421,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Nick's wink as a lifeline, but the regime uses agents provocators to test people. Yes, they test citizens by offering them a chance to break the rules. And if the citizen takes the"
+    },
+    {
+      "fp": "1szpz8i",
+      "i": 178,
+      "from": 41796,
+      "subject": "heart",
+      "entities": [],
+      "concept": "heart",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "heart, 1930"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": null,
+        "cast": []
+      },
+      "_said": "Nick's casual demeanor, his black market cigarettes, his winks that are terrifying because they could be an invitation to love or an entrapment test"
+    },
+    {
+      "fp": "7pln02",
+      "i": 179,
+      "from": 42019,
+      "subject": "law",
+      "entities": [],
+      "concept": "law",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "law, reach out for that spark of humanity, 1930"
+      },
+      "antidote": {
+        "concept": "law",
+        "set": null,
+        "cast": []
+      },
+      "_said": "test by the secret police. If you reach out for that spark of humanity, you might be handing your neck to an executioner. The uncertainty is the invisible mortar in Gilead's"
+    },
+    {
+      "fp": "1t51w78",
+      "i": 180,
+      "from": 42288,
+      "subject": "Which",
+      "entities": [
+        "which"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Which, 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "which"
+        ]
+      },
+      "_said": "Gilead's complicity architecture. If you cannot trust intimacy, you cannot form alliances. If every potential friend might be an eye, you remain and isolated people are compliant E"
+    },
+    {
+      "fp": "15z0fp4",
+      "i": 181,
+      "from": 42828,
+      "subject": "Offred",
+      "entities": [
+        "offred"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Offred, 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "offred"
+        ]
+      },
+      "_said": "book isn't between Offred and Mick. No, it's between Offred and the Commander."
+    },
+    {
+      "fp": "7qqwwe",
+      "i": 182,
+      "from": 42936,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Commander. the Scrabble Games. We have to drop into the commander's private woodpanled study. It's a sanctuary of forbidden things, books,"
+    },
+    {
+      "fp": "ihulkz",
+      "i": 183,
+      "from": 43190,
+      "subject": "Offered — notes",
+      "entities": [
+        "offered"
+      ],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Offered, writing pens, 1930"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": [
+          "offered"
+        ]
+      },
+      "_said": "books, magazines, writing pens, and offered is sitting across from him playing secret games of Scrabble. She can smell"
+    },
+    {
+      "fp": "1ysicxn",
+      "i": 184,
+      "from": 43351,
+      "subject": "heart",
+      "entities": [],
+      "concept": "heart",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "heart, 1930"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": null,
+        "cast": []
+      },
+      "_said": "smell his shaving lotion, a hint of mothballs, and tobacco. He is giving her hand lotion, and he looks down at her with this sheepish, almost boyish and he asks her to kiss him. Bu"
+    },
+    {
+      "fp": "4s0r11",
+      "i": 185,
+      "from": 43675,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "mechanically, he pulls back and says, \"Not like that.\" As if you meant it. This is a crucial beat"
+    },
+    {
+      "fp": "pm3a4d",
+      "i": 186,
+      "from": 43817,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "beat in understanding totalitarian psychology. The commander reveals"
+    },
+    {
+      "fp": "9iogb7",
+      "i": 187,
+      "from": 43920,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "reveals that authoritarianism craves intimacy with its victims. Right. A dictator who is only feared but not loved is just a warden. Exactly."
+    },
+    {
+      "fp": "1sv3fml",
+      "i": 188,
+      "from": 44210,
+      "subject": "Gilead — law",
+      "entities": [
+        "gilead"
+      ],
+      "concept": "law",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Gilead, 1930"
+      },
+      "antidote": {
+        "concept": "law",
+        "set": null,
+        "cast": [
+          "gilead"
+        ]
+      },
+      "_said": "Gilead promises its architects more than just a prison. It promises them adoration. He already"
+    },
+    {
+      "fp": "1097jni",
+      "i": 189,
+      "from": 44378,
+      "subject": "Offered",
+      "entities": [
+        "offered"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Offered, 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "offered"
+        ]
+      },
+      "_said": "already has total physical control over her body. The state granted him that during the ceremony, but that isn't enough for him. He wants her soul. He wants her to choose him. He n"
+    },
+    {
+      "fp": "7u1z4p",
+      "i": 190,
+      "from": 44788,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "reaches out his hand as if to touch her face te, 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "has a bizarre sliver of power over him simply because he wants her to like him. But that illusion of power shatters during the ceremony, right? He almost gives their secret away. H"
+    },
+    {
+      "fp": "14ds49x",
+      "i": 191,
+      "from": 45185,
+      "subject": "Which",
+      "entities": [
+        "which"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Which, 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "which"
+        ]
+      },
+      "_said": "in front of Serena Joy, which is so dangerous. Alfred has to subtly move her head to warn him away. And the moment she does, he withdraws instantly into"
+    },
+    {
+      "fp": "1sotb2b",
+      "i": 192,
+      "from": 45429,
+      "subject": "Which — road",
+      "entities": [
+        "which"
+      ],
+      "concept": "road",
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Which, 1930"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": null,
+        "cast": [
+          "which"
+        ]
+      },
+      "_said": "into his single-minded journey, which proves his desire for intimacy is entirely selfish and will never override his need for power. He wants"
+    },
+    {
+      "fp": "161sona",
+      "i": 193,
+      "from": 45662,
+      "subject": "gift",
+      "entities": [],
+      "concept": "gift",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "gift, 1930"
+      },
+      "antidote": {
+        "concept": "gift",
+        "cast": []
+      },
+      "_said": "wants the girlfriend experience without giving up the slave master reality. He wants to"
+    },
+    {
+      "fp": "i3e831",
+      "i": 194,
+      "from": 45780,
+      "subject": "shield",
+      "entities": [],
+      "concept": "shield",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "shield, 1930"
+      },
+      "antidote": {
+        "concept": "shield",
+        "cast": []
+      },
+      "_said": "to play the benevolent patron, but he won't risk his status to actually protect her. I mean, I look"
+    },
+    {
+      "fp": "vj3jsb",
+      "i": 195,
+      "from": 45936,
+      "subject": "puppeteer",
+      "entities": [],
+      "concept": "puppeteer",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "puppeteer, 1930"
+      },
+      "antidote": {
+        "concept": "puppeteer",
+        "cast": []
+      },
+      "_said": "look at the commander in that study, though, and I don't see an evil mastermind. I see a pathetic, oblivious old man. real. He genuinely seems blind to the horror of the world"
+    },
+    {
+      "fp": "kmro9v",
+      "i": 196,
+      "from": 46233,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "world he helped create. He just wants someone to play Scrabble with and read"
+    },
+    {
+      "fp": "e59mhq",
+      "i": 197,
+      "from": 46337,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "read old vogue magazines with, 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "read old Vogue magazines with. He seems lonely and weak, trapped by his own Do not let his bumbling, sheepish"
+    },
+    {
+      "fp": "2er2fv",
+      "i": 198,
+      "from": 46533,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "notes, 1930"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": []
+      },
+      "_said": "sheepish demeanor fool you. That is a You think? Yes. The historical notes strongly suggest this"
+    },
+    {
+      "fp": "xbqvu4",
+      "i": 199,
+      "from": 46733,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "man is either Commander Waterford or Commander Jud. These"
+    },
+    {
+      "fp": "cb12rx",
+      "i": 200,
+      "from": 46824,
+      "subject": "Gilead",
+      "entities": [
+        "gilead"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Gilead, 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "gilead"
+        ]
+      },
+      "_said": "These are the architects of Gilead. Jud is credited with inventing the persecution. Oh, that horrific public event where the handmaids literally tear a"
+    },
+    {
+      "fp": "1g8jn3x",
+      "i": 201,
+      "from": 47071,
+      "subject": "lightbulb",
+      "entities": [],
+      "concept": "lightbulb",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "lightbulb, 1930"
+      },
+      "antidote": {
+        "concept": "lightbulb",
+        "cast": []
+      },
+      "_said": "a male dissident apart with their bare hands. Yes, he invented it as a steam valve for female rage,"
+    },
+    {
+      "fp": "1gfhvxr",
+      "i": 202,
+      "from": 47258,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "sitting across from, 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "rage, deliberately redirecting their anger toward a scapegoat. The man sitting across from"
+    },
+    {
+      "fp": "1skx7yb",
+      "i": 203,
+      "from": 47414,
+      "subject": "food",
+      "entities": [],
+      "concept": "food",
+      "place": "kitchen",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "food, kitchen, 1930"
+      },
+      "antidote": {
+        "concept": "food",
+        "set": "kitchen",
+        "cast": []
+      },
+      "_said": "from her playing Scrabble is a monster playing with his food. He is demanding that the woman"
+    },
+    {
+      "fp": "1a8mxk2",
+      "i": 204,
+      "from": 47565,
+      "subject": "mask",
+      "entities": [],
+      "concept": "mask",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "mask, 1930"
+      },
+      "antidote": {
+        "concept": "mask",
+        "cast": []
+      },
+      "_said": "woman he enslaved validates his humanity by pretending to enjoy his company. It's"
+    },
+    {
+      "fp": "mo151l",
+      "i": 205,
+      "from": 47714,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "It's like a serial killer who wants his victim to play chess with him and tell him how brilliant he is before he locks the door. He wants her to smile at her jailer. And that is th"
+    },
+    {
+      "fp": "m3zqif",
+      "i": 206,
+      "from": 48017,
+      "subject": "Offered",
+      "entities": [
+        "offered"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Offered, 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "offered"
+        ]
+      },
+      "_said": "core of the complicity architecture. The system isn't structurally sound until the victim says thank you. The commander needs offered to act like this is just a normal, slightly na"
+    },
+    {
+      "fp": "486nbv",
+      "i": 207,
+      "from": 48345,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "because her compliance normalizes his absolute tyranny over her. He uses"
+    },
+    {
+      "fp": "elduw0",
+      "i": 208,
+      "from": 48465,
+      "subject": "Which",
+      "entities": [
+        "which"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Which, 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "which"
+        ]
+      },
+      "_said": "uses her forced intimacy to soothe his own conscience. Which brings us to a conclusion that might be the most disturbing part of the entire narrative because Atwood doesn't end the"
+    },
+    {
+      "fp": "1fcsv4o",
+      "i": 209,
+      "from": 48768,
+      "subject": "Offred and Gilead — ledge",
+      "entities": [
+        "offred",
+        "gilead"
+      ],
+      "concept": "ledge",
+      "place": "street",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Offred and Gilead, street, 1930"
+      },
+      "antidote": {
+        "concept": "ledge",
+        "set": "street",
+        "cast": [
+          "offred",
+          "gilead"
+        ]
+      },
+      "_said": "book when Offred gets in the van. No, she jumps far into the future. Gilead has fallen. It is centuries later at an academic symposium in the year The crowd of historians is laughi"
+    },
+    {
+      "fp": "1js1zxv",
+      "i": 210,
+      "from": 49106,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "standing at a podium making a deeply sexist joke, 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "keynote speaker, Professor Pieixoto, is standing at a podium making a deeply sexist joke about the commander, saying he was somebody for whom foreplay is what you do on a golf cour"
+    },
+    {
+      "fp": "1wkrhe4",
+      "i": 211,
+      "from": 49389,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "notes, 1930"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": []
+      },
+      "_said": "course. And the audience erupts in laughter. The historical notes epilogue completely reframes everything we just experienced. Up until this exact moment, we have been suffocating"
+    },
+    {
+      "fp": "1egkhdt",
+      "i": 212,
+      "from": 49646,
+      "subject": "Offered",
+      "entities": [
+        "offered"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Offered, 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "offered"
+        ]
+      },
+      "_said": "suffocating and offered visceral, agonizing pain. But these academics treat her raw testimony exactly the way the regime treated her body as"
+    },
+    {
+      "fp": "3ne3a9",
+      "i": 213,
+      "from": 49908,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "as raw material to be processed, cataloged, and stripped of its humanity for the benefit of men in The professor was so incredibly dismissive of her. He is infinitely more interest"
+    },
+    {
+      "fp": "1ih7lub",
+      "i": 214,
+      "from": 50294,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "commander was Waterford or Jud than he is in uncovering what actually happened"
+    },
+    {
+      "fp": "1moeidr",
+      "i": 215,
+      "from": 50419,
+      "subject": "Offred — lightbulb",
+      "entities": [
+        "offred"
+      ],
+      "concept": "lightbulb",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Offred, 1930"
+      },
+      "antidote": {
+        "concept": "lightbulb",
+        "cast": [
+          "offred"
+        ]
+      },
+      "_said": "happened to Offred. He's admiring the genius of Gilead's synthesis of historical oppression. He calls Offred Uritus fading into the darkness, turning this real woman's"
+    },
+    {
+      "fp": "3gf0y2",
+      "i": 216,
+      "from": 50714,
+      "subject": "magnifier",
+      "entities": [],
+      "concept": "magnifier",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "magnifier, 1930"
+      },
+      "antidote": {
+        "concept": "magnifier",
+        "cast": []
+      },
+      "_said": "woman's terror, her rape, and her probable death into a neat poetic literary reference. He is visibly frustrated that her tapes didn't provide more concrete details about the geopo"
+    },
+    {
+      "fp": "1005lan",
+      "i": 217,
+      "from": 51067,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "He even quotes Commander Jud saying, \"Our big mistake was teaching them to read.\" He says it as a historical observation, but he seems to almost share the frustration that Offred's"
+    },
+    {
+      "fp": "788yn6",
+      "i": 218,
+      "from": 51316,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Offred's account is so emotional and domestic rather than a hard historical record of troop movements. Well, wait, aren't the historians just doing their jobs? What do you mean? It"
+    },
+    {
+      "fp": "1g1qc8g",
+      "i": 219,
+      "from": 51648,
+      "subject": "magnifier",
+      "entities": [],
+      "concept": "magnifier",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "magnifier, weeping over every tragedy, 1930"
+      },
+      "antidote": {
+        "concept": "magnifier",
+        "cast": []
+      },
+      "_said": "You can't analyze history if you are weeping over every tragedy. They are scientists looking back at the past objectively. They have to maintain an emotional distance to understand"
+    },
+    {
+      "fp": "cp8495",
+      "i": 220,
+      "from": 51953,
+      "subject": "Gilead — notes",
+      "entities": [
+        "gilead"
+      ],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Gilead, write a history book based purely on one pers, 1930"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": [
+          "gilead"
+        ]
+      },
+      "_said": "understand how Gilead functioned on a macro level. You can't write a history book based purely on one person's"
+    },
+    {
+      "fp": "c1t9lp",
+      "i": 221,
+      "from": 52125,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "person's trauma. Their objectivity is a lie. It is just"
+    },
+    {
+      "fp": "sld6sn",
+      "i": 222,
+      "from": 52231,
+      "subject": "funnelTrap",
+      "entities": [],
+      "concept": "funnelTrap",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "funnel trap, 1930"
+      },
+      "antidote": {
+        "concept": "funnelTrap",
+        "cast": []
+      },
+      "_said": "just a sanitized academic version of Gilead's Oh, I see. By prioritizing"
+    },
+    {
+      "fp": "1ngitfa",
+      "i": 223,
+      "from": 52385,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "the men who built the system over the woman who suffered under it, by valuing the names of the commanders over the fate of the handmaid, the academics"
+    },
+    {
+      "fp": "sreq75",
+      "i": 224,
+      "from": 52625,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "are actively participating in the complicity. They are perpetuating the eraser of women's experiences under the guise of intellectual rigor. They didn't learn the lesson."
+    },
+    {
+      "fp": "q944nt",
+      "i": 225,
+      "from": 52893,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "lesson. The complicity architecture survives. It just traded the red cloak for an academic robe."
+    },
+    {
+      "fp": "zc0rtq",
+      "i": 226,
+      "from": 53028,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "robe. The system outlives its founders, persisting in the minds of the people studying it centuries later. They are building the exact same walls of marginalization just"
+    },
+    {
+      "fp": "1a2g8ie",
+      "i": 227,
+      "from": 53258,
+      "subject": "Luke",
+      "entities": [
+        "luke"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Luke, read the news? okay, 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "luke"
+        ]
+      },
+      "_said": "just with different Oppression mutates into intellectual detachment. And that is Atwood's warning to the reader. Are we doing the same thing when we read the news? Okay, we've gone"
+    },
+    {
+      "fp": "b3b44f",
+      "i": 228,
+      "from": 53628,
+      "subject": "Luke",
+      "entities": [
+        "luke"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Luke, holds up this system, 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "luke"
+        ]
+      },
+      "_said": "Luke to Serena Joy to the ants to the academics holds up this system, but I have to raise"
+    },
+    {
+      "fp": "10aarol",
+      "i": 229,
+      "from": 53817,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "raise a major honest criticism of the book. Let's hear it. It's something a lot of readers really struggle with and it goes right"
+    },
+    {
+      "fp": "ovip11",
+      "i": 230,
+      "from": 53985,
+      "subject": "Offered",
+      "entities": [
+        "offered"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Offered, 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "offered"
+        ]
+      },
+      "_said": "right to the heart of Offered as a protagonist. Her passivity. Yes, Atwood deliberately keeps her passive. She"
+    },
+    {
+      "fp": "7qhsg3",
+      "i": 231,
+      "from": 54182,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "She never joins Mayday the resistance. She never leads a rebellion. She never commits sabotage. Right. When Offglin,"
+    },
+    {
+      "fp": "1a98c80",
+      "i": 232,
+      "from": 54386,
+      "subject": "Offred",
+      "entities": [
+        "offred"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Offred, 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "offred"
+        ]
+      },
+      "_said": "Offglin, her shopping partner, explicitly offers her a way to help the resistance, Offred is terrified and basically refuses. She barely acts at"
+    },
+    {
+      "fp": "18ho1jh",
+      "i": 233,
+      "from": 54626,
+      "subject": "Offred and Nick",
+      "entities": [
+        "offred",
+        "nick"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Offred and Nick, 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "offred",
+          "nick"
+        ]
+      },
+      "_said": "at all until Nick forces her into the van at the very end. Does making the protagonist so compliant, so utterly passive, weaken the novel's power? No, not at all. The passivity is "
+    },
+    {
+      "fp": "1803ikc",
+      "i": 234,
+      "from": 55058,
+      "subject": "Offred",
+      "entities": [
+        "offred"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Offred, 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "offred"
+        ]
+      },
+      "_said": "Offred were a Katniss Everdine, if she were blowing"
+    },
+    {
+      "fp": "1jgkwge",
+      "i": 235,
+      "from": 55128,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, read it and pretend, 1930"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "blowing up the Red Center and leading a revolution with a bow and arrow, the reader gets a comfortable heroic distance. We could read it and pretend, \"Oh, I would be a hero, too. I"
+    },
+    {
+      "fp": "d5dujl",
+      "i": 236,
+      "from": 55433,
+      "subject": "Offred",
+      "entities": [
+        "offred"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Offred, 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "offred"
+        ]
+      },
+      "_said": "that. But Atwood refuses to let us off the hook. Offred isn't a hero. Offred is us. Offred"
+    },
+    {
+      "fp": "a5kzgz",
+      "i": 237,
+      "from": 55634,
+      "subject": "Offred",
+      "entities": [
+        "offred"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Offred, 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "offred"
+        ]
+      },
+      "_said": "Offred is the average person who just wants to keep her head down, survive the week, and hope things miraculously go back to normal. Wow. Her"
+    },
+    {
+      "fp": "1rsbebf",
+      "i": 238,
+      "from": 55843,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Her passivity forces us to confront how terrifyingly little it takes for us to simply adjust to atrocity. It is deeply uncomfortable to realize that we want"
+    },
+    {
+      "fp": "1pnikzk",
+      "i": 239,
+      "from": 56126,
+      "subject": "Which — fire",
+      "entities": [
+        "which"
+      ],
+      "concept": "fire",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Which, holds up a mirror instead, 1930"
+      },
+      "antidote": {
+        "concept": "fire",
+        "cast": [
+          "which"
+        ]
+      },
+      "_said": "want the Hollywood ending where the oppressed rise up and burn the system down, but Atwood holds up a mirror instead. Which brings us to the ultimate payoff of this entire discussi"
+    },
+    {
+      "fp": "1ach37f",
+      "i": 240,
+      "from": 56522,
+      "subject": "Offered",
+      "entities": [
+        "offered"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Offered, 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "offered"
+        ]
+      },
+      "_said": "Luke's I'll take care of it to Serena Joyy's cannibalization of trauma to offered internally editing her own memories to"
+    },
+    {
+      "fp": "1nvm6ve",
+      "i": 241,
+      "from": 56724,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "to the academics laughing at a sexist joke centuries later. The scariest line in the entire book isn't about the ants with their cattle prods. No, it isn't about the men hanging on"
+    },
+    {
+      "fp": "3qexwx",
+      "i": 242,
+      "from": 57009,
+      "subject": "Offred — mirror",
+      "entities": [
+        "offred"
+      ],
+      "concept": "mirror",
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Offred, 1930"
+      },
+      "antidote": {
+        "concept": "mirror",
+        "set": null,
+        "cast": [
+          "offred"
+        ]
+      },
+      "_said": "wall. It is Offred reflecting on the days before the coup reflecting on how it all happened while they were looking the other way. She says, \"We lived as usual by ignoring.\" And th"
+    },
+    {
+      "fp": "1i9zigo",
+      "i": 243,
+      "from": 57290,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "read that line, 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "is the final devastating blow of the novel. Because when you read that line, we lived as usual. By ignoring, you realize something horrifying. That is not Alfred's"
+    },
+    {
+      "fp": "18f91v4",
+      "i": 244,
+      "from": 57549,
+      "subject": "gift",
+      "entities": [],
+      "concept": "gift",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "gift, 1930"
+      },
+      "antidote": {
+        "concept": "gift",
+        "cast": []
+      },
+      "_said": "Alfred's past. That is our present"
+    }
+  ]
+}

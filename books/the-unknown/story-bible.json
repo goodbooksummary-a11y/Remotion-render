@@ -1,0 +1,181 @@
+{
+  "slug": "the-unknown",
+  "world": {
+    "era": "1926–2026",
+    "approxYear": 1926,
+    "setting": "",
+    "register": "",
+    "forbid": [
+      "phone",
+      "codeWindow",
+      "laptopMockup",
+      "rocketLaunch",
+      "funnelMetrics",
+      "dollarExchange",
+      "subway",
+      "car",
+      "alarmClock",
+      "medical"
+    ]
+  },
+  "cast": {
+    "marin": {
+      "name": "Marin",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 11
+    },
+    "daisy": {
+      "name": "Daisy",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 4
+    },
+    "ronin": {
+      "name": "Ronin",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 4
+    },
+    "simple": {
+      "name": "Simple",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 3
+    },
+    "azra": {
+      "name": "Azra",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 3
+    },
+    "avalon": {
+      "name": "Avalon",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 3
+    },
+    "elise": {
+      "name": "Elise",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 3
+    },
+    "violet": {
+      "name": "Violet",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 2
+    }
+  },
+  "places": {
+    "forest": {
+      "set": "forest",
+      "look": "",
+      "mentions": 7
+    },
+    "bedroom": {
+      "set": "bedroom",
+      "look": "",
+      "mentions": 1
+    }
+  },
+  "objects": [
+    {
+      "concept": "notes",
+      "mentions": 24,
+      "why": ""
+    },
+    {
+      "concept": "tree",
+      "mentions": 22,
+      "why": ""
+    },
+    {
+      "concept": "storm",
+      "mentions": 11,
+      "why": ""
+    },
+    {
+      "concept": "water",
+      "mentions": 8,
+      "why": ""
+    },
+    {
+      "concept": "lightbulb",
+      "mentions": 7,
+      "why": ""
+    },
+    {
+      "concept": "shield",
+      "mentions": 7,
+      "why": ""
+    },
+    {
+      "concept": "phone",
+      "mentions": 7,
+      "why": ""
+    },
+    {
+      "concept": "war",
+      "mentions": 6,
+      "why": ""
+    },
+    {
+      "concept": "photo",
+      "mentions": 6,
+      "why": ""
+    },
+    {
+      "concept": "gift",
+      "mentions": 5,
+      "why": ""
+    },
+    {
+      "concept": "ledge",
+      "mentions": 5,
+      "why": ""
+    },
+    {
+      "concept": "road",
+      "mentions": 5,
+      "why": ""
+    }
+  ],
+  "spine": [
+    {
+      "act": "setup",
+      "fromFrame": 22,
+      "claim": ""
+    },
+    {
+      "act": "development",
+      "fromFrame": 12512,
+      "claim": ""
+    },
+    {
+      "act": "turn",
+      "fromFrame": 26900,
+      "claim": ""
+    },
+    {
+      "act": "consequence",
+      "fromFrame": 40825,
+      "claim": ""
+    },
+    {
+      "act": "close",
+      "fromFrame": 54217,
+      "claim": ""
+    }
+  ],
+  "authored": false
+}

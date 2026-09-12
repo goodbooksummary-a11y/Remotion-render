@@ -1,0 +1,4227 @@
+{
+  "slug": "little-fires-everywhere",
+  "authored": false,
+  "briefs": [
+    {
+      "fp": "17haj0b",
+      "i": 0,
+      "from": 0,
+      "subject": "Elena and Richardson",
+      "entities": [
+        "elena",
+        "richardson"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Elena and Richardson, 1997"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "elena",
+          "richardson"
+        ]
+      },
+      "_said": "I mean, nobody in this book commits a Like, if you think about it, Elena Richardson, uh, she follows every single Yeah. She obeys every law, right? She means well"
+    },
+    {
+      "fp": "1qizoqi",
+      "i": 1,
+      "from": 324,
+      "subject": "fire",
+      "entities": [],
+      "concept": "fire",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "fire, 1997"
+      },
+      "antidote": {
+        "concept": "fire",
+        "cast": []
+      },
+      "_said": "well the entire time, and she still manages to burn three lies completely to the ground."
+    },
+    {
+      "fp": "1bpwfw2",
+      "i": 2,
+      "from": 470,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1997"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "ground. It's it's like the ultimate blind spot. You know, we are so conditioned by stories to to look for the villain. Oh, for sure. Like the person with malice, the one breaking t"
+    },
+    {
+      "fp": "93ojlq",
+      "i": 3,
+      "from": 871,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1997"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "cruelty. It's politeness. Yeah. So, for this deep dive, we've been"
+    },
+    {
+      "fp": "1d6rg1c",
+      "i": 4,
+      "from": 998,
+      "subject": "lightbulb",
+      "entities": [],
+      "concept": "lightbulb",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "lightbulb, reading celeste ning's little fires and we real, 1997"
+      },
+      "antidote": {
+        "concept": "lightbulb",
+        "cast": []
+      },
+      "_said": "been reading Celeste Ning's Little Fires And we really want to unpack this this deeply unsettling idea. The idea that the real danger in"
+    },
+    {
+      "fp": "tb8aub",
+      "i": 5,
+      "from": 1243,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1997"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "in our communities isn't the rule breaker. It's"
+    },
+    {
+      "fp": "4j4ygm",
+      "i": 6,
+      "from": 1325,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1997"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "It's the well-meaning rule follower. Right. The person who mistakes their own comfort for justice. Exactly."
+    },
+    {
+      "fp": "2wkgut",
+      "i": 7,
+      "from": 1483,
+      "subject": "Richardson",
+      "entities": [
+        "richardson"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Richardson, 1997"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "richardson"
+        ]
+      },
+      "_said": "Exactly. Because Atlanta Richardson never breaks a single rule. Yet, the book makes this devastating case that there's no such thing as a neutral rule. No. And uh"
+    },
+    {
+      "fp": "x64eyy",
+      "i": 8,
+      "from": 1742,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1997"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "uh good intentions are exactly how the powerful stay completely innocent in their own minds, you know, while doing unimaginable harm"
+    },
+    {
+      "fp": "1iodctc",
+      "i": 9,
+      "from": 1953,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1997"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "harm to everyone else. So to get why this happens, we have to look at the board and the pieces in play. The year is 1997. Great year, right? And the setting"
+    },
+    {
+      "fp": "1wqx9df",
+      "i": 10,
+      "from": 2227,
+      "subject": "crash",
+      "entities": [],
+      "concept": "crash",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "crash, 1997"
+      },
+      "antidote": {
+        "concept": "crash",
+        "set": null,
+        "cast": []
+      },
+      "_said": "setting is Shaker Heights, Ohio. And we have these two families on a collision course."
+    },
+    {
+      "fp": "1y50ywm",
+      "i": 11,
+      "from": 2371,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": "kitchen",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, kitchen, 1997"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": "kitchen",
+        "cast": []
+      },
+      "_said": "course. First, you've got the the the wealthy, deeply rooted, rule- abiding family. Yeah. led by Alina, who's a journalist for the local paper, and her husband, Bill, who's this pr"
+    },
+    {
+      "fp": "qu2axk",
+      "i": 12,
+      "from": 2769,
+      "subject": "Izzy — photo",
+      "entities": [
+        "izzy"
+      ],
+      "concept": "photo",
+      "place": "bedroom",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Izzy, bedroom, 1997"
+      },
+      "antidote": {
+        "concept": "photo",
+        "set": "bedroom",
+        "cast": [
+          "izzy"
+        ]
+      },
+      "_said": "Lexi, Trip, Moody, and Izzy. They are like the absolute picture of suburban"
+    },
+    {
+      "fp": "1q0k83k",
+      "i": 13,
+      "from": 2908,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1997"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "suburban perfection. They really are. And then into that perfection drops the the disruption,"
+    },
+    {
+      "fp": "d4zstb",
+      "i": 14,
+      "from": 3045,
+      "subject": "Mia — family",
+      "entities": [
+        "mia"
+      ],
+      "concept": "family",
+      "place": "kitchen",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Mia, kitchen, 1997"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": "kitchen",
+        "cast": [
+          "mia"
+        ]
+      },
+      "_said": "disruption, right? The Warren family. Yeah. Mia and Pearl, right? Mia is this enigmatic nomadic artist, right? And she has a 15-year-old daughter, and they move into a rental prope"
+    },
+    {
+      "fp": "1iyv40n",
+      "i": 15,
+      "from": 3328,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": "cafe",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone, cafe, 1997"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": "cafe",
+        "cast": []
+      },
+      "_said": "owned by the Richardsons. Exactly. And what ultimately ignites the tension between these two families is this custody battle over a Chinese A baby called May"
+    },
+    {
+      "fp": "vtrcfj",
+      "i": 16,
+      "from": 3581,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": "kitchen",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, kitchen, 1997"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": "kitchen",
+        "cast": []
+      },
+      "_said": "May Ling by her birth mother and uh Mirabel by the wealthy adoptive family. Yeah. And the whole town basically take They do. But if you just look at the people, I think you miss th"
+    },
+    {
+      "fp": "x9jxu4",
+      "i": 17,
+      "from": 4010,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1997"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "story because Shaker Heights itself is the first character we meet. It's totally not just a backdrop. It's an ideology. Right? So picture this. It's"
+    },
+    {
+      "fp": "71nawn",
+      "i": 18,
+      "from": 4231,
+      "subject": "road",
+      "entities": [],
+      "concept": "road",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "road, 1997"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": null,
+        "cast": []
+      },
+      "_said": "It's a Friday morning on Winslow Road."
+    },
+    {
+      "fp": "1trzete",
+      "i": 19,
+      "from": 4289,
+      "subject": "home",
+      "entities": [],
+      "concept": "home",
+      "place": "kitchen",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "home, standing in a beautiful kitchen drinking coffee, kitchen, 1997"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": "kitchen",
+        "cast": []
+      },
+      "_said": "Road. You're standing in a beautiful kitchen drinking coffee and suddenly there is this roar outside. Oh yeah, the garbage collection. Yes. A man in a bright orange"
+    },
+    {
+      "fp": "ngiyls",
+      "i": 20,
+      "from": 4586,
+      "subject": "road",
+      "entities": [],
+      "concept": "road",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "road, 1997"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": null,
+        "cast": []
+      },
+      "_said": "orange worksuit zips down the driveway on a motorized Just a little scooter, right? And he's driving all the way into the backyard to collect the garbage."
+    },
+    {
+      "fp": "cfnxmc",
+      "i": 21,
+      "from": 4841,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": "street",
+      "confidence": 0.35,
+      "vox": {
+        "shot": "street, 1997"
+      },
+      "antidote": {
+        "concept": null,
+        "set": "street",
+        "cast": []
+      },
+      "_said": "garbage. Wait, all the way into the backyard? Yeah, just so he can ferry it to a larger truck idling out on the street. That is wild. But it's"
+    },
+    {
+      "fp": "kf6xn5",
+      "i": 22,
+      "from": 5047,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1997"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "it's because Shaker Heights flat out refuses to allow the unsightly spectacle of trash cans cluttering the curb. They they actively hide the refues."
+    },
+    {
+      "fp": "172wmpv",
+      "i": 23,
+      "from": 5292,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1997"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "refues. Yeah. And what's fascinating here is how that highly"
+    },
+    {
+      "fp": "xjrfis",
+      "i": 24,
+      "from": 5376,
+      "subject": "magnifier",
+      "entities": [],
+      "concept": "magnifier",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "magnifier, 1997"
+      },
+      "antidote": {
+        "concept": "magnifier",
+        "cast": []
+      },
+      "_said": "highly specific physical detail maps onto the town's entire psychology"
+    },
+    {
+      "fp": "bfm4pc",
+      "i": 25,
+      "from": 5529,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1997"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "because Shaker Heights was one of the very first planned communities in the nation. I mean, their actual literal motto is, \"Most communities just happen. The best"
+    },
+    {
+      "fp": "8cgzvq",
+      "i": 26,
+      "from": 5793,
+      "subject": "game",
+      "entities": [],
+      "concept": "game",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "game, walking into a perfectly coded video game, 1997"
+      },
+      "antidote": {
+        "concept": "game",
+        "set": null,
+        "cast": []
+      },
+      "_said": "best are planned.\" It feels like walking into a perfectly coded video game, you know, where the NPCs are just a little too happy. The level"
+    },
+    {
+      "fp": "13zacp9",
+      "i": 27,
+      "from": 6052,
+      "subject": "home",
+      "entities": [],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "home, 1997"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": []
+      },
+      "_said": "level of control is staggering. Like the book details this color chart the city uses. If you buy a tutor style house, you are legally"
+    },
+    {
+      "fp": "1qkxx0d",
+      "i": 28,
+      "from": 6328,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1997"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "legally required to paint the plaster a specific shade of cream. Just one shade of"
+    },
+    {
+      "fp": "5as89g",
+      "i": 29,
+      "from": 6489,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1997"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "of cream. Right. And the timbers have to be a specific dark brown. that's it."
+    },
+    {
+      "fp": "11c6y6w",
+      "i": 30,
+      "from": 6614,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": "library",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "notes, library, 1997"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": "library",
+        "cast": []
+      },
+      "_said": "it. No exceptions. And if your grass exceeds 6 in, oh man, you don't just get a neighbor giving you the side eye. The city sends you a stern letter, they mow it for you, and then t"
+    },
+    {
+      "fp": "i91vp4",
+      "i": 31,
+      "from": 6941,
+      "subject": "magnifier",
+      "entities": [],
+      "concept": "magnifier",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "magnifier, 1997"
+      },
+      "antidote": {
+        "concept": "magnifier",
+        "cast": []
+      },
+      "_said": "with a $100 fine. See, they believe that if you plan every detail, like the paint, the grass, the garbage, you can avoid the unseemly,"
+    },
+    {
+      "fp": "1ckdsee",
+      "i": 32,
+      "from": 7161,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1997"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "unseemly, the unpleasant, the disastrous. Exactly. It's an environment that demands total aesthetic harmony, but that aesthetic harmony is just a proxy for social harmony."
+    },
+    {
+      "fp": "1lz540d",
+      "i": 33,
+      "from": 7389,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1997"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "harmony. Order is their Okay, I hear that. And I know the book is critiquing it. Yeah. But I I grew up near a place a lot like this. And honestly, when you're a parent or just a"
+    },
+    {
+      "fp": "a6m3g3",
+      "i": 34,
+      "from": 7692,
+      "subject": "butterfly",
+      "entities": [],
+      "concept": "butterfly",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "butterfly, 1997"
+      },
+      "antidote": {
+        "concept": "butterfly",
+        "set": null,
+        "cast": []
+      },
+      "_said": "a person exhausted by the chaos of the world, isn't it incredibly nice to live somewhere clean?"
+    },
+    {
+      "fp": "72w31x",
+      "i": 35,
+      "from": 7855,
+      "subject": "shield",
+      "entities": [],
+      "concept": "shield",
+      "place": "street",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "shield, street, 1997"
+      },
+      "antidote": {
+        "concept": "shield",
+        "set": "street",
+        "cast": []
+      },
+      "_said": "clean? Well, sure. Like without trash on the street. You want safety. You want good schools where kids can walk"
+    },
+    {
+      "fp": "1fdgvti",
+      "i": 36,
+      "from": 8049,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "walk on a sidewalk without crossing a major, 1997"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "walk on a sidewalk without crossing a major intersection."
+    },
+    {
+      "fp": "12op0tj",
+      "i": 37,
+      "from": 8126,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1997"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "intersection. People pay a premium for that peace of Right. It's like an immune system for the neighborhood. Exactly. Is it really a crime to want a predictable lawn?"
+    },
+    {
+      "fp": "w5hna4",
+      "i": 38,
+      "from": 8376,
+      "subject": "shield",
+      "entities": [],
+      "concept": "shield",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "shield, 1997"
+      },
+      "antidote": {
+        "concept": "shield",
+        "cast": []
+      },
+      "_said": "lawn? It's definitely not a crime. The the desire for safety is entirely human, but the book forces us to look at the hidden cost of that comfort."
+    },
+    {
+      "fp": "2g6njy",
+      "i": 39,
+      "from": 8697,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1997"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "comfort. Okay. What costs? That immune system you mentioned. Sometimes an overactive immune system starts attacking healthy cells just cuz they look a little different. Oh wow."
+    },
+    {
+      "fp": "796bq",
+      "i": 40,
+      "from": 8923,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1997"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "wow. Right. That level of sanitized reality requires total conformity. The obsessive planning isn't just about the grass. It maps perfectly onto how the"
+    },
+    {
+      "fp": "18xye28",
+      "i": 41,
+      "from": 9182,
+      "subject": "school",
+      "entities": [],
+      "concept": "school",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "school, 1997"
+      },
+      "antidote": {
+        "concept": "school",
+        "set": null,
+        "cast": []
+      },
+      "_said": "the town expects human lives to be planned. Like high school, good college, mortgage, kids. Exactly. And if you deviate from that plan, you aren't just living"
+    },
+    {
+      "fp": "1pcja37",
+      "i": 42,
+      "from": 9441,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1997"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "living a different lifestyle. In their eyes, you are localized infection. You are a threat to the order itself. So the culture instantly"
+    },
+    {
+      "fp": "1lfy065",
+      "i": 43,
+      "from": 9650,
+      "subject": "butterfly",
+      "entities": [],
+      "concept": "butterfly",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "butterfly, 1997"
+      },
+      "antidote": {
+        "concept": "butterfly",
+        "set": null,
+        "cast": []
+      },
+      "_said": "instantly demonizes anyone who doesn't fit the mold because acknowledging that chaos exists means their perfect plan isn't"
+    },
+    {
+      "fp": "uwmtvo",
+      "i": 44,
+      "from": 9842,
+      "subject": "home",
+      "entities": [],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "home, 1997"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": []
+      },
+      "_said": "isn't foolproof. Okay, that obsession with order really makes the opening of the book hit so much harder. Because the house burns down in the very first sentence. Page one. Page on"
+    },
+    {
+      "fp": "vk7ek2",
+      "i": 45,
+      "from": 10154,
+      "subject": "Elena and Richardson — tree",
+      "entities": [
+        "elena",
+        "richardson"
+      ],
+      "concept": "tree",
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Elena and Richardson, standing on her perfectly manicured tree lawn, 1997"
+      },
+      "antidote": {
+        "concept": "tree",
+        "set": null,
+        "cast": [
+          "elena",
+          "richardson"
+        ]
+      },
+      "_said": "open on a Saturday in May. Elena Richardson is standing on her perfectly manicured tree lawn in her bathrobe. Yes. In her pale blue bathrobe and a pair of"
+    },
+    {
+      "fp": "1o58fn1",
+      "i": 46,
+      "from": 10428,
+      "subject": "home",
+      "entities": [],
+      "concept": "home",
+      "place": "bedroom",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "home, bedroom, 1997"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": "bedroom",
+        "cast": []
+      },
+      "_said": "of her son Trip's tennis shoes. And her massive six-bedroom house is completely ablaze."
+    },
+    {
+      "fp": "1lvi5kg",
+      "i": 47,
+      "from": 10608,
+      "subject": "fire",
+      "entities": [],
+      "concept": "fire",
+      "place": "street",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "fire, street, 1997"
+      },
+      "antidote": {
+        "concept": "fire",
+        "set": "street",
+        "cast": []
+      },
+      "_said": "ablaze. Such a striking image. It is. The slate roof shingles are gleaming like fish scales from the water. The fire hoses are dumping on them. And right across the street, the gee"
+    },
+    {
+      "fp": "1edve2m",
+      "i": 48,
+      "from": 10915,
+      "subject": "water",
+      "entities": [],
+      "concept": "water",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "water, 1997"
+      },
+      "antidote": {
+        "concept": "water",
+        "set": null,
+        "cast": []
+      },
+      "_said": "their heads underwater for weeds, completely unruffled by the destruction. It's an incredibly cinematic image,"
+    },
+    {
+      "fp": "1cu8fe6",
+      "i": 49,
+      "from": 11076,
+      "subject": "Ang — fire",
+      "entities": [
+        "ang"
+      ],
+      "concept": "fire",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Ang, 1997"
+      },
+      "antidote": {
+        "concept": "fire",
+        "cast": [
+          "ang"
+        ]
+      },
+      "_said": "image, the juxtaposition of suburban tranquility and absolute devastation. But notice what Ang is doing structurally here. She gives away the ending on page one. The fire chief com"
+    },
+    {
+      "fp": "i6heg",
+      "i": 50,
+      "from": 11412,
+      "subject": "fire",
+      "entities": [],
+      "concept": "fire",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "fire, 1997"
+      },
+      "antidote": {
+        "concept": "fire",
+        "cast": []
+      },
+      "_said": "and says, \"Someone set a small crackling fire directly in the middle of every single bed in the Oh, yeah. He says"
+    },
+    {
+      "fp": "jjsebp",
+      "i": 51,
+      "from": 11616,
+      "subject": "home",
+      "entities": [],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "home, 1997"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": []
+      },
+      "_said": "says like a demented girl Exactly. We know it's arson. We know the house is gone, which is such a bold"
+    },
+    {
+      "fp": "10fh0a9",
+      "i": 52,
+      "from": 11789,
+      "subject": "home",
+      "entities": [],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "home, watching a car crash in slow motion instead, 1997"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": []
+      },
+      "_said": "move. It's like watching a car crash in slow motion instead of a murder mystery, But honestly, if we know the house burns and the very first chapter basically points a massive neon"
+    },
+    {
+      "fp": "seyw3i",
+      "i": 53,
+      "from": 12185,
+      "subject": "Izzy — family",
+      "entities": [
+        "izzy"
+      ],
+      "concept": "family",
+      "place": "kitchen",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Izzy, kitchen, 1997"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": "kitchen",
+        "cast": [
+          "izzy"
+        ]
+      },
+      "_said": "at the youngest daughter, Izzy, as the prime suspect, doesn't that kill the momentum? You'd think so,"
+    },
+    {
+      "fp": "x9dkli",
+      "i": 54,
+      "from": 12372,
+      "subject": "law",
+      "entities": [],
+      "concept": "law",
+      "place": "court",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "law, court, 1997"
+      },
+      "antidote": {
+        "concept": "law",
+        "set": "court",
+        "cast": []
+      },
+      "_said": "so, right? Because we know the crime, we know the culprit. Doesn't that just make it a standard police procedural? It would if"
+    },
+    {
+      "fp": "lgr6no",
+      "i": 55,
+      "from": 12554,
+      "subject": "target",
+      "entities": [],
+      "concept": "target",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "target, 1997"
+      },
+      "antidote": {
+        "concept": "target",
+        "cast": []
+      },
+      "_said": "if the suspense was about what happens. But Ning removes the plot suspense entirely so we can focus on moral suspense."
+    },
+    {
+      "fp": "1bbzioj",
+      "i": 56,
+      "from": 12744,
+      "subject": "Izzy",
+      "entities": [
+        "izzy"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Izzy, 1997"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "izzy"
+        ]
+      },
+      "_said": "suspense. Moral suspense. Yeah. Because we are immediately told Izzy is the suspect. We aren't actually looking for a culprit. We are looking for the cause."
+    },
+    {
+      "fp": "u05lc0",
+      "i": 57,
+      "from": 12957,
+      "subject": "game",
+      "entities": [],
+      "concept": "game",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "game, 1997"
+      },
+      "antidote": {
+        "concept": "game",
+        "set": null,
+        "cast": []
+      },
+      "_said": "cause. Okay. I see. We are evaluating everyone else's complicity in pushing a teenage girl to strike the match. So, it's not an escape room. It's an That is exactly it. It's an aut"
+    },
+    {
+      "fp": "474qqr",
+      "i": 58,
+      "from": 13252,
+      "subject": "home",
+      "entities": [],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "home, 1997"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": []
+      },
+      "_said": "autopsy. Knowing the house burns forces us to look at the foundations of the family that lived inside it. Right. We have to examine Alena's vision of what a family should"
+    },
+    {
+      "fp": "1tr3bs1",
+      "i": 59,
+      "from": 13488,
+      "subject": "fire",
+      "entities": [],
+      "concept": "fire",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "fire, 1997"
+      },
+      "antidote": {
+        "concept": "fire",
+        "cast": []
+      },
+      "_said": "should be because that vision, that perfectly planned, rigid is the actual fuel for the fire. And we really get to see the flaws"
+    },
+    {
+      "fp": "mrsxdo",
+      "i": 60,
+      "from": 13792,
+      "subject": "Mia",
+      "entities": [
+        "mia"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Mia, 1997"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "mia"
+        ]
+      },
+      "_said": "flaws in Elena's vision. Clearly, the moment Mia and Pearl enter the picture. Oh, yeah. On the surface, the dynamic between"
+    },
+    {
+      "fp": "pgirjm",
+      "i": 61,
+      "from": 13996,
+      "subject": "Elena and Mia — crash",
+      "entities": [
+        "elena",
+        "mia"
+      ],
+      "concept": "crash",
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Elena and Mia, 1997"
+      },
+      "antidote": {
+        "concept": "crash",
+        "set": null,
+        "cast": [
+          "elena",
+          "mia"
+        ]
+      },
+      "_said": "between Mia and Elena looks like your classic artist versus suburbanite trope. You know, the bohemian and the yuppy, But it's actually a collision of two entirely different theorie"
+    },
+    {
+      "fp": "pr81hx",
+      "i": 62,
+      "from": 14306,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1997"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Absolutely. Let's look at Mia's backstory. There's this incredibly tense flashback to an expensive New York"
+    },
+    {
+      "fp": "1kecrh5",
+      "i": 63,
+      "from": 14505,
+      "subject": "Mia",
+      "entities": [
+        "mia"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Mia, sits across from a wealthy couple, 1997"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "mia"
+        ]
+      },
+      "_said": "An 18-year-old Mia sits across from a wealthy couple, Joseph and Maline Ryan. They're eating steak tartar. Of course, they are right."
+    },
+    {
+      "fp": "oelsdg",
+      "i": 64,
+      "from": 14731,
+      "subject": "Mia",
+      "entities": [
+        "mia"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Mia, written underneath, 1997"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "mia"
+        ]
+      },
+      "_said": "right. And Joseph slides a folded piece of paper across the table to Mia. On it is an offer. $10,000 to act as a surrogate for them. And a single word written underneath."
+    },
+    {
+      "fp": "1fr09zg",
+      "i": 65,
+      "from": 15033,
+      "subject": "dollarExchange",
+      "entities": [],
+      "concept": "dollarExchange",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "dollar exchange, 1997"
+      },
+      "antidote": {
+        "concept": "dollarExchange",
+        "set": null,
+        "cast": []
+      },
+      "_said": "Please. It's a pure transaction. the commodification of a young woman's body."
+    },
+    {
+      "fp": "16siwi1",
+      "i": 66,
+      "from": 15175,
+      "subject": "Mia — school",
+      "entities": [
+        "mia"
+      ],
+      "concept": "school",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Mia, 1997"
+      },
+      "antidote": {
+        "concept": "school",
+        "set": null,
+        "cast": [
+          "mia"
+        ]
+      },
+      "_said": "body. Yeah. And Mia takes it because she's desperate to fund her art school But then she feels the baby kick. She feels"
+    },
+    {
+      "fp": "1uv9j9h",
+      "i": 67,
+      "from": 15415,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1997"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "feels that elemental undeniable So she breaks the surrogacy contract. She lies to the couple, tells him she lost the baby, and flees"
+    },
+    {
+      "fp": "9oo74o",
+      "i": 68,
+      "from": 15667,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "runs away, 1997"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "flees on a Greyhound Just runs away. Yeah. And she spends the next 15 years living out of a VW rabbit, buying 25 cent thrift store sheets, feeding pearl"
+    },
+    {
+      "fp": "8v3di",
+      "i": 69,
+      "from": 15986,
+      "subject": "Elena — work",
+      "entities": [
+        "elena"
+      ],
+      "concept": "work",
+      "place": "cafe",
+      "confidence": 0.85,
+      "vox": {
+        "shot": "Elena, cafe, 1997"
+      },
+      "antidote": {
+        "concept": "work",
+        "set": "cafe",
+        "cast": [
+          "elena"
+        ]
+      },
+      "_said": "pearl repurposed takeout food from whatever part-time restaurant job she can find. And then you look at Elena."
+    },
+    {
+      "fp": "hpf447",
+      "i": 70,
+      "from": 16145,
+      "subject": "Elena — school",
+      "entities": [
+        "elena"
+      ],
+      "concept": "school",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Elena, 1997"
+      },
+      "antidote": {
+        "concept": "school",
+        "set": null,
+        "cast": [
+          "elena"
+        ]
+      },
+      "_said": "Elena. Elena planned her four children like a corporate project on a strict timeline. High school, college, marriage to a lawyer, a house and shaker, babies, return to work"
+    },
+    {
+      "fp": "lfbmo1",
+      "i": 71,
+      "from": 16471,
+      "subject": "Elena",
+      "entities": [
+        "elena"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Elena, 1997"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "elena"
+        ]
+      },
+      "_said": "work as a journalist. It's also scheduled. Elena regulates her entire life. She weighs herself weekly. She eats exactly 1/2 cup"
+    },
+    {
+      "fp": "xpkt47",
+      "i": 72,
+      "from": 16665,
+      "subject": "coffee",
+      "entities": [],
+      "concept": "coffee",
+      "place": "kitchen",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "coffee, kitchen, 1997"
+      },
+      "antidote": {
+        "concept": "coffee",
+        "set": "kitchen",
+        "cast": []
+      },
+      "_said": "cup of Cheerios every morning. Oh, and the wine glass. She allows herself exactly one glass of wine at dinner, marked by a faint scratch on her wine glass to ensure she doesn't Yes"
+    },
+    {
+      "fp": "lm46gw",
+      "i": 73,
+      "from": 17028,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1997"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "glass. It's control down to the millimeter."
+    },
+    {
+      "fp": "8f7vkp",
+      "i": 74,
+      "from": 17112,
+      "subject": "Elena — family",
+      "entities": [
+        "elena"
+      ],
+      "concept": "family",
+      "place": "kitchen",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Elena, kitchen, 1997"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": "kitchen",
+        "cast": [
+          "elena"
+        ]
+      },
+      "_said": "Elena is treating her family like a corporate merger, optimizing for stability and optics. Right. So, the book places these two mothers side by side and asks us which one is the"
+    },
+    {
+      "fp": "1uysdk9",
+      "i": 75,
+      "from": 17448,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": "kitchen",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, kitchen, 1997"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": "kitchen",
+        "cast": []
+      },
+      "_said": "the real mother, which is such a hard question."
+    },
+    {
+      "fp": "1k05w5e",
+      "i": 76,
+      "from": 17515,
+      "subject": "ledge",
+      "entities": [],
+      "concept": "ledge",
+      "place": "street",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "ledge, street, 1997"
+      },
+      "antidote": {
+        "concept": "ledge",
+        "set": "street",
+        "cast": []
+      },
+      "_said": "question. Okay, I have to jump in here though because as much as the book romanticizes"
+    },
+    {
+      "fp": "17d3pe0",
+      "i": 77,
+      "from": 17649,
+      "subject": "Mia — coin",
+      "entities": [
+        "mia"
+      ],
+      "concept": "coin",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Mia, 1997"
+      },
+      "antidote": {
+        "concept": "coin",
+        "cast": [
+          "mia"
+        ]
+      },
+      "_said": "romanticizes Mia's artistic poverty, let's look at the facts. Mia literally stole a baby. She legally agreed to give up that child, took the money, and ran. That is kidnapping tech"
+    },
+    {
+      "fp": "9cj8jj",
+      "i": 78,
+      "from": 18005,
+      "subject": "Elena — home",
+      "entities": [
+        "elena"
+      ],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Elena, 1997"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": [
+          "elena"
+        ]
+      },
+      "_said": "technically. Meanwhile, Elena gave her kids immense stability, opportunities, a beautiful home, and two parents who are present."
+    },
+    {
+      "fp": "kpa6ea",
+      "i": 79,
+      "from": 18223,
+      "subject": "Elena — family",
+      "entities": [
+        "elena"
+      ],
+      "concept": "family",
+      "place": "kitchen",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Elena, kitchen, 1997"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": "kitchen",
+        "cast": [
+          "elena"
+        ]
+      },
+      "_said": "present. Isn't Elena objectively the more responsible provider? Doesn't that make her practically speaking the better mother? She is undeniably a better provider of material"
+    },
+    {
+      "fp": "1bjnpp4",
+      "i": 80,
+      "from": 18475,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": "cafe",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone, cafe, 1997"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": "cafe",
+        "cast": []
+      },
+      "_said": "material goods. I'll give you that. But the genius of the text is how it separates providing from mothering. Okay, unpack"
+    },
+    {
+      "fp": "1jdvgw4",
+      "i": 81,
+      "from": 18648,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1997"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "unpack that. Elena's provision comes with a heavy, suffocating price tag. Her children must reflect her own perfection. It's highly"
+    },
+    {
+      "fp": "zey0zs",
+      "i": 82,
+      "from": 18842,
+      "subject": "Izzy and Elena — family",
+      "entities": [
+        "izzy",
+        "elena"
+      ],
+      "concept": "family",
+      "place": "kitchen",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Izzy and Elena, kitchen, 1997"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": "kitchen",
+        "cast": [
+          "izzy",
+          "elena"
+        ]
+      },
+      "_said": "highly conditional. The moment her daughter Izzy deviates from the plan, Elena treats her with harshness and deep Mia's love, on the other hand, despite the crushing poverty in the"
+    },
+    {
+      "fp": "6xaceq",
+      "i": 83,
+      "from": 19195,
+      "subject": "Mia",
+      "entities": [
+        "mia"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Mia, 1997"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "mia"
+        ]
+      },
+      "_said": "lies, is elemental. It is entirely attuned to who Pearl actually is, not who Mia needs her to be."
+    },
+    {
+      "fp": "1cdng49",
+      "i": 84,
+      "from": 19380,
+      "subject": "star",
+      "entities": [],
+      "concept": "star",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "star, 1997"
+      },
+      "antidote": {
+        "concept": "star",
+        "set": null,
+        "cast": []
+      },
+      "_said": "be. It's like the difference between pruning a bonsai tree into a perfect unnatural shape and just letting a wild vine grow wherever it needs to find sunlight."
+    },
+    {
+      "fp": "1kcw54g",
+      "i": 85,
+      "from": 19648,
+      "subject": "Elena — family",
+      "entities": [
+        "elena"
+      ],
+      "concept": "family",
+      "place": "kitchen",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Elena, kitchen, 1997"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": "kitchen",
+        "cast": [
+          "elena"
+        ]
+      },
+      "_said": "sunlight. Elena wants a bonsai. That's a perfect way to put it. The conflict asks us to question if material stability is the only metric of a mother's worth. And that theoretical "
+    },
+    {
+      "fp": "16owsys",
+      "i": 86,
+      "from": 20073,
+      "subject": "law",
+      "entities": [],
+      "concept": "law",
+      "place": "court",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "law, court, 1997"
+      },
+      "antidote": {
+        "concept": "law",
+        "set": "court",
+        "cast": []
+      },
+      "_said": "quiet philosophical disagreement to an all-out war during the custody trial over the Oh, the trial trial of me"
+    },
+    {
+      "fp": "5nk1eg",
+      "i": 87,
+      "from": 20282,
+      "subject": "law",
+      "entities": [],
+      "concept": "law",
+      "place": "court",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "law, court, 1997"
+      },
+      "antidote": {
+        "concept": "law",
+        "set": "court",
+        "cast": []
+      },
+      "_said": "me or Mirabbel, depending on which side of the courtroom you're on. This trial is the absolute engine of the book's polite cruelty. It really is."
+    },
+    {
+      "fp": "3qqubd",
+      "i": 88,
+      "from": 20498,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1997"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "is. It's Becha, a poor Chinese immigrant who abandoned her baby in a moment of desperate postpartum crisis versus"
+    },
+    {
+      "fp": "1hxvtfe",
+      "i": 89,
+      "from": 20671,
+      "subject": "law",
+      "entities": [],
+      "concept": "law",
+      "place": "court",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "law, court, 1997"
+      },
+      "antidote": {
+        "concept": "law",
+        "set": "court",
+        "cast": []
+      },
+      "_said": "versus the McCullis who have wealth, stability, and deep roots in Shaker So, let's drop into that courtroom for a second. Ed Lim, the lawyer representing Baby,"
+    },
+    {
+      "fp": "1ni8f0p",
+      "i": 90,
+      "from": 20928,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1997"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Baby, is cross-examining Linda McCulla. He asks Linda if the baby has any dolls that look like her."
+    },
+    {
+      "fp": "20dxg6",
+      "i": 91,
+      "from": 21103,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1997"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "her. And Linda, who is wealthy, white, and fiercely loves"
+    },
+    {
+      "fp": "1a5fjku",
+      "i": 92,
+      "from": 21206,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1997"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "loves this child, gets flustered. She says when she gets older, uh, we can buy"
+    },
+    {
+      "fp": "1qsyk7f",
+      "i": 93,
+      "from": 21398,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "read because linda isn't a monster, 1997"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "buy her a Chinese Barbie. I've never gone looking for one yet. It is so agonizing to read because Linda isn't a monster. She just has zero concept of the cultural eraser"
+    },
+    {
+      "fp": "11vu4gv",
+      "i": 94,
+      "from": 21698,
+      "subject": "law",
+      "entities": [],
+      "concept": "law",
+      "place": "court",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "law, court, 1997"
+      },
+      "antidote": {
+        "concept": "law",
+        "set": "court",
+        "cast": []
+      },
+      "_said": "eraser she's participating in. None at all. The trial is a horrifying display of how the reasonable, well-resourced verdict is actually the cruel one."
+    },
+    {
+      "fp": "63qmtd",
+      "i": 95,
+      "from": 21950,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1997"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "one. Everyone stays perfectly polite while systemically stripping a child of her heritage."
+    },
+    {
+      "fp": "ek5ath",
+      "i": 96,
+      "from": 22073,
+      "subject": "school",
+      "entities": [],
+      "concept": "school",
+      "place": "cafe",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "school, cafe, 1997"
+      },
+      "antidote": {
+        "concept": "school",
+        "set": "cafe",
+        "cast": []
+      },
+      "_said": "heritage. Because the contrast in resources is completely weaponized by the legal system. The McCulla can offer a lead-free house. They offer mommy and me classes. Oh, and Linda te"
+    },
+    {
+      "fp": "1y636km",
+      "i": 97,
+      "from": 22428,
+      "subject": "compass",
+      "entities": [],
+      "concept": "compass",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "compass, 1997"
+      },
+      "antidote": {
+        "concept": "compass",
+        "cast": []
+      },
+      "_said": "Pearl of the Orient, so she can hear some Chinese and get it into her ears. Get it into her ears. It's a deeply"
+    },
+    {
+      "fp": "5xd7s5",
+      "i": 98,
+      "from": 22584,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1997"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "deeply superficial consumer approach to culture. Exactly. And contrast that with Baby's reality."
+    },
+    {
+      "fp": "1oxwrta",
+      "i": 99,
+      "from": 22761,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": "library",
+      "confidence": 0.35,
+      "vox": {
+        "shot": "hold her own biological baby in a public lib, library, 1997"
+      },
+      "antidote": {
+        "concept": null,
+        "set": "library",
+        "cast": []
+      },
+      "_said": "reality. Her visitation rights are severely restricted. Yeah. She is forced to hold her own biological baby in a public library while a social worker sits there watching her like a"
+    },
+    {
+      "fp": "1bomr91",
+      "i": 100,
+      "from": 23061,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": "kitchen",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, kitchen, 1997"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": "kitchen",
+        "cast": []
+      },
+      "_said": "hawk. Baby complains that they treat her like she might hurt her own child. That is the polite cruelty of the state right there. The family court system assumes that wealth"
+    },
+    {
+      "fp": "3f7w19",
+      "i": 101,
+      "from": 23321,
+      "subject": "coin",
+      "entities": [],
+      "concept": "coin",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "coin, 1997"
+      },
+      "antidote": {
+        "concept": "coin",
+        "cast": []
+      },
+      "_said": "wealth and whiteness equate to safety and fitness while poverty and foreignness inherently equate to danger"
+    },
+    {
+      "fp": "kgb5sy",
+      "i": 102,
+      "from": 23522,
+      "subject": "fire",
+      "entities": [],
+      "concept": "fire",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "fire, 1997"
+      },
+      "antidote": {
+        "concept": "fire",
+        "cast": []
+      },
+      "_said": "danger and unfitness. I see the systemic argument. I really do. But let's look at the emotional reality of that freezing night. Baby abandoned her baby at a fire station. She left "
+    },
+    {
+      "fp": "1pkslzu",
+      "i": 103,
+      "from": 23839,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1997"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "cold. That's true. Linda McCulla took that baby in when she was effectively an orphan."
+    },
+    {
+      "fp": "vo0976",
+      "i": 104,
+      "from": 23981,
+      "subject": "home",
+      "entities": [],
+      "concept": "home",
+      "place": "bedroom",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "home, walked four miles in the dark in her bedroom, bedroom, 1997"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": "bedroom",
+        "cast": []
+      },
+      "_said": "orphan. Linda nurtured her through fevers and ear infections. There's a detail where Linda walked four miles in the dark in her bedroom, pacing with that sick baby to soo her. Yeah"
+    },
+    {
+      "fp": "1ax3pf0",
+      "i": 105,
+      "from": 24341,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": "cafe",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone, leaving a child in the cold, cafe, 1997"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": "cafe",
+        "cast": []
+      },
+      "_said": "parent. You don't get a doover for leaving a child in the cold. Don't the McCulla have a right to her? How can we call them cruel for fighting for the child they saved? Your reacti"
+    },
+    {
+      "fp": "m0gcnj",
+      "i": 106,
+      "from": 24633,
+      "subject": "heart",
+      "entities": [],
+      "concept": "heart",
+      "place": "cafe",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "heart, cafe, 1997"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": "cafe",
+        "cast": []
+      },
+      "_said": "book so brilliant. It doesn't deny Linda's love."
+    },
+    {
+      "fp": "1nfsmc",
+      "i": 107,
+      "from": 24703,
+      "subject": "heart",
+      "entities": [],
+      "concept": "heart",
+      "place": "cafe",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "heart, cafe, 1997"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": "cafe",
+        "cast": []
+      },
+      "_said": "love. Linda's devotion is real and fierce. But the cruelty isn't in Linda's love. The cruelty is in a system that punished Baby for a temporary moment of poverty induced despair, a"
+    },
+    {
+      "fp": "x8egbp",
+      "i": 108,
+      "from": 25106,
+      "subject": "coin",
+      "entities": [],
+      "concept": "coin",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "coin, 1997"
+      },
+      "antidote": {
+        "concept": "coin",
+        "cast": []
+      },
+      "_said": "net. Right? And then it uses the McCulla's immense wealth as the ultimate"
+    },
+    {
+      "fp": "32mh1u",
+      "i": 109,
+      "from": 25224,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": "kitchen",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, kitchen, 1997"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": "kitchen",
+        "cast": []
+      },
+      "_said": "ultimate indisputable justification to sever a mother's biological rights forever. The deck is stacked. The deck is totally stacked."
+    },
+    {
+      "fp": "lwrwtk",
+      "i": 110,
+      "from": 25478,
+      "subject": "Elena and Mia and Richardson — shield",
+      "entities": [
+        "elena",
+        "mia",
+        "richardson"
+      ],
+      "concept": "shield",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Elena and Mia, 1997"
+      },
+      "antidote": {
+        "concept": "shield",
+        "cast": [
+          "elena",
+          "mia",
+          "richardson"
+        ]
+      },
+      "_said": "stacked. And Elena Richardson is more than happy to help stack it. Oh, she loves it because Mia is the one who figured out the baby was babies and Mia is the one who encouraged bab"
+    },
+    {
+      "fp": "wjy7cq",
+      "i": 111,
+      "from": 25800,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1997"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "friends, the McCullis. This is where Elena's surveillance becomes indistinguishable from care. This is one of the sharpest"
+    },
+    {
+      "fp": "1yrpzia",
+      "i": 112,
+      "from": 25977,
+      "subject": "Elena and Ang — home",
+      "entities": [
+        "elena",
+        "ang"
+      ],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Elena and Ang, sits in their living room, 1997"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": [
+          "elena",
+          "ang"
+        ]
+      },
+      "_said": "sharpest psychological moves Ang makes. Elena literally drives three hours to Pennsylvania to track down Mia's parents the rights. She just shows up. She just sits in their living "
+    },
+    {
+      "fp": "bobq5r",
+      "i": 113,
+      "from": 26273,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": "library",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "notes, sits there writing notes in her pad, library, 1997"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": "library",
+        "cast": []
+      },
+      "_said": "room pretending to be a reporter, researching a story about promising teens whose careers were derailed. She sits there writing notes in her pad, digging up the trauma"
+    },
+    {
+      "fp": "1kjr0m5",
+      "i": 114,
+      "from": 26582,
+      "subject": "Mia",
+      "entities": [
+        "mia"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Mia, 1997"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "mia"
+        ]
+      },
+      "_said": "trauma of Mia fleeing with the surrogate baby all those years ago."
+    },
+    {
+      "fp": "14d7n9l",
+      "i": 115,
+      "from": 26693,
+      "subject": "codeWindow",
+      "entities": [],
+      "concept": "codeWindow",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "code window, 1997"
+      },
+      "antidote": {
+        "concept": "codeWindow",
+        "set": null,
+        "cast": []
+      },
+      "_said": "ago. It's like when an HOA president uses a drone to check if your roof tiles are up to code, but tells you they're just checking to make sure you don't have squirrel damage. That "
+    },
+    {
+      "fp": "4m0vdd",
+      "i": 116,
+      "from": 27038,
+      "subject": "Elena and Mia",
+      "entities": [
+        "elena",
+        "mia"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Elena and Mia, 1997"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "elena",
+          "mia"
+        ]
+      },
+      "_said": "accurate. Elena investigates Mia entirely out of concern. She never once allows herself to see that her concern and her control are the exact same act."
+    },
+    {
+      "fp": "ptqrit",
+      "i": 117,
+      "from": 27309,
+      "subject": "Elena",
+      "entities": [
+        "elena"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Elena, 1997"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "elena"
+        ]
+      },
+      "_said": "act. She weaponizes her journalism not for truth, but for domination. And if we look closely, we can see Elena doing this from the very beginning. Think about"
+    },
+    {
+      "fp": "36xhos",
+      "i": 118,
+      "from": 27566,
+      "subject": "Mia — work",
+      "entities": [
+        "mia"
+      ],
+      "concept": "work",
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Mia, 1997"
+      },
+      "antidote": {
+        "concept": "work",
+        "set": null,
+        "cast": [
+          "mia"
+        ]
+      },
+      "_said": "about when Atlanta first offered Mia a job as a housekeeper for $300 a"
+    },
+    {
+      "fp": "duqmqg",
+      "i": 119,
+      "from": 27691,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": "kitchen",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, kitchen, 1997"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": "kitchen",
+        "cast": []
+      },
+      "_said": "a month. Right. From the outside, it looks like incredible charity. A wealthy woman giving a struggling single mom a lifeline. But the book gives"
+    },
+    {
+      "fp": "bry5py",
+      "i": 120,
+      "from": 27928,
+      "subject": "Mia",
+      "entities": [
+        "mia"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Mia, 1997"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "mia"
+        ]
+      },
+      "_said": "gives us Elena's internal monologue. Oh yeah. She admits to herself that she finds Mia perturbing. Right. She wants to study her. She internally admits she wants to keep an eye on"
+    },
+    {
+      "fp": "149bcnm",
+      "i": 121,
+      "from": 28188,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1997"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "on a dangerous beast. She wants to domesticate the anomaly and it escalates. When she's trying to find dirt on Baby Shia to"
+    },
+    {
+      "fp": "xppdok",
+      "i": 122,
+      "from": 28423,
+      "subject": "Elena — medical",
+      "entities": [
+        "elena"
+      ],
+      "concept": "medical",
+      "place": "hospital",
+      "confidence": 1,
+      "vox": {
+        "shot": "Elena, runs an abortion clinic, hospital, 1997"
+      },
+      "antidote": {
+        "concept": "medical",
+        "set": "hospital",
+        "cast": [
+          "elena"
+        ]
+      },
+      "_said": "to help the McCullis, Elena manipulates her friend Betsy, who runs an abortion clinic. Oh, that part was so hard to read."
+    },
+    {
+      "fp": "eyvhz7",
+      "i": 123,
+      "from": 28620,
+      "subject": "Elena — coin",
+      "entities": [
+        "elena"
+      ],
+      "concept": "coin",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Elena, 1997"
+      },
+      "antidote": {
+        "concept": "coin",
+        "cast": [
+          "elena"
+        ]
+      },
+      "_said": "read. Elena uses decades of social debt, reminding Betsy how she helped her get a husband, helped her get her job, to pressure Betsy into illegally checking"
+    },
+    {
+      "fp": "pixyjm",
+      "i": 124,
+      "from": 28867,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1997"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "checking confidential medical records just to see if baby had an abortion. It's a staggering violation of ethics. Huge."
+    },
+    {
+      "fp": "xbs2eg",
+      "i": 125,
+      "from": 29066,
+      "subject": "Elena",
+      "entities": [
+        "elena"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Elena, 1997"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "elena"
+        ]
+      },
+      "_said": "Huge. But Elena doesn't feel an ounce of guilt. Why? Because of cognitive dissonance. Elena is absolutely certain she is on the side of the right. When you believe you are the avat"
+    },
+    {
+      "fp": "106ehb5",
+      "i": 126,
+      "from": 29443,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1997"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "break to maintain that order feels like a moral imperative. But hold on."
+    },
+    {
+      "fp": "zq7x68",
+      "i": 127,
+      "from": 29548,
+      "subject": "Elena",
+      "entities": [
+        "elena"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Elena, 1997"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "elena"
+        ]
+      },
+      "_said": "on. Elena is an investigative journalist. She digs into Mia's past. And what did she actually find? She uncovers"
+    },
+    {
+      "fp": "3ycvz4",
+      "i": 128,
+      "from": 29757,
+      "subject": "Mia — coin",
+      "entities": [
+        "mia"
+      ],
+      "concept": "coin",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Mia, 1997"
+      },
+      "antidote": {
+        "concept": "coin",
+        "cast": [
+          "mia"
+        ]
+      },
+      "_said": "uncovers that Mia is living under a fake name, that she took money to be a surrogate, and that she technically kidnapped a baby. True."
+    },
+    {
+      "fp": "14hlw6l",
+      "i": 129,
+      "from": 29954,
+      "subject": "Elena",
+      "entities": [
+        "elena"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Elena, 1997"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "elena"
+        ]
+      },
+      "_said": "True. Elena isn't making this up. She's uncovering a massive destructive lie. Why is she the bad guy for finding the Because a journalist seeks truth to inform the public or expose"
+    },
+    {
+      "fp": "aq5ke6",
+      "i": 130,
+      "from": 30276,
+      "subject": "Elena — shield",
+      "entities": [
+        "elena"
+      ],
+      "concept": "shield",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Elena, 1997"
+      },
+      "antidote": {
+        "concept": "shield",
+        "cast": [
+          "elena"
+        ]
+      },
+      "_said": "systemic corruption. Elena is acting more like a corporate HR department protecting the Oh wow. Right. She isn't seeking justice. She is seeking leverage. She uses"
+    },
+    {
+      "fp": "r92pd5",
+      "i": 131,
+      "from": 30588,
+      "subject": "Mia",
+      "entities": [
+        "mia"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Mia, 1997"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "mia"
+        ]
+      },
+      "_said": "uses her investigative skills to destroy a woman who simply makes her uncomfortable. I see. She wants to neutralize Mia because Mia threatened"
+    },
+    {
+      "fp": "1fo0mml",
+      "i": 132,
+      "from": 30816,
+      "subject": "Elena — shield",
+      "entities": [
+        "elena"
+      ],
+      "concept": "shield",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Elena, 1997"
+      },
+      "antidote": {
+        "concept": "shield",
+        "cast": [
+          "elena"
+        ]
+      },
+      "_said": "threatened the Shaker Heights order by helping Bey. Elena justifies every boundary she crosses because she believes she is protecting her friends, which is the ultimate"
+    },
+    {
+      "fp": "1hghs8w",
+      "i": 133,
+      "from": 31075,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1997"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "ultimate weaponization of good intentions. And the wild thing is the hypocrisy of Elena's good intentions is completely invisible to almost"
+    },
+    {
+      "fp": "tcf4wy",
+      "i": 134,
+      "from": 31317,
+      "subject": "Izzy",
+      "entities": [
+        "izzy"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Izzy, 1997"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "izzy"
+        ]
+      },
+      "_said": "almost everyone in Shaker Heights. Everyone except for one person, Izzy. The"
+    },
+    {
+      "fp": "lhex5f",
+      "i": 135,
+      "from": 31459,
+      "subject": "Izzy and Elena and Richardson — phone",
+      "entities": [
+        "izzy",
+        "elena",
+        "richardson"
+      ],
+      "concept": "phone",
+      "place": "cafe",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Izzy and Elena, written off as the unstable problem child, cafe, 1997"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": "cafe",
+        "cast": [
+          "izzy",
+          "elena",
+          "richardson"
+        ]
+      },
+      "_said": "The daughter Elena has completely written off as the unstable problem child. Izzy is the designated chaos of the Richardson family. In family systems theory, they call this the"
+    },
+    {
+      "fp": "ylfcd2",
+      "i": 136,
+      "from": 31735,
+      "subject": "Izzy — family",
+      "entities": [
+        "izzy"
+      ],
+      "concept": "family",
+      "place": "kitchen",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Izzy, kitchen, 1997"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": "kitchen",
+        "cast": [
+          "izzy"
+        ]
+      },
+      "_said": "the identified patient, the person the family subconsciously nominates to act out all their repressed dysfunction, But structurally, Izzy is the moral center of the book. The scene"
+    },
+    {
+      "fp": "1ubg0n9",
+      "i": 137,
+      "from": 32090,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1997"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "just unforgettable. Like when she was 10, she sneaked into the Humane"
+    },
+    {
+      "fp": "1cnd8o1",
+      "i": 138,
+      "from": 32188,
+      "subject": "Izzy and Elena — school",
+      "entities": [
+        "izzy",
+        "elena"
+      ],
+      "concept": "school",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Izzy and Elena, 1997"
+      },
+      "antidote": {
+        "concept": "school",
+        "set": null,
+        "cast": [
+          "izzy",
+          "elena"
+        ]
+      },
+      "_said": "Humane Society to free all the stray cats because she said they were prisoners on death row. Yeah. When she was 11, Elena forced her into dance classes to improve her coordination."
+    },
+    {
+      "fp": "1fo018s",
+      "i": 139,
+      "from": 32532,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": "library",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "notes, writes not your puppet across her forehead, library, 1997"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": "library",
+        "cast": []
+      },
+      "_said": "takes a Sharpie, writes not your puppet across her forehead and cheeks, and stands completely stocked still on stage during"
+    },
+    {
+      "fp": "1f5m2vp",
+      "i": 140,
+      "from": 32721,
+      "subject": "Izzy — family",
+      "entities": [
+        "izzy"
+      ],
+      "concept": "family",
+      "place": "kitchen",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Izzy, kitchen, 1997"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": "kitchen",
+        "cast": [
+          "izzy"
+        ]
+      },
+      "_said": "during the recital while the other kids dance around her. And the family labels her as a lunatic. Her own mother thinks there is something chemically wrong with her, But the family"
+    },
+    {
+      "fp": "i24iuk",
+      "i": 141,
+      "from": 33161,
+      "subject": "Richardson",
+      "entities": [
+        "richardson"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Richardson, 1997"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "richardson"
+        ]
+      },
+      "_said": "clearly. She's the only Richardson who unequivocally sides"
+    },
+    {
+      "fp": "o5xbkj",
+      "i": 142,
+      "from": 33249,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": "kitchen",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, kitchen, 1997"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": "kitchen",
+        "cast": []
+      },
+      "_said": "sides with Baby Chow during the trial. Yeah. Her logic isn't clouded by property values or social standing. It's brutally simple. She's the mom."
+    },
+    {
+      "fp": "xib4la",
+      "i": 143,
+      "from": 33482,
+      "subject": "Izzy and Mia — family",
+      "entities": [
+        "izzy",
+        "mia"
+      ],
+      "concept": "family",
+      "place": "kitchen",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Izzy and Mia, kitchen, 1997"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": "kitchen",
+        "cast": [
+          "izzy",
+          "mia"
+        ]
+      },
+      "_said": "mom. They're not. She's also the only one who truly sees Mia. Izzy is captivated by Mia's art. There's that photograph Mia took of herself where she looks like a spider. All silent"
+    },
+    {
+      "fp": "qjy68n",
+      "i": 144,
+      "from": 33833,
+      "subject": "Elena — photo",
+      "entities": [
+        "elena"
+      ],
+      "concept": "photo",
+      "place": "bedroom",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Elena, bedroom, 1997"
+      },
+      "antidote": {
+        "concept": "photo",
+        "set": "bedroom",
+        "cast": [
+          "elena"
+        ]
+      },
+      "_said": "photo. Yeah. Elena looks at that photo and finds it disturbing, wondering what kind of person turns a woman into a spider."
+    },
+    {
+      "fp": "1oaldr",
+      "i": 145,
+      "from": 34041,
+      "subject": "Izzy",
+      "entities": [
+        "izzy"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Izzy, 1997"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "izzy"
+        ]
+      },
+      "_said": "spider. But Izzy looks at it and sees a woman surviving. A woman defending herself against predators. Izzy recognizes"
+    },
+    {
+      "fp": "189dlc8",
+      "i": 146,
+      "from": 34221,
+      "subject": "Izzy and Elena",
+      "entities": [
+        "izzy",
+        "elena"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Izzy and Elena, 1997"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "izzy",
+          "elena"
+        ]
+      },
+      "_said": "recognizes authenticity because she is absolutely starved for it in her own But let's extend a little grace to Elena Izzy is genuinely"
+    },
+    {
+      "fp": "va38tl",
+      "i": 147,
+      "from": 34454,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": "kitchen",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, kitchen, 1997"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": "kitchen",
+        "cast": []
+      },
+      "_said": "genuinely destructive. She is volatile. She throws perfectly good clothes. Her mother bought her into a trash bag and gives them away on the"
+    },
+    {
+      "fp": "1hyb4w2",
+      "i": 148,
+      "from": 34713,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": "kitchen",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, kitchen, 1997"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": "kitchen",
+        "cast": []
+      },
+      "_said": "the Yeah, she does. She's a nightmare for a mother who is just trying to keep the peace in a busy household with four kids."
+    },
+    {
+      "fp": "1t0qz1j",
+      "i": 149,
+      "from": 34922,
+      "subject": "Izzy — fire",
+      "entities": [
+        "izzy"
+      ],
+      "concept": "fire",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Izzy, 1997"
+      },
+      "antidote": {
+        "concept": "fire",
+        "cast": [
+          "izzy"
+        ]
+      },
+      "_said": "kids. It's not like Alina is dealing with a normal teenage rebellion. Izzy is the canary in the coal mine that decides to set the coal mine on fire."
+    },
+    {
+      "fp": "1q82vut",
+      "i": 150,
+      "from": 35148,
+      "subject": "Izzy — phone",
+      "entities": [
+        "izzy"
+      ],
+      "concept": "phone",
+      "place": "cafe",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Izzy, cafe, 1997"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": "cafe",
+        "cast": [
+          "izzy"
+        ]
+      },
+      "_said": "fire. That's incredibly fair. Izzy is a profoundly difficult child to parent. But the text asks us why she is so volatile. Her behavior isn't happen in a vacuum, right? It is a dir"
+    },
+    {
+      "fp": "129x0fd",
+      "i": 151,
+      "from": 35486,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1997"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "to the suffocating phoniness of her environment. She acts out because the polite"
+    },
+    {
+      "fp": "114jik",
+      "i": 152,
+      "from": 35604,
+      "subject": "Izzy — home",
+      "entities": [
+        "izzy"
+      ],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Izzy, 1997"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": [
+          "izzy"
+        ]
+      },
+      "_said": "polite conversation in her house is a violent lie. Izzy refuses to pretend that everything is fine when she knows it isn't. She uses"
+    },
+    {
+      "fp": "y6208z",
+      "i": 153,
+      "from": 35837,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": "kitchen",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, kitchen, 1997"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": "kitchen",
+        "cast": []
+      },
+      "_said": "uses a Sharpie on her face because she has literally no other tools to articulate how trapped she feels by her mother's conditional love. And the tragedy is"
+    },
+    {
+      "fp": "1ypmcwq",
+      "i": 154,
+      "from": 36101,
+      "subject": "Izzy — family",
+      "entities": [
+        "izzy"
+      ],
+      "concept": "family",
+      "place": "kitchen",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Izzy, kitchen, 1997"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": "kitchen",
+        "cast": [
+          "izzy"
+        ]
+      },
+      "_said": "is while Izzy is loudly rejecting her parents' values, her siblings are quietly absorbing them. The children inherit the poison. This is where"
+    },
+    {
+      "fp": "uqyb6p",
+      "i": 155,
+      "from": 36365,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": "kitchen",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, kitchen, 1997"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": "kitchen",
+        "cast": []
+      },
+      "_said": "where the sociological critique of the book cuts the deepest. The parents values reproduce themselves in"
+    },
+    {
+      "fp": "1088w13",
+      "i": 156,
+      "from": 36559,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1997"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "in the next generation without anyone consciously deciding to pass them"
+    },
+    {
+      "fp": "lk66k",
+      "i": 157,
+      "from": 36667,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1997"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "them on. It's like osmosis. Exactly. The privilege operates like an invisible gas. We see this most clearly in"
+    },
+    {
+      "fp": "19e0mel",
+      "i": 158,
+      "from": 36868,
+      "subject": "Richardson",
+      "entities": [
+        "richardson"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Richardson, 1997"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "richardson"
+        ]
+      },
+      "_said": "in how the Richardson children treat Pearl. They don't just befriend her, they consume her. The most jarring example of this"
+    },
+    {
+      "fp": "17dbfmt",
+      "i": 159,
+      "from": 37034,
+      "subject": "medical",
+      "entities": [],
+      "concept": "medical",
+      "place": "hospital",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "medical, hospital, 1997"
+      },
+      "antidote": {
+        "concept": "medical",
+        "set": "hospital",
+        "cast": []
+      },
+      "_said": "this is Lexi at the abortion clinic. Lexi gets pregnant. She's panicked."
+    },
+    {
+      "fp": "1h1odx5",
+      "i": 160,
+      "from": 37152,
+      "subject": "medical",
+      "entities": [],
+      "concept": "medical",
+      "place": "hospital",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "medical, writes a fake name to protect her own reputati, hospital, 1997"
+      },
+      "antidote": {
+        "concept": "medical",
+        "set": "hospital",
+        "cast": []
+      },
+      "_said": "panicked. In Shaker Heights, AP students don't get pregnant. It would ruin the master plan. God forbid, right? So, she goes to the clinic. The nurse hands her the clipboard. She he"
+    },
+    {
+      "fp": "4udprf",
+      "i": 161,
+      "from": 37502,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": "library",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "notes, writes pearl warren, library, 1997"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": "library",
+        "cast": []
+      },
+      "_said": "writes Pearl Warren. It's an act of profound casual violence. Lexi borrows Pearl's identity to absorb her own shame. It shows that subconsciously"
+    },
+    {
+      "fp": "1ddhru7",
+      "i": 162,
+      "from": 37814,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1997"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "subconsciously Lexi views Pearl as a resource, not an equal. and it's not just Lexi. Trip claims"
+    },
+    {
+      "fp": "a8snvq",
+      "i": 163,
+      "from": 38004,
+      "subject": "heart",
+      "entities": [],
+      "concept": "heart",
+      "place": "cafe",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "heart, cafe, 1997"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": "cafe",
+        "cast": []
+      },
+      "_said": "claims Pearl's physical attention, pulling her into a secret sexual relationship. Right. Moody feels he intellectually owns her because"
+    },
+    {
+      "fp": "18o7e9j",
+      "i": 164,
+      "from": 38239,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": "kitchen",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, kitchen, 1997"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": "kitchen",
+        "cast": []
+      },
+      "_said": "because he introduced her to the family. He buys her a Moleskin notebook and gets furiously possessively jealous when she pays attention to anyone else."
+    },
+    {
+      "fp": "2i73ad",
+      "i": 165,
+      "from": 38469,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1997"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "else. Lexi even takes Pearl to the thrift store under the guise of hanging out, but basically treats her like a pet she gives Pearl her own castoff clothes, which is like a gesture"
+    },
+    {
+      "fp": "16l2jd2",
+      "i": 166,
+      "from": 38788,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": "library",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "notes, library, 1997"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": "library",
+        "cast": []
+      },
+      "_said": "pity masquerading as friendship. It's like a vampire who thinks they're just giving you a hickey. Oh my gosh. Lexi even uses an essay P wrote to"
+    },
+    {
+      "fp": "hs1j4r",
+      "i": 167,
+      "from": 38995,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1997"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "to get into Yale. They all carve out a piece of pearl for their own use to bolster their own lives. But let's talk about intent. Are they really being malicious?"
+    },
+    {
+      "fp": "189lf1b",
+      "i": 168,
+      "from": 39254,
+      "subject": "medical",
+      "entities": [],
+      "concept": "medical",
+      "place": "hospital",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "medical, hospital, 1997"
+      },
+      "antidote": {
+        "concept": "medical",
+        "set": "hospital",
+        "cast": []
+      },
+      "_said": "Lexi was terrified at the clinic. She was a scared teenager who panicked under pressure. Trip and Moody are just teenage boys with a crush on the mysterious new girl."
+    },
+    {
+      "fp": "2ohiev",
+      "i": 169,
+      "from": 39540,
+      "subject": "gift",
+      "entities": [],
+      "concept": "gift",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "gift, 1997"
+      },
+      "antidote": {
+        "concept": "gift",
+        "cast": []
+      },
+      "_said": "girl. It's Lexi giving her clothes is just a clumsy teenage attempt at bonding. It's like borrowing someone's umbrella in a storm and forgetting they're getting soaked. They aren't"
+    },
+    {
+      "fp": "q4mmms",
+      "i": 170,
+      "from": 39842,
+      "subject": "Ang",
+      "entities": [
+        "ang"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Ang, 1997"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "ang"
+        ]
+      },
+      "_said": "to hurt Pearl. The lack of malice is exactly the point Ang is trying to make. That's the core argument of the book. Oh, I see. Their casual entitlement"
+    },
+    {
+      "fp": "kjlzdy",
+      "i": 171,
+      "from": 40044,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1997"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "entitlement to Pearl's name, her body, and her intellect shows how deeply ingrained their privileges. They consume her without a second thought because they have been raised in"
+    },
+    {
+      "fp": "due9w6",
+      "i": 172,
+      "from": 40320,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1997"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "in an environment that teaches them the world exists for their convenience."
+    },
+    {
+      "fp": "1nkf7du",
+      "i": 173,
+      "from": 40454,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1997"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Privilege acts as an anesthetic to other people's pain. They don't need malice to do immense harm. Their thoughtless entitlement is more than enough. And that quiet, polite"
+    },
+    {
+      "fp": "198oift",
+      "i": 174,
+      "from": 40761,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1997"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "polite consumption builds and builds. The tension gets ratcheted up until the entire system finally breaks. The ending of this book completely refuses catharsis. It really denies u"
+    },
+    {
+      "fp": "1i3rxwz",
+      "i": 175,
+      "from": 41093,
+      "subject": "law",
+      "entities": [],
+      "concept": "law",
+      "place": "court",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "law, court, 1997"
+      },
+      "antidote": {
+        "concept": "law",
+        "set": "court",
+        "cast": []
+      },
+      "_said": "us the traditional satisfying narrative arc. Yeah. Let's look at the aftermath of the trial. The judge rules in favor"
+    },
+    {
+      "fp": "12fpvkg",
+      "i": 176,
+      "from": 41277,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1997"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "favor of the McCulla. Baby Chow loses. The system worked exactly as Shaker Heights designed it to. But then a baiff feeling pity"
+    },
+    {
+      "fp": "1acxpjh",
+      "i": 177,
+      "from": 41498,
+      "subject": "home",
+      "entities": [],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "home, 1997"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": []
+      },
+      "_said": "pity for a grieving mother slips beet $40 to take a cab home. And beet uses that small grace to bypass her empty apartment, break"
+    },
+    {
+      "fp": "9ueuyo",
+      "i": 178,
+      "from": 41772,
+      "subject": "home",
+      "entities": [],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "home, 1997"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": []
+      },
+      "_said": "break into the McCulla house in the middle of the night, steal her biological baby back, and fly"
+    },
+    {
+      "fp": "cvlhlz",
+      "i": 179,
+      "from": 41911,
+      "subject": "Mia — law",
+      "entities": [
+        "mia"
+      ],
+      "concept": "law",
+      "place": "court",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Mia, court, 1997"
+      },
+      "antidote": {
+        "concept": "law",
+        "set": "court",
+        "cast": [
+          "mia"
+        ]
+      },
+      "_said": "fly to Canton, China. She vanishes into a country of a billion people. The legal system made its clean, orderly decision, and raw, messy human emotion completely upended it. Yes. A"
+    },
+    {
+      "fp": "rcrb0v",
+      "i": 180,
+      "from": 42341,
+      "subject": "Mia",
+      "entities": [
+        "mia"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Mia, 1997"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "mia"
+        ]
+      },
+      "_said": "Mia and Pearl pack up their VW Rabbit in the middle of the night and"
+    },
+    {
+      "fp": "1ixv3cg",
+      "i": 181,
+      "from": 42432,
+      "subject": "Izzy — family",
+      "entities": [
+        "izzy"
+      ],
+      "concept": "family",
+      "place": "kitchen",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Izzy, leaves shaker heights for good, kitchen, 1997"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": "kitchen",
+        "cast": [
+          "izzy"
+        ]
+      },
+      "_said": "and leaves Shaker Heights for good. Izzy figures out that her mother drove me away, packs a bag, lights the little fires on the beds, and hops"
+    },
+    {
+      "fp": "1srd8c5",
+      "i": 182,
+      "from": 42674,
+      "subject": "Elena and Mia — home",
+      "entities": [
+        "elena",
+        "mia"
+      ],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Elena and Mia, leaving elena standing on the tree in her bathr, 1997"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": [
+          "elena",
+          "mia"
+        ]
+      },
+      "_said": "hops a Greyhound bus to Pittsburgh to try and find Mia. Leaving Elena standing on the tree in her bathrobe. Her perfect house is a steaming shell."
+    },
+    {
+      "fp": "zfzq43",
+      "i": 183,
+      "from": 42924,
+      "subject": "butterfly",
+      "entities": [],
+      "concept": "butterfly",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "butterfly, 1997"
+      },
+      "antidote": {
+        "concept": "butterfly",
+        "set": null,
+        "cast": []
+      },
+      "_said": "shell. She's suddenly realizing that her youngest child is gone perhaps forever. Order didn't lose to chaos. It was exposed as the arson all along."
+    },
+    {
+      "fp": "1waz9qc",
+      "i": 184,
+      "from": 43166,
+      "subject": "game",
+      "entities": [],
+      "concept": "game",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "game, 1997"
+      },
+      "antidote": {
+        "concept": "game",
+        "set": null,
+        "cast": []
+      },
+      "_said": "along. That's a great line. The extreme rigidity of Elena's world is what forced every single one of them to flee or to strike a match. I have to admit, the first time I read this,"
+    },
+    {
+      "fp": "3ffua",
+      "i": 185,
+      "from": 43468,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1997"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "was so frustrated. I hated this it felt like nobody won."
+    },
+    {
+      "fp": "1871ldv",
+      "i": 186,
+      "from": 43598,
+      "subject": "Izzy",
+      "entities": [
+        "izzy"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Izzy, 1997"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "izzy"
+        ]
+      },
+      "_said": "won. The McCullas lose the baby they loved and cared for. Izzy is a runaway teen on a bus, which is statistically terrifying."
+    },
+    {
+      "fp": "c7kikw",
+      "i": 187,
+      "from": 43836,
+      "subject": "Izzy and Elena",
+      "entities": [
+        "izzy",
+        "elena"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Izzy and Elena, 1997"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "izzy",
+          "elena"
+        ]
+      },
+      "_said": "terrifying. Yeah, that's true. And Elena doesn't even seem to fully understand what she did wrong. She just thinks Izzy is a lunatic. it felt like there was no justice, just"
+    },
+    {
+      "fp": "6quxp2",
+      "i": 188,
+      "from": 44117,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1997"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "It's an incredibly provocative, messy ending. But if Nang had tied the story up with a neat, moral bow where the good guys get rewarded and the bad guys learn a tidy lesson, she wo"
+    },
+    {
+      "fp": "1cgmc60",
+      "i": 189,
+      "from": 44589,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1997"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "critiquing in Shaker Heights. Oh wow. Right. The messiness, the lack of closure, the lingering pain. That is the point. real life, real human emotion doesn't fit into a zoning"
+    },
+    {
+      "fp": "14nv6c4",
+      "i": 190,
+      "from": 44873,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1997"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "zoning ordinance. That makes total sense when you frame it as a rejection of neatness. But that does bring us to a genuine critique that readers have about the Despite the messy en"
+    },
+    {
+      "fp": "1t5uc8v",
+      "i": 191,
+      "from": 45213,
+      "subject": "Elena",
+      "entities": [
+        "elena"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Elena, 1997"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "elena"
+        ]
+      },
+      "_said": "a bit schematic. It's a very valid criticism. The binary is drawn very cleanly, almost mathematically. Elena is constructed almost perfectly as the villain of white suburban good i"
+    },
+    {
+      "fp": "1ersa3c",
+      "i": 192,
+      "from": 45533,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1997"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "She is rigid, hypocritical, and utterly blind to her own privilege."
+    },
+    {
+      "fp": "11xgucb",
+      "i": 193,
+      "from": 45657,
+      "subject": "Mia — school",
+      "entities": [
+        "mia"
+      ],
+      "concept": "school",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Mia, 1997"
+      },
+      "antidote": {
+        "concept": "school",
+        "set": null,
+        "cast": [
+          "mia"
+        ]
+      },
+      "_said": "privilege. Yeah. And Mia, on the other hand, is almost too idealized as the free, authentic, sacrificial artist who sees the truth. Right. The class and race dynamics are so stark "
+    },
+    {
+      "fp": "1owv4j3",
+      "i": 194,
+      "from": 46034,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1997"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "rigged by Shaker Heights. It was rigged by the author."
+    },
+    {
+      "fp": "cqgzkf",
+      "i": 195,
+      "from": 46113,
+      "subject": "Ang",
+      "entities": [
+        "ang"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Ang, 1997"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "ang"
+        ]
+      },
+      "_said": "author. That's a fair point, right? Ang puts all the systemic power and suffocating rules on one side and all the elemental artistic purity on the other."
+    },
+    {
+      "fp": "nb9ewm",
+      "i": 196,
+      "from": 46385,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1997"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "other. Does that weaken the nuance of the book for you? It's a debate worth having. On one hand, it can feel heavy-handed, almost like a fable rather than gritty realism. On the ot"
+    },
+    {
+      "fp": "1wlyauu",
+      "i": 197,
+      "from": 46773,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1997"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "reason. By stripping away some of the gray area and making the archetypes so clear, n forces us to look directly at"
+    },
+    {
+      "fp": "h2335n",
+      "i": 198,
+      "from": 46948,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1997"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "at the structural Uh the schematic nature is likely intentional to highlight just how rigidly these roles are enforced in a"
+    },
+    {
+      "fp": "1pyshkx",
+      "i": 199,
+      "from": 47172,
+      "subject": "funnelMetrics",
+      "entities": [],
+      "concept": "funnelMetrics",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "funnel metrics, 1997"
+      },
+      "antidote": {
+        "concept": "funnelMetrics",
+        "set": null,
+        "cast": []
+      },
+      "_said": "a place like Shakerites. The town itself is schematic, so the characters reflect that. It definitely forces you to pick a lens which leads right into how we reframe the entire stor"
+    },
+    {
+      "fp": "zwki6w",
+      "i": 200,
+      "from": 47539,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1997"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "book, Little Fires Yeah. When you start the book, you think it's just a literal"
+    },
+    {
+      "fp": "124fco3",
+      "i": 201,
+      "from": 47661,
+      "subject": "home",
+      "entities": [],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "home, 1997"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": []
+      },
+      "_said": "literal description of the physical house, right? The crackling fire set on the beds in the opening scene, but by the time you close the cover, you realize the title was never just"
+    },
+    {
+      "fp": "zihseo",
+      "i": 202,
+      "from": 47947,
+      "subject": "Elena — home",
+      "entities": [
+        "elena"
+      ],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Elena, 1997"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": [
+          "elena"
+        ]
+      },
+      "_said": "house. Every single character in this book has been setting little fires all along. Elena set fires with"
+    },
+    {
+      "fp": "1t1s1tb",
+      "i": 203,
+      "from": 48113,
+      "subject": "medical",
+      "entities": [],
+      "concept": "medical",
+      "place": "hospital",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "medical, hospital, 1997"
+      },
+      "antidote": {
+        "concept": "medical",
+        "set": "hospital",
+        "cast": []
+      },
+      "_said": "with her surveillance and her weaponized charity. Lexi set a fire when she stole Pearl's name at the clinic. Trip"
+    },
+    {
+      "fp": "mfwkr2",
+      "i": 204,
+      "from": 48300,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": "kitchen",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, kitchen, 1997"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": "kitchen",
+        "cast": []
+      },
+      "_said": "Trip and Moody set fires with their careless entitlement to a girl's body and mind. The McCulla set fires by trying to neatly erase a baby's history to build their own perfect fami"
+    },
+    {
+      "fp": "lj6k91",
+      "i": 205,
+      "from": 48686,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1997"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "with their microaggressions, their assumptions, and their well-kept They just did it politely. They did it within the rules"
+    },
+    {
+      "fp": "18ipb9l",
+      "i": 206,
+      "from": 48852,
+      "subject": "Izzy — fire",
+      "entities": [
+        "izzy"
+      ],
+      "concept": "fire",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Izzy, 1997"
+      },
+      "antidote": {
+        "concept": "fire",
+        "cast": [
+          "izzy"
+        ]
+      },
+      "_said": "rules of the homeowners Exactly. Izzy didn't start the fire. She just used a match instead of politeness. It really leaves"
+    },
+    {
+      "fp": "ncbyox",
+      "i": 207,
+      "from": 49089,
+      "subject": "tree",
+      "entities": [],
+      "concept": "tree",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "tree, leaves you wondering how many little fires are, 1997"
+      },
+      "antidote": {
+        "concept": "tree",
+        "set": null,
+        "cast": []
+      },
+      "_said": "leaves you wondering how many little fires are we setting in our own lives simply by following the rules that keep us comfortable. Definitely"
+    },
+    {
+      "fp": "dcmzz8",
+      "i": 208,
+      "from": 49301,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1997"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Definitely something to mull over the next time you find yourself entirely convinced that you were the one doing the right"
+    }
+  ]
+}

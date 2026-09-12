@@ -1,0 +1,6549 @@
+{
+  "slug": "war-of-the-worlds",
+  "authored": false,
+  "briefs": [
+    {
+      "fp": "1t3888x",
+      "i": 0,
+      "from": 0,
+      "subject": "Wells and Martians — food",
+      "entities": [
+        "wells",
+        "martians"
+      ],
+      "concept": "food",
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Wells and Martians, 1895"
+      },
+      "antidote": {
+        "concept": "food",
+        "set": null,
+        "cast": [
+          "wells",
+          "martians"
+        ]
+      },
+      "_said": "The Martians don't lose to our armies. They lose to a germ. And Wells did that on purpose to tell his own empire it was never the top of the food chain. Exactly. I mean, he complet"
+    },
+    {
+      "fp": "m2hvn0",
+      "i": 1,
+      "from": 384,
+      "subject": "magnifier",
+      "entities": [],
+      "concept": "magnifier",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "magnifier, 1895"
+      },
+      "antidote": {
+        "concept": "magnifier",
+        "cast": []
+      },
+      "_said": "nation on Earth. He takes their exact justifications for conquest and just he turns it right back on them. Today, we are putting humanity under the microscope. We're unpacking HG"
+    },
+    {
+      "fp": "1fpewk",
+      "i": 2,
+      "from": 653,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "HG Wells's monumental genredefining classic,"
+    },
+    {
+      "fp": "bd60sl",
+      "i": 3,
+      "from": 777,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, 1895"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "classic, The War of the Worlds. And we're leaning heavily on the uh really brilliant historical context and analysis provided"
+    },
+    {
+      "fp": "1pwkmz",
+      "i": 4,
+      "from": 1010,
+      "subject": "gift",
+      "entities": [],
+      "concept": "gift",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "gift, 1895"
+      },
+      "antidote": {
+        "concept": "gift",
+        "cast": []
+      },
+      "_said": "provided by Alfred McAdam. Yeah. MacAdams introduction is essential Right. And I want to set the thesis for you right up front because we are not here to give you a basic plot reca"
+    },
+    {
+      "fp": "rfnhnp",
+      "i": 5,
+      "from": 1365,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "culture Yeah. The radio broadcasts, the movies, we know all that. We are here on this deep dive to prove that this novel is"
+    },
+    {
+      "fp": "y9530g",
+      "i": 6,
+      "from": 1572,
+      "subject": "Wells — mirror",
+      "entities": [
+        "wells"
+      ],
+      "concept": "mirror",
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Wells, 1895"
+      },
+      "antidote": {
+        "concept": "mirror",
+        "set": null,
+        "cast": [
+          "wells"
+        ]
+      },
+      "_said": "is not a monster story. It is a mirror. A very harsh mirror. Exactly. Wells takes the precise logic"
+    },
+    {
+      "fp": "cmm7qd",
+      "i": 7,
+      "from": 1776,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "logic that Victorian England used to justify its own empire. This deeply ingrained"
+    },
+    {
+      "fp": "1xdbsaz",
+      "i": 8,
+      "from": 1944,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "ingrained scientific belief that superior intelligence somehow has the inherent right to"
+    },
+    {
+      "fp": "e9sj84",
+      "i": 9,
+      "from": 2114,
+      "subject": "city",
+      "entities": [],
+      "concept": "city",
+      "place": "street",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "city, street, 1895"
+      },
+      "antidote": {
+        "concept": "city",
+        "set": "street",
+        "cast": []
+      },
+      "_said": "to erase inferior life. And he turns that logic directly brutally onto the streets of London. It is a profound reversal of fortune. He is forcing the"
+    },
+    {
+      "fp": "t9viz4",
+      "i": 10,
+      "from": 2397,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "the most industrialized, technologically advanced nation on the planet to experience exactly what it feels like to be"
+    },
+    {
+      "fp": "p4689f",
+      "i": 11,
+      "from": 2582,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "be on the losing end of which is mind-blowing for the time. It really is. This isn't"
+    },
+    {
+      "fp": "ahwq2v",
+      "i": 12,
+      "from": 2712,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "isn't just a science fiction romp, you know, it's a razor sharp social allegory. And that recurring phrase you just used, putting humanity under"
+    },
+    {
+      "fp": "129wi0q",
+      "i": 13,
+      "from": 2911,
+      "subject": "magnifier",
+      "entities": [],
+      "concept": "magnifier",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "magnifier, 1895"
+      },
+      "antidote": {
+        "concept": "magnifier",
+        "cast": []
+      },
+      "_said": "under the microscope, that is the absolute key to unlocking the entire Yeah."
+    },
+    {
+      "fp": "1wq0n69",
+      "i": 14,
+      "from": 3031,
+      "subject": "Martians",
+      "entities": [
+        "martians"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Martians, 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "martians"
+        ]
+      },
+      "_said": "Yeah. We are going to spend this discussion examining how we as a species are studied, dissected, and ultimately dismissed by the Martians in the exact same way that a human scient"
+    },
+    {
+      "fp": "14ru02o",
+      "i": 15,
+      "from": 3388,
+      "subject": "Martians — magnifier",
+      "entities": [
+        "martians"
+      ],
+      "concept": "magnifier",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Martians, 1895"
+      },
+      "antidote": {
+        "concept": "magnifier",
+        "cast": [
+          "martians"
+        ]
+      },
+      "_said": "is not a flattering comparison. Not at all. But before we even get to the Martians, I think we have to establish what that microscope looked"
+    },
+    {
+      "fp": "14nwxa3",
+      "i": 16,
+      "from": 3573,
+      "subject": "Wells — notes",
+      "entities": [
+        "wells"
+      ],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Wells, writing for, 1895"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": [
+          "wells"
+        ]
+      },
+      "_said": "looked like in 1895. We have to set the stage, right? Because to understand the sheer audacity of what Wells is doing, you have to understand the arrogance of the society he was wr"
+    },
+    {
+      "fp": "lt1jts",
+      "i": 17,
+      "from": 3905,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "for. the 1890s in England. It's a fascinating, deeply contradictory time. Oh, absolutely. It's the height of the industrial revolution, the height"
+    },
+    {
+      "fp": "110gu2p",
+      "i": 18,
+      "from": 4121,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "height of the British Empire, but it is definitely not the modern world. Far from it. As"
+    },
+    {
+      "fp": "lgror7",
+      "i": 19,
+      "from": 4265,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Mac Adam points out, the nation that essentially birthed the industrial revolution was still remarkably fragmented. How so? Like practically speaking. Well, think"
+    },
+    {
+      "fp": "scutla",
+      "i": 20,
+      "from": 4550,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "think about transportation. If you stepped out of a major railway station in London, you were basically stepping back in time. You had these massive, powerful steam trains connecti"
+    },
+    {
+      "fp": "1j39hyh",
+      "i": 21,
+      "from": 4819,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "connecting the country, moving goods and people at unprecedented speeds."
+    },
+    {
+      "fp": "16vy6rz",
+      "i": 22,
+      "from": 4915,
+      "subject": "road",
+      "entities": [],
+      "concept": "road",
+      "place": "highway",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "road, highway, 1895"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": "highway",
+        "cast": []
+      },
+      "_said": "speeds. Right. Total cutting edge tech for the Exactly. But the moment you left the station, local travel was still entirely dependent on horsedrawn carriages. The streets were com"
+    },
+    {
+      "fp": "8leeto",
+      "i": 23,
+      "from": 5268,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "with Yeah. And the air was physically dangerous to breathe. It was choked with thick acrid coal smoke from millions of domestic fires and unregulated That"
+    },
+    {
+      "fp": "76e1d1",
+      "i": 24,
+      "from": 5544,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "That famous London fog, right? That impenetrable London fog wasn't weather, it was pollution."
+    },
+    {
+      "fp": "13659wh",
+      "i": 25,
+      "from": 5700,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "pollution. And the inequality was just staggering. We're talking about a society where the wealthiest elite are discussing the latest theories of physics and global economics at"
+    },
+    {
+      "fp": "yn7xjn",
+      "i": 26,
+      "from": 5964,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "at their gentleman's clubs. Well, just a few streets over. Yeah, chamber pots are still in common use. And public health is"
+    },
+    {
+      "fp": "1889mdd",
+      "i": 27,
+      "from": 6172,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "is an absolute nightmare. The"
+    },
+    {
+      "fp": "10jvoqo",
+      "i": 28,
+      "from": 6240,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "The vast majority of the population lived in squalor, lice, fleas, rampant disease. These were just facts of daily life."
+    },
+    {
+      "fp": "1biogrl",
+      "i": 29,
+      "from": 6446,
+      "subject": "Wells — ladder",
+      "entities": [
+        "wells"
+      ],
+      "concept": "ladder",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Wells, 1895"
+      },
+      "antidote": {
+        "concept": "ladder",
+        "cast": [
+          "wells"
+        ]
+      },
+      "_said": "life. And Wells himself came from that lower rung, didn't he? He did. And that personal history is crucial to his perspective."
+    },
+    {
+      "fp": "1ybvrql",
+      "i": 30,
+      "from": 6650,
+      "subject": "Wells",
+      "entities": [
+        "wells"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Wells, 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "wells"
+        ]
+      },
+      "_said": "perspective. Wells grew up in poverty. He worked as a draper's apprentice, which meant he was essentially an indentured servant. Yeah. Working"
+    },
+    {
+      "fp": "1uty32m",
+      "i": 31,
+      "from": 6878,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, 1895"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "Working 70our weeks sleeping in a cramped dormatory, completely at the mercy of the rigid Victorian class So he knew the ugly side of the empire He lived it. But he eventually foug"
+    },
+    {
+      "fp": "4361ep",
+      "i": 32,
+      "from": 7265,
+      "subject": "school",
+      "entities": [],
+      "concept": "school",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "school, 1895"
+      },
+      "antidote": {
+        "concept": "school",
+        "set": null,
+        "cast": []
+      },
+      "_said": "to study science at the Normal School of Science in London. And uh do you know who his professor was?"
+    },
+    {
+      "fp": "93ycol",
+      "i": 33,
+      "from": 7406,
+      "subject": "trophy",
+      "entities": [],
+      "concept": "trophy",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "trophy, 1895"
+      },
+      "antidote": {
+        "concept": "trophy",
+        "cast": []
+      },
+      "_said": "was? Thomas Henry Huxley. Right. Yes. Th Huxley. Darwin's bulldog. Darwin's bulldog. I love that nickname. It was fitting. Huxley was the fiercest champion"
+    },
+    {
+      "fp": "ruhxsd",
+      "i": 34,
+      "from": 7684,
+      "subject": "trophy",
+      "entities": [],
+      "concept": "trophy",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "trophy, 1895"
+      },
+      "antidote": {
+        "concept": "trophy",
+        "cast": []
+      },
+      "_said": "champion of Charles Darwin's theory of evolution. And"
+    },
+    {
+      "fp": "dwl6wd",
+      "i": 35,
+      "from": 7768,
+      "subject": "Wells — storm",
+      "entities": [
+        "wells"
+      ],
+      "concept": "storm",
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Wells, 1895"
+      },
+      "antidote": {
+        "concept": "storm",
+        "set": null,
+        "cast": [
+          "wells"
+        ]
+      },
+      "_said": "And under Huxley, Wells didn't just learn biology. He learned to view the world through the cold, unscentimental, totally objective lens of natural selection. So he looks around at"
+    },
+    {
+      "fp": "5c93l",
+      "i": 36,
+      "from": 8217,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "filthy, disorganized Victorian society and he felt a kind of furious contempt for"
+    },
+    {
+      "fp": "1enuk97",
+      "i": 37,
+      "from": 8371,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "for its inefficiency. He believed that society needed to be managed, rationalized, brought under the control of the scientific method. But he also understood the darker"
+    },
+    {
+      "fp": "1ee4lzn",
+      "i": 38,
+      "from": 8676,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "darker implications of evolutionary theory when applied to human societies."
+    },
+    {
+      "fp": "1jdc82z",
+      "i": 39,
+      "from": 8793,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "societies. Right. What we now call social Darwinism. Precisely. I want to dig into that"
+    },
+    {
+      "fp": "ur21xz",
+      "i": 40,
+      "from": 8920,
+      "subject": "road",
+      "entities": [],
+      "concept": "road",
+      "place": "highway",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "road, highway, 1895"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": "highway",
+        "cast": []
+      },
+      "_said": "that because the mechanics of social Darwinism are they're really the engine driving this entire book. How"
+    },
+    {
+      "fp": "r854gn",
+      "i": 41,
+      "from": 9084,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "How did the Victorian elite actually use that philosophy to justify what they were doing around the globe? Well, social Darwinism took Darwin's biological concept of survival of th"
+    },
+    {
+      "fp": "t0nbt",
+      "i": 42,
+      "from": 9391,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "and it misapplied it to human sociology and like a justification for power. Exactly."
+    },
+    {
+      "fp": "ugd4mt",
+      "i": 43,
+      "from": 9556,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Exactly. The Victorian elite looked at their steam engines, their maximum machine guns, and"
+    },
+    {
+      "fp": "12w87z7",
+      "i": 44,
+      "from": 9679,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "and their massive global empire, and they said, you know, we aren't just technologically superior. We are biologically superior."
+    },
+    {
+      "fp": "y8vohw",
+      "i": 45,
+      "from": 9907,
+      "subject": "summit",
+      "entities": [],
+      "concept": "summit",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "summit, 1895"
+      },
+      "antidote": {
+        "concept": "summit",
+        "cast": []
+      },
+      "_said": "superior. Like evolution itself chose them to right? They thought evolution had placed them at the pinnacle of human development."
+    },
+    {
+      "fp": "xssyf4",
+      "i": 46,
+      "from": 10082,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "development. Therefore, when they went into places like Africa or India or Australia"
+    },
+    {
+      "fp": "dvrsai",
+      "i": 47,
+      "from": 10229,
+      "subject": "trophy",
+      "entities": [],
+      "concept": "trophy",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "trophy, 1895"
+      },
+      "antidote": {
+        "concept": "trophy",
+        "cast": []
+      },
+      "_said": "and subjugated the local populations, they didn't view it as a moral crime. They viewed it as the natural order. Yes, the strong conquer the weak."
+    },
+    {
+      "fp": "mphsy7",
+      "i": 48,
+      "from": 10500,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "weak. It's just science. Which brings us right to the specific historical atrocity"
+    },
+    {
+      "fp": "egc5cv",
+      "i": 49,
+      "from": 10636,
+      "subject": "Wells",
+      "entities": [
+        "wells"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Wells, 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "wells"
+        ]
+      },
+      "_said": "atrocity that Wells uses to frame his story. Let's look at the very first page of the novel. Because as we've established, the first page is the It's one of the most famous opening"
+    },
+    {
+      "fp": "lver39",
+      "i": 50,
+      "from": 10949,
+      "subject": "Wells — notes",
+      "entities": [
+        "wells"
+      ],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Wells, writes that no one would have believed, 1895"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": [
+          "wells"
+        ]
+      },
+      "_said": "is. Wells writes that no one would have believed in the last years of the 19th century that this world was being watched keenly and closely"
+    },
+    {
+      "fp": "bh5ml5",
+      "i": 51,
+      "from": 11191,
+      "subject": "magnifier",
+      "entities": [],
+      "concept": "magnifier",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "magnifier, 1895"
+      },
+      "antidote": {
+        "concept": "magnifier",
+        "cast": []
+      },
+      "_said": "closely by intelligences greater than man's and yet as mortal as his own. And he immediately drops the microscope metaphor right there. Yep. He says that as men"
+    },
+    {
+      "fp": "uzabpt",
+      "i": 52,
+      "from": 11429,
+      "subject": "magnifier",
+      "entities": [],
+      "concept": "magnifier",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "magnifier, 1895"
+      },
+      "antidote": {
+        "concept": "magnifier",
+        "cast": []
+      },
+      "_said": "busied themselves about their various affairs, they were scrutinized and studied almost as narrowly as a man with a microscope might scrutinize the transient creatures that swarm a"
+    },
+    {
+      "fp": "1xf5ru8",
+      "i": 53,
+      "from": 11849,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "scene at the Ottershaw Observatory at night. It is completely dark, completely isolated."
+    },
+    {
+      "fp": "nib24b",
+      "i": 54,
+      "from": 12016,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "isolated. There's no sound except the steady mechanical ticking of the telescope's clockwork tracking the rotation of the"
+    },
+    {
+      "fp": "17fa6ce",
+      "i": 55,
+      "from": 12209,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "the It's a very eerie image. Totally. The human astronomer is looking through this massive lens at Mars and Mars just looks like this tiny silvery warm pin head of light swimming i"
+    },
+    {
+      "fp": "1sg876t",
+      "i": 56,
+      "from": 12573,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "profound, unfathomable blackness of unaware of what's coming."
+    },
+    {
+      "fp": "rpoy4x",
+      "i": 57,
+      "from": 12684,
+      "subject": "ledge",
+      "entities": [],
+      "concept": "ledge",
+      "place": "street",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "ledge, street, 1895"
+      },
+      "antidote": {
+        "concept": "ledge",
+        "set": "street",
+        "cast": []
+      },
+      "_said": "coming. Right. Because right as the clock strikes midnight, there is a reddish flash on the edge of the planet. A tiny puff of gas. A puff of gas that is in reality a colossal miss"
+    },
+    {
+      "fp": "cnfrx6",
+      "i": 58,
+      "from": 13039,
+      "subject": "road",
+      "entities": [],
+      "concept": "road",
+      "place": "highway",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "road, highway, 1895"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": "highway",
+        "cast": []
+      },
+      "_said": "cannon screaming across 40 million miles of empty void aimed directly at the astronomer's And the"
+    },
+    {
+      "fp": "qsu5l6",
+      "i": 59,
+      "from": 13202,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "the human scientists looking at it, they think it's a meteor shower or maybe a volcano. Yeah. The astronomer Ogulvie literally says the chances of anything manlike"
+    },
+    {
+      "fp": "mk8k9e",
+      "i": 60,
+      "from": 13464,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "manlike on Mars are a million to one. The arrogance is absolute. They are completely oblivious to the fact that they are the pond water."
+    },
+    {
+      "fp": "8nf22c",
+      "i": 61,
+      "from": 13685,
+      "subject": "Wells",
+      "entities": [
+        "wells"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Wells, leave it as a critique of scientific arroganc, 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "wells"
+        ]
+      },
+      "_said": "water. But Wells doesn't just leave it as a critique of scientific arrogance. He makes it explicitly political. This is the part that blows my mind. On that very first page, he bri"
+    },
+    {
+      "fp": "g8fvkp",
+      "i": 62,
+      "from": 14004,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "up the British extermination of the Tasmanians, which is an actual historical event, right? The British arrives"
+    },
+    {
+      "fp": "xn5g0b",
+      "i": 63,
+      "from": 14172,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "arrives in tasmania, 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "arrives in Tasmania, an island off Australia, and over the course of about 50 years through disease, displacement, and organized massacres, they completely wiped"
+    },
+    {
+      "fp": "v6ig16",
+      "i": 64,
+      "from": 14450,
+      "subject": "Wells — notes",
+      "entities": [
+        "wells"
+      ],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Wells, 1895"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": [
+          "wells"
+        ]
+      },
+      "_said": "wiped the indigenous population out of existence. an entire people erased. And Wells writes, quote, \"Are we such apostles of mercy as to complain"
+    },
+    {
+      "fp": "xtc6qa",
+      "i": 65,
+      "from": 14697,
+      "subject": "Martians",
+      "entities": [
+        "martians"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Martians, 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "martians"
+        ]
+      },
+      "_said": "complain if the Martians warded in the same spirit? It is an incredibly radical, almost treasonous thing to publish at the height of the British Empire.\" Seriously, he is taking th"
+    },
+    {
+      "fp": "k3uxjl",
+      "i": 66,
+      "from": 14988,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "biological justification the British use, that the superior intellect has the natural right to dominate the inferior, and showing them the terrifying flip side of that coin. He"
+    },
+    {
+      "fp": "1artcx0",
+      "i": 67,
+      "from": 15252,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "He is grabbing his readers by the collar and saying, \"You know what we just did to Tasmania?"
+    },
+    {
+      "fp": "tk0sic",
+      "i": 68,
+      "from": 15403,
+      "subject": "magnifier",
+      "entities": [],
+      "concept": "magnifier",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "magnifier, 1895"
+      },
+      "antidote": {
+        "concept": "magnifier",
+        "cast": []
+      },
+      "_said": "Tasmania? Congratulations. Under the cosmic microscope, we are Tasmania.\" He strips away all the moral high ground He really does."
+    },
+    {
+      "fp": "oqepau",
+      "i": 69,
+      "from": 15614,
+      "subject": "Martians — funnelTrap",
+      "entities": [
+        "martians"
+      ],
+      "concept": "funnelTrap",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Martians, 1895"
+      },
+      "antidote": {
+        "concept": "funnelTrap",
+        "cast": [
+          "martians"
+        ]
+      },
+      "_said": "does. The Martians aren't demons. They aren't evil in some cosmic supernatural sense. They are just acting with the exact same ruthless"
+    },
+    {
+      "fp": "iuj4hc",
+      "i": 70,
+      "from": 15837,
+      "subject": "funnelTrap",
+      "entities": [],
+      "concept": "funnelTrap",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "funnel trap, 1895"
+      },
+      "antidote": {
+        "concept": "funnelTrap",
+        "cast": []
+      },
+      "_said": "ruthless mathematical pragmatism"
+    },
+    {
+      "fp": "134eoa8",
+      "i": 71,
+      "from": 15902,
+      "subject": "grave",
+      "entities": [],
+      "concept": "grave",
+      "place": "forest",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "grave, forest, 1895"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": "forest",
+        "cast": []
+      },
+      "_said": "pragmatism that European powers use to build their Their planet is cooling and dying. Our planet is warm and fertile, so they are taking it."
+    },
+    {
+      "fp": "hb6g8x",
+      "i": 72,
+      "from": 16125,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "it. It's not malice, it's biology. Precisely. And understanding that changes how you view everything that happens next."
+    },
+    {
+      "fp": "tz3tun",
+      "i": 73,
+      "from": 16336,
+      "subject": "Wells",
+      "entities": [
+        "wells"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Wells, 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "wells"
+        ]
+      },
+      "_said": "next. Okay. Wait, but then if Wells makes it this obvious to the reader right from page one that this"
+    },
+    {
+      "fp": "3umq38",
+      "i": 74,
+      "from": 16495,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "this is an extermination, I have to ask about the human reaction in the text."
+    },
+    {
+      "fp": "rzmosw",
+      "i": 75,
+      "from": 16613,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "text. Because when that first cylinder actually lands in the English countryside, humanity doesn't treat it like an existential threat. Not at all. They treat it like a circus. The"
+    },
+    {
+      "fp": "1a8pe1s",
+      "i": 76,
+      "from": 16965,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "and Victorian complacency was absolute. The"
+    },
+    {
+      "fp": "ns30tc",
+      "i": 77,
+      "from": 17059,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "The first cylinder crashes on Horsel common in woking which is exactly"
+    },
+    {
+      "fp": "uuia48",
+      "i": 78,
+      "from": 17181,
+      "subject": "Wells",
+      "entities": [
+        "wells"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Wells, 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "wells"
+        ]
+      },
+      "_said": "exactly where Wells himself live. He's literally bringing the apocalypse to his own neighbors."
+    },
+    {
+      "fp": "5ysozi",
+      "i": 79,
+      "from": 17328,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "neighbors. Right. And the sensory experience of that landing site is so bizarrely mundane. It's the next day."
+    },
+    {
+      "fp": "1083ofl",
+      "i": 80,
+      "from": 17563,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "day. The cylinder is embedded in a huge crater in the sand pits. The turf around it is charred. The pine trees are splintered and it's incredibly hot. Like the metal is just baking"
+    },
+    {
+      "fp": "bq5yiw",
+      "i": 81,
+      "from": 17935,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "glaring English summer sun, right? There's not a breath of wind, nothing. And what is the"
+    },
+    {
+      "fp": "1sfvwoc",
+      "i": 82,
+      "from": 18072,
+      "subject": "ledge",
+      "entities": [],
+      "concept": "ledge",
+      "place": "street",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "ledge, running away, street, 1895"
+      },
+      "antidote": {
+        "concept": "ledge",
+        "set": "street",
+        "cast": []
+      },
+      "_said": "the local population doing? I mean, the they aren't running away. No, of course not. You have this curious crowd just jostling around the edge of the pit. You have young boys"
+    },
+    {
+      "fp": "1i4rexd",
+      "i": 83,
+      "from": 18333,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "boys throwing stones at the metal casing, which is crazy. You literally have an enterprising local man pushing a borrow around selling green apples and ginger beer to the onlookers"
+    },
+    {
+      "fp": "18nbltp",
+      "i": 84,
+      "from": 18633,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "onlookers as if it's a carnival attraction. It's a fun day out at the crater. Exactly. Even when the top of the cylinder starts slowly"
+    },
+    {
+      "fp": "huzlg",
+      "i": 85,
+      "from": 18813,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "slowly unscrewing from the inside, the universal assumption is that there are men inside. The word men does a lot of heavy lifting there. They assume whatever built this thing must"
+    },
+    {
+      "fp": "tfz7dp",
+      "i": 86,
+      "from": 19101,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "falls off, 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "share their fundamental But then the lid falls off. Yeah. And out comes, well, definitely not a man. Not even close. The narrator describes this big grayish rounded bulk about the "
+    },
+    {
+      "fp": "100cdtu",
+      "i": 87,
+      "from": 19437,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "bear, glistening like wet The descriptions are so visceral. It has these massive"
+    },
+    {
+      "fp": "1bjttip",
+      "i": 88,
+      "from": 19572,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "massive dark-colored eyes, a V-shaped lipless mouth that's quivering and dropping saliva, and these gorgon groups of tentacles."
+    },
+    {
+      "fp": "13xxd78",
+      "i": 89,
+      "from": 19778,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "runs back into the trees, 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "tentacles. It's heaving and pulsating because Earth's gravity is three times what it's used to. It's monstrous, truly. The crowd panics and runs back into the trees. But even after"
+    },
+    {
+      "fp": "a97p7o",
+      "i": 90,
+      "from": 20076,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "seeing this horrifying alien physiology, they still try to project human social structures onto it. This is one of the most critical moments in the book. A group of educated men, i"
+    },
+    {
+      "fp": "1qeo70g",
+      "i": 91,
+      "from": 20359,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "including the astronomer Royal and a journalist, decide to form a deputation. A deputation."
+    },
+    {
+      "fp": "1qiong1",
+      "i": 92,
+      "from": 20510,
+      "subject": "Martians",
+      "entities": [
+        "martians"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Martians, walk out from, 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "martians"
+        ]
+      },
+      "_said": "deputation. Because that's what civilized gentlemen do. Exactly. They assume that because the Martians are intelligent enough to build a spaceship, they must be civilized. So they "
+    },
+    {
+      "fp": "rahdqi",
+      "i": 93,
+      "from": 20793,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "carrying a white flag, 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "the trees toward the pit. And they are carrying a white flag. a white flag which is such a deeply human deeply"
+    },
+    {
+      "fp": "t47dqx",
+      "i": 94,
+      "from": 21031,
+      "subject": "game",
+      "entities": [],
+      "concept": "game",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "game, 1895"
+      },
+      "antidote": {
+        "concept": "game",
+        "set": null,
+        "cast": []
+      },
+      "_said": "deeply political symbol. I mean the white flag assumes so much. It assumes that both sides are playing by the same game theory that there's a shared set of rules of engagement. It "
+    },
+    {
+      "fp": "mb2oa6",
+      "i": 95,
+      "from": 21345,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "recognize you as intelligent. You recognize us as intelligent. Let's Right? The white flag assumes a periage. It assumes"
+    },
+    {
+      "fp": "1x03tzd",
+      "i": 96,
+      "from": 21552,
+      "subject": "Martians — war",
+      "entities": [
+        "martians"
+      ],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Martians, 1895"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": [
+          "martians"
+        ]
+      },
+      "_said": "assumes the Martians will look at humans and recognize them as equals or at the very least as a respected enemy. But remember the core thesis. We are under"
+    },
+    {
+      "fp": "y9qy3b",
+      "i": 97,
+      "from": 21780,
+      "subject": "magnifier",
+      "entities": [],
+      "concept": "magnifier",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "magnifier, 1895"
+      },
+      "antidote": {
+        "concept": "magnifier",
+        "cast": []
+      },
+      "_said": "under the microscope. You do not negotiate with Infusoria. You don't sign a treaty with the bacteria on your So, the deputation is"
+    },
+    {
+      "fp": "1ik7fhn",
+      "i": 98,
+      "from": 22010,
+      "subject": "Martians",
+      "entities": [
+        "martians"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Martians, walking forward over the sand, 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "martians"
+        ]
+      },
+      "_said": "is walking forward over the sand, waving this little piece of white cloth, and the Martians But not with words. No, there's a flash of light."
+    },
+    {
+      "fp": "1h0fny2",
+      "i": 99,
+      "from": 22221,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "light. A quantity of luminous greenish smoke puffs up into the air. There's this deep, long, loud, droning hum. And suddenly, a ghost of a beam of light flickers out from the pit. "
+    },
+    {
+      "fp": "w4dzpv",
+      "i": 100,
+      "from": 22625,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "But the deputation, this little group of distinguished men trying to say hello, instantly turns into white"
+    },
+    {
+      "fp": "19xg9ai",
+      "i": 101,
+      "from": 22785,
+      "subject": "ledge",
+      "entities": [],
+      "concept": "ledge",
+      "place": "street",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "ledge, street, 1895"
+      },
+      "antidote": {
+        "concept": "ledge",
+        "set": "street",
+        "cast": []
+      },
+      "_said": "white vaporized in a heartbeat, staggering, falling, turning to fire,"
+    },
+    {
+      "fp": "osinjh",
+      "i": 102,
+      "from": 22920,
+      "subject": "fire",
+      "entities": [],
+      "concept": "fire",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "fire, 1895"
+      },
+      "antidote": {
+        "concept": "fire",
+        "cast": []
+      },
+      "_said": "fire, the invisible beam sweeps around the common in an arc, turning pine trees into exploding torches, turning dry bushes to fire, melting the sand into glass. And what's crucial"
+    },
+    {
+      "fp": "1o15z8y",
+      "i": 103,
+      "from": 23222,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "crucial to understand about this moment is the Martian motivation, right? Why do they shoot first?"
+    },
+    {
+      "fp": "sq6k2",
+      "i": 104,
+      "from": 23378,
+      "subject": "Martians — notes",
+      "entities": [
+        "martians"
+      ],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Martians, 1895"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": [
+          "martians"
+        ]
+      },
+      "_said": "first? While they don't vaporize the deputation out of malice or anger or because they feel threatened, the text specifically notes that the Martians take as much notice of"
+    },
+    {
+      "fp": "i1tnsa",
+      "i": 105,
+      "from": 23664,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "of human advances as we would of the loing of a cow. They vaporize the deputation simply because they are clearing the area."
+    },
+    {
+      "fp": "17fhjl9",
+      "i": 106,
+      "from": 23880,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, 1895"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "area. Humans aren't the enemy. We are clutter. We are simply in the way of their unpacking"
+    },
+    {
+      "fp": "k4dlnp",
+      "i": 107,
+      "from": 24019,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "unpacking process. I try to put myself in the shoes of those men waving the flag."
+    },
+    {
+      "fp": "a5h9v7",
+      "i": 108,
+      "from": 24170,
+      "subject": "Martians",
+      "entities": [
+        "martians"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Martians, 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "martians"
+        ]
+      },
+      "_said": "flag. If the Martians are so vastly mathematically intelligent, how could they not see that a flag is a semiodic symbol? How could they not even try to decode"
+    },
+    {
+      "fp": "d4eo7l",
+      "i": 109,
+      "from": 24386,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "decode it? Well, let me ask you this. When a construction crew is preparing to pave over a field to build a parking lot and they encounter a termite mound, do they attempt to decod"
+    },
+    {
+      "fp": "o7cutu",
+      "i": 110,
+      "from": 24785,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "try to communicate their intentions to the queen? No, they just start"
+    },
+    {
+      "fp": "1xk01wi",
+      "i": 111,
+      "from": 24885,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "start the bulldozer and pour the concrete. The termites aren't even a consideration in the logistics of the parking lot. Precisely. To"
+    },
+    {
+      "fp": "1t5t1qg",
+      "i": 112,
+      "from": 25085,
+      "subject": "Martians",
+      "entities": [
+        "martians"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Martians, 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "martians"
+        ]
+      },
+      "_said": "To the Martians, our white flag is as meaningless as an ant waving a tiny leaf at a bulldozer. It is a complete and utter eraser of"
+    },
+    {
+      "fp": "19o428y",
+      "i": 113,
+      "from": 25336,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "holding the magnifying glass does not care abou, 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "of human importance. The scientist holding the magnifying glass does not care about the political structures of the amiebas. And this total disregard sets the stage for how the act"
+    },
+    {
+      "fp": "i80ca5",
+      "i": 114,
+      "from": 25665,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Wait, but then the British military doesn't know their ants yet."
+    },
+    {
+      "fp": "17frxf4",
+      "i": 115,
+      "from": 25754,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "yet. Once the news of the massacre on the common gets out,"
+    },
+    {
+      "fp": "1huei2v",
+      "i": 116,
+      "from": 25857,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, 1895"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "out, humanity responds the only way it knows how. By bringing in the army, the pride of the empire. Exactly. They bring in the absolute pride of"
+    },
+    {
+      "fp": "1727h9f",
+      "i": 117,
+      "from": 26116,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, 1895"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "of the 19th century British military machine. Huzzar's cavalry troops field guns. They form a massive cordon around Woking, assuming they could just shell the pit, kill"
+    },
+    {
+      "fp": "wrfs5m",
+      "i": 118,
+      "from": 26390,
+      "subject": "Wells — home",
+      "entities": [
+        "wells"
+      ],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Wells, 1895"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": [
+          "wells"
+        ]
+      },
+      "_said": "kill the monsters, and be home in time for tea. But Wells is about to invent a completely new paradigm of violence. Oh man, he really is. He is inventing"
+    },
+    {
+      "fp": "16go0g2",
+      "i": 119,
+      "from": 26652,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, 1895"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "mechanized industrial total war. A full generation before the horrors of World War I would actually show the world what that looks like."
+    },
+    {
+      "fp": "6tnlvl",
+      "i": 120,
+      "from": 26945,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "run into a buzzsaw of technology that compl, 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "like. The British military is about to run into a buzzsaw of technology that completely invalidates their entire concept of warfare."
+    },
+    {
+      "fp": "l0dla7",
+      "i": 121,
+      "from": 27156,
+      "subject": "Wells — fire",
+      "entities": [
+        "wells"
+      ],
+      "concept": "fire",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Wells, 1895"
+      },
+      "antidote": {
+        "concept": "fire",
+        "cast": [
+          "wells"
+        ]
+      },
+      "_said": "warfare. Let's break down the mechanics of this Martian technology because Wells goes into fascinating detail. The heat ray isn't just magic fire. He explains how it works. He does"
+    },
+    {
+      "fp": "1fa9b9h",
+      "i": 122,
+      "from": 27448,
+      "subject": "mirror",
+      "entities": [],
+      "concept": "mirror",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "mirror, 1895"
+      },
+      "antidote": {
+        "concept": "mirror",
+        "set": null,
+        "cast": []
+      },
+      "_said": "ray is generated in a chamber of absolute non-conductivity and it is projected by a parabolic mirror. So it's not a bullet. No, it's essentially intense"
+    },
+    {
+      "fp": "l07n36",
+      "i": 123,
+      "from": 27725,
+      "subject": "fire",
+      "entities": [],
+      "concept": "fire",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "fire, 1895"
+      },
+      "antidote": {
+        "concept": "fire",
+        "cast": []
+      },
+      "_said": "intense concentrated invisible light. Think of a child using a magnifying glass on a sunny day to burn a hole in a leaf or to burn an ant. Exactly."
+    },
+    {
+      "fp": "1qdsj8i",
+      "i": 124,
+      "from": 27988,
+      "subject": "fire",
+      "entities": [],
+      "concept": "fire",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "fire, 1895"
+      },
+      "antidote": {
+        "concept": "fire",
+        "cast": []
+      },
+      "_said": "Exactly. The parabolic mirror focuses the energy so intensely that whatever combustible material it touches instantly flashes into flame."
+    },
+    {
+      "fp": "v6vme7",
+      "i": 125,
+      "from": 28193,
+      "subject": "fire",
+      "entities": [],
+      "concept": "fire",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "fire, runs like water, 1895"
+      },
+      "antidote": {
+        "concept": "fire",
+        "cast": []
+      },
+      "_said": "flame. Lead runs like water. Iron softens and warps. glass cracks and water instantly explodes into steam, right? It"
+    },
+    {
+      "fp": "1amu0cl",
+      "i": 126,
+      "from": 28406,
+      "subject": "tree",
+      "entities": [],
+      "concept": "tree",
+      "place": "forest",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "tree, forest, 1895"
+      },
+      "antidote": {
+        "concept": "tree",
+        "set": "forest",
+        "cast": []
+      },
+      "_said": "It makes traditional cover completely useless. You can't hide behind a brick wall or a tree because the wall will melt and the tree will The heat ray is terrifying. But it's the bl"
+    },
+    {
+      "fp": "9gwhyd",
+      "i": 127,
+      "from": 28776,
+      "subject": "tree",
+      "entities": [],
+      "concept": "tree",
+      "place": "forest",
+      "confidence": 0.6,
+      "vox": {
+        "shot": "tree, waiting to ambush, forest, 1895"
+      },
+      "antidote": {
+        "concept": "tree",
+        "set": "forest",
+        "cast": []
+      },
+      "_said": "prophecy of the 20th century. Put yourself in the boots of an artillery man hiding in the woods waiting to ambush"
+    },
+    {
+      "fp": "1ua0v3k",
+      "i": 128,
+      "from": 28953,
+      "subject": "Martians — fire",
+      "entities": [
+        "martians"
+      ],
+      "concept": "fire",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Martians, 1895"
+      },
+      "antidote": {
+        "concept": "fire",
+        "cast": [
+          "martians"
+        ]
+      },
+      "_said": "ambush the Martians. Martians don't even bother engaging you directly. They don't aim at you. You don't need to. No, they just take these heavy black canisters and fire them"
+    },
+    {
+      "fp": "ch5jo2",
+      "i": 129,
+      "from": 29208,
+      "subject": "crash",
+      "entities": [],
+      "concept": "crash",
+      "place": "highway",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "crash, highway, 1895"
+      },
+      "antidote": {
+        "concept": "crash",
+        "set": "highway",
+        "cast": []
+      },
+      "_said": "them out of gun-like tubes. The canisters arc through the air and smash on the ground. They don't explode with shrapnel. They just shatter and it outpours this massive cloud."
+    },
+    {
+      "fp": "h5yaqp",
+      "i": 130,
+      "from": 29476,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "cloud. Yeah. An enormous volume of heavy inky It coils and pours upward into a huge ebony cumulus cloud. A gaseous hill that sinks and spreads slowly over"
+    },
+    {
+      "fp": "hx6ss4",
+      "i": 131,
+      "from": 29805,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "over the landscape. Because the gas is heavier than air, it behaves almost like a sinking into all the low spaces, right? It sinks"
+    },
+    {
+      "fp": "1agx2hh",
+      "i": 132,
+      "from": 30021,
+      "subject": "city",
+      "entities": [],
+      "concept": "city",
+      "place": "street",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "city, street, 1895"
+      },
+      "antidote": {
+        "concept": "city",
+        "set": "street",
+        "cast": []
+      },
+      "_said": "sinks into the valleys, into the trenches, into the streets, into the cellers where people are hiding. And the touch of that vapor"
+    },
+    {
+      "fp": "gr4o0o",
+      "i": 133,
+      "from": 30206,
+      "subject": "grave",
+      "entities": [],
+      "concept": "grave",
+      "place": "forest",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "grave, forest, 1895"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": "forest",
+        "cast": []
+      },
+      "_said": "vapor just inhaling the absolute thinnest wisp of it is instant death to all that breathes. It is silent, invisible,"
+    },
+    {
+      "fp": "1m0x1jj",
+      "i": 134,
+      "from": 30434,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "reading the descriptions of the black smoke set, 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "invisible, industrial killing. When I was reading the descriptions of the black smoke settling into the trenches, I was struck by how chillingly"
+    },
+    {
+      "fp": "11kd1qu",
+      "i": 135,
+      "from": 30660,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, 1895"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "chillingly prophetic it is. Very much Wills is practically inventing the concept of poison gas and trench warfare decades before the second battle of Ebra proves him right"
+    },
+    {
+      "fp": "1d2vmje",
+      "i": 136,
+      "from": 30943,
+      "subject": "crash",
+      "entities": [],
+      "concept": "crash",
+      "place": "highway",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "crash, highway, 1895"
+      },
+      "antidote": {
+        "concept": "crash",
+        "set": "highway",
+        "cast": []
+      },
+      "_said": "right in World War I. He turns the beautiful, idllic, green English countryside into a toxic industrial accident. And notice the complete lack of martial glory"
+    },
+    {
+      "fp": "1itqtqq",
+      "i": 137,
+      "from": 31243,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, 1895"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "glory here. Yeah, there's no honor in this fighting. None. In Victorian literature and in the Victorian mindset generally, there was an intense"
+    },
+    {
+      "fp": "1cg362f",
+      "i": 138,
+      "from": 31452,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, standing the heroes, 1895"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "intense romanticization of combat. The brave cavalry charge, the clash of steel, the thin red lines, standing the heroes, right?"
+    },
+    {
+      "fp": "w6g44r",
+      "i": 139,
+      "from": 31697,
+      "subject": "Wells — heart",
+      "entities": [
+        "wells"
+      ],
+      "concept": "heart",
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Wells, 1895"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": null,
+        "cast": [
+          "wells"
+        ]
+      },
+      "_said": "right? Wells annihilates that romance. The Hous are instantly wiped out by a sweep of the heat ray. The artillery units are smothered in black smoke before they can even pull"
+    },
+    {
+      "fp": "1oypwvw",
+      "i": 140,
+      "from": 31948,
+      "subject": "Wells — war",
+      "entities": [
+        "wells"
+      ],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Wells, 1895"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": [
+          "wells"
+        ]
+      },
+      "_said": "pull the lanyards on their guns. Just totally erased before they even get a shot off. Wells saw the future of war not as a test of human bravery, but as a cold,"
+    },
+    {
+      "fp": "1l1pc1t",
+      "i": 141,
+      "from": 32201,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "cold, indifferent math equation of technology. The side with the better machines wins and human valor is entirely removed from the equation. And the machines themselves are psychol"
+    },
+    {
+      "fp": "gcppb9",
+      "i": 142,
+      "from": 32534,
+      "subject": "Martians — war",
+      "entities": [
+        "martians"
+      ],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Martians, 1895"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": [
+          "martians"
+        ]
+      },
+      "_said": "devastating. The Martians don't just stay in their pit. They build these 100 foot tall glittering aluminum tripods. The fighting machines."
+    },
+    {
+      "fp": "2yh3mz",
+      "i": 143,
+      "from": 32774,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "machines. Yeah. They're described as vast spiderlike machines capable of moving with the speed of an express train. The sensory impact of these things"
+    },
+    {
+      "fp": "2fl0eo",
+      "i": 144,
+      "from": 33038,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "things is overwhelming. The narrator describes the sound they make. is booming."
+    },
+    {
+      "fp": "1nfm0u8",
+      "i": 145,
+      "from": 33173,
+      "subject": "crash",
+      "entities": [],
+      "concept": "crash",
+      "place": "highway",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "crash, highway, 1895"
+      },
+      "antidote": {
+        "concept": "crash",
+        "set": "highway",
+        "cast": []
+      },
+      "_said": "booming. Aloo aloo howl that mingles with the crash of trees being snapped in half and the hissing of steam when they wade through"
+    },
+    {
+      "fp": "1797jr6",
+      "i": 146,
+      "from": 33391,
+      "subject": "crash",
+      "entities": [],
+      "concept": "crash",
+      "place": "highway",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "crash, highway, 1895"
+      },
+      "antidote": {
+        "concept": "crash",
+        "set": "highway",
+        "cast": []
+      },
+      "_said": "through rivers. It's At one point, the narrator sees a steam locomotive, the absolute ultimate symbol of 19th century progress and power completely wrecked. Just a black heap of ru"
+    },
+    {
+      "fp": "16pyzqo",
+      "i": 147,
+      "from": 33710,
+      "subject": "Martians — fire",
+      "entities": [
+        "martians"
+      ],
+      "concept": "fire",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Martians, 1895"
+      },
+      "antidote": {
+        "concept": "fire",
+        "cast": [
+          "martians"
+        ]
+      },
+      "_said": "fire. The Martians just casually toss it aside. Which forces a complete psychological break in the human population. The traditional military buckles almost immediately."
+    },
+    {
+      "fp": "12nnlzf",
+      "i": 148,
+      "from": 33962,
+      "subject": "city",
+      "entities": [],
+      "concept": "city",
+      "place": "street",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "city, street, 1895"
+      },
+      "antidote": {
+        "concept": "city",
+        "set": "street",
+        "cast": []
+      },
+      "_said": "immediately. The commander-in-chief in London issues a dispatch that basically abandons the city. He just gives up pretty much. He says it"
+    },
+    {
+      "fp": "5y9t02",
+      "i": 149,
+      "from": 34161,
+      "subject": "shield",
+      "entities": [],
+      "concept": "shield",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "shield, 1895"
+      },
+      "antidote": {
+        "concept": "shield",
+        "cast": []
+      },
+      "_said": "it is impossible to stop them. There is no safety but an instant flight. And this triggers one of the most remarkable sequences in the book, The"
+    },
+    {
+      "fp": "wca6xg",
+      "i": 150,
+      "from": 34408,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "The Mass Exodus of London. The logistics of this are almost unimaginable. You have the largest, most densely"
+    },
+    {
+      "fp": "1b1813r",
+      "i": 151,
+      "from": 34572,
+      "subject": "city",
+      "entities": [],
+      "concept": "city",
+      "place": "street",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "city, leave all at once, street, 1895"
+      },
+      "antidote": {
+        "concept": "city",
+        "set": "street",
+        "cast": []
+      },
+      "_said": "densely populated city on Earth. 6 million people suddenly trying to leave all at once. A total"
+    },
+    {
+      "fp": "kiagm9",
+      "i": 152,
+      "from": 34752,
+      "subject": "road",
+      "entities": [],
+      "concept": "road",
+      "place": "highway",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "road, highway, 1895"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": "highway",
+        "cast": []
+      },
+      "_said": "total stampede. And remember, as we discussed at the top, they don't have cars. They don't have a highway system."
+    },
+    {
+      "fp": "1kvzisj",
+      "i": 153,
+      "from": 34941,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "system. They have horses, carts, and a railway system that is rapidly collapsing. It descends into absolute barbarism in a matter of hours. The veneer"
+    },
+    {
+      "fp": "1bp6xue",
+      "i": 154,
+      "from": 35196,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": "street",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "war, street, 1895"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": "street",
+        "cast": []
+      },
+      "_said": "veneer of Victorian civilization completely dissolves. You have wellto-do gentlemen fighting in the streets over a single horse, just punching each other in the street. Yes. You"
+    },
+    {
+      "fp": "tk8fkx",
+      "i": 155,
+      "from": 35445,
+      "subject": "grave",
+      "entities": [],
+      "concept": "grave",
+      "place": "forest",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "grave, forest, 1895"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": "forest",
+        "cast": []
+      },
+      "_said": "You have carriages crushing people to death in the rush to get on the roads heading north. Money becomes completely worthless overnight. A man offers"
+    },
+    {
+      "fp": "1ps9htq",
+      "i": 156,
+      "from": 35695,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "offers handfuls of gold for a seat on a cart and he's just ignored or beaten. Gold means nothing now. Exactly."
+    },
+    {
+      "fp": "kbuowr",
+      "i": 157,
+      "from": 35882,
+      "subject": "law",
+      "entities": [],
+      "concept": "law",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "law, 1895"
+      },
+      "antidote": {
+        "concept": "law",
+        "set": null,
+        "cast": []
+      },
+      "_said": "Exactly. The government collapses, the police vanish, and London turns into a feral mob driven entirely by the biological imperative to flee the black smoke. It is the"
+    },
+    {
+      "fp": "z6vasq",
+      "i": 158,
+      "from": 36204,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "the ultimate humiliation of the organized state. Wait, but then you're painting this as a complete walkover."
+    },
+    {
+      "fp": "1r7so0c",
+      "i": 159,
+      "from": 36365,
+      "subject": "Navy — war",
+      "entities": [
+        "navy"
+      ],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Navy, read this book and i know there's at least o, 1895"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": [
+          "navy"
+        ]
+      },
+      "_said": "walkover. And I've read this book and I know there's at least one moment where the humans draw blood. The Royal Navy doesn't just evaporate without a fight. There has to be some ro"
+    },
+    {
+      "fp": "13uqpxy",
+      "i": 160,
+      "from": 36717,
+      "subject": "Wells — gift",
+      "entities": [
+        "wells"
+      ],
+      "concept": "gift",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Wells, 1895"
+      },
+      "antidote": {
+        "concept": "gift",
+        "cast": [
+          "wells"
+        ]
+      },
+      "_said": "matter, right? Well, Wells does give us one moment of undeniable human heroism, but we have to look very closely at what that heroism"
+    },
+    {
+      "fp": "w7g65t",
+      "i": 161,
+      "from": 36928,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "heroism actually accomplishes. Okay, lay it out for me. The scene takes place out on the Essex coast as thousands of refugees are trying to flee across"
+    },
+    {
+      "fp": "szzzup",
+      "i": 162,
+      "from": 37149,
+      "subject": "water",
+      "entities": [],
+      "concept": "water",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "water, written like a blockbuster cinematic climax, 1895"
+      },
+      "antidote": {
+        "concept": "water",
+        "set": null,
+        "cast": []
+      },
+      "_said": "across the North Sea to mainland Europe. And this scene is written like a blockbuster cinematic climax."
+    },
+    {
+      "fp": "1fuxa76",
+      "i": 163,
+      "from": 37334,
+      "subject": "water",
+      "entities": [],
+      "concept": "water",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "water, 1895"
+      },
+      "antidote": {
+        "concept": "water",
+        "set": null,
+        "cast": []
+      },
+      "_said": "climax. The narrator's brother has managed to get onto a little paddle steamboat packed to the brim with refugees desperately trying to paddle away from the coast. And the water is"
+    },
+    {
+      "fp": "1t9mkre",
+      "i": 164,
+      "from": 37661,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "sorts. Fishing boats, tugs, everything. Yeah. Merchant vessels. Suddenly, over the horizon,"
+    },
+    {
+      "fp": "wmxj7j",
+      "i": 165,
+      "from": 37857,
+      "subject": "water",
+      "entities": [],
+      "concept": "water",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "water, reaches their knees, 1895"
+      },
+      "antidote": {
+        "concept": "water",
+        "set": null,
+        "cast": []
+      },
+      "_said": "three Martian tripods appear. They just wade out into the ocean. They are so incredibly tall that the water only reaches their knees. They are moving systematically to cut off the "
+    },
+    {
+      "fp": "fbbael",
+      "i": 166,
+      "from": 38251,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "which is terrifying. This steamboat captain is panicking, trying to paddle away. But then out of the white spray offshore comes this charging"
+    },
+    {
+      "fp": "9gaw33",
+      "i": 167,
+      "from": 38488,
+      "subject": "Thunderchild",
+      "entities": [
+        "thunderchild"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Thunderchild, 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "thunderchild"
+        ]
+      },
+      "_said": "charging Leviathan. It's the torpedo ram Thunderchild, the only"
+    },
+    {
+      "fp": "48quog",
+      "i": 168,
+      "from": 38613,
+      "subject": "Navy — water",
+      "entities": [
+        "navy"
+      ],
+      "concept": "water",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Navy, 1895"
+      },
+      "antidote": {
+        "concept": "water",
+        "set": null,
+        "cast": [
+          "navy"
+        ]
+      },
+      "_said": "only Royal Navy warship in the immediate area, right? It's an ironclad very low in the water, and it doesn't try to retreat. It turns and steams headlong at absolute full speed dir"
+    },
+    {
+      "fp": "1nnrln6",
+      "i": 169,
+      "from": 38935,
+      "subject": "Martians — fire",
+      "entities": [
+        "martians"
+      ],
+      "concept": "fire",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Martians, 1895"
+      },
+      "antidote": {
+        "concept": "fire",
+        "cast": [
+          "martians"
+        ]
+      },
+      "_said": "toward the towering Martians. It doesn't even fire its guns at first. It just uses its mass and its And the Martians are actually confused."
+    },
+    {
+      "fp": "1hh2ksp",
+      "i": 170,
+      "from": 39134,
+      "subject": "Martians",
+      "entities": [
+        "martians"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Martians, 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "martians"
+        ]
+      },
+      "_said": "confused. It's one of the few times they seem surprised. They don't know what to make of this fastmoving metal thing. One of the Martians fires a canister of black smoke, but it ju"
+    },
+    {
+      "fp": "1lk4yai",
+      "i": 171,
+      "from": 39429,
+      "subject": "road",
+      "entities": [],
+      "concept": "road",
+      "place": "highway",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "road, highway, 1895"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": "highway",
+        "cast": []
+      },
+      "_said": "But then a Martian raises the heat ray. Yeah. It hits the ship and the tech says the beam drove through the iron armor like a white hot rod through paper."
+    },
+    {
+      "fp": "1bmbyys",
+      "i": 172,
+      "from": 39686,
+      "subject": "Thunderchild — ledge",
+      "entities": [
+        "thunderchild"
+      ],
+      "concept": "ledge",
+      "place": "street",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Thunderchild, street, 1895"
+      },
+      "antidote": {
+        "concept": "ledge",
+        "set": "street",
+        "cast": [
+          "thunderchild"
+        ]
+      },
+      "_said": "paper. The Thunderchild is instantly mortally wounded. It catches fire. its decks and funnels leaping upward in a blinding flash of explosions, but"
+    },
+    {
+      "fp": "deo0jg",
+      "i": 173,
+      "from": 39921,
+      "subject": "zap",
+      "entities": [],
+      "concept": "zap",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "zap, carries it forward, 1895"
+      },
+      "antidote": {
+        "concept": "zap",
+        "set": null,
+        "cast": []
+      },
+      "_said": "but the momentum of its charge carries it forward. Yes, the ship fires its main guns at pointblank range, taking off the head of the"
+    },
+    {
+      "fp": "d0wgsv",
+      "i": 174,
+      "from": 40190,
+      "subject": "fire",
+      "entities": [],
+      "concept": "fire",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "fire, 1895"
+      },
+      "antidote": {
+        "concept": "fire",
+        "cast": []
+      },
+      "_said": "the first Martian. Then, purely through the kinetic energy of its ramming speed, this burning, sinking ironclad strikes a"
+    },
+    {
+      "fp": "ut9cqw",
+      "i": 175,
+      "from": 40435,
+      "subject": "crash",
+      "entities": [],
+      "concept": "crash",
+      "place": "highway",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "crash, highway, 1895"
+      },
+      "antidote": {
+        "concept": "crash",
+        "set": "highway",
+        "cast": []
+      },
+      "_said": "a second Martian tripod, crumpling its leg like cardboard. There's a massive explosion as the hot wreckage hits the cold water, creating a boiling tumult of steam that hides"
+    },
+    {
+      "fp": "1cbr403",
+      "i": 176,
+      "from": 40694,
+      "subject": "chains",
+      "entities": [],
+      "concept": "chains",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "chains, 1895"
+      },
+      "antidote": {
+        "concept": "chains",
+        "cast": []
+      },
+      "_said": "hides everything. And the refugees on the boats are cheering, screaming with joy as they escape into the mist. It is the ultimate pump your fist in the air moment. We took two of t"
+    },
+    {
+      "fp": "16wbg36",
+      "i": 177,
+      "from": 40973,
+      "subject": "Navy — trophy",
+      "entities": [
+        "navy"
+      ],
+      "concept": "trophy",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Navy, 1895"
+      },
+      "antidote": {
+        "concept": "trophy",
+        "cast": [
+          "navy"
+        ]
+      },
+      "_said": "down. The Royal Navy did its job. It is thrilling. But when you take a step back and look at the broader picture, the victory is totally hollow. How is it hollow? They killed"
+    },
+    {
+      "fp": "16liio1",
+      "i": 178,
+      "from": 41217,
+      "subject": "Wells and Martians",
+      "entities": [
+        "wells",
+        "martians"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Wells and Martians, 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "wells",
+          "martians"
+        ]
+      },
+      "_said": "killed two Martians. They did. And that is the grim mathematical reality Wells is painting. Is human heroism real? Yes, the sailors"
+    },
+    {
+      "fp": "z1bw8c",
+      "i": 179,
+      "from": 41484,
+      "subject": "Thunderchild — magnifier",
+      "entities": [
+        "thunderchild"
+      ],
+      "concept": "magnifier",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Thunderchild, 1895"
+      },
+      "antidote": {
+        "concept": "magnifier",
+        "cast": [
+          "thunderchild"
+        ]
+      },
+      "_said": "sailors on the Thunderchild sacrificed themselves bravely. They did not flinch. But look at the outcome through the lens of the microscope. Oh, I see where you're going. The ironcl"
+    },
+    {
+      "fp": "lwe0r3",
+      "i": 180,
+      "from": 41817,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "human engineering and military might, is completely destroyed."
+    },
+    {
+      "fp": "64bnd9",
+      "i": 181,
+      "from": 41928,
+      "subject": "Martians — chains",
+      "entities": [
+        "martians"
+      ],
+      "concept": "chains",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Martians, 1895"
+      },
+      "antidote": {
+        "concept": "chains",
+        "cast": [
+          "martians"
+        ]
+      },
+      "_said": "destroyed. It managed to take down two tripods, which the Martians can easily replace. Just a drop in the bucket, right? It bought a handful of boats a few extra minutes to escape"
+    },
+    {
+      "fp": "s2tz6p",
+      "i": 182,
+      "from": 42189,
+      "subject": "ledge",
+      "entities": [],
+      "concept": "ledge",
+      "place": "street",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "ledge, falling from the sky every single day, street, 1895"
+      },
+      "antidote": {
+        "concept": "ledge",
+        "set": "street",
+        "cast": []
+      },
+      "_said": "escape the immediate area. But the invasion itself, it marches on completely unbothered. More cylinders are falling from the sky every single day. The heroism doesn't change the ma"
+    },
+    {
+      "fp": "zdyo78",
+      "i": 183,
+      "from": 42535,
+      "subject": "Thunderchild — magnifier",
+      "entities": [
+        "thunderchild"
+      ],
+      "concept": "magnifier",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Thunderchild, 1895"
+      },
+      "antidote": {
+        "concept": "magnifier",
+        "cast": [
+          "thunderchild"
+        ]
+      },
+      "_said": "math. That's the devastating part. Under the microscope, the Thunderchild is just a particularly aggressive microbe"
+    },
+    {
+      "fp": "i3g5z6",
+      "i": 184,
+      "from": 42739,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "microbe twitching violently before it dies. Yeah. It doesn't change the fact that the microbe is trapped on a glass slide. Exactly. We get our heroic"
+    },
+    {
+      "fp": "1pfgl5t",
+      "i": 185,
+      "from": 42948,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, 1895"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "heroic sacrifice, but it doesn't turn the tide of the war at all. The math of imperialism doesn't care about one brave ironclad, which is a profound blow to"
+    },
+    {
+      "fp": "1cuaqzd",
+      "i": 186,
+      "from": 43193,
+      "subject": "Navy — water",
+      "entities": [
+        "navy"
+      ],
+      "concept": "water",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Navy, 1895"
+      },
+      "antidote": {
+        "concept": "water",
+        "set": null,
+        "cast": [
+          "navy"
+        ]
+      },
+      "_said": "to the Victorian psyche. The Royal Navy was the guarantor of the empire. It was the reason Britain ruled the waves and ruled the globe."
+    },
+    {
+      "fp": "1q9xyeb",
+      "i": 187,
+      "from": 43408,
+      "subject": "Wells — war",
+      "entities": [
+        "wells"
+      ],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Wells, 1895"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": [
+          "wells"
+        ]
+      },
+      "_said": "globe. And Wells has a single Martian weapon sliced through their armor like paper. So if the military fails, if the state collapses, where do people traditionally turn in a crisis"
+    },
+    {
+      "fp": "1ngewn3",
+      "i": 188,
+      "from": 43747,
+      "subject": "ledge",
+      "entities": [],
+      "concept": "ledge",
+      "place": "street",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "ledge, falling apart, street, 1895"
+      },
+      "antidote": {
+        "concept": "ledge",
+        "set": "street",
+        "cast": []
+      },
+      "_said": "turn to their spiritual institutions to provide meaning when the physical world is falling apart. Exactly."
+    },
+    {
+      "fp": "ng264v",
+      "i": 189,
+      "from": 43891,
+      "subject": "Wells — grave",
+      "entities": [
+        "wells"
+      ],
+      "concept": "grave",
+      "place": "forest",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Wells, forest, 1895"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": "forest",
+        "cast": [
+          "wells"
+        ]
+      },
+      "_said": "Exactly. But Wells uses the character of the curit to show how catastrophe strips the varnish off both faith and civility. The narrator ends up trapped in a ruined house buried und"
+    },
+    {
+      "fp": "1aznkmn",
+      "i": 190,
+      "from": 44285,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "fifth Martian And he is stuck in this suffocating soot stained scullery room with a"
+    },
+    {
+      "fp": "1tlxln0",
+      "i": 191,
+      "from": 44469,
+      "subject": "magnifier",
+      "entities": [],
+      "concept": "magnifier",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "magnifier, 1895"
+      },
+      "antidote": {
+        "concept": "magnifier",
+        "cast": []
+      },
+      "_said": "a local clergyman, the curit. The sensory details in the section are incredibly claustrophobic."
+    },
+    {
+      "fp": "1v4j84s",
+      "i": 192,
+      "from": 44652,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Imagine being trapped in this tiny pitch black pantry. It's a nightmare scenario. There is broken crockery everywhere, so you can't shift your weight without making a scraping soun"
+    },
+    {
+      "fp": "19hj2ln",
+      "i": 193,
+      "from": 44976,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "heavily of dust, plaster, and smoke. And right outside the wall, literally just inches of brick away, you can hear the constant metallic rattling and humming"
+    },
+    {
+      "fp": "1f8eg7e",
+      "i": 194,
+      "from": 45216,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "humming of a Martian handling machine excavating the pit. You can hear them moving. You can hear them feeding. Yes. And inside this tiny space with you is a man who is a completely"
+    },
+    {
+      "fp": "13svkrm",
+      "i": 195,
+      "from": 45597,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "completely incapable of processing what is happening."
+    },
+    {
+      "fp": "dlwgxs",
+      "i": 196,
+      "from": 45693,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "According to Wells's worldview, the cur represents everything wrong with the traditional unscientific order of society. When faced with a biological"
+    },
+    {
+      "fp": "leczzp",
+      "i": 197,
+      "from": 45967,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "biological extraterrestrial invasion, the cur tries to frame it through his outdated theological lens. He keeps wailing in the dark. Why are these things permitted? What sins have "
+    },
+    {
+      "fp": "1p5b61g",
+      "i": 198,
+      "from": 46286,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "if it were Sodom and He genuinely thinks it's divine punishment. He thinks God is punishing"
+    },
+    {
+      "fp": "1ajr55n",
+      "i": 199,
+      "from": 46418,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "punishing London for its wickedness, which shows a complete failure to grasp the reality of the situation. He needs the invasion to have meaning."
+    },
+    {
+      "fp": "errbvs",
+      "i": 200,
+      "from": 46651,
+      "subject": "lightbulb",
+      "entities": [],
+      "concept": "lightbulb",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "lightbulb, 1895"
+      },
+      "antidote": {
+        "concept": "lightbulb",
+        "cast": []
+      },
+      "_said": "meaning. Right. Because if it doesn't have meaning, his whole life is a lie. Exactly. Victorian theology relied heavily on the idea that human actions provoke a divine response. Bu"
+    },
+    {
+      "fp": "1xikzas",
+      "i": 201,
+      "from": 46937,
+      "subject": "Martians",
+      "entities": [
+        "martians"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Martians, 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "martians"
+        ]
+      },
+      "_said": "cold biological conquest has no moral meaning. The Martians don't care about human sins anymore than a human cares about the moral purity of the ants they step on."
+    },
+    {
+      "fp": "sbe6pu",
+      "i": 202,
+      "from": 47203,
+      "subject": "game",
+      "entities": [],
+      "concept": "game",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "game, 1895"
+      },
+      "antidote": {
+        "concept": "game",
+        "set": null,
+        "cast": []
+      },
+      "_said": "on. That's such a bleak realization. The curit's physical description even matches this intellectual weakness."
+    },
+    {
+      "fp": "1qcv69g",
+      "i": 203,
+      "from": 47393,
+      "subject": "Wells",
+      "entities": [
+        "wells"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Wells, 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "wells"
+        ]
+      },
+      "_said": "weakness. Wells describes him with a retreating chin, pale blue snaring eyes, and flax and curls."
+    },
+    {
+      "fp": "1gucvx0",
+      "i": 204,
+      "from": 47561,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "M. Adam points out he's almost a parody of the complacent, soft social conformist. When the rigid rules of his society vanish, he has absolutely zero survival skills. He goes from "
+    },
+    {
+      "fp": "1xaszz4",
+      "i": 205,
+      "from": 47957,
+      "subject": "food",
+      "entities": [],
+      "concept": "food",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "food, 1895"
+      },
+      "antidote": {
+        "concept": "food",
+        "set": null,
+        "cast": []
+      },
+      "_said": "massive shrieking liability. He oscillates between crying, hoarding the meager rations of food they have left and having these loud manic religious"
+    },
+    {
+      "fp": "1oc41qn",
+      "i": 206,
+      "from": 48237,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "religious It's unbearable. He screams, \"The word of the Lord is upon me.\" Right"
+    },
+    {
+      "fp": "3rufxr",
+      "i": 207,
+      "from": 48353,
+      "subject": "Martians",
+      "entities": [
+        "martians"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Martians, 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "martians"
+        ]
+      },
+      "_said": "when the Martians are just outside the wall. And the narrator, who up to this point has been a decent, civilized, educated writer, he realizes that this"
+    },
+    {
+      "fp": "tbrzx6",
+      "i": 208,
+      "from": 48624,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "this man of God is going to get them both killed. So what does the civilized, rational man do when the spiritual leader becomes an active threat to his biological He bludgeons him."
+    },
+    {
+      "fp": "1w3rn2l",
+      "i": 209,
+      "from": 48897,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "does. The narrator picks up a heavy meat chopper, creeps up behind the carrot, and strikes him in the head with the blunt side of the blade to"
+    },
+    {
+      "fp": "og66oc",
+      "i": 210,
+      "from": 49087,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "falls to the floor, 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "to knock him unconscious and silence him. The cur falls to the floor. And then the horror It really does."
+    },
+    {
+      "fp": "1amc051",
+      "i": 211,
+      "from": 49262,
+      "subject": "crack",
+      "entities": [],
+      "concept": "crack",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "crack, 1895"
+      },
+      "antidote": {
+        "concept": "crack",
+        "cast": []
+      },
+      "_said": "does. A Martian tentacle slitters into the room through a crack in the wall, fuels around in the dark, finds the cur's"
+    },
+    {
+      "fp": "c01xf",
+      "i": 212,
+      "from": 49428,
+      "subject": "Wells — home",
+      "entities": [
+        "wells"
+      ],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Wells, 1895"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": [
+          "wells"
+        ]
+      },
+      "_said": "cur's unconscious body, and drags him out of the house to be drained of blood. It is an incredibly brutal, shocking scene. Wells"
+    },
+    {
+      "fp": "1gdqbka",
+      "i": 213,
+      "from": 49656,
+      "subject": "Wells — compass",
+      "entities": [
+        "wells"
+      ],
+      "concept": "compass",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Wells, 1895"
+      },
+      "antidote": {
+        "concept": "compass",
+        "cast": [
+          "wells"
+        ]
+      },
+      "_said": "Wells is demonstrating that institutions meant to provide comfort and moral guidance like the church completely buckle under the pressure of actual survival."
+    },
+    {
+      "fp": "l2vdo1",
+      "i": 214,
+      "from": 49905,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "survival. Catastrophe strips away the illusion of Yes. The narrator feels practically no remorse for striking the curit. He sees it simply as a necessary sequence of physical accid"
+    },
+    {
+      "fp": "1xich97",
+      "i": 215,
+      "from": 50292,
+      "subject": "Martians — home",
+      "entities": [
+        "martians"
+      ],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Martians, 1895"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": [
+          "martians"
+        ]
+      },
+      "_said": "survival. Morality in the face of the Martians is a luxury that humans can no longer afford. The scariest monster in that house isn't the marching outside."
+    },
+    {
+      "fp": "k143ix",
+      "i": 216,
+      "from": 50546,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "outside. It's what the narrator has to become a cold-blooded killer just to survive the man of God. It really puts that civilized"
+    },
+    {
+      "fp": "grlt3y",
+      "i": 217,
+      "from": 50748,
+      "subject": "magnifier",
+      "entities": [],
+      "concept": "magnifier",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "magnifier, 1895"
+      },
+      "antidote": {
+        "concept": "magnifier",
+        "cast": []
+      },
+      "_said": "civilized Victorian morality under the microscope and finds it completely lacking when subjected to evolutionary It does."
+    },
+    {
+      "fp": "bke56h",
+      "i": 218,
+      "from": 50966,
+      "subject": "Wells — target",
+      "entities": [
+        "wells"
+      ],
+      "concept": "target",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Wells, 1895"
+      },
+      "antidote": {
+        "concept": "target",
+        "cast": [
+          "wells"
+        ]
+      },
+      "_said": "does. But Wells doesn't just critique the religious institutions. He also takes aim"
+    },
+    {
+      "fp": "1vhzdg9",
+      "i": 219,
+      "from": 51079,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, holds the answer to humanity's survival, 1895"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "aim at the pragmatic military man to see if the soldier holds the answer to humanity's survival."
+    },
+    {
+      "fp": "1okicwh",
+      "i": 220,
+      "from": 51230,
+      "subject": "home",
+      "entities": [],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "home, runs into the artillery man again, 1895"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": []
+      },
+      "_said": "survival. Right. Because after the narrator eventually escapes the ruined house, he is wandering through a desolate landscape and he runs into the artillery man again, a soldier he"
+    },
+    {
+      "fp": "ms0f5c",
+      "i": 221,
+      "from": 51590,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "meet on Putney and the artillery man seems totally different from the curette. Yeah, he's not crying about God. He has a concrete plan. This is one of the most fascinating"
+    },
+    {
+      "fp": "168sxyt",
+      "i": 222,
+      "from": 51849,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "fascinating psychological explorations in the novel."
+    },
+    {
+      "fp": "1p3y5q4",
+      "i": 223,
+      "from": 51938,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, 1895"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "novel. The artillery man is a survivor. He looks at the narrator and says, \"This isn't a war. It never was a war.\" any"
+    },
+    {
+      "fp": "1a9toph",
+      "i": 224,
+      "from": 52154,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, 1895"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "any more than there's war between man and Wow. So, he gets it. He gets it."
+    },
+    {
+      "fp": "1f2hbcl",
+      "i": 225,
+      "from": 52281,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "it. He understands the new biological hierarchy. And he pitches this incredibly thrilling, seductive vision for the future of humanity. Oh, his speech on the hill is incredible. He"
+    },
+    {
+      "fp": "109hbcx",
+      "i": 226,
+      "from": 52603,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "this whole post-apocalyptic blueprint. He says, \"They're going to live underground down in the massive network of drains and sewers under London, a whole subterranean society,"
+    },
+    {
+      "fp": "3t6r6q",
+      "i": 227,
+      "from": 52886,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "society, right? They're going to gather only the able-bodied, clean-minded men and women.\" He explicitly says no weak people, no silly people, no people who just"
+    },
+    {
+      "fp": "vx696j",
+      "i": 228,
+      "from": 53143,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "just want to be comfortable. Eugenics basically."
+    },
+    {
+      "fp": "1f5eta7",
+      "i": 229,
+      "from": 53205,
+      "subject": "wallet",
+      "entities": [],
+      "concept": "wallet",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "wallet, 1895"
+      },
+      "antidote": {
+        "concept": "wallet",
+        "cast": []
+      },
+      "_said": "basically. Yeah. They are going to save science books, learn the Martian technology, and breed a fierce,"
+    },
+    {
+      "fp": "ukgrhq",
+      "i": 230,
+      "from": 53385,
+      "subject": "photo",
+      "entities": [],
+      "concept": "photo",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "photo, 1895"
+      },
+      "antidote": {
+        "concept": "photo",
+        "set": null,
+        "cast": []
+      },
+      "_said": "fierce, disciplined resistance for the sake of the breed. He paints this picture of human"
+    },
+    {
+      "fp": "1gcj8gt",
+      "i": 231,
+      "from": 53546,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "human generations slowly getting stronger until eventually they sneak up to the surface, hijack the"
+    },
+    {
+      "fp": "1u7pl31",
+      "i": 232,
+      "from": 53726,
+      "subject": "Martians — war",
+      "entities": [
+        "martians"
+      ],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Martians, 1895"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": [
+          "martians"
+        ]
+      },
+      "_said": "the empty fighting machines, and blast the Martians with their own heat rays. It sounds like the perfect premise"
+    },
+    {
+      "fp": "t3bq4g",
+      "i": 233,
+      "from": 53899,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "premise for a Hollywood Rebellion movie. And what's crucial here is that The Artillery"
+    },
+    {
+      "fp": "1fg0k8s",
+      "i": 234,
+      "from": 54026,
+      "subject": "Wells — notes",
+      "entities": [
+        "wells"
+      ],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Wells, 1895"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": [
+          "wells"
+        ]
+      },
+      "_said": "Artillery Man's speech closely mirrors Wells's own non-fiction writings. Wait, really? Well actually believe this Well, around the same time, Wells wrote a book"
+    },
+    {
+      "fp": "7ro2iq",
+      "i": 235,
+      "from": 54295,
+      "subject": "funnelTrap",
+      "entities": [],
+      "concept": "funnelTrap",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "funnel trap, 1895"
+      },
+      "antidote": {
+        "concept": "funnelTrap",
+        "cast": []
+      },
+      "_said": "book called Anticipations, where he advocated for a new republic. He envisioned a future led by a scientifically trained elite who would ruthlessly discard the weak,"
+    },
+    {
+      "fp": "1stp5dg",
+      "i": 236,
+      "from": 54554,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "weak, the inefficient, and the sick to ensure human progress. So, the artillery"
+    },
+    {
+      "fp": "10fmx3v",
+      "i": 237,
+      "from": 54669,
+      "subject": "Wells",
+      "entities": [
+        "wells"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Wells, 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "wells"
+        ]
+      },
+      "_said": "artillery man is channeling Wells. The artillery man is using the exact eugenic rhetoric of this futuristic"
+    },
+    {
+      "fp": "13dca26",
+      "i": 238,
+      "from": 54825,
+      "subject": "Wells — war",
+      "entities": [
+        "wells"
+      ],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Wells, reading it, 1895"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": [
+          "wells"
+        ]
+      },
+      "_said": "futuristic pragmatist savior that Wells himself flirted with. I was totally swept up in it reading it. The narrator is swept up in it, too. He \"Yes, this is how we fight back. This"
+    },
+    {
+      "fp": "1qh01p3",
+      "i": 239,
+      "from": 55171,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "then the narrator asks the artillery man, \"Okay, show me what you've"
+    },
+    {
+      "fp": "17pl4oo",
+      "i": 240,
+      "from": 55298,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "you've done. Show me the underground base.\" And the reality is hilarious and pathetic. The gap between rhetoric and reality is massive."
+    },
+    {
+      "fp": "12cdkzq",
+      "i": 241,
+      "from": 55531,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "reach the main drains, 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "massive. The artillery man leads the narrator to a hole he's been digging to reach the main drains. Just a hole in the dirt. He's been at it for days, and it's barely a few feet lo"
+    },
+    {
+      "fp": "1l31qyi",
+      "i": 242,
+      "from": 55841,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "reach the sewer, 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "At his current pace, it would take him years of grueling labor just to reach the sewer. And instead of getting back to work,"
+    },
+    {
+      "fp": "hb9mtn",
+      "i": 243,
+      "from": 56042,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "work, the artillery man says, \"Let's take a break. A break? The world is ending.\" He offers the narrator a taste"
+    },
+    {
+      "fp": "1254wb5",
+      "i": 244,
+      "from": 56248,
+      "subject": "fire",
+      "entities": [],
+      "concept": "fire",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "fire, sit around lazily playing cards and drinkin, 1895"
+      },
+      "antidote": {
+        "concept": "fire",
+        "cast": []
+      },
+      "_said": "taste of expensive burgundy he stole from a nearby abandoned mansion. He pulls out some stolen cigars and they sit around lazily playing cards and drinking while the world is liter"
+    },
+    {
+      "fp": "18naidj",
+      "i": 245,
+      "from": 56568,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "sits on his couch eating canned beans and pl, 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "above It's amazing. He's the ultimate archetype of the guy who claims he'd be a warlord in the zombie apocalypse, but actually just sits on his couch eating canned beans and playin"
+    },
+    {
+      "fp": "t0qo37",
+      "i": 246,
+      "from": 56904,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "rhetoric of a revolutionary, but the actual physical discipline of a bar loafer."
+    },
+    {
+      "fp": "1w0qvk0",
+      "i": 247,
+      "from": 57019,
+      "subject": "Wells — wallet",
+      "entities": [
+        "wells"
+      ],
+      "concept": "wallet",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Wells, 1895"
+      },
+      "antidote": {
+        "concept": "wallet",
+        "cast": [
+          "wells"
+        ]
+      },
+      "_said": "loafer. Wells is offering a harsh critique of the armchair general. The artillery man talks about saving the human race, but he's easily distracted by luxury, laziness, and the imm"
+    },
+    {
+      "fp": "bmo7it",
+      "i": 248,
+      "from": 57305,
+      "subject": "coin",
+      "entities": [],
+      "concept": "coin",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "coin, 1895"
+      },
+      "antidote": {
+        "concept": "coin",
+        "cast": []
+      },
+      "_said": "immediate gratification of stolen wealth. He wants to be a visionary, but he lacks the relentless, exhausting work ethic required to actually build a new It proves that neither"
+    },
+    {
+      "fp": "acpa2i",
+      "i": 249,
+      "from": 57650,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, 1895"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "neither the spiritual conformist nor the pragmatic soldier has the capacity to save humanity. We are fundamentally outmatched, not just in technology, but in focus and collective w"
+    },
+    {
+      "fp": "1b9yx5",
+      "i": 250,
+      "from": 57984,
+      "subject": "Martians",
+      "entities": [
+        "martians"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Martians, 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "martians"
+        ]
+      },
+      "_said": "will. The Martians don't take breaks to drink Burgundy. No,"
+    },
+    {
+      "fp": "1l677x2",
+      "i": 251,
+      "from": 58070,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "No, they don't. They're entirely unified, entirely efficient, and entirely tireless. And this brings us to the shift in Martian behavior."
+    },
+    {
+      "fp": "nd0vbn",
+      "i": 252,
+      "from": 58296,
+      "subject": "Martians — fire",
+      "entities": [
+        "martians"
+      ],
+      "concept": "fire",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Martians, 1895"
+      },
+      "antidote": {
+        "concept": "fire",
+        "cast": [
+          "martians"
+        ]
+      },
+      "_said": "behavior. Because once the organized military opposition is crushed, the Martians don't just keep burning things down, right? The war phase is over. They transition from conquerors"
+    },
+    {
+      "fp": "4i1xui",
+      "i": 253,
+      "from": 58663,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "for the British Empire to become the colony. This is where we get a really close look"
+    },
+    {
+      "fp": "r2bdao",
+      "i": 254,
+      "from": 58781,
+      "subject": "home",
+      "entities": [],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "home, 1895"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": []
+      },
+      "_said": "at Martian anatomy and their terraforming efforts. and the mechanics of it are stomach turning. When the narrator is trapped in the ruined house, he spends days"
+    },
+    {
+      "fp": "r0vwh9",
+      "i": 255,
+      "from": 59037,
+      "subject": "Martians — food",
+      "entities": [
+        "martians"
+      ],
+      "concept": "food",
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Martians, 1895"
+      },
+      "antidote": {
+        "concept": "food",
+        "set": null,
+        "cast": [
+          "martians"
+        ]
+      },
+      "_said": "days observing them. He sees that the Martians don't have stomachs. They don't eat or digest food like we No, they are basically just giant brains"
+    },
+    {
+      "fp": "194yczj",
+      "i": 256,
+      "from": 59285,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "brains with tentacles. To sustain themselves, they take the fresh living blood of"
+    },
+    {
+      "fp": "rpp0jf",
+      "i": 257,
+      "from": 59416,
+      "subject": "heart",
+      "entities": [],
+      "concept": "heart",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "heart, 1895"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": null,
+        "cast": []
+      },
+      "_said": "of other creatures. And now that they are on Earth, that means human blood, and they inject it directly into their own veins through a small pipette. It is vampirism, but it is com"
+    },
+    {
+      "fp": "4knqe0",
+      "i": 258,
+      "from": 59861,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Baram Sooker's Dracula, which was published around the same time,"
+    },
+    {
+      "fp": "1kaudnq",
+      "i": 259,
+      "from": 59947,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "time, right? There's no capes or bats. This is clinical biological vampirism. They don't hate us. They aren't trying to damn our souls. They just need our nutrients."
+    },
+    {
+      "fp": "1xw1gx5",
+      "i": 260,
+      "from": 60173,
+      "subject": "Wells — notes",
+      "entities": [
+        "wells"
+      ],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Wells, 1895"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": [
+          "wells"
+        ]
+      },
+      "_said": "nutrients. MacAdam notes that Wells is pushing the idea of evolution to its extreme here."
+    },
+    {
+      "fp": "ftofzm",
+      "i": 261,
+      "from": 60309,
+      "subject": "Martians",
+      "entities": [
+        "martians"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Martians, 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "martians"
+        ]
+      },
+      "_said": "here. The Martians have evolved past the messy, inefficient process of digestion."
+    },
+    {
+      "fp": "18teouo",
+      "i": 262,
+      "from": 60458,
+      "subject": "Martians",
+      "entities": [
+        "martians"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Martians, 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "martians"
+        ]
+      },
+      "_said": "Eating, digesting, expelling waste that takes energy. The Martians have eliminated the middleman. They"
+    },
+    {
+      "fp": "5tt1en",
+      "i": 263,
+      "from": 60672,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "They are streamlined for pure intellectual and mechanical function. Its efficiency taken to a nightmare extreme. But it's not just our bodies they"
+    },
+    {
+      "fp": "1t29qq5",
+      "i": 264,
+      "from": 60916,
+      "subject": "home",
+      "entities": [],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "home, 1895"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": []
+      },
+      "_said": "they are harvesting. They are changing the landscape of Earth itself to match their home planet, the red weed. Yes. The narrator"
+    },
+    {
+      "fp": "zny0e9",
+      "i": 265,
+      "from": 61152,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "narrator discovers this alien plant, the red weed, taking root everywhere the cylinders have landed. It grows with explosive speed,"
+    },
+    {
+      "fp": "yhj6cf",
+      "i": 266,
+      "from": 61382,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "speed, recolonizing the green English rivers, choking"
+    },
+    {
+      "fp": "12c5fjc",
+      "i": 267,
+      "from": 61466,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "choking the waterways, suffocating the native flora, and turning the familiar idyllic suri landscape into a crimson alien swamp. This is biological"
+    },
+    {
+      "fp": "1vbz265",
+      "i": 268,
+      "from": 61730,
+      "subject": "trophy",
+      "entities": [],
+      "concept": "trophy",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "trophy, 1895"
+      },
+      "antidote": {
+        "concept": "trophy",
+        "cast": []
+      },
+      "_said": "biological imperialism. Think about what European powers did when they colonized foreign lands. They didn't just conquer the people. They brought their own crops, their own They re"
+    },
+    {
+      "fp": "gpt4y9",
+      "i": 269,
+      "from": 62011,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "changed the agriculture. They extracted the resources and they terraformed the environment to suit their own economic needs."
+    },
+    {
+      "fp": "1y4efac",
+      "i": 270,
+      "from": 62191,
+      "subject": "Martians",
+      "entities": [
+        "martians"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Martians, 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "martians"
+        ]
+      },
+      "_said": "needs. The Martians are doing the exact same thing to England. It's exactly what the British did The artillerymen actually predicted it during his speech. He said"
+    },
+    {
+      "fp": "klxy1h",
+      "i": 271,
+      "from": 62443,
+      "subject": "Martians",
+      "entities": [
+        "martians"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Martians, 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "martians"
+        ]
+      },
+      "_said": "said the Martians will start catching humans systematically, picking the best ones"
+    },
+    {
+      "fp": "1q6esj8",
+      "i": 272,
+      "from": 62561,
+      "subject": "food",
+      "entities": [],
+      "concept": "food",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "food, 1895"
+      },
+      "antidote": {
+        "concept": "food",
+        "set": null,
+        "cast": []
+      },
+      "_said": "ones and storing us in cages to breed us for food. We have been officially"
+    },
+    {
+      "fp": "se7xv2",
+      "i": 273,
+      "from": 62683,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "officially downgraded to livestock. The empire is now the It's repulsive but fascinating. Mhm. We aren't honorable warriors to them. We are literally"
+    },
+    {
+      "fp": "1wf4pcl",
+      "i": 274,
+      "from": 62945,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "literally just Capri Suns for That is a very modern way of putting it. But yes, just"
+    },
+    {
+      "fp": "1gpgf2q",
+      "i": 275,
+      "from": 63089,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "just a quick hit of energy they can drain to keep their giant brains"
+    },
+    {
+      "fp": "fu6s4r",
+      "i": 276,
+      "from": 63177,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "brains functioning while they work on their It is the ultimate reduction of human dignity. All our"
+    },
+    {
+      "fp": "1yexeae",
+      "i": 277,
+      "from": 63348,
+      "subject": "magnifier",
+      "entities": [],
+      "concept": "magnifier",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "magnifier, 1895"
+      },
+      "antidote": {
+        "concept": "magnifier",
+        "cast": []
+      },
+      "_said": "our magnificent art, our complex philosophy, our sprawling empires, our massive steam trains under the microscope, it all boils down to a single question. Is our"
+    },
+    {
+      "fp": "a9h241",
+      "i": 278,
+      "from": 63648,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "our blood nutritious enough? Is our blood nutritious enough to sustain a superior intellect? You don't negotiate with the bacteria on the slide. You study it. You consume its resou"
+    },
+    {
+      "fp": "1d4t5qg",
+      "i": 279,
+      "from": 63962,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "it. Wait, but then, and this is the most insane part of this entire story, right"
+    },
+    {
+      "fp": "3gcha8",
+      "i": 280,
+      "from": 64104,
+      "subject": "Martians",
+      "entities": [
+        "martians"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Martians, 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "martians"
+        ]
+      },
+      "_said": "right when humanity is completely, utterly right? When the Martians are setting up their feeding camps and the red weed is choking out the"
+    },
+    {
+      "fp": "q53p8f",
+      "i": 281,
+      "from": 64339,
+      "subject": "Martians",
+      "entities": [
+        "martians"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Martians, 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "martians"
+        ]
+      },
+      "_said": "the green of Earth, the Martians suddenly just die very abruptly. Not because of anything we did. The human"
+    },
+    {
+      "fp": "1ti1tw2",
+      "i": 282,
+      "from": 64545,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "human race contributes absolutely zero to its own salvation. This brings us"
+    },
+    {
+      "fp": "1dmj1tq",
+      "i": 283,
+      "from": 64672,
+      "subject": "road",
+      "entities": [],
+      "concept": "road",
+      "place": "highway",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "road, walk us through that punch line, highway, 1895"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": "highway",
+        "cast": []
+      },
+      "_said": "us to the climax and what is essentially the great cosmic punchline of the novel. Walk us through that punch line. The narrator eventually wanders out"
+    },
+    {
+      "fp": "kvp5m9",
+      "i": 284,
+      "from": 64905,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "walks into london, 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "out of the countryside and walks into London. He is expecting to find the capital of the empire turned into a bustling"
+    },
+    {
+      "fp": "30v6si",
+      "i": 285,
+      "from": 65071,
+      "subject": "grave",
+      "entities": [],
+      "concept": "grave",
+      "place": "forest",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "grave, walks past abandoned shops, forest, 1895"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": "forest",
+        "cast": []
+      },
+      "_said": "bustling Martian stronghold. Instead, he finds the eerie haunting silence of a dead city. He walks past abandoned shops, overturned carriages, unburied bodies, and then he hears it"
+    },
+    {
+      "fp": "5oan98",
+      "i": 286,
+      "from": 65489,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, 1895"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "rooftops. Aloo. Aloo. He follows the sound to Primrose Hill and he finds the giant fighting machines standing"
+    },
+    {
+      "fp": "1gdgprd",
+      "i": 287,
+      "from": 65649,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "standing motionless, 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "standing motionless. He approaches the main Martian encampment, fully expecting to be seen and killed, but instead he"
+    },
+    {
+      "fp": "1p17vuj",
+      "i": 288,
+      "from": 65858,
+      "subject": "Martians",
+      "entities": [
+        "martians"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Martians, 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "martians"
+        ]
+      },
+      "_said": "he finds the Martians rotting in their covered in birds. Yeah. A flock of birds is pecking at their flesh. Their bodies are reduced to brown scum. And the narrator realizes what ha"
+    },
+    {
+      "fp": "1ogpmjj",
+      "i": 289,
+      "from": 66288,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "earth. Bacteria, the microscopic germs of disease that humans have lived alongside and evolved with for millions of years."
+    },
+    {
+      "fp": "1lgpi0h",
+      "i": 290,
+      "from": 66465,
+      "subject": "Martians",
+      "entities": [
+        "martians"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Martians, 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "martians"
+        ]
+      },
+      "_said": "years. The Martians didn't have an immune Because there are no bacteria on Mars, the Martians had no immune system. An immune system is essentially"
+    },
+    {
+      "fp": "yx4bk9",
+      "i": 291,
+      "from": 66662,
+      "subject": "Martians — war",
+      "entities": [
+        "martians"
+      ],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Martians, standing army, 1895"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": [
+          "martians"
+        ]
+      },
+      "_said": "essentially a biological standing army, and the Martians didn't have one. The very moment they drank earthly water and injected uncurified human blood into their veins, they were d"
+    },
+    {
+      "fp": "12cokko",
+      "i": 292,
+      "from": 66960,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "They were conquered from the inside out. As the narrator says, by the toll of a billion deaths, man has bought his birthright of the earth. It is a total abject"
+    },
+    {
+      "fp": "15vv55i",
+      "i": 293,
+      "from": 67229,
+      "subject": "trophy",
+      "entities": [],
+      "concept": "trophy",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "trophy, 1895"
+      },
+      "antidote": {
+        "concept": "trophy",
+        "cast": []
+      },
+      "_said": "abject humiliation for human ego. Humanity does absolutely nothing to win this"
+    },
+    {
+      "fp": "xrtfvw",
+      "i": 294,
+      "from": 67353,
+      "subject": "Thunderchild — war",
+      "entities": [
+        "thunderchild"
+      ],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Thunderchild, 1895"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": [
+          "thunderchild"
+        ]
+      },
+      "_said": "this war. Nothing at all. Our courage useless. Our science primitive. Our ironclads like the thunderchild. Irrelevant. Our faith buckled. Our grand eugenic plans"
+    },
+    {
+      "fp": "1jvqx10",
+      "i": 295,
+      "from": 67687,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "plans for an underground resistance. Just the lazy fantasies of an artillery man. All of it failed completely."
+    },
+    {
+      "fp": "1ta0m30",
+      "i": 296,
+      "from": 67826,
+      "subject": "magnifier",
+      "entities": [],
+      "concept": "magnifier",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "magnifier, sit on the exactly, 1895"
+      },
+      "antidote": {
+        "concept": "magnifier",
+        "cast": []
+      },
+      "_said": "completely. We're saved by a germ. The lowest rung on the biological ladder decides who gets to sit on the Exactly. We put the infusoria under the microscope on page one,"
+    },
+    {
+      "fp": "1wr9s7r",
+      "i": 297,
+      "from": 68097,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, 1895"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "one, and the infusoria are the only things that actually fought and won the war. It is a brilliant subversion of the typical heroic narrative. In almost any other"
+    },
+    {
+      "fp": "14mlrqr",
+      "i": 298,
+      "from": 68340,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, 1895"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "other 19th century adventure novel, the plucky British heroes would have discovered a weak point in the Martian armor, rallied the troops, and won a glorious victory. Oh, absolutel"
+    },
+    {
+      "fp": "7mo15x",
+      "i": 299,
+      "from": 68657,
+      "subject": "Wells — trophy",
+      "entities": [
+        "wells"
+      ],
+      "concept": "trophy",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Wells, 1895"
+      },
+      "antidote": {
+        "concept": "trophy",
+        "cast": [
+          "wells"
+        ]
+      },
+      "_said": "absolutely. Wells denies humanity the satisfaction of a military victory. We"
+    },
+    {
+      "fp": "vnlqfq",
+      "i": 300,
+      "from": 68789,
+      "subject": "Martians",
+      "entities": [
+        "martians"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Martians, 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "martians"
+        ]
+      },
+      "_said": "We don't outsmart the Martians, and we certainly don't outgun them. Our survival is entirely"
+    },
+    {
+      "fp": "q2k06e",
+      "i": 301,
+      "from": 68935,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "entirely accidental, a byproduct of our messy, disease-ridden"
+    },
+    {
+      "fp": "16evgfq",
+      "i": 302,
+      "from": 69050,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "disease-ridden evolutionary history. The superior species is defeated by the most inferior organisms imaginable. I have to push back on this a little bit, though, because while it'"
+    },
+    {
+      "fp": "1v6r58j",
+      "i": 303,
+      "from": 69360,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "thematically brilliant, from a purely narrative perspective, doesn't it feel incredibly cheap? It can feel that way. Yes. I"
+    },
+    {
+      "fp": "tslogc",
+      "i": 304,
+      "from": 69554,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "I mean, the bacteria ending is a massive textbook DSX"
+    },
+    {
+      "fp": "1i1fw2y",
+      "i": 305,
+      "from": 69677,
+      "subject": "wallet",
+      "entities": [],
+      "concept": "wallet",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "wallet, 1895"
+      },
+      "antidote": {
+        "concept": "wallet",
+        "cast": []
+      },
+      "_said": "DSX Machina. Literally, a god from the machine and unexpected unearned power swooping in to save a hopeless situation."
+    },
+    {
+      "fp": "us8i91",
+      "i": 306,
+      "from": 69950,
+      "subject": "Wells and Martians — notes",
+      "entities": [
+        "wells",
+        "martians"
+      ],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Wells and Martians, write himself into a corner where the martian, 1895"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": [
+          "wells",
+          "martians"
+        ]
+      },
+      "_said": "Did Wells just write himself into a corner where the Martians were too powerful and he had to pull this out of a hat"
+    },
+    {
+      "fp": "ww6sz",
+      "i": 307,
+      "from": 70113,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "hat to let humanity survive? That is a very valid critique and we have to be honest about it. Narratively, we are let off the hook without earning it. We were saved by the bell. Bu"
+    },
+    {
+      "fp": "483pd6",
+      "i": 308,
+      "from": 70389,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "notes, 1895"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": []
+      },
+      "_said": "it through the philosophical lens of Wells's background in biology, it's not lazy writing. You think it was always part of the I do."
+    },
+    {
+      "fp": "1b87ux8",
+      "i": 309,
+      "from": 70589,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "do. It's a very deliberate statement about the nature of imperialism and How so? Think"
+    },
+    {
+      "fp": "18xylcb",
+      "i": 310,
+      "from": 70776,
+      "subject": "Wells — trophy",
+      "entities": [
+        "wells"
+      ],
+      "concept": "trophy",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Wells, 1895"
+      },
+      "antidote": {
+        "concept": "trophy",
+        "cast": [
+          "wells"
+        ]
+      },
+      "_said": "Think about Wells's flirtation with social Darwinism and efficiency. By having the bacteria win, is Wells actually destroying the idea of imperialism, or is he just shifting"
+    },
+    {
+      "fp": "azcmq6",
+      "i": 311,
+      "from": 71047,
+      "subject": "ladder",
+      "entities": [],
+      "concept": "ladder",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "ladder, 1895"
+      },
+      "antidote": {
+        "concept": "ladder",
+        "cast": []
+      },
+      "_said": "shifting it? Wait, shifting it? He might not be saying that the logic of empire is wrong. He might just be swapping human colonial hierarchy for nature's biological hierarchy. Oh w"
+    },
+    {
+      "fp": "odhin",
+      "i": 312,
+      "from": 71441,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "it. Precisely. In the human hierarchy, Britain rules"
+    },
+    {
+      "fp": "vhggpb",
+      "i": 313,
+      "from": 71544,
+      "subject": "trophy",
+      "entities": [],
+      "concept": "trophy",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "trophy, 1895"
+      },
+      "antidote": {
+        "concept": "trophy",
+        "cast": []
+      },
+      "_said": "rules over Tasmania. In the Martian hierarchy, Mars rules over Britain. But in the true biological hierarchy of the universe, the microbes are the real imperialists. They conquer e"
+    },
+    {
+      "fp": "1oolym4",
+      "i": 314,
+      "from": 71942,
+      "subject": "Martians",
+      "entities": [
+        "martians"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Martians, 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "martians"
+        ]
+      },
+      "_said": "invaded the Martians. They colonized the Martian bloodstream. They extracted the resources and destroyed the host."
+    },
+    {
+      "fp": "1t4sio6",
+      "i": 315,
+      "from": 72110,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "host. That's incredible. The law of the jungle, the survival of the fittest, remains entirely intact and validated. The"
+    },
+    {
+      "fp": "1xgpca3",
+      "i": 316,
+      "from": 72331,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "The only difference is that the hyper intelligence and technology of"
+    },
+    {
+      "fp": "l6kzyj",
+      "i": 317,
+      "from": 72415,
+      "subject": "Martians",
+      "entities": [
+        "martians"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Martians, 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "martians"
+        ]
+      },
+      "_said": "of the Martians lost to the raw invisible biological adaptation of the germ. That is"
+    },
+    {
+      "fp": "1qpisg0",
+      "i": 318,
+      "from": 72612,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "is a staggering thought. The book doesn't say imperialism is morally wrong. It says you are not as good at imperialism as"
+    },
+    {
+      "fp": "1mt6hev",
+      "i": 319,
+      "from": 72816,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "as a single-sellled Right? It completely humbles human ego, but it doesn't necessarily validate human morality. Exactly. And if we reframe the entire story based"
+    },
+    {
+      "fp": "p32qum",
+      "i": 320,
+      "from": 73125,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "based on everything we've discussed today, the Tasmanian genocide, the failure of the white flag, the irrelevance"
+    },
+    {
+      "fp": "kubco2",
+      "i": 321,
+      "from": 73303,
+      "subject": "Thunderchild — war",
+      "entities": [
+        "thunderchild"
+      ],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Thunderchild, 1895"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": [
+          "thunderchild"
+        ]
+      },
+      "_said": "irrelevance of the Thunderchild, the collapse of the cur and the grandiosity of the artillery man. The real terror of the War of the Worlds isn't the towering No, it's not the alie"
+    },
+    {
+      "fp": "ynf2wc",
+      "i": 322,
+      "from": 73637,
+      "subject": "magnifier",
+      "entities": [],
+      "concept": "magnifier",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "magnifier, 1895"
+      },
+      "antidote": {
+        "concept": "magnifier",
+        "cast": []
+      },
+      "_said": "or the invisible heat ray. The real terror is the microscope pointed back at us. It is the chilling"
+    },
+    {
+      "fp": "1izi2v6",
+      "i": 323,
+      "from": 73792,
+      "subject": "crash",
+      "entities": [],
+      "concept": "crash",
+      "place": "highway",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "crash, highway, 1895"
+      },
+      "antidote": {
+        "concept": "crash",
+        "set": "highway",
+        "cast": []
+      },
+      "_said": "chilling existential realization that being the superior species is just a temporary accident of evolution. It is not a permanent throne."
+    },
+    {
+      "fp": "kq1r5",
+      "i": 324,
+      "from": 74057,
+      "subject": "Martians",
+      "entities": [
+        "martians"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Martians, 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "martians"
+        ]
+      },
+      "_said": "throne. The Martians in many ways represent a possible future for humanity. A hyperefficient technologically supreme race that has discarded messy biology"
+    },
+    {
+      "fp": "ek335a",
+      "i": 325,
+      "from": 74347,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "biology and compassion in favor of cold logic and total domination. They are everything"
+    },
+    {
+      "fp": "zdv97d",
+      "i": 326,
+      "from": 74484,
+      "subject": "Wells",
+      "entities": [
+        "wells"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Wells, 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "wells"
+        ]
+      },
+      "_said": "everything the Victorian Empire was striving to be. They are exactly what the artillery men wanted us to become. They are what Wells himself, in his darker moments of frustration"
+    },
+    {
+      "fp": "1pjf2hx",
+      "i": 327,
+      "from": 74733,
+      "subject": "tree",
+      "entities": [],
+      "concept": "tree",
+      "place": "forest",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "tree, leaves us with this final lingering deeply pro, forest, 1895"
+      },
+      "antidote": {
+        "concept": "tree",
+        "set": "forest",
+        "cast": []
+      },
+      "_said": "frustration with Victorian inefficiency, thought we should become. Which leaves us with this final lingering deeply provocative thought. If"
+    },
+    {
+      "fp": "1aum45w",
+      "i": 328,
+      "from": 74976,
+      "subject": "Martians — trophy",
+      "entities": [
+        "martians"
+      ],
+      "concept": "trophy",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Martians, 1895"
+      },
+      "antidote": {
+        "concept": "trophy",
+        "cast": [
+          "martians"
+        ]
+      },
+      "_said": "If the Martians with their giant pulsing brains, their atrophied bodies, their telepathy, and their total clinical reliance on technology to conquer nature, if"
+    },
+    {
+      "fp": "14irea7",
+      "i": 329,
+      "from": 75261,
+      "subject": "grave",
+      "entities": [],
+      "concept": "grave",
+      "place": "forest",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "grave, forest, 1895"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": "forest",
+        "cast": []
+      },
+      "_said": "if they represent what humanity is biologically and sociologically evolving into thousands of centuries from now, then by cheering for their death by earthly"
+    },
+    {
+      "fp": "b9of3q",
+      "i": 330,
+      "from": 75535,
+      "subject": "grave",
+      "entities": [],
+      "concept": "grave",
+      "place": "forest",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "grave, forest, 1895"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": "forest",
+        "cast": []
+      },
+      "_said": "earthly bacteria, are we actually cheering for the death of our own ultimate logical form? We might be."
+    },
+    {
+      "fp": "1tg461b",
+      "i": 331,
+      "from": 75710,
+      "subject": "magnifier",
+      "entities": [],
+      "concept": "magnifier",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "magnifier, 1895"
+      },
+      "antidote": {
+        "concept": "magnifier",
+        "cast": []
+      },
+      "_said": "be. Are we celebrating the destruction of the exact thing we are destined to It's a very unsettling question. That is something for you to mull over the next time you look through "
+    },
+    {
+      "fp": "1d024tm",
+      "i": 332,
+      "from": 76049,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1895"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "empty. Keep exploring, keep questioning, and remember that we are all just swimming in the exact same drop of pond water. See you on the next deep dive."
+    }
+  ]
+}

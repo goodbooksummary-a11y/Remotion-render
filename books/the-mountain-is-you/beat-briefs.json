@@ -1,0 +1,6464 @@
+{
+  "slug": "the-mountain-is-you",
+  "authored": false,
+  "briefs": [
+    {
+      "fp": "11azu3v",
+      "i": 0,
+      "from": 0,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "So, picture this. It is um 11 p.m. on a And"
+    },
+    {
+      "fp": "1rjwsba",
+      "i": 1,
+      "from": 245,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "And you have been planning this romantic"
+    },
+    {
+      "fp": "1iab0a5",
+      "i": 2,
+      "from": 314,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "romantic weekend getaway with your partner for like six solid months, right? The dates are blocked off. Everything is set. Exactly."
+    },
+    {
+      "fp": "ugix9p",
+      "i": 3,
+      "from": 537,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "sitting by the front door, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Exactly. The Airbnb is booked. Your bags are literally sitting by the front door. The dog sitter is confirmed. You are leaving first thing Friday morning for the"
+    },
+    {
+      "fp": "1fj7ks2",
+      "i": 4,
+      "from": 792,
+      "subject": "home",
+      "entities": [],
+      "concept": "home",
+      "place": "kitchen",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "home, walk into the kitchen, kitchen, 1995"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": "kitchen",
+        "cast": []
+      },
+      "_said": "the most relaxing, connected weekend you've had in years. Sounds perfect, right? But then at 11:05 p.m., you walk into the kitchen, you look at the dishwasher, and you pick the mos"
+    },
+    {
+      "fp": "4tdzfx",
+      "i": 5,
+      "from": 1202,
+      "subject": "fire",
+      "entities": [],
+      "concept": "fire",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "fire, sit with that question long enough, 1995"
+      },
+      "antidote": {
+        "concept": "fire",
+        "cast": []
+      },
+      "_said": "over the dishes, over how the plates are loaded, and you just burn the entire weekend to the ground right before the good thing is supposed to happen. Yeah, it happens all the time"
+    },
+    {
+      "fp": "tol7c5",
+      "i": 6,
+      "from": 1658,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "is that your brain is just violently terrified of"
+    },
+    {
+      "fp": "dgo51p",
+      "i": 7,
+      "from": 1718,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "of being happy. It is an incredibly hard reality to digest. I mean, we spend so much of our lives looking outward for the source of our friction, you know. Oh, for sure. We blame"
+    },
+    {
+      "fp": "x45bps",
+      "i": 8,
+      "from": 2004,
+      "subject": "funnelMetrics",
+      "entities": [],
+      "concept": "funnelMetrics",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "funnel metrics, standing between you and the life you w, 1995"
+      },
+      "antidote": {
+        "concept": "funnelMetrics",
+        "set": null,
+        "cast": []
+      },
+      "_said": "blame the economy. We blame our upbringing. We blame our partners, uh, our bosses, the traffic. But when you strip all of that away, the primary obstacle standing between you and t"
+    },
+    {
+      "fp": "1hphu0i",
+      "i": 9,
+      "from": 2433,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "your own mind. And that's exactly why we built this deep dive for you today because you guys asked us how to break out of these invisible loops. So, we're diving into"
+    },
+    {
+      "fp": "1lwpxb",
+      "i": 10,
+      "from": 2709,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "into the framework from the source material we've been reviewing. And um there's this central metaphor that I just haven't been able to stop thinking about."
+    },
+    {
+      "fp": "9am5ur",
+      "i": 11,
+      "from": 2928,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "about. A mountain metaphor. Yes. If you look at how a literal geological mountain is formed, it happens when two separate massive sections of the Earth's crust,"
+    },
+    {
+      "fp": "cisaps",
+      "i": 12,
+      "from": 3218,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "crust, two tectonic plates are forced against one Right? They just collide. or they collide. And because neither plate will yield, that intense,"
+    },
+    {
+      "fp": "1hx5ae3",
+      "i": 13,
+      "from": 3439,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "intense, unrelenting pressure has absolutely nowhere to go but upward. The ground buckles and rises, creating this immovable monolith. And"
+    },
+    {
+      "fp": "15pk0s",
+      "i": 14,
+      "from": 3660,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "And your personal obstacle, the thing blocking your path in life, is formed the exact same way. Just this internal"
+    },
+    {
+      "fp": "1dgk82g",
+      "i": 15,
+      "from": 3792,
+      "subject": "crash",
+      "entities": [],
+      "concept": "crash",
+      "place": "highway",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "crash, highway, 1995"
+      },
+      "antidote": {
+        "concept": "crash",
+        "set": "highway",
+        "cast": []
+      },
+      "_said": "internal friction. Exactly. It is a collision of coexisting but fundamentally"
+    },
+    {
+      "fp": "3fjnul",
+      "i": 16,
+      "from": 3924,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "fundamentally conflicting needs within your own psyche. So you have a conscious mind that desperately wants to feel loved, to be successful, to be right?"
+    },
+    {
+      "fp": "g0ibu6",
+      "i": 17,
+      "from": 4181,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "But colliding directly into that is your unconscious mind which is harboring a completely different set of mandates. And those mandates are usually centered around well"
+    },
+    {
+      "fp": "1debvcb",
+      "i": 18,
+      "from": 4440,
+      "subject": "shield",
+      "entities": [],
+      "concept": "shield",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "shield, 1995"
+      },
+      "antidote": {
+        "concept": "shield",
+        "cast": []
+      },
+      "_said": "well self-p protection, fear of the unknown, or a terror of So, you create the mountain out of your own internal friction."
+    },
+    {
+      "fp": "1jvvth9",
+      "i": 19,
+      "from": 4687,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "read that line and the source material, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "friction. The obstacle isn't out there in the world. You are the mountain. Okay. I have to stop you there because when I first read that line and the source material, you are the m"
+    },
+    {
+      "fp": "11scrxu",
+      "i": 20,
+      "from": 4965,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "admit my immediate reaction was Really? Anger? Yes, I felt this very visceral defensive push back because I mean I look at the state of the world. I look at the very real tangible "
+    },
+    {
+      "fp": "o9x5fc",
+      "i": 21,
+      "from": 5376,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "read a phrase like you, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "face. Generational poverty, structural inequality, abusive power dynamics at work. Those are very real things. They are. And then I read a phrase like you"
+    },
+    {
+      "fp": "1xbludy",
+      "i": 22,
+      "from": 5606,
+      "subject": "water",
+      "entities": [],
+      "concept": "water",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "water, 1995"
+      },
+      "antidote": {
+        "concept": "water",
+        "set": null,
+        "cast": []
+      },
+      "_said": "you are the mountain or you are the reason you're failing. And to me that sounds dangerously close to victim I hear that. I completely get why you'd feel that way. It just feels li"
+    },
+    {
+      "fp": "1cntmxr",
+      "i": 23,
+      "from": 6151,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "boulder of guilt onto their chest. Like telling someone, \"Oh, you're struggling to pay rent. Well, it's"
+    },
+    {
+      "fp": "kgbmx3",
+      "i": 24,
+      "from": 6285,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "it's your own fault.\" I really struggled to get past that. Well, I am honestly so glad you brought up that anger because skipping over that resistance really does a disservice to t"
+    },
+    {
+      "fp": "1su9334",
+      "i": 25,
+      "from": 6583,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "framework. That defensiveness is just the mind's immune system kicking Okay. Okay. But we have to surgically separate two concepts that society constantly conflates which"
+    },
+    {
+      "fp": "m8agpw",
+      "i": 26,
+      "from": 6852,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "which are fault and responsibility. They are not synonyms. How so?"
+    },
+    {
+      "fp": "1klxeh6",
+      "i": 27,
+      "from": 6981,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "so? Well, fault is entirely backward-looking. Fault is an investigation into who caused the damage, who dropped the ball,"
+    },
+    {
+      "fp": "abdvjg",
+      "i": 28,
+      "from": 7161,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "ball, who inflicted the trauma. And you are entirely correct. Many of the circumstances we navigate are categorically not our fault."
+    },
+    {
+      "fp": "chrxg3",
+      "i": 29,
+      "from": 7382,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "fault. We don't choose our childhoods. We don't choose the macroeconomic climate. You don't choose the betrayals we suffer. Exactly."
+    },
+    {
+      "fp": "du94r3",
+      "i": 30,
+      "from": 7591,
+      "subject": "lightbulb",
+      "entities": [],
+      "concept": "lightbulb",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "lightbulb, 1995"
+      },
+      "antidote": {
+        "concept": "lightbulb",
+        "cast": []
+      },
+      "_said": "Exactly. But responsibility is forward-looking. Responsibility asks regardless of who broke this, who possesses the power to fix it. if we cling to the idea that"
+    },
+    {
+      "fp": "wzfjg5",
+      "i": 31,
+      "from": 7869,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "sitting around waiting for the world to come ap, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "that the world built the mountain, we are inherently declaring ourselves powerless. We are just sitting around waiting for the world to come apologize"
+    },
+    {
+      "fp": "m4k1kc",
+      "i": 32,
+      "from": 8071,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "apologize and dismantle it for us. And the world rarely does that. Exactly. But if you recognize that your reaction to the trauma, your coping mechanisms, your subsequent choices b"
+    },
+    {
+      "fp": "10pqgb7",
+      "i": 33,
+      "from": 8412,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "actually accessing the most empowering realization available to a human being."
+    },
+    {
+      "fp": "17ah98d",
+      "i": 34,
+      "from": 8541,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "being. Because if my internal conflict built it, I have the tools to deconstruct it. Yes, it is a terrifying shift in perspective because it totally removes your alibi, but"
+    },
+    {
+      "fp": "okyp2e",
+      "i": 35,
+      "from": 8800,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "holding the power, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "but it restores your agency. removing the alibi. That is wow that's heavy. But it completely reframes the concept of self-sabotage because if I am holding the power,"
+    },
+    {
+      "fp": "ny379f",
+      "i": 36,
+      "from": 9065,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, 1995"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "power, the immediate agonizing question is like why on earth am I using my own power to blow up my own life, right? Why pick the fight at 11 p.m.? Yes. And"
+    },
+    {
+      "fp": "1yzoq6x",
+      "i": 37,
+      "from": 9312,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "And the counterintuitive turn here, the thing that shifts this from a conversation about willpower into a conversation about biology is realizing"
+    },
+    {
+      "fp": "1a3bq8l",
+      "i": 38,
+      "from": 9535,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "realizing that self-sabotage is not a character No, not at all. It's not a moral failing. It isn't happening because you secretly hate yourself or because you're weak or lazy. It i"
+    },
+    {
+      "fp": "52jng3",
+      "i": 39,
+      "from": 9856,
+      "subject": "laptopMockup",
+      "entities": [],
+      "concept": "laptopMockup",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "laptop mockup, 1995"
+      },
+      "antidote": {
+        "concept": "laptopMockup",
+        "set": null,
+        "cast": []
+      },
+      "_said": "highly intelligent, exquisitly designed protective We constantly view our self-defeating behaviors as bugs in the system, like a computer virus. But they are actually the operating"
+    },
+    {
+      "fp": "n0dv9d",
+      "i": 40,
+      "from": 10245,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "system functioning exactly as it was programmed to function. Wait, really? Yeah."
+    },
+    {
+      "fp": "19rsur0",
+      "i": 41,
+      "from": 10373,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Yeah. Because the brain did not evolve to make you happy, fulfilled, or self-actualized. The brain evolved to keep you alive."
+    },
+    {
+      "fp": "1kyahch",
+      "i": 42,
+      "from": 10550,
+      "subject": "shadowSelf",
+      "entities": [],
+      "concept": "shadowSelf",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "shadow self, 1995"
+      },
+      "antidote": {
+        "concept": "shadowSelf",
+        "cast": []
+      },
+      "_said": "alive. Full stop. To the primitive parts of your nervous system, survival is the only metric of success. I want to really test this, though. I want to steal man the logic of the su"
+    },
+    {
+      "fp": "1jn58qh",
+      "i": 43,
+      "from": 10824,
+      "subject": "Daniel — phone",
+      "entities": [
+        "daniel"
+      ],
+      "concept": "phone",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Daniel, 1995"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": null,
+        "cast": [
+          "daniel"
+        ]
+      },
+      "_said": "mind. Let's look at the scenario of the 11 p.m. fight. Let's do it. Let's call the guy fighting over the dishwasher, Daniel. From the outside,"
+    },
+    {
+      "fp": "1bzl670",
+      "i": 44,
+      "from": 11035,
+      "subject": "Daniel — shadowSelf",
+      "entities": [
+        "daniel"
+      ],
+      "concept": "shadowSelf",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Daniel, 1995"
+      },
+      "antidote": {
+        "concept": "shadowSelf",
+        "cast": [
+          "daniel"
+        ]
+      },
+      "_said": "outside, Daniel looks completely unhinged. He looks like a guy just destroying his own happiness for fun. Defend Daniel's brain to me. Why is his sabotage actually brilliant? Okay."
+    },
+    {
+      "fp": "lu0jd1",
+      "i": 45,
+      "from": 11536,
+      "subject": "Daniel — shield",
+      "entities": [
+        "daniel"
+      ],
+      "concept": "shield",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Daniel, 1995"
+      },
+      "antidote": {
+        "concept": "shield",
+        "cast": [
+          "daniel"
+        ]
+      },
+      "_said": "which is that safety equals the Safety is a familiar, right? And it does not matter if the familiar is miserable, chaotic, or painful. If Daniel survived it yesterday, the brain ca"
+    },
+    {
+      "fp": "f3dufc",
+      "i": 46,
+      "from": 12163,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "represents the unknown. And neurologically the unknown is a threat. Exactly."
+    },
+    {
+      "fp": "1n7occ3",
+      "i": 47,
+      "from": 12269,
+      "subject": "Daniel — alarmClock",
+      "entities": [
+        "daniel"
+      ],
+      "concept": "alarmClock",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Daniel, 1995"
+      },
+      "antidote": {
+        "concept": "alarmClock",
+        "set": null,
+        "cast": [
+          "daniel"
+        ]
+      },
+      "_said": "It is uncharted territory where predators might hide. It represents a total loss of control. So Daniel is packing his bags for a weekend of unprecedented intimacy. The temperature "
+    },
+    {
+      "fp": "61771q",
+      "i": 48,
+      "from": 12907,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "brain screams, \"Warning! You have no survival protocols for this level of vulnerability. go back to the familiar. So Daniel's brain initiates"
+    },
+    {
+      "fp": "az8pgs",
+      "i": 49,
+      "from": 13147,
+      "subject": "Daniel — war",
+      "entities": [
+        "daniel"
+      ],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Daniel, 1995"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": [
+          "daniel"
+        ]
+      },
+      "_said": "initiates a tactical It manufactures the anger. Yep. It fixates on the dishwasher. He picks a fight. The weekend is ruined. Daniel is miserable. His partner is weeping. But to Dani"
+    },
+    {
+      "fp": "1dyb3lf",
+      "i": 50,
+      "from": 13524,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, 1995"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "mission accomplished. The threat of the unknown has been neutralized. He is back in the familiar misery of a fight where he knows"
+    },
+    {
+      "fp": "a19ba7",
+      "i": 51,
+      "from": 13752,
+      "subject": "shield",
+      "entities": [],
+      "concept": "shield",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "shield, 1995"
+      },
+      "antidote": {
+        "concept": "shield",
+        "cast": []
+      },
+      "_said": "knows the script. He knows his role. And he is totally safe from"
+    },
+    {
+      "fp": "pb5tmm",
+      "i": 52,
+      "from": 13852,
+      "subject": "codeWindow",
+      "entities": [],
+      "concept": "codeWindow",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "code window, reading through the historical case studies, 1995"
+      },
+      "antidote": {
+        "concept": "codeWindow",
+        "set": null,
+        "cast": []
+      },
+      "_said": "from the terrifying unpredictability of actual joy. That is insane. I was reading through the historical case studies in our source stack. Yeah. And there's"
+    },
+    {
+      "fp": "1w08ho8",
+      "i": 53,
+      "from": 14069,
+      "subject": "Young — heart",
+      "entities": [
+        "young"
+      ],
+      "concept": "heart",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Young, 1995"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": null,
+        "cast": [
+          "young"
+        ]
+      },
+      "_said": "there's a brilliant documented example of this mechanism from Carl Young. Oh, I love this story. It's wild. When Young was a young boy, he was around 12 years old. He"
+    },
+    {
+      "fp": "v7jefb",
+      "i": 54,
+      "from": 14313,
+      "subject": "school",
+      "entities": [],
+      "concept": "school",
+      "place": "classroom",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "school, classroom, 1995"
+      },
+      "antidote": {
+        "concept": "school",
+        "set": "classroom",
+        "cast": []
+      },
+      "_said": "He was intensely unhappy at school. He was bullied. He felt utterly alienated. And just the daily experience of attending classes was a source of profound"
+    },
+    {
+      "fp": "yola07",
+      "i": 55,
+      "from": 14549,
+      "subject": "ledge",
+      "entities": [],
+      "concept": "ledge",
+      "place": "classroom",
+      "confidence": 0.6,
+      "vox": {
+        "shot": "ledge, classroom, 1995"
+      },
+      "antidote": {
+        "concept": "ledge",
+        "set": "classroom",
+        "cast": []
+      },
+      "_said": "profound emotional distress for him. It was awful for him. Right? So one day he was in the schoolyard and he was shoved or he tripped and he fell hitting his head"
+    },
+    {
+      "fp": "1a3q1jk",
+      "i": 56,
+      "from": 14829,
+      "subject": "Young — school",
+      "entities": [
+        "young"
+      ],
+      "concept": "school",
+      "place": "classroom",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Young, classroom, 1995"
+      },
+      "antidote": {
+        "concept": "school",
+        "set": "classroom",
+        "cast": [
+          "young"
+        ]
+      },
+      "_said": "head on the ground. It wasn't a catastrophic injury, but in that split second of impact, the thought that instantly flashed through his young mind was, \"Yes, maybe I won't have to "
+    },
+    {
+      "fp": "odqpzj",
+      "i": 57,
+      "from": 15160,
+      "subject": "chains",
+      "entities": [],
+      "concept": "chains",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "chains, 1995"
+      },
+      "antidote": {
+        "concept": "chains",
+        "cast": []
+      },
+      "_said": "pure, innocent, desperate logic of a child seeking an escape hatch."
+    },
+    {
+      "fp": "1vx8e32",
+      "i": 58,
+      "from": 15307,
+      "subject": "Young",
+      "entities": [
+        "young"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Young, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "young"
+        ]
+      },
+      "_said": "hatch. But the fallout from that thought is what makes this so crazy. Shortly after that fall, Young"
+    },
+    {
+      "fp": "1rn9wq3",
+      "i": 59,
+      "from": 15472,
+      "subject": "Young",
+      "entities": [
+        "young"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Young, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "young"
+        ]
+      },
+      "_said": "Young began experiencing these intense, completely uncontrollable fainting spells every single time he tried to return to his studies or walk"
+    },
+    {
+      "fp": "axdirj",
+      "i": 60,
+      "from": 15691,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "walk to the schoolhouse, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "walk to the schoolhouse. His mind literally manufactured a physical illness. Exactly. What he later"
+    },
+    {
+      "fp": "v34pp5",
+      "i": 61,
+      "from": 15849,
+      "subject": "school",
+      "entities": [],
+      "concept": "school",
+      "place": "classroom",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "school, classroom, 1995"
+      },
+      "antidote": {
+        "concept": "school",
+        "set": "classroom",
+        "cast": []
+      },
+      "_said": "later identified as a neurosis, it was a substitute for what he deemed the legitimate suffering of attending school. Now, he wasn't consciously faking it. He wasn't acting. The fai"
+    },
+    {
+      "fp": "6ken82",
+      "i": 62,
+      "from": 16173,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "his His unconscious mind recognized a simple formula."
+    },
+    {
+      "fp": "eblrqg",
+      "i": 63,
+      "from": 16260,
+      "subject": "school",
+      "entities": [],
+      "concept": "school",
+      "place": "classroom",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "school, classroom, 1995"
+      },
+      "antidote": {
+        "concept": "school",
+        "set": "classroom",
+        "cast": []
+      },
+      "_said": "formula. School equals unbearable emotional pain. Fainting equals staying home in a quiet room where it is safe. So his highly"
+    },
+    {
+      "fp": "z2go2u",
+      "i": 64,
+      "from": 16502,
+      "subject": "rocketLaunch",
+      "entities": [],
+      "concept": "rocketLaunch",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "rocket launch, 1995"
+      },
+      "antidote": {
+        "concept": "rocketLaunch",
+        "set": null,
+        "cast": []
+      },
+      "_said": "highly intelligent, fiercely protective nervous system found a backdoor way to save him from the discomfort."
+    },
+    {
+      "fp": "p1ve8v",
+      "i": 65,
+      "from": 16685,
+      "subject": "shield",
+      "entities": [],
+      "concept": "shield",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "shield, 1995"
+      },
+      "antidote": {
+        "concept": "shield",
+        "cast": []
+      },
+      "_said": "It sacrificed his physical health to protect his emotional safety. It's brilliant in a"
+    },
+    {
+      "fp": "ifvv8c",
+      "i": 66,
+      "from": 16826,
+      "subject": "Young",
+      "entities": [
+        "young"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Young, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "young"
+        ]
+      },
+      "_said": "a very twisted way. It took Young months of deep selfanalysis to realize he was unconsciously orchestrating his own illness. And only when"
+    },
+    {
+      "fp": "1d5ja9h",
+      "i": 67,
+      "from": 17083,
+      "subject": "school",
+      "entities": [],
+      "concept": "school",
+      "place": "classroom",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "school, classroom, 1995"
+      },
+      "antidote": {
+        "concept": "school",
+        "set": "classroom",
+        "cast": []
+      },
+      "_said": "when he confronted the fear of school did the fainting magically vanish. That mechanism, the mind's ability to pull"
+    },
+    {
+      "fp": "ps07hf",
+      "i": 68,
+      "from": 17261,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "notes, 1995"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": []
+      },
+      "_said": "pull the emergency break when we approach something it deems threatening, is universal. Gay Hendricks wrote extensively about this under the term the upper limit. The upper limit. "
+    },
+    {
+      "fp": "9sl5wh",
+      "i": 69,
+      "from": 17618,
+      "subject": "heart",
+      "entities": [],
+      "concept": "heart",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "heart, 1995"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": null,
+        "cast": []
+      },
+      "_said": "internal thermostat for how much positive emotion, success, or love they can tolerate. This baseline isn't set by our conscious ambitions. It is usually hardwired into"
+    },
+    {
+      "fp": "1xfax6x",
+      "i": 70,
+      "from": 17885,
+      "subject": "home",
+      "entities": [],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "home, 1995"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": []
+      },
+      "_said": "into our nervous system during childhood. So, it's like setting the central air conditioning in a house to Perfect analogy. Yes. If you grew up in an environment"
+    },
+    {
+      "fp": "1mv5znu",
+      "i": 71,
+      "from": 18141,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "environment where praise was rare or where moments of peace"
+    },
+    {
+      "fp": "pbz3yn",
+      "i": 72,
+      "from": 18223,
+      "subject": "crack",
+      "entities": [],
+      "concept": "crack",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "crack, 1995"
+      },
+      "antidote": {
+        "concept": "crack",
+        "cast": []
+      },
+      "_said": "peace were inevitably shattered by a parent's sudden rage, your thermostat might be set at a cool 65°"
+    },
+    {
+      "fp": "1uyjcme",
+      "i": 73,
+      "from": 18432,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "65° of ambient anxiety because you learn that 65° is the baseline of survival. All right. Fast forward 30 years. You get an amazing"
+    },
+    {
+      "fp": "1ud13pu",
+      "i": 74,
+      "from": 18667,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "amazing promotion. You find a healthy partner. Your health is great. The temperature in your life rises to 75 degrees. Your conscious"
+    },
+    {
+      "fp": "15frhnc",
+      "i": 75,
+      "from": 18902,
+      "subject": "alarmClock",
+      "entities": [],
+      "concept": "alarmClock",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "alarm clock, 1995"
+      },
+      "antidote": {
+        "concept": "alarmClock",
+        "set": null,
+        "cast": []
+      },
+      "_said": "conscious mind is absolutely thrilled, but your subconscious mind starts sweating. It registers that 75° as a massive anomaly, a threat. The upper limit alarm trips and"
+    },
+    {
+      "fp": "1f1589m",
+      "i": 76,
+      "from": 19216,
+      "subject": "shadowSelf",
+      "entities": [],
+      "concept": "shadowSelf",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "shadow self, 1995"
+      },
+      "antidote": {
+        "concept": "shadowSelf",
+        "cast": []
+      },
+      "_said": "and the subconscious immediately kicks on the air conditioning, the self-sabotage to cool the room back down. You drink too much"
+    },
+    {
+      "fp": "12gfgba",
+      "i": 77,
+      "from": 19373,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "much at the company party. You ghost the healthy partner. You stop going to the"
+    },
+    {
+      "fp": "1j5rq1b",
+      "i": 78,
+      "from": 19485,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "reads the sigh of relief, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "the The temperature plummets back to 65 and your nervous system reads the sigh of relief. You are devastated consciously but"
+    },
+    {
+      "fp": "mnlwvu",
+      "i": 79,
+      "from": 19694,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "but biologically. You're comfortable. Which fundamentally alters how we should look at our bad habits. Because if self-sabotage is just the thermostat kicking on to cool the room, "
+    },
+    {
+      "fp": "wdp0f1",
+      "i": 80,
+      "from": 20112,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "figure out why the thermostat is set to 65 in the first place."
+    },
+    {
+      "fp": "1v9z8v8",
+      "i": 81,
+      "from": 20205,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "place. Exactly. That shifts us into the core thesis of this entire deep dive, which is that every single"
+    },
+    {
+      "fp": "dz7dmt",
+      "i": 82,
+      "from": 20405,
+      "subject": "mask",
+      "entities": [],
+      "concept": "mask",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "mask, 1995"
+      },
+      "antidote": {
+        "concept": "mask",
+        "cast": []
+      },
+      "_said": "single self-defeating behavior you engage in is actually an unmet need in disguise. Your worst habit is"
+    },
+    {
+      "fp": "n7dfd8",
+      "i": 83,
+      "from": 20587,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "is just a maladaptive coping mechanism. It is a backdoor"
+    },
+    {
+      "fp": "8q1q0i",
+      "i": 84,
+      "from": 20673,
+      "subject": "gift",
+      "entities": [],
+      "concept": "gift",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "gift, 1995"
+      },
+      "antidote": {
+        "concept": "gift",
+        "cast": []
+      },
+      "_said": "backdoor strategy for giving yourself what you desperately need without having to consciously face the terrifying"
+    },
+    {
+      "fp": "1mli1ue",
+      "i": 85,
+      "from": 20853,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "run this through, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "terrifying vulnerability of asking for It requires us to become detectives of our own lives. we have to stop judging the symptom and start interrogating it to find the cure. I want"
+    },
+    {
+      "fp": "2k2ybd",
+      "i": 86,
+      "from": 21146,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone, 1995"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": null,
+        "cast": []
+      },
+      "_said": "a process. Let's call it the depth engine. We need to ask why three times to drill past the surface behavior and hit the bedrock of the unmet need."
+    },
+    {
+      "fp": "m50ypg",
+      "i": 87,
+      "from": 21401,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, 1995"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "need. Okay, let's do the three W's. First layer, why does the mind protect us using a back door? Like, why can't we just consciously recognize what we need and pursue it directly? "
+    },
+    {
+      "fp": "1fn9rg2",
+      "i": 88,
+      "from": 22094,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "level of vulnerability for a disregulated nervous system. Think about it. If your core fundamental need is to feel loved and accepted, stating that need out loud exposes you to the"
+    },
+    {
+      "fp": "uv3dxp",
+      "i": 89,
+      "from": 22598,
+      "subject": "heart",
+      "entities": [],
+      "concept": "heart",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "heart, 1995"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": null,
+        "cast": []
+      },
+      "_said": "know you love me,\" the other person might look at you and say, \"I don't.\" And that"
+    },
+    {
+      "fp": "1n21r81",
+      "i": 90,
+      "from": 22685,
+      "subject": "shadowSelf",
+      "entities": [],
+      "concept": "shadowSelf",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "shadow self, runs a risk assessment and decides it is far, 1995"
+      },
+      "antidote": {
+        "concept": "shadowSelf",
+        "cast": []
+      },
+      "_said": "that would destroy you. So, the subconscious runs a risk assessment and decides it is far safer to engineer a situation where you are rejected on your own terms. If you pick a scre"
+    },
+    {
+      "fp": "3sacmy",
+      "i": 91,
+      "from": 23102,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "control the narrative. You were rejected because you were acting like a jerk about the dishes, not because you are fundamentally unlovable. Exactly. The backdoor"
+    },
+    {
+      "fp": "1mhxoee",
+      "i": 92,
+      "from": 23308,
+      "subject": "shield",
+      "entities": [],
+      "concept": "shield",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "shield, 1995"
+      },
+      "antidote": {
+        "concept": "shield",
+        "cast": []
+      },
+      "_said": "backdoor protection preserves your core identity. That is tragic, but mathematically brilliant. Which leads to the second layer of the depth engine. I was reviewing the source note"
+    },
+    {
+      "fp": "br55o6",
+      "i": 93,
+      "from": 23714,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "toxy fear absolutely leveled me."
+    },
+    {
+      "fp": "194fbil",
+      "i": 94,
+      "from": 23781,
+      "subject": "car",
+      "entities": [],
+      "concept": "car",
+      "place": "highway",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "car, highway, 1995"
+      },
+      "antidote": {
+        "concept": "car",
+        "set": "highway",
+        "cast": []
+      },
+      "_said": "me. The proxy fear is huge. Let's say you develop a sudden paralyzing fear of being a passenger in a moving car. You start hyperventilating on the highway. You grip the door handle"
+    },
+    {
+      "fp": "1quqjjv",
+      "i": 95,
+      "from": 24105,
+      "subject": "road",
+      "entities": [],
+      "concept": "road",
+      "place": "highway",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "road, highway, 1995"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": "highway",
+        "cast": []
+      },
+      "_said": "anyone else driving. You dedicate all your energy to overcoming this fear of cars. You do breathing"
+    },
+    {
+      "fp": "6jui9p",
+      "i": 96,
+      "from": 24240,
+      "subject": "road",
+      "entities": [],
+      "concept": "road",
+      "place": "highway",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "road, highway, 1995"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": "highway",
+        "cast": []
+      },
+      "_said": "breathing exercises. You map out back roads. Right? But if you strip it back, the real fear has absolutely nothing to do with internal combustion engines or highway speeds. The"
+    },
+    {
+      "fp": "1yhujer",
+      "i": 97,
+      "from": 24518,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "The real foundational terror is a fear of moving forward in your life or a profound terror of losing control and having someone else steer"
+    },
+    {
+      "fp": "19eb925",
+      "i": 98,
+      "from": 24744,
+      "subject": "car",
+      "entities": [],
+      "concept": "car",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "car, 1995"
+      },
+      "antidote": {
+        "concept": "car",
+        "set": null,
+        "cast": []
+      },
+      "_said": "steer your destiny. The car is entirely symbolic. It is just a standin. But why does the mind do that? Why project the fear of life onto a Honda Because"
+    },
+    {
+      "fp": "1duy269",
+      "i": 99,
+      "from": 24991,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, 1995"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "Because the fear of life is too immense, too abstract, and too overwhelming to fight. You cannot put your hands around the fear of a wasted life. it will paralyze you. So"
+    },
+    {
+      "fp": "eixfjv",
+      "i": 100,
+      "from": 25253,
+      "subject": "shadowSelf",
+      "entities": [],
+      "concept": "shadowSelf",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "shadow self, 1995"
+      },
+      "antidote": {
+        "concept": "shadowSelf",
+        "cast": []
+      },
+      "_said": "the subconscious takes that massive unmanageable terror and shrinks it down projecting it onto a tangible finite"
+    },
+    {
+      "fp": "2ks6hs",
+      "i": 101,
+      "from": 25488,
+      "subject": "car",
+      "entities": [],
+      "concept": "car",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "car, 1995"
+      },
+      "antidote": {
+        "concept": "car",
+        "set": null,
+        "cast": []
+      },
+      "_said": "finite manageable object. A car, an elevator, a social gathering. Realistically, your subconscious knows you probably aren't going to die"
+    },
+    {
+      "fp": "198x30k",
+      "i": 102,
+      "from": 25759,
+      "subject": "car",
+      "entities": [],
+      "concept": "car",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "car, 1995"
+      },
+      "antidote": {
+        "concept": "car",
+        "set": null,
+        "cast": []
+      },
+      "_said": "die in that car. It is a relatively safe thing to panic about. You can exert control over whether you get in a car. You cannot exert control over the chaotic march of time. But the"
+    },
+    {
+      "fp": "1k9wwzs",
+      "i": 103,
+      "from": 26052,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "backfires spectacularly because you spend the next decade treating the proxy. You spend thousands of hours trying to heal a deep psychological"
+    },
+    {
+      "fp": "1l092ce",
+      "i": 104,
+      "from": 26273,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, sits quietly in the basement totally unresse, 1995"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "psychological laceration by putting a band-aid on the mirror reflection of the You are fighting a ghost while the real demon sits quietly in the basement totally unressed. So the t"
+    },
+    {
+      "fp": "1mp7fbn",
+      "i": 105,
+      "from": 26652,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "if the mechanics of proxy fears and upper limits are this logical, why is it so incredibly hard to see in ourselves? Why do we stay blind to our own proxies for"
+    },
+    {
+      "fp": "19d4j9d",
+      "i": 106,
+      "from": 26911,
+      "subject": "target",
+      "entities": [],
+      "concept": "target",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "target, 1995"
+      },
+      "antidote": {
+        "concept": "target",
+        "cast": []
+      },
+      "_said": "for Well, confirmation bias is a massive part of it. Our brains are not designed to seek the objective truth. They are designed to"
+    },
+    {
+      "fp": "mju20i",
+      "i": 107,
+      "from": 27127,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "to seek information that validates our pre-existing beliefs. Because changing a core belief requires a massive expenditure"
+    },
+    {
+      "fp": "1iye5rg",
+      "i": 108,
+      "from": 27324,
+      "subject": "wallet",
+      "entities": [],
+      "concept": "wallet",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "wallet, 1995"
+      },
+      "antidote": {
+        "concept": "wallet",
+        "cast": []
+      },
+      "_said": "expenditure of metabolic The brain is trying to save calories. Exactly. If you adopted a core belief in childhood that you"
+    },
+    {
+      "fp": "znxfge",
+      "i": 109,
+      "from": 27525,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone, 1995"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": null,
+        "cast": []
+      },
+      "_said": "you are a burden, your brain will act like a hypervigilant defense attorney, gathering evidence to prove that you are a burden. It will highlight every time a friend takes 3 hours "
+    },
+    {
+      "fp": "1frexve",
+      "i": 110,
+      "from": 27897,
+      "subject": "road",
+      "entities": [],
+      "concept": "road",
+      "place": "highway",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "road, highway, 1995"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": "highway",
+        "cast": []
+      },
+      "_said": "jury as proof, while completely ignoring the friend who drove across town to bring you soup when you were sick. And"
+    },
+    {
+      "fp": "1gvbcxk",
+      "i": 111,
+      "from": 28056,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "And beyond confirmation bias, these blind spots exist because the associations were programmed into us before we even"
+    },
+    {
+      "fp": "a7ksy",
+      "i": 112,
+      "from": 28253,
+      "subject": "heart",
+      "entities": [],
+      "concept": "heart",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "heart, 1995"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": null,
+        "cast": []
+      },
+      "_said": "had a prefrontal cortex capable of critical thought. Yes, you didn't rationally decide to associate love with chaos at age 4. It was simply the water you swam in."
+    },
+    {
+      "fp": "1fhzt9d",
+      "i": 113,
+      "from": 28528,
+      "subject": "home",
+      "entities": [],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "home, standing in the living room, 1995"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": []
+      },
+      "_said": "in. Those associations aren't just passing thoughts. They are the architectural foundation of how you perceive reality. You can't easily see the foundation of the house while you a"
+    },
+    {
+      "fp": "9qqlm",
+      "i": 114,
+      "from": 29208,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone, 1995"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": null,
+        "cast": []
+      },
+      "_said": "core needs. The theory is that your bad habit, your toxic pattern, what the book calls"
+    },
+    {
+      "fp": "wch334",
+      "i": 115,
+      "from": 29388,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone, 1995"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": null,
+        "cast": []
+      },
+      "_said": "calls your subconscious core commitment, is actually the mere opposite of what you truly need."
+    },
+    {
+      "fp": "vq961j",
+      "i": 116,
+      "from": 29553,
+      "subject": "game",
+      "entities": [],
+      "concept": "game",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "game, 1995"
+      },
+      "antidote": {
+        "concept": "game",
+        "set": null,
+        "cast": []
+      },
+      "_said": "need. Let's unpack this with an example. Okay, let's say you are the kind of person who constantly micromanages everything. You won't let your team handle"
+    },
+    {
+      "fp": "149y11i",
+      "i": 117,
+      "from": 29781,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "handle a presentation. You dictate how your spouse cuts the vegetables. You have to plan every minute of a vacation."
+    },
+    {
+      "fp": "1k8wwib",
+      "i": 118,
+      "from": 29954,
+      "subject": "shadowSelf",
+      "entities": [],
+      "concept": "shadowSelf",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "shadow self, 1995"
+      },
+      "antidote": {
+        "concept": "shadowSelf",
+        "cast": []
+      },
+      "_said": "vacation. Your subconscious core commitment there is to maintain absolute control. But your actual hidden core need. The thing that control is trying to mask."
+    },
+    {
+      "fp": "4xp5lz",
+      "i": 119,
+      "from": 30213,
+      "subject": "mask",
+      "entities": [],
+      "concept": "mask",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "mask, 1995"
+      },
+      "antidote": {
+        "concept": "mask",
+        "cast": []
+      },
+      "_said": "mask. It's trust. You fundamentally do not trust the universe. You don't trust other people and you don't trust yourself to"
+    },
+    {
+      "fp": "urjddd",
+      "i": 120,
+      "from": 30400,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "to handle unexpected outcomes. So you build a fortress of control to compensate for a total vacuum of trust. Or look at the chronic people pleaser, the person whose"
+    },
+    {
+      "fp": "1givztk",
+      "i": 121,
+      "from": 30693,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "whose core commitment is to constantly fix everyone around them. They are always the savior. They are drawn to broken people. They overextend their finances"
+    },
+    {
+      "fp": "1v6rtxw",
+      "i": 122,
+      "from": 30931,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "finances to help friends who won't help themselves. They offer unsolicited Their core commitment is to be needed, right? But their hidden unmet need. It is simply to feel"
+    },
+    {
+      "fp": "u5lmk4",
+      "i": 123,
+      "from": 31257,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "feel wanted. Somewhere along the line, they internalize the belief that they have no inherent value just for existing. They believe people will only tolerate them if they are So,"
+    },
+    {
+      "fp": "1dwsz8j",
+      "i": 124,
+      "from": 31588,
+      "subject": "shield",
+      "entities": [],
+      "concept": "shield",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "shield, 1995"
+      },
+      "antidote": {
+        "concept": "shield",
+        "cast": []
+      },
+      "_said": "So, they manufacture dependency to ensure they won't be abandoned. The fixing is a shield against the terror of being unvalued."
+    },
+    {
+      "fp": "1s4lvu4",
+      "i": 125,
+      "from": 31793,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "unvalued. It's heartbreaking, but it makes complete sense. Let's ground this even more. Let's take these abstract"
+    },
+    {
+      "fp": "l77uvr",
+      "i": 126,
+      "from": 31922,
+      "subject": "Daniel — war",
+      "entities": [
+        "daniel"
+      ],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Daniel, 1995"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": [
+          "daniel"
+        ]
+      },
+      "_said": "abstract architectural blueprints and build the actual houses people live in. We talked about Daniel and his dishwasher fight. His core commitment in that moment"
+    },
+    {
+      "fp": "1yc23ng",
+      "i": 127,
+      "from": 32150,
+      "subject": "shield",
+      "entities": [],
+      "concept": "shield",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "shield, 1995"
+      },
+      "antidote": {
+        "concept": "shield",
+        "cast": []
+      },
+      "_said": "moment was manufacturing anger. But his hidden need was safety from vulnerability. Right? I want to introduce another anchor point for us. Let's look at a woman"
+    },
+    {
+      "fp": "1wo727h",
+      "i": 128,
+      "from": 32388,
+      "subject": "Maya",
+      "entities": [
+        "maya"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Maya, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "maya"
+        ]
+      },
+      "_said": "woman named Maya. Maya is brilliant. She is driven, highly capable, and universally liked at"
+    },
+    {
+      "fp": "1ylxusc",
+      "i": 129,
+      "from": 32582,
+      "subject": "work",
+      "entities": [],
+      "concept": "work",
+      "place": "office",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "work, office, 1995"
+      },
+      "antidote": {
+        "concept": "work",
+        "set": "office",
+        "cast": []
+      },
+      "_said": "at her corporate office. She puts in the 80our a total high achiever."
+    },
+    {
+      "fp": "kt2yme",
+      "i": 130,
+      "from": 32719,
+      "subject": "Maya",
+      "entities": [
+        "maya"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Maya, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "maya"
+        ]
+      },
+      "_said": "achiever. But Maya has a distinct destructive pattern. Every time she gets a major"
+    },
+    {
+      "fp": "1b6y4fm",
+      "i": 131,
+      "from": 32880,
+      "subject": "alarmClock",
+      "entities": [],
+      "concept": "alarmClock",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "alarm clock, 1995"
+      },
+      "antidote": {
+        "concept": "alarmClock",
+        "set": null,
+        "cast": []
+      },
+      "_said": "major promotion, the exact promotion she has been agonizing over and striving toward a bizarre transformation occurs. Within a week of getting the new title, she suddenly starts sh"
+    },
+    {
+      "fp": "1psdtxh",
+      "i": 132,
+      "from": 33545,
+      "subject": "fire",
+      "entities": [],
+      "concept": "fire",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "fire, 1995"
+      },
+      "antidote": {
+        "concept": "fire",
+        "cast": []
+      },
+      "_said": "blaze of burnout or she gets quietly managed out of the company. Why? She ostensibly wants success. She works for it, but the second she gets it, the mountain rises. Because Maya's"
+    },
+    {
+      "fp": "1m8kg6e",
+      "i": 133,
+      "from": 33828,
+      "subject": "Maya — shadowSelf",
+      "entities": [
+        "maya"
+      ],
+      "concept": "shadowSelf",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Maya, 1995"
+      },
+      "antidote": {
+        "concept": "shadowSelf",
+        "cast": [
+          "maya"
+        ]
+      },
+      "_said": "Maya's conscious desire for success is violently colliding with her subconscious terror of visibility. Yeah. When Maya is"
+    },
+    {
+      "fp": "183lgg0",
+      "i": 134,
+      "from": 34053,
+      "subject": "work",
+      "entities": [],
+      "concept": "work",
+      "place": "office",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "work, office, 1995"
+      },
+      "antidote": {
+        "concept": "work",
+        "set": "office",
+        "cast": []
+      },
+      "_said": "is a mid-level employee grinding out 80our weeks, she is safe. She is praised for her work ethic, but she is essentially hitting"
+    },
+    {
+      "fp": "5udkp8",
+      "i": 135,
+      "from": 34303,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "hitting in the machinery. To succeed, to actually take the executive role means stepping out of the machinery and becoming visible. It"
+    },
+    {
+      "fp": "1e0awq",
+      "i": 136,
+      "from": 34557,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "It exposes her to the jealousy of her It brings the massive crushing"
+    },
+    {
+      "fp": "1b5qdmj",
+      "i": 137,
+      "from": 34680,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "crushing pressure of sustained expectation. What if she fails on the big stage? What if everyone realizes she is an impostor? Ah,"
+    },
+    {
+      "fp": "1ks8i9e",
+      "i": 138,
+      "from": 34917,
+      "subject": "shield",
+      "entities": [],
+      "concept": "shield",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "shield, 1995"
+      },
+      "antidote": {
+        "concept": "shield",
+        "cast": []
+      },
+      "_said": "Ah, the imposttor syndrome. If she stays in the middle, she is safe. So, by subconsciously dropping the ball right after"
+    },
+    {
+      "fp": "1uc6189",
+      "i": 139,
+      "from": 35085,
+      "subject": "chains",
+      "entities": [],
+      "concept": "chains",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "chains, 1995"
+      },
+      "antidote": {
+        "concept": "chains",
+        "cast": []
+      },
+      "_said": "after the promotion, she builds an escape hatch. She gets the dopamine hit of the validation. They chose her. She won the prize. But"
+    },
+    {
+      "fp": "1w91xq2",
+      "i": 140,
+      "from": 35287,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "But by sabotaging the execution, she ensures she never has to face the terrifying reality of maintaining that level of excellence."
+    },
+    {
+      "fp": "16p1b19",
+      "i": 141,
+      "from": 35472,
+      "subject": "shield",
+      "entities": [],
+      "concept": "shield",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "shield, 1995"
+      },
+      "antidote": {
+        "concept": "shield",
+        "cast": []
+      },
+      "_said": "excellence. Incompetence is a shield against And what's fascinating is that not all sabotage looks like incompetence."
+    },
+    {
+      "fp": "1pce5c0",
+      "i": 142,
+      "from": 35673,
+      "subject": "Marcus",
+      "entities": [
+        "marcus"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Marcus, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "marcus"
+        ]
+      },
+      "_said": "incompetence. Sometimes the mountain we build looks remarkably like a virtue. Let's look at a guy named Marcus. Marcus is the ultimate perfectionist. He is chronically, perpetually"
+    },
+    {
+      "fp": "1c9l44h",
+      "i": 143,
+      "from": 35978,
+      "subject": "Marcus",
+      "entities": [
+        "marcus"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Marcus, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "marcus"
+        ]
+      },
+      "_said": "applauds Marcus. We do. We look at him and say, \"Yeah, oh, he has such high standards."
+    },
+    {
+      "fp": "1jneg1d",
+      "i": 144,
+      "from": 36098,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "standards. He's so dedicated. Look at his hustle. It is the most socially acceptable, heavily rewarded form of self-sabotage in modern society. We practically hand out medals for i"
+    },
+    {
+      "fp": "191xxjb",
+      "i": 145,
+      "from": 36408,
+      "subject": "Marcus",
+      "entities": [
+        "marcus"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Marcus, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "marcus"
+        ]
+      },
+      "_said": "if we put Marcus under the depth engine, what is that chronic busyiness actually accomplishing for him? Well, does being perpetually"
+    },
+    {
+      "fp": "pfddn3",
+      "i": 146,
+      "from": 36614,
+      "subject": "gift",
+      "entities": [],
+      "concept": "gift",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "gift, 1995"
+      },
+      "antidote": {
+        "concept": "gift",
+        "cast": []
+      },
+      "_said": "perpetually overwhelmed make him feel a sense of self-importance that he otherwise lacks? Yes. Or does a jammed calendar give him an airtight,"
+    },
+    {
+      "fp": "1a0lis2",
+      "i": 147,
+      "from": 36861,
+      "subject": "heart",
+      "entities": [],
+      "concept": "heart",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "heart, sit quietly and process my grief over my fa, 1995"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": null,
+        "cast": []
+      },
+      "_said": "airtight, unassalable excuse to say no to things that actually require emotional vulnerability? Like, I'd love to go on a date, but I'm just so busy with this launch. Or, I'd love "
+    },
+    {
+      "fp": "1yneb7q",
+      "i": 148,
+      "from": 37262,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "but I have 400 unread emails."
+    },
+    {
+      "fp": "jcxrnx",
+      "i": 149,
+      "from": 37325,
+      "subject": "Marcus and Perfectionism — notes",
+      "entities": [
+        "marcus",
+        "perfectionism"
+      ],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Marcus and Perfectionism, writing a screenplay for six years, 1995"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": [
+          "marcus",
+          "perfectionism"
+        ]
+      },
+      "_said": "emails. Busyiness is a brilliant anesthetic. And the perfectionism. Let's say Marcus has been writing a screenplay for six years. He has revised the first act 80 times."
+    },
+    {
+      "fp": "dt8iew",
+      "i": 150,
+      "from": 37603,
+      "subject": "Perfectionism",
+      "entities": [
+        "perfectionism"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Perfectionism, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "perfectionism"
+        ]
+      },
+      "_said": "times. It's just never quite ready to show anyone. Perfectionism has absolutely nothing to do with having high standards."
+    },
+    {
+      "fp": "1pnzh0x",
+      "i": 151,
+      "from": 37766,
+      "subject": "Marcus and Perfectionism — heart",
+      "entities": [
+        "marcus",
+        "perfectionism"
+      ],
+      "concept": "heart",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Marcus and Perfectionism, 1995"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": null,
+        "cast": [
+          "marcus",
+          "perfectionism"
+        ]
+      },
+      "_said": "standards. Perfectionism is an emotional Kevlar Kevlar vest. I love that. Because if Marcus never finishes the screenplay because the dialogue isn't perfect yet, he never has to su"
+    },
+    {
+      "fp": "nf2d7c",
+      "i": 152,
+      "from": 38107,
+      "subject": "shield",
+      "entities": [],
+      "concept": "shield",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "shield, 1995"
+      },
+      "antidote": {
+        "concept": "shield",
+        "cast": []
+      },
+      "_said": "it to a producer, which means nobody can ever tell him it's terrible. He is protecting himself from the pain of external"
+    },
+    {
+      "fp": "hcyjf8",
+      "i": 153,
+      "from": 38287,
+      "subject": "shield",
+      "entities": [],
+      "concept": "shield",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "shield, 1995"
+      },
+      "antidote": {
+        "concept": "shield",
+        "cast": []
+      },
+      "_said": "external judgment by becoming his own harshest judge. He preempts the rejection. He stays safe in the cocoon of potential."
+    },
+    {
+      "fp": "1gzikgy",
+      "i": 154,
+      "from": 38532,
+      "subject": "law",
+      "entities": [],
+      "concept": "law",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "law, 1995"
+      },
+      "antidote": {
+        "concept": "law",
+        "set": null,
+        "cast": []
+      },
+      "_said": "potential. That preemptive strike mentality, judging yourself before the world can judge you, bleeds into how we view other people, too. The source material touched on a fascinatin"
+    },
+    {
+      "fp": "v3vgml",
+      "i": 155,
+      "from": 39086,
+      "subject": "coin",
+      "entities": [],
+      "concept": "coin",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "coin, 1995"
+      },
+      "antidote": {
+        "concept": "coin",
+        "cast": []
+      },
+      "_said": "household where money was tight and her parents constantly rationalized their financial struggle by demonizing right? Creating a narrative. They grew up listening to them say over "
+    },
+    {
+      "fp": "1mim49t",
+      "i": 156,
+      "from": 39425,
+      "subject": "coin",
+      "entities": [],
+      "concept": "coin",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "coin, 1995"
+      },
+      "antidote": {
+        "concept": "coin",
+        "cast": []
+      },
+      "_said": "a lot of money had to exploit someone to get it. Wealth corrupts your soul. We may be poor, but at least"
+    },
+    {
+      "fp": "movjvh",
+      "i": 157,
+      "from": 39552,
+      "subject": "coin",
+      "entities": [],
+      "concept": "coin",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "coin, 1995"
+      },
+      "antidote": {
+        "concept": "coin",
+        "cast": []
+      },
+      "_said": "least we're honest.\" So Elena internalizes a deep, immutable moral association. Money equals evil. Poverty equals virtue. Now Elena is 35 and she starts a brilliant consulting busi"
+    },
+    {
+      "fp": "1ot7qd3",
+      "i": 158,
+      "from": 40159,
+      "subject": "coin",
+      "entities": [],
+      "concept": "coin",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "coin, 1995"
+      },
+      "antidote": {
+        "concept": "coin",
+        "cast": []
+      },
+      "_said": "immediate financial self-destruct sequence because if her business succeeds and she accumulates wealth, she will violate her core commitment to being a good, honest person. So,"
+    },
+    {
+      "fp": "1lufwya",
+      "i": 159,
+      "from": 40505,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "So, she will start unconsciously sabotaging her own ledger. She will forget to send invoices to major She will make highly"
+    },
+    {
+      "fp": "hb317z",
+      "i": 160,
+      "from": 40733,
+      "subject": "gift",
+      "entities": [],
+      "concept": "gift",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "gift, 1995"
+      },
+      "antidote": {
+        "concept": "gift",
+        "cast": []
+      },
+      "_said": "highly questionable impulsive investments under the guise of growing the business. She will give her premium services away for free because she feels guilty charging for them. She "
+    },
+    {
+      "fp": "ruvt9x",
+      "i": 161,
+      "from": 41033,
+      "subject": "shadowSelf",
+      "entities": [],
+      "concept": "shadowSelf",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "shadow self, 1995"
+      },
+      "antidote": {
+        "concept": "shadowSelf",
+        "cast": []
+      },
+      "_said": "math. Her subconscious mind is actively destroying her profit margins to ensure she doesn't become the very thing she was taught to despise. She"
+    },
+    {
+      "fp": "18fqrlr",
+      "i": 162,
+      "from": 41248,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "She is sacrificing her financial security on the altar of her childhood moral framework. You see this exact same rigid adherence to childhood frameworks"
+    },
+    {
+      "fp": "5klcph",
+      "i": 163,
+      "from": 41503,
+      "subject": "Sam",
+      "entities": [
+        "sam"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Sam, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "sam"
+        ]
+      },
+      "_said": "frameworks and attachment dynamics. This is perhaps the most painful form the mountain takes. We all know a Sam. Sam"
+    },
+    {
+      "fp": "1tur8ts",
+      "i": 164,
+      "from": 41719,
+      "subject": "Sam",
+      "entities": [
+        "sam"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Sam, sit around at brunch and say, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "sam"
+        ]
+      },
+      "_said": "Sam is incredibly smart, empathetic, and self-aware. Yet, Sam continually, relentlessly dates toxic, emotionally unavailable, or outright chaotic partners. Their friends sit around"
+    },
+    {
+      "fp": "omjeh8",
+      "i": 165,
+      "from": 42065,
+      "subject": "Sam — heart",
+      "entities": [
+        "sam"
+      ],
+      "concept": "heart",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Sam, 1995"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": null,
+        "cast": [
+          "sam"
+        ]
+      },
+      "_said": "\"Why does Sam keep doing this? Are they just stupid when it comes to love?\" But it has nothing to do with intelligence. It has everything to do with nervous system mapping. If Sam "
+    },
+    {
+      "fp": "1g48f6h",
+      "i": 166,
+      "from": 42324,
+      "subject": "heart",
+      "entities": [],
+      "concept": "heart",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "heart, 1995"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": null,
+        "cast": []
+      },
+      "_said": "up in an environment where the love they received from their primary caregivers was highly conditional, erratic, or paired with a constant threat"
+    },
+    {
+      "fp": "s07avg",
+      "i": 167,
+      "from": 42525,
+      "subject": "heart",
+      "entities": [],
+      "concept": "heart",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "heart, 1995"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": null,
+        "cast": []
+      },
+      "_said": "threat of abandonment, Sam's developing nervous system learned a tragic equation. It learned that love fundamentally equals It learned"
+    },
+    {
+      "fp": "1voydbh",
+      "i": 168,
+      "from": 42785,
+      "subject": "Sam",
+      "entities": [
+        "sam"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Sam, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "sam"
+        ]
+      },
+      "_said": "learned that connection requires a spike in cortisol. Yes. So, when Sam goes on a date with a healthy, secure, consistent partner who just loves them steadily without the drama,"
+    },
+    {
+      "fp": "9zni7k",
+      "i": 169,
+      "from": 43085,
+      "subject": "heart",
+      "entities": [],
+      "concept": "heart",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "heart, 1995"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": null,
+        "cast": []
+      },
+      "_said": "drama, Sam's nervous system rejects it. It feels boring. There is no cortisol spike. So, the brain says, \"This isn't love.\" It feels inherently wrong"
+    },
+    {
+      "fp": "t16f7x",
+      "i": 170,
+      "from": 43325,
+      "subject": "Sam — lightbulb",
+      "entities": [
+        "sam"
+      ],
+      "concept": "lightbulb",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Sam, 1995"
+      },
+      "antidote": {
+        "concept": "lightbulb",
+        "cast": [
+          "sam"
+        ]
+      },
+      "_said": "wrong and untrustworthy. Sam will say, \"There's just no spark.\" But when Sam meets someone chaotic, someone who pulls away, someone who requires"
+    },
+    {
+      "fp": "1v1o3l8",
+      "i": 171,
+      "from": 43555,
+      "subject": "Sam — heart",
+      "entities": [
+        "sam"
+      ],
+      "concept": "heart",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Sam, 1995"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": null,
+        "cast": [
+          "sam"
+        ]
+      },
+      "_said": "requires Sam to earn their affection, the anxiety flares, the cortisol spikes, the chase begins. And Sam's body says, \"Ah, this is familiar. This must be love.\""
+    },
+    {
+      "fp": "1g8rezh",
+      "i": 172,
+      "from": 43869,
+      "subject": "Sam — home",
+      "entities": [
+        "sam"
+      ],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Sam, 1995"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": [
+          "sam"
+        ]
+      },
+      "_said": "love.\" Sam is drawn to the erratic partner because that chaos is what their biology recognizes as home. Or conversely, Sam is subconsciously drawn to break in people because they a"
+    },
+    {
+      "fp": "vz0rwl",
+      "i": 173,
+      "from": 44193,
+      "subject": "Sam — wallet",
+      "entities": [
+        "sam"
+      ],
+      "concept": "wallet",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Sam, 1995"
+      },
+      "antidote": {
+        "concept": "wallet",
+        "cast": [
+          "sam"
+        ]
+      },
+      "_said": "helpless childhood dynamic where they couldn't save their addicted parent. But this time, as an adult, Sam believes they have the tools to save the broken partner. If they can fix "
+    },
+    {
+      "fp": "1qont4o",
+      "i": 174,
+      "from": 44611,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "using their romantic life as a time machine. It is heartbreaking, but the internal logic is flawless. Which brings us to a massive, deeply"
+    },
+    {
+      "fp": "13f6dsk",
+      "i": 175,
+      "from": 44848,
+      "subject": "shadowSelf",
+      "entities": [],
+      "concept": "shadowSelf",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "shadow self, 1995"
+      },
+      "antidote": {
+        "concept": "shadowSelf",
+        "cast": []
+      },
+      "_said": "deeply frustrating pivot in this deep dive. We have just spent 20 minutes explaining the beautiful tragic logic of the subconscious mind. We understand a proxy fears. We understand"
+    },
+    {
+      "fp": "c6brsm",
+      "i": 176,
+      "from": 45161,
+      "subject": "Daniel and Maya and Marcus — war",
+      "entities": [
+        "daniel",
+        "maya",
+        "marcus"
+      ],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Daniel and Maya, 1995"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": [
+          "daniel",
+          "maya",
+          "marcus"
+        ]
+      },
+      "_said": "understand why Daniel fights, why Maya quits, why Marcus polishes his unread screenplay. Exactly. But here is the terrifying truth about self-sabotage."
+    },
+    {
+      "fp": "cijf9s",
+      "i": 177,
+      "from": 45439,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Intellectual understanding alone is utterly useless. It will not stop"
+    },
+    {
+      "fp": "u2mgp1",
+      "i": 178,
+      "from": 45605,
+      "subject": "lightbulb",
+      "entities": [],
+      "concept": "lightbulb",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "lightbulb, read the right book or listen to the right d, 1995"
+      },
+      "antidote": {
+        "concept": "lightbulb",
+        "cast": []
+      },
+      "_said": "stop the behavior. You cannot simply think your way out of a self-sabotaging loop. This is the grand illusion of the modern self-help industry. It sells the idea that awareness is "
+    },
+    {
+      "fp": "m6bjy8",
+      "i": 179,
+      "from": 46272,
+      "subject": "road",
+      "entities": [],
+      "concept": "road",
+      "place": "highway",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "road, highway, 1995"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": "highway",
+        "cast": []
+      },
+      "_said": "That the panic attacks will magically stop. But they don't. No, they don't. You just become a highly self-aware person having a panic attack on the highway."
+    },
+    {
+      "fp": "1dg5p8j",
+      "i": 180,
+      "from": 46493,
+      "subject": "road",
+      "entities": [],
+      "concept": "road",
+      "place": "highway",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "road, highway, 1995"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": "highway",
+        "cast": []
+      },
+      "_said": "highway. The intellect can diagnose the mountain, but the intellect cannot move it. So what do we do? Because my instinct and I think the instinct of millions of people when they r"
+    },
+    {
+      "fp": "119tr0m",
+      "i": 181,
+      "from": 46797,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "to try and outmuscle the brain with positivity. Oh, the toxic positivity route. Right? If I can't outthink the sabotage, I'll out affirm it. I'll just stand in"
+    },
+    {
+      "fp": "1ov6vi0",
+      "i": 182,
+      "from": 47025,
+      "subject": "heart",
+      "entities": [],
+      "concept": "heart",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "heart, 1995"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": null,
+        "cast": []
+      },
+      "_said": "in front of the mirror every morning, look myself in the eye, and say, \"I am worthy of success. I am open to love. I am safe.\" I'll say it a hundred times until my"
+    },
+    {
+      "fp": "l9u009",
+      "i": 183,
+      "from": 47287,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "my brain believes it. Can't I just positive affirmation my way past the upper limit? I have to tear that strategy down to the studs. When you use endless"
+    },
+    {
+      "fp": "82ql1u",
+      "i": 184,
+      "from": 47544,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "endless positive affirmations to cover up deep, unresolved internal conflict, you do not achieve healing. You achieve"
+    },
+    {
+      "fp": "hwc9wg",
+      "i": 185,
+      "from": 47798,
+      "subject": "mirror",
+      "entities": [],
+      "concept": "mirror",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "mirror, 1995"
+      },
+      "antidote": {
+        "concept": "mirror",
+        "set": null,
+        "cast": []
+      },
+      "_said": "Wait, dissociation? Yes. When you stand in the mirror and chant, I am in peace. I am vibrating at a high frequency."
+    },
+    {
+      "fp": "dgoakm",
+      "i": 186,
+      "from": 47981,
+      "subject": "alarmClock",
+      "entities": [],
+      "concept": "alarmClock",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "alarm clock, 1995"
+      },
+      "antidote": {
+        "concept": "alarmClock",
+        "set": null,
+        "cast": []
+      },
+      "_said": "frequency. While your nervous system is actively screaming in terror about an impending work deadline or a failing relationship, you are quite literally gaslighting your own body. "
+    },
+    {
+      "fp": "tt5zbx",
+      "i": 187,
+      "from": 48355,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "exist. Those affirmations bounce right off you because you are placating your true feelings. You are putting a pleasant pastel coat of paint over a rotting"
+    },
+    {
+      "fp": "1f6zon1",
+      "i": 188,
+      "from": 48581,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "rotting foundation. To understand why we cannot think or affirm our way out of this, we have to look at the factual"
+    },
+    {
+      "fp": "1tepjhm",
+      "i": 189,
+      "from": 48765,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "factual physiological biology of emotion. This isn't poetry. This is neuroanatomy. This was the part of the research that absolutely staggered me. We"
+    },
+    {
+      "fp": "sqvlyy",
+      "i": 190,
+      "from": 49037,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "We are conditioned to think of emotions as these floaty abstract concepts. We think of them as"
+    },
+    {
+      "fp": "1r683n7",
+      "i": 191,
+      "from": 49202,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "as weather patterns in the ether of the mind."
+    },
+    {
+      "fp": "jif2wb",
+      "i": 192,
+      "from": 49281,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone, 1995"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": null,
+        "cast": []
+      },
+      "_said": "mind. Sadness is a gray cloud. Anger is a red mist. But emotions are not abstract. They are highly physical biological experiences. They possess what researchers call a"
+    },
+    {
+      "fp": "1fgl7ug",
+      "i": 193,
+      "from": 49584,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone, 1995"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": null,
+        "cast": []
+      },
+      "_said": "a motor component. Let's open up the hood of the brain for a second. The part of your brain that plays a massive role in regulating your emotional responses is called"
+    },
+    {
+      "fp": "c60amx",
+      "i": 194,
+      "from": 49824,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone, 1995"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": null,
+        "cast": []
+      },
+      "_said": "called the anterior singulate cortex. And physically, anatomically, the anterior singulate is located directly adjacent to the preoter area of the brain. The preoter area connects "
+    },
+    {
+      "fp": "a7zqft",
+      "i": 195,
+      "from": 50220,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "muscles. This proximity is not a coincidence, No, not at all. When an emotion begins to process in your brain,"
+    },
+    {
+      "fp": "1xhbu1n",
+      "i": 196,
+      "from": 50383,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "brain, the anterior singulate fires and because it is wired right next to the premoter area, it instantaneously creates a micro muscular"
+    },
+    {
+      "fp": "1jeyjgm",
+      "i": 197,
+      "from": 50596,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "muscular activation in your physical body. This happens in milliseconds long before your conscious mind has even registered the So the body reacts physically flexing before the int"
+    },
+    {
+      "fp": "165amf3",
+      "i": 198,
+      "from": 51235,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "or a physical ache in your chest when you are grieving. The emotion is"
+    },
+    {
+      "fp": "egehkn",
+      "i": 199,
+      "from": 51353,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "sitting in a conference room and a colleague co, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "is a physical command. Now look at what happens when you suppress that emotion. Let's say you are sitting in a conference room and a colleague completely undermines you taking cred"
+    },
+    {
+      "fp": "1tbqzsn",
+      "i": 200,
+      "from": 51837,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "stand up, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "millisecond is fury. You want to stand up, slam your hands on the table and scream. The anterior singulate fires. The premoter cortex activates."
+    },
+    {
+      "fp": "1ffhhzu",
+      "i": 201,
+      "from": 52061,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "activates. The energy surges into your But you are"
+    },
+    {
+      "fp": "gx94ph",
+      "i": 202,
+      "from": 52156,
+      "subject": "work",
+      "entities": [],
+      "concept": "work",
+      "place": "office",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "work, office, 1995"
+      },
+      "antidote": {
+        "concept": "work",
+        "set": "office",
+        "cast": []
+      },
+      "_said": "are in a corporate office. So your rational executive brain clamps down on that impulse. You force your face into a tight smile."
+    },
+    {
+      "fp": "118m68q",
+      "i": 203,
+      "from": 52382,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "smile. You swallow the yell. You nod politely. You do not process the anger. And where does that kinetic energy go? It"
+    },
+    {
+      "fp": "1v7d4fp",
+      "i": 204,
+      "from": 52538,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "It was generated by the brain. It doesn't just evaporate into the ether because you forced the smile. It gets stored. It gets lodged in the musculature of your neck, your jaw, your"
+    },
+    {
+      "fp": "1pis8az",
+      "i": 205,
+      "from": 52800,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "shoulders, your digestive tract. When we refuse to complete the biological cycle of an emotion, when we refuse to feel it, it becomes embodied. And if you do this every day over a "
+    },
+    {
+      "fp": "16v4ni2",
+      "i": 206,
+      "from": 53287,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone, 1995"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": null,
+        "cast": []
+      },
+      "_said": "as an emotional backlog. The analogy the source material uses for this is perfect. Imagine your body is an email inbox."
+    },
+    {
+      "fp": "og2dpu",
+      "i": 207,
+      "from": 53503,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone, 1995"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": null,
+        "cast": []
+      },
+      "_said": "inbox. Every emotion you experience, every flash of anger, every pang of grief, every moment of jealousy is a little message sent from your nervous system. Hey, boundary crossed. H"
+    },
+    {
+      "fp": "ifur6b",
+      "i": 208,
+      "from": 53788,
+      "subject": "Marcus",
+      "entities": [
+        "marcus"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Marcus, walking around with an inbox, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "marcus"
+        ]
+      },
+      "_said": "Hey, loss detected. But if you are terrified of your feelings, if you suppress them with chronic busyiness like Marcus or alcohol or doom scrolling, you are refusing to open those "
+    },
+    {
+      "fp": "112gdlr",
+      "i": 209,
+      "from": 54134,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "that has 10,000 unread messages of unprocessed trauma and daily slight. And just like a jammed inbox or"
+    },
+    {
+      "fp": "d05iw1",
+      "i": 210,
+      "from": 54321,
+      "subject": "laptopMockup",
+      "entities": [],
+      "concept": "laptopMockup",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "laptop mockup, running too many background programs, 1995"
+      },
+      "antidote": {
+        "concept": "laptopMockup",
+        "set": null,
+        "cast": []
+      },
+      "_said": "or a computer running too many background programs, your system eventually starts crashing. You lose your emotional bandwidth, you become highly reactive."
+    },
+    {
+      "fp": "1c2lqjr",
+      "i": 211,
+      "from": 54568,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "carrying 10, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "reactive. Because when you are carrying 10,000 unread emails of suppressed anger, it only takes one minor"
+    },
+    {
+      "fp": "1ceqpjs",
+      "i": 212,
+      "from": 54751,
+      "subject": "rocketLaunch",
+      "entities": [],
+      "concept": "rocketLaunch",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "rocket launch, 1995"
+      },
+      "antidote": {
+        "concept": "rocketLaunch",
+        "set": null,
+        "cast": []
+      },
+      "_said": "minor inconvenience to tip the scale. You snap at your kids for spilling juice. You lay on your horn and scream at a driver in traffic."
+    },
+    {
+      "fp": "1oi9c0d",
+      "i": 213,
+      "from": 54979,
+      "subject": "Daniel — funnelMetrics",
+      "entities": [
+        "daniel"
+      ],
+      "concept": "funnelMetrics",
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Daniel, 1995"
+      },
+      "antidote": {
+        "concept": "funnelMetrics",
+        "set": null,
+        "cast": [
+          "daniel"
+        ]
+      },
+      "_said": "traffic. Daniel explodes over the dishwasher. On the surface, Daniel thinks the trigger, the unwashed plate, is the actual problem. He thinks he"
+    },
+    {
+      "fp": "pgzezk",
+      "i": 214,
+      "from": 55209,
+      "subject": "Daniel — home",
+      "entities": [
+        "daniel"
+      ],
+      "concept": "home",
+      "place": "kitchen",
+      "confidence": 1,
+      "vox": {
+        "shot": "Daniel, kitchen, 1995"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": "kitchen",
+        "cast": [
+          "daniel"
+        ]
+      },
+      "_said": "he is just passionate about kitchen hygiene. But the trigger is never the The problem is that Daniel lacks the processing skills to metabolize the trigger."
+    },
+    {
+      "fp": "pvjq57",
+      "i": 215,
+      "from": 55449,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone, carrying a massive emotional backlog and the dis, 1995"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": null,
+        "cast": []
+      },
+      "_said": "trigger. He's carrying a massive emotional backlog and the dishwasher was just email number 10,01 that finally crashed his server. So, if I'm finally sitting there staring at this "
+    },
+    {
+      "fp": "1c1zmx9",
+      "i": 216,
+      "from": 55913,
+      "subject": "work",
+      "entities": [],
+      "concept": "work",
+      "place": "office",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "work, office, 1995"
+      },
+      "antidote": {
+        "concept": "work",
+        "set": "office",
+        "cast": []
+      },
+      "_said": "how do I empty it? Because I can't just go back and scream at every boss who wronged me. I can't undo the childhood trauma. How do we metabolize the backlog without destroying our "
+    },
+    {
+      "fp": "umsqus",
+      "i": 217,
+      "from": 56256,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "feel the feelings. It sounds brutally simple, almost insulting, but it is the hardest, most terrifying work you will ever do. It really is. When"
+    },
+    {
+      "fp": "1f7golu",
+      "i": 218,
+      "from": 56527,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "When a trigger arises, when someone cuts you off or your partner gives you a weird look, you must stop trying to psychoanalyze the trigger. Stop building a narrative about what the"
+    },
+    {
+      "fp": "k7n1j9",
+      "i": 219,
+      "from": 57050,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "physical body. You literally scan the physiology. Yes. Where does your body constrict?"
+    },
+    {
+      "fp": "1nwxwha",
+      "i": 220,
+      "from": 57170,
+      "subject": "law",
+      "entities": [],
+      "concept": "law",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "law, sit with that physical sensation and just w, 1995"
+      },
+      "antidote": {
+        "concept": "law",
+        "set": null,
+        "cast": []
+      },
+      "_said": "constrict? Does your chest tighten? Does your throat feel like it's closing? Does your stomach turn over? You have to sit with that physical sensation and just watch it. You do not"
+    },
+    {
+      "fp": "1ss86n8",
+      "i": 221,
+      "from": 57597,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "It has a beginning, a middle, and an end. The reason it lasts"
+    },
+    {
+      "fp": "kvkzu6",
+      "i": 222,
+      "from": 57681,
+      "subject": "fire",
+      "entities": [],
+      "concept": "fire",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "fire, sit in the fire of the physical, 1995"
+      },
+      "antidote": {
+        "concept": "fire",
+        "cast": []
+      },
+      "_said": "lasts for decades is because we keep pausing the cycle in the middle by suppressing it. The only way out is through. You have to sit in the fire of the physical"
+    },
+    {
+      "fp": "bbiqa8",
+      "i": 223,
+      "from": 57941,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "physical sensation, breathing through the constriction until the body realizes the threat is gone, the cycle completes, and the tension naturally dissipates. You have to"
+    },
+    {
+      "fp": "1qv421m",
+      "i": 224,
+      "from": 58214,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone, read it, 1995"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": null,
+        "cast": []
+      },
+      "_said": "to let the email open, read it, and hit delete. But doing that, metabolizing the anger instead of swallowing it or feeling the terror instead of picking a fight, that"
+    },
+    {
+      "fp": "1nilkid",
+      "i": 225,
+      "from": 58478,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "that doesn't magically build a new life. It just means you stop the suppression. You stop the bleeding, right? But now you have this massive echoing void where your coping"
+    },
+    {
+      "fp": "1ns4gfa",
+      "i": 226,
+      "from": 58778,
+      "subject": "Daniel — war",
+      "entities": [
+        "daniel"
+      ],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Daniel, 1995"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": [
+          "daniel"
+        ]
+      },
+      "_said": "coping mechanism used to be. Daniel stops fighting about the dishwasher, but"
+    },
+    {
+      "fp": "oe1zkm",
+      "i": 227,
+      "from": 58891,
+      "subject": "Maya",
+      "entities": [
+        "maya"
+      ],
+      "concept": null,
+      "place": "office",
+      "confidence": 0.85,
+      "vox": {
+        "shot": "Maya, office, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": "office",
+        "cast": [
+          "maya"
+        ]
+      },
+      "_said": "but he is still terrified of intimacy. Maya stops quitting her jobs, but she is still paralyzed by the pressure of the boardroom."
+    },
+    {
+      "fp": "8ga245",
+      "i": 228,
+      "from": 59112,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "boardroom. This transitions us from diagnosing the sickness to actually building the cure. We enter the phase of constructing the new self. And the paradox here is that the very fi"
+    },
+    {
+      "fp": "1def2uw",
+      "i": 229,
+      "from": 59385,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "step of building the future requires an act of profound destruction. You have to release the past. It is"
+    },
+    {
+      "fp": "m4y7hr",
+      "i": 230,
+      "from": 59563,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "is a profound grieving process. You cannot step into selfmastery while simultaneously dragging the rotting corpse of your old coping"
+    },
+    {
+      "fp": "1j6oqph",
+      "i": 231,
+      "from": 59820,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "coping mechanisms behind you. You have to actively, intentionally mourn the loss of your younger self. Mourn the younger self."
+    },
+    {
+      "fp": "pu1kvr",
+      "i": 232,
+      "from": 60031,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "self. That phrasing is so potent because we usually talk about our bad habits with such contempt. We say, \"I hate how anxious I am. I hate that"
+    },
+    {
+      "fp": "17olq33",
+      "i": 233,
+      "from": 60249,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "that I'm a perfectionist. I need to kill that part of me.\" But those coping mechanisms, the emotional walls, the chronic busyiness, the hypervigilance, they kept you alive. They di"
+    },
+    {
+      "fp": "1usevqh",
+      "i": 234,
+      "from": 60547,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "they were designed to do. They were the heavy iron armor you forged in the fires of your childhood to survive your specific chaotic"
+    },
+    {
+      "fp": "xje1ru",
+      "i": 235,
+      "from": 60761,
+      "subject": "coin",
+      "entities": [],
+      "concept": "coin",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "coin, 1995"
+      },
+      "antidote": {
+        "concept": "coin",
+        "cast": []
+      },
+      "_said": "chaotic environment. You owe that younger, terrified version of yourself a massive debt of gratitude. They kept you safe when no one else would. But you are no longer in"
+    },
+    {
+      "fp": "1y5k410",
+      "i": 236,
+      "from": 61029,
+      "subject": "home",
+      "entities": [],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "home, walking around a peaceful city wearing a 100 po, 1995"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": []
+      },
+      "_said": "in that environment. The war is over. You're 35 years old. You live in a safe apartment. You have a partner who loves you. But you are still walking around a peaceful city wearing "
+    },
+    {
+      "fp": "rx1zb6",
+      "i": 237,
+      "from": 61308,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "suit of iron armor, wondering why you were exhausted and why you can't feel anyone's embrace. The armor that saved you is"
+    },
+    {
+      "fp": "mmdmc1",
+      "i": 238,
+      "from": 61495,
+      "subject": "shield",
+      "entities": [],
+      "concept": "shield",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "shield, carry you up the mountain, 1995"
+      },
+      "antidote": {
+        "concept": "shield",
+        "cast": []
+      },
+      "_said": "is now suffocating you. It cannot carry you up the mountain. You have to take it off, thank it for its service, and leave it on the ground. And laying down your only defense mechan"
+    },
+    {
+      "fp": "1ai3tsf",
+      "i": 239,
+      "from": 61747,
+      "subject": "grave",
+      "entities": [],
+      "concept": "grave",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "grave, walk through this slowly because it's, 1995"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": null,
+        "cast": []
+      },
+      "_said": "feels like a death. To facilitate that transition, the source material offers a very specific, incredibly powerful visualization exercise. I want to walk through this slowly becaus"
+    },
+    {
+      "fp": "1ri0h1i",
+      "i": 240,
+      "from": 62107,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone, 1995"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": null,
+        "cast": []
+      },
+      "_said": "it's a tool you can actually use when you feel that void opening up. It's called the keys visualization. It is a brilliant method of shifting"
+    },
+    {
+      "fp": "f1rewh",
+      "i": 241,
+      "from": 62325,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "shifting your identity before your behavior has even caught up. Identity change must preede behavior change. Here is how it works."
+    },
+    {
+      "fp": "1oog12l",
+      "i": 242,
+      "from": 62561,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "sitting at a long table in a well-lit, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "You close your eyes and you imagine sitting at a long table in a well-lit,"
+    },
+    {
+      "fp": "7gy65z",
+      "i": 243,
+      "from": 62685,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "sitting at one end, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "well-lit, quiet, comfortable room. You are sitting at one end"
+    },
+    {
+      "fp": "xrp6qg",
+      "i": 244,
+      "from": 62779,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "walk into the room and sit across from you, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "end and then you invite your highest future self to walk into the room and sit across from you. This is the version of you who has already scaled the mountain. the version of you w"
+    },
+    {
+      "fp": "1rpvxc2",
+      "i": 245,
+      "from": 63225,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone, carry themselves? what is the posture of some, 1995"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": null,
+        "cast": []
+      },
+      "_said": "them. Notice the details. What are they wearing? How do they carry themselves? What is the posture of someone who is no longer afraid? You notice the stillness in them. They aren't"
+    },
+    {
+      "fp": "85cw8n",
+      "i": 246,
+      "from": 63751,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "out the keys to your life, and you slide them across the table. You hand this future self the keys to"
+    },
+    {
+      "fp": "1jdybkd",
+      "i": 247,
+      "from": 63917,
+      "subject": "car",
+      "entities": [],
+      "concept": "car",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "car, 1995"
+      },
+      "antidote": {
+        "concept": "car",
+        "set": null,
+        "cast": []
+      },
+      "_said": "to your car. You hand them the deed to your house. You"
+    },
+    {
+      "fp": "qlwnp5",
+      "i": 248,
+      "from": 64034,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone, write down the password to your bank account, 1995"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": null,
+        "cast": []
+      },
+      "_said": "You write down the password to your bank account and your email and hand it over. You"
+    },
+    {
+      "fp": "1kmxt4r",
+      "i": 249,
+      "from": 64154,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "You hand over the ownership of all your routines, your diet, your relationships. You look this highest version of yourself in the eye and you say, \"You are the CEO of this life. No"
+    },
+    {
+      "fp": "8t2ea6",
+      "i": 250,
+      "from": 64461,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "I am stepping down. You take over.\" The psychological leverage in that exercise is staggering because what you are actually doing is outsourcing the heavy lifting of daily decision"
+    },
+    {
+      "fp": "1n5deyx",
+      "i": 251,
+      "from": 65069,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "waiting for motivation to motivation is an emot, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "self by waiting for motivation to Motivation is an emotion. Like all emotions,"
+    },
+    {
+      "fp": "e25ktb",
+      "i": 252,
+      "from": 65232,
+      "subject": "coffee",
+      "entities": [],
+      "concept": "coffee",
+      "place": "kitchen",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "coffee, kitchen, 1995"
+      },
+      "antidote": {
+        "concept": "coffee",
+        "set": "kitchen",
+        "cast": []
+      },
+      "_said": "emotions, it is fleeting, fickle, and largely dependent on whether you slept well, if it's raining outside, or if you had enough coffee. The modern"
+    },
+    {
+      "fp": "4baxj2",
+      "i": 253,
+      "from": 65467,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "notes, 1995"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": []
+      },
+      "_said": "modern obsession with finding your motivation is a trap that keeps people stuck for decades. If I only went to the gym or sat down to write"
+    },
+    {
+      "fp": "12o5hwq",
+      "i": 254,
+      "from": 65719,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "notes, write or initiated a difficult conversation w, 1995"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": []
+      },
+      "_said": "write or initiated a difficult conversation with my partner when I felt motivated to do it, I would do those things twice a year, right? You build a new self"
+    },
+    {
+      "fp": "1jwz27o",
+      "i": 255,
+      "from": 65971,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "self through principles. A principle is a rule you follow regardless of how you feel."
+    },
+    {
+      "fp": "1poryug",
+      "i": 256,
+      "from": 66103,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "feel. And building a new self requires a total restructuring of your comfort zone."
+    },
+    {
+      "fp": "1syfoz1",
+      "i": 257,
+      "from": 66206,
+      "subject": "funnelTrap",
+      "entities": [],
+      "concept": "funnelTrap",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "funnel trap, 1995"
+      },
+      "antidote": {
+        "concept": "funnelTrap",
+        "cast": []
+      },
+      "_said": "zone. Remember the biological equation. Your current comfort zone is built around what is familiar, even if it is toxic. To build a new healthy self, you must take small, daily, ru"
+    },
+    {
+      "fp": "1crxs00",
+      "i": 258,
+      "from": 66559,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "consistent actions that initially feel highly, highly uncomfortable. They don't just feel uncomfortable, they feel biologically"
+    },
+    {
+      "fp": "jqim43",
+      "i": 259,
+      "from": 66720,
+      "subject": "funnelMetrics",
+      "entities": [],
+      "concept": "funnelMetrics",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "funnel metrics, 1995"
+      },
+      "antidote": {
+        "concept": "funnelMetrics",
+        "set": null,
+        "cast": []
+      },
+      "_said": "biologically wrong. When your nervous system is disregulated, doing the healthy thing feels like stepping into traffic. If you are a chronic people pleaser, looking someone in the "
+    },
+    {
+      "fp": "1p5wvkz",
+      "i": 260,
+      "from": 67135,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "sitting on the couch for an hour to rest will f, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "committing an act of violence. It will feel cruel. If you are chronically busy, sitting on the couch for an hour to rest will feel like a profound moral failure. You will feel"
+    },
+    {
+      "fp": "1cwltkz",
+      "i": 261,
+      "from": 67440,
+      "subject": "Daniel",
+      "entities": [
+        "daniel"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Daniel, sit at the table and say, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "daniel"
+        ]
+      },
+      "_said": "feel lazy and worthless. If you are Daniel and you choose to sit at the table and say, \"I am"
+    },
+    {
+      "fp": "1dp6zq0",
+      "i": 262,
+      "from": 67617,
+      "subject": "heart",
+      "entities": [],
+      "concept": "heart",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "heart, 1995"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": null,
+        "cast": []
+      },
+      "_said": "am feeling scared of how much I love you right now.\" Instead of fighting about the dishwasher, you will feel completely exposed to You have to intellectually prepare yourself for t"
+    },
+    {
+      "fp": "fb2it8",
+      "i": 263,
+      "from": 68097,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "like the CEO future self who already has the keys, you force your body"
+    },
+    {
+      "fp": "1y5t2l2",
+      "i": 264,
+      "from": 68225,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "body to take the action anyway. And here is where the neuroplasticity kicks back in over time. As you repeatedly take the healthy action and the world doesn't end, as you"
+    },
+    {
+      "fp": "jud63m",
+      "i": 265,
+      "from": 68477,
+      "subject": "work",
+      "entities": [],
+      "concept": "work",
+      "place": "office",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "work, office, 1995"
+      },
+      "antidote": {
+        "concept": "work",
+        "set": "office",
+        "cast": []
+      },
+      "_said": "set the boundary and the friend doesn't abandon you, as you rest and your career doesn't collapse, your biological baseline begins to shift. Your nervous system slowly"
+    },
+    {
+      "fp": "14q0xh5",
+      "i": 266,
+      "from": 68721,
+      "subject": "shield",
+      "entities": [],
+      "concept": "shield",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "shield, 1995"
+      },
+      "antidote": {
+        "concept": "shield",
+        "cast": []
+      },
+      "_said": "slowly registers this new healthy behavior as safety. The thermostat is reset. The 75° of joy"
+    },
+    {
+      "fp": "132e5ht",
+      "i": 267,
+      "from": 68954,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "joy becomes the new normal. This brings us to the actual execution of this change."
+    },
+    {
+      "fp": "yf73ow",
+      "i": 268,
+      "from": 69115,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "standing at the base looking up, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "change. We have theorized the mountain. We have mapped the terrain. We are now standing at the base looking up. We are beginning the climb and I think it is vital that we set reali"
+    },
+    {
+      "fp": "8ai9na",
+      "i": 269,
+      "from": 69386,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "realistic expectations here because the reality of the trenches is incredibly stark. We have been conditioned by cinema to believe that healing is"
+    },
+    {
+      "fp": "gd24x4",
+      "i": 270,
+      "from": 69626,
+      "subject": "road",
+      "entities": [],
+      "concept": "road",
+      "place": "highway",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "road, run up some stairs in the rain, highway, 1995"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": "highway",
+        "cast": []
+      },
+      "_said": "is a threeinut montage sequence. A driving pop song plays. You throw out all the junk food. You run up some stairs in the rain."
+    },
+    {
+      "fp": "1925dvv",
+      "i": 271,
+      "from": 69852,
+      "subject": "ledge",
+      "entities": [],
+      "concept": "ledge",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "ledge, climb is not a montage, 1995"
+      },
+      "antidote": {
+        "concept": "ledge",
+        "set": null,
+        "cast": []
+      },
+      "_said": "rain. You meditate on a cliff and suddenly you are But the climb is not a montage. The climb is silent. It is staggeringly simple and it"
+    },
+    {
+      "fp": "1u6abmn",
+      "i": 272,
+      "from": 70106,
+      "subject": "alarmClock",
+      "entities": [],
+      "concept": "alarmClock",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "alarm clock, climb is waking up on a random rainy tuesday, 1995"
+      },
+      "antidote": {
+        "concept": "alarmClock",
+        "set": null,
+        "cast": []
+      },
+      "_said": "it is monumentally difficult. The climb is waking up on a random rainy Tuesday and choosing to drink a glass of water instead of doom scrolling for an hour."
+    },
+    {
+      "fp": "1e1bqe3",
+      "i": 273,
+      "from": 70361,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone, 1995"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": null,
+        "cast": []
+      },
+      "_said": "hour. Is noticing that your heart is racing because someone didn't text you back and choosing to take three deep breaths instead of sending a passive aggressive follow-up. It is ut"
+    },
+    {
+      "fp": "qwturv",
+      "i": 274,
+      "from": 70656,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "climb does not happen in a moment, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "No one is clapping for you. And very often the decision to begin this silent climb does not happen in a moment"
+    },
+    {
+      "fp": "1389ktq",
+      "i": 275,
+      "from": 70848,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "moment of inspiration. It usually begins in the darkest possible place. It begins at rock We need to fundamentally redefine rock bottom"
+    },
+    {
+      "fp": "1yvk5es",
+      "i": 276,
+      "from": 71092,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "bottom because it has become a cheap cliche. People tend to think of rock bottom as just a streak of exceptionally bad luck. Or they think it's this magical"
+    },
+    {
+      "fp": "17xf71s",
+      "i": 277,
+      "from": 71349,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "magical cinematic epiphany where a beam of golden light shines from the heavens. You drop to your knees and you are suddenly cured of your desire to That is not how it works."
+    },
+    {
+      "fp": "h5ksvq",
+      "i": 278,
+      "from": 71657,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "works. Rock bottom does not happen by chance. No. Rock bottom is a mathematical certainty when you refuse to change. It happens when"
+    },
+    {
+      "fp": "rq2hph",
+      "i": 279,
+      "from": 71885,
+      "subject": "coin",
+      "entities": [],
+      "concept": "coin",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "coin, run out of money, 1995"
+      },
+      "antidote": {
+        "concept": "coin",
+        "cast": []
+      },
+      "_said": "your compounding maladaptive coping mechanisms spiral so far out of control that your environment simply collapses under the weight of You run out of money."
+    },
+    {
+      "fp": "vjgv1x",
+      "i": 280,
+      "from": 72149,
+      "subject": "coin",
+      "entities": [],
+      "concept": "coin",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "coin, 1995"
+      },
+      "antidote": {
+        "concept": "coin",
+        "cast": []
+      },
+      "_said": "money. Your partner finally leaves. Your health gives out. You are backed into a corner where all the proxies have burned away. All the external blame has"
+    },
+    {
+      "fp": "1fkeqqq",
+      "i": 281,
+      "from": 72357,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "has been exhausted and you are unequivocally forced to face It is the agonizing moment. The illusion shatters"
+    },
+    {
+      "fp": "9c04m8",
+      "i": 282,
+      "from": 72552,
+      "subject": "crash",
+      "entities": [],
+      "concept": "crash",
+      "place": "highway",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "crash, highway, 1995"
+      },
+      "antidote": {
+        "concept": "crash",
+        "set": "highway",
+        "cast": []
+      },
+      "_said": "shatters and you realize looking at the wreckage of your life that you are the common denominator in all your failed relationships, all your lost jobs, all your misery. There is a "
+    },
+    {
+      "fp": "1it63pm",
+      "i": 283,
+      "from": 73092,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "find the purest purest purest form of being fed up. Make it hurt.\" I literally screamed, \"I'm not going to [&nbsp;__&nbsp;] live like this That is the dark alchemy of rock bottom. "
+    },
+    {
+      "fp": "lk11ih",
+      "i": 284,
+      "from": 73471,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "suffocating suffering and transmuting it into absolute diamond"
+    },
+    {
+      "fp": "1kplyt0",
+      "i": 285,
+      "from": 73584,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "climb does not begin with hope, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "diamond hard resolve. The climb does not begin with hope. Hope is too fragile. The climb usually begins with a single unshakable declaration."
+    },
+    {
+      "fp": "9gomnh",
+      "i": 286,
+      "from": 73824,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "declaration. I never want to feel this way again. That is not"
+    },
+    {
+      "fp": "1o5ujrk",
+      "i": 287,
+      "from": 73891,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "not just a passing thought you have while nursing a hangover. It is a blood vow. It is the exact moment that fault becomes utterly irrelevant."
+    },
+    {
+      "fp": "nbexio",
+      "i": 288,
+      "from": 74109,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": "kitchen",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "family, kitchen, 1995"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": "kitchen",
+        "cast": []
+      },
+      "_said": "irrelevant. You stop caring about what your parents did to you. You stop caring about what your ex did to you. you stop caring about how unfair the economy is. All that matters, th"
+    },
+    {
+      "fp": "zl01qy",
+      "i": 289,
+      "from": 74733,
+      "subject": "road",
+      "entities": [],
+      "concept": "road",
+      "place": "highway",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "road, highway, 1995"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": "highway",
+        "cast": []
+      },
+      "_said": "not feel better. You feel infinitely worse. You enter what is perhaps the most dangerous and difficult phase of the journey,"
+    },
+    {
+      "fp": "1bdulrn",
+      "i": 290,
+      "from": 74947,
+      "subject": "road",
+      "entities": [],
+      "concept": "road",
+      "place": "highway",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "road, highway, 1995"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": "highway",
+        "cast": []
+      },
+      "_said": "journey, navigating the Think back to the inbox analogy. When you finally stop suppressing"
+    },
+    {
+      "fp": "2ymcje",
+      "i": 291,
+      "from": 75115,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "suppressing your emotions, when you strip away the armor of the self-sabotaging, numbing behaviors, when you stop overeing to soothe your anxiety,"
+    },
+    {
+      "fp": "q0ecq0",
+      "i": 292,
+      "from": 75350,
+      "subject": "alarmClock",
+      "entities": [],
+      "concept": "alarmClock",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "alarm clock, fall asleep, 1995"
+      },
+      "antidote": {
+        "concept": "alarmClock",
+        "set": null,
+        "cast": []
+      },
+      "_said": "anxiety, stop drinking to fall asleep, stop picking fights to avoid intimacy, stop overworking to avoid yourself, what happens? All 10,000 of those unread emails in your inbox"
+    },
+    {
+      "fp": "jgqiij",
+      "i": 293,
+      "from": 75636,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "inbox suddenly open at the exact same time. You are flooded. You will face massive overwhelming psychological"
+    },
+    {
+      "fp": "1s7dxkr",
+      "i": 294,
+      "from": 75809,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "psychological and physical resistance. Your body will vibrate with tension. You will hit a wall where the anxiety is so acute you feel like you are losing your mind. And"
+    },
+    {
+      "fp": "10suxty",
+      "i": 295,
+      "from": 76049,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "this is precisely the moment where 90% of people relapse into self-sabotage. They take three steps up the mountain. The purge hits them. The anxiety spikes and"
+    },
+    {
+      "fp": "1f2msoq",
+      "i": 296,
+      "from": 76377,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "and their intellect misinterpreted the data. They think, \"I started setting boundaries."
+    },
+    {
+      "fp": "hh39rk",
+      "i": 297,
+      "from": 76529,
+      "subject": "alarmClock",
+      "entities": [],
+      "concept": "alarmClock",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "alarm clock, 1995"
+      },
+      "antidote": {
+        "concept": "alarmClock",
+        "set": null,
+        "cast": []
+      },
+      "_said": "boundaries. I started trying to heal and I feel so much worse. My chest is tight. I can't sleep."
+    },
+    {
+      "fp": "g21s67",
+      "i": 298,
+      "from": 76663,
+      "subject": "alarmClock",
+      "entities": [],
+      "concept": "alarmClock",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "alarm clock, 1995"
+      },
+      "antidote": {
+        "concept": "alarmClock",
+        "set": null,
+        "cast": []
+      },
+      "_said": "sleep. Therefore, I must be doing it wrong.\" Healing shouldn't feel like a heart attack. Let me go back to my old habits where it was safe. You"
+    },
+    {
+      "fp": "45ih48",
+      "i": 299,
+      "from": 76886,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "You have to radically reinterpret these negative emotions. When you are in the purge, the anxiety is not a stop sign. It is"
+    },
+    {
+      "fp": "1ihijce",
+      "i": 300,
+      "from": 77085,
+      "subject": "compass",
+      "entities": [],
+      "concept": "compass",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "compass, 1995"
+      },
+      "antidote": {
+        "concept": "compass",
+        "cast": []
+      },
+      "_said": "is not an indication that you are failing. It is an internal guidance system recalibrating itself. The author describes these suppressed emotions as"
+    },
+    {
+      "fp": "154l5fo",
+      "i": 301,
+      "from": 77313,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "whispering until they scream, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "as whispering until they scream. If you do not listen to the quiet whisper of a boundary being crossed, the body will escalate it into the scream of a panic attack. When you hit th"
+    },
+    {
+      "fp": "1us2e0a",
+      "i": 302,
+      "from": 77606,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "that wall of resistance during the climb, you cannot override it. You cannot affirm your way out of it. You have to sit in the dirt on the side of the mountain, look at the screami"
+    },
+    {
+      "fp": "1iw6z90",
+      "i": 303,
+      "from": 77899,
+      "subject": "sword",
+      "entities": [],
+      "concept": "sword",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "sword, 1995"
+      },
+      "antidote": {
+        "concept": "sword",
+        "cast": []
+      },
+      "_said": "unmet need is screaming in my ear right now?\" And that requires enormous quiet courage. To sit in"
+    },
+    {
+      "fp": "1p5d2sr",
+      "i": 304,
+      "from": 78060,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "in the unbearable discomfort of the purge, to refuse the urge to numb it, and to simply observe it, to metabolize the backlog and allow it to pass through your nervous system. But "
+    },
+    {
+      "fp": "ou7wf5",
+      "i": 305,
+      "from": 78449,
+      "subject": "summit",
+      "entities": [],
+      "concept": "summit",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "summit, reach the summit, 1995"
+      },
+      "antidote": {
+        "concept": "summit",
+        "cast": []
+      },
+      "_said": "without retreating to the familiar misery, you eventually break through the cloud cover. You reach the summit. Let's look at the summit."
+    },
+    {
+      "fp": "wxr9bp",
+      "i": 306,
+      "from": 78645,
+      "subject": "shadowSelf",
+      "entities": [],
+      "concept": "shadowSelf",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "shadow self, 1995"
+      },
+      "antidote": {
+        "concept": "shadowSelf",
+        "cast": []
+      },
+      "_said": "summit. Because I think people envision self-mastery as this static destination. They think that if they do the shadow work and metabolize the emails, they will eventually"
+    },
+    {
+      "fp": "1q1s51v",
+      "i": 307,
+      "from": 78900,
+      "subject": "star",
+      "entities": [],
+      "concept": "star",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "star, sit cross-legged on a peak, 1995"
+      },
+      "antidote": {
+        "concept": "star",
+        "set": null,
+        "cast": []
+      },
+      "_said": "eventually sit cross-legged on a peak, bathed in golden sunlight, suddenly transformed into a perfect"
+    },
+    {
+      "fp": "xibwa4",
+      "i": 308,
+      "from": 79049,
+      "subject": "target",
+      "entities": [],
+      "concept": "target",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "target, 1995"
+      },
+      "antidote": {
+        "concept": "target",
+        "cast": []
+      },
+      "_said": "perfect enlightened being who never gets angry, never feels insecure, and never has the urge to eat an entire cake at 2 a.m. If that is your goal, you are setting yourself up for a"
+    },
+    {
+      "fp": "1as4l77",
+      "i": 309,
+      "from": 79394,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "relentless self flagagillation. Selfmastery is not a destination. It is"
+    },
+    {
+      "fp": "1vlesig",
+      "i": 310,
+      "from": 79507,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "is not a certificate you hang on your wall. It is an ongoing daily, hourly practice. You are never going to eliminate your triggers completely. You"
+    },
+    {
+      "fp": "r9x4uh",
+      "i": 311,
+      "from": 79728,
+      "subject": "target",
+      "entities": [],
+      "concept": "target",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "target, 1995"
+      },
+      "antidote": {
+        "concept": "target",
+        "cast": []
+      },
+      "_said": "You are a biological organism. You have a nervous system and life is inherently traumatic. The goal is not to eradicate the trigger. The goal is to recognize the trigger instantane"
+    },
+    {
+      "fp": "1b409ot",
+      "i": 312,
+      "from": 80064,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "emotional processing skills to meet the underlying need consciously so that"
+    },
+    {
+      "fp": "1sbkahg",
+      "i": 313,
+      "from": 80181,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, 1995"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "that the subconscious sabotage becomes That is the difference. You still feel the urge to pick the fight. At 11 p.m.,"
+    },
+    {
+      "fp": "kfo99p",
+      "i": 314,
+      "from": 80450,
+      "subject": "heart",
+      "entities": [],
+      "concept": "heart",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "heart, 1995"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": null,
+        "cast": []
+      },
+      "_said": "p.m., Daniel's brain still flashes the warning signs when he feels too much love. But instead of blindly acting out the script,"
+    },
+    {
+      "fp": "vo21se",
+      "i": 315,
+      "from": 80654,
+      "subject": "Daniel",
+      "entities": [
+        "daniel"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Daniel, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "daniel"
+        ]
+      },
+      "_said": "script, Daniel notices the constriction in his chest. He recognizes the urge and he turns to his partner and says, \"I'm feeling incredibly vulnerable right now. My anxiety is spiki"
+    },
+    {
+      "fp": "19x69bi",
+      "i": 316,
+      "from": 80976,
+      "subject": "gift",
+      "entities": [],
+      "concept": "gift",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "gift, 1995"
+      },
+      "antidote": {
+        "concept": "gift",
+        "cast": []
+      },
+      "_said": "need some reassurance.\" The underlying fear is still present, but he has masterfully redirected the kinetic energy. He didn't repress it, and he didn't project it. He processed it."
+    },
+    {
+      "fp": "1il4ync",
+      "i": 317,
+      "from": 81290,
+      "subject": "Daniel",
+      "entities": [
+        "daniel"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Daniel, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "daniel"
+        ]
+      },
+      "_said": "mountain hasn't disappeared, but Daniel has learned how to hike it without twisting his ankle every single It changes the"
+    },
+    {
+      "fp": "skzy7o",
+      "i": 318,
+      "from": 81461,
+      "subject": "compass",
+      "entities": [],
+      "concept": "compass",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "compass, 1995"
+      },
+      "antidote": {
+        "concept": "compass",
+        "cast": []
+      },
+      "_said": "entire trajectory of human life. And zooming out, it fundamentally changes how we view our legacy. Because at the end of your life, when the dust settles and you look back, your ul"
+    },
+    {
+      "fp": "13f20f2",
+      "i": 319,
+      "from": 81765,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "by your LinkedIn title. It won't be defined by your net worth or how many followers you had or even the depth of the tragedies you endured. Your legacy will be defined by how"
+    },
+    {
+      "fp": "1kaz2jt",
+      "i": 320,
+      "from": 82039,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "how you responded to the friction. It will be defined by the tiny, invisible, deeply unglamorous"
+    },
+    {
+      "fp": "g39amq",
+      "i": 321,
+      "from": 82214,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "unglamorous daily choices you made to stop the cycle of trauma. It is the moment you chose to take a breath and feel the anger instead of yelling at your child. It is the moment yo"
+    },
+    {
+      "fp": "kzdvnc",
+      "i": 322,
+      "from": 82596,
+      "subject": "heart",
+      "entities": [],
+      "concept": "heart",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "heart, 1995"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": null,
+        "cast": []
+      },
+      "_said": "instead of retreating into the safety of chronic busyness. It is the moment you chose to accept love even though it terrified you."
+    },
+    {
+      "fp": "ypu1s6",
+      "i": 323,
+      "from": 82800,
+      "subject": "dominoCascade",
+      "entities": [],
+      "concept": "dominoCascade",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "domino cascade, 1995"
+      },
+      "antidote": {
+        "concept": "dominoCascade",
+        "cast": []
+      },
+      "_said": "you. Those microscopic internal shifts in trajectory compound over decades. They don't just change"
+    },
+    {
+      "fp": "s4zadv",
+      "i": 324,
+      "from": 82972,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "change the landscape of your own life, they alter the lives of everyone you interact with. You become a circuit breaker for generational trauma. It is the ultimate expression of ra"
+    },
+    {
+      "fp": "e4h01",
+      "i": 325,
+      "from": 83234,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "leave you with a single highly actionable ref, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "radical responsibility. And to bring this all the way down from the stratosphere to leave you with a single highly actionable reframe you can use tonight. The next time you catch y"
+    },
+    {
+      "fp": "1vga7fw",
+      "i": 326,
+      "from": 83503,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, 1995"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "the act of self-sabotage, the next time you are staring at a blank document and procrastinating, or you feel the sudden urge to pick a fight with your partner over a dishwasher,"
+    },
+    {
+      "fp": "1ejgbmw",
+      "i": 327,
+      "from": 83762,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, 1995"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "dishwasher, or you feel panic rising in your throat just as your career is taking off, do not punish Do not go to war with your own mind. Do not"
+    },
+    {
+      "fp": "wjv0ay",
+      "i": 328,
+      "from": 83995,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone, 1995"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": null,
+        "cast": []
+      },
+      "_said": "not call yourself lazy or crazy or Pause the tape. Take a deep physical breath. Drop into your body and"
+    },
+    {
+      "fp": "jlfl7o",
+      "i": 329,
+      "from": 84240,
+      "subject": "shield",
+      "entities": [],
+      "concept": "shield",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "shield, 1995"
+      },
+      "antidote": {
+        "concept": "shield",
+        "cast": []
+      },
+      "_said": "and ask yourself one simple piercing question. What unmet need is this behavior trying to protect or fulfill? Treat your bad habit"
+    },
+    {
+      "fp": "2kle6z",
+      "i": 330,
+      "from": 84497,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "habit with intense curiosity instead of contempt? Because the exact moment"
+    },
+    {
+      "fp": "1lcnw5l",
+      "i": 331,
+      "from": 84607,
+      "subject": "shield",
+      "entities": [],
+      "concept": "shield",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "shield, 1995"
+      },
+      "antidote": {
+        "concept": "shield",
+        "cast": []
+      },
+      "_said": "moment you identify the true hidden need, the need for safety, for trust, for connection,"
+    },
+    {
+      "fp": "14nq9f6",
+      "i": 332,
+      "from": 84739,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "connection, the sabotage instantly loses its power. It is no longer a mysterious demonic force ruining your life. It is simply an outdated, clumsy tool that you can"
+    },
+    {
+      "fp": "1g0ewue",
+      "i": 333,
+      "from": 85008,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "can now consciously choose to put down because you have better tools at your disposal. We've covered a massive amount of terrain today. moving"
+    },
+    {
+      "fp": "1cmd8pf",
+      "i": 334,
+      "from": 85207,
+      "subject": "sword",
+      "entities": [],
+      "concept": "sword",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "sword, 1995"
+      },
+      "antidote": {
+        "concept": "sword",
+        "cast": []
+      },
+      "_said": "moving from the tectonic plates of the psyche to the biology of emotion to the quiet courage required for the climb. But I want to leave you with one final lingering"
+    },
+    {
+      "fp": "1q70k1t",
+      "i": 335,
+      "from": 85454,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, 1995"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "lingering thought to mull over as you go about your day. Something that flips this entire script on its We spend so much of our energy fighting our flaws. We go to war with our anx"
+    },
+    {
+      "fp": "y7dmr5",
+      "i": 336,
+      "from": 85761,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, 1995"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "battle our procrastination. We hate our fear. But based on everything we've unpacked today, what if your most frustrating, destructive, deeply embarrassing flaw isn't a demon to be"
+    },
+    {
+      "fp": "oop5zd",
+      "i": 337,
+      "from": 86061,
+      "subject": "mask",
+      "entities": [],
+      "concept": "mask",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "mask, 1995"
+      },
+      "antidote": {
+        "concept": "mask",
+        "cast": []
+      },
+      "_said": "all? What if it is actually just your deepest, most innocent, unmet need, desperately wearing a terrifying mask, simply asking to finally be seen?"
+    }
+  ]
+}

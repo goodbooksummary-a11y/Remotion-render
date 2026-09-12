@@ -1,0 +1,216 @@
+{
+  "slug": "fences",
+  "world": {
+    "era": "1941–1965",
+    "approxYear": 1957,
+    "setting": "",
+    "register": "",
+    "forbid": [
+      "phone",
+      "codeWindow",
+      "laptopMockup",
+      "rocketLaunch",
+      "funnelMetrics",
+      "dollarExchange",
+      "subway",
+      "car",
+      "alarmClock",
+      "medical"
+    ]
+  },
+  "cast": {
+    "troy": {
+      "name": "Troy",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 25
+    },
+    "cory": {
+      "name": "Cory",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 8
+    },
+    "rose": {
+      "name": "Rose",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 5
+    },
+    "wilson": {
+      "name": "Wilson",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 3
+    },
+    "gabriel": {
+      "name": "Gabriel",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 3
+    },
+    "bono": {
+      "name": "Bono",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 2
+    },
+    "maxson": {
+      "name": "Maxson",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 2
+    },
+    "richards": {
+      "name": "Richards",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 2
+    }
+  },
+  "places": {
+    "street": {
+      "set": "street",
+      "look": "",
+      "mentions": 2
+    },
+    "hospital": {
+      "set": "hospital",
+      "look": "",
+      "mentions": 1
+    }
+  },
+  "objects": [
+    {
+      "concept": "family",
+      "mentions": 51,
+      "why": ""
+    },
+    {
+      "concept": "home",
+      "mentions": 20,
+      "why": ""
+    },
+    {
+      "concept": "grave",
+      "mentions": 13,
+      "why": ""
+    },
+    {
+      "concept": "heart",
+      "mentions": 12,
+      "why": ""
+    },
+    {
+      "concept": "war",
+      "mentions": 10,
+      "why": ""
+    },
+    {
+      "concept": "road",
+      "mentions": 10,
+      "why": ""
+    },
+    {
+      "concept": "work",
+      "mentions": 10,
+      "why": ""
+    },
+    {
+      "concept": "gift",
+      "mentions": 8,
+      "why": ""
+    },
+    {
+      "concept": "coin",
+      "mentions": 8,
+      "why": ""
+    },
+    {
+      "concept": "shield",
+      "mentions": 7,
+      "why": ""
+    },
+    {
+      "concept": "notes",
+      "mentions": 7,
+      "why": ""
+    },
+    {
+      "concept": "game",
+      "mentions": 7,
+      "why": ""
+    }
+  ],
+  "spine": [
+    {
+      "act": "The Fence Troy Builds Against Death",
+      "fromFrame": 0,
+      "claim": ""
+    },
+    {
+      "act": "1957 Pittsburgh: The World That Made Troy",
+      "fromFrame": 2490,
+      "claim": ""
+    },
+    {
+      "act": "The Maxson Household",
+      "fromFrame": 5130,
+      "claim": ""
+    },
+    {
+      "act": "Baseball as Troy's Private Language",
+      "fromFrame": 8910,
+      "claim": ""
+    },
+    {
+      "act": "The Garbage Truck: Troy vs. the System",
+      "fromFrame": 16800,
+      "claim": ""
+    },
+    {
+      "act": "Troy vs. Cory: The Football Scholarship",
+      "fromFrame": 20610,
+      "claim": ""
+    },
+    {
+      "act": "Gabriel's $3,000 and Troy's Guilt",
+      "fromFrame": 22350,
+      "claim": ""
+    },
+    {
+      "act": "Rose's Breaking Point",
+      "fromFrame": 34920,
+      "claim": ""
+    },
+    {
+      "act": "Why Troy Cheats",
+      "fromFrame": 39450,
+      "claim": ""
+    },
+    {
+      "act": "Troy's Father: Where Broken Love Begins",
+      "fromFrame": 42330,
+      "claim": ""
+    },
+    {
+      "act": "The Ending: Gabriel's Dance",
+      "fromFrame": 48060,
+      "claim": ""
+    },
+    {
+      "act": "What the Fence Really Means",
+      "fromFrame": 53940,
+      "claim": ""
+    }
+  ],
+  "authored": false
+}

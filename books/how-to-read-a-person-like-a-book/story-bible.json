@@ -1,0 +1,118 @@
+{
+  "slug": "how-to-read-a-person-like-a-book",
+  "world": {
+    "era": "contemporary",
+    "approxYear": 1995,
+    "setting": "",
+    "register": "",
+    "forbid": []
+  },
+  "cast": {},
+  "places": {
+    "street": {
+      "set": "street",
+      "look": "",
+      "mentions": 1
+    },
+    "office": {
+      "set": "office",
+      "look": "",
+      "mentions": 1
+    },
+    "cafe": {
+      "set": "cafe",
+      "look": "",
+      "mentions": 1
+    }
+  },
+  "objects": [
+    {
+      "concept": "phone",
+      "mentions": 12,
+      "why": ""
+    },
+    {
+      "concept": "shadowSelf",
+      "mentions": 11,
+      "why": ""
+    },
+    {
+      "concept": "war",
+      "mentions": 7,
+      "why": ""
+    },
+    {
+      "concept": "shield",
+      "mentions": 6,
+      "why": ""
+    },
+    {
+      "concept": "car",
+      "mentions": 5,
+      "why": ""
+    },
+    {
+      "concept": "target",
+      "mentions": 5,
+      "why": ""
+    },
+    {
+      "concept": "school",
+      "mentions": 5,
+      "why": ""
+    },
+    {
+      "concept": "photo",
+      "mentions": 4,
+      "why": ""
+    },
+    {
+      "concept": "game",
+      "mentions": 4,
+      "why": ""
+    },
+    {
+      "concept": "family",
+      "mentions": 4,
+      "why": ""
+    },
+    {
+      "concept": "rocketLaunch",
+      "mentions": 4,
+      "why": ""
+    },
+    {
+      "concept": "mask",
+      "mentions": 4,
+      "why": ""
+    }
+  ],
+  "spine": [
+    {
+      "act": "setup",
+      "fromFrame": 17,
+      "claim": ""
+    },
+    {
+      "act": "development",
+      "fromFrame": 14338,
+      "claim": ""
+    },
+    {
+      "act": "turn",
+      "fromFrame": 28395,
+      "claim": ""
+    },
+    {
+      "act": "consequence",
+      "fromFrame": 42322,
+      "claim": ""
+    },
+    {
+      "act": "close",
+      "fromFrame": 57356,
+      "claim": ""
+    }
+  ],
+  "authored": false
+}

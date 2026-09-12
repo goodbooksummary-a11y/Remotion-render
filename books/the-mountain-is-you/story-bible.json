@@ -1,0 +1,166 @@
+{
+  "slug": "the-mountain-is-you",
+  "world": {
+    "era": "contemporary",
+    "approxYear": 1995,
+    "setting": "",
+    "register": "",
+    "forbid": []
+  },
+  "cast": {
+    "daniel": {
+      "name": "Daniel",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 6
+    },
+    "sam": {
+      "name": "Sam",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 5
+    },
+    "maya": {
+      "name": "Maya",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 3
+    },
+    "marcus": {
+      "name": "Marcus",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 2
+    },
+    "young": {
+      "name": "Young",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 2
+    },
+    "perfectionism": {
+      "name": "Perfectionism",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 2
+    }
+  },
+  "places": {
+    "highway": {
+      "set": "highway",
+      "look": "",
+      "mentions": 3
+    },
+    "kitchen": {
+      "set": "kitchen",
+      "look": "",
+      "mentions": 2
+    },
+    "classroom": {
+      "set": "classroom",
+      "look": "",
+      "mentions": 1
+    },
+    "office": {
+      "set": "office",
+      "look": "",
+      "mentions": 1
+    }
+  },
+  "objects": [
+    {
+      "concept": "shield",
+      "mentions": 30,
+      "why": ""
+    },
+    {
+      "concept": "war",
+      "mentions": 21,
+      "why": ""
+    },
+    {
+      "concept": "heart",
+      "mentions": 19,
+      "why": ""
+    },
+    {
+      "concept": "shadowSelf",
+      "mentions": 16,
+      "why": ""
+    },
+    {
+      "concept": "phone",
+      "mentions": 15,
+      "why": ""
+    },
+    {
+      "concept": "road",
+      "mentions": 9,
+      "why": ""
+    },
+    {
+      "concept": "home",
+      "mentions": 8,
+      "why": ""
+    },
+    {
+      "concept": "alarmClock",
+      "mentions": 7,
+      "why": ""
+    },
+    {
+      "concept": "coin",
+      "mentions": 7,
+      "why": ""
+    },
+    {
+      "concept": "school",
+      "mentions": 6,
+      "why": ""
+    },
+    {
+      "concept": "car",
+      "mentions": 6,
+      "why": ""
+    },
+    {
+      "concept": "work",
+      "mentions": 6,
+      "why": ""
+    }
+  ],
+  "spine": [
+    {
+      "act": "setup",
+      "fromFrame": 20,
+      "claim": ""
+    },
+    {
+      "act": "development",
+      "fromFrame": 16685,
+      "claim": ""
+    },
+    {
+      "act": "turn",
+      "fromFrame": 34827,
+      "claim": ""
+    },
+    {
+      "act": "consequence",
+      "fromFrame": 51404,
+      "claim": ""
+    },
+    {
+      "act": "close",
+      "fromFrame": 67993,
+      "claim": ""
+    }
+  ],
+  "authored": false
+}

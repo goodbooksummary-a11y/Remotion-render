@@ -1,0 +1,5269 @@
+{
+  "slug": "sway",
+  "authored": false,
+  "briefs": [
+    {
+      "fp": "3aaayf",
+      "i": 0,
+      "from": 0,
+      "subject": "road",
+      "entities": [],
+      "concept": "road",
+      "place": "highway",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "road, highway, 1977"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": "highway",
+        "cast": []
+      },
+      "_said": "the best pilot in the whole airline is the exact man who drove 583 people into a fireball because in his head waiting was"
+    },
+    {
+      "fp": "vbj9e4",
+      "i": 1,
+      "from": 336,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "was the expensive choice, right? And it completely shatters this uh this comforting illusion we all hold on to, you know, that if you just get enough training or if you acquire"
+    },
+    {
+      "fp": "1yijnt7",
+      "i": 2,
+      "from": 626,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "acquire enough expertise, you somehow become immune to making catastrophic decisions. We all assume"
+    },
+    {
+      "fp": "1c9l43m",
+      "i": 3,
+      "from": 763,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "assume that rationality scales with Like the older and smarter you get, the safer you are. Exactly. But the reality is it's actually far more dangerous. And that is the absolute sp"
+    },
+    {
+      "fp": "11ksag0",
+      "i": 4,
+      "from": 1133,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "sit with it, 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "dive. We're looking at sway. And the argument here, which is terrifying if you really sit with it, is that so-called"
+    },
+    {
+      "fp": "jshpwn",
+      "i": 5,
+      "from": 1301,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "so-called irrational behavior isn't just No, not at all. It's not a glitch or people having a momentary lapse in judgment. It is the human mind"
+    },
+    {
+      "fp": "1b0yz38",
+      "i": 6,
+      "from": 1528,
+      "subject": "shield",
+      "entities": [],
+      "concept": "shield",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "shield, 1977"
+      },
+      "antidote": {
+        "concept": "shield",
+        "cast": []
+      },
+      "_said": "mind behaving incredibly almost ruthlessly rationally to defend a commitment it has already made."
+    },
+    {
+      "fp": "kjksma",
+      "i": 7,
+      "from": 1694,
+      "subject": "shield",
+      "entities": [],
+      "concept": "shield",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "shield, 1977"
+      },
+      "antidote": {
+        "concept": "shield",
+        "cast": []
+      },
+      "_said": "made. Yeah. The mind acts like a defense attorney, and the client it is defending is a choice you've just made, a label you've applied, or um a self-image"
+    },
+    {
+      "fp": "yqjgf6",
+      "i": 8,
+      "from": 1951,
+      "subject": "shield",
+      "entities": [],
+      "concept": "shield",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "shield, walk away exactly, 1977"
+      },
+      "antidote": {
+        "concept": "shield",
+        "cast": []
+      },
+      "_said": "self-image you're desperate to maintain, or a sunk cost you refuse to walk away Exactly. You aren't losing your mind. Your mind is furiously protecting a stake it put in the ground"
+    },
+    {
+      "fp": "9dya1q",
+      "i": 9,
+      "from": 2285,
+      "subject": "shield",
+      "entities": [],
+      "concept": "shield",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "shield, 1977"
+      },
+      "antidote": {
+        "concept": "shield",
+        "cast": []
+      },
+      "_said": "it means expertise doesn't save you. I mean, we always assume that training creates this impenetrable shield, right?"
+    },
+    {
+      "fp": "9tju1c",
+      "i": 10,
+      "from": 2481,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "reads market data, 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "right? A surgeon looks at charts. A CEO reads market data. A pilot trusts the Are you saying the smarter you are, the harder you fall? I'm saying that expertise actually delivers t"
+    },
+    {
+      "fp": "1ernkfv",
+      "i": 11,
+      "from": 2889,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "fall from, 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "exact vocabulary and the unshakable confidence you need to build a taller pedestal to fall from."
+    },
+    {
+      "fp": "1hkbvf0",
+      "i": 12,
+      "from": 3072,
+      "subject": "wallet",
+      "entities": [],
+      "concept": "wallet",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "wallet, whispering that the rules don't apply to you in th, 1977"
+      },
+      "antidote": {
+        "concept": "wallet",
+        "cast": []
+      },
+      "_said": "from. Knowing the rules doesn't save you if a powerful neurological force is whispering that the rules don't apply to you in this specific context. And nowhere is that more devasta"
+    },
+    {
+      "fp": "1rsabkx",
+      "i": 13,
+      "from": 3341,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "clear. Yeah. Than in the deadliest aviation disaster in Yeah. Tenneref."
+    },
+    {
+      "fp": "rok7d3",
+      "i": 14,
+      "from": 3470,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Let's drop right into the cockpit because this proves the thesis in blood. It's 1977. We are on a foggy runway on a tiny island"
+    },
+    {
+      "fp": "5m35rv",
+      "i": 15,
+      "from": 3729,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "sitting at the controls of a km747 jumbo jet, 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "island in the Canary's Tenery. Just a tiny regional airport, right? Cramped, not built for this. And sitting at the controls of a KM747 jumbo jet"
+    },
+    {
+      "fp": "1n170p6",
+      "i": 16,
+      "from": 4005,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "jet is Captain Jacob Anzen. And it is crucial to understand who this guy is. He isn't just a pilot."
+    },
+    {
+      "fp": "1nqlccy",
+      "i": 17,
+      "from": 4192,
+      "subject": "shield",
+      "entities": [],
+      "concept": "shield",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "shield, 1977"
+      },
+      "antidote": {
+        "concept": "shield",
+        "cast": []
+      },
+      "_said": "pilot. No, he's basically the face of the Literally, he's in their magazine ads. He's KM's head of safety. He just finished teaching a six-month safety course on crisis"
+    },
+    {
+      "fp": "1lvxl7x",
+      "i": 18,
+      "from": 4476,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "notes, writes the protocols that the rest of the avia, 1977"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": []
+      },
+      "_said": "crisis management. He's the man who writes the protocols that the rest of the aviation world Exactly. But today,"
+    },
+    {
+      "fp": "62wm5e",
+      "i": 19,
+      "from": 4670,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "today, the environment is actively working against his protocols. A terrorist bomb explodes at their original destination, Los Palmus. So, massive jumbo jets get diverted to which"
+    },
+    {
+      "fp": "12cj3ag",
+      "i": 20,
+      "from": 5001,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "which is a nightmare. Total nightmare. He lands safely, but the second the wheels touch down, this ticking clock starts in his head."
+    },
+    {
+      "fp": "t8b7hw",
+      "i": 21,
+      "from": 5193,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "head. The Dutch government has a strict mandated rest period for Right. The duty time regulations. Yeah. If"
+    },
+    {
+      "fp": "1chen47",
+      "i": 22,
+      "from": 5361,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "If Van Santin doesn't get his plane off the ground by 6:30 p.m."
+    },
+    {
+      "fp": "ir2hvq",
+      "i": 23,
+      "from": 5443,
+      "subject": "law",
+      "entities": [],
+      "concept": "law",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "law, 1977"
+      },
+      "antidote": {
+        "concept": "law",
+        "set": null,
+        "cast": []
+      },
+      "_said": "p.m. It's not just a slap on the wrist. It is a criminal offense. He could lose his license, face prison time. So, we have to look at the cognitive load he is under. The cascading"
+    },
+    {
+      "fp": "1b2izu3",
+      "i": 24,
+      "from": 5712,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "cascading consequences are playing out in his prefrontal cortex. If he misses that window, there is no replacement crew on this tiny island."
+    },
+    {
+      "fp": "1ju39n",
+      "i": 25,
+      "from": 5961,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Hundreds of his passengers will be stranded. The airline has to find hotel rooms that simply do not exist."
+    },
+    {
+      "fp": "qv1stg",
+      "i": 26,
+      "from": 6139,
+      "subject": "star",
+      "entities": [],
+      "concept": "star",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "star, watch of their star pilot, 1977"
+      },
+      "antidote": {
+        "concept": "star",
+        "set": null,
+        "cast": []
+      },
+      "_said": "exist. It's a logistical, financial, and PR nightmare. And it's all going to happen on the watch of their star pilot."
+    },
+    {
+      "fp": "8r7p6b",
+      "i": 27,
+      "from": 6336,
+      "subject": "wallet",
+      "entities": [],
+      "concept": "wallet",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "wallet, 1977"
+      },
+      "antidote": {
+        "concept": "wallet",
+        "cast": []
+      },
+      "_said": "pilot. The pressure to perform is blinding. Utterly blinding. And that pressure pushes him into a time-saving choice that seals his fake. He decides to refuel while they are stuck "
+    },
+    {
+      "fp": "1511yhm",
+      "i": 28,
+      "from": 6643,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "waiting for los palmus to reopen, 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "waiting for Los Palmus to reopen. Just trying to be efficient, right? But the moment they hook up the massive fuel hoses, word comes that"
+    },
+    {
+      "fp": "qciwk4",
+      "i": 29,
+      "from": 6861,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "leave right except they can't, 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "that Los Palmus is clear. They could leave right Except they can't. He has physically"
+    },
+    {
+      "fp": "fkpn12",
+      "i": 30,
+      "from": 6993,
+      "subject": "wallet",
+      "entities": [],
+      "concept": "wallet",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "wallet, sitting there trapped by his own attempt to sav, 1977"
+      },
+      "antidote": {
+        "concept": "wallet",
+        "cast": []
+      },
+      "_said": "physically tethered his aircraft to the ground. And while he's sitting there trapped by his own attempt to save time, the weather turns. A thick, heavy fog rolls in over the runway"
+    },
+    {
+      "fp": "1c2c6cu",
+      "i": 31,
+      "from": 7303,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "runway. Visibility drops to 300 m. He can't even see the end of his own It's like soup."
+    },
+    {
+      "fp": "1hldsvh",
+      "i": 32,
+      "from": 7464,
+      "subject": "Vanzant",
+      "entities": [
+        "vanzant"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Vanzant, 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "vanzant"
+        ]
+      },
+      "_said": "soup. And Vanzant knows that if this fog gets any worse, the tower is going to shut down"
+    },
+    {
+      "fp": "euhcmx",
+      "i": 33,
+      "from": 7601,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "down the airport entirely and he will hit that mandated rest period. The certain loss of"
+    },
+    {
+      "fp": "1natnx9",
+      "i": 34,
+      "from": 7776,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "of his time, his schedule, and his pristine record is staring him right in the face. And this is the biological inflection point. This is where the amydala, you know, the brain's t"
+    },
+    {
+      "fp": "qwzft4",
+      "i": 35,
+      "from": 8104,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "hijacks the prefrontal He snaps frustrated, feeling the crushing weight of this impending delay."
+    },
+    {
+      "fp": "137fjs3",
+      "i": 36,
+      "from": 8273,
+      "subject": "Vanzanton",
+      "entities": [
+        "vanzanton"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Vanzanton, wait a minute, 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "vanzanton"
+        ]
+      },
+      "_said": "delay. Vanzanton revs the engines. The 747 lurches forward into the fog. And his co-pilot, clearly alarmed, stops him. He says, \"Wait a minute. We don't have ATC clearance. We don'"
+    },
+    {
+      "fp": "1o50a1m",
+      "i": 37,
+      "from": 8642,
+      "subject": "Vanzant — shield",
+      "entities": [
+        "vanzant"
+      ],
+      "concept": "shield",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Vanzant, 1977"
+      },
+      "antidote": {
+        "concept": "shield",
+        "cast": [
+          "vanzant"
+        ]
+      },
+      "_said": "clearance.\" Right? And Vanzant, the head of safety, the guy who wrote the book on never doing this, snaps back. I know that. Go ahead and ask."
+    },
+    {
+      "fp": "1qnm9ai",
+      "i": 38,
+      "from": 8851,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "ask. So the co-pilot asks the tower, but the tower only gives them airway clearance,"
+    },
+    {
+      "fp": "jka6hx",
+      "i": 39,
+      "from": 9009,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "clearance, which is different, right? Very different. It's just approval of the flight plan, like the route they will take once they are"
+    },
+    {
+      "fp": "1oh5sso",
+      "i": 40,
+      "from": 9170,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "are actually airborne. It is explicitly not takeoff The tower does not say they are clear to take off."
+    },
+    {
+      "fp": "6itb8",
+      "i": 41,
+      "from": 9365,
+      "subject": "Vanzanton",
+      "entities": [
+        "vanzanton"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Vanzanton, 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "vanzanton"
+        ]
+      },
+      "_said": "off. Yet Vanzanton turns the throttles to full power. He roars down this foggy runway. The jumbo jet is gaining"
+    },
+    {
+      "fp": "1y3tifg",
+      "i": 42,
+      "from": 9585,
+      "subject": "zap",
+      "entities": [],
+      "concept": "zap",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "zap, 1977"
+      },
+      "antidote": {
+        "concept": "zap",
+        "set": null,
+        "cast": []
+      },
+      "_said": "gaining momentum, hurdling through this thick gray fog, going incredibly fast. And then the absolute scariest sight imaginable"
+    },
+    {
+      "fp": "ip0hvo",
+      "i": 43,
+      "from": 9813,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "imaginable materializes right in front of them. A Panama 747 is parked directly across the runway, hidden by the fog."
+    },
+    {
+      "fp": "1dic37p",
+      "i": 44,
+      "from": 10025,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "fog. And Venzant is approaching it at 60 mph. There's no way to stop. The plane is too heavy with the fuel he just pumped into it. His only chance is to force"
+    },
+    {
+      "fp": "1h4xynh",
+      "i": 45,
+      "from": 10284,
+      "subject": "ledge",
+      "entities": [],
+      "concept": "ledge",
+      "place": "street",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "ledge, street, 1977"
+      },
+      "antidote": {
+        "concept": "ledge",
+        "set": "street",
+        "cast": []
+      },
+      "_said": "force this massive machine into the air early. He has to try to jump"
+    },
+    {
+      "fp": "crp8np",
+      "i": 46,
+      "from": 10377,
+      "subject": "ledge",
+      "entities": [],
+      "concept": "ledge",
+      "place": "street",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "ledge, street, 1977"
+      },
+      "antidote": {
+        "concept": "ledge",
+        "set": "street",
+        "cast": []
+      },
+      "_said": "jump it. Yeah. He pulls the nose up so hard the tail drags on the tarmac. It throws this blinding spray of sparks behind them."
+    },
+    {
+      "fp": "1tx3ugy",
+      "i": 47,
+      "from": 10593,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "them. He's physically trying to will the plane over the obstacle. The nose clears the parked Panamajet, but the underside of his fuselage rips through the top of it."
+    },
+    {
+      "fp": "1twylg9",
+      "i": 48,
+      "from": 10860,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "it. The structural integrity is instantly destroyed. The KM plane hurdles another 500 yd, hits the ground, and bursts into a fireball."
+    },
+    {
+      "fp": "18yswvm",
+      "i": 49,
+      "from": 11083,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "fireball. 584 people lose their lives. It's just devastating. Investigators combed through this for months. They ruled out terrorism. They ruled"
+    },
+    {
+      "fp": "2z0nlb",
+      "i": 50,
+      "from": 11328,
+      "subject": "shield",
+      "entities": [],
+      "concept": "shield",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "shield, 1977"
+      },
+      "antidote": {
+        "concept": "shield",
+        "cast": []
+      },
+      "_said": "ruled out mechanical failure. Yes, the Panama plane missed a turnoff. Yes, the fog was terrible. But none of it happens if the head of safety doesn't push"
+    },
+    {
+      "fp": "vupaj1",
+      "i": 51,
+      "from": 11582,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "push the throttle without clearance. And this is exactly where the standard analysis fails us."
+    },
+    {
+      "fp": "qb7ml5",
+      "i": 52,
+      "from": 11738,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "us. The investigators initially concluded he was, you know, frustrated or impatient, right? Which sounds so trivial because it is."
+    },
+    {
+      "fp": "kjwovs",
+      "i": 53,
+      "from": 11954,
+      "subject": "shield",
+      "entities": [],
+      "concept": "shield",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "shield, 1977"
+      },
+      "antidote": {
+        "concept": "shield",
+        "cast": []
+      },
+      "_said": "is. Impatience doesn't make the world's leading safety expert override the most fundamental law of aviation. What we are witnessing is"
+    },
+    {
+      "fp": "ivf0kg",
+      "i": 54,
+      "from": 12175,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "is the architecture of irrationality, defending"
+    },
+    {
+      "fp": "h3edxi",
+      "i": 55,
+      "from": 12254,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "defending a commitment. Yes, he was utterly committed to a specific outcome, avoiding the criminal and logistical disaster of missing"
+    },
+    {
+      "fp": "156jfqi",
+      "i": 56,
+      "from": 12492,
+      "subject": "crash",
+      "entities": [],
+      "concept": "crash",
+      "place": "highway",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "crash, highway, 1977"
+      },
+      "antidote": {
+        "concept": "crash",
+        "set": "highway",
+        "cast": []
+      },
+      "_said": "missing his mandated rest period. The abstract risk of an accident was completely eclipsed by the certain loss of his schedule. He was fiercely defending"
+    },
+    {
+      "fp": "ha4gaa",
+      "i": 57,
+      "from": 12739,
+      "subject": "gift",
+      "entities": [],
+      "concept": "gift",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "gift, leaving that island, 1977"
+      },
+      "antidote": {
+        "concept": "gift",
+        "cast": []
+      },
+      "_said": "defending his commitment to leaving that island. It's chilling. You realize his expertise didn't give him pause. It gave him the arrogance to think he could manage"
+    },
+    {
+      "fp": "bfla1v",
+      "i": 58,
+      "from": 12969,
+      "subject": "road",
+      "entities": [],
+      "concept": "road",
+      "place": "highway",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "road, highway, 1977"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": "highway",
+        "cast": []
+      },
+      "_said": "manage the unmanageable. He was terrified of taking a loss on his time. And to understand what that terror does to the biology of the brain, we have to look at the raw engine drivi"
+    },
+    {
+      "fp": "1t510dt",
+      "i": 59,
+      "from": 13291,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "this. It's a mechanism called loss aversion. Loss aversion is the master key to human behavior. It was originally chronicled"
+    },
+    {
+      "fp": "16dulwb",
+      "i": 60,
+      "from": 13500,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "chronicled by psychologists Daniel Conaman and Amos Chverki. And simply put, human beings do not process gains and losses rationally. Not at all."
+    },
+    {
+      "fp": "1wnxu28",
+      "i": 61,
+      "from": 13783,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "all. We experience the pain associated with a loss much more vividly and much more deeply than we do the joy of"
+    },
+    {
+      "fp": "i2n91v",
+      "i": 62,
+      "from": 13958,
+      "subject": "game",
+      "entities": [],
+      "concept": "game",
+      "place": "street",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "game, street, 1977"
+      },
+      "antidote": {
+        "concept": "game",
+        "set": "street",
+        "cast": []
+      },
+      "_said": "of an equivalent game. But wait, why? If I find $20 on the street, I'm happy. If I drop a $20 bill out of my pocket, I'm annoyed."
+    },
+    {
+      "fp": "1texr5c",
+      "i": 63,
+      "from": 14229,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "annoyed. Shouldn't those two emotions cancel each other out on a spreadsheet?"
+    },
+    {
+      "fp": "1ajhfww",
+      "i": 64,
+      "from": 14332,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "spreadsheet? On a spreadsheet, yes, sure. But in a biological organism shaped by millions of years of evolution, absolutely not."
+    },
+    {
+      "fp": "1lklhje",
+      "i": 65,
+      "from": 14551,
+      "subject": "grave",
+      "entities": [],
+      "concept": "grave",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "grave, 1977"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": null,
+        "cast": []
+      },
+      "_said": "not. Think about our huntergatherer ancestors on the savannah. If you acquire an extra meal, again, it's nice. You have surplus calories. But if you lose a meal, a loss, you might "
+    },
+    {
+      "fp": "1be0lii",
+      "i": 66,
+      "from": 14885,
+      "subject": "grave",
+      "entities": [],
+      "concept": "grave",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "grave, 1977"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": null,
+        "cast": []
+      },
+      "_said": "death. The penalty for loss in evolutionary terms is fatal. So our brains evolved to treat losses"
+    },
+    {
+      "fp": "sn0mjk",
+      "i": 67,
+      "from": 15060,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "losses as existential threats. The neurological alarm bells that ring when we're about to lose something are deafening"
+    },
+    {
+      "fp": "1dnrp47",
+      "i": 68,
+      "from": 15245,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "war, 1977"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "deafening compared to the gentle dopamine hit of gaining something. That makes total sense. I mean, it's why in video games, I will hoard health potions and never use them, even du"
+    },
+    {
+      "fp": "2g1qt3",
+      "i": 69,
+      "from": 15633,
+      "subject": "game",
+      "entities": [],
+      "concept": "game",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "game, 1977"
+      },
+      "antidote": {
+        "concept": "game",
+        "set": null,
+        "cast": []
+      },
+      "_said": "completely overrides the rational benefit of using it to win the game."
+    },
+    {
+      "fp": "kv8jiu",
+      "i": 70,
+      "from": 15756,
+      "subject": "game",
+      "entities": [],
+      "concept": "game",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "game, 1977"
+      },
+      "antidote": {
+        "concept": "game",
+        "set": null,
+        "cast": []
+      },
+      "_said": "game. I'm protecting my inventory at the cost of my actual That is a perfect microcosm of it. And behavioral economists have actually quantified this asymmetry, right? And it's not"
+    },
+    {
+      "fp": "11cmj0x",
+      "i": 71,
+      "from": 16068,
+      "subject": "grave",
+      "entities": [],
+      "concept": "grave",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "grave, 1977"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": null,
+        "cast": []
+      },
+      "_said": "a subtle difference. Let's step away from life or death scenarios on a runway and look at something ridiculously mundane, the grocery store. Specifically, the egg aisle"
+    },
+    {
+      "fp": "1gwkwso",
+      "i": 72,
+      "from": 16291,
+      "subject": "coin",
+      "entities": [],
+      "concept": "coin",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "coin, 1977"
+      },
+      "antidote": {
+        "concept": "coin",
+        "cast": []
+      },
+      "_said": "aisle in Southern California. The stakes couldn't be lower. Yet, the neurological response is identical. A USDA researcher named Daniel Putler spent a year meticulously tracking eg"
+    },
+    {
+      "fp": "ng4s31",
+      "i": 73,
+      "from": 16668,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "against price fluctuations. Now, classical economics, which assumes humans are these rational"
+    },
+    {
+      "fp": "hbo323",
+      "i": 74,
+      "from": 16809,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "rational calculating robots, predicts a symmetrical seesaw, a perfectly proportional response to market condition, right? If"
+    },
+    {
+      "fp": "1jom4er",
+      "i": 75,
+      "from": 17033,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "If the price of eggs drops by 10 cents, we buy a little more. If the price goes up by 10 cents, we buy a little less. But that's not what happened. Not even close."
+    },
+    {
+      "fp": "18gmvfg",
+      "i": 76,
+      "from": 17287,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "close. Butler found a massive distortion. When the price of eggs dropped, consumers bought a little more."
+    },
+    {
+      "fp": "1ep9i37",
+      "i": 77,
+      "from": 17462,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "more. They experienced a mild gain. But when the price rose by the exact same amount, they cut their consumption by two and a half times."
+    },
+    {
+      "fp": "1upd7kb",
+      "i": 78,
+      "from": 17688,
+      "subject": "game",
+      "entities": [],
+      "concept": "game",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "game, 1977"
+      },
+      "antidote": {
+        "concept": "game",
+        "set": null,
+        "cast": []
+      },
+      "_said": "times. Two and a half times. That is the ratio of human psychology. A laws stings 2.5 times harder than a game feels good."
+    },
+    {
+      "fp": "y4xohe",
+      "i": 79,
+      "from": 17894,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "good. That's wild. When that shopper sees the price of eggs has gone up by a dime, their amygdala isn't doing math. It"
+    },
+    {
+      "fp": "1ho9xc7",
+      "i": 80,
+      "from": 18103,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "It is reacting to a threat. They get this visceral, oh no, feeling in their gut. The logic of it's only 10 cents completely evaporates. You feel like you're being extorted. You loo"
+    },
+    {
+      "fp": "ploii0",
+      "i": 81,
+      "from": 18513,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "the emotional dread of the loss completely overrides the actual utility of having eggs"
+    },
+    {
+      "fp": "r2yc8f",
+      "i": 82,
+      "from": 18641,
+      "subject": "food",
+      "entities": [],
+      "concept": "food",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "food, 1977"
+      },
+      "antidote": {
+        "concept": "food",
+        "set": null,
+        "cast": []
+      },
+      "_said": "eggs for breakfast. And this multiplier, this 2.5, it doesn't just dictate breakfast choices. It dictates massive societal and financial"
+    },
+    {
+      "fp": "1gnd2gj",
+      "i": 83,
+      "from": 18878,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "financial architectures. Look at how telecommunications companies used to sell phone plans. Oh, the old cell plans, right?"
+    },
+    {
+      "fp": "i897ux",
+      "i": 84,
+      "from": 19061,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "right? They offered a choice. Pay by the minute for exactly what you use or pay a massive flat monthly fee"
+    },
+    {
+      "fp": "1nh8wua",
+      "i": 85,
+      "from": 19269,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "fee for unlimited calls. From a purely rational data driven standpoint, if you look at how many minutes the average person actually talks, the pay by the minute plan is almost alwa"
+    },
+    {
+      "fp": "4oth45",
+      "i": 86,
+      "from": 19593,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "always cheaper. But people despise the per minute plan. I remember this from the early cell phone days."
+    },
+    {
+      "fp": "1jqyzuk",
+      "i": 87,
+      "from": 19742,
+      "subject": "coin",
+      "entities": [],
+      "concept": "coin",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "coin, 1977"
+      },
+      "antidote": {
+        "concept": "coin",
+        "cast": []
+      },
+      "_said": "days. You'd gladly bleed money every single month on an overpriced flat rate plan just to buy the feeling of safety from a theoretical loss. Precisely."
+    },
+    {
+      "fp": "8b6mvh",
+      "i": 88,
+      "from": 19992,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Precisely. Because the permanent plan introduces the possibility of a surprise monster bill at the end of the month, a loss. It introduces the threat of a loss. So to avoid"
+    },
+    {
+      "fp": "fri8iy",
+      "i": 89,
+      "from": 20253,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "avoid that theoretical pain, you voluntarily overpay. You are purchasing psychological insurance against your own loss aversion."
+    },
+    {
+      "fp": "lg98xu",
+      "i": 90,
+      "from": 20433,
+      "subject": "ledge",
+      "entities": [],
+      "concept": "ledge",
+      "place": "street",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "ledge, street, 1977"
+      },
+      "antidote": {
+        "concept": "ledge",
+        "set": "street",
+        "cast": []
+      },
+      "_said": "aversion. It's the exact same trap AOL fell into back in the dialup internet days. They used to charge by the hour. When they finally introduced an unlimited flat billing option,"
+    },
+    {
+      "fp": "1icnlec",
+      "i": 91,
+      "from": 20736,
+      "subject": "hourglass",
+      "entities": [],
+      "concept": "hourglass",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "hourglass, 1977"
+      },
+      "antidote": {
+        "concept": "hourglass",
+        "set": null,
+        "cast": []
+      },
+      "_said": "option, the CEO admitted it worked too well. People flooded in. People flooded in to sign up because they wanted to kill that anxiety of the permanent clock ticking in their heads."
+    },
+    {
+      "fp": "edecyz",
+      "i": 92,
+      "from": 21038,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "avoid the perceived loss was so massive it completely jammed AOL servers for 3 months."
+    },
+    {
+      "fp": "lgr8se",
+      "i": 93,
+      "from": 21196,
+      "subject": "chains",
+      "entities": [],
+      "concept": "chains",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "chains, 1977"
+      },
+      "antidote": {
+        "concept": "chains",
+        "cast": []
+      },
+      "_said": "months. People broke the internet just to escape the feeling of a ticking meter. It highlights how blinding loss aversion can be. When we sense a loss,"
+    },
+    {
+      "fp": "1mw12wr",
+      "i": 94,
+      "from": 21456,
+      "subject": "target",
+      "entities": [],
+      "concept": "target",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "target, 1977"
+      },
+      "antidote": {
+        "concept": "target",
+        "cast": []
+      },
+      "_said": "loss, our cognitive field narrows. We get tunnel vision. We focus entirely on erasing the deficit and we lose sight of the broader context. Right?"
+    },
+    {
+      "fp": "11uydui",
+      "i": 95,
+      "from": 21667,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Right? There's a story about a financial adviser named Jordan Walters. He had a client whose stock dropped from a high point down to $42 a share. The"
+    },
+    {
+      "fp": "1hmvopl",
+      "i": 96,
+      "from": 21912,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "The client refused to sell. He said, \"If the stock goes back to $47, I'm going to sell just to get back to even.\" Exactly. There is nothing mathematically"
+    },
+    {
+      "fp": "14rk3tb",
+      "i": 97,
+      "from": 22140,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "mathematically significant about $47. The market doesn't care about $47. The market doesn't know you bought it at $47, right? But to that client's brain, $47"
+    },
+    {
+      "fp": "14h53mq",
+      "i": 98,
+      "from": 22468,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "$47 represented the baseline. It was the point where the pain of the loss would be erased. He was so blindly focused on that specific number that he completely ignored the very rea"
+    },
+    {
+      "fp": "1pakse7",
+      "i": 99,
+      "from": 22764,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "real statistical probability that the stock could plummet to $20 while he waited. Oh man."
+    },
+    {
+      "fp": "16v23ep",
+      "i": 100,
+      "from": 22920,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "man. Like Venzan on the runway, he became so preoccupied with avoiding a specific loss that he ignored the massive"
+    },
+    {
+      "fp": "xxrot6",
+      "i": 101,
+      "from": 23100,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "massive catastrophic danger forming right in front of him. So loss aversion is the raw fuel. It's the evolutionary hardware that makes us overreact to threats. But it rarely operat"
+    },
+    {
+      "fp": "9jhstn",
+      "i": 102,
+      "from": 23455,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "usually wears disguises. If it were obvious, we'd catch it. One of its most powerful disguises is how we assign value to things in the first place and then stubbornly"
+    },
+    {
+      "fp": "1g0nbd7",
+      "i": 103,
+      "from": 23678,
+      "subject": "shield",
+      "entities": [],
+      "concept": "shield",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "shield, 1977"
+      },
+      "antidote": {
+        "concept": "shield",
+        "cast": []
+      },
+      "_said": "stubbornly defend that value to avoid the loss of being wrong. We call this value attribution. The brain is constantly bombarded with sensory data. To keep from"
+    },
+    {
+      "fp": "p3v60a",
+      "i": 104,
+      "from": 23930,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "from short circuiting, it uses heruristics, mental shortcuts to decide what is worthy of our attention. The shortcut is often the frame or the"
+    },
+    {
+      "fp": "qyiije",
+      "i": 105,
+      "from": 24158,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "the The packaging. Yes. The catch is once we attribute a value to something based on its initial frame,"
+    },
+    {
+      "fp": "1eddltg",
+      "i": 106,
+      "from": 24350,
+      "subject": "food",
+      "entities": [],
+      "concept": "food",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "food, 1977"
+      },
+      "antidote": {
+        "concept": "food",
+        "set": null,
+        "cast": []
+      },
+      "_said": "frame, our perception literally alters to defend that label. I have an analogy for this. It's like when someone brings a cheap $15 bottle of wine to a dinner party, but they pour i"
+    },
+    {
+      "fp": "jpcbga",
+      "i": 107,
+      "from": 24665,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "fancy crystal decanter and tell you it's a"
+    },
+    {
+      "fp": "1yxmynh",
+      "i": 108,
+      "from": 24729,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "notes, 1977"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": []
+      },
+      "_said": "a rare vintage from Oh, yeah. You drink it and because the frame is a crystal decanter, you actually taste notes of oak"
+    },
+    {
+      "fp": "32myww",
+      "i": 109,
+      "from": 24941,
+      "subject": "game",
+      "entities": [],
+      "concept": "game",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "game, 1977"
+      },
+      "antidote": {
+        "concept": "game",
+        "set": null,
+        "cast": []
+      },
+      "_said": "oak and blackberry that aren't there. Your brain hallucinates the quality to match the frame. That is exactly what happens on"
+    },
+    {
+      "fp": "d5i3my",
+      "i": 110,
+      "from": 25133,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "on a neurological level. Expectation shapes sensory processing. And the book has an incredible realworld scene that proves this. Imagine you"
+    },
+    {
+      "fp": "1b8x4q3",
+      "i": 111,
+      "from": 25387,
+      "subject": "storm",
+      "entities": [],
+      "concept": "storm",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "storm, 1977"
+      },
+      "antidote": {
+        "concept": "storm",
+        "set": null,
+        "cast": []
+      },
+      "_said": "you are in Washington DC at the Lon Plaza subway station. It is a freezing January morning, 7:51 a.m. Peak rush hour."
+    },
+    {
+      "fp": "1us9hi4",
+      "i": 112,
+      "from": 25603,
+      "subject": "tree",
+      "entities": [],
+      "concept": "tree",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "tree, leaves the case open for tips and he starts pl, 1977"
+      },
+      "antidote": {
+        "concept": "tree",
+        "set": null,
+        "cast": []
+      },
+      "_said": "hour. Everyone's in a hurry. A guy in jeans, a long sleeve t-shirt, and a Washington Nationals baseball cap unpacks his violin. He leaves the case open for tips and he starts playi"
+    },
+    {
+      "fp": "1haxght",
+      "i": 113,
+      "from": 25987,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Low value background noise."
+    },
+    {
+      "fp": "b8365g",
+      "i": 114,
+      "from": 26061,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "noise. But the reality breaks the frame entirely. The man in the baseball cap"
+    },
+    {
+      "fp": "3yksdi",
+      "i": 115,
+      "from": 26191,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "cap is Joshua Bell. He is one of the greatest classical violin virtuosos alive."
+    },
+    {
+      "fp": "fg6v6k",
+      "i": 116,
+      "from": 26366,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Three days earlier, he played to a soldout crowd in Boston where decent seats went for a hundred bucks a pop. And the instrument tucked under his chin. It is a stratavarious violin"
+    },
+    {
+      "fp": "4sixy7",
+      "i": 117,
+      "from": 26712,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "crafted in 1713, valued at $3.5 million. He is playing some of"
+    },
+    {
+      "fp": "1jsfez3",
+      "i": 118,
+      "from": 26863,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "of the most intricate, masterful music ever composed of one of the finest acoustic instruments ever built by human hands."
+    },
+    {
+      "fp": "1s2qbl8",
+      "i": 119,
+      "from": 27050,
+      "subject": "target",
+      "entities": [],
+      "concept": "target",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "target, walk past him and almost no one stops, 1977"
+      },
+      "antidote": {
+        "concept": "target",
+        "cast": []
+      },
+      "_said": "hands. The objective value of the auditory input is staggeringly high. But over the next 43 minutes, 1,097 commuters walk past him and almost no one stops. A few people toss in som"
+    },
+    {
+      "fp": "1gnoog4",
+      "i": 120,
+      "from": 27444,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "bucks. There's no applause. There's no crowd. The commuters aren't hearing a masterpiece. They are hearing a guy begging"
+    },
+    {
+      "fp": "1v0jtzo",
+      "i": 121,
+      "from": 27595,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "begging for quarters because the brain prioritizes the visual frame over the auditory data. The visual frame, a subway station, a trash can, a baseball cap, signaled low value."
+    },
+    {
+      "fp": "u2v31i",
+      "i": 122,
+      "from": 27880,
+      "subject": "game",
+      "entities": [],
+      "concept": "game",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "game, 1977"
+      },
+      "antidote": {
+        "concept": "game",
+        "set": null,
+        "cast": []
+      },
+      "_said": "value. The commuters inherited that value and then their auditory cortex quite literally filtered the music to match"
+    },
+    {
+      "fp": "9avck5",
+      "i": 123,
+      "from": 28073,
+      "subject": "game",
+      "entities": [],
+      "concept": "game",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "game, 1977"
+      },
+      "antidote": {
+        "concept": "game",
+        "set": null,
+        "cast": []
+      },
+      "_said": "match the expectation. They didn't consciously decide to ignore a virtuoso. Their brains diagnosed the situation as low value and prevented them"
+    },
+    {
+      "fp": "f1t42j",
+      "i": 124,
+      "from": 28332,
+      "subject": "shield",
+      "entities": [],
+      "concept": "shield",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "shield, 1977"
+      },
+      "antidote": {
+        "concept": "shield",
+        "cast": []
+      },
+      "_said": "them from experiencing the brilliance. Their perception altered to defend the label. It's terrifying that our physical senses can be hacked by a label. Dan"
+    },
+    {
+      "fp": "1cl8l45",
+      "i": 125,
+      "from": 28591,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Dan Arie, the behavioral economist from MIT, proved this in a lab setting with something way less glamorous than a stratavarius, used a sports drink, the soie adrenaline rush exper"
+    },
+    {
+      "fp": "1t7xgwb",
+      "i": 126,
+      "from": 28917,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "This is a fascinating look at the placebo effect driven by value Right? So Ery takes a group"
+    },
+    {
+      "fp": "1eitmqa",
+      "i": 127,
+      "from": 29078,
+      "subject": "gift",
+      "entities": [],
+      "concept": "gift",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "gift, 1977"
+      },
+      "antidote": {
+        "concept": "gift",
+        "cast": []
+      },
+      "_said": "group of university students and gives them a 30inut word jumble challenge. He splits them up. He takes the first group and tells them, \"Hey, we're giving you this soie drink. It i"
+    },
+    {
+      "fp": "t6oby",
+      "i": 128,
+      "from": 29378,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "acuity. It's premium stuff. It costs $2.89 and we are going to charge it to your university"
+    },
+    {
+      "fp": "1gpfn9",
+      "i": 129,
+      "from": 29534,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "university account. Let's call them the premium drinkers. Then he takes the second group, gives them the exact same drink, but says, \"Hey, we got a massive discount on this. It's c"
+    },
+    {
+      "fp": "1m1dolb",
+      "i": 130,
+      "from": 29856,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "chemical composition of the liquid in both bottles is identical to the molecule. Exactly. But the results are wild. The premium students who believe they drank"
+    },
+    {
+      "fp": "10rqlbn",
+      "i": 131,
+      "from": 30134,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "drank a $2.89 89 cent cognitive enhancer actually"
+    },
+    {
+      "fp": "10di5uq",
+      "i": 132,
+      "from": 30237,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "actually performed slightly better on the word jumbles than a control group who drank nothing. But the students who drank the cheapo 89 cent soie performed significantly worse. The"
+    },
+    {
+      "fp": "brzg7o",
+      "i": 133,
+      "from": 30585,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "brains attributed a high value to the expensive drink expected to feel smarter and that expectation triggered a"
+    },
+    {
+      "fp": "tuhf6o",
+      "i": 134,
+      "from": 30773,
+      "subject": "target",
+      "entities": [],
+      "concept": "target",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "target, 1977"
+      },
+      "antidote": {
+        "concept": "target",
+        "cast": []
+      },
+      "_said": "real physiological response that improved focus. The cheap group attributed a low value, expected nothing and performed terribly. Their brains fiercely defended the price tag they "
+    },
+    {
+      "fp": "c9iqbs",
+      "i": 135,
+      "from": 31116,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "expect a $289 boost, your brain manifests it. If you expect an 89"
+    },
+    {
+      "fp": "3jkgwt",
+      "i": 136,
+      "from": 31240,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "hold in your mind, 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "89 sluggishness, you get it. It proves that value attribution isn't just a subjective opinion you hold in your mind. It alters how"
+    },
+    {
+      "fp": "b5uzi3",
+      "i": 137,
+      "from": 31445,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "how you interact with the physical world. You inherit the value from the label and then your brain acts as a filter, frantically searching for evidence to prove the label right"
+    },
+    {
+      "fp": "5ysci5",
+      "i": 138,
+      "from": 31687,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "right and discarding evidence that proves it But here is where we have to pivot. Because it's one thing to wrongly diagnose the value of an energy drink or a guy playing violin nex"
+    },
+    {
+      "fp": "1vsqydj",
+      "i": 139,
+      "from": 32021,
+      "subject": "shield",
+      "entities": [],
+      "concept": "shield",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "shield, 1977"
+      },
+      "antidote": {
+        "concept": "shield",
+        "cast": []
+      },
+      "_said": "can. That's a quirky psychological trick. But when we apply this exact same sway to human beings, when we attach a label to a person and then defend that label at all costs, it bec"
+    },
+    {
+      "fp": "16sksmx",
+      "i": 140,
+      "from": 32378,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "When value attribution is applied to human beings, it transforms into"
+    },
+    {
+      "fp": "i8t7ga",
+      "i": 141,
+      "from": 32481,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "into what psychologists call the diagnosis bias. The diagnosis bias. The moment we label a person, we put on blinders to all evidence"
+    },
+    {
+      "fp": "1bssnjo",
+      "i": 142,
+      "from": 32741,
+      "subject": "wallet",
+      "entities": [],
+      "concept": "wallet",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "wallet, 1977"
+      },
+      "antidote": {
+        "concept": "wallet",
+        "cast": []
+      },
+      "_said": "evidence that contradicts our diagnosis. And this goes back to our thesis. Expertise does not save you. In fact, expertise gives you the very labels that blind you."
+    },
+    {
+      "fp": "c5pz6m",
+      "i": 143,
+      "from": 33017,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": "hospital",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "family, hospital, 1977"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": "hospital",
+        "cast": []
+      },
+      "_said": "you. Let's look at the story of Dr. Brian Hastings, an emergency room This is one of the most sobering case studies in medical psychology. A frantic mother rushes"
+    },
+    {
+      "fp": "1osg2lg",
+      "i": 144,
+      "from": 33271,
+      "subject": "Amy — family",
+      "entities": [
+        "amy"
+      ],
+      "concept": "family",
+      "place": "hospital",
+      "confidence": 1,
+      "vox": {
+        "shot": "Amy, hospital, 1977"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": "hospital",
+        "cast": [
+          "amy"
+        ]
+      },
+      "_said": "rushes into the emergency room. Her 2-year-old daughter, Amy, is suffering from severe stomach pains."
+    },
+    {
+      "fp": "atow6q",
+      "i": 145,
+      "from": 33429,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "pains. Now, abdominal pain in a toddler is a diagnostic minefield. It can be"
+    },
+    {
+      "fp": "1gbti05",
+      "i": 146,
+      "from": 33549,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "be mild indigestion or it can be a lethal bowel obstruction, right? You would expect highly trained ER doctors to immediately start"
+    },
+    {
+      "fp": "1e4j01k",
+      "i": 147,
+      "from": 33768,
+      "subject": "target",
+      "entities": [],
+      "concept": "target",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "target, running objective tests, 1977"
+      },
+      "antidote": {
+        "concept": "target",
+        "cast": []
+      },
+      "_said": "start running objective tests, feeling the abdomen, taking blood samples. That would be the rational datadriven protocol. You gather evidence before forming"
+    },
+    {
+      "fp": "f9k20",
+      "i": 148,
+      "from": 34013,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, 1977"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": []
+      },
+      "_said": "forming a conclusion. But that's not what happens. The doctors look at the mother. She is anxious, flustered, and panicked. She doesn't look like a"
+    },
+    {
+      "fp": "12zlqh5",
+      "i": 149,
+      "from": 34269,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, 1977"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": []
+      },
+      "_said": "a calm, rational observer. She looks like an overreactor. So, the doctors use a heristic. They make a judgment call based on the frame. They diagnose the mother, not the Yes. They "
+    },
+    {
+      "fp": "189uio3",
+      "i": 150,
+      "from": 34591,
+      "subject": "Amy — family",
+      "entities": [
+        "amy"
+      ],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Amy, 1977"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": [
+          "amy"
+        ]
+      },
+      "_said": "mom as hysterical, and they send little Amy home. They've created what we can call a walled garden"
+    },
+    {
+      "fp": "nng4sn",
+      "i": 151,
+      "from": 34740,
+      "subject": "tree",
+      "entities": [],
+      "concept": "tree",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "tree, 1977"
+      },
+      "antidote": {
+        "concept": "tree",
+        "set": null,
+        "cast": []
+      },
+      "_said": "garden of perception. Once that label is applied, nothing outside the wall can get in. I think of it like"
+    },
+    {
+      "fp": "d8viby",
+      "i": 152,
+      "from": 34913,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "a software engineer trying to fix a bug in a computer program, but they've convinced"
+    },
+    {
+      "fp": "iwb30c",
+      "i": 153,
+      "from": 35030,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "convinced themselves the error is in the payment processing code. They will spend three days staring at that specific block of code, completely ignoring the flashing red warning li"
+    },
+    {
+      "fp": "r96i06",
+      "i": 154,
+      "from": 35368,
+      "subject": "fire",
+      "entities": [],
+      "concept": "fire",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "fire, 1977"
+      },
+      "antidote": {
+        "concept": "fire",
+        "cast": []
+      },
+      "_said": "server. They've diagnosed the location of the problem, and they literally cannot see the actual fire burning right next to"
+    },
+    {
+      "fp": "js334i",
+      "i": 155,
+      "from": 35558,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "to That's exactly it. And the tragedy compounds when new data"
+    },
+    {
+      "fp": "1oosb2e",
+      "i": 156,
+      "from": 35661,
+      "subject": "Amy — family",
+      "entities": [
+        "amy"
+      ],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Amy, 1977"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": [
+          "amy"
+        ]
+      },
+      "_said": "data is introduced. Day two, Amy and her mom are back in the ER. The pain is worse."
+    },
+    {
+      "fp": "1znuti",
+      "i": 157,
+      "from": 35834,
+      "subject": "Amy",
+      "entities": [
+        "amy"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Amy, 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "amy"
+        ]
+      },
+      "_said": "worse. Amy is crying. Now, you'd think the doctors would say, \"Okay, the data has changed."
+    },
+    {
+      "fp": "7znvoc",
+      "i": 158,
+      "from": 36002,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "war, 1977"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "changed. She's back. This must be serious. Our initial diagnosis was wrong.\" But that would require accepting a loss. It would require admitting they were wrong. And as we know, th"
+    },
+    {
+      "fp": "60dwh5",
+      "i": 159,
+      "from": 36360,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "aversion with everything it has. So, because of the diagnosis bias, they use her return as confirmation of their original label. They look at her and say, \"Ah, she's a frequent fly"
+    },
+    {
+      "fp": "yvh8is",
+      "i": 160,
+      "from": 36638,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "flyer.\" That's the medical slang for a hypocchondric who abuses the ER for which"
+    },
+    {
+      "fp": "immlrc",
+      "i": 161,
+      "from": 36799,
+      "subject": "grave",
+      "entities": [],
+      "concept": "grave",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "grave, 1977"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": null,
+        "cast": []
+      },
+      "_said": "which is a terrible label. They view her genuine escalating alarm as proof of her hysteria rather than proof of a dying child. They send them home again. No tests. Their medical ex"
+    },
+    {
+      "fp": "1cjzycw",
+      "i": 162,
+      "from": 37121,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, 1977"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": []
+      },
+      "_said": "actually weaponized their bias. It gave them the vocabulary frequent flyer to rapidly categorize the mother and comfortably defend their error."
+    },
+    {
+      "fp": "1qj75ih",
+      "i": 163,
+      "from": 37344,
+      "subject": "Amy — family",
+      "entities": [
+        "amy"
+      ],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Amy, 1977"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": [
+          "amy"
+        ]
+      },
+      "_said": "error. Any new alarming evidence that came in was just bent to fit the shape of a label they'd already committed to. Day three, the mom brings Amy back a third time. The doctors ar"
+    },
+    {
+      "fp": "b1tno6",
+      "i": 164,
+      "from": 37687,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "hold fiercely to that belief, 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "annoyed. They're even more convinced she's just an overreactor. Yeah. And they hold fiercely to that belief, right up until the"
+    },
+    {
+      "fp": "910f0h",
+      "i": 165,
+      "from": 37850,
+      "subject": "Amy",
+      "entities": [
+        "amy"
+      ],
+      "concept": null,
+      "place": "hospital",
+      "confidence": 0.85,
+      "vox": {
+        "shot": "Amy, hospital, 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": "hospital",
+        "cast": [
+          "amy"
+        ]
+      },
+      "_said": "the moment 2-year-old Amy loses consciousness on the emergency room Oh god."
+    },
+    {
+      "fp": "1dr3eav",
+      "i": 166,
+      "from": 37970,
+      "subject": "Amy",
+      "entities": [
+        "amy"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Amy, run the tests, 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "amy"
+        ]
+      },
+      "_said": "god. Only then, when the frame violently shatters, do they run the tests. But it's too late. Amy dies. It is a devastating systemic failure of human cognition."
+    },
+    {
+      "fp": "1ug99ld",
+      "i": 167,
+      "from": 38289,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "cognition. France, a psychologist who studies constructivism, points out that we use these labels to simplify the massive amount"
+    },
+    {
+      "fp": "157oc1m",
+      "i": 168,
+      "from": 38479,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "amount of information we face. The ER is chaotic categorization saves right?"
+    },
+    {
+      "fp": "1isjr7f",
+      "i": 169,
+      "from": 38640,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "right? They need shortcuts. But the fatal flaw is that the brain releases a tiny surge of dopamine when it confirms its own priors. The doctors were biologically rewarded for"
+    },
+    {
+      "fp": "qzqckn",
+      "i": 170,
+      "from": 38897,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, 1977"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": []
+      },
+      "_said": "proving themselves right about the hysterical mother, and that reward mechanism made the objective reality of a critically ill toddler completely invisible to them. It all tracks b"
+    },
+    {
+      "fp": "1kzb53q",
+      "i": 171,
+      "from": 39206,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "They were defending a commitment they had already made to that label."
+    },
+    {
+      "fp": "1p51mpx",
+      "i": 172,
+      "from": 39317,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, 1977"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": []
+      },
+      "_said": "label. The mother's panic should have been a massive red flag."
+    },
+    {
+      "fp": "1ul6axz",
+      "i": 173,
+      "from": 39405,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "flag. Instead, the doctor's brains rationalized it as, \"See, we were right. She's crazy.\" It's the exact same mechanism as the 89 cent soie"
+    },
+    {
+      "fp": "1hxhsod",
+      "i": 174,
+      "from": 39701,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, 1977"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": []
+      },
+      "_said": "drink. Once they priced the mother's credibility at 89, they"
+    },
+    {
+      "fp": "7ows3n",
+      "i": 175,
+      "from": 39801,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "they were physiologically incapable of seeing the $2.89 medical"
+    },
+    {
+      "fp": "cgr9zz",
+      "i": 176,
+      "from": 39941,
+      "subject": "crash",
+      "entities": [],
+      "concept": "crash",
+      "place": "highway",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "crash, highway, 1977"
+      },
+      "antidote": {
+        "concept": "crash",
+        "set": "highway",
+        "cast": []
+      },
+      "_said": "medical emergency unfolding in front of them. So we commit to labels and we will let people die to defend them. We commit to our time schedules and we will crash an airplane to def"
+    },
+    {
+      "fp": "ww07di",
+      "i": 177,
+      "from": 40224,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "them. We do whatever it takes to avoid a Whatever it takes. So what happens when you combine all of these forces? What happens when loss aversion, value attribution, and the sunk c"
+    },
+    {
+      "fp": "r34z37",
+      "i": 178,
+      "from": 40658,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "get Max Baserman's $20 auction."
+    },
+    {
+      "fp": "j7fc4b",
+      "i": 179,
+      "from": 40713,
+      "subject": "Baserman — food",
+      "entities": [
+        "baserman"
+      ],
+      "concept": "food",
+      "place": "classroom",
+      "confidence": 1,
+      "vox": {
+        "shot": "Baserman, sitting in a classroom at harvard business scho, classroom, 1977"
+      },
+      "antidote": {
+        "concept": "food",
+        "set": "classroom",
+        "cast": [
+          "baserman"
+        ]
+      },
+      "_said": "auction. Imagine you are sitting in a classroom at Harvard Business School. These are the top tier financial minds in the world. They eat risk assessments for breakfast. Max Baserm"
+    },
+    {
+      "fp": "1b8a10",
+      "i": 180,
+      "from": 41021,
+      "subject": "Baserman — school",
+      "entities": [
+        "baserman"
+      ],
+      "concept": "school",
+      "place": "classroom",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Baserman, stands at the front of the room, classroom, 1977"
+      },
+      "antidote": {
+        "concept": "school",
+        "set": "classroom",
+        "cast": [
+          "baserman"
+        ]
+      },
+      "_said": "Baserman, their negotiation professor, stands at the front of the room. He holds up a crisp $20 bill and says he's going to auction it off to the class."
+    },
+    {
+      "fp": "14wkm7g",
+      "i": 181,
+      "from": 41237,
+      "subject": "Baserman — coin",
+      "entities": [
+        "baserman"
+      ],
+      "concept": "coin",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Baserman, 1977"
+      },
+      "antidote": {
+        "concept": "coin",
+        "cast": [
+          "baserman"
+        ]
+      },
+      "_said": "class. Sounds like an easy win. Free money, right? And Baserman lays down only two rules."
+    },
+    {
+      "fp": "1jby5it",
+      "i": 182,
+      "from": 41381,
+      "subject": "trophy",
+      "entities": [],
+      "concept": "trophy",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "trophy, 1977"
+      },
+      "antidote": {
+        "concept": "trophy",
+        "cast": []
+      },
+      "_said": "rules. Rule one, bids must be in $1 increments. Rule two is the trap. The winner gets the $20, but the runner up, the person with"
+    },
+    {
+      "fp": "ff15jx",
+      "i": 183,
+      "from": 41664,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "with the second highest bid, must still pay their bid to the professor, but they get absolutely nothing in return. The penalty for losing is you pay your bid anyway. Exactly. So, t"
+    },
+    {
+      "fp": "1pzya4i",
+      "i": 184,
+      "from": 41981,
+      "subject": "zap",
+      "entities": [],
+      "concept": "zap",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "zap, 1977"
+      },
+      "antidote": {
+        "concept": "zap",
+        "set": null,
+        "cast": []
+      },
+      "_said": "room is electric. The bids fly up $1, $5, $10."
+    },
+    {
+      "fp": "4ctpvn",
+      "i": 185,
+      "from": 42093,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "$10. Everyone wants a piece of this bargain. Sure. They're excited. The dopamine is flowing. The nucleus encumbent in their brains is lighting up with the anticipation of reward."
+    },
+    {
+      "fp": "dbxc9",
+      "i": 186,
+      "from": 42369,
+      "subject": "Baserman",
+      "entities": [
+        "baserman"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Baserman, 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "baserman"
+        ]
+      },
+      "_said": "reward. But Baserman says the pattern is always exactly the same. The fund stops dead in the 12 to$16 range because the mathematics of the trap suddenly become visible. The trap sn"
+    },
+    {
+      "fp": "1fjmxm2",
+      "i": 187,
+      "from": 42761,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "nervous laughter starts. Everyone drops out of the bidding except for two people. Let's say you"
+    },
+    {
+      "fp": "nh7t1f",
+      "i": 188,
+      "from": 42931,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "sitting there holding the paddle, 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "you were sitting there holding the paddle. You have bid $16. Your classmate across the room bids $70."
+    },
+    {
+      "fp": "b8q74o",
+      "i": 189,
+      "from": 43128,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "$70. Okay, now you're in trouble. You suddenly realize your position. You are the runner up. If the auction stops right now, you have to hand the professor $16 and get nothing back"
+    },
+    {
+      "fp": "14zjnbd",
+      "i": 190,
+      "from": 43457,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "certain humiliating loss. And remember the egg shoppers. We know how violently the human brain reacts to a loss. It triggers the amydala. The stress hormone spike. The $16 bidder f"
+    },
+    {
+      "fp": "1h5b7x9",
+      "i": 191,
+      "from": 43805,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "intense asymmetrical dread. So what do you do? You don't want to lose $16. So you"
+    },
+    {
+      "fp": "1t3oez3",
+      "i": 192,
+      "from": 43915,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "you raise your paddle and bid $18. Now the person at $17 is the runner up facing a sure loss. So they bid $19. You bid $20. And then the Harvard MBAs"
+    },
+    {
+      "fp": "1eedafv",
+      "i": 193,
+      "from": 44208,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "MBAs do something that defies every economic textbook ever written. A person at $19 bids $21 for a $20 bill. And"
+    },
+    {
+      "fp": "r9d8ix",
+      "i": 194,
+      "from": 44412,
+      "subject": "school",
+      "entities": [],
+      "concept": "school",
+      "place": "classroom",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "school, classroom, 1977"
+      },
+      "antidote": {
+        "concept": "school",
+        "set": "classroom",
+        "cast": []
+      },
+      "_said": "And this is usually when the rest of the class erupts in laughter because from the outside, looking at it objectively, it looks entirely insane. It is insane. But it doesn't stop. "
+    },
+    {
+      "fp": "1qsc03r",
+      "i": 195,
+      "from": 44743,
+      "subject": "Baserman — school",
+      "entities": [
+        "baserman"
+      ],
+      "concept": "school",
+      "place": "classroom",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Baserman, classroom, 1977"
+      },
+      "antidote": {
+        "concept": "school",
+        "set": "classroom",
+        "cast": [
+          "baserman"
+        ]
+      },
+      "_said": "22 3050 $50. Baserman says the record in his class is a student paying $24 for a single $20 Let's break"
+    },
+    {
+      "fp": "f2z8u5",
+      "i": 196,
+      "from": 45045,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "break down the psychological transition happening in that room. In"
+    },
+    {
+      "fp": "or4w50",
+      "i": 197,
+      "from": 45120,
+      "subject": "trophy",
+      "entities": [],
+      "concept": "trophy",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "trophy, 1977"
+      },
+      "antidote": {
+        "concept": "trophy",
+        "cast": []
+      },
+      "_said": "In the beginning, below $12, the students are operating in a reward-seeking state. They are playing to win, But at the $16 mark,"
+    },
+    {
+      "fp": "hgcn6m",
+      "i": 198,
+      "from": 45365,
+      "subject": "trophy",
+      "entities": [],
+      "concept": "trophy",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "trophy, 1977"
+      },
+      "antidote": {
+        "concept": "trophy",
+        "cast": []
+      },
+      "_said": "mark, the psychology violently flips. They are no longer playing to win a $20 bill. They are playing not to lose their current It reminds me of buying a ticket to"
+    },
+    {
+      "fp": "1gh1gm3",
+      "i": 199,
+      "from": 45643,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "walk out, 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "to a terrible movie. You pay $15 for the ticket. 10 minutes in, you know the movie is absolute garbage. But you refuse to walk out. You sit there for two"
+    },
+    {
+      "fp": "14hewmu",
+      "i": 200,
+      "from": 45926,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "two hours suffering just cuz you paid for it. You can't get the $15 back, but you were actively choosing to lose two hours of your life on top of it just to justify the sunk Yes. T"
+    },
+    {
+      "fp": "18kzset",
+      "i": 201,
+      "from": 46245,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "just loss aversion stretched over time."
+    },
+    {
+      "fp": "okj21w",
+      "i": 202,
+      "from": 46313,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Daniel Conaman explains that to withdraw from the option at $16 is to accept a sure immediate loss. The brain hates finality when it involves a deficit. It wants to keep hope alive"
+    },
+    {
+      "fp": "3xvqhq",
+      "i": 203,
+      "from": 46713,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "of public commitment. You've raised your paddle in front of your peers. Your ego is on the line. So, the option of making one more bid, delaying the loss by just"
+    },
+    {
+      "fp": "14p37mq",
+      "i": 204,
+      "from": 46963,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "just one more increment, feels relatively attractive. Even"
+    },
+    {
+      "fp": "15tl36i",
+      "i": 205,
+      "from": 47057,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "war, 1977"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "as the mathematical reality turns catastrophic, it's a pure war of attrition. Each new bid is a desperate, flailing attempt to avoid the pain of the previous bid."
+    },
+    {
+      "fp": "15l6zra",
+      "i": 206,
+      "from": 47381,
+      "subject": "grave",
+      "entities": [],
+      "concept": "grave",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "grave, 1977"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": null,
+        "cast": []
+      },
+      "_said": "Commitment to the path inspires more bids, which drives the price up, which makes the potential loss loom even larger, which creates even more desperate commitment. It's a death An"
+    },
+    {
+      "fp": "13h233w",
+      "i": 207,
+      "from": 47724,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "brilliance of Baserman's trap is that it perfectly mirrors Captain Banzantin"
+    },
+    {
+      "fp": "1qm28x9",
+      "i": 208,
+      "from": 47827,
+      "subject": "Vanzant",
+      "entities": [
+        "vanzant"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Vanzant, 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "vanzant"
+        ]
+      },
+      "_said": "Banzantin at Tenerif. Oh wow, you're right. Vanzant was essentially trapped in the 16 to$17 phase of that auction. He had already committed the time to refuel. He was facing the su"
+    },
+    {
+      "fp": "yy15zj",
+      "i": 209,
+      "from": 48148,
+      "subject": "trophy",
+      "entities": [],
+      "concept": "trophy",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "trophy, 1977"
+      },
+      "antidote": {
+        "concept": "trophy",
+        "cast": []
+      },
+      "_said": "and his reputation. So, he bid $18 by taking off without clearance, trying to delay the loss, trying to force a win, and he ended up paying the ultimate price. The mechanics are id"
+    },
+    {
+      "fp": "1tevavk",
+      "i": 210,
+      "from": 48473,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "war, 1977"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "So, we've established that humans will gladly pay $24 to avoid losing a few bucks. We will fight"
+    },
+    {
+      "fp": "1b9imro",
+      "i": 211,
+      "from": 48667,
+      "subject": "crash",
+      "entities": [],
+      "concept": "crash",
+      "place": "highway",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "crash, highway, 1977"
+      },
+      "antidote": {
+        "concept": "crash",
+        "set": "highway",
+        "cast": []
+      },
+      "_said": "fight to the bitter end, crash planes, and ignore dying patients to defend our commitments. It feels like"
+    },
+    {
+      "fp": "t90dks",
+      "i": 212,
+      "from": 48830,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "like loss aversion is an unbeatable force of nature. But is there anything strong enough to override it? Is there a force that can actually make us throw away"
+    },
+    {
+      "fp": "12zmq85",
+      "i": 213,
+      "from": 49063,
+      "subject": "compass",
+      "entities": [],
+      "concept": "compass",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "compass, 1977"
+      },
+      "antidote": {
+        "concept": "compass",
+        "cast": []
+      },
+      "_said": "away a guaranteed gain on purpose? There is. And it acts as a bizarre, incredibly powerful emotional counter sway. It is our"
+    },
+    {
+      "fp": "1epdgw4",
+      "i": 214,
+      "from": 49303,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "our deep evolutionary commitment to fairness. To explore this, we have to look at a fascinating study out of Switzerland."
+    },
+    {
+      "fp": "1b6e7xh",
+      "i": 215,
+      "from": 49488,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Switzerland. The Swiss government had a major problem. They needed to find a location to store radioactive nuclear waste. The ultimate not in my backyard scenario."
+    },
+    {
+      "fp": "1asiimh",
+      "i": 216,
+      "from": 49721,
+      "subject": "grave",
+      "entities": [],
+      "concept": "grave",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "grave, 1977"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": null,
+        "cast": []
+      },
+      "_said": "scenario. Nobody wants glowing rocks buried under their town. Exactly. So they zero in on a small idyllic Swiss village called Wolfensh."
+    },
+    {
+      "fp": "1i8bnrw",
+      "i": 217,
+      "from": 49958,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Economists survey the residents and asked a simple question. Would you vote to accept a nuclear waste repository in your town if the Swiss parliament decided it was the safest loca"
+    },
+    {
+      "fp": "12fzqcq",
+      "i": 218,
+      "from": 50239,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "location? It's a huge ask. It is. But surprisingly 50.8% of the residents said yes. A narrow majority. Why?"
+    },
+    {
+      "fp": "iwdlwh",
+      "i": 219,
+      "from": 50488,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Why? Because of a sense of civic duty. They understood the country needed a solution and if their town was the safest, they would accept the burden for the greater good. That is a "
+    },
+    {
+      "fp": "gtseyg",
+      "i": 220,
+      "from": 50765,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "rational community-minded Now, the economists, thinking like rational actors, decided they wanted to boot that number. They thought, if 50% say yes out of civic duty, imagine how m"
+    },
+    {
+      "fp": "16sqhx1",
+      "i": 221,
+      "from": 51165,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "the same residents, would you accept the nuclear waste dump if the government also paid every single resident an annual stipend of"
+    },
+    {
+      "fp": "7cchvh",
+      "i": 222,
+      "from": 51345,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "of about $8,700? Classical economics dictates that adding a financial incentive to an existing positive baseline should only increase"
+    },
+    {
+      "fp": "1n8k642",
+      "i": 223,
+      "from": 51607,
+      "subject": "coin",
+      "entities": [],
+      "concept": "coin",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "coin, 1977"
+      },
+      "antidote": {
+        "concept": "coin",
+        "cast": []
+      },
+      "_said": "Right? You're getting the civic pride plus nearly 9 grand a year. It's free money. But what happened? The acceptance rate didn't go up. It plummeted. It dropped"
+    },
+    {
+      "fp": "1lu0vm",
+      "i": 224,
+      "from": 51897,
+      "subject": "coin",
+      "entities": [],
+      "concept": "coin",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "coin, 1977"
+      },
+      "antidote": {
+        "concept": "coin",
+        "cast": []
+      },
+      "_said": "dropped from 50.8% down to 24.6%. They cut their own support in half by offering them money. Why do we throw away free money? Why did the residents reject"
+    },
+    {
+      "fp": "1dk2dj8",
+      "i": 225,
+      "from": 52154,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "reject $8,700 to accept the exact same conditions they had previously agreed to for free?"
+    },
+    {
+      "fp": "gvfs35",
+      "i": 226,
+      "from": 52291,
+      "subject": "coin",
+      "entities": [],
+      "concept": "coin",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "coin, 1977"
+      },
+      "antidote": {
+        "concept": "coin",
+        "cast": []
+      },
+      "_said": "free? Because the introduction of money changed the frame from a civic duty to a bribe. And a bribe violates our commitment to fairness. This"
+    },
+    {
+      "fp": "5kfrnk",
+      "i": 227,
+      "from": 52541,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "is a phenomenon known as crowding out. The external financial incentive crowded out the intrinsic moral motivation. It insulted them. Precisely."
+    },
+    {
+      "fp": "foyrye",
+      "i": 228,
+      "from": 52800,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Precisely. Neurologically, this is fascinating. When you are offered a fair, mutually beneficial deal, your striatum, the brain's reward center, lights up. But when you are"
+    },
+    {
+      "fp": "roo8bp",
+      "i": 229,
+      "from": 53097,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "are offered something that feels like a bribe or an unfair ultimatum, a completely different part of the brain, takes"
+    },
+    {
+      "fp": "1tj5rc8",
+      "i": 230,
+      "from": 53292,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "takes over the anterior insula. This is the exact same region of the brain that processes physical disgust, like smelling rotten meat."
+    },
+    {
+      "fp": "6es5ox",
+      "i": 231,
+      "from": 53510,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "meat. Wow. So, an unfair offer literally makes our brains feel sick. Yes. Accepting the bribe feels like a loss of dignity, a loss of moral standing. And as we know from the egg sh"
+    },
+    {
+      "fp": "1jee2u",
+      "i": 232,
+      "from": 53896,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "loss. The emotional pain of being bought off outweighs the rational joy of gaining $8,700."
+    },
+    {
+      "fp": "9roy8y",
+      "i": 233,
+      "from": 54057,
+      "subject": "coin",
+      "entities": [],
+      "concept": "coin",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "coin, 1977"
+      },
+      "antidote": {
+        "concept": "coin",
+        "cast": []
+      },
+      "_said": "Fairness is just another form of defending a commitment this time. A commitment to a self-image or a moral standard. We will gladly burn our own money to ensure an unfair system do"
+    },
+    {
+      "fp": "167fv1i",
+      "i": 234,
+      "from": 54338,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "sit in the tension of everything we've, 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "doesn't Okay, I want to pause here. We need to pull back and sit in the tension of everything we've just covered because I have a major issue with the premise of this book and I wa"
+    },
+    {
+      "fp": "dvmwuu",
+      "i": 235,
+      "from": 54662,
+      "subject": "grave",
+      "entities": [],
+      "concept": "grave",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "grave, 1977"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": null,
+        "cast": []
+      },
+      "_said": "about Teneref, the egg aisle, subway violins, dying toddlers, Harvard auctions,"
+    },
+    {
+      "fp": "vj5cfa",
+      "i": 236,
+      "from": 54852,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "auctions, and Swiss nuclear waste. The Brafman brothers bundle all of these incredibly diverse, complex phenomena under one catchy"
+    },
+    {
+      "fp": "1d1vcba",
+      "i": 237,
+      "from": 55104,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "catchy pop psychology umbrella word, sway. It is a very neat packaging of human complexity. It's too neat. It feels like a junk drawer."
+    },
+    {
+      "fp": "vhpgfg",
+      "i": 238,
+      "from": 55310,
+      "subject": "food",
+      "entities": [],
+      "concept": "food",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "food, 1977"
+      },
+      "antidote": {
+        "concept": "food",
+        "set": null,
+        "cast": []
+      },
+      "_said": "drawer. They're flattening the annoyance of paying too much for breakfast with the cascading psychological collapse of a pilot who killed 584 people and equating both of those to t"
+    },
+    {
+      "fp": "ba6rp9",
+      "i": 239,
+      "from": 55596,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "pride of a Swiss Are these really the exact same engine or is the book just loosely"
+    },
+    {
+      "fp": "14lz5nt",
+      "i": 240,
+      "from": 55764,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "loosely grouping every human error under one trendy It is a highly valid critique. The danger of the"
+    },
+    {
+      "fp": "18qyac2",
+      "i": 241,
+      "from": 55958,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "the pop psychology genre is that it requires an elegantly simple unified theory of everything. The truth is"
+    },
+    {
+      "fp": "13df16g",
+      "i": 242,
+      "from": 56128,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "is the neurobiology of the anterior insula reacting to an unfair bribe is different from the amygdala reacting to a ticking clock on a runway. Exactly. And my"
+    },
+    {
+      "fp": "oxejgg",
+      "i": 243,
+      "from": 56385,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "my biggest frustration is the book's implied solution. Throughout these chapters,"
+    },
+    {
+      "fp": "669qsf",
+      "i": 244,
+      "from": 56508,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "chapters, the takeaway always seems to be, well, just be aware of these biases. Now that you know about"
+    },
+    {
+      "fp": "gtw80l",
+      "i": 245,
+      "from": 56652,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "about loss aversion, you can avoid it. That is dangerously thin armor against a neurobiological wrecking ball."
+    },
+    {
+      "fp": "1pwf75y",
+      "i": 246,
+      "from": 56853,
+      "subject": "Vanzant — shield",
+      "entities": [
+        "vanzant"
+      ],
+      "concept": "shield",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Vanzant, 1977"
+      },
+      "antidote": {
+        "concept": "shield",
+        "cast": [
+          "vanzant"
+        ]
+      },
+      "_said": "ball. Awareness is the great myth of modern behavioral because look at the evidence the book itself provides. Captain Vanzant knew the safety protocols better than anyone"
+    },
+    {
+      "fp": "1fpibf7",
+      "i": 247,
+      "from": 57125,
+      "subject": "game",
+      "entities": [],
+      "concept": "game",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "game, run empirical diagnostics on a toddler, 1977"
+      },
+      "antidote": {
+        "concept": "game",
+        "set": null,
+        "cast": []
+      },
+      "_said": "anyone on Earth. Dr. Hastings and his ER team knew how to run empirical diagnostics on a toddler."
+    },
+    {
+      "fp": "1norjez",
+      "i": 248,
+      "from": 57295,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "toddler. The Harvard MBAs knew the economic theory of sunk costs."
+    },
+    {
+      "fp": "1u54pw4",
+      "i": 249,
+      "from": 57396,
+      "subject": "wallet",
+      "entities": [],
+      "concept": "wallet",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "wallet, fall from, 1977"
+      },
+      "antidote": {
+        "concept": "wallet",
+        "cast": []
+      },
+      "_said": "costs. Right? If knowing the rules doesn't save you, if being an expert actually builds the pedestal you fall from, then awareness is useless. Are we just doomed"
+    },
+    {
+      "fp": "9at1s2",
+      "i": 250,
+      "from": 57672,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "doomed to be irrational? You are hitting on the central paradox of the book. Merely knowing that loss aversion exists won't stop you from feeling"
+    },
+    {
+      "fp": "1ajzoxq",
+      "i": 251,
+      "from": 57905,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "feeling the physiological dread in your stomach when your stock plummets or your flight is delayed. It doesn't stop the heart rate from going up. No, the emotional"
+    },
+    {
+      "fp": "1byo21b",
+      "i": 252,
+      "from": 58140,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "emotional undercurrent, the amydala's fear response is simply faster and stronger than the prefrontal cortex's rational realization. The experts in these stories failed precisely b"
+    },
+    {
+      "fp": "srwpvs",
+      "i": 253,
+      "from": 58483,
+      "subject": "shield",
+      "entities": [],
+      "concept": "shield",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "shield, 1977"
+      },
+      "antidote": {
+        "concept": "shield",
+        "cast": []
+      },
+      "_said": "trusted their awareness. They thought their training protected them, which made them blind to the exact moment their emotions hijacked the wheel."
+    },
+    {
+      "fp": "4uwpqg",
+      "i": 254,
+      "from": 58699,
+      "subject": "crash",
+      "entities": [],
+      "concept": "crash",
+      "place": "highway",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "crash, highway, 1977"
+      },
+      "antidote": {
+        "concept": "crash",
+        "set": "highway",
+        "cast": []
+      },
+      "_said": "wheel. So, if awareness is a lie and expertise is a trap, what is the actual antidote? If we are all just bobbing in this ocean of sway, how do we survive without crashing the plan"
+    },
+    {
+      "fp": "17gjj8u",
+      "i": 255,
+      "from": 59054,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "bidding $200 for a $20 bill? We have to completely reframe what"
+    },
+    {
+      "fp": "179jay",
+      "i": 256,
+      "from": 59172,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "war, 1977"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "what we are fighting. The opposite of being swayed is not being perfectly rational. It is not about becoming a cold, calculating robot devoid"
+    },
+    {
+      "fp": "ftalrc",
+      "i": 257,
+      "from": 59385,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "devoid of emotion. And what is it? The true opposite of being swayed"
+    },
+    {
+      "fp": "1crbj6e",
+      "i": 258,
+      "from": 59479,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "swayed is the willingness to lose. The willingness to lose. Yes. Every single tragedy, every single catastrophic decision"
+    },
+    {
+      "fp": "phjkr",
+      "i": 259,
+      "from": 59666,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "decision we've discussed today happened because someone refused to absorb a small painful loss. And in their thrashing to avoid it, they created a catastrophe. Okay, I see the thro"
+    },
+    {
+      "fp": "16uc5o",
+      "i": 260,
+      "from": 60122,
+      "subject": "road",
+      "entities": [],
+      "concept": "road",
+      "place": "highway",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "road, highway, 1977"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": "highway",
+        "cast": []
+      },
+      "_said": "analogy from Jordan Walters. the financial adviser who dealt with the stubborn stock client. He calls it the flat tire scenario. Let's say you are driving to a massively"
+    },
+    {
+      "fp": "1elni9p",
+      "i": 261,
+      "from": 60425,
+      "subject": "work",
+      "entities": [],
+      "concept": "work",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "work, 1977"
+      },
+      "antidote": {
+        "concept": "work",
+        "set": null,
+        "cast": []
+      },
+      "_said": "massively important meeting, a career definfining pitch. halfway there you hear pop. You get a flat tire. You pull over. You jack up the car. You put on the spare. You are now offi"
+    },
+    {
+      "fp": "1sqgai1",
+      "i": 262,
+      "from": 60763,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "running late, 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "officially running late. You have suffered a certain loss of time. This is the"
+    },
+    {
+      "fp": "19y9tz2",
+      "i": 263,
+      "from": 60866,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "the exact psychological state Van Zanton was in on the runway. The loss of time is locked in. Exactly. Now you have two choices."
+    },
+    {
+      "fp": "h821yy",
+      "i": 264,
+      "from": 61075,
+      "subject": "road",
+      "entities": [],
+      "concept": "road",
+      "place": "highway",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "road, highway, 1977"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": "highway",
+        "cast": []
+      },
+      "_said": "choices. Choice A is driven by loss aversion. You panic. You get back on the highway and you speed. You swerve aggressively through traffic. You tailgate. You"
+    },
+    {
+      "fp": "sftgmb",
+      "i": 265,
+      "from": 61358,
+      "subject": "crash",
+      "entities": [],
+      "concept": "crash",
+      "place": "highway",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "crash, highway, 1977"
+      },
+      "antidote": {
+        "concept": "crash",
+        "set": "highway",
+        "cast": []
+      },
+      "_said": "You take dangerous shortcuts trying to make up the loss time, trying desperately to erase the loss and get back to your original perfect schedule. You are risking a fatal car crash"
+    },
+    {
+      "fp": "1spm8w6",
+      "i": 266,
+      "from": 61747,
+      "subject": "road",
+      "entities": [],
+      "concept": "road",
+      "place": "highway",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "road, sit behind the wheel and you consciously ac, highway, 1977"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": "highway",
+        "cast": []
+      },
+      "_said": "bill. Right. Choice B is the antidote. Choice B is taking the long view. You sit behind the wheel and you consciously accept the loss. You say out loud, \"I have a spare tire. I can"
+    },
+    {
+      "fp": "14srfs6",
+      "i": 267,
+      "from": 62025,
+      "subject": "gift",
+      "entities": [],
+      "concept": "gift",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "gift, 1977"
+      },
+      "antidote": {
+        "concept": "gift",
+        "cast": []
+      },
+      "_said": "fast.\" The timeline has permanently changed. You give yourself permission to lose the perfect outcome."
+    },
+    {
+      "fp": "1wiuc3u",
+      "i": 268,
+      "from": 62210,
+      "subject": "work",
+      "entities": [],
+      "concept": "work",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "work, arrive alive, 1977"
+      },
+      "antidote": {
+        "concept": "work",
+        "set": null,
+        "cast": []
+      },
+      "_said": "outcome. You accept that you'll be late. It will be embarrassing. Your boss might be mad. You absorb that pain, but you arrive alive. That is profound. To stop"
+    },
+    {
+      "fp": "1j0yi1s",
+      "i": 269,
+      "from": 62469,
+      "subject": "Amy — crash",
+      "entities": [
+        "amy"
+      ],
+      "concept": "crash",
+      "place": "highway",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Amy, highway, 1977"
+      },
+      "antidote": {
+        "concept": "crash",
+        "set": "highway",
+        "cast": [
+          "amy"
+        ]
+      },
+      "_said": "stop the Harvard auction, you have to be willing to look foolish and lose $16. To save Amy in the ER, the doctors had to be willing to lose their initial diagnosis and admit their "
+    },
+    {
+      "fp": "tl7fk6",
+      "i": 270,
+      "from": 62832,
+      "subject": "Vanzanton — crash",
+      "entities": [
+        "vanzanton"
+      ],
+      "concept": "crash",
+      "place": "highway",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Vanzanton, highway, 1977"
+      },
+      "antidote": {
+        "concept": "crash",
+        "set": "highway",
+        "cast": [
+          "vanzanton"
+        ]
+      },
+      "_said": "crash at Tenneref, Vanzanton had to be willing to lose his perfect safety record and accept the logistical nightmare of the delay."
+    },
+    {
+      "fp": "1tbk44n",
+      "i": 271,
+      "from": 63038,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "delay. Every antidote relies on the exact same psychological muscle, the ability to consciously decouple your ego from a stake you've"
+    },
+    {
+      "fp": "1diku41",
+      "i": 272,
+      "from": 63257,
+      "subject": "gift",
+      "entities": [],
+      "concept": "gift",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "gift, 1977"
+      },
+      "antidote": {
+        "concept": "gift",
+        "cast": []
+      },
+      "_said": "you've already committed to. It is the practice of surrender. Not giving up, but surrendering your desperate grip on the path you're currently on."
+    },
+    {
+      "fp": "1b32yr6",
+      "i": 273,
+      "from": 63477,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "sitting in your own life right now, 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "on. Imagine you were sitting in your own life right now. Think about the things you were defending. What failing project at work are you pouring hours into just because you started"
+    },
+    {
+      "fp": "1x9rc6m",
+      "i": 274,
+      "from": 63794,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, holding on to waiting for it to get back to eve, 1977"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": []
+      },
+      "_said": "What bad investment are you holding on to waiting for it to get back to even? What label have you slapped onto a family member or a co-orker that is blinding you to who they actual"
+    },
+    {
+      "fp": "z0y3qu",
+      "i": 275,
+      "from": 64121,
+      "subject": "crash",
+      "entities": [],
+      "concept": "crash",
+      "place": "highway",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "crash, highway, 1977"
+      },
+      "antidote": {
+        "concept": "crash",
+        "set": "highway",
+        "cast": []
+      },
+      "_said": "one. It's a situation where you were gripping the steering wheel trying to speed through traffic on a spare tire to make up for lost time. The sway is pulling you toward a crash. S"
+    },
+    {
+      "fp": "1wl5xpq",
+      "i": 276,
+      "from": 64389,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1977"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "the only question that matters is this. What would happen tomorrow morning if you simply gave yourself permission to lose?"
+    }
+  ]
+}

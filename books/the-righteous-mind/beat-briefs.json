@@ -1,0 +1,5072 @@
+{
+  "slug": "the-righteous-mind",
+  "authored": false,
+  "briefs": [
+    {
+      "fp": "1h1zztq",
+      "i": 0,
+      "from": 0,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": "shore",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "family, shore, 1995"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": "shore",
+        "cast": []
+      },
+      "_said": "So, there's a brother and sister, Julie and Mark, And they are on summer vacation together in France. One night, they're staying alone in this little cabin near the beach, and they"
+    },
+    {
+      "fp": "1s3r97g",
+      "i": 1,
+      "from": 377,
+      "subject": "Which — heart",
+      "entities": [
+        "which"
+      ],
+      "concept": "heart",
+      "place": "cafe",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Which, cafe, 1995"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": "cafe",
+        "cast": [
+          "which"
+        ]
+      },
+      "_said": "would be interesting and fun if they tried making love. Yeah. Which is just I mean,"
+    },
+    {
+      "fp": "bikiq4",
+      "i": 2,
+      "from": 511,
+      "subject": "medical",
+      "entities": [],
+      "concept": "medical",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "medical, 1995"
+      },
+      "antidote": {
+        "concept": "medical",
+        "set": null,
+        "cast": []
+      },
+      "_said": "mean, right away. Right. But wait, wait. So, they use two forms of birth control, like a pill and a condom just to be absolutely 100% And they keep it a complete secret. They enjoy"
+    },
+    {
+      "fp": "1tm4j9r",
+      "i": 3,
+      "from": 926,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "decide, you know what? We're never going to do this Right. It was a one-time thing. Exactly."
+    },
+    {
+      "fp": "ufqo2c",
+      "i": 4,
+      "from": 1027,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Exactly. Yeah. Now, if you're listening to this, your gut instantly drops. Yeah. Like the moment I said the premise, before you even finish the whole story, your stomach probably t"
+    },
+    {
+      "fp": "9lsh85",
+      "i": 5,
+      "from": 1322,
+      "subject": "shadowSelf",
+      "entities": [],
+      "concept": "shadowSelf",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "shadow self, 1995"
+      },
+      "antidote": {
+        "concept": "shadowSelf",
+        "cast": []
+      },
+      "_said": "absolutely. Without a shadow of a doubt that what they did is wrong. Oh, completely. It's an instant physical But then imagine"
+    },
+    {
+      "fp": "1twl5t4",
+      "i": 6,
+      "from": 1490,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "sits across from you and pushes you to expla, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "imagine a researcher sits across from you and pushes you to explain exactly why it's wrong. Yeah. And suddenly, you know, you can't because every logical argument you'd usually use"
+    },
+    {
+      "fp": "181q2rr",
+      "i": 7,
+      "from": 1805,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "totally neutralized by the story, right? You point to the risk of birth but the researchers like, \"Hey, the story explicitly states they use two forms of birth control.\" So then yo"
+    },
+    {
+      "fp": "hpvxv9",
+      "i": 8,
+      "from": 2169,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "to the emotional damage, the psychological scarring that must inevitably follow. But"
+    },
+    {
+      "fp": "k7gmyk",
+      "i": 9,
+      "from": 2311,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "But the researcher just calmly taps the page and says, \"Well, the story clearly states they're fine. It brought them closer. They have zero regrets.\" Exactly. The scenario was desi"
+    },
+    {
+      "fp": "1xuocap",
+      "i": 10,
+      "from": 2613,
+      "subject": "Jonathan",
+      "entities": [
+        "jonathan"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Jonathan, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "jonathan"
+        ]
+      },
+      "_said": "specifically by Jonathan Hate to strip you of all your logical ammunition. And that feeling um that exact moment of being completely"
+    },
+    {
+      "fp": "vn6uwy",
+      "i": 11,
+      "from": 2846,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "completely stripped of your logic that reveals the core premise of what we are unpacking today."
+    },
+    {
+      "fp": "9rco1z",
+      "i": 12,
+      "from": 3002,
+      "subject": "codeWindow",
+      "entities": [],
+      "concept": "codeWindow",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "code window, 1995"
+      },
+      "antidote": {
+        "concept": "codeWindow",
+        "set": null,
+        "cast": []
+      },
+      "_said": "today. Yeah. The verdict in your mind came first. It was instantaneous. The reasons you scrambled to find afterward, those are just backfill. Today we are taking a really deep dive"
+    },
+    {
+      "fp": "cxik6d",
+      "i": 13,
+      "from": 3432,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Hate's groundbreaking book, The Righteous Mind. It's such a wild read. It really is. We are basically going to completely dismantle the way you think about your own moral"
+    },
+    {
+      "fp": "1fmfwy8",
+      "i": 14,
+      "from": 3744,
+      "subject": "target",
+      "entities": [],
+      "concept": "target",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "target, 1995"
+      },
+      "antidote": {
+        "concept": "target",
+        "cast": []
+      },
+      "_said": "moral convictions. Our mission for this deep dive is to figure out why good people are so completely hopelessly divided"
+    },
+    {
+      "fp": "32mq9g",
+      "i": 15,
+      "from": 4022,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "divided by politics and and why it feels so impossible to argue someone out of their beliefs. Yes."
+    },
+    {
+      "fp": "13v38c7",
+      "i": 16,
+      "from": 4217,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Yes. Because it turns out we fundamentally misunderstand how the human brain actually processes morality. We truly do. And you know to understand how deep"
+    },
+    {
+      "fp": "tygseb",
+      "i": 17,
+      "from": 4512,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "deep that misunderstanding goes, we have to really look at that phenomenon you just introduced. Right? Let's step into the room where this actually happens."
+    },
+    {
+      "fp": "hzogpd",
+      "i": 18,
+      "from": 4721,
+      "subject": "gift",
+      "entities": [],
+      "concept": "gift",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "gift, 1995"
+      },
+      "antidote": {
+        "concept": "gift",
+        "cast": []
+      },
+      "_said": "Imagine we are in a psychology lab. Present tense. The fluorescent lights are buzzing overhead. It's that sterile, slightly"
+    },
+    {
+      "fp": "1j9uu0d",
+      "i": 19,
+      "from": 4922,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "sitting across from a researcher, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "slightly uncomfortable lab setting. Yeah, exactly. You're sitting across from a researcher. You just heard that story about Julie and Mark and your face flushes. You literally feel"
+    },
+    {
+      "fp": "1clgdpc",
+      "i": 20,
+      "from": 5205,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "cheeks because you're getting frustrated. So frustrated you stammer. Your hands are waving in the air in"
+    },
+    {
+      "fp": "r6jvyx",
+      "i": 21,
+      "from": 5388,
+      "subject": "Which",
+      "entities": [
+        "which"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Which, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "which"
+        ]
+      },
+      "_said": "in sheer frustration. You are this freely educated, articulate adult and you finally just sputter something like, I don't know, it's just wrong. You just don't do that. Which is so"
+    },
+    {
+      "fp": "1ha4c8r",
+      "i": 22,
+      "from": 5733,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "completely speechless by this profound inability to explain verbally what you just know intuitively. Right. You"
+    },
+    {
+      "fp": "hcsltu",
+      "i": 23,
+      "from": 5957,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": "cafe",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone, cafe, 1995"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": "cafe",
+        "cast": []
+      },
+      "_said": "are experiencing what psychologists call moral dumbfounding. And the point that lands so heavily here is that"
+    },
+    {
+      "fp": "1pezwb0",
+      "i": 24,
+      "from": 6151,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "that your reasoning process is completely disconnected from your moral Precisely."
+    },
+    {
+      "fp": "1u7zgu",
+      "i": 25,
+      "from": 6297,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "running a race it already lost, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Precisely. The judgment happens in a fraction of a second and the reasoning is lagging far behind just desperately trying to catch up like it's running a race it already lost. Exac"
+    },
+    {
+      "fp": "175lntp",
+      "i": 26,
+      "from": 6679,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "taboo regarding incest, look at a completely different scenario they use in these exact"
+    },
+    {
+      "fp": "oxp402",
+      "i": 27,
+      "from": 6811,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, 1995"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": []
+      },
+      "_said": "exact same studies. Oh, the dog story. Yeah, the dog story. So, imagine a family. Their beloved dog is killed by a car right in front of their house."
+    },
+    {
+      "fp": "124l7ua",
+      "i": 28,
+      "from": 7020,
+      "subject": "home",
+      "entities": [],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "home, 1995"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": []
+      },
+      "_said": "house. Tragic, right? Yeah. Super sad. But then they've heard the dog meat is Oh man, here we go. So, they bring the carcass inside, they cut it up, they cook it, and they eat"
+    },
+    {
+      "fp": "12lrz7l",
+      "i": 29,
+      "from": 7298,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "eat it in secret for God, it's so gross. it is. But nobody sees them. No one is harmed. The dog was already dead, so there is zero cruelty"
+    },
+    {
+      "fp": "ehiiiy",
+      "i": 30,
+      "from": 7567,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "cruelty or suffering inflicted. Yet, when people hear this story, they still condemn it immediately and intensely."
+    },
+    {
+      "fp": "cqxjuh",
+      "i": 31,
+      "from": 7773,
+      "subject": "ledge",
+      "entities": [],
+      "concept": "ledge",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "ledge, reading the source sure, 1995"
+      },
+      "antidote": {
+        "concept": "ledge",
+        "set": null,
+        "cast": []
+      },
+      "_said": "intensely. Okay, I have to jump in here because I really struggled with the mechanics of this when I was reading the source Sure. What part? Well, if there is literally zero harm i"
+    },
+    {
+      "fp": "1mf61r1",
+      "i": 32,
+      "from": 8104,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "if the researchers deliberately constructed these scenarios, so there are absolutely zero"
+    },
+    {
+      "fp": "1j4yoa6",
+      "i": 33,
+      "from": 8210,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "zero victims, why do people still violently insist that it's morally wrong? Like, what is actually happening in the brain?"
+    },
+    {
+      "fp": "fjiol3",
+      "i": 34,
+      "from": 8443,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "brain? What's happening is that when the conscious mind cannot find a real victim to justify its disgust, it literally invents one. Wait, really? They"
+    },
+    {
+      "fp": "1b2geqk",
+      "i": 35,
+      "from": 8669,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, 1995"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": []
+      },
+      "_said": "just make someone up. Yes. People in these studies will suddenly claim, well, the family will probably get sick from eating the dog. Or they'll say, you know, someone might look th"
+    },
+    {
+      "fp": "7jqrbn",
+      "i": 36,
+      "from": 8918,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "be That's wild. They're just grasping at They invent wild, highly"
+    },
+    {
+      "fp": "r82oz4",
+      "i": 37,
+      "from": 9065,
+      "subject": "lightbulb",
+      "entities": [],
+      "concept": "lightbulb",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "lightbulb, 1995"
+      },
+      "antidote": {
+        "concept": "lightbulb",
+        "cast": []
+      },
+      "_said": "highly improbable consequences just to justify their initial wave of disgust because, and this is the core idea,"
+    },
+    {
+      "fp": "1thcj8j",
+      "i": 38,
+      "from": 9269,
+      "subject": "Intuitions — lightbulb",
+      "entities": [
+        "intuitions"
+      ],
+      "concept": "lightbulb",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Intuitions, 1995"
+      },
+      "antidote": {
+        "concept": "lightbulb",
+        "cast": [
+          "intuitions"
+        ]
+      },
+      "_said": "idea, intuitions come first, strategic reasoning second. Intuitions come first, strategic reasoning second. Exactly. The feeling of disgust is"
+    },
+    {
+      "fp": "e3tyl5",
+      "i": 39,
+      "from": 9511,
+      "subject": "lightbulb",
+      "entities": [],
+      "concept": "lightbulb",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "lightbulb, 1995"
+      },
+      "antidote": {
+        "concept": "lightbulb",
+        "cast": []
+      },
+      "_said": "is the intuition. It hits fast and hard. the invented victim, the convoluted logic. That is just"
+    },
+    {
+      "fp": "6wuqjc",
+      "i": 40,
+      "from": 9703,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "just the strategic reasoning trying to validate a feeling that already happened. It it is such a bizarre sensation to experience. Like it feels so weird"
+    },
+    {
+      "fp": "1ilx6ww",
+      "i": 41,
+      "from": 9945,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "weird and uncomfortable to have your own brain frantically searching for logic that simply doesn't exist. Oh, absolutely. I was reading"
+    },
+    {
+      "fp": "1veqxe2",
+      "i": 42,
+      "from": 10164,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": "cafe",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone, reading this and thinking it's exactly like sta, cafe, 1995"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": "cafe",
+        "cast": []
+      },
+      "_said": "reading this and thinking it's exactly like staring at a computer screen when a video freezes and you just see that little buffering icon spinning endlessly in the center of the sc"
+    },
+    {
+      "fp": "1fcwtpb",
+      "i": 43,
+      "from": 10490,
+      "subject": "road",
+      "entities": [],
+      "concept": "road",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "road, 1995"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": null,
+        "cast": []
+      },
+      "_said": "literally buffering. It's searching the hard drive for a rational argument that isn't there. Completely"
+    },
+    {
+      "fp": "qopjmg",
+      "i": 44,
+      "from": 10639,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Completely refusing to accept that the emotional reaction is the only thing running the And you know, the brain refuses to accept it because we have this deeply ingrained cultural "
+    },
+    {
+      "fp": "3fdscs",
+      "i": 45,
+      "from": 10963,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "myth. We've been taught since the Enlightenment that we are these highly rational creatures who carefully think our way to our moral"
+    },
+    {
+      "fp": "1bfvnnm",
+      "i": 46,
+      "from": 11179,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "moral Right. Like we're all philosophers or Exactly. We believe. We weigh"
+    },
+    {
+      "fp": "kmcmwi",
+      "i": 47,
+      "from": 11316,
+      "subject": "law",
+      "entities": [],
+      "concept": "law",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "law, arrive at a verdict, 1995"
+      },
+      "antidote": {
+        "concept": "law",
+        "set": null,
+        "cast": []
+      },
+      "_said": "weigh the evidence. consider the principles and then arrive at a verdict."
+    },
+    {
+      "fp": "1for5pm",
+      "i": 48,
+      "from": 11429,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "But the buffering icon proves that we don't. We feel our way there and then we try to think of a reason why. It is a profoundly humbling"
+    },
+    {
+      "fp": "1safw5j",
+      "i": 49,
+      "from": 11678,
+      "subject": "Which",
+      "entities": [
+        "which"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Which, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "which"
+        ]
+      },
+      "_said": "humbling realization when you catch yourself doing it in real It really is. Which brings us to honestly the most perfect metaphor for this dynamic. Oh, the elephant."
+    },
+    {
+      "fp": "a0siet",
+      "i": 50,
+      "from": 11966,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "sitting a top a massive 9, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "elephant. Let's drop right into this scene. Go for it. Okay. So, you are sitting a top a massive 9,000lb elephant. Just picture that. You can feel the heavy"
+    },
+    {
+      "fp": "rg3x1y",
+      "i": 51,
+      "from": 12247,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "heavy muscular shifting of this beast beneath you as it leans to the left getting ready to take a"
+    },
+    {
+      "fp": "cw0jzm",
+      "i": 52,
+      "from": 12389,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "sitting up on its holding little rains, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "step. It's just this unstoppable force, right? And you are sitting up on its holding little rains in your hands. You represent conscious reasoning. Yes,"
+    },
+    {
+      "fp": "wgm2a9",
+      "i": 53,
+      "from": 12660,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Yes, the writer. You look down at this incredible animal. You pull the reinss and you honestly think you are in charge."
+    },
+    {
+      "fp": "1rlv7fk",
+      "i": 54,
+      "from": 12873,
+      "subject": "Which",
+      "entities": [
+        "which"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Which, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "which"
+        ]
+      },
+      "_said": "charge. But the reality is the rider is just a servant. The writer only steers where the elephant already leans, which is such a blow to our egos. Seriously, the elephant"
+    },
+    {
+      "fp": "xhbrp6",
+      "i": 55,
+      "from": 13166,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "elephant represents the automatic, intuitive, emotional part of your brain that has been reacting to the environment for millions of years."
+    },
+    {
+      "fp": "1jm3j4f",
+      "i": 56,
+      "from": 13409,
+      "subject": "work",
+      "entities": [],
+      "concept": "work",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "work, running the show for, 1995"
+      },
+      "antidote": {
+        "concept": "work",
+        "set": null,
+        "cast": []
+      },
+      "_said": "years. Because the rider is an evolutionary latecomer, the elephant has been running the show for a very, very long time. And we can see exactly who is boss in this brilliant, slig"
+    },
+    {
+      "fp": "11qbc4a",
+      "i": 57,
+      "from": 13809,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "conducted by Thelia Wheatley. Oh, the trigger word study. This one blew my"
+    },
+    {
+      "fp": "oj5n2s",
+      "i": 58,
+      "from": 13908,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "read a specific completely neutral word, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "my mind. It's so crazy. So, subjects are brought into a lab and hypnotized to feel a sudden flash of disgust whenever they read a specific completely neutral word. Just a normal wo"
+    },
+    {
+      "fp": "hd8ef0",
+      "i": 59,
+      "from": 14169,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "word. Yeah. For half the subjects, the trigger is the word often. For the other half, it's the word take."
+    },
+    {
+      "fp": "vtwxns",
+      "i": 60,
+      "from": 14316,
+      "subject": "Dan — school",
+      "entities": [
+        "dan"
+      ],
+      "concept": "school",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Dan, read a story about a guy named dan, 1995"
+      },
+      "antidote": {
+        "concept": "school",
+        "set": null,
+        "cast": [
+          "dan"
+        ]
+      },
+      "_said": "take. Okay. So later, when they are completely out of the trance and totally conscious, they're asked to read a story about a guy named Dan. And Dan is just a normal guy, right? To"
+    },
+    {
+      "fp": "3l2lc4",
+      "i": 61,
+      "from": 14637,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "president. He's organizing discussions between the faculty and the students. It is a completely innocuous, boring story, But if that"
+    },
+    {
+      "fp": "tdnzgh",
+      "i": 62,
+      "from": 14868,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "that story contains their specific trigger word, say"
+    },
+    {
+      "fp": "1hvlzun",
+      "i": 63,
+      "from": 14942,
+      "subject": "Dan",
+      "entities": [
+        "dan"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Dan, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "dan"
+        ]
+      },
+      "_said": "say Dan often organizes discussions, the elephant leans immediately because they've"
+    },
+    {
+      "fp": "2vmwgu",
+      "i": 64,
+      "from": 15100,
+      "subject": "Dan — law",
+      "entities": [
+        "dan"
+      ],
+      "concept": "law",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Dan, 1995"
+      },
+      "antidote": {
+        "concept": "law",
+        "set": null,
+        "cast": [
+          "dan"
+        ]
+      },
+      "_said": "they've been hypnotized to feel disgust at that word. Exactly. And the subjects judge Dan as morally wrong. They say he's"
+    },
+    {
+      "fp": "478luz",
+      "i": 65,
+      "from": 15333,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": "cafe",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone, cafe, 1995"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": "cafe",
+        "cast": []
+      },
+      "_said": "he's up to something, that he's a bad guy, that he's a popularity seeking phony, even though he literally did nothing wrong in the text. Their gutfelt disgust, so"
+    },
+    {
+      "fp": "17xd90a",
+      "i": 66,
+      "from": 15614,
+      "subject": "Dan",
+      "entities": [
+        "dan"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Dan, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "dan"
+        ]
+      },
+      "_said": "so their conscious mind had to invent a reason to make Dan a villain. Okay, but wait, I if the elephant, like our automatic"
+    },
+    {
+      "fp": "1q234xs",
+      "i": 67,
+      "from": 15806,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": "cafe",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone, running the show, cafe, 1995"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": "cafe",
+        "cast": []
+      },
+      "_said": "automatic emotional intuition, is making all the calls and running the show, what is the point of this highly evolved rider? That's a great question. Like why did evolution even bo"
+    },
+    {
+      "fp": "1xi2ju9",
+      "i": 68,
+      "from": 16111,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "massive prefrontal cortex and this incredible capacity for complex logic if it's just along for the ride? Well, that"
+    },
+    {
+      "fp": "4bi6c1",
+      "i": 69,
+      "from": 16313,
+      "subject": "coin",
+      "entities": [],
+      "concept": "coin",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "coin, 1995"
+      },
+      "antidote": {
+        "concept": "coin",
+        "cast": []
+      },
+      "_said": "that is the million-dollar question, isn't it? The writer is not there to act as a king or a philosopher. The writer is there to serve the elephant. It evolved to be extremely usef"
+    },
+    {
+      "fp": "56hb6l",
+      "i": 70,
+      "from": 16591,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "to the elephant's social survival. Humans are intensely social creatures, you know."
+    },
+    {
+      "fp": "1ywmk5e",
+      "i": 71,
+      "from": 16778,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "know. Yeah. Our survival depended on it. Exactly. We had to navigate incredibly complex social dynamics within our tribes. So, the rider"
+    },
+    {
+      "fp": "1j50ds1",
+      "i": 72,
+      "from": 17013,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "rider anticipates where the elephant wants to go and paves the Ah, I see. It helps the elephant interact with the"
+    },
+    {
+      "fp": "4eiv5m",
+      "i": 73,
+      "from": 17191,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "the other elephants by finding socially acceptable"
+    },
+    {
+      "fp": "z6g9y8",
+      "i": 74,
+      "from": 17263,
+      "subject": "Intuitions — work",
+      "entities": [
+        "intuitions"
+      ],
+      "concept": "work",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Intuitions, 1995"
+      },
+      "antidote": {
+        "concept": "work",
+        "set": null,
+        "cast": [
+          "intuitions"
+        ]
+      },
+      "_said": "acceptable justifications for its movements. The writer isn't a master. It's a highly skilled employee because, say it with me, intuitions come first, strategic"
+    },
+    {
+      "fp": "3jkmka",
+      "i": 75,
+      "from": 17529,
+      "subject": "shield",
+      "entities": [],
+      "concept": "shield",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "shield, 1995"
+      },
+      "antidote": {
+        "concept": "shield",
+        "cast": []
+      },
+      "_said": "strategic reasoning second. So, the writer isn't a master at all. It's more like a lawyer desperately forced to defend a client who has already committed the"
+    },
+    {
+      "fp": "1c9uiu8",
+      "i": 76,
+      "from": 17757,
+      "subject": "law",
+      "entities": [],
+      "concept": "law",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "law, 1995"
+      },
+      "antidote": {
+        "concept": "law",
+        "set": null,
+        "cast": []
+      },
+      "_said": "the act. Yeah. The client, the elephant, has already made the decision, already lean, already reacted, and the poor writer, the lawyer, is just scrambling to put together a legal b"
+    },
+    {
+      "fp": "16cvg6q",
+      "i": 77,
+      "from": 18021,
+      "subject": "law",
+      "entities": [],
+      "concept": "law",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "law, read our own brief and think, 1995"
+      },
+      "antidote": {
+        "concept": "law",
+        "set": null,
+        "cast": []
+      },
+      "_said": "it look acceptable to the rest of the world. And that lawyer is very, very good at their job. So good, in fact, that we rarely realize we are being led by our gut. We admire our ow"
+    },
+    {
+      "fp": "17thsvq",
+      "i": 78,
+      "from": 18492,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "written and logical, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "because the arguments are so well written and logical, they must have been the reason"
+    },
+    {
+      "fp": "1vhr1o2",
+      "i": 79,
+      "from": 18590,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "reason the decision was made in the first place. Let's take that lawyer analogy and push it even further into the public sphere because this is where the source material gets genui"
+    },
+    {
+      "fp": "1phpkox",
+      "i": 80,
+      "from": 18941,
+      "subject": "home",
+      "entities": [],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "home, 1995"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": []
+      },
+      "_said": "into the White House briefing room with me."
+    },
+    {
+      "fp": "1117r4e",
+      "i": 81,
+      "from": 19003,
+      "subject": "gift",
+      "entities": [],
+      "concept": "gift",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "gift, shouting over each other, 1995"
+      },
+      "antidote": {
+        "concept": "gift",
+        "cast": []
+      },
+      "_said": "me. Present tense. Okay, I'm there. The room is packed. The flash bulbs are popping. Reporters are shouting over each other. And the press secretary steps up to the podium. Now, th"
+    },
+    {
+      "fp": "1md0bul",
+      "i": 82,
+      "from": 19396,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "president who represents our inner elephant has just done something completely inexplicable as presidents sometimes do, right?"
+    },
+    {
+      "fp": "1s84vsb",
+      "i": 83,
+      "from": 19605,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "right? Something that makes absolutely no logical sense. But the press secretary doesn't step up to the microphone, take a deep breath, and say, \"Wow, that was a huge mistake by th"
+    },
+    {
+      "fp": "16gpdqd",
+      "i": 84,
+      "from": 19905,
+      "subject": "work",
+      "entities": [],
+      "concept": "work",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "work, 1995"
+      },
+      "antidote": {
+        "concept": "work",
+        "set": null,
+        "cast": []
+      },
+      "_said": "the Oval Office and rethink our entire policy.\" Never. That never happens. No, they instantly spin it. They find a way to make it sound"
+    },
+    {
+      "fp": "1wxqm40",
+      "i": 85,
+      "from": 20138,
+      "subject": "lightbulb",
+      "entities": [],
+      "concept": "lightbulb",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "lightbulb, 1995"
+      },
+      "antidote": {
+        "concept": "lightbulb",
+        "cast": []
+      },
+      "_said": "sound like a deliberate genius strategy. They are brilliant at justifying but absolutely useless at deciding what the policy should actually be. That is exactly what"
+    },
+    {
+      "fp": "bkaag7",
+      "i": 86,
+      "from": 20448,
+      "subject": "home",
+      "entities": [],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "home, 1995"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": []
+      },
+      "_said": "what our conscious reasoning does. It functions as an in-house press secretary."
+    },
+    {
+      "fp": "19egfzf",
+      "i": 87,
+      "from": 20589,
+      "subject": "heart",
+      "entities": [],
+      "concept": "heart",
+      "place": "cafe",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "heart, cafe, 1995"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": "cafe",
+        "cast": []
+      },
+      "_said": "secretary. The emotional dog wags its rational tail. The emotional dog wags its rational tail. I love that phrasing. It's so accurate."
+    },
+    {
+      "fp": "1kgosh6",
+      "i": 88,
+      "from": 20825,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Look at Daneli's famous studies on cheating. Oh, these are fascinating. Yeah. He sets up these elaborate experiments where people are given a math test and paid for every correct a"
+    },
+    {
+      "fp": "10dabma",
+      "i": 89,
+      "from": 21170,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "plausible deniability and a sense of invisibility. Like they don't have to turn the paper right? They get to"
+    },
+    {
+      "fp": "le7awa",
+      "i": 90,
+      "from": 21302,
+      "subject": "game",
+      "entities": [],
+      "concept": "game",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "game, 1995"
+      },
+      "antidote": {
+        "concept": "game",
+        "set": null,
+        "cast": []
+      },
+      "_said": "to put their answer sheets in a shredder in the back of the room and just report their own scores verbally to get paid. Oh wow. So what happens?"
+    },
+    {
+      "fp": "15cobj4",
+      "i": 91,
+      "from": 21501,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "happens? Well, the vast majority of people will cheat. But here is the fascinating part. They only cheat just a little bit. They don't just say they"
+    },
+    {
+      "fp": "15c74iv",
+      "i": 92,
+      "from": 21739,
+      "subject": "game",
+      "entities": [],
+      "concept": "game",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "game, 1995"
+      },
+      "antidote": {
+        "concept": "game",
+        "set": null,
+        "cast": []
+      },
+      "_said": "they got a perfect score and take all the money. Exactly. They don't claim a perfect score. The"
+    },
+    {
+      "fp": "vcui02",
+      "i": 93,
+      "from": 21883,
+      "subject": "coin",
+      "entities": [],
+      "concept": "coin",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "coin, 1995"
+      },
+      "antidote": {
+        "concept": "coin",
+        "cast": []
+      },
+      "_said": "The press secretary inside our minds finds a justification so we can cheat just [clears throat] enough to get some extra cash. But not so much that we can't"
+    },
+    {
+      "fp": "vdwmp4",
+      "i": 94,
+      "from": 22140,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "can't still honestly believe we are highly moral honest people. That is why we will literally spin our"
+    },
+    {
+      "fp": "12jgov4",
+      "i": 95,
+      "from": 22322,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "our own unethical behavior to ourselves. But wait, but then if we know"
+    },
+    {
+      "fp": "12s4puu",
+      "i": 96,
+      "from": 22447,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "know our brains are just spinning PR, if we are aware of this tendency to justify our own behavior, shouldn't holding"
+    },
+    {
+      "fp": "14v5x20",
+      "i": 97,
+      "from": 22670,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "holding people accountable fix you'd think so, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "holding people accountable fix You'd think so,"
+    },
+    {
+      "fp": "1gv6fld",
+      "i": 98,
+      "from": 22737,
+      "subject": "target",
+      "entities": [],
+      "concept": "target",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "target, 1995"
+      },
+      "antidote": {
+        "concept": "target",
+        "cast": []
+      },
+      "_said": "so, right? Yeah. If you know you have to explain yourself to someone else, shouldn't that force the press secretary to actually care about the objective truth? It feels like common"
+    },
+    {
+      "fp": "1meba02",
+      "i": 99,
+      "from": 22994,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "sense that accountability would breed objectivity. But the research of Philip Tetlock reveals something entirely different and frankly a bit alarming. Oh, what did he"
+    },
+    {
+      "fp": "1q8gu33",
+      "i": 100,
+      "from": 23268,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": "cafe",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone, hold people accountable, cafe, 1995"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": "cafe",
+        "cast": []
+      },
+      "_said": "he Tetlock found that when you hold people accountable, when they know they have to explain their decisions to an audience whose views are unknown, it usually just increases what h"
+    },
+    {
+      "fp": "xvcpow",
+      "i": 101,
+      "from": 23536,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": "cafe",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone, cafe, 1995"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": "cafe",
+        "cast": []
+      },
+      "_said": "calls confirmatory Confirmatory thought, meaning what? Meaning, we do not try harder to be objectively right. We try harder to look Oh, wow."
+    },
+    {
+      "fp": "1mk63w7",
+      "i": 102,
+      "from": 23810,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "wow. Yeah. We just work the press secretary overtime to find better, more airtight justifications for what the elephant already wanted to do. M"
+    },
+    {
+      "fp": "1ohpci5",
+      "i": 103,
+      "from": 24048,
+      "subject": "target",
+      "entities": [],
+      "concept": "target",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "target, 1995"
+      },
+      "antidote": {
+        "concept": "target",
+        "cast": []
+      },
+      "_said": "M accountability doesn't make us objective truth seekers. It makes us better So it just forces us to build stronger defensive walls around"
+    },
+    {
+      "fp": "18xmzlr",
+      "i": 104,
+      "from": 24283,
+      "subject": "Intuitions",
+      "entities": [
+        "intuitions"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Intuitions, sit with the reality, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "intuitions"
+        ]
+      },
+      "_said": "around our intuitions. Exactly. Because intuitions come first, strategic reasoning second. Man, it is terrifying to sit with the reality of"
+    },
+    {
+      "fp": "13er6io",
+      "i": 105,
+      "from": 24533,
+      "subject": "work",
+      "entities": [],
+      "concept": "work",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "work, 1995"
+      },
+      "antidote": {
+        "concept": "work",
+        "set": null,
+        "cast": []
+      },
+      "_said": "of how effective this is. Our inner press secretary is so incredibly good at its job, so persuasive that we completely buy our own spin. We don't even realize we're lying"
+    },
+    {
+      "fp": "19a7fbr",
+      "i": 106,
+      "from": 24876,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "read the press release and think, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "lying to ourselves. We just read the press release and think, \"Yep, that sounds exactly like something a good rational person like me would do.\" And"
+    },
+    {
+      "fp": "e0rl8l",
+      "i": 107,
+      "from": 25075,
+      "subject": "codeWindow",
+      "entities": [],
+      "concept": "codeWindow",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "code window, 1995"
+      },
+      "antidote": {
+        "concept": "codeWindow",
+        "set": null,
+        "cast": []
+      },
+      "_said": "And this selfdeception, you know, it's not a bug in the system. It is a crucial feature for our social survival. Really? How so?"
+    },
+    {
+      "fp": "1wfjodh",
+      "i": 108,
+      "from": 25288,
+      "subject": "dollarExchange",
+      "entities": [],
+      "concept": "dollarExchange",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "dollar exchange, 1995"
+      },
+      "antidote": {
+        "concept": "dollarExchange",
+        "set": null,
+        "cast": []
+      },
+      "_said": "so? Well, if we didn't believe our own spin, we wouldn't be very convincing to others when we try to persuade them. The press secretary has to wholeheartedly believe the lie in ord"
+    },
+    {
+      "fp": "1h3eld1",
+      "i": 109,
+      "from": 25713,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "moral righteousness, the reporters in"
+    },
+    {
+      "fp": "1kb88i9",
+      "i": 110,
+      "from": 25778,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "in the briefing room, meaning the other people in your social group, will tear you apart. You'll lose status."
+    },
+    {
+      "fp": "1vi3xh4",
+      "i": 111,
+      "from": 25982,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "status. Okay, let's look at how this incredibly defensive posture plays out when we process new information. Oh, this is a great pivot."
+    },
+    {
+      "fp": "1ejlxzx",
+      "i": 112,
+      "from": 26200,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "sitting at a desk staring down at a little medi, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "pivot. So, imagine a person sitting at a desk staring down at a little medical test strip"
+    },
+    {
+      "fp": "96z3xb",
+      "i": 113,
+      "from": 26340,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "strip they just licked. the saliva is drawing on a little piece of paper."
+    },
+    {
+      "fp": "6z3pmx",
+      "i": 114,
+      "from": 26465,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "paper. They've been told by a researcher that if it changes color, they have a serious, potentially dangerous enzyme deficiency."
+    },
+    {
+      "fp": "bbc5h0",
+      "i": 115,
+      "from": 26666,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "sit there, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "deficiency. That's a high stress situation. Exactly. So, the time elapses, the strip doesn't change color. They sit there, they wait, they stare at it, and then"
+    },
+    {
+      "fp": "1cg21ey",
+      "i": 116,
+      "from": 26940,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "then they mutter to themselves, \"Well, my mouth was unusually dry today.\" Or, you did just drink some water a little while ago. Yes. They don't accept the result. They instantly st"
+    },
+    {
+      "fp": "10y5wzp",
+      "i": 117,
+      "from": 27252,
+      "subject": "target",
+      "entities": [],
+      "concept": "target",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "target, 1995"
+      },
+      "antidote": {
+        "concept": "target",
+        "cast": []
+      },
+      "_said": "itself. They're acting as a lawyer trying to poke holes in the opposing council's argument, not a scientist seeking the objective truth of their medical reality. This perfectly ill"
+    },
+    {
+      "fp": "p9qgtt",
+      "i": 118,
+      "from": 27552,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "concept from the psychologist Tom Gillivitz. He pointed out the profound difference between two"
+    },
+    {
+      "fp": "1hkd2dl",
+      "i": 119,
+      "from": 27686,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "two fundamental questions our minds ask when evaluating evidence. Think about the psychological weight of the word must versus the word can."
+    },
+    {
+      "fp": "1bi8n37",
+      "i": 120,
+      "from": 27938,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "can. Okay? Must versus can. If you tell a toddler they must eat ice cream, they will instantly rebel. It feels like a command. It's the verbal handcuffs of must."
+    },
+    {
+      "fp": "1j7sguf",
+      "i": 121,
+      "from": 28243,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "must. Yeah. Nobody likes being told what they must do. But if you tell them they can eat ice cream, suddenly it's an opportunity. And"
+    },
+    {
+      "fp": "qeehx9",
+      "i": 122,
+      "from": 28433,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "And our reasoning works the exact same way. When we encounter information that supports our side, our elephant leans toward it and the writer asks, \"Can I believe it? Can I believe"
+    },
+    {
+      "fp": "u6smwo",
+      "i": 123,
+      "from": 28740,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "it?\" Right? We just need one tiny piece of pseudo evidence, one flimsy justification, one sympathetic study to"
+    },
+    {
+      "fp": "vsuw16",
+      "i": 124,
+      "from": 28970,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "to grant ourselves permission to believe what we already want to believe. But when we look at the other side, exactly. When we look at evidence that threatens our worldview or our "
+    },
+    {
+      "fp": "88jww5",
+      "i": 125,
+      "from": 29260,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "a very different question. Must I believe it? Must I believe it? Yes. And when we ask that, we only need to find one tiny flaw, one drymouth excuse, one slightly"
+    },
+    {
+      "fp": "rm3sjr",
+      "i": 126,
+      "from": 29585,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "slightly questionable methodology to completely dismiss the entire mountain of evidence."
+    },
+    {
+      "fp": "j4crdg",
+      "i": 127,
+      "from": 29738,
+      "subject": "heart",
+      "entities": [],
+      "concept": "heart",
+      "place": "cafe",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "heart, cafe, 1995"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": "cafe",
+        "cast": []
+      },
+      "_said": "evidence. Wait, but then surely high intelligence protects us from this. Like this is the assumption we always make, right? Oh, absolutely. We love to think that. That people with"
+    },
+    {
+      "fp": "11w15jk",
+      "i": 128,
+      "from": 30005,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "with high IQs, people who are highly educated, they must be better at seeing through this cognitive trap and evaluating evidence objectively. That is perhaps the most brutal"
+    },
+    {
+      "fp": "ggtqbc",
+      "i": 129,
+      "from": 30305,
+      "subject": "codeWindow",
+      "entities": [],
+      "concept": "codeWindow",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "code window, 1995"
+      },
+      "antidote": {
+        "concept": "codeWindow",
+        "set": null,
+        "cast": []
+      },
+      "_said": "brutal realization in this entire stack of Brace yourself. Yeah. The researcher"
+    },
+    {
+      "fp": "1x5pkp3",
+      "i": 130,
+      "from": 30444,
+      "subject": "lightbulb",
+      "entities": [],
+      "concept": "lightbulb",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "lightbulb, 1995"
+      },
+      "antidote": {
+        "concept": "lightbulb",
+        "cast": []
+      },
+      "_said": "researcher David Perkins dropped an absolute bomb on this idea. He conducted studies on people of various ages and intelligence levels, asking them to think about social issues and"
+    },
+    {
+      "fp": "1u37z1i",
+      "i": 131,
+      "from": 30732,
+      "subject": "rocketLaunch",
+      "entities": [],
+      "concept": "rocketLaunch",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "rocket launch, 1995"
+      },
+      "antidote": {
+        "concept": "rocketLaunch",
+        "set": null,
+        "cast": []
+      },
+      "_said": "provide arguments for their Okay. And what did he find? He found that IQ is indeed the biggest predictor of how well people can argue. But here is the catch. It only predicts the n"
+    },
+    {
+      "fp": "17c4h2a",
+      "i": 132,
+      "from": 31060,
+      "subject": "target",
+      "entities": [],
+      "concept": "target",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "target, 1995"
+      },
+      "antidote": {
+        "concept": "target",
+        "cast": []
+      },
+      "_said": "generate. Yeah. High IQ does not make you more objective. It does not make you"
+    },
+    {
+      "fp": "t8uwe2",
+      "i": 133,
+      "from": 31190,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "you more willing to see the other side's valid points. It simply makes you a much more formidable lawyer for your own So, smart people just make better Basically, yes."
+    },
+    {
+      "fp": "e2c2dr",
+      "i": 134,
+      "from": 31524,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "yes. Smart people are just better at answering the question, can I believe it? By generating incredibly complex,"
+    },
+    {
+      "fp": "13vjnwk",
+      "i": 135,
+      "from": 31716,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "complex, sophisticated justifications for their initial gut feelings."
+    },
+    {
+      "fp": "1d99r0e",
+      "i": 136,
+      "from": 31853,
+      "subject": "Intuitions",
+      "entities": [
+        "intuitions"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Intuitions, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "intuitions"
+        ]
+      },
+      "_said": "feelings. Reasoning takes you exactly where you want to go because intuitions come first, strategic reasoning second. And you know, the internet is the ultimate enabler of this."
+    },
+    {
+      "fp": "1r4lilh",
+      "i": 137,
+      "from": 32114,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "this. Oh, 100%. The internet is basically a massive global engine designed to answer the question, \"Can I believe it?\" No matter how absurd your intuition is, no matter how fringe "
+    },
+    {
+      "fp": "6lsch3",
+      "i": 138,
+      "from": 32491,
+      "subject": "laptopMockup",
+      "entities": [],
+      "concept": "laptopMockup",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "laptop mockup, 1995"
+      },
+      "antidote": {
+        "concept": "laptopMockup",
+        "set": null,
+        "cast": []
+      },
+      "_said": "0.3 seconds, you will be handed a beautifully formatted website. A"
+    },
+    {
+      "fp": "bhmjrf",
+      "i": 139,
+      "from": 32592,
+      "subject": "lightbulb",
+      "entities": [],
+      "concept": "lightbulb",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "lightbulb, 1995"
+      },
+      "antidote": {
+        "concept": "lightbulb",
+        "cast": []
+      },
+      "_said": "A whole YouTube documentary. Yes. And a community of people who agree with you. It is the greatest press secretary tool ever invented. Exactly. It provides infinite"
+    },
+    {
+      "fp": "1nuwhwv",
+      "i": 140,
+      "from": 32837,
+      "subject": "shield",
+      "entities": [],
+      "concept": "shield",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "shield, 1995"
+      },
+      "antidote": {
+        "concept": "shield",
+        "cast": []
+      },
+      "_said": "infinite ammunition for the writer to defend the elephant. But you know to truly understand why our elephants lean in such vastly"
+    },
+    {
+      "fp": "1c2wqq4",
+      "i": 141,
+      "from": 33077,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "vastly different directions, especially across political and cultural lines, we have to look at"
+    },
+    {
+      "fp": "b616rg",
+      "i": 142,
+      "from": 33233,
+      "subject": "Which and Intuitions",
+      "entities": [
+        "which",
+        "intuitions"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Which and Intuitions, walk the humid, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "which",
+          "intuitions"
+        ]
+      },
+      "_said": "at the environment where these intuitions right? Which takes us out of the lab and into the real world. Let's walk the humid, bustling streets"
+    },
+    {
+      "fp": "lp5kdg",
+      "i": 143,
+      "from": 33480,
+      "subject": "gift",
+      "entities": [],
+      "concept": "gift",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "gift, 1995"
+      },
+      "antidote": {
+        "concept": "gift",
+        "cast": []
+      },
+      "_said": "streets of Receipe, Brazil. Okay, picture it. Present tense. You approach a lowerass worker and you tell them a story. You say, \"A woman's national flag was getting old and ragged,"
+    },
+    {
+      "fp": "1lfcwxq",
+      "i": 144,
+      "from": 33900,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "bathroom.\" Okay, pretty disrespectful, right? The worker hears this and is instantly offended."
+    },
+    {
+      "fp": "1wpnfuo",
+      "i": 145,
+      "from": 34044,
+      "subject": "Which",
+      "entities": [
+        "which"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Which, walk onto a pristine ivy league campus, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "which"
+        ]
+      },
+      "_said": "offended. Their elephant reacts with strong disgust. They tell you the act is universally wrong, that she should be which makes sense. Yet you take that exact same story, that exac"
+    },
+    {
+      "fp": "6nttqa",
+      "i": 146,
+      "from": 34449,
+      "subject": "school",
+      "entities": [],
+      "concept": "school",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "school, 1995"
+      },
+      "antidote": {
+        "concept": "school",
+        "set": null,
+        "cast": []
+      },
+      "_said": "campus in Pennsylvania. You tell it to a wealthy American college student. And what did they say?"
+    },
+    {
+      "fp": "1a7z2gr",
+      "i": 147,
+      "from": 34581,
+      "subject": "school",
+      "entities": [],
+      "concept": "school",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "school, 1995"
+      },
+      "antidote": {
+        "concept": "school",
+        "set": null,
+        "cast": []
+      },
+      "_said": "say? The student barely shrugs. They say, \"Well, it's her flag. She bought it. She did it in private."
+    },
+    {
+      "fp": "1fgdgli",
+      "i": 148,
+      "from": 34749,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "private. Nobody was hurt. It's weird, but it's not morally wrong.\" This contrast"
+    },
+    {
+      "fp": "1a71i9n",
+      "i": 149,
+      "from": 34915,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "contrast introduces one of the most critical concepts in modern psychology."
+    },
+    {
+      "fp": "1s97fun",
+      "i": 150,
+      "from": 35033,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": "cafe",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone, cafe, 1995"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": "cafe",
+        "cast": []
+      },
+      "_said": "The American college student represents what researchers call the weird mind. W I R D. Yes. Weird is an acronym. Western, educated,"
+    },
+    {
+      "fp": "iwi1yf",
+      "i": 151,
+      "from": 35333,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "educated, industrialized, rich, and So, western, educated, industrialized, rich, democratic."
+    },
+    {
+      "fp": "f68rk8",
+      "i": 152,
+      "from": 35532,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "democratic. Right? For a long time, psychologists assumed that human morality was essentially universal. And they based"
+    },
+    {
+      "fp": "1igrr7t",
+      "i": 153,
+      "from": 35719,
+      "subject": "school",
+      "entities": [],
+      "concept": "school",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "school, 1995"
+      },
+      "antidote": {
+        "concept": "school",
+        "set": null,
+        "cast": []
+      },
+      "_said": "based this assumption entirely on studies conducted on weird populations, mostly their own college undergrads."
+    },
+    {
+      "fp": "1nfhcw6",
+      "i": 154,
+      "from": 35904,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "undergrads. Right? Because that's who's on campus to take the surveys. Exactly. But as researchers like Richard Schweeter discovered, weird minds are actually the global statistica"
+    },
+    {
+      "fp": "1vshcz5",
+      "i": 155,
+      "from": 36257,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "separate autonomous objects and individuals. Okay. So, it's all about the individual. Yes. You believe"
+    },
+    {
+      "fp": "14u2khi",
+      "i": 156,
+      "from": 36396,
+      "subject": "shield",
+      "entities": [],
+      "concept": "shield",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "shield, 1995"
+      },
+      "antidote": {
+        "concept": "shield",
+        "cast": []
+      },
+      "_said": "believe the fundamental goal of morality is to protect those individuals from harm and oppression. Period. But most of the globe doesn't see it that way. Not at all."
+    },
+    {
+      "fp": "kjg8qk",
+      "i": 157,
+      "from": 36621,
+      "subject": "school",
+      "entities": [],
+      "concept": "school",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "school, 1995"
+      },
+      "antidote": {
+        "concept": "school",
+        "set": null,
+        "cast": []
+      },
+      "_said": "all. Throughout most of human history, cultures like the Hua of New Guinea or the Elilong in the Philippines or the working-class populations in Brazil or India, they bind ethics"
+    },
+    {
+      "fp": "16uzhoy",
+      "i": 158,
+      "from": 36905,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "to community, to roles, to purity, and to So morality isn't just about harm. Exactly."
+    },
+    {
+      "fp": "111edk2",
+      "i": 159,
+      "from": 37087,
+      "subject": "shield",
+      "entities": [],
+      "concept": "shield",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "shield, 1995"
+      },
+      "antidote": {
+        "concept": "shield",
+        "cast": []
+      },
+      "_said": "Exactly. It's about maintaining the social order and the spiritual purity of the group. Wait, but then if the weird way of thinking, this hyperfocus on protecting"
+    },
+    {
+      "fp": "3it6aj",
+      "i": 160,
+      "from": 37356,
+      "subject": "shield",
+      "entities": [],
+      "concept": "shield",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "shield, 1995"
+      },
+      "antidote": {
+        "concept": "shield",
+        "cast": []
+      },
+      "_said": "protecting individuals from harm is the global statistical outlier, how did it become the default assumption of modern psychology and philosophy? It's a great question. It just see"
+    },
+    {
+      "fp": "xq7pkh",
+      "i": 161,
+      "from": 37677,
+      "subject": "school",
+      "entities": [],
+      "concept": "school",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "school, 1995"
+      },
+      "antidote": {
+        "concept": "school",
+        "set": null,
+        "cast": []
+      },
+      "_said": "arrogant for Western science to define universal human nature based almost entirely on the psychological profiles of American college sophomores taking a psych class for course cre"
+    },
+    {
+      "fp": "a7z8wj",
+      "i": 162,
+      "from": 38037,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "blind spot. Western weird philosophers like Emanuel Kant"
+    },
+    {
+      "fp": "1ogox6",
+      "i": 163,
+      "from": 38119,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Kant or John Stewart Mill built entire incredibly complex ethical systems designed to govern autonomous"
+    },
+    {
+      "fp": "met71z",
+      "i": 164,
+      "from": 38316,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "autonomous individuals interacting in a marketplace. They tried to reduce all of human morality to a"
+    },
+    {
+      "fp": "kgetww",
+      "i": 165,
+      "from": 38484,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "a single principle, either maximizing utility or following universal rules of justice. But in doing so, they completely ignored the elephant. They built ethical systems for the wri"
+    },
+    {
+      "fp": "7q3ojf",
+      "i": 166,
+      "from": 38822,
+      "subject": "Intuitions",
+      "entities": [
+        "intuitions"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Intuitions, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "intuitions"
+        ]
+      },
+      "_said": "the fact that intuitions come first, strategic"
+    },
+    {
+      "fp": "1pcj6la",
+      "i": 167,
+      "from": 38885,
+      "subject": "Which",
+      "entities": [
+        "which"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Which, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "which"
+        ]
+      },
+      "_said": "strategic reasoning second. and they completely ignored the fact that human intuition is sensitive to far more than just harm and Which brings us to the menu metaphor."
+    },
+    {
+      "fp": "103e7wf",
+      "i": 168,
+      "from": 39173,
+      "subject": "heart",
+      "entities": [],
+      "concept": "heart",
+      "place": "cafe",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "heart, sit down at a restaurant, cafe, 1995"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": "cafe",
+        "cast": []
+      },
+      "_said": "metaphor. Let's sit down at a restaurant. Oh, I love this part of the book. It's brilliant. So, you sit down at a restaurant where the chef is preparing a meal specifically designe"
+    },
+    {
+      "fp": "125vq3e",
+      "i": 169,
+      "from": 39432,
+      "subject": "gift",
+      "entities": [],
+      "concept": "gift",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "gift, 1995"
+      },
+      "antidote": {
+        "concept": "gift",
+        "cast": []
+      },
+      "_said": "for your righteous mind. Present tense. You take a bite of a dish and it is seasoned heavily with the flavor of care."
+    },
+    {
+      "fp": "kt1kbd",
+      "i": 170,
+      "from": 39655,
+      "subject": "shield",
+      "entities": [],
+      "concept": "shield",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "shield, 1995"
+      },
+      "antidote": {
+        "concept": "shield",
+        "cast": []
+      },
+      "_said": "care. Care like compassion, right? It appeals to your desire to protect the vulnerable. Then you take another bite and it tastes like fairness."
+    },
+    {
+      "fp": "17vsv73",
+      "i": 171,
+      "from": 39909,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "fairness. It appeals to your sense of justice and proportionality. But you look at the menu and you realize those are only two options. The human moral pallet actually has six dist"
+    },
+    {
+      "fp": "zu8i20",
+      "i": 172,
+      "from": 40265,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "buds. Care, fairness, loyalty, authority, sanctity, and liberty. Yes, these"
+    },
+    {
+      "fp": "1r56iue",
+      "i": 173,
+      "from": 40406,
+      "subject": "Intuitions",
+      "entities": [
+        "intuitions"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Intuitions, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "intuitions"
+        ]
+      },
+      "_said": "these are the foundations of our moral intuitions honed by evolution to help us survive in complex social groups."
+    },
+    {
+      "fp": "1jo3xv3",
+      "i": 174,
+      "from": 40584,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "groups. Let's break down why we actually evolved these specific taste buds because it's fascinating. Let's do it. So, care evolved in response to the challenge of raising vulnerabl"
+    },
+    {
+      "fp": "1pjs1wv",
+      "i": 175,
+      "from": 41006,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "sense. Fairness evolved to help us reap the benefits of two-way partnerships without getting exploited by cheaters."
+    },
+    {
+      "fp": "1k2wqoh",
+      "i": 176,
+      "from": 41172,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "cheaters. Loyalty evolved to help us form cohesive coalitions to compete with other groups. Right? Tribe versus tribe."
+    },
+    {
+      "fp": "7sign8",
+      "i": 177,
+      "from": 41352,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "tribe. Authority evolved to help us navigate hierarchical social structures and maintain order."
+    },
+    {
+      "fp": "1qx3jp5",
+      "i": 178,
+      "from": 41505,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "order. Sanctity evolved from the emotion of disgust. Initially to avoid pathogens and parasites, but eventually it scaled up to bind groups together around sacred objects or ideas."
+    },
+    {
+      "fp": "dfaoui",
+      "i": 179,
+      "from": 41817,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "ideas. Oh, interesting. And finally, liberty evolved in response"
+    },
+    {
+      "fp": "1xwd2fj",
+      "i": 180,
+      "from": 41906,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "response to the challenge of living in small groups with wouldbe alpha male tyrants."
+    },
+    {
+      "fp": "1c3aua7",
+      "i": 181,
+      "from": 42041,
+      "subject": "road",
+      "entities": [],
+      "concept": "road",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "road, 1995"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": null,
+        "cast": []
+      },
+      "_said": "tyrants. It's our drive to band together to take down bullies. Okay. So, if we all have these six evolutionary taste buds, this perfectly explains the political divide. It really d"
+    },
+    {
+      "fp": "1t3tvro",
+      "i": 182,
+      "from": 42309,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "does. Because when you look at the political left, they cook almost exclusively with two or three of these flavors,"
+    },
+    {
+      "fp": "11a4cvv",
+      "i": 183,
+      "from": 42463,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Left-wing morality relies heavily on care, fairness, and liberty, It is highly focused"
+    },
+    {
+      "fp": "1uso6po",
+      "i": 184,
+      "from": 42657,
+      "subject": "shield",
+      "entities": [],
+      "concept": "shield",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "shield, 1995"
+      },
+      "antidote": {
+        "concept": "shield",
+        "cast": []
+      },
+      "_said": "focused on protecting victims, fighting oppression, and demanding equality. But"
+    },
+    {
+      "fp": "15mjlm8",
+      "i": 185,
+      "from": 42806,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "But the political right cooks with all six flavors. They use the whole spice rack. Exactly. They bring in heavy doses of loyalty."
+    },
+    {
+      "fp": "sto4dc",
+      "i": 186,
+      "from": 43010,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, 1995"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": []
+      },
+      "_said": "loyalty. Think of the reverence for the flag and the military. They use authority, respect for parents, elders, and the police. And they rely heavily on sanctity,"
+    },
+    {
+      "fp": "vfgc65",
+      "i": 187,
+      "from": 43298,
+      "subject": "lightbulb",
+      "entities": [],
+      "concept": "lightbulb",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "lightbulb, 1995"
+      },
+      "antidote": {
+        "concept": "lightbulb",
+        "cast": []
+      },
+      "_said": "sanctity, the importance of religion, sexual purity, and the idea that some things are just sacred. Wait, but doesn't"
+    },
+    {
+      "fp": "12ejodg",
+      "i": 188,
+      "from": 43476,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "doesn't this mean conservative politicians have a massive built-in structural advantage? If they are appealing to a much broader moral pallet while the left is essentially running"
+    },
+    {
+      "fp": "1ohwnai",
+      "i": 189,
+      "from": 43757,
+      "subject": "trophy",
+      "entities": [],
+      "concept": "trophy",
+      "place": "cafe",
+      "confidence": 0.6,
+      "vox": {
+        "shot": "trophy, running a restaurant that only serves two dishe, cafe, 1995"
+      },
+      "antidote": {
+        "concept": "trophy",
+        "set": "cafe",
+        "cast": []
+      },
+      "_said": "running a restaurant that only serves two dishes, shouldn't the right win every time? It absolutely gives them a structural advantage in messaging. A left-wing"
+    },
+    {
+      "fp": "11ch0cw",
+      "i": 190,
+      "from": 43980,
+      "subject": "Which — shield",
+      "entities": [
+        "which"
+      ],
+      "concept": "shield",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Which, 1995"
+      },
+      "antidote": {
+        "concept": "shield",
+        "cast": [
+          "which"
+        ]
+      },
+      "_said": "left-wing politician might focus a policy speech entirely on the foundation of care, talking about safety nets and protecting the marginalized, which is powerful but limited, right"
+    },
+    {
+      "fp": "b0j753",
+      "i": 191,
+      "from": 44253,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "But a right-wing politician will hit the gut on all six receptors. When"
+    },
+    {
+      "fp": "1dya9d3",
+      "i": 192,
+      "from": 44385,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "When a conservative politician says, \"Are you going to pay for that?\" they are directly"
+    },
+    {
+      "fp": "11mn5at",
+      "i": 193,
+      "from": 44546,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "stand in front of a flag, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "directly activating the fairness foundation, specifically the sensitivity to cheaters or free writers. Oh wow. When they stand in front of a flag, they hit loyalty. When they talk "
+    },
+    {
+      "fp": "pn0sg2",
+      "i": 194,
+      "from": 44858,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "they hit authority. They are speaking directly to the elephant on multiple frequencies at"
+    },
+    {
+      "fp": "1qbx0mm",
+      "i": 195,
+      "from": 45000,
+      "subject": "Intuitions",
+      "entities": [
+        "intuitions"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Intuitions, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "intuitions"
+        ]
+      },
+      "_said": "at Because voters are not persuaded by policy white papers or logical arguments from the writer. They are persuaded by appeals to their moral intuitions."
+    },
+    {
+      "fp": "1spdseu",
+      "i": 196,
+      "from": 45266,
+      "subject": "Intuitions",
+      "entities": [
+        "intuitions"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Intuitions, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "intuitions"
+        ]
+      },
+      "_said": "Because as always, intuitions come first, strategic reasoning second. But does this mean one side of the political spectrum is functionally"
+    },
+    {
+      "fp": "12si5us",
+      "i": 197,
+      "from": 45523,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "functionally colorblind to certain wavelengths of human morality? Exactly what it means. Like when someone on the left looks at someone on the right demanding respect for authority"
+    },
+    {
+      "fp": "1i00zpk",
+      "i": 198,
+      "from": 45967,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "highly educated liberal mind, an appeal to authority or sanctity doesn't look like morality at all. It"
+    },
+    {
+      "fp": "4mi8cj",
+      "i": 199,
+      "from": 46147,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "It looks like oppression or ignorance or because they can't taste it. They literally cannot taste the moral flavor being offered. So they assume the"
+    },
+    {
+      "fp": "12g6uem",
+      "i": 200,
+      "from": 46387,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "the person offering it must be acting out of malice or stupidity. They don't realize the other person's elephant is"
+    },
+    {
+      "fp": "6q239u",
+      "i": 201,
+      "from": 46545,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "is just responding to a different evolutionary Okay, so let's look at the most powerful evolutionary trigger we possess. The hive switch. Yes."
+    },
+    {
+      "fp": "1muw8i9",
+      "i": 202,
+      "from": 46797,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "stand in the middle of a packed nightclub, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Yes. Stand in the middle of a packed nightclub. The base is thumping. It's shaking your chest. Or imagine standing amidst a battalion of soldiers marching in perfect"
+    },
+    {
+      "fp": "i0v8vj",
+      "i": 203,
+      "from": 47124,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "perfect synchronized unison. It's an intense feeling. The bodies move together."
+    },
+    {
+      "fp": "ppqniy",
+      "i": 204,
+      "from": 47253,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "together. Sweat is flying. The rhythm takes over. And suddenly the boundaries of the self completely dissolve. You are no longer an individual. You are part of a larger organism. T"
+    },
+    {
+      "fp": "17rdg2r",
+      "i": 205,
+      "from": 47589,
+      "subject": "Jonathan",
+      "entities": [
+        "jonathan"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Jonathan, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "jonathan"
+        ]
+      },
+      "_said": "switch And Jonathan hate argues that humans are basically 90% chimp."
+    },
+    {
+      "fp": "1ekvwgm",
+      "i": 206,
+      "from": 47714,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "chimp. Meaning we are selfish primates obsessed with our own survival and status. But we are 10% bee. 10% bee. Yes. Under the right conditions, we flip into groupish,"
+    },
+    {
+      "fp": "ux0oiu",
+      "i": 207,
+      "from": 48017,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "groupish, self-trcendent teams. This is where we have to talk about Charles Darwin and the concept of group selection,"
+    },
+    {
+      "fp": "1cusmmv",
+      "i": 208,
+      "from": 48170,
+      "subject": "lightbulb",
+      "entities": [],
+      "concept": "lightbulb",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "lightbulb, 1995"
+      },
+      "antidote": {
+        "concept": "lightbulb",
+        "cast": []
+      },
+      "_said": "selection, right? Yeah. Yes. For a long time, evolutionary biologists focused almost entirely on individual selection. The idea that evolution only cares about the survival of the "
+    },
+    {
+      "fp": "f34a8b",
+      "i": 209,
+      "from": 48487,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "fittest individual. The chimp part, right? The 90% chimp part of our nature."
+    },
+    {
+      "fp": "dm4e8o",
+      "i": 210,
+      "from": 48612,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "nature. We are designed to compete to hoard resources to survive."
+    },
+    {
+      "fp": "1nknhwd",
+      "i": 211,
+      "from": 48727,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "survive. But Darwin himself noted that when it comes to humans, the"
+    },
+    {
+      "fp": "1yw3329",
+      "i": 212,
+      "from": 48813,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "the most cohesive, courageous, and cooperative groups generally beat the groups of selfish individualists."
+    },
+    {
+      "fp": "j8wpp7",
+      "i": 213,
+      "from": 48996,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "run away from danger, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "individualists. Group selection. Exactly. [clears throat] If tribe A is full of selfish individuals who run away from danger, and tribe B is full of individuals willing to sacrific"
+    },
+    {
+      "fp": "16fgd66",
+      "i": 214,
+      "from": 49298,
+      "subject": "game",
+      "entities": [],
+      "concept": "game",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "game, 1995"
+      },
+      "antidote": {
+        "concept": "game",
+        "set": null,
+        "cast": []
+      },
+      "_said": "group. Tribe B is going to wipe out tribe A without a doubt. We evolve not just to survive as individuals, but to be fiercely local team players competing against other teams. The "
+    },
+    {
+      "fp": "1g94vmq",
+      "i": 215,
+      "from": 49658,
+      "subject": "mirror",
+      "entities": [],
+      "concept": "mirror",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "mirror, 1995"
+      },
+      "antidote": {
+        "concept": "mirror",
+        "set": null,
+        "cast": []
+      },
+      "_said": "adaptation. It's facilitated by neurochemicals like oxytocin and mirror neurons that allow us to basically sync up with others."
+    },
+    {
+      "fp": "1vk5uc2",
+      "i": 216,
+      "from": 49843,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "others. Wait, but then if this hivishness, this ability to dissolve the self and merge with the group is the source of all"
+    },
+    {
+      "fp": "lszjas",
+      "i": 217,
+      "from": 50073,
+      "subject": "ledge",
+      "entities": [],
+      "concept": "ledge",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "ledge, 1995"
+      },
+      "antidote": {
+        "concept": "ledge",
+        "set": null,
+        "cast": []
+      },
+      "_said": "all our greatest altruism and heroism. Like, the reason someone would jump"
+    },
+    {
+      "fp": "18vhkvm",
+      "i": 218,
+      "from": 50198,
+      "subject": "ledge",
+      "entities": [],
+      "concept": "ledge",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "ledge, 1995"
+      },
+      "antidote": {
+        "concept": "ledge",
+        "set": null,
+        "cast": []
+      },
+      "_said": "jump on a grenade to save their squad, isn't it also the exact mechanism"
+    },
+    {
+      "fp": "drqq14",
+      "i": 219,
+      "from": 50321,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "war, 1995"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "that enables war, tribalism, and genocide? That is the terrifying paradox of human nature. The exact same biological switch that creates selfless heroes creates brutal,"
+    },
+    {
+      "fp": "1ffciuu",
+      "i": 220,
+      "from": 50673,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "brutal, merciless armies. You cannot have the extreme cooperation required to build"
+    },
+    {
+      "fp": "1d1yydr",
+      "i": 221,
+      "from": 50827,
+      "subject": "heart",
+      "entities": [],
+      "concept": "heart",
+      "place": "cafe",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "heart, cafe, 1995"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": "cafe",
+        "cast": []
+      },
+      "_said": "build a civilization without the tribalism required to defend it against other civilizations. That's heavy. We love the idea of community."
+    },
+    {
+      "fp": "qbkf7d",
+      "i": 222,
+      "from": 51026,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "community. Everyone advocates for stronger communities. But we conveniently forget that strong communities almost always require an out group to contrast against."
+    },
+    {
+      "fp": "w5tkmo",
+      "i": 223,
+      "from": 51240,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "against. Always the boundary that binds the in-group together is often defined by their shared opposition to the out groupoup. We blindly surrender to the hives. We adopt the group"
+    },
+    {
+      "fp": "s4lxld",
+      "i": 224,
+      "from": 51547,
+      "subject": "Which and Intuitions",
+      "entities": [
+        "which",
+        "intuitions"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Which and Intuitions, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "which",
+          "intuitions"
+        ]
+      },
+      "_said": "question because intuitions come first, strategic reasoning second. Which perfectly explains why religion has been such a permanent fixture in human history. Oh, let's talk about r"
+    },
+    {
+      "fp": "jg36hg",
+      "i": 225,
+      "from": 51821,
+      "subject": "gift",
+      "entities": [],
+      "concept": "gift",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "gift, 1995"
+      },
+      "antidote": {
+        "concept": "gift",
+        "cast": []
+      },
+      "_said": "Imagine it's Sunday morning. Present tense. Colored light filters through stained glass windows."
+    },
+    {
+      "fp": "1hkc0v6",
+      "i": 226,
+      "from": 52005,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "windows. Voices rise in a hymn. A congregation moving, breathing, and singing as one single entity. It's that hive switch flipping again. For new atheists"
+    },
+    {
+      "fp": "f004tz",
+      "i": 227,
+      "from": 52298,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "atheists like Richard Dawkins, this scene represents a dangerous mind virus. They look at religion and see a parasite that has hijacked the human brain causing"
+    },
+    {
+      "fp": "11e592a",
+      "i": 228,
+      "from": 52565,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "causing irrational behavior and"
+    },
+    {
+      "fp": "17zcjtv",
+      "i": 229,
+      "from": 52629,
+      "subject": "game",
+      "entities": [],
+      "concept": "game",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "game, 1995"
+      },
+      "antidote": {
+        "concept": "game",
+        "set": null,
+        "cast": []
+      },
+      "_said": "and Right? Dawkins famously hates it. But if you look closer through the lens of moral psychology, this isn't a virus at all. This is the ultimate team sport. This brings us to the"
+    },
+    {
+      "fp": "6vo074",
+      "i": 230,
+      "from": 52985,
+      "subject": "Durkheim",
+      "entities": [
+        "durkheim"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Durkheim, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "durkheim"
+        ]
+      },
+      "_said": "Richard Dawkins's view of religion and the view of Emil Durkheim who is one of the founders of"
+    },
+    {
+      "fp": "l07at6",
+      "i": 231,
+      "from": 53148,
+      "subject": "Durkheim",
+      "entities": [
+        "durkheim"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Durkheim, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "durkheim"
+        ]
+      },
+      "_said": "of Right. Durkheim Dawkins looks at religion as a failure of the writer. He sees irrational beliefs and concludes that religion is just a cognitive error."
+    },
+    {
+      "fp": "mw1k2a",
+      "i": 232,
+      "from": 53373,
+      "subject": "Durkheim — rocketLaunch",
+      "entities": [
+        "durkheim"
+      ],
+      "concept": "rocketLaunch",
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Durkheim, 1995"
+      },
+      "antidote": {
+        "concept": "rocketLaunch",
+        "set": null,
+        "cast": [
+          "durkheim"
+        ]
+      },
+      "_said": "error. But Durkheim saw it completely differently. How so? Durkheim saw that society emerged organically as people found ways to bind themselves together to suppress their own self"
+    },
+    {
+      "fp": "19au8uo",
+      "i": 233,
+      "from": 53719,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Religion and morality aren't parasites. They are the evolutionary biotechnology that built massive human cooperation."
+    },
+    {
+      "fp": "15xgnj2",
+      "i": 234,
+      "from": 53928,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "cooperation. The biotechnology that built cooperation. That's a great way to put Religion solves the free rider problem. It creates"
+    },
+    {
+      "fp": "1hy5k1y",
+      "i": 235,
+      "from": 54108,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "creates shared sacred objects, shared rituals, and a shared moral matrix that allows thousands or even millions of unrelated individuals to trust each other and"
+    },
+    {
+      "fp": "d5adx",
+      "i": 236,
+      "from": 54374,
+      "subject": "codeWindow",
+      "entities": [],
+      "concept": "codeWindow",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "code window, 1995"
+      },
+      "antidote": {
+        "concept": "codeWindow",
+        "set": null,
+        "cast": []
+      },
+      "_said": "and work together. These are all playing by the same rules. Exactly. The irrational beliefs aren't a bug. They are a feature."
+    },
+    {
+      "fp": "ri9jub",
+      "i": 237,
+      "from": 54576,
+      "subject": "codeWindow",
+      "entities": [],
+      "concept": "codeWindow",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "code window, 1995"
+      },
+      "antidote": {
+        "concept": "codeWindow",
+        "set": null,
+        "cast": []
+      },
+      "_said": "feature. Believing in a shared invisible reality proves your loyalty to the group in a way that mere rational agreement never could. So morality binds and blinds. It binds us into "
+    },
+    {
+      "fp": "6h2s16",
+      "i": 238,
+      "from": 54921,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "beautiful cooperative communities, but it totally blinds us to the validity of any other group's matrix. It does. If this is true, are we"
+    },
+    {
+      "fp": "1gwpzpw",
+      "i": 239,
+      "from": 55149,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "we just doomed? Are we permanently stuck in a hyperartisan world where good people can never hear each other across"
+    },
+    {
+      "fp": "4u85xs",
+      "i": 240,
+      "from": 55356,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "across politics and religion? It's a dark thought because if I am trapped inside my moral matrix and you are trapped inside yours and"
+    },
+    {
+      "fp": "nmjqlv",
+      "i": 241,
+      "from": 55608,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "shout talking points, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "and our elephants are just charging at each other while our press secretaries shout talking points. How do we ever make progress? I are doomed to that fate. We"
+    },
+    {
+      "fp": "16ue46e",
+      "i": 242,
+      "from": 55896,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "We will continue to talk past each other forever unless we finally accept the fundamental rule of human nature."
+    },
+    {
+      "fp": "1ooqoj9",
+      "i": 243,
+      "from": 56100,
+      "subject": "Intuitions",
+      "entities": [
+        "intuitions"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Intuitions, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "intuitions"
+        ]
+      },
+      "_said": "Intuitions come first, strategic reasoning second. We have to accept it. As long as you believe that the people who disagree with you are simply stupid or evil"
+    },
+    {
+      "fp": "atggf3",
+      "i": 244,
+      "from": 56390,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "read the right data or heard the right logic, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "evil or irrational, as long as you believe that they just haven't read the right data or heard the right logical argument, you will remain blind."
+    },
+    {
+      "fp": "p6t85d",
+      "i": 245,
+      "from": 56628,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Admitting that we have an elephant steering us and recognizing that other people's elephants are reacting to different moral taste buds is the only way out of the matrix. I have to"
+    },
+    {
+      "fp": "a24ih8",
+      "i": 246,
+      "from": 56906,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "deep honest counterpoint here. Play it on me. I hear all of this. I see the data, but a part of me recoils at"
+    },
+    {
+      "fp": "1r63ems",
+      "i": 247,
+      "from": 57098,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "at does explaining the elephant just excuse"
+    },
+    {
+      "fp": "1plzpja",
+      "i": 248,
+      "from": 57161,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "excuse troubolism. That's a common fear. If we say, well, we are just wired this way by evolution."
+    },
+    {
+      "fp": "1y0yrm7",
+      "i": 249,
+      "from": 57372,
+      "subject": "Intuitions — gift",
+      "entities": [
+        "intuitions"
+      ],
+      "concept": "gift",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Intuitions, 1995"
+      },
+      "antidote": {
+        "concept": "gift",
+        "cast": [
+          "intuitions"
+        ]
+      },
+      "_said": "evolution. Our intuitions are completely in control. Does that give us a free pass to ignore the other side?"
+    },
+    {
+      "fp": "x4505r",
+      "i": 250,
+      "from": 57564,
+      "subject": "target",
+      "entities": [],
+      "concept": "target",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "target, 1995"
+      },
+      "antidote": {
+        "concept": "target",
+        "cast": []
+      },
+      "_said": "side? Does it justify retreating to our hives, throwing our hands up and saying there is no objective truth? There is no free will. We are just"
+    },
+    {
+      "fp": "1r73q76",
+      "i": 251,
+      "from": 57796,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "just biological machines driven by disgust and loyalty. It feels fatalistic, extremely fatalistic. It feels like a very bleak way to"
+    },
+    {
+      "fp": "w2j6gb",
+      "i": 252,
+      "from": 58051,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "to view humanity. It is a common reaction to feel a sense of fatalism when confronted with this research. But the answer is no. It does not"
+    },
+    {
+      "fp": "1eywef3",
+      "i": 253,
+      "from": 58260,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "not excuse tribalism. In fact, it hands us the only real practical way out of think about it pragmatically. If you realize the writer is just a"
+    },
+    {
+      "fp": "1lshiu3",
+      "i": 254,
+      "from": 58536,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "a press secretary, you stop yelling at the press secretary. You stop wasting your breath trying to logic someone out of a position they didn't logic themselves into in the first pl"
+    },
+    {
+      "fp": "1yhnffs",
+      "i": 255,
+      "from": 58831,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "not about surrendering to determinism. It is about becoming vastly more effective at persuasion and empathy. When"
+    },
+    {
+      "fp": "gjnoua",
+      "i": 256,
+      "from": 59040,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "When you understand the six moral foundations, you stop seeing your political opponents as monsters. You see them as people who are"
+    },
+    {
+      "fp": "zkm1vo",
+      "i": 257,
+      "from": 59282,
+      "subject": "funnelTrap",
+      "entities": [],
+      "concept": "funnelTrap",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "funnel trap, reach someone across the divine, 1995"
+      },
+      "antidote": {
+        "concept": "funnelTrap",
+        "cast": []
+      },
+      "_said": "are simply prioritizing different evolutionary values than you are. So to change a mind, to actually reach someone across the divine, you can't just win"
+    },
+    {
+      "fp": "doiynd",
+      "i": 258,
+      "from": 59539,
+      "subject": "trophy",
+      "entities": [],
+      "concept": "trophy",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "trophy, 1995"
+      },
+      "antidote": {
+        "concept": "trophy",
+        "cast": []
+      },
+      "_said": "win the argument. You can't just hand them a chart or a peer-reviewed study and expect them to abandon their tribe. No, never. You have to talk"
+    },
+    {
+      "fp": "1ewubbe",
+      "i": 259,
+      "from": 59757,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "talk to the elephant. You have to find the one moral foundation, whether it's care, fairness, liberty, loyalty, that you already share with the person you disagree with and lean in"
+    },
+    {
+      "fp": "piefn7",
+      "i": 260,
+      "from": 60098,
+      "subject": "key",
+      "entities": [],
+      "concept": "key",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "key, 1995"
+      },
+      "antidote": {
+        "concept": "key",
+        "set": null,
+        "cast": []
+      },
+      "_said": "a positive intuition first before their press secretary goes on the defensive. Exactly. What if the key to world peace or at least"
+    },
+    {
+      "fp": "1oc4ptw",
+      "i": 261,
+      "from": 60307,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "least a functioning democracy isn't about perfectly educating the What if it isn't about forcing everyone to adopt the exact same logical"
+    },
+    {
+      "fp": "vw1t8",
+      "i": 262,
+      "from": 60523,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "logical principles? What if it is simply about learning how to ride peacefully alongside other elephants, acknowledging that their moral taste buds are just as real and just as dee"
+    },
+    {
+      "fp": "nug2o2",
+      "i": 263,
+      "from": 60816,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "shared evolutionary history as our On."
+    }
+  ]
+}

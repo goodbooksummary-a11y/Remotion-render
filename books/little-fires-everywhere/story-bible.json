@@ -1,0 +1,209 @@
+{
+  "slug": "little-fires-everywhere",
+  "world": {
+    "era": "1997–1997",
+    "approxYear": 1997,
+    "setting": "",
+    "register": "",
+    "forbid": []
+  },
+  "cast": {
+    "izzy": {
+      "name": "Izzy",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 13
+    },
+    "elena": {
+      "name": "Elena",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 11
+    },
+    "mia": {
+      "name": "Mia",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 6
+    },
+    "richardson": {
+      "name": "Richardson",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 2
+    },
+    "ang": {
+      "name": "Ang",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 2
+    }
+  },
+  "places": {
+    "hospital": {
+      "set": "hospital",
+      "look": "",
+      "mentions": 5
+    },
+    "street": {
+      "set": "street",
+      "look": "",
+      "mentions": 3
+    },
+    "bedroom": {
+      "set": "bedroom",
+      "look": "",
+      "mentions": 2
+    },
+    "cafe": {
+      "set": "cafe",
+      "look": "",
+      "mentions": 2
+    },
+    "court": {
+      "set": "court",
+      "look": "",
+      "mentions": 2
+    },
+    "kitchen": {
+      "set": "kitchen",
+      "look": "",
+      "mentions": 1
+    },
+    "library": {
+      "set": "library",
+      "look": "",
+      "mentions": 1
+    }
+  },
+  "objects": [
+    {
+      "concept": "family",
+      "mentions": 34,
+      "why": ""
+    },
+    {
+      "concept": "home",
+      "mentions": 18,
+      "why": ""
+    },
+    {
+      "concept": "fire",
+      "mentions": 13,
+      "why": ""
+    },
+    {
+      "concept": "law",
+      "mentions": 12,
+      "why": ""
+    },
+    {
+      "concept": "gift",
+      "mentions": 9,
+      "why": ""
+    },
+    {
+      "concept": "shield",
+      "mentions": 8,
+      "why": ""
+    },
+    {
+      "concept": "heart",
+      "mentions": 7,
+      "why": ""
+    },
+    {
+      "concept": "notes",
+      "mentions": 6,
+      "why": ""
+    },
+    {
+      "concept": "school",
+      "mentions": 6,
+      "why": ""
+    },
+    {
+      "concept": "coin",
+      "mentions": 6,
+      "why": ""
+    },
+    {
+      "concept": "medical",
+      "mentions": 6,
+      "why": ""
+    },
+    {
+      "concept": "phone",
+      "mentions": 5,
+      "why": ""
+    }
+  ],
+  "spine": [
+    {
+      "act": "Nobody Commits a Crime",
+      "fromFrame": 0,
+      "claim": ""
+    },
+    {
+      "act": "Shaker Heights, 1997: Two Families Collide",
+      "fromFrame": 1980,
+      "claim": ""
+    },
+    {
+      "act": "A Town That Plans Everything — Even You",
+      "fromFrame": 4500,
+      "claim": ""
+    },
+    {
+      "act": "The House Burns in Sentence One",
+      "fromFrame": 9840,
+      "claim": ""
+    },
+    {
+      "act": "Two Theories of Motherhood",
+      "fromFrame": 13920,
+      "claim": ""
+    },
+    {
+      "act": "The Trial: Who Deserves This Baby?",
+      "fromFrame": 20190,
+      "claim": ""
+    },
+    {
+      "act": "When Concern Becomes Control",
+      "fromFrame": 25800,
+      "claim": ""
+    },
+    {
+      "act": "The \"Crazy\" Daughter Was the Conscience",
+      "fromFrame": 32100,
+      "claim": ""
+    },
+    {
+      "act": "The Children Inherit the Poison",
+      "fromFrame": 36030,
+      "claim": ""
+    },
+    {
+      "act": "An Ending That Refuses Catharsis",
+      "fromFrame": 40890,
+      "claim": ""
+    },
+    {
+      "act": "Is the Novel Too Neat?",
+      "fromFrame": 45030,
+      "claim": ""
+    },
+    {
+      "act": "The Title Was Never About One Fire",
+      "fromFrame": 47580,
+      "claim": ""
+    }
+  ],
+  "authored": false
+}

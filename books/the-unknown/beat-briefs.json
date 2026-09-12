@@ -1,0 +1,5914 @@
+{
+  "slug": "the-unknown",
+  "authored": false,
+  "briefs": [
+    {
+      "fp": "ff02me",
+      "i": 0,
+      "from": 0,
+      "subject": "tree",
+      "entities": [],
+      "concept": "tree",
+      "place": "forest",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "tree, forest, 1926"
+      },
+      "antidote": {
+        "concept": "tree",
+        "set": "forest",
+        "cast": []
+      },
+      "_said": "five empty dresses swaying from an oak tree and a hundred years later a film crew shows up to put women back inside It is um it's just such"
+    },
+    {
+      "fp": "1trlthe",
+      "i": 1,
+      "from": 283,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "standing on this incredibly isolated island, 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "such a visceral image to start with. It really is. I just want you to picture this image in your head for a second. You are standing on this incredibly isolated island"
+    },
+    {
+      "fp": "4s8v4y",
+      "i": 2,
+      "from": 561,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "island in Vermont like Faraday. The year is 1926, A group of young women, residents of this remote commune, they just"
+    },
+    {
+      "fp": "11cn87b",
+      "i": 3,
+      "from": 823,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "leave absolutely nothing behind, 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "just vanish without a trace. Just completely gone. completely gone. They leave absolutely nothing behind. No clues, no bodies except for their Yeah, the dresses. Exactly. Their dre"
+    },
+    {
+      "fp": "b9vgwh",
+      "i": 4,
+      "from": 1190,
+      "subject": "tree",
+      "entities": [],
+      "concept": "tree",
+      "place": "forest",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "tree, forest, 1926"
+      },
+      "antidote": {
+        "concept": "tree",
+        "set": "forest",
+        "cast": []
+      },
+      "_said": "in the branches of this massive ancient lightning scarred oak tree right in the center of the which is an image that just, you know, completely sticks in your brain. It really does"
+    },
+    {
+      "fp": "acw3sa",
+      "i": 5,
+      "from": 1502,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "to fast forward exactly one century. The year is"
+    },
+    {
+      "fp": "1f8mi3a",
+      "i": 6,
+      "from": 1617,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Okay. A hot shot, let's be honest, predatory Hollywood director brings an isolated cast of actresses back to that exact same island, to the exact same"
+    },
+    {
+      "fp": "1pljmx1",
+      "i": 7,
+      "from": 1903,
+      "subject": "lightbulb",
+      "entities": [],
+      "concept": "lightbulb",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "lightbulb, 1926"
+      },
+      "antidote": {
+        "concept": "lightbulb",
+        "cast": []
+      },
+      "_said": "same Yeah. And before the cameras even start rolling, he takes away their cell cuts the electricity to the island, right? And he forces them into these period"
+    },
+    {
+      "fp": "1lm1ury",
+      "i": 8,
+      "from": 2133,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "period accurate 1920s clothes, he basically demands that they, you know, live the roles of those missing women."
+    },
+    {
+      "fp": "1sevnsj",
+      "i": 9,
+      "from": 2323,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "women. It's a literal pressure cooker. And I think what makes Riley"
+    },
+    {
+      "fp": "1j6pq8q",
+      "i": 10,
+      "from": 2443,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Riley Sager's setup in the unknown so endlessly fascinating is how meticulously he layers these two parallel timelines. Oh, absolutely."
+    },
+    {
+      "fp": "5vfdn2",
+      "i": 11,
+      "from": 2705,
+      "subject": "gift",
+      "entities": [],
+      "concept": "gift",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "gift, 1926"
+      },
+      "antidote": {
+        "concept": "gift",
+        "cast": []
+      },
+      "_said": "absolutely. Because you have a century of history separating them, But they are unfolding on the exact same haunted real estate. You have the ghosts of the past staring directly in"
+    },
+    {
+      "fp": "up1pwy",
+      "i": 12,
+      "from": 3005,
+      "subject": "gift",
+      "entities": [],
+      "concept": "gift",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "gift, 1926"
+      },
+      "antidote": {
+        "concept": "gift",
+        "cast": []
+      },
+      "_said": "present. Yeah, exactly. And that actually brings us to the core argument we are going to tear apart in this deep dive today."
+    },
+    {
+      "fp": "1vry8qy",
+      "i": 13,
+      "from": 3161,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "read the book, 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "today. Yeah. I genuinely believe that this specific lens completely rewires how you read the book. I agree. I mean, the"
+    },
+    {
+      "fp": "132xhpe",
+      "i": 14,
+      "from": 3386,
+      "subject": "Azra",
+      "entities": [
+        "azra"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Azra, 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "azra"
+        ]
+      },
+      "_said": "the real monster in this story, the thing that is actually hunting these women, it isn't the demonic spirit, Azra. No, not at all. The real monster is the machinery of Yes."
+    },
+    {
+      "fp": "j1i29v",
+      "i": 15,
+      "from": 3655,
+      "subject": "Avalon",
+      "entities": [
+        "avalon"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Avalon, 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "avalon"
+        ]
+      },
+      "_said": "Yes. Because when you strip away the genre tropes, a 1926 Stance at the New Avalon Commune and"
+    },
+    {
+      "fp": "1laodgd",
+      "i": 16,
+      "from": 3808,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "and a 2026 movie shoot on that identical Vermont Island, they are the exact same mechanical device. They really are."
+    },
+    {
+      "fp": "tdw4og",
+      "i": 17,
+      "from": 4012,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "are. Both of them require a woman to perform absolute belief for a paying audience. And both of them make that performance deadly real. I mean, the women"
+    },
+    {
+      "fp": "eletbs",
+      "i": 18,
+      "from": 4281,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "women on this island don't die of a ghost, right? They die at the moment the audience needs the show to be true. So, to really see how the gears of this trap work, I think we need "
+    },
+    {
+      "fp": "1jug2ku",
+      "i": 19,
+      "from": 4625,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "We are tracking two distinct eras that are going to violently collapse into one another."
+    },
+    {
+      "fp": "1czjg5y",
+      "i": 20,
+      "from": 4766,
+      "subject": "Daisy",
+      "entities": [
+        "daisy"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Daisy, 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "daisy"
+        ]
+      },
+      "_said": "another. Let's look at 1926 first. Okay. Set the scene. We have Daisy Rue. She's this young woman, highly vulnerable, supposedly gifted with this profound ability to connect to the"
+    },
+    {
+      "fp": "1a1r5nm",
+      "i": 21,
+      "from": 5102,
+      "subject": "Simple",
+      "entities": [
+        "simple"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Simple, 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "simple"
+        ]
+      },
+      "_said": "supposedly. Yeah. Right. And she's brought to this island by Mrs. Ruth Hume Simple."
+    },
+    {
+      "fp": "1um2n03",
+      "i": 22,
+      "from": 5225,
+      "subject": "Simple and Avalon",
+      "entities": [
+        "simple",
+        "avalon"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Simple and Avalon, runs the new avalon retreat, 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "simple",
+          "avalon"
+        ]
+      },
+      "_said": "Mrs. Simple is the wealthy imposing benefactor who runs the new Avalon retreat. And she's got other girls there, too. Yeah."
+    },
+    {
+      "fp": "135ff50",
+      "i": 23,
+      "from": 5436,
+      "subject": "Azra — shadowSelf",
+      "entities": [
+        "azra"
+      ],
+      "concept": "shadowSelf",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Azra, 1926"
+      },
+      "antidote": {
+        "concept": "shadowSelf",
+        "cast": [
+          "azra"
+        ]
+      },
+      "_said": "Yeah. Alongside them are three other young women acting as mediums, Katrina, Jonquil, and Phoebe. Right. And hovering over all of them, like the shadow in the room, is Azra, this d"
+    },
+    {
+      "fp": "1mhr7jy",
+      "i": 24,
+      "from": 5827,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "these violent thunderstorms. And then Siger just snaps us to 2026. And the mirrors, I mean, they just line up perfectly. They do. We"
+    },
+    {
+      "fp": "959e99",
+      "i": 25,
+      "from": 6062,
+      "subject": "Marin and Daisy",
+      "entities": [
+        "marin",
+        "daisy"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Marin and Daisy, 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "marin",
+          "daisy"
+        ]
+      },
+      "_said": "We have Marin Keane, who is our modern-day Daisy."
+    },
+    {
+      "fp": "1elxr1s",
+      "i": 26,
+      "from": 6165,
+      "subject": "Marin and Daisy",
+      "entities": [
+        "marin",
+        "daisy"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Marin and Daisy, 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "marin",
+          "daisy"
+        ]
+      },
+      "_said": "Daisy. Marin is a nobody. She's a waitress in New York, a struggling actress who gets plucked out of obscurity and cast as Daisy. And only after the original lead actress drops out"
+    },
+    {
+      "fp": "dqzlg0",
+      "i": 27,
+      "from": 6482,
+      "subject": "shield",
+      "entities": [],
+      "concept": "shield",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "shield, 1926"
+      },
+      "antidote": {
+        "concept": "shield",
+        "cast": []
+      },
+      "_said": "Then you have Ronan Peters. He is the director, the utur, this predatory guy who hides his cruelty behind the shield of method acting. Oh Yeah. He is the one insisting on this tort"
+    },
+    {
+      "fp": "5391z",
+      "i": 28,
+      "from": 6866,
+      "subject": "Marin and Violet",
+      "entities": [
+        "marin",
+        "violet"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Marin and Violet, 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "marin",
+          "violet"
+        ]
+      },
+      "_said": "opposite Marin, you have Violet, right?"
+    },
+    {
+      "fp": "1726nut",
+      "i": 29,
+      "from": 6928,
+      "subject": "Simple — puppeteer",
+      "entities": [
+        "simple"
+      ],
+      "concept": "puppeteer",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Simple, 1926"
+      },
+      "antidote": {
+        "concept": "puppeteer",
+        "cast": [
+          "simple"
+        ]
+      },
+      "_said": "right? Hollywood royalty. Absolute legend. An Oscar winning actress who is playing the role of Mrs. Simple. And finally, you have Loretta, the producer, right? powerful producer pu"
+    },
+    {
+      "fp": "81l6cw",
+      "i": 30,
+      "from": 7332,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "um Susie, Heather, and Julianne. And as"
+    },
+    {
+      "fp": "14x2ed6",
+      "i": 31,
+      "from": 7440,
+      "subject": "mirror",
+      "entities": [],
+      "concept": "mirror",
+      "place": "bedroom",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "mirror, watch how saiger uses these two eras to mirro, bedroom, 1926"
+      },
+      "antidote": {
+        "concept": "mirror",
+        "set": "bedroom",
+        "cast": []
+      },
+      "_said": "as we unpack this today, I really want you to watch how Saiger uses these two eras to mirror each other perfectly. The stakes here aren't just about surviving a haunting. Not at"
+    },
+    {
+      "fp": "aio9yo",
+      "i": 32,
+      "from": 7718,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "at all. It's this terrifying exploration of what happens to the human psyche when the lines between acting"
+    },
+    {
+      "fp": "6ivoov",
+      "i": 33,
+      "from": 7891,
+      "subject": "Avalon — ledge",
+      "entities": [
+        "avalon"
+      ],
+      "concept": "ledge",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Avalon, 1926"
+      },
+      "antidote": {
+        "concept": "ledge",
+        "set": null,
+        "cast": [
+          "avalon"
+        ]
+      },
+      "_said": "acting and reality, you know, between a script and a diary are deliberately erased by people in power. So, let's just jump right into the first major reality check of the story. Ye"
+    },
+    {
+      "fp": "wo7l4c",
+      "i": 34,
+      "from": 8220,
+      "subject": "Avalon — home",
+      "entities": [
+        "avalon"
+      ],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Avalon, 1926"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": [
+          "avalon"
+        ]
+      },
+      "_said": "Avalon in 1926 was never a haunted house. It was a business. Yeah. Picture the parlor atrium of New Avalon for a second."
+    },
+    {
+      "fp": "8fpp7c",
+      "i": 35,
+      "from": 8424,
+      "subject": "gift",
+      "entities": [],
+      "concept": "gift",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "gift, 1926"
+      },
+      "antidote": {
+        "concept": "gift",
+        "cast": []
+      },
+      "_said": "second. Present tense. A violent thunderstorm is lashing against the semic-ircular glass. So cinematic. It is. The air in the room is thick with static"
+    },
+    {
+      "fp": "18utpyj",
+      "i": 36,
+      "from": 8666,
+      "subject": "Daisy — lightbulb",
+      "entities": [
+        "daisy"
+      ],
+      "concept": "lightbulb",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Daisy, sitting at a heavy round mahogany table, 1926"
+      },
+      "antidote": {
+        "concept": "lightbulb",
+        "cast": [
+          "daisy"
+        ]
+      },
+      "_said": "static electricity and fear. Daisy Ru is sitting at a heavy round mahogany table. Her fingers are just trembling uncontrollably as they rest lightly on an overturned glass."
+    },
+    {
+      "fp": "stcuxn",
+      "i": 37,
+      "from": 8930,
+      "subject": "Simple",
+      "entities": [
+        "simple"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Simple, sits in the shadows, 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "simple"
+        ]
+      },
+      "_said": "glass. The Ouija board, right across from her, Mrs. Simple sits in the shadows. But she isn't panicking."
+    },
+    {
+      "fp": "1p3dwkz",
+      "i": 38,
+      "from": 9113,
+      "subject": "Daisy",
+      "entities": [
+        "daisy"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Daisy, 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "daisy"
+        ]
+      },
+      "_said": "panicking. She's calm. She's maternal. That terrifyingly calm voice. Exactly. She's urging Daisy in this incredibly soothing, measured voice to welcome the spirit."
+    },
+    {
+      "fp": "1f35oj6",
+      "i": 39,
+      "from": 9381,
+      "subject": "zap",
+      "entities": [],
+      "concept": "zap",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "zap, 1926"
+      },
+      "antidote": {
+        "concept": "zap",
+        "set": null,
+        "cast": []
+      },
+      "_said": "spirit. The lightning flashes illuminating the room in this harsh blue light. The thunder booms and under their trembling fingers, the glass starts to slide across"
+    },
+    {
+      "fp": "3nqkbi",
+      "i": 40,
+      "from": 9595,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "read a scene like, 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "across the lettered tiles of the board. L E T M E O U T. Let me out. When you read a scene like that, you were immediately"
+    },
+    {
+      "fp": "ovzqcp",
+      "i": 41,
+      "from": 9869,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "immediately conditioned by decades of horror movies to think, okay, this is a cursed place. Of course, we typically think of haunted houses as these"
+    },
+    {
+      "fp": "1c9qmeq",
+      "i": 42,
+      "from": 10111,
+      "subject": "road",
+      "entities": [],
+      "concept": "road",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "road, 1926"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": null,
+        "cast": []
+      },
+      "_said": "these passive tragic locations, a place where the ground is just inherently bad and bad things happen to whoever wanders right?"
+    },
+    {
+      "fp": "1r0tx3h",
+      "i": 43,
+      "from": 10336,
+      "subject": "Avalon",
+      "entities": [
+        "avalon"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Avalon, 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "avalon"
+        ]
+      },
+      "_said": "right? like the Overlook Hotel or Exactly. But New Avalon wasn't a passive location at all. It was an active"
+    },
+    {
+      "fp": "1ug8c23",
+      "i": 44,
+      "from": 10562,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "running a business, 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "active functioning spiritualist commune and they sold contact with the dead. Yeah. They were running a business. They were the mediums"
+    },
+    {
+      "fp": "1kzowze",
+      "i": 45,
+      "from": 10797,
+      "subject": "Daisy — war",
+      "entities": [
+        "daisy"
+      ],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Daisy, 1926"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": [
+          "daisy"
+        ]
+      },
+      "_said": "mediums like Daisy, Katrina, and John Quil, they were performers. And if you think about the historical context of the 1920s, this makes total cynical sense for you as a because of"
+    },
+    {
+      "fp": "rlrqpz",
+      "i": 46,
+      "from": 11114,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, 1926"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "the wake of World War I and the devastating Spanish flu pandemic, you had tens of millions of people who had died suddenly, violently, or terribly young. You had an entire global"
+    },
+    {
+      "fp": "1j009co",
+      "i": 47,
+      "from": 11359,
+      "subject": "Avalon — water",
+      "entities": [
+        "avalon"
+      ],
+      "concept": "water",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Avalon, 1926"
+      },
+      "antidote": {
+        "concept": "water",
+        "set": null,
+        "cast": [
+          "avalon"
+        ]
+      },
+      "_said": "global population drowning in unresolved grief. And New Avalon was a machine designed to monetize that grief. They were staging these elaborate, emotionally"
+    },
+    {
+      "fp": "4a0lvj",
+      "i": 48,
+      "from": 11635,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "emotionally devastating performances for an audience of grieving families who were desperate, who are literally"
+    },
+    {
+      "fp": "1r7mi9y",
+      "i": 49,
+      "from": 11815,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "literally paying to believe the show is real. Yes. Paying to believe. It's the ultimate exploitation of trauma. But you know, Sager pushes it a layer deeper. The deception goes eve"
+    },
+    {
+      "fp": "1s7astt",
+      "i": 50,
+      "from": 12199,
+      "subject": "Simple — notes",
+      "entities": [
+        "simple"
+      ],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Simple, 1926"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": [
+          "simple"
+        ]
+      },
+      "_said": "Mrs. Simple. Yeah. If we look at the hidden truth that is revealed later in the missing pages of Daisy's diary, we learn that"
+    },
+    {
+      "fp": "1kjffuj",
+      "i": 51,
+      "from": 12400,
+      "subject": "Simple",
+      "entities": [
+        "simple"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Simple, running a genuine spiritualist commune, 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "simple"
+        ]
+      },
+      "_said": "that Mrs. Simple wasn't even running a genuine spiritualist commune. The grief pedaling was just a front. Exactly. Mrs."
+    },
+    {
+      "fp": "1pzh5pb",
+      "i": 52,
+      "from": 12600,
+      "subject": "Daisy and Simple",
+      "entities": [
+        "daisy",
+        "simple"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Daisy and Simple, 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "daisy",
+          "simple"
+        ]
+      },
+      "_said": "Mrs. Simple literally fetched Daisy Rue from a state penitentiary, which is wild. She was using"
+    },
+    {
+      "fp": "1yelwym",
+      "i": 53,
+      "from": 12775,
+      "subject": "Avalon",
+      "entities": [
+        "avalon"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Avalon, 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "avalon"
+        ]
+      },
+      "_said": "using New Avalon as a secret unregulated"
+    },
+    {
+      "fp": "t71qgf",
+      "i": 54,
+      "from": 12847,
+      "subject": "mask",
+      "entities": [],
+      "concept": "mask",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "mask, 1926"
+      },
+      "antidote": {
+        "concept": "mask",
+        "cast": []
+      },
+      "_said": "unregulated psychological facility to study dissociative She was using the theatrical disguise of these seances to conduct brutal, highly"
+    },
+    {
+      "fp": "cg6ep",
+      "i": 55,
+      "from": 13128,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "highly experimental hypnosis therapy on a deeply fractured young woman. The seance wasn't the occult. It"
+    },
+    {
+      "fp": "evtoei",
+      "i": 56,
+      "from": 13344,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "It was a psychological tool, a surgical instrument masked as a parlor trick. Okay, wait. Let's unpack this for a second because I actually struggled with"
+    },
+    {
+      "fp": "1ulrsk6",
+      "i": 57,
+      "from": 13555,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "with Mrs. Simple's morality here. Really? How so? Well, was she truly just this cynical business operator exploiting a vulnerable girl for her own mad scientist"
+    },
+    {
+      "fp": "pfpaix",
+      "i": 58,
+      "from": 13874,
+      "subject": "Daisy",
+      "entities": [
+        "daisy"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Daisy, 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "daisy"
+        ]
+      },
+      "_said": "scientist psychological experiments? I mean, she brought her there under false pretenses. She did. But think about the alternative for a woman like Daisy"
+    },
+    {
+      "fp": "frj1ok",
+      "i": 59,
+      "from": 14102,
+      "subject": "Daisy — key",
+      "entities": [
+        "daisy"
+      ],
+      "concept": "key",
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Daisy, 1926"
+      },
+      "antidote": {
+        "concept": "key",
+        "set": null,
+        "cast": [
+          "daisy"
+        ]
+      },
+      "_said": "Daisy in the 1920s. Society locked away women with mental health issues, especially severe dissociative trauma in"
+    },
+    {
+      "fp": "18gj474",
+      "i": 60,
+      "from": 14330,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "in horrifying abusive penitentiies and insane asylums. Yeah, the asylums back then were"
+    },
+    {
+      "fp": "1kuq4mz",
+      "i": 61,
+      "from": 14512,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "were They were strapped to beds, lobotomized, subjected to ice baths."
+    },
+    {
+      "fp": "1ac1jqw",
+      "i": 62,
+      "from": 14628,
+      "subject": "Daisy and Simple — wallet",
+      "entities": [
+        "daisy",
+        "simple"
+      ],
+      "concept": "wallet",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Daisy and Simple, 1926"
+      },
+      "antidote": {
+        "concept": "wallet",
+        "cast": [
+          "daisy",
+          "simple"
+        ]
+      },
+      "_said": "baths. Didn't Mrs. Simple, in her own twisted way, genuinely believe her theatrical therapy was the only way to save Daisy from that She was using the seance structure to try and"
+    },
+    {
+      "fp": "o44r1x",
+      "i": 63,
+      "from": 14942,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "and force Daisy's alternate personalities to the surface so she could integrate them before the asylum system destroyed the girl completely."
+    },
+    {
+      "fp": "1fvs50n",
+      "i": 64,
+      "from": 15132,
+      "subject": "shield",
+      "entities": [],
+      "concept": "shield",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "shield, 1926"
+      },
+      "antidote": {
+        "concept": "shield",
+        "cast": []
+      },
+      "_said": "completely. Okay, so it's a really compelling historical defense of her actions. And you're right, the"
+    },
+    {
+      "fp": "8unur3",
+      "i": 65,
+      "from": 15269,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "medical establishment of the 1920s was barbaric towards women, But if we pull back and"
+    },
+    {
+      "fp": "jso5vi",
+      "i": 66,
+      "from": 15412,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "and look at the mechanics of what she is doing, her intent ultimately doesn't change the nature of the machine. What do you mean?"
+    },
+    {
+      "fp": "fapsrr",
+      "i": 67,
+      "from": 15614,
+      "subject": "Daisy and Simple — wallet",
+      "entities": [
+        "daisy",
+        "simple"
+      ],
+      "concept": "wallet",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Daisy and Simple, 1926"
+      },
+      "antidote": {
+        "concept": "wallet",
+        "cast": [
+          "daisy",
+          "simple"
+        ]
+      },
+      "_said": "mean? Whether Mrs. Simple meant to save Daisy from an asylum or just study her like a lab rat, she"
+    },
+    {
+      "fp": "ywk6tq",
+      "i": 68,
+      "from": 15794,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "she still weaponized performance against a vulnerable girl. She"
+    },
+    {
+      "fp": "1hu3910",
+      "i": 69,
+      "from": 15907,
+      "subject": "crack",
+      "entities": [],
+      "concept": "crack",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "crack, 1926"
+      },
+      "antidote": {
+        "concept": "crack",
+        "cast": []
+      },
+      "_said": "She took a shattered mind, a mind that had literally broken itself into pieces to survive trauma, and she forced it into"
+    },
+    {
+      "fp": "1gcvt21",
+      "i": 70,
+      "from": 16123,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "into a terrifying highstakes theatrical scenario, the seance."
+    },
+    {
+      "fp": "bpneuj",
+      "i": 71,
+      "from": 16253,
+      "subject": "puppeteer",
+      "entities": [],
+      "concept": "puppeteer",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "puppeteer, 1926"
+      },
+      "antidote": {
+        "concept": "puppeteer",
+        "cast": []
+      },
+      "_said": "seance. That's true. She manipulated the environment. She used the thunderstorms. She orchestrated the fear."
+    },
+    {
+      "fp": "y5vqb1",
+      "i": 72,
+      "from": 16423,
+      "subject": "Daisy — star",
+      "entities": [
+        "daisy"
+      ],
+      "concept": "star",
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Daisy, 1926"
+      },
+      "antidote": {
+        "concept": "star",
+        "set": null,
+        "cast": [
+          "daisy"
+        ]
+      },
+      "_said": "fear. She controlled the entire narrative. She was the director. And Daisy was the unwilling star. It was an extraction of trauma for her own purposes,"
+    },
+    {
+      "fp": "fk8wi0",
+      "i": 73,
+      "from": 16677,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "purposes, regardless of her endgame. It's like those modern predatory wellness retreats, you know, that charge people 10 grand to go out into the desert, strip them of their sleep,"
+    },
+    {
+      "fp": "if6m10",
+      "i": 74,
+      "from": 16994,
+      "subject": "Simple",
+      "entities": [
+        "simple"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Simple, 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "simple"
+        ]
+      },
+      "_said": "that. Except Mrs. Simple was monetizing literal grief and unregulated psychiatry. So whether it was for financial profit, for the grief industry, or for"
+    },
+    {
+      "fp": "1hujx8o",
+      "i": 75,
+      "from": 17273,
+      "subject": "Avalon",
+      "entities": [
+        "avalon"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Avalon, 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "avalon"
+        ]
+      },
+      "_said": "early 1920s psychology, New Avalon was the machinery of and that machinery required a woman to bleed for the show. And that exact dynamic, that same extraction of trauma under the "
+    },
+    {
+      "fp": "1erwwor",
+      "i": 76,
+      "from": 17630,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "guise of an orchestrated environment is what brings us"
+    },
+    {
+      "fp": "1t0xt6u",
+      "i": 77,
+      "from": 17707,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "us to the 2026 timeline. Yes, let's talk about the movie shoot. Because the cursed movie shoot isn't just an unlucky coincidence where a film crew accidentally"
+    },
+    {
+      "fp": "1ffjzah",
+      "i": 78,
+      "from": 17949,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "accidentally stumbles onto haunted No, not at all. It"
+    },
+    {
+      "fp": "13nkory",
+      "i": 79,
+      "from": 18036,
+      "subject": "heart",
+      "entities": [],
+      "concept": "heart",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "heart, 1926"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": null,
+        "cast": []
+      },
+      "_said": "It is a deliberate, meticulously engineered rerun of the original 1926 I love how Sager sets this up. You have the arrival"
+    },
+    {
+      "fp": "179m9be",
+      "i": 80,
+      "from": 18295,
+      "subject": "Avalon — water",
+      "entities": [
+        "avalon"
+      ],
+      "concept": "water",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Avalon, 1926"
+      },
+      "antidote": {
+        "concept": "water",
+        "set": null,
+        "cast": [
+          "avalon"
+        ]
+      },
+      "_said": "arrival in 2026. The cast takes this small boat to dock at New Avalon. The sun is shining. The lake is beautiful. But there's this immediate,"
+    },
+    {
+      "fp": "1r0owth",
+      "i": 81,
+      "from": 18537,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "stands on the dock holding open a designer, 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "immediate, suffocating sense of dread because of Brad. Yes, Brad, the eager, slightly terrified young production assistant. He stands on the dock holding open a designer"
+    },
+    {
+      "fp": "1w6x5s",
+      "i": 82,
+      "from": 18799,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "designer Gucci backpack. And one by one, these famous, wealthy, powerful Hollywood"
+    },
+    {
+      "fp": "1nyso46",
+      "i": 83,
+      "from": 18948,
+      "subject": "tree",
+      "entities": [],
+      "concept": "tree",
+      "place": "forest",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "tree, reach into their pockets, forest, 1926"
+      },
+      "antidote": {
+        "concept": "tree",
+        "set": "forest",
+        "cast": []
+      },
+      "_said": "Hollywood actresses are forced to reach into their pockets, pull out their iPhones, and drop them into these monogram velvet bags. Zip. The bag closes. Zip. The boat turns around a"
+    },
+    {
+      "fp": "spmr48",
+      "i": 84,
+      "from": 19260,
+      "subject": "lightbulb",
+      "entities": [],
+      "concept": "lightbulb",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "lightbulb, 1926"
+      },
+      "antidote": {
+        "concept": "lightbulb",
+        "cast": []
+      },
+      "_said": "absolutely no electricity on the island. There are no screens. There is no Wi-Fi. There is no escape. The modern world and all of its sacets is just surgically"
+    },
+    {
+      "fp": "4yof69",
+      "i": 85,
+      "from": 19500,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "surgically stripped away. And the reason this matters so much for the architecture of the story and for you as a reader is that this isolation isn't just Ronan"
+    },
+    {
+      "fp": "9f5k22",
+      "i": 86,
+      "from": 19761,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Ronan Peters being an eccentric director seeking authenticity for his art, right? It's not just method acting. It is a deliberate trap."
+    },
+    {
+      "fp": "5lg1e1",
+      "i": 87,
+      "from": 19980,
+      "subject": "Ronin",
+      "entities": [
+        "ronin"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Ronin, 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "ronin"
+        ]
+      },
+      "_said": "trap. Ronin is attempting to stage the dead for an audience on the exact spot where the first performance was staged a century ago."
+    },
+    {
+      "fp": "xs4joy",
+      "i": 88,
+      "from": 20188,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "ago. Yeah. He is systematically stripping these women of their modern"
+    },
+    {
+      "fp": "1h01etg",
+      "i": 89,
+      "from": 20308,
+      "subject": "law",
+      "entities": [],
+      "concept": "law",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "law, 1926"
+      },
+      "antidote": {
+        "concept": "law",
+        "set": null,
+        "cast": []
+      },
+      "_said": "modern defenses, their ability to call an agent, their ability to call the police, to force them into a state of genuine primal"
+    },
+    {
+      "fp": "1o1gtqt",
+      "i": 90,
+      "from": 20493,
+      "subject": "photo",
+      "entities": [],
+      "concept": "photo",
+      "place": "bedroom",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "photo, bedroom, 1926"
+      },
+      "antidote": {
+        "concept": "photo",
+        "set": "bedroom",
+        "cast": []
+      },
+      "_said": "primal vulnerability. He wants real fear on camera. And you can't get real fear if the actress knows an Uber can pick her up in 10 minutes. You really can't. The extremity"
+    },
+    {
+      "fp": "1b5f9y0",
+      "i": 91,
+      "from": 20738,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "extremity of Ronan's trap is wild. But it's so recognizable in the context of Hollywood I"
+    },
+    {
+      "fp": "1arhkcq",
+      "i": 92,
+      "from": 20935,
+      "subject": "Marin",
+      "entities": [
+        "marin"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Marin, 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "marin"
+        ]
+      },
+      "_said": "I mean, Marin Keane, who again is a nobody waitress who is just desperate"
+    },
+    {
+      "fp": "i82lhl",
+      "i": 93,
+      "from": 21053,
+      "subject": "work",
+      "entities": [],
+      "concept": "work",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "work, 1926"
+      },
+      "antidote": {
+        "concept": "work",
+        "set": null,
+        "cast": []
+      },
+      "_said": "for this paycheck and this break, she is forced to wear this scratchy, shapeless, incredibly"
+    },
+    {
+      "fp": "dkmkz0",
+      "i": 94,
+      "from": 21223,
+      "subject": "food",
+      "entities": [],
+      "concept": "food",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "food, 1926"
+      },
+      "antidote": {
+        "concept": "food",
+        "set": null,
+        "cast": []
+      },
+      "_said": "incredibly uncomfortable, period accurate blue dress and the food. Oh god. Yes, she has to canned 1920s food. She has to"
+    },
+    {
+      "fp": "rzvfmn",
+      "i": 95,
+      "from": 21441,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "to use a terrifying outhouse in the pitch black of night with a hurricane lamp. It's awful. But here's where Sager flips the board on us. The real con, the layer beneath"
+    },
+    {
+      "fp": "ka1ztw",
+      "i": 96,
+      "from": 21722,
+      "subject": "Violet",
+      "entities": [
+        "violet"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Violet, 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "violet"
+        ]
+      },
+      "_said": "beneath Ronan's layer is that this isolation is actually being hijacked. Hijacked by Violet and Loretta. Exactly. By Violet Wright, the legendary actress and the producer"
+    },
+    {
+      "fp": "1lb2zhs",
+      "i": 97,
+      "from": 22013,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "producer Loretta. They are secretly using Ronan's own extreme method acting rules against him. They take the period"
+    },
+    {
+      "fp": "m84bgk",
+      "i": 98,
+      "from": 22231,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "period accurate isolation that he demanded and they use"
+    },
+    {
+      "fp": "2jehjc",
+      "i": 99,
+      "from": 22320,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "use it to stage fake disappearances to mentally break him. They hoist"
+    },
+    {
+      "fp": "1diqqxq",
+      "i": 100,
+      "from": 22466,
+      "subject": "road",
+      "entities": [],
+      "concept": "road",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "road, 1926"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": null,
+        "cast": []
+      },
+      "_said": "hoist Susie and Heather's period clothes up into the upper branches of that massive oak tree. They are staging a haunting to drive the director insane. But wait, let's look at the"
+    },
+    {
+      "fp": "eq98xt",
+      "i": 101,
+      "from": 22730,
+      "subject": "Ronin",
+      "entities": [
+        "ronin"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Ronin, 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "ronin"
+        ]
+      },
+      "_said": "the power dynamics of that revenge plot for a second. We assume, and the book initially leads us to assume that Ronin is the sole audience for"
+    },
+    {
+      "fp": "1ritzqx",
+      "i": 102,
+      "from": 22977,
+      "subject": "Marin",
+      "entities": [
+        "marin"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Marin, 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "marin"
+        ]
+      },
+      "_said": "for Violet's revenge performance. Right. Right. Because he's the abuser. He's the abuser. He's the one they want to break. But think about Marin's position in this. Isn't Marin the"
+    },
+    {
+      "fp": "nrx6l9",
+      "i": 103,
+      "from": 23248,
+      "subject": "Marin and Ronin and Violet",
+      "entities": [
+        "marin",
+        "ronin",
+        "violet"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Marin and Ronin, 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "marin",
+          "ronin",
+          "violet"
+        ]
+      },
+      "_said": "here? That's interesting. Violet is staging this elaborate, terrifying revenge plot to punish Ronin, but she keeps Marin completely in the dark."
+    },
+    {
+      "fp": "1keczur",
+      "i": 104,
+      "from": 23488,
+      "subject": "Marin — lightbulb",
+      "entities": [
+        "marin"
+      ],
+      "concept": "lightbulb",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Marin, 1926"
+      },
+      "antidote": {
+        "concept": "lightbulb",
+        "cast": [
+          "marin"
+        ]
+      },
+      "_said": "dark. Marin doesn't know it's a trick. She has no idea. Marin genuinely believes she is on a haunted island where her co-stars are being vanished by a demon."
+    },
+    {
+      "fp": "ylcieb",
+      "i": 105,
+      "from": 23736,
+      "subject": "Marin and Violet",
+      "entities": [
+        "marin",
+        "violet"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Marin and Violet, 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "marin",
+          "violet"
+        ]
+      },
+      "_said": "Violet needs Marin to be genuinely terrified because that authentic unscripted fear from the lead actress is what sells the reality"
+    },
+    {
+      "fp": "1ingy04",
+      "i": 106,
+      "from": 23973,
+      "subject": "Marin and Ronin",
+      "entities": [
+        "marin",
+        "ronin"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Marin and Ronin, 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "marin",
+          "ronin"
+        ]
+      },
+      "_said": "reality of the haunting to Ronin. Wow. Yeah. If Marin knew it was fake, Ronin would smell the bad acting."
+    },
+    {
+      "fp": "1w3qhn6",
+      "i": 107,
+      "from": 24144,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "acting. Marin's genuine terror is the glue that makes Violet's performance real. That is so incredibly dark when you frame it like that. It's like"
+    },
+    {
+      "fp": "1cjb5u5",
+      "i": 108,
+      "from": 24362,
+      "subject": "Marin",
+      "entities": [
+        "marin"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Marin, 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "marin"
+        ]
+      },
+      "_said": "like Marin is a non-consenting emotional stunt double. Exactly."
+    },
+    {
+      "fp": "12hjjiw",
+      "i": 109,
+      "from": 24489,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Exactly. A non-consenting emotional stunt double. She thinks she booked the role of a lifetime. Her big break, but really she just booked a front row seat to"
+    },
+    {
+      "fp": "1qzabjh",
+      "i": 110,
+      "from": 24705,
+      "subject": "Violet",
+      "entities": [
+        "violet"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Violet, 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "violet"
+        ]
+      },
+      "_said": "to her own psychological torture. Yeah. Violet and Loretta are basically saying, \"We are going to take down this abusive man, but we are going to use the mental health of this youn"
+    },
+    {
+      "fp": "10ghuco",
+      "i": 111,
+      "from": 25085,
+      "subject": "Marin",
+      "entities": [
+        "marin"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Marin, sitting right there, 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "marin"
+        ]
+      },
+      "_said": "machinery of performance demands a live, terrified audience. And Marin Keane is sitting right there, paying the massive price of admission with her sanity. And what"
+    },
+    {
+      "fp": "ptbbaj",
+      "i": 112,
+      "from": 25351,
+      "subject": "road",
+      "entities": [],
+      "concept": "road",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "road, 1926"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": null,
+        "cast": []
+      },
+      "_said": "what makes Marin's descent into that terror so complete is the tool she relies on to understand the island. The her only lifeline to the past, her only map"
+    },
+    {
+      "fp": "n0lhcv",
+      "i": 113,
+      "from": 25653,
+      "subject": "road",
+      "entities": [],
+      "concept": "road",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "road, 1926"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": null,
+        "cast": []
+      },
+      "_said": "map to understanding what is happening to her is a document that is fundamentally"
+    },
+    {
+      "fp": "ionilo",
+      "i": 114,
+      "from": 25773,
+      "subject": "Daisy — notes",
+      "entities": [
+        "daisy"
+      ],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Daisy, 1926"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": [
+          "daisy"
+        ]
+      },
+      "_said": "fundamentally compromised from the very first page. Which brings us to the third point, the most fascinating prop in the book. Daisy Ru's 1926 diary is the story's most unreliable "
+    },
+    {
+      "fp": "5q8xd8",
+      "i": 115,
+      "from": 26121,
+      "subject": "Marin — notes",
+      "entities": [
+        "marin"
+      ],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Marin, 1926"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": [
+          "marin"
+        ]
+      },
+      "_said": "object. When Marin first gets her hands on this diary, the atmosphere is just suffocating."
+    },
+    {
+      "fp": "1qva1z",
+      "i": 116,
+      "from": 26239,
+      "subject": "Marin — star",
+      "entities": [
+        "marin"
+      ],
+      "concept": "star",
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Marin, sitting completely alone in the dark of her tin, 1926"
+      },
+      "antidote": {
+        "concept": "star",
+        "set": null,
+        "cast": [
+          "marin"
+        ]
+      },
+      "_said": "suffocating. It's the dead of night. Marin is sitting completely alone in the dark of her tiny wood creaking drafty cottage. So the glow of a single flickering hurricane lamp is th"
+    },
+    {
+      "fp": "1h9a5da",
+      "i": 117,
+      "from": 26618,
+      "subject": "Daisy — notes",
+      "entities": [
+        "daisy"
+      ],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Daisy, 1926"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": [
+          "daisy"
+        ]
+      },
+      "_said": "and it's illuminating this type transcript of Daisy Ru's diary"
+    },
+    {
+      "fp": "6s4q7u",
+      "i": 118,
+      "from": 26733,
+      "subject": "Ronin — water",
+      "entities": [
+        "ronin"
+      ],
+      "concept": "water",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Ronin, reads the very first words, 1926"
+      },
+      "antidote": {
+        "concept": "water",
+        "set": null,
+        "cast": [
+          "ronin"
+        ]
+      },
+      "_said": "diary which Ronin secretly slipped under her door to, you know, help her prepare for the I'd help her prepare. The wind is howling off the lake outside. She opens the first page an"
+    },
+    {
+      "fp": "1sl3k2l",
+      "i": 119,
+      "from": 27079,
+      "subject": "Daisy",
+      "entities": [
+        "daisy"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Daisy, 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "daisy"
+        ]
+      },
+      "_said": "My name is Daisy. And in that specific moment of profound isolation and terror,"
+    },
+    {
+      "fp": "1eo8xxz",
+      "i": 120,
+      "from": 27216,
+      "subject": "Marin — notes",
+      "entities": [
+        "marin"
+      ],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Marin, fall into the exact same, 1926"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": [
+          "marin"
+        ]
+      },
+      "_said": "terror, Marin feels this desperate kinship with a Does she really does? She believes with all her heart that this diary is the truth. It is her map to surviving the island. And we "
+    },
+    {
+      "fp": "1ywszrp",
+      "i": 121,
+      "from": 27590,
+      "subject": "Marin — notes",
+      "entities": [
+        "marin"
+      ],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Marin, 1926"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": [
+          "marin"
+        ]
+      },
+      "_said": "same trap Marin does. Because a diary inherently feels like the ultimate truth, doesn't it? It does. It feels like"
+    },
+    {
+      "fp": "9mrq5k",
+      "i": 122,
+      "from": 27799,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "notes, 1926"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": []
+      },
+      "_said": "like the unvarnished soul laid bare on paper. When someone writes, \"Dear diary,\" we are socially conditioned to trust that what follows is a confession."
+    },
+    {
+      "fp": "s75p80",
+      "i": 123,
+      "from": 28096,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "notes, 1926"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": []
+      },
+      "_said": "But what Seager explores here is that a diary is in itself a performance. It"
+    },
+    {
+      "fp": "1qadjrl",
+      "i": 124,
+      "from": 28257,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "notes, written for a future reader, 1926"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": []
+      },
+      "_said": "It is a narrative meticulously written for a future reader. Even if that intended reader is just the author's future self because you're deciding what to put in Exactly. The person"
+    },
+    {
+      "fp": "inztjm",
+      "i": 125,
+      "from": 28653,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "actions. They're curating a legend, not necessarily confessing a raw truth. The old saying"
+    },
+    {
+      "fp": "1a9g8gu",
+      "i": 126,
+      "from": 28793,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "notes, written by the victors, 1926"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": []
+      },
+      "_said": "saying goes, \"History is written by the victors, but in horror, history is written by the last one left.\" And the last one left gets to control the narrative. And the physical real"
+    },
+    {
+      "fp": "hjrp0y",
+      "i": 127,
+      "from": 29116,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "notes, 1926"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": []
+      },
+      "_said": "deception. Yeah. Sager drops this devastating twist regarding the diary as a physical object."
+    },
+    {
+      "fp": "1tvgoxd",
+      "i": 128,
+      "from": 29265,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "notes, 1926"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": []
+      },
+      "_said": "object. Early on, we learn from the historical record that the last five pages of Daisy's diary were violently torn out. They are just missing, But late in the story,"
+    },
+    {
+      "fp": "ll3tb5",
+      "i": 129,
+      "from": 29539,
+      "subject": "Marin",
+      "entities": [
+        "marin"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Marin, reads those hidden, 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "marin"
+        ]
+      },
+      "_said": "story, Marin finds the actual physical pages, the ones stuffed in the wall. Yes, they've been stuffed inside a broken baseboard hidden in her cottage. And when she reads those hidd"
+    },
+    {
+      "fp": "rzdt46",
+      "i": 130,
+      "from": 29973,
+      "subject": "Daisy and Azra — notes",
+      "entities": [
+        "daisy",
+        "azra"
+      ],
+      "concept": "notes",
+      "place": "forest",
+      "confidence": 1,
+      "vox": {
+        "shot": "Daisy and Azra, reading for hundreds of pages, forest, 1926"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": "forest",
+        "cast": [
+          "daisy",
+          "azra"
+        ]
+      },
+      "_said": "truth. Daisy is Azra. It's such a huge moment. The dark entity wasn't a goose in the woods. It was a splintered piece of Daisy's own mind. The entire diary we've been reading for h"
+    },
+    {
+      "fp": "19ssn7w",
+      "i": 131,
+      "from": 30331,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "was a performance by an alternate personality desperate to justify her own innocent existence and hide from her own fractured mind."
+    },
+    {
+      "fp": "1l7xxwm",
+      "i": 132,
+      "from": 30552,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "notes, 1926"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": []
+      },
+      "_said": "mind. The psychology of this is staggering. The human mind fragmented to protect itself from horrific trauma. And the diary is the artifact of that fragmented mind desperately tryi"
+    },
+    {
+      "fp": "mi4b41",
+      "i": 133,
+      "from": 30914,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "notes, 1926"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": []
+      },
+      "_said": "rather than confronting the perpetrator within. Well, wait. Let me push back on that framing a little bit. Yeah. Okay. When you say the diary is a performance, that implies a level"
+    },
+    {
+      "fp": "1yeugvy",
+      "i": 134,
+      "from": 31188,
+      "subject": "Daisy — mask",
+      "entities": [
+        "daisy"
+      ],
+      "concept": "mask",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Daisy, 1926"
+      },
+      "antidote": {
+        "concept": "mask",
+        "cast": [
+          "daisy"
+        ]
+      },
+      "_said": "deception. Is Daisy intentionally lying to the reader, or is the Daisy persona genuinely unaware that she is performing?"
+    },
+    {
+      "fp": "1rfdfy6",
+      "i": 135,
+      "from": 31382,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "notes, reading those diary entries, 1926"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": []
+      },
+      "_said": "performing? Because when I was reading those diary entries, the terror she describes feeling when the darkness approaches feels so incredibly visceral and real. I struggle to belie"
+    },
+    {
+      "fp": "1kbpb9w",
+      "i": 136,
+      "from": 31735,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "deception. That's a really crucial distinction. And honestly, I don't think it's a calculated deception in a malicious sense at all. Huh?"
+    },
+    {
+      "fp": "xljmgj",
+      "i": 137,
+      "from": 31886,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Huh? That's the tragedy of dissociative identity disorder in the context of this era. The text strongly proves that"
+    },
+    {
+      "fp": "u7gb6q",
+      "i": 138,
+      "from": 32095,
+      "subject": "Daisy — mask",
+      "entities": [
+        "daisy"
+      ],
+      "concept": "mask",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Daisy, 1926"
+      },
+      "antidote": {
+        "concept": "mask",
+        "cast": [
+          "daisy"
+        ]
+      },
+      "_said": "that the Daisy persona truly genuinely believed"
+    },
+    {
+      "fp": "a6mo9g",
+      "i": 139,
+      "from": 32201,
+      "subject": "storm",
+      "entities": [],
+      "concept": "storm",
+      "place": "forest",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "storm, forest, 1926"
+      },
+      "antidote": {
+        "concept": "storm",
+        "set": "forest",
+        "cast": []
+      },
+      "_said": "believed the Darkness Azrael was an external demonic entity stalking her in the woods. So, she wasn't lying on purpose. No,"
+    },
+    {
+      "fp": "1hvcm7w",
+      "i": 140,
+      "from": 32407,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "notes, 1926"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": []
+      },
+      "_said": "No, her performance in the diary was a raw survival mechanism. She was lying to herself as much as she was lying to any future reader cuz she couldn't handle the truth. Exactly. Th"
+    },
+    {
+      "fp": "bqz7l0",
+      "i": 141,
+      "from": 32690,
+      "subject": "Daisy — notes",
+      "entities": [
+        "daisy"
+      ],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Daisy, 1926"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": [
+          "daisy"
+        ]
+      },
+      "_said": "The host personality, Daisy, literally could not handle the trauma that the Azro personality was created to absorb. So, the diary becomes"
+    },
+    {
+      "fp": "arat11",
+      "i": 142,
+      "from": 32911,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "becomes this fascinating echo chamber. It's a performance of innocence by a mind that has hidden its own guilt behind a locked door in its own brain."
+    },
+    {
+      "fp": "1qijacb",
+      "i": 143,
+      "from": 33127,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "notes, sitting completely alone by candlelight, 1926"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": []
+      },
+      "_said": "brain. It's incredible because even in total isolation, sitting completely alone by candlelight, writing in a secret book hidden inside a wall, the machinery"
+    },
+    {
+      "fp": "1jlb9ja",
+      "i": 144,
+      "from": 33398,
+      "subject": "Daisy",
+      "entities": [
+        "daisy"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Daisy, 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "daisy"
+        ]
+      },
+      "_said": "machinery of performance still has its hooks in her. Yes. It forces Daisy to play a role just to survive the reality of her own mind. And"
+    },
+    {
+      "fp": "1uax0f0",
+      "i": 145,
+      "from": 33660,
+      "subject": "grave",
+      "entities": [],
+      "concept": "grave",
+      "place": "forest",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "grave, forest, 1926"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": "forest",
+        "cast": []
+      },
+      "_said": "And that psychological fracturing, that slow erasure of the core self, it doesn't stay buried in 1926. It is"
+    },
+    {
+      "fp": "1hvmrsl",
+      "i": 146,
+      "from": 33866,
+      "subject": "Marin",
+      "entities": [
+        "marin"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Marin, 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "marin"
+        ]
+      },
+      "_said": "is highly contagious. Oh, it really is because when we look at Marin"
+    },
+    {
+      "fp": "1isywef",
+      "i": 147,
+      "from": 33957,
+      "subject": "Marin — gift",
+      "entities": [
+        "marin"
+      ],
+      "concept": "gift",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Marin, 1926"
+      },
+      "antidote": {
+        "concept": "gift",
+        "cast": [
+          "marin"
+        ]
+      },
+      "_said": "Marin in the present day, we see the horror engine of the story relies on this exact principle."
+    },
+    {
+      "fp": "fw8s5t",
+      "i": 148,
+      "from": 34121,
+      "subject": "Marin",
+      "entities": [
+        "marin"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Marin, 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "marin"
+        ]
+      },
+      "_said": "principle. Playing a role violently starts overwriting the self. You feel this psychological erosion so acutely with Marin. There is a"
+    },
+    {
+      "fp": "1eik6o1",
+      "i": 149,
+      "from": 34356,
+      "subject": "Marin",
+      "entities": [
+        "marin"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Marin, standing at the window of her cottage, 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "marin"
+        ]
+      },
+      "_said": "a moment where Marin is standing at the window of her cottage. She's wearing that itchy, awful, restrictive blue dress. The moon is casting"
+    },
+    {
+      "fp": "p5z4kz",
+      "i": 150,
+      "from": 34572,
+      "subject": "tree",
+      "entities": [],
+      "concept": "tree",
+      "place": "bedroom",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "tree, bedroom, 1926"
+      },
+      "antidote": {
+        "concept": "tree",
+        "set": "bedroom",
+        "cast": []
+      },
+      "_said": "casting these skeletal grasping shadows of the oak branches across the walls of her room. I love that scene. She stares out into the misty treeine and her breath just catches in he"
+    },
+    {
+      "fp": "14jgj01",
+      "i": 151,
+      "from": 34929,
+      "subject": "ledge",
+      "entities": [],
+      "concept": "ledge",
+      "place": "forest",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "ledge, standing at the edge of the woods, forest, 1926"
+      },
+      "antidote": {
+        "concept": "ledge",
+        "set": "forest",
+        "cast": []
+      },
+      "_said": "sister, Molly, standing at the edge of the woods."
+    },
+    {
+      "fp": "452isj",
+      "i": 152,
+      "from": 35004,
+      "subject": "water",
+      "entities": [],
+      "concept": "water",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "water, 1926"
+      },
+      "antidote": {
+        "concept": "water",
+        "set": null,
+        "cast": []
+      },
+      "_said": "woods. Molly drowned when they were kids. But here she is. The trauma of Marine's past isn't just haunting her present. The role she is playing is causing"
+    },
+    {
+      "fp": "1b1zxdf",
+      "i": 153,
+      "from": 35323,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "causing the timeline to bleed directly into her reality. This is where Sager elevates the book from a standard ghost story to a"
+    },
+    {
+      "fp": "y4g6hc",
+      "i": 154,
+      "from": 35529,
+      "subject": "home",
+      "entities": [],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "home, 1926"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": []
+      },
+      "_said": "a deep psychological thriller. The terror isn't just a monster popping out of a closet. The terror is the slow, methodical erosion of identity. Yeah."
+    },
+    {
+      "fp": "24un17",
+      "i": 155,
+      "from": 35829,
+      "subject": "Marin and Daisy",
+      "entities": [
+        "marin",
+        "daisy"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Marin and Daisy, 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "marin",
+          "daisy"
+        ]
+      },
+      "_said": "Yeah. Marin Keen is cast to play Daisy, but because of the isolation, because of the period close, because she is obsessively"
+    },
+    {
+      "fp": "15drsju",
+      "i": 156,
+      "from": 36041,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "reading daisy's frantic thoughts every night, 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "reading Daisy's frantic thoughts every night, the unknown actress and the century dead diarist begin to dangerously converge. She starts losing her grip on"
+    },
+    {
+      "fp": "d1m861",
+      "i": 157,
+      "from": 36305,
+      "subject": "Marin and Daisy",
+      "entities": [
+        "marin",
+        "daisy"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Marin and Daisy, 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "marin",
+          "daisy"
+        ]
+      },
+      "_said": "where Marin ends and Daisy begins. It's like putting on a tightly tailored suit and slowly realizing the fabric is tightening, weaving itself into your actual skin until you can't "
+    },
+    {
+      "fp": "verepv",
+      "i": 158,
+      "from": 36607,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "literally consuming her identity. You see this peak during the 2026 seance scene. I mean, it is"
+    },
+    {
+      "fp": "10snceb",
+      "i": 159,
+      "from": 36746,
+      "subject": "Ronin — crack",
+      "entities": [
+        "ronin"
+      ],
+      "concept": "crack",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Ronin, 1926"
+      },
+      "antidote": {
+        "concept": "crack",
+        "cast": [
+          "ronin"
+        ]
+      },
+      "_said": "is the most uncomfortable scene in the book. Oh, absolutely. Ronin has them recreate the 1926 seance down to the absolute smallest detail. The thunder is cracking outside."
+    },
+    {
+      "fp": "rg5m0m",
+      "i": 160,
+      "from": 37041,
+      "subject": "Marin",
+      "entities": [
+        "marin"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Marin, 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "marin"
+        ]
+      },
+      "_said": "outside. Marin is forced to take the lead and she repeats the exact same question as Deezy asked a century ago."
+    },
+    {
+      "fp": "14169s1",
+      "i": 161,
+      "from": 37214,
+      "subject": "Azra and Violet",
+      "entities": [
+        "azra",
+        "violet"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Azra and Violet, sitting across the table is violet, 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "azra",
+          "violet"
+        ]
+      },
+      "_said": "ago. Azra, are you a And Violet is there. And sitting across the table is Violet, right? And Violet flawlessly, chillingly slips in and out"
+    },
+    {
+      "fp": "v2yy0q",
+      "i": 162,
+      "from": 37481,
+      "subject": "Simple — mask",
+      "entities": [
+        "simple"
+      ],
+      "concept": "mask",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Simple, 1926"
+      },
+      "antidote": {
+        "concept": "mask",
+        "cast": [
+          "simple"
+        ]
+      },
+      "_said": "out of the Mrs. simple persona. It's so jarring. It is. Bin feels her own identity just slipping away. She stops reacting as a"
+    },
+    {
+      "fp": "12k8lxw",
+      "i": 163,
+      "from": 37721,
+      "subject": "photo",
+      "entities": [],
+      "concept": "photo",
+      "place": "bedroom",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "photo, bedroom, 1926"
+      },
+      "antidote": {
+        "concept": "photo",
+        "set": "bedroom",
+        "cast": []
+      },
+      "_said": "modern 2026 actress analyzing a scene for the camera and she starts reacting with the genuine unbridled hyperventilating terror of"
+    },
+    {
+      "fp": "1b3wbjm",
+      "i": 164,
+      "from": 37956,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "of a 1926 girl trapped in a room with a demon. The acting stops being a craft and becomes a possession. But if we look closely at Marin's trajectory, like let's step back a bit. Is"
+    },
+    {
+      "fp": "9zbm5f",
+      "i": 165,
+      "from": 38289,
+      "subject": "Daisy",
+      "entities": [
+        "daisy"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Daisy, 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "daisy"
+        ]
+      },
+      "_said": "herself to Daisy? I mean, it seems like it in that moment. I would argue the exact opposite. Really? Yeah. Yes. The immersion is terrifying and she nearly breaks. But by"
+    },
+    {
+      "fp": "1vcmagw",
+      "i": 166,
+      "from": 38539,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "notes, 1926"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": []
+      },
+      "_said": "by studying Daisy's diary so obsessively, by letting herself fully inhabit the logic of 1926,"
+    },
+    {
+      "fp": "984tre",
+      "i": 167,
+      "from": 38693,
+      "subject": "Marin",
+      "entities": [
+        "marin"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Marin, 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "marin"
+        ]
+      },
+      "_said": "Marin actually finds her Oh, I see what you mean. She is the only one who figures out the plot. She realizes that the patterns of the disappearances happening around her"
+    },
+    {
+      "fp": "pq1ftb",
+      "i": 168,
+      "from": 38957,
+      "subject": "game",
+      "entities": [],
+      "concept": "game",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "game, 1926"
+      },
+      "antidote": {
+        "concept": "game",
+        "set": null,
+        "cast": []
+      },
+      "_said": "her in 2026 perfectly, mathematically, match the disappearances in 1926, right? The timeline. She uses"
+    },
+    {
+      "fp": "7yu99w",
+      "i": 169,
+      "from": 39185,
+      "subject": "puppeteer",
+      "entities": [],
+      "concept": "puppeteer",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "puppeteer, 1926"
+      },
+      "antidote": {
+        "concept": "puppeteer",
+        "cast": []
+      },
+      "_said": "uses the historical script she was handed to stop being the passive victim of the performance. She becomes the only person on the island who can see the strings being pulled"
+    },
+    {
+      "fp": "nlkc",
+      "i": 170,
+      "from": 39427,
+      "subject": "Marin and Violet — heart",
+      "entities": [
+        "marin",
+        "violet"
+      ],
+      "concept": "heart",
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Marin and Violet, 1926"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": null,
+        "cast": [
+          "marin",
+          "violet"
+        ]
+      },
+      "_said": "pulled by Violet and Loretta. I love that read. It's like the trap they put her in is this incredibly complex puzzle box and Marin uses the pieces of the trap itself to build a"
+    },
+    {
+      "fp": "61xpp2",
+      "i": 171,
+      "from": 39782,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "The machinery of performance tries to hollow a woman out to scoop out her inside so she perfectly fits the costume of the part."
+    },
+    {
+      "fp": "f2c5h9",
+      "i": 172,
+      "from": 39988,
+      "subject": "Marin — lightbulb",
+      "entities": [
+        "marin"
+      ],
+      "concept": "lightbulb",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Marin, 1926"
+      },
+      "antidote": {
+        "concept": "lightbulb",
+        "cast": [
+          "marin"
+        ]
+      },
+      "_said": "part. But Marin realizes the stage is rigged before the trap can fully snap shut on her, which is vital because the traps set by this machinery are incredibly insidious, especially"
+    },
+    {
+      "fp": "3l8c2u",
+      "i": 173,
+      "from": 40334,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "trapped. Sager plays a massive trick on us with the central supernatural demand of the book. Let me out. Yes, during the seances,"
+    },
+    {
+      "fp": "fz7172",
+      "i": 174,
+      "from": 40528,
+      "subject": "Azra",
+      "entities": [
+        "azra"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Azra, 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "azra"
+        ]
+      },
+      "_said": "seances, Azra's demand is always, \"Let me out.\" But Azra is spoken for by the wrong prisoner. Okay, visualize the terrifying"
+    },
+    {
+      "fp": "eiehwb",
+      "i": 175,
+      "from": 40737,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "terrifying Ouija board sequence from 1926. The thunder is absolutely deafening. The glass is sliding furiously under the women's"
+    },
+    {
+      "fp": "1qu1s5o",
+      "i": 176,
+      "from": 40958,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "women's trembling fingers, seemingly moving of its own demonic accord, dragging their hands with it. It spells L E T M E O U T."
+    },
+    {
+      "fp": "1vlodv9",
+      "i": 177,
+      "from": 41246,
+      "subject": "Daisy",
+      "entities": [
+        "daisy"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Daisy, 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "daisy"
+        ]
+      },
+      "_said": "Let me out. And then it spells Daisy, right? And then the glass violently jerks across the board and spells D A I S Y. From the dark, shadowy corners of the parlor, this ragged, hi"
+    },
+    {
+      "fp": "gfoi9i",
+      "i": 178,
+      "from": 41671,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "last.\" It's just a classic terrifying horror setup, but look at what it"
+    },
+    {
+      "fp": "166hvge",
+      "i": 179,
+      "from": 41796,
+      "subject": "Azra",
+      "entities": [
+        "azra"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Azra, 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "azra"
+        ]
+      },
+      "_said": "it actually represents thematically for you as a reader. We conditioned by horror tropes automatically think the ghost Azra is the one begging to be let out. We think the demon is "
+    },
+    {
+      "fp": "pb4std",
+      "i": 180,
+      "from": 42158,
+      "subject": "Azra",
+      "entities": [
+        "azra"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Azra, 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "azra"
+        ]
+      },
+      "_said": "island. But Azra is the wrong prisoner. The truly trapped entities in"
+    },
+    {
+      "fp": "1qs8cfc",
+      "i": 181,
+      "from": 42247,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "in this narrative, the one screaming to be let out, are the women locked into the suffocating roles that men and audiences have cast them in. They are trapped in the roles of the m"
+    },
+    {
+      "fp": "1j9gejc",
+      "i": 182,
+      "from": 42513,
+      "subject": "Elise — chains",
+      "entities": [
+        "elise"
+      ],
+      "concept": "chains",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Elise, 1926"
+      },
+      "antidote": {
+        "concept": "chains",
+        "cast": [
+          "elise"
+        ]
+      },
+      "_said": "muse, the disposable actress. And the most tragic grounded example of this societal cage is the backstory of Elise"
+    },
+    {
+      "fp": "1qbi3rf",
+      "i": 183,
+      "from": 42686,
+      "subject": "Elise — water",
+      "entities": [
+        "elise"
+      ],
+      "concept": "water",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Elise, 1926"
+      },
+      "antidote": {
+        "concept": "water",
+        "set": null,
+        "cast": [
+          "elise"
+        ]
+      },
+      "_said": "Elise Haynes. Elise. Yeah, that broke my heart. Elise was a young aspiring actress who drowned in a lake two years prior to the 2026 timeline. And the open secret"
+    },
+    {
+      "fp": "owgk6r",
+      "i": 184,
+      "from": 43008,
+      "subject": "water",
+      "entities": [],
+      "concept": "water",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "water, 1926"
+      },
+      "antidote": {
+        "concept": "water",
+        "set": null,
+        "cast": []
+      },
+      "_said": "secret in Hollywood is that she drowned because Ronan Peters, this predatory, powerful director, pushed her too far, right? He demanded multiple takes in freezing water for the sak"
+    },
+    {
+      "fp": "1xnsvux",
+      "i": 185,
+      "from": 43337,
+      "subject": "Elise",
+      "entities": [
+        "elise"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Elise, 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "elise"
+        ]
+      },
+      "_said": "art. Elise was trapped in the role of the desperate muse. When"
+    },
+    {
+      "fp": "5af5ax",
+      "i": 186,
+      "from": 43440,
+      "subject": "ledge",
+      "entities": [],
+      "concept": "ledge",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "ledge, 1926"
+      },
+      "antidote": {
+        "concept": "ledge",
+        "set": null,
+        "cast": []
+      },
+      "_said": "When a powerful director tells a struggling actress to jump into freezing water, she doesn't say no. She asks how many times she was completely unable to say no to the man holding"
+    },
+    {
+      "fp": "hypk57",
+      "i": 187,
+      "from": 43708,
+      "subject": "Violet — work",
+      "entities": [
+        "violet"
+      ],
+      "concept": "work",
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Violet, holding the absolute keys to her dreams, 1926"
+      },
+      "antidote": {
+        "concept": "work",
+        "set": null,
+        "cast": [
+          "violet"
+        ]
+      },
+      "_said": "holding the absolute keys to her dreams, her career, and her ability to pay rent. She was the prisoner, and the industry was the cage. Which makes Violet"
+    },
+    {
+      "fp": "1gkhmyb",
+      "i": 188,
+      "from": 43953,
+      "subject": "Violet",
+      "entities": [
+        "violet"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Violet, 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "violet"
+        ]
+      },
+      "_said": "Violet and Loretta's response to that tragedy so complex when you realize they orchestrated the 2026 haunt to Evangelis."
+    },
+    {
+      "fp": "u9mr2u",
+      "i": 189,
+      "from": 44133,
+      "subject": "Ronin",
+      "entities": [
+        "ronin"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Ronin, 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "ronin"
+        ]
+      },
+      "_said": "Evangelis. Didn't they effectively flip the script on the abuser? They did. They lure Ronin to this isolated island. They strip him of his phone, cut his contact with the outside w"
+    },
+    {
+      "fp": "1qkj6dl",
+      "i": 190,
+      "from": 44455,
+      "subject": "chains",
+      "entities": [],
+      "concept": "chains",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "chains, 1926"
+      },
+      "antidote": {
+        "concept": "chains",
+        "cast": []
+      },
+      "_said": "and they systematically, methodically gaslight him. They lock the predator in a psychological cage, trapping him in the role of the helpless victim. They force him to feel the exac"
+    },
+    {
+      "fp": "924g5m",
+      "i": 191,
+      "from": 44781,
+      "subject": "Elise — water",
+      "entities": [
+        "elise"
+      ],
+      "concept": "water",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Elise, 1926"
+      },
+      "antidote": {
+        "concept": "water",
+        "set": null,
+        "cast": [
+          "elise"
+        ]
+      },
+      "_said": "control that Elise felt in the water. Yes, they trapped the predator, but look at the collateral damage of that revenge."
+    },
+    {
+      "fp": "8toxby",
+      "i": 192,
+      "from": 44983,
+      "subject": "Ronin and Violet",
+      "entities": [
+        "ronin",
+        "violet"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Ronin and Violet, 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "ronin",
+          "violet"
+        ]
+      },
+      "_said": "revenge. To trap Ronin, Violet, and Loretta had to weaponize other women. Well, true."
+    },
+    {
+      "fp": "1f09jui",
+      "i": 193,
+      "from": 45122,
+      "subject": "home",
+      "entities": [],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "home, 1926"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": []
+      },
+      "_said": "true. It's like they decided to burn down the house to kill the spider, but they locked all the other tenants inside first. They forced Suzy, Heather,"
+    },
+    {
+      "fp": "1cchssx",
+      "i": 194,
+      "from": 45379,
+      "subject": "Marin",
+      "entities": [
+        "marin"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Marin, 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "marin"
+        ]
+      },
+      "_said": "Heather, and Julianne to perform as bait, putting their careers and mental health on the Yeah. And they left Marin completely in the dark, subjecting a totally innocent young woman"
+    },
+    {
+      "fp": "ztor9x",
+      "i": 195,
+      "from": 45710,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "horrific psychological distress just to make the show look good. They used women as disposable props in their own revenge play. It's"
+    },
+    {
+      "fp": "t8mmol",
+      "i": 196,
+      "from": 45928,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "running it, 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "It's a devastating irony. To punish a man for exploiting women for a performance, they exploited women for a The machinery doesn't care who is running it, right? It still consumes "
+    },
+    {
+      "fp": "1y4vinq",
+      "i": 197,
+      "from": 46250,
+      "subject": "chains",
+      "entities": [],
+      "concept": "chains",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "chains, 1926"
+      },
+      "antidote": {
+        "concept": "chains",
+        "cast": []
+      },
+      "_said": "Exactly. A machinery of performance traps everyone, but it ultimately demands that women stay locked in the cage to keep the"
+    },
+    {
+      "fp": "srnrxf",
+      "i": 198,
+      "from": 46440,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, 1926"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "the show running. And part of what keeps them trapped, what keeps them from fighting back objectively is"
+    },
+    {
+      "fp": "1x77tyg",
+      "i": 199,
+      "from": 46598,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "is the deliberate ambiguity of the threat itself."
+    },
+    {
+      "fp": "1fswp6y",
+      "i": 200,
+      "from": 46711,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, 1926"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "Sager brilliantly uses genre ambiguity as a weapon. The withheld category of the threat is the Oh, the found footage moment. There is this incredibly chilling found footage moment "
+    },
+    {
+      "fp": "vx7dp9",
+      "i": 201,
+      "from": 47040,
+      "subject": "crack",
+      "entities": [],
+      "concept": "crack",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "crack, 1926"
+      },
+      "antidote": {
+        "concept": "crack",
+        "cast": []
+      },
+      "_said": "the book. Set it up for them. The 2026 cast is crowded around the tiny glowing cracked screen of a digital"
+    },
+    {
+      "fp": "1qym5jh",
+      "i": 202,
+      "from": 47222,
+      "subject": "tree",
+      "entities": [],
+      "concept": "tree",
+      "place": "forest",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "tree, forest, 1926"
+      },
+      "antidote": {
+        "concept": "tree",
+        "set": "forest",
+        "cast": []
+      },
+      "_said": "digital camcorder they found abandoned on a mossy rock altar deep in the woods. on the screen."
+    },
+    {
+      "fp": "1kaaxwg",
+      "i": 203,
+      "from": 47407,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "walking through the dark skeletal trees looking, 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "screen. Susie Hutchinson is filming herself in night vision. She's walking through the dark skeletal trees looking genuinely profoundly terrified."
+    },
+    {
+      "fp": "1c3nhmg",
+      "i": 204,
+      "from": 47657,
+      "subject": "ledge",
+      "entities": [],
+      "concept": "ledge",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "ledge, 1926"
+      },
+      "antidote": {
+        "concept": "ledge",
+        "set": null,
+        "cast": []
+      },
+      "_said": "terrified. Suddenly the audio picks up a loud sharp snap of a branch right behind her. The jump scare. The camera jerks wildly. She drops it into the moss and the footage abruptly "
+    },
+    {
+      "fp": "6672i2",
+      "i": 205,
+      "from": 47966,
+      "subject": "ledge",
+      "entities": [],
+      "concept": "ledge",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "ledge, 1926"
+      },
+      "antidote": {
+        "concept": "ledge",
+        "set": null,
+        "cast": []
+      },
+      "_said": "much more terrifying than if Sager had just described a monster jumping out of the bushes because Sager completely refuses to name the category of the threat. As a reader and as th"
+    },
+    {
+      "fp": "gq0uvd",
+      "i": 206,
+      "from": 48245,
+      "subject": "Azra — lightbulb",
+      "entities": [
+        "azra"
+      ],
+      "concept": "lightbulb",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Azra, 1926"
+      },
+      "antidote": {
+        "concept": "lightbulb",
+        "cast": [
+          "azra"
+        ]
+      },
+      "_said": "characters experiencing it, you have no idea what you are dealing with. Is it a genuine supernatural haunting by a demon named Azra? Or is it a cheap"
+    },
+    {
+      "fp": "yusogg",
+      "i": 207,
+      "from": 48470,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "cheap elaborate publicity stunt orchestrated by the studio to"
+    },
+    {
+      "fp": "6pklwc",
+      "i": 208,
+      "from": 48578,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "to go viral and promote the film? or is there a very real, very human serial killer"
+    },
+    {
+      "fp": "es5mye",
+      "i": 209,
+      "from": 48744,
+      "subject": "tree",
+      "entities": [],
+      "concept": "tree",
+      "place": "forest",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "tree, forest, 1926"
+      },
+      "antidote": {
+        "concept": "tree",
+        "set": "forest",
+        "cast": []
+      },
+      "_said": "killer stalking the woods? That withheld category is the weapon against the characters. You cannot defend yourself against a danger you aren't allowed to name. You"
+    },
+    {
+      "fp": "17kguj7",
+      "i": 210,
+      "from": 49001,
+      "subject": "road",
+      "entities": [],
+      "concept": "road",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "road, 1926"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": null,
+        "cast": []
+      },
+      "_said": "You really can't. If you prep for a ghost, you grab salt and iron, but a human will kill you. If you prep for a PR stunt by ignoring it, a ghost will drive you mad. The ambiguity p"
+    },
+    {
+      "fp": "dzpo73",
+      "i": 211,
+      "from": 49373,
+      "subject": "Daisy",
+      "entities": [
+        "daisy"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Daisy, 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "daisy"
+        ]
+      },
+      "_said": "see this weaponized ambiguity beautifully layered into the environment, too. The daisy wheels. Oh, the hex signs. Yes, these"
+    },
+    {
+      "fp": "4xdmkf",
+      "i": 212,
+      "from": 49565,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "are the intricate hex signs carved deeply into the bark of the trees and the stone foundations of the cottages."
+    },
+    {
+      "fp": "sl8dif",
+      "i": 213,
+      "from": 49740,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Early on, Brad, the PA, casually mentions their Appalachian folk magic meant to keep evil spirits out. But later,"
+    },
+    {
+      "fp": "supy8m",
+      "i": 214,
+      "from": 49970,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "notes, 1926"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": []
+      },
+      "_said": "later, Mrs. Simple's hidden journal reveals a much darker psychological truth. Were these actually occult symbols or were"
+    },
+    {
+      "fp": "1lihid7",
+      "i": 215,
+      "from": 50169,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "were they psychological Hypnotic anchors. Exactly. hypnotic anchors deliberately carved into"
+    },
+    {
+      "fp": "i3b0cg",
+      "i": 216,
+      "from": 50340,
+      "subject": "Simple",
+      "entities": [
+        "simple"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Simple, 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "simple"
+        ]
+      },
+      "_said": "into the environment by simple to keep a fractured mind."
+    },
+    {
+      "fp": "15x9l76",
+      "i": 217,
+      "from": 50428,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "mind. Daisy's mind locked inside the physical borders of the island and subservient to the But this ambiguity isn't just a scary literary trope. It has massive realworld"
+    },
+    {
+      "fp": "13yx6fb",
+      "i": 218,
+      "from": 50719,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "realworld implications, especially in Hollywood. Isn't this ambiguity exactly what allows a human predator like Ronan Peters to operate in plain sight? Oh, for sure. He hides"
+    },
+    {
+      "fp": "wqjy0r",
+      "i": 219,
+      "from": 51021,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "hides his psychological abuse, his screaming fits, his pushing actresses to the brink of hypothermia behind"
+    },
+    {
+      "fp": "19g3oau",
+      "i": 220,
+      "from": 51194,
+      "subject": "shield",
+      "entities": [],
+      "concept": "shield",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "shield, 1926"
+      },
+      "antidote": {
+        "concept": "shield",
+        "cast": []
+      },
+      "_said": "behind the impenetrable shield of method acting and elevated horror. The ambiguity of what is boundary pushing art versus what is workplace abuse is his"
+    },
+    {
+      "fp": "1n3833v",
+      "i": 221,
+      "from": 51458,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "his ultimate alibi. It's his cover story. He operates in the gray area where no one on set can call out the monster because they aren't sure what genre of movie they are in. Are th"
+    },
+    {
+      "fp": "1tifo2r",
+      "i": 222,
+      "from": 51722,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "making a masterpiece or are they enabling a sociopath? The industry's worship of the oddur provides cover for cruelty."
+    },
+    {
+      "fp": "12uitga",
+      "i": 223,
+      "from": 51916,
+      "subject": "shield",
+      "entities": [],
+      "concept": "shield",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "shield, 1926"
+      },
+      "antidote": {
+        "concept": "shield",
+        "cast": []
+      },
+      "_said": "cruelty. It's a shell game where the ball is your sanity and your safety. The machinery of performance thrives in the dark. If you don't know what genre of story you are in, you do"
+    },
+    {
+      "fp": "1xd1sry",
+      "i": 224,
+      "from": 52245,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "ultimate consequence of failing to survive that machinery is visual eraser. Let's look at the signature image of the novel. The image that opens the"
+    },
+    {
+      "fp": "1n1psbz",
+      "i": 225,
+      "from": 52459,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "the book and haunts the entire narrative. The empty dress on the The scene at dawn on"
+    },
+    {
+      "fp": "ggszx3",
+      "i": 226,
+      "from": 52598,
+      "subject": "Marin and Avalon",
+      "entities": [
+        "marin",
+        "avalon"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Marin and Avalon, 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "marin",
+          "avalon"
+        ]
+      },
+      "_said": "on New Avalon is just Marin steps out of her tiny"
+    },
+    {
+      "fp": "er9460",
+      "i": 227,
+      "from": 52730,
+      "subject": "storm",
+      "entities": [],
+      "concept": "storm",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "storm, walks out onto the green and looks up, 1926"
+      },
+      "antidote": {
+        "concept": "storm",
+        "set": null,
+        "cast": []
+      },
+      "_said": "tiny freezing cottage into the pink misty morning air. The island is dead quiet. The storm has passed. She walks out onto the green and looks up at"
+    },
+    {
+      "fp": "gz3k7x",
+      "i": 228,
+      "from": 53033,
+      "subject": "tree",
+      "entities": [],
+      "concept": "tree",
+      "place": "forest",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "tree, forest, 1926"
+      },
+      "antidote": {
+        "concept": "tree",
+        "set": "forest",
+        "cast": []
+      },
+      "_said": "at the massive gnarled oak tree that dominates the center of the camp. And what does she see?"
+    },
+    {
+      "fp": "9vq1w5",
+      "i": 229,
+      "from": 53160,
+      "subject": "storm",
+      "entities": [],
+      "concept": "storm",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "storm, 1926"
+      },
+      "antidote": {
+        "concept": "storm",
+        "set": null,
+        "cast": []
+      },
+      "_said": "see? Snagged high in the upper branches fluttering in the cold wind are a cream colored top and a maroon skirt. Suz's but the woman herself is completely gone. It is such"
+    },
+    {
+      "fp": "wqrl8u",
+      "i": 230,
+      "from": 53479,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "such a profound image because it is the ultimate reduction of a human being."
+    },
+    {
+      "fp": "14agrtn",
+      "i": 231,
+      "from": 53585,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "being. Five women across the span of a century are reduced entirely to the costume they were dressed up to be. The flesh, the blood, the complex humanity, the fears, the dreams of "
+    },
+    {
+      "fp": "16nxzyj",
+      "i": 232,
+      "from": 53865,
+      "subject": "storm",
+      "entities": [],
+      "concept": "storm",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "storm, 1926"
+      },
+      "antidote": {
+        "concept": "storm",
+        "set": null,
+        "cast": []
+      },
+      "_said": "it simply vanishes. And only the role, the prop, the aesthetic is left hanging in the wind for the audience to gawk at."
+    },
+    {
+      "fp": "m1wk4e",
+      "i": 233,
+      "from": 54057,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "at. It's an incredibly sharp critique of how society consumes the tragedy of missing women. And Sager mirrors this flawlessly across the century."
+    },
+    {
+      "fp": "1t8wl7j",
+      "i": 234,
+      "from": 54319,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "century. In the 1926 timeline, Katrina and Jonquil vanish in the middle of the"
+    },
+    {
+      "fp": "1oglmhe",
+      "i": 235,
+      "from": 54439,
+      "subject": "Daisy — tree",
+      "entities": [
+        "daisy"
+      ],
+      "concept": "tree",
+      "place": "forest",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Daisy, forest, 1926"
+      },
+      "antidote": {
+        "concept": "tree",
+        "set": "forest",
+        "cast": [
+          "daisy"
+        ]
+      },
+      "_said": "the night. Right. The first two to go. Daisy wakes up, searches the island frantically, and finds their period dresses hoisted into the exact same tree."
+    },
+    {
+      "fp": "i4kbu6",
+      "i": 236,
+      "from": 54720,
+      "subject": "Daisy and Simple — storm",
+      "entities": [
+        "daisy",
+        "simple"
+      ],
+      "concept": "storm",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Daisy and Simple, leaving their empty dresses behind as these mac, 1926"
+      },
+      "antidote": {
+        "concept": "storm",
+        "set": null,
+        "cast": [
+          "daisy",
+          "simple"
+        ]
+      },
+      "_said": "tree. Daisy is terrified. She genuinely believed the darkness consumed her friends, eating their bodies, and leaving their empty dresses behind as these macob tombstones. And Mrs. "
+    },
+    {
+      "fp": "1ci0duj",
+      "i": 237,
+      "from": 55032,
+      "subject": "Simple",
+      "entities": [
+        "simple"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Simple, 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "simple"
+        ]
+      },
+      "_said": "Simple, who is orchestrating the whole psychological experiment,"
+    },
+    {
+      "fp": "v7faw",
+      "i": 238,
+      "from": 55113,
+      "subject": "Daisy",
+      "entities": [
+        "daisy"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Daisy, leave the dresses up as tributes, 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "daisy"
+        ]
+      },
+      "_said": "experiment, tells Daisy they must leave the dresses up as tributes. But look at the difference in intent behind that exact same image. What do you mean?"
+    },
+    {
+      "fp": "5g3iz7",
+      "i": 239,
+      "from": 55315,
+      "subject": "Daisy and Simple — tree",
+      "entities": [
+        "daisy",
+        "simple"
+      ],
+      "concept": "tree",
+      "place": "forest",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Daisy and Simple, forest, 1926"
+      },
+      "antidote": {
+        "concept": "tree",
+        "set": "forest",
+        "cast": [
+          "daisy",
+          "simple"
+        ]
+      },
+      "_said": "mean? In 1926, the dresses hanging in the tree are a symbol of a shattered mind trying to bury its alternate personalities. Mrs. Simple is hanging them to convince the Daisy person"
+    },
+    {
+      "fp": "1kzchf2",
+      "i": 240,
+      "from": 55632,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "that the other personalities represented by Katrina and Jon are dead and gone. But"
+    },
+    {
+      "fp": "pmrd2d",
+      "i": 241,
+      "from": 55785,
+      "subject": "grave",
+      "entities": [],
+      "concept": "grave",
+      "place": "forest",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "grave, forest, 1926"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": "forest",
+        "cast": []
+      },
+      "_said": "But in 2026, the empty dress isn't a psychological tombstone at all. It's a prop in a Hollywood revenge plot."
+    },
+    {
+      "fp": "hjbnoy",
+      "i": 242,
+      "from": 55975,
+      "subject": "Ronin and Violet — tree",
+      "entities": [
+        "ronin",
+        "violet"
+      ],
+      "concept": "tree",
+      "place": "forest",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Ronin and Violet, forest, 1926"
+      },
+      "antidote": {
+        "concept": "tree",
+        "set": "forest",
+        "cast": [
+          "ronin",
+          "violet"
+        ]
+      },
+      "_said": "plot. Violet, Susie, and Heather are perfectly alive. They hoisted the dresses into the tree themselves using a hook and pole just to terrify Ronin. That's the genius of it. The in"
+    },
+    {
+      "fp": "1nhimkx",
+      "i": 243,
+      "from": 56385,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "is early psychoanalysis, the other is a Scooby-Doo revenge plot. But the visual result is"
+    },
+    {
+      "fp": "1ntuxbw",
+      "i": 244,
+      "from": 56556,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "is identical. The woman is erased and only the spectacle Think about how we consume true crime today. We obsess over the grainy"
+    },
+    {
+      "fp": "62kmao",
+      "i": 245,
+      "from": 56834,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "grainy final footage, the abandoned car, the clothes left behind. We care"
+    },
+    {
+      "fp": "1gsbg0c",
+      "i": 246,
+      "from": 56952,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "care about the aesthetic of the We do. We care about the clues, the setup. The audience doesn't care why the dress is empty. They only care that they are"
+    },
+    {
+      "fp": "18536qx",
+      "i": 247,
+      "from": 57213,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "are being entertained by the magic trick of a vanished woman. Which actually brings us to the ultimate thesis of how this book operates on a metal level. The machinery"
+    },
+    {
+      "fp": "fyoz2u",
+      "i": 248,
+      "from": 57456,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "machinery of performance demands a breathtaking spectacle. And to an audience, a vanished woman is the greatest magic trick of all. But who is"
+    },
+    {
+      "fp": "1v7tqli",
+      "i": 249,
+      "from": 57684,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "is the ultimate audience for this magic trick? We are. We are. The reader is the seance's real The climax of the book just shatters the fourth wall. It's so good. The tension has c"
+    },
+    {
+      "fp": "2i5uxy",
+      "i": 250,
+      "from": 58044,
+      "subject": "Ronin",
+      "entities": [
+        "ronin"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Ronin, 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "ronin"
+        ]
+      },
+      "_said": "snapped. Murin is absolutely terrified. She's screaming. She is accusing Ronin of murder in front of everyone. But then"
+    },
+    {
+      "fp": "1j1rq78",
+      "i": 251,
+      "from": 58231,
+      "subject": "Violet",
+      "entities": [
+        "violet"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Violet, 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "violet"
+        ]
+      },
+      "_said": "then Violet Wright simply drops her aristocratic, perfectly practiced"
+    },
+    {
+      "fp": "cqi0ix",
+      "i": 252,
+      "from": 58351,
+      "subject": "Simple",
+      "entities": [
+        "simple"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Simple, 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "simple"
+        ]
+      },
+      "_said": "practiced Mrs. Simple accent. Shift in her posture. Right? Her posture changes. Her face goes completely cold, utterly flat. She looks at the"
+    },
+    {
+      "fp": "68f71s",
+      "i": 253,
+      "from": 58581,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "the other terrified actresses who are crying. And she says in her normal modern voice, \"Let her go.\" And in an instant,"
+    },
+    {
+      "fp": "p9v36b",
+      "i": 254,
+      "from": 58812,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "instant, the supernatural illusion shatters like glass. It was all a setup. And here is how Sager played you, the reader, so brilliantly."
+    },
+    {
+      "fp": "sr5xim",
+      "i": 255,
+      "from": 59042,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "brilliantly. That fullthroated final twist that the ghosts were just actresses with a hook and pole. It only lands because the entire book meticulously trained you to"
+    },
+    {
+      "fp": "1car1ue",
+      "i": 256,
+      "from": 59292,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "notes, 1926"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": []
+      },
+      "_said": "to accept performance as proof. We bought into it. We, the readers, bought into the haunted island. We bought into the creeping dread of the diary. We analyzed"
+    },
+    {
+      "fp": "i40cpr",
+      "i": 257,
+      "from": 59517,
+      "subject": "Marin",
+      "entities": [
+        "marin"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Marin, 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "marin"
+        ]
+      },
+      "_said": "analyzed the Ouija board spelling out words. We wanted the ghost story to be real. Marin was the audience for Violet's play. But the reader is the seance's real mark."
+    },
+    {
+      "fp": "hjmtfa",
+      "i": 258,
+      "from": 59784,
+      "subject": "tree",
+      "entities": [],
+      "concept": "tree",
+      "place": "forest",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "tree, leaves us with this final lingering image, forest, 1926"
+      },
+      "antidote": {
+        "concept": "tree",
+        "set": "forest",
+        "cast": []
+      },
+      "_said": "mark. Seder used our own genre expectations against us. and he leaves us with this final lingering image that just cements the con."
+    },
+    {
+      "fp": "1esvvda",
+      "i": 259,
+      "from": 60062,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Moren is doing research years later and she finds"
+    },
+    {
+      "fp": "1t3n3so",
+      "i": 260,
+      "from": 60153,
+      "subject": "photo",
+      "entities": [],
+      "concept": "photo",
+      "place": "bedroom",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "photo, bedroom, 1926"
+      },
+      "antidote": {
+        "concept": "photo",
+        "set": "bedroom",
+        "cast": []
+      },
+      "_said": "finds a 1931 photograph in a Canadian archive. It's a picture"
+    },
+    {
+      "fp": "4e3w8u",
+      "i": 261,
+      "from": 60271,
+      "subject": "Daisy — photo",
+      "entities": [
+        "daisy"
+      ],
+      "concept": "photo",
+      "place": "bedroom",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Daisy, bedroom, 1926"
+      },
+      "antidote": {
+        "concept": "photo",
+        "set": "bedroom",
+        "cast": [
+          "daisy"
+        ]
+      },
+      "_said": "picture of a bootleggger's wife named Zara McCutchen. She is wearing a close hat and she has a daisy pin to her lapel."
+    },
+    {
+      "fp": "1ngidbe",
+      "i": 262,
+      "from": 60473,
+      "subject": "Azra",
+      "entities": [
+        "azra"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Azra, 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "azra"
+        ]
+      },
+      "_said": "lapel. Zara is a perfect anagram of Azra. It's the ultimate performance. Yeah. Azra survived the island, escaped the asylum system, and did it by adopting a"
+    },
+    {
+      "fp": "oug2pz",
+      "i": 263,
+      "from": 60746,
+      "subject": "Marin — photo",
+      "entities": [
+        "marin"
+      ],
+      "concept": "photo",
+      "place": "bedroom",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Marin, bedroom, 1926"
+      },
+      "antidote": {
+        "concept": "photo",
+        "set": "bedroom",
+        "cast": [
+          "marin"
+        ]
+      },
+      "_said": "a brand new costume, a brand new name, a brand new role, and the audience, Marin, and us as readers, is left staring at a grainy photograph, completely unsure of what is real and w"
+    },
+    {
+      "fp": "17a36c3",
+      "i": 264,
+      "from": 61063,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "just another incredible But did we just get tricked by a clever author, or did we on some fundamental level want to be tricked? No, that's a good question. I would argue we eagerly"
+    },
+    {
+      "fp": "bzi12h",
+      "i": 265,
+      "from": 61332,
+      "subject": "tree",
+      "entities": [],
+      "concept": "tree",
+      "place": "forest",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "tree, forest, 1926"
+      },
+      "antidote": {
+        "concept": "tree",
+        "set": "forest",
+        "cast": []
+      },
+      "_said": "embrace the supernatural deception. We wanted the ghost story, the demonic entity in the woods, the cursed island."
+    },
+    {
+      "fp": "1qpqg3d",
+      "i": 266,
+      "from": 61481,
+      "subject": "water",
+      "entities": [],
+      "concept": "water",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "water, walked into the freezing water and drowned, 1926"
+      },
+      "antidote": {
+        "concept": "water",
+        "set": null,
+        "cast": []
+      },
+      "_said": "Why? Because the alternative is too depressing, The alternative is that a powerful, mundane man bullied a young actress until she walked into the freezing water and drowned."
+    },
+    {
+      "fp": "1y24bfs",
+      "i": 267,
+      "from": 61769,
+      "subject": "water",
+      "entities": [],
+      "concept": "water",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "water, 1926"
+      },
+      "antidote": {
+        "concept": "water",
+        "set": null,
+        "cast": []
+      },
+      "_said": "drowned. The alternative is that a young woman's childhood trauma fractured her mind into pieces and the medical establishment tortured her for it under the guise of"
+    },
+    {
+      "fp": "kb7ovx",
+      "i": 268,
+      "from": 61994,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "of Wow. Yes. We demand the supernatural to avoid the mundane everyday reality of human cruelty."
+    },
+    {
+      "fp": "1r12j9c",
+      "i": 269,
+      "from": 62205,
+      "subject": "Azra — work",
+      "entities": [
+        "azra"
+      ],
+      "concept": "work",
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Azra, 1926"
+      },
+      "antidote": {
+        "concept": "work",
+        "set": null,
+        "cast": [
+          "azra"
+        ]
+      },
+      "_said": "cruelty. It's easier to process a demon named Azra than it is to process systemic abuse in the workplace or the psychiatric system."
+    },
+    {
+      "fp": "1mfdcpy",
+      "i": 270,
+      "from": 62441,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "The machinery of performance only works because the audience eagerly pays the price of admission with their willing We want the ghost so we don't have to look at the abuser. But th"
+    },
+    {
+      "fp": "s5yw09",
+      "i": 271,
+      "from": 62786,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "notes, 1926"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": []
+      },
+      "_said": "really vital counterpoint, a major honest criticism of the book that we have to discuss if we are analyzing this deeply. Sager stacks a lot of tropes here. He does. A ghost story, "
+    },
+    {
+      "fp": "1bckst2",
+      "i": 272,
+      "from": 63112,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "notes, 1926"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": []
+      },
+      "_said": "diary, psychological trauma, deed ID, a cold case, a Hollywood revenge plot. They are all layered on top of each other."
+    },
+    {
+      "fp": "sofisq",
+      "i": 273,
+      "from": 63297,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "other. Does stacking all of this risk the supernatural and the convoluted plot twists becoming a crutch? Does it let the human horror off the hook? That is a really valid push back"
+    },
+    {
+      "fp": "3r6e8e",
+      "i": 274,
+      "from": 63602,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "By making Daisy's story a tragic tale of dissociative identity disorder, and by making"
+    },
+    {
+      "fp": "1hvvvhm",
+      "i": 275,
+      "from": 63746,
+      "subject": "Azra — tree",
+      "entities": [
+        "azra"
+      ],
+      "concept": "tree",
+      "place": "forest",
+      "confidence": 1,
+      "vox": {
+        "shot": "Azra, running around in the woods with pulleys, forest, 1926"
+      },
+      "antidote": {
+        "concept": "tree",
+        "set": "forest",
+        "cast": [
+          "azra"
+        ]
+      },
+      "_said": "making the 2026 story an elaborate theatrical revenge plot by actresses running around in the woods with pulleys, does bling the ghost of Azra or focusing on this highly convoluted"
+    },
+    {
+      "fp": "19e7snd",
+      "i": 276,
+      "from": 64154,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "an Right. The real culprits being systemic abuse by men like Ronan Peters or the horrific"
+    },
+    {
+      "fp": "c9u45s",
+      "i": 277,
+      "from": 64286,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "horrific unregulated medical system of the 1920s that treated women like lab rats. Yeah. By dressing up these incredibly serious, grounded issues of exploitation and trauma in"
+    },
+    {
+      "fp": "m8h6uq",
+      "i": 278,
+      "from": 64581,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "in cheap Halloween costumes, do we lose the impact of how women are actually exploited? Did the Scooby-Doo ending dilute the very real trauma"
+    },
+    {
+      "fp": "59w866",
+      "i": 279,
+      "from": 64788,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "walk for any thriller writer, 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "trauma Sager is trying to highlight? It's a massive tightroppe walk for any thriller writer, but you could argue that the elaborate performance actually deepens the story"
+    },
+    {
+      "fp": "vxmn8i",
+      "i": 280,
+      "from": 65040,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, 1926"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "story of exploited women. How so? It does this by showing the incredible, almost absurd length they must go to just to survive and fight back in a system that is completely rigged "
+    },
+    {
+      "fp": "1l3vefj",
+      "i": 281,
+      "from": 65359,
+      "subject": "Ronin and Violet — shield",
+      "entities": [
+        "ronin",
+        "violet"
+      ],
+      "concept": "shield",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Ronin and Violet, 1926"
+      },
+      "antidote": {
+        "concept": "shield",
+        "cast": [
+          "ronin",
+          "violet"
+        ]
+      },
+      "_said": "them. Violet and Loretta couldn't just call HR on Ronin. The studio would have buried it, protected the powerful director, and ruined their They had to stage a literal"
+    },
+    {
+      "fp": "1uwkvti",
+      "i": 282,
+      "from": 65623,
+      "subject": "Daisy",
+      "entities": [
+        "daisy"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Daisy, 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "daisy"
+        ]
+      },
+      "_said": "literal haunting to get justice. Exactly. Daisy couldn't just go to therapy and process her abuse. Her mind had"
+    },
+    {
+      "fp": "1un6jwy",
+      "i": 283,
+      "from": 65793,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "had to invent a demon just to keep her body alive. The extreme"
+    },
+    {
+      "fp": "1qgiprh",
+      "i": 284,
+      "from": 65913,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "extreme complexity of the illusion highlights the absolute severity of the trauma and the lack of normal avenues for justice. That"
+    },
+    {
+      "fp": "1ypxh5b",
+      "i": 285,
+      "from": 66127,
+      "subject": "tree",
+      "entities": [],
+      "concept": "tree",
+      "place": "forest",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "tree, leaves us with, forest, 1926"
+      },
+      "antidote": {
+        "concept": "tree",
+        "set": "forest",
+        "cast": []
+      },
+      "_said": "That is a brilliant way to look at it. The absurdity of the solution highlights the horror of the problem. And as we close this deep dive, that leaves us with the"
+    },
+    {
+      "fp": "snmlfp",
+      "i": 286,
+      "from": 66369,
+      "subject": "tree",
+      "entities": [],
+      "concept": "tree",
+      "place": "forest",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "tree, forest, 1926"
+      },
+      "antidote": {
+        "concept": "tree",
+        "set": "forest",
+        "cast": []
+      },
+      "_said": "the final reframing for you to mle over. The true horror of the unknown isn't found in the dark woods of Vermont. And it isn't found"
+    },
+    {
+      "fp": "1bcwk7x",
+      "i": 287,
+      "from": 66566,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "found on a Hollywood soundstage. Yeah. The unknown was never the ghost haunting the island, and it was never the nobody actress trying to make it big. The unknown is us,"
+    },
+    {
+      "fp": "164bt9",
+      "i": 288,
+      "from": 66845,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1926"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "us, the audience. We are the ones who will always, inevitably take a good, terrifying story over an ugly, mundane truth. We demand the show because the"
+    },
+    {
+      "fp": "5p5xuk",
+      "i": 289,
+      "from": 67109,
+      "subject": "tree",
+      "entities": [],
+      "concept": "tree",
+      "place": "forest",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "tree, forest, 1926"
+      },
+      "antidote": {
+        "concept": "tree",
+        "set": "forest",
+        "cast": []
+      },
+      "_said": "the show protects us from the reality. Five empty dresses swang from an oak tree. The dresses are empty because we needed them to"
+    }
+  ]
+}

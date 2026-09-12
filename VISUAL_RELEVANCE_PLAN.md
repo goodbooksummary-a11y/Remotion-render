@@ -306,7 +306,9 @@ instead of silently deleting the image entry, and an emptiness check in `cutout.
 Baselines below are measured today; thresholds are the gate `audit-relevance.js` enforces.
 
 Measured, not estimated: see [`RELEVANCE_BASELINE.md`](RELEVANCE_BASELINE.md) — 49 planned
-books, 12 935 scenes, every one scored. (The estimates in an earlier draft of this table were
+books, 12 935 scenes, every one scored. **Current standing after the 2026-09-12 retrofit:
+subject-bearing 29.1 %, wrong 5.5 %, filler 21.1 %, 48/49 books still over budget** (the baseline
+column below is the before). (The estimates in an earlier draft of this table were
 too generous; the real figures are below.)
 
 | metric | baseline (2026-09-12) | ship gate | why |
@@ -479,13 +481,36 @@ not measurable). What is left:
 3. Importance-aware cooldowns (a book's central object is currently forbidden from recurring).
 4. Vox still has no icon vocabulary at all, so its ceiling is images; Phase 4 is its lever.
 
-### Phase 4 — vocabulary · ~2–4 days
+### Phase 4 — vocabulary · ~2–4 days — ◑ **LANDED 2026-09-12** (per-book motifs still unused)
 
-Coverage report; single source of truth + drift lint; per-book `motifs.json` through
-`customSvg`; Vox shot briefs with cast continuity; content-addressed image files.
+[`scripts/lint-vocabulary.js`](scripts/lint-vocabulary.js) cross-checks the four hand-maintained
+lists that have to agree — the `propType` enum, the motif `REGISTRY`, `CONCEPT_LEXICON`, and
+`CONCEPT_SET`/`CONCEPT_HOLD` — and probes the first-match-wins lexicon for shadowing. Every
+failure in this class is silent at run time (an unknown motif renders as `null`, an unknown set
+renders as `null`, Remotion does not zod-parse `defaultProps`), so a typo is a confident blank
+frame in a 40-minute unattended render.
 
-**Gate:** vocabulary reach doubles on a fiction book; zero drift-lint failures; one book ships
-with ≥ 3 book-specific custom motifs.
+What it found and what was repaired:
+
+- **18 motifs were drawable but unreachable by meaning.** Six that carry a real subject
+  (`summit`, `ladder`, `crack`, `clock`, `balance`, `book`) now have narrow lexicon entries;
+  `book` is deliberately tight because "the book" is said in every other sentence on this
+  channel. The abstract six (`spotlight`, `ripple`, `orbit`, `shape`, `maze`, `arrow`) stay
+  unreachable **on purpose** — they carry no subject, so a regex for them would only manufacture
+  false relevance.
+- **Shadowing in a first-match list.** `"the car crash on the highway"` selected `car`; `crash`
+  now wins. `iceberg` matched the same words as the richer `icebergDepth` and sat above it, so
+  the better drawing never won once in 3309 beats — removed. A bare `funnel` shadowed
+  `funnelTrap` for every book.
+- **Six dead keys** that nothing could ever select.
+- `books/<slug>/motifs.json` now feeds the director's `customSvg` hook directly. That escape
+  hatch — a book-specific icon carried as *data*, so it travels in the render bundle and costs no
+  per-book engine code — had fired **zero times in 15 books**, because the only way in was a
+  `creative-bible.json` field that two of six universes populate.
+
+**Gate partly met:** zero drift-lint breaks, and grounded icons in use on the pilot went 36 → 40.
+Still open: no book yet ships a per-book `motifs.json`, and Vox still has no icon vocabulary at
+all.
 
 ### Phase 5 — repair loop + gate · ~2–3 days
 

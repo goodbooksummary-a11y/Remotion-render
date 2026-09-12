@@ -1,0 +1,158 @@
+{
+  "slug": "war-of-the-worlds",
+  "world": {
+    "era": "1895–1895",
+    "approxYear": 1895,
+    "setting": "",
+    "register": "",
+    "forbid": [
+      "phone",
+      "codeWindow",
+      "laptopMockup",
+      "rocketLaunch",
+      "funnelMetrics",
+      "dollarExchange",
+      "subway",
+      "car",
+      "alarmClock",
+      "medical"
+    ]
+  },
+  "cast": {
+    "wells": {
+      "name": "Wells",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 15
+    },
+    "martians": {
+      "name": "Martians",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 7
+    },
+    "thunderchild": {
+      "name": "Thunderchild",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 2
+    },
+    "navy": {
+      "name": "Navy",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 2
+    }
+  },
+  "places": {
+    "forest": {
+      "set": "forest",
+      "look": "",
+      "mentions": 1
+    },
+    "highway": {
+      "set": "highway",
+      "look": "",
+      "mentions": 1
+    },
+    "street": {
+      "set": "street",
+      "look": "",
+      "mentions": 1
+    }
+  },
+  "objects": [
+    {
+      "concept": "war",
+      "mentions": 31,
+      "why": ""
+    },
+    {
+      "concept": "magnifier",
+      "mentions": 16,
+      "why": ""
+    },
+    {
+      "concept": "trophy",
+      "mentions": 11,
+      "why": ""
+    },
+    {
+      "concept": "fire",
+      "mentions": 11,
+      "why": ""
+    },
+    {
+      "concept": "notes",
+      "mentions": 8,
+      "why": ""
+    },
+    {
+      "concept": "city",
+      "mentions": 7,
+      "why": ""
+    },
+    {
+      "concept": "road",
+      "mentions": 7,
+      "why": ""
+    },
+    {
+      "concept": "home",
+      "mentions": 7,
+      "why": ""
+    },
+    {
+      "concept": "ledge",
+      "mentions": 6,
+      "why": ""
+    },
+    {
+      "concept": "grave",
+      "mentions": 6,
+      "why": ""
+    },
+    {
+      "concept": "crash",
+      "mentions": 6,
+      "why": ""
+    },
+    {
+      "concept": "water",
+      "mentions": 6,
+      "why": ""
+    }
+  ],
+  "spine": [
+    {
+      "act": "setup",
+      "fromFrame": 17,
+      "claim": ""
+    },
+    {
+      "act": "development",
+      "fromFrame": 16810,
+      "claim": ""
+    },
+    {
+      "act": "turn",
+      "fromFrame": 31181,
+      "claim": ""
+    },
+    {
+      "act": "consequence",
+      "fromFrame": 44945,
+      "claim": ""
+    },
+    {
+      "act": "close",
+      "fromFrame": 61112,
+      "claim": ""
+    }
+  ],
+  "authored": false
+}

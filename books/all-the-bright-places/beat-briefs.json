@@ -1,0 +1,2399 @@
+{
+  "slug": "all-the-bright-places",
+  "authored": false,
+  "briefs": [
+    {
+      "fp": "1542j4d",
+      "i": 0,
+      "from": 2,
+      "subject": "ledge",
+      "entities": [],
+      "concept": "ledge",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "ledge, standing on that ledge"
+      },
+      "antidote": {
+        "concept": "ledge",
+        "set": null,
+        "cast": []
+      },
+      "_said": "Everyone remembers this as the sad teen romance book, but look who is actually standing on that ledge. Who talks who I mean, we had it backwards the whole We really, really did. An"
+    },
+    {
+      "fp": "okrj5p",
+      "i": 1,
+      "from": 485,
+      "subject": "heart",
+      "entities": [],
+      "concept": "heart",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "heart"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": null,
+        "cast": []
+      },
+      "_said": "Totally. Like, it isn't just a tragedy about a boy who dies. And it certainly isn't your standard young adult romance. No, not at all. So for you listening, what we are proving in "
+    },
+    {
+      "fp": "8nklwr",
+      "i": 2,
+      "from": 936,
+      "subject": "road",
+      "entities": [],
+      "concept": "road",
+      "place": "highway",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "road, hold a suicidal person up right until the ex, Indiana two-lane roads between wandering sites, flat fields either side"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": "highway",
+        "cast": []
+      },
+      "_said": "Exactly. An argument that attention, love, and what the book calls wandering can hold a suicidal person up right until the exact moment they can't. And the critical second half of "
+    },
+    {
+      "fp": "5rfb27",
+      "i": 3,
+      "from": 1519,
+      "subject": "Violet Markey — rocketLaunch",
+      "entities": [
+        "violet"
+      ],
+      "concept": "rocketLaunch",
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "an American teenage girl with long blonde hair, a cardigan over a school dress, holding herself carefully, present day"
+      },
+      "antidote": {
+        "concept": "rocketLaunch",
+        "set": null,
+        "cast": [
+          "violet"
+        ]
+      },
+      "_said": "Yes, she refuses to let us or the protagonist Violet believe that the brightness they found was completely real and it was not enough to save him. I mean, both things are true at o"
+    },
+    {
+      "fp": "9rmopu",
+      "i": 4,
+      "from": 1860,
+      "subject": "ledge",
+      "entities": [],
+      "concept": "ledge",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "ledge"
+      },
+      "antidote": {
+        "concept": "ledge",
+        "set": null,
+        "cast": []
+      },
+      "_said": "And to really grasp how radical that is, you know, you have to look at the setup Nan gives us, she doesn't ease you into this world at all. No, she really doesn't. She drops you ri"
+    },
+    {
+      "fp": "1tbkelg",
+      "i": 5,
+      "from": 2450,
+      "subject": "Theodore Finch — ledge",
+      "entities": [
+        "finch"
+      ],
+      "concept": "ledge",
+      "place": "classroom",
+      "confidence": 1,
+      "vox": {
+        "shot": "a lanky American teenage boy with dark messy hair, a black t-shirt and a battered jacket, restless, present day, Mr Black's US Geography room, wall map, desks in rows"
+      },
+      "antidote": {
+        "concept": "ledge",
+        "set": "classroom",
+        "cast": [
+          "finch"
+        ]
+      },
+      "_said": "Exactly. A 4-in ledge. And on one side you have Theodore Finch. He's known as the school freak Yeah. That's his label, right? And he's this kid who meticulously counts the days he "
+    },
+    {
+      "fp": "dsqdr9",
+      "i": 6,
+      "from": 2806,
+      "subject": "Violet Markey — ledge",
+      "entities": [
+        "violet"
+      ],
+      "concept": "ledge",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "an American teenage girl with long blonde hair, a cardigan over a school dress, holding herself carefully, present day"
+      },
+      "antidote": {
+        "concept": "ledge",
+        "set": null,
+        "cast": [
+          "violet"
+        ]
+      },
+      "_said": "And he is deeply like intimately acquainted with suicidal ideiation. He isn't up there by accident. You know, he planned it. But then on the other side of that same freezing ledge,"
+    },
+    {
+      "fp": "e9w6ex",
+      "i": 7,
+      "from": 3178,
+      "subject": "Violet Markey — school",
+      "entities": [
+        "violet"
+      ],
+      "concept": "school",
+      "place": "classroom",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "an American teenage girl with long blonde hair, a cardigan over a school dress, holding herself carefully, present day, Mr Black's US Geography room, wall map, desks in rows"
+      },
+      "antidote": {
+        "concept": "school",
+        "set": "classroom",
+        "cast": [
+          "violet"
+        ]
+      },
+      "_said": "Exactly. The cheerleader, the popular girl. But she is up there because she survived this horrific car crash that killed her sister Eleanor like 9 months And Violet is essentially "
+    },
+    {
+      "fp": "1hs3zxc",
+      "i": 8,
+      "from": 3564,
+      "subject": "grave",
+      "entities": [],
+      "concept": "grave",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "grave"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": null,
+        "cast": []
+      },
+      "_said": "She is desperately trying to just assick her own life. So right away, I mean, the stakes are literal life and death. Completely literal. And as we untangle this entire story today,"
+    },
+    {
+      "fp": "1j507b5",
+      "i": 9,
+      "from": 3970,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "war"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "The phrase that pays. Yes. The danger of the label. Because this whole story is a relentless war against categorizing people just to make ourselves comfortable."
+    },
+    {
+      "fp": "a0u2c8",
+      "i": 10,
+      "from": 4301,
+      "subject": "ledge",
+      "entities": [],
+      "concept": "ledge",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "ledge"
+      },
+      "antidote": {
+        "concept": "ledge",
+        "set": null,
+        "cast": []
+      },
+      "_said": "Well, because the tragedy occurs because people refuse to see the actual person underneath the diagnosis, you know, or underneath the high school stereotype. So, let's put ourselve"
+    },
+    {
+      "fp": "xqjs72",
+      "i": 11,
+      "from": 4730,
+      "subject": "Violet Markey — storm",
+      "entities": [
+        "violet"
+      ],
+      "concept": "storm",
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "an American teenage girl with long blonde hair, a cardigan over a school dress, holding herself carefully, present day, holding her booth"
+      },
+      "antidote": {
+        "concept": "storm",
+        "set": null,
+        "cast": [
+          "violet"
+        ]
+      },
+      "_said": "Let's look at that opening trap picture. It's January. The wind is just whipping around up there. Oh, it sounds miserable. It is. It's blowing violet skirt like a parachute. She is"
+    },
+    {
+      "fp": "uovivi",
+      "i": 12,
+      "from": 5287,
+      "subject": "Theodore Finch — ledge",
+      "entities": [
+        "finch"
+      ],
+      "concept": "ledge",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "a lanky American teenage boy with dark messy hair, a black t-shirt and a battered jacket, restless, present day"
+      },
+      "antidote": {
+        "concept": "ledge",
+        "set": null,
+        "cast": [
+          "finch"
+        ]
+      },
+      "_said": "She literally physically cannot move. Right. And then there's Finch. He's out there on the ledge, too, but his arms are outstretched, and he's basically mocking a sermon to the stu"
+    },
+    {
+      "fp": "xbvs5d",
+      "i": 13,
+      "from": 5642,
+      "subject": "Violet Markey — grave",
+      "entities": [
+        "violet"
+      ],
+      "concept": "grave",
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "an American teenage girl with long blonde hair, a cardigan over a school dress, holding herself carefully, present day"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": null,
+        "cast": [
+          "violet"
+        ]
+      },
+      "_said": "It really is. But the moment he realizes Violet is terrified and stuck, something fascinating happens. He suddenly has to put aside his own death. He just pivots. Exactly. He metic"
+    },
+    {
+      "fp": "1toqcux",
+      "i": 14,
+      "from": 6242,
+      "subject": "storm",
+      "entities": [],
+      "concept": "storm",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "storm"
+      },
+      "antidote": {
+        "concept": "storm",
+        "set": null,
+        "cast": []
+      },
+      "_said": "I think it's like, \"Take it from me, the worst thing you can do is look down.\" Yeah, that's the line. And he counts her off. He tells her exactly where to place her freezing feet. "
+    },
+    {
+      "fp": "apkw83",
+      "i": 15,
+      "from": 6686,
+      "subject": "ledge",
+      "entities": [],
+      "concept": "ledge",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "ledge"
+      },
+      "antidote": {
+        "concept": "ledge",
+        "set": null,
+        "cast": []
+      },
+      "_said": "She completely inverts it. Right. She inverts who is fragile and who is the savior. You expect the golden girl to be the one with everything put together, right? Like maybe talking"
+    },
+    {
+      "fp": "p3if6y",
+      "i": 16,
+      "from": 7051,
+      "subject": "wallet",
+      "entities": [],
+      "concept": "wallet",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "wallet"
+      },
+      "antidote": {
+        "concept": "wallet",
+        "cast": []
+      },
+      "_said": "Yeah, but instead the outcast is the only one with the composure to save her life in that moment. And she reinforces that trap immediately like right when you look at the crowd gat"
+    },
+    {
+      "fp": "ed9ex3",
+      "i": 17,
+      "from": 7418,
+      "subject": "Theodore Finch and Violet Markey and Amanda Monk — school",
+      "entities": [
+        "finch",
+        "violet",
+        "amanda"
+      ],
+      "concept": "school",
+      "place": "classroom",
+      "confidence": 1,
+      "vox": {
+        "shot": "a lanky American teenage boy with dark messy hair, a black t-shirt and a battered jacket, restless, present day and an American teenage girl with long blonde hair, a cardigan over a school dress, holding herself carefully, present day, Mr Black's US Geography room, wall map, desks in rows"
+      },
+      "antidote": {
+        "concept": "school",
+        "set": "classroom",
+        "cast": [
+          "finch",
+          "violet",
+          "amanda"
+        ]
+      },
+      "_said": "I mean, you have the school bullies down there, Amanda Monk and Gabe Romero, who goes by ROR, right? And when Finch and Violet finally get down from the tower and back inside, the "
+    },
+    {
+      "fp": "1ircakd",
+      "i": 18,
+      "from": 7841,
+      "subject": "Theodore Finch and Violet Markey — ledge",
+      "entities": [
+        "finch",
+        "violet"
+      ],
+      "concept": "ledge",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "a lanky American teenage boy with dark messy hair, a black t-shirt and a battered jacket, restless, present day and an American teenage girl with long blonde hair, a cardigan over a school dress, holding herself carefully, present day, read that scene and it is just it's infuriat"
+      },
+      "antidote": {
+        "concept": "ledge",
+        "set": null,
+        "cast": [
+          "finch",
+          "violet"
+        ]
+      },
+      "_said": "Yes, they applaud Violet as the hero. They automatically just unquestioningly assumed that Theodore Freak was trying to jump and the Golden Girl swooped in and saved him. You read "
+    },
+    {
+      "fp": "sqja3v",
+      "i": 19,
+      "from": 8390,
+      "subject": "lightbulb",
+      "entities": [],
+      "concept": "lightbulb",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "lightbulb, watched it backwards"
+      },
+      "antidote": {
+        "concept": "lightbulb",
+        "cast": []
+      },
+      "_said": "what was actually happening right above their They literally watched it backwards. Exactly. Just pure ignorance. Well, wait. I want to push back on the idea that they are just blin"
+    },
+    {
+      "fp": "szbc9d",
+      "i": 20,
+      "from": 8758,
+      "subject": "shield",
+      "entities": [],
+      "concept": "shield",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "shield"
+      },
+      "antidote": {
+        "concept": "shield",
+        "cast": []
+      },
+      "_said": "I really don't think it's mere ignorance. What we are witnessing on the ground is a desperate psychological need to protect a fragile social ecosystem. What do you mean like a coll"
+    },
+    {
+      "fp": "1i0b9uv",
+      "i": 21,
+      "from": 9247,
+      "subject": "Violet Markey — ledge",
+      "entities": [
+        "violet"
+      ],
+      "concept": "ledge",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "an American teenage girl with long blonde hair, a cardigan over a school dress, holding herself carefully, present day, standing on a ledge in her tights in the freezin"
+      },
+      "antidote": {
+        "concept": "ledge",
+        "set": null,
+        "cast": [
+          "violet"
+        ]
+      },
+      "_said": "I mean, think about what a suicidal violet represents to that school. It breaks their entire reality. Oh, I see where you're going. Right. If the beautiful, popular cheerleader wit"
+    },
+    {
+      "fp": "21zay1",
+      "i": 22,
+      "from": 9821,
+      "subject": "Theodore Finch — school",
+      "entities": [
+        "finch"
+      ],
+      "concept": "school",
+      "place": "classroom",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "a lanky American teenage boy with dark messy hair, a black t-shirt and a battered jacket, restless, present day, Mr Black's US Geography room, wall map, desks in rows"
+      },
+      "antidote": {
+        "concept": "school",
+        "set": "classroom",
+        "cast": [
+          "finch"
+        ]
+      },
+      "_said": "Then the high school social hierarchy means absolutely nothing. Wow. It means nobody is safe. The crowd needs the label to survive. They need Finch to be the crazy one because that"
+    },
+    {
+      "fp": "1os72g4",
+      "i": 23,
+      "from": 10368,
+      "subject": "butterfly",
+      "entities": [],
+      "concept": "butterfly",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "butterfly"
+      },
+      "antidote": {
+        "concept": "butterfly",
+        "set": null,
+        "cast": []
+      },
+      "_said": "But if the Golden Girl is suicidal, chaos reigns. Their brains literally won't allow them to process what they are seeing. Oh, that is so insidious. They force the narrative to fit"
+    },
+    {
+      "fp": "1bz0haz",
+      "i": 24,
+      "from": 10716,
+      "subject": "Violet Markey — school",
+      "entities": [
+        "violet"
+      ],
+      "concept": "school",
+      "place": "classroom",
+      "confidence": 1,
+      "vox": {
+        "shot": "an American teenage girl with long blonde hair, a cardigan over a school dress, holding herself carefully, present day, Mr Black's US Geography room, wall map, desks in rows"
+      },
+      "antidote": {
+        "concept": "school",
+        "set": "classroom",
+        "cast": [
+          "violet"
+        ]
+      },
+      "_said": "It's the first major test of what we're talking about today. Yeah. You have to actively try to see the complex human being before you apply the label. Because if you don't, you mis"
+    },
+    {
+      "fp": "1j0mud7",
+      "i": 25,
+      "from": 11158,
+      "subject": "Theodore Finch",
+      "entities": [
+        "finch"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "a lanky American teenage boy with dark messy hair, a black t-shirt and a battered jacket, restless, present day"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "finch"
+        ]
+      },
+      "_said": "and nobody on the ground recognized she was in danger because she didn't fit their visual of what danger looks like. And that failure to see beyond the surface. Well, it transition"
+    },
+    {
+      "fp": "ocoiy8",
+      "i": 26,
+      "from": 11738,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "We have to look at how he measures his life. He categorizes his time strictly into periods of being awake and Right? Right. And it's jarring how casually it's presented to the read"
+    },
+    {
+      "fp": "1dw1f7s",
+      "i": 27,
+      "from": 12077,
+      "subject": "Theodore Finch — alarmClock",
+      "entities": [
+        "finch"
+      ],
+      "concept": "alarmClock",
+      "place": "bedroom",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "a lanky American teenage boy with dark messy hair, a black t-shirt and a battered jacket, restless, present day, Finch's room with the wall of Post-it notes he rearranges at night"
+      },
+      "antidote": {
+        "concept": "alarmClock",
+        "set": "bedroom",
+        "cast": [
+          "finch"
+        ]
+      },
+      "_said": "Like we see Finch at the supper table passing green beans with his family or lying in bed at night with his brain just racing. And he asks himself this terrifyingly calm question. "
+    },
+    {
+      "fp": "muf71",
+      "i": 28,
+      "from": 12420,
+      "subject": "alarmClock",
+      "entities": [],
+      "concept": "alarmClock",
+      "place": "bedroom",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "alarm clock, Finch's room with the wall of Post-it notes he rearranges at night"
+      },
+      "antidote": {
+        "concept": "alarmClock",
+        "set": "bedroom",
+        "cast": []
+      },
+      "_said": "Yes. Is today a good day to die? He talks about waking up from a sleep that lasted through Thanksgiving, Christmas, and New Year's. And when he wakes up, he feels completely empty,"
+    },
+    {
+      "fp": "1r1dfnp",
+      "i": 29,
+      "from": 12782,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "It's so visceral. Yeah. And notice how he documents it. He numbers his days. Day six of The Awake. Yeah. And for you listening, it's crucial to understand that this counting isn't "
+    },
+    {
+      "fp": "14mxl3c",
+      "i": 30,
+      "from": 13193,
+      "subject": "medical",
+      "entities": [],
+      "concept": "medical",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "medical"
+      },
+      "antidote": {
+        "concept": "medical",
+        "set": null,
+        "cast": []
+      },
+      "_said": "It is the book externalizing an illness that he is never officially allowed to name in the text. I mean, Nan never gives us a neat psychiatric diagnosis printed on the page for the"
+    },
+    {
+      "fp": "a6m2if",
+      "i": 31,
+      "from": 13630,
+      "subject": "Theodore Finch — school",
+      "entities": [
+        "finch"
+      ],
+      "concept": "school",
+      "place": "classroom",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "a lanky American teenage boy with dark messy hair, a black t-shirt and a battered jacket, restless, present day, Mr Black's US Geography room, wall map, desks in rows"
+      },
+      "antidote": {
+        "concept": "school",
+        "set": "classroom",
+        "cast": [
+          "finch"
+        ]
+      },
+      "_said": "Me, too. Because without a clinical name, we are forced to just experience the symptoms alongside him. And to cope with those symptoms, he cycles through all these wild personas to"
+    },
+    {
+      "fp": "mf6gyt",
+      "i": 32,
+      "from": 14218,
+      "subject": "Theodore Finch — notes",
+      "entities": [
+        "finch"
+      ],
+      "concept": "notes",
+      "place": "bedroom",
+      "confidence": 1,
+      "vox": {
+        "shot": "a lanky American teenage boy with dark messy hair, a black t-shirt and a battered jacket, restless, present day, Finch's room with the wall of Post-it notes he rearranges at night"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": "bedroom",
+        "cast": [
+          "finch"
+        ]
+      },
+      "_said": "or '8s Finch. He even has his bedroom wall covered in categorized Post-it notes, right? A wall of thoughts to anchor his mind. Now, I have to say when you initially read this, it c"
+    },
+    {
+      "fp": "glsjlk",
+      "i": 33,
+      "from": 14657,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "On a first read, Yeah. it feels like a kid who is just a bit of a chameleon, playfully trying on hats to see who he wants to be today. I have to reject that completely. I mean, it "
+    },
+    {
+      "fp": "w6qeej",
+      "i": 34,
+      "from": 15170,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Okay. For anyone listening who isn't familiar with that term, what exactly does depersonalization look like clinically? Why is his brain doing that? Well, depersonalization is a ps"
+    },
+    {
+      "fp": "gue2x9",
+      "i": 35,
+      "from": 15715,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Oh, wow. Yeah. Your sense of identity fractures. When a brain is undergoing extreme trauma or overwhelming depressive episodes, it sometimes disconnects from reality as a survival "
+    },
+    {
+      "fp": "1n4w61z",
+      "i": 36,
+      "from": 16070,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "notes, writes in his notes"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": []
+      },
+      "_said": "That sounds exhausting. It is. It is a kid desperately trying to find a version of himself that can physically survive the day. I mean, he writes in his notes, \"Which of the myths "
+    },
+    {
+      "fp": "lgn12c",
+      "i": 37,
+      "from": 16450,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "notes"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": []
+      },
+      "_said": "That is the internal monologue of someone whose core identity is dissolving. The illness is actively stripping away his sense of a continuous, cohesive self. That makes the Post-it"
+    },
+    {
+      "fp": "ejsyeo",
+      "i": 38,
+      "from": 16836,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": "bedroom",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "notes, hold on to reality for him, Finch's room with the wall of Post-it notes he rearranges at night"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": "bedroom",
+        "cast": []
+      },
+      "_said": "Exactly. The Post-it notes aren't a quirky interior design choice for a teenager's bedroom. They are a physical tether to reality. Right. Because his brain won't hold on to reality"
+    },
+    {
+      "fp": "tw763l",
+      "i": 39,
+      "from": 17321,
+      "subject": "storm",
+      "entities": [],
+      "concept": "storm",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "storm"
+      },
+      "antidote": {
+        "concept": "storm",
+        "set": null,
+        "cast": []
+      },
+      "_said": "And he literally shreds words like winter, ice, freak. He's manually destroying the bad labels, right? He is manually, exhaustingly trying to construct a functional human being on "
+    },
+    {
+      "fp": "13j3i6l",
+      "i": 40,
+      "from": 17878,
+      "subject": "water",
+      "entities": [],
+      "concept": "water",
+      "place": "classroom",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "water, Mr Black's US Geography room, wall map, desks in rows"
+      },
+      "antidote": {
+        "concept": "water",
+        "set": "classroom",
+        "cast": []
+      },
+      "_said": "badly the school fails him. They fail him completely because if you look at him in the hallway and you only see the slacker or the freak costume, you entirely miss the boy drowning"
+    },
+    {
+      "fp": "jn4cyo",
+      "i": 41,
+      "from": 18449,
+      "subject": "Theodore Finch — school",
+      "entities": [
+        "finch"
+      ],
+      "concept": "school",
+      "place": "bedroom",
+      "confidence": 1,
+      "vox": {
+        "shot": "a lanky American teenage boy with dark messy hair, a black t-shirt and a battered jacket, restless, present day, Finch's room with the wall of Post-it notes he rearranges at night"
+      },
+      "antidote": {
+        "concept": "school",
+        "set": "bedroom",
+        "cast": [
+          "finch"
+        ]
+      },
+      "_said": "Wonder Indiana project. Yes. Because what Finch is doing on his bedroom wall, he eventually tries to do out in the real world. Right. Let's put ourselves in Mr. Black's US Geograph"
+    },
+    {
+      "fp": "2odid2",
+      "i": 42,
+      "from": 18979,
+      "subject": "Theodore Finch and Violet Markey",
+      "entities": [
+        "finch",
+        "violet"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "a lanky American teenage boy with dark messy hair, a black t-shirt and a battered jacket, restless, present day and an American teenage girl with long blonde hair, a cardigan over a school dress, holding herself carefully, present day"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "finch",
+          "violet"
+        ]
+      },
+      "_said": "of Indiana and reporting back. Just a totally mundane syllabus reading. Exactly. And right in the middle of it, Violet drops all her pencils and books. She is completely overwhelme"
+    },
+    {
+      "fp": "570vkw",
+      "i": 43,
+      "from": 19577,
+      "subject": "school",
+      "entities": [],
+      "concept": "school",
+      "place": "classroom",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "school, Mr Black's US Geography room, wall map, desks in rows"
+      },
+      "antidote": {
+        "concept": "school",
+        "set": "classroom",
+        "cast": []
+      },
+      "_said": "and sends his books flying across the room like a boomerang just to draw the attention and the teacher's mockery onto himself. Yes. It's an act of profound hypervigilant empathy. H"
+    },
+    {
+      "fp": "wwg1se",
+      "i": 44,
+      "from": 20052,
+      "subject": "road",
+      "entities": [],
+      "concept": "road",
+      "place": "highway",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "road, Indiana two-lane roads between wandering sites, flat fields either side"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": "highway",
+        "cast": []
+      },
+      "_said": "But let's look closer at the assignment that forces them together. The Wander Indiana project takes Finch's internal emotional state and turns it into physical It acts as an argume"
+    },
+    {
+      "fp": "1og4f14",
+      "i": 45,
+      "from": 20522,
+      "subject": "water",
+      "entities": [],
+      "concept": "water",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "water"
+      },
+      "antidote": {
+        "concept": "water",
+        "set": null,
+        "cast": []
+      },
+      "_said": "I mean, look at where they actually go. They don't go to the Grand Canyon. No, their first stop is Who's Your Hill, the highest elevation point in Indiana, which is what, 1,000 ft "
+    },
+    {
+      "fp": "g7lgot",
+      "i": 46,
+      "from": 20880,
+      "subject": "Theodore Finch — notes",
+      "entities": [
+        "finch"
+      ],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "a lanky American teenage boy with dark messy hair, a black t-shirt and a battered jacket, restless, present day"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": [
+          "finch"
+        ]
+      },
+      "_said": "And when they finally get there, Finch notes, it is literally just a patch of dirt and a wooden bench. He flat out calls it the ugliest place I've ever But then you contrast that d"
+    },
+    {
+      "fp": "1gksrlr",
+      "i": 47,
+      "from": 21259,
+      "subject": "Theodore Finch — notes",
+      "entities": [
+        "finch"
+      ],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "a lanky American teenage boy with dark messy hair, a black t-shirt and a battered jacket, restless, present day, writes and kiss violent marky"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": [
+          "finch"
+        ]
+      },
+      "_said": "Oh, the chalkboard wall. Yes. It has this giant chalkboard wall painted with the words, \"Before I die, I want to.\" And people from all over are supposed to fill in the blanks. That"
+    },
+    {
+      "fp": "1l5ydwp",
+      "i": 48,
+      "from": 21804,
+      "subject": "road",
+      "entities": [],
+      "concept": "road",
+      "place": "highway",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "road, Indiana two-lane roads between wandering sites, flat fields either side"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": "highway",
+        "cast": []
+      },
+      "_said": "into a bright place through sheer romantic audacity. Exactly. So in a way, the wandering is the cure. You think it's a cure? Well, yeah. It gives him purpose. It gets him out of hi"
+    },
+    {
+      "fp": "18na0z1",
+      "i": 49,
+      "from": 22169,
+      "subject": "Theodore Finch and Violet Markey — phone",
+      "entities": [
+        "finch",
+        "violet"
+      ],
+      "concept": "phone",
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "a lanky American teenage boy with dark messy hair, a black t-shirt and a battered jacket, restless, present day and an American teenage girl with long blonde hair, a cardigan over a school dress, holding herself carefully, present day"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": null,
+        "cast": [
+          "finch",
+          "violet"
+        ]
+      },
+      "_said": "It gives him a mission with Violet. It gets him engaged with the world again. I want you to look closer at the text during that who's your hill scene because I don't think it's a c"
+    },
+    {
+      "fp": "stw393",
+      "i": 50,
+      "from": 22601,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "notes, writing this place in my head"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": []
+      },
+      "_said": "He thinks to himself, \"10 months ago, I would have stood here writing this place in my head. I would have thought up an entire backstory for the kids, something epic and exciting. "
+    },
+    {
+      "fp": "9lnkpt",
+      "i": 51,
+      "from": 23030,
+      "subject": "road",
+      "entities": [],
+      "concept": "road",
+      "place": "highway",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "road, Indiana two-lane roads between wandering sites, flat fields either side"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": "highway",
+        "cast": []
+      },
+      "_said": "He can't access the magic anymore. Precisely. The wandering is not a cure. It is a massive, exhausting, active effort to stay awake. He is actively trying to manufacture Yes, he is"
+    },
+    {
+      "fp": "1yowb3f",
+      "i": 52,
+      "from": 23561,
+      "subject": "Theodore Finch — star",
+      "entities": [
+        "finch"
+      ],
+      "concept": "star",
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "a lanky American teenage boy with dark messy hair, a black t-shirt and a battered jacket, restless, present day"
+      },
+      "antidote": {
+        "concept": "star",
+        "set": null,
+        "cast": [
+          "finch"
+        ]
+      },
+      "_said": "the dirt more and more It's like he's manually pumping his own That's a great way to put it. We take for granted that our brains just naturally process the world around us. Finch i"
+    },
+    {
+      "fp": "181fnnt",
+      "i": 53,
+      "from": 24127,
+      "subject": "Theodore Finch and Violet Markey — medical",
+      "entities": [
+        "finch",
+        "violet"
+      ],
+      "concept": "medical",
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "a lanky American teenage boy with dark messy hair, a black t-shirt and a battered jacket, restless, present day and an American teenage girl with long blonde hair, a cardigan over a school dress, holding herself carefully, present day"
+      },
+      "antidote": {
+        "concept": "medical",
+        "set": null,
+        "cast": [
+          "finch",
+          "violet"
+        ]
+      },
+      "_said": "Yes. But for Finch, it also requires seeing the world without the suffocating filter of his depression. Which is why his dynamic with Violet is so complex. Because while he is figh"
+    },
+    {
+      "fp": "fgx60a",
+      "i": 54,
+      "from": 24523,
+      "subject": "Violet Markey — notes",
+      "entities": [
+        "violet"
+      ],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "an American teenage girl with long blonde hair, a cardigan over a school dress, holding herself carefully, present day, writing or even just a paragraph for an assignm"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": [
+          "violet"
+        ]
+      },
+      "_said": "Her grief, right? Her grief operates as the perfect mirror image of his illness. We see her internal battles so clearly early on in Mrs. Mahon's class. The teacher sigh and hands V"
+    },
+    {
+      "fp": "7tbwum",
+      "i": 55,
+      "from": 24989,
+      "subject": "Violet Markey — school",
+      "entities": [
+        "violet"
+      ],
+      "concept": "school",
+      "place": "classroom",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "an American teenage girl with long blonde hair, a cardigan over a school dress, holding herself carefully, present day, sits the text explicitly calls out this unwr, Mr Black's US Geography room, wall map, desks in rows"
+      },
+      "antidote": {
+        "concept": "school",
+        "set": "classroom",
+        "cast": [
+          "violet"
+        ]
+      },
+      "_said": "And Violet simply refuses. She just sits The text explicitly calls out this unwritten rule book of life. How to react when a student loses a loved one and is 9 months later still h"
+    },
+    {
+      "fp": "1rzq98a",
+      "i": 56,
+      "from": 25411,
+      "subject": "crash",
+      "entities": [],
+      "concept": "crash",
+      "place": "highway",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "crash, Indiana two-lane roads between wandering sites, flat fields either side"
+      },
+      "antidote": {
+        "concept": "crash",
+        "set": "highway",
+        "cast": []
+      },
+      "_said": "Violet's grief mirrors Finch's depression because they both involve a distortion of time and reality because she survived the crash that killed her sister Eleanor on the A Street B"
+    },
+    {
+      "fp": "1a1epl0",
+      "i": 57,
+      "from": 25968,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "family"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": []
+      },
+      "_said": "Wait, unpack that mechanism for a second. Why does trauma make someone freeze time? Well, because for someone with profound survivors guilt, moving forward feels like a betrayal. O"
+    },
+    {
+      "fp": "ob98i1",
+      "i": 58,
+      "from": 26448,
+      "subject": "Theodore Finch",
+      "entities": [
+        "finch"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "a lanky American teenage boy with dark messy hair, a black t-shirt and a battered jacket, restless, present day, leaving eleanor further behind"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "finch"
+        ]
+      },
+      "_said": "If she moves forward, she is leaving Eleanor further behind. So her brain says, \"We just stop.\" And you see that in how they both measure time. We talked about Finch counting up da"
+    },
+    {
+      "fp": "1qf64wn",
+      "i": 59,
+      "from": 26866,
+      "subject": "Violet Markey — school",
+      "entities": [
+        "violet"
+      ],
+      "concept": "school",
+      "place": "classroom",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "an American teenage girl with long blonde hair, a cardigan over a school dress, holding herself carefully, present day, leave town, Mr Black's US Geography room, wall map, desks in rows"
+      },
+      "antidote": {
+        "concept": "school",
+        "set": "classroom",
+        "cast": [
+          "violet"
+        ]
+      },
+      "_said": "To build a streak of sanity. But Violet is counting down 154 days till graduation. She's trying to escape time to just delete the days until she can leave town. She stops riding in"
+    },
+    {
+      "fp": "1lp86sp",
+      "i": 60,
+      "from": 27257,
+      "subject": "school",
+      "entities": [],
+      "concept": "school",
+      "place": "classroom",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "school, Mr Black's US Geography room, wall map, desks in rows"
+      },
+      "antidote": {
+        "concept": "school",
+        "set": "classroom",
+        "cast": []
+      },
+      "_said": "She lets the website they built together, completely die until it just returns a server not found error. But let me play devil's advocate here. Okay, go ahead. You could argue this"
+    },
+    {
+      "fp": "173hmfm",
+      "i": 61,
+      "from": 27838,
+      "subject": "ledge",
+      "entities": [],
+      "concept": "ledge",
+      "place": "classroom",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "ledge, Mr Black's US Geography room, wall map, desks in rows"
+      },
+      "antidote": {
+        "concept": "ledge",
+        "set": "classroom",
+        "cast": []
+      },
+      "_said": "She just needs to process the denial phase of grief. On the surface, that's what the school thinks, but it is much darker than normal morning. You think so? I do. Her grief has mor"
+    },
+    {
+      "fp": "xrphrq",
+      "i": 62,
+      "from": 28392,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "family"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": []
+      },
+      "_said": "She wasn't up there to admire the January view. No, she is systematically erasing herself from a world that doesn't have her sister in it. She stops creating. She stops moving. She"
+    },
+    {
+      "fp": "1mr5qpu",
+      "i": 63,
+      "from": 28730,
+      "subject": "school",
+      "entities": [],
+      "concept": "school",
+      "place": "classroom",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "school, leave her completely alone to rot in it becau, Mr Black's US Geography room, wall map, desks in rows"
+      },
+      "antidote": {
+        "concept": "school",
+        "set": "classroom",
+        "cast": []
+      },
+      "_said": "And the school just lets her. They label her as the grieving sister. They put her in this delicate, fragile little box and they leave her completely alone to rot in it because that"
+    },
+    {
+      "fp": "hgbvvp",
+      "i": 64,
+      "from": 29095,
+      "subject": "school",
+      "entities": [],
+      "concept": "school",
+      "place": "classroom",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "school, Mr Black's US Geography room, wall map, desks in rows"
+      },
+      "antidote": {
+        "concept": "school",
+        "set": "classroom",
+        "cast": []
+      },
+      "_said": "Exactly. Grieving sister has a socially acceptable protocol. You give her extensions on homework. You speak to her in a soft voice. You don't push her. But that protocol almost kil"
+    },
+    {
+      "fp": "1mt7vm5",
+      "i": 65,
+      "from": 29671,
+      "subject": "Mr Embry — school",
+      "entities": [
+        "embry"
+      ],
+      "concept": "school",
+      "place": "classroom",
+      "confidence": 1,
+      "vox": {
+        "shot": "a short, thickset middle-aged American school counsellor in a rumpled shirt and tie, built like a bull, Mr Black's US Geography room, wall map, desks in rows"
+      },
+      "antidote": {
+        "concept": "school",
+        "set": "classroom",
+        "cast": [
+          "embry"
+        ]
+      },
+      "_said": "the massive systemic failure of adults in this book. Nan does not let the adults off the She absolutely blisters them. Let's drop into the school counselor's office. Mr. Oh, Embry."
+    },
+    {
+      "fp": "7junoj",
+      "i": 66,
+      "from": 30022,
+      "subject": "Theodore Finch and Mr Embry — law",
+      "entities": [
+        "finch",
+        "embry"
+      ],
+      "concept": "law",
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "a lanky American teenage boy with dark messy hair, a black t-shirt and a battered jacket, restless, present day and a short, thickset middle-aged American school counsellor in a rumpled shirt and tie, built like a bull, sits across from finch"
+      },
+      "antidote": {
+        "concept": "law",
+        "set": null,
+        "cast": [
+          "finch",
+          "embry"
+        ]
+      },
+      "_said": "The book describes Embry as short, thick, built like a bull. He sits across from Finch, leans over his desk, and bluntly asks if Finch is planning to harm himself. But it's his rea"
+    },
+    {
+      "fp": "15i0uor",
+      "i": 67,
+      "from": 30612,
+      "subject": "medical",
+      "entities": [],
+      "concept": "medical",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "medical"
+      },
+      "antidote": {
+        "concept": "medical",
+        "set": null,
+        "cast": []
+      },
+      "_said": "salary they pay me, believe me when I say I do not have the money to be sued.\" He explicitly ties a teenager's survival to his own financial liability. The book violently indictes "
+    },
+    {
+      "fp": "14j2ogx",
+      "i": 68,
+      "from": 31176,
+      "subject": "Theodore Finch — school",
+      "entities": [
+        "finch"
+      ],
+      "concept": "school",
+      "place": "classroom",
+      "confidence": 1,
+      "vox": {
+        "shot": "a lanky American teenage boy with dark messy hair, a black t-shirt and a battered jacket, restless, present day, sitting right in front of them, Mr Black's US Geography room, wall map, desks in rows"
+      },
+      "antidote": {
+        "concept": "school",
+        "set": "classroom",
+        "cast": [
+          "finch"
+        ]
+      },
+      "_said": "or a legal risk instead of a suffering kid sitting right in front of them. The school isn't trying to save Finch. They're trying to save their own budget. And that institutional se"
+    },
+    {
+      "fp": "1expuez",
+      "i": 69,
+      "from": 31510,
+      "subject": "Theodore Finch and Violet Markey — home",
+      "entities": [
+        "finch",
+        "violet"
+      ],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "a lanky American teenage boy with dark messy hair, a black t-shirt and a battered jacket, restless, present day and an American teenage girl with long blonde hair, a cardigan over a school dress, holding herself carefully, present day"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": [
+          "finch",
+          "violet"
+        ]
+      },
+      "_said": "Consider Violet's parents, right? The Marques. There's a scene where Finch brings Violet home late. Mr. and Mrs. Marky literally shut the door on him. Mr. Marky says the boy is tro"
+    },
+    {
+      "fp": "1lwm81u",
+      "i": 70,
+      "from": 31886,
+      "subject": "Theodore Finch — phone",
+      "entities": [
+        "finch"
+      ],
+      "concept": "phone",
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "a lanky American teenage boy with dark messy hair, a black t-shirt and a battered jacket, restless, present day"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": null,
+        "cast": [
+          "finch"
+        ]
+      },
+      "_said": "They see a threat to their recovering daughter. So, what do they do? They call Finch's mother, who immediately deflects and tells him to call Finch's father. But Finch only sees hi"
+    },
+    {
+      "fp": "1pc9ncj",
+      "i": 71,
+      "from": 32227,
+      "subject": "game",
+      "entities": [],
+      "concept": "game",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "game"
+      },
+      "antidote": {
+        "concept": "game",
+        "set": null,
+        "cast": []
+      },
+      "_said": "And the man has his own history of violence and neglect. It's an endless, devastating game of passing the buck. See, I place a huge amount of blame squarely on Mr. and Mrs. Marky t"
+    },
+    {
+      "fp": "dw0qfq",
+      "i": 72,
+      "from": 32561,
+      "subject": "Theodore Finch and Violet Markey — shield",
+      "entities": [
+        "finch",
+        "violet"
+      ],
+      "concept": "shield",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "a lanky American teenage boy with dark messy hair, a black t-shirt and a battered jacket, restless, present day and an American teenage girl with long blonde hair, a cardigan over a school dress, holding herself carefully, present day, reaching out by spending time with violet"
+      },
+      "antidote": {
+        "concept": "shield",
+        "cast": [
+          "finch",
+          "violet"
+        ]
+      },
+      "_said": "You really blame them the most. I do. When Finch needed a lifeline, when he was clearly spiraling and reaching out by spending time with Violet, they banished him. They protected t"
+    },
+    {
+      "fp": "w8sqnr",
+      "i": 73,
+      "from": 32916,
+      "subject": "Theodore Finch — school",
+      "entities": [
+        "finch"
+      ],
+      "concept": "school",
+      "place": "classroom",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "a lanky American teenage boy with dark messy hair, a black t-shirt and a battered jacket, restless, present day, Mr Black's US Geography room, wall map, desks in rows"
+      },
+      "antidote": {
+        "concept": "school",
+        "set": "classroom",
+        "cast": [
+          "finch"
+        ]
+      },
+      "_said": "The Marques are flawed, certainly, but it's crucial to see them as symptoms of the whole system, not just individual The institution protects itself. Look at how the high school re"
+    },
+    {
+      "fp": "1bx3rnl",
+      "i": 74,
+      "from": 33324,
+      "subject": "Theodore Finch — notes",
+      "entities": [
+        "finch"
+      ],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "a lanky American teenage boy with dark messy hair, a black t-shirt and a battered jacket, restless, present day, leave sticky notes saying"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": [
+          "finch"
+        ]
+      },
+      "_said": "They build a shrine in a glass case. Oh, that makes me so angry. They blow up his school picture and students leave sticky notes saying, \"Dear Finch, you are loved and missed.\" Whi"
+    },
+    {
+      "fp": "vhtwkn",
+      "i": 75,
+      "from": 33910,
+      "subject": "school",
+      "entities": [],
+      "concept": "school",
+      "place": "classroom",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "school, Mr Black's US Geography room, wall map, desks in rows"
+      },
+      "antidote": {
+        "concept": "school",
+        "set": "classroom",
+        "cast": []
+      },
+      "_said": "The institution protects itself in death just like it did in life. It sanitizes him by turning him into a beautiful unavoidable tragedy. The school doesn't have to reckon with its "
+    },
+    {
+      "fp": "1t9wtgn",
+      "i": 76,
+      "from": 34291,
+      "subject": "heart",
+      "entities": [],
+      "concept": "heart",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "heart"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": null,
+        "cast": []
+      },
+      "_said": "The adults in the systems are blind because they refuse the grueling uncomfortable work of seeing the person outside of the convenient boxes they've built for them. And speaking of"
+    },
+    {
+      "fp": "1ahsi8e",
+      "i": 77,
+      "from": 34778,
+      "subject": "heart",
+      "entities": [],
+      "concept": "heart",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "heart, reads young adult fiction or honestly just wa"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": null,
+        "cast": []
+      },
+      "_said": "Yes. Because this completely subverts what we expect from this kind of book. You're talking about the refusal of the love cures illness contract. I am. For anyone who reads young a"
+    },
+    {
+      "fp": "1p6ny9q",
+      "i": 78,
+      "from": 35232,
+      "subject": "medical",
+      "entities": [],
+      "concept": "medical",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "medical"
+      },
+      "antidote": {
+        "concept": "medical",
+        "set": null,
+        "cast": []
+      },
+      "_said": "I fix you, you fix me. Right? Our love conquers our trauma. If we just love each other enough, the mental illness will go away. Nan shatters that. She really does. Let me set the s"
+    },
+    {
+      "fp": "1g3ator",
+      "i": 79,
+      "from": 35630,
+      "subject": "home",
+      "entities": [],
+      "concept": "home",
+      "place": "bedroom",
+      "confidence": 0.6,
+      "vox": {
+        "shot": "home, Finch's room with the wall of Post-it notes he rearranges at night"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": "bedroom",
+        "cast": []
+      },
+      "_said": "We are in the closet in Finch's bedroom. The closet scene. Yeah. He has taken a comforter, pillows, a water jug, and energy bars, and he has literally barricaded himself inside the"
+    },
+    {
+      "fp": "15djx8",
+      "i": 80,
+      "from": 36166,
+      "subject": "Violet Markey — notes",
+      "entities": [
+        "violet"
+      ],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "an American teenage girl with long blonde hair, a cardigan over a school dress, holding herself carefully, present day, writes violet his life"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": [
+          "violet"
+        ]
+      },
+      "_said": "And Violet comes over and finds him there. He takes one of his post-its and writes Violet his life. They are together on the floor in this tiny dark space and she pulls off his shi"
+    },
+    {
+      "fp": "1xwu89j",
+      "i": 81,
+      "from": 36756,
+      "subject": "Theodore Finch and Violet Markey — road",
+      "entities": [
+        "finch",
+        "violet"
+      ],
+      "concept": "road",
+      "place": "highway",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "a lanky American teenage boy with dark messy hair, a black t-shirt and a battered jacket, restless, present day and an American teenage girl with long blonde hair, a cardigan over a school dress, holding herself carefully, present day, Indiana two-lane roads between wandering sites, flat fields either side"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": "highway",
+        "cast": [
+          "finch",
+          "violet"
+        ]
+      },
+      "_said": "And it's true that Finch genuinely lifts Violet back into life. Because of his wandering, because of his relentless push, he gets her to ride in cars again. She starts her new onli"
+    },
+    {
+      "fp": "1243k6u",
+      "i": 82,
+      "from": 37183,
+      "subject": "heart",
+      "entities": [],
+      "concept": "heart",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "heart"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": null,
+        "cast": []
+      },
+      "_said": "He objectively saves her life. But Nan breaks the cardinal rule here. Love does not cure his illness in return. The reciprocity we expect is completely denied. You see the tragedy "
+    },
+    {
+      "fp": "1o22rsk",
+      "i": 83,
+      "from": 37606,
+      "subject": "Theodore Finch and Violet Markey — family",
+      "entities": [
+        "finch",
+        "violet"
+      ],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "a lanky American teenage boy with dark messy hair, a black t-shirt and a battered jacket, restless, present day and an American teenage girl with long blonde hair, a cardigan over a school dress, holding herself carefully, present day"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": [
+          "finch",
+          "violet"
+        ]
+      },
+      "_said": "Violet is pleading with him, asking if the odds of her parents forgiving him are good, trying to plan a future. And Finch types back, I'm lying here wishing I could count us backwa"
+    },
+    {
+      "fp": "4hqcto",
+      "i": 84,
+      "from": 37973,
+      "subject": "heart",
+      "entities": [],
+      "concept": "heart",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "heart"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": null,
+        "cast": []
+      },
+      "_said": "I am a person. He is begging to be seen and he loves her deeply, but the illness is a physical terminal thing that is pulling him under regardless of how much love is in the room. "
+    },
+    {
+      "fp": "17re1ze",
+      "i": 85,
+      "from": 38448,
+      "subject": "Theodore Finch and Violet Markey — heart",
+      "entities": [
+        "finch",
+        "violet"
+      ],
+      "concept": "heart",
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "a lanky American teenage boy with dark messy hair, a black t-shirt and a battered jacket, restless, present day and an American teenage girl with long blonde hair, a cardigan over a school dress, holding herself carefully, present day, reached day 80"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": null,
+        "cast": [
+          "finch",
+          "violet"
+        ]
+      },
+      "_said": "She did save him for a little while. Did she? Yes. Because of Violet Finch reached day 80, a mouth # add ring world record of being awake. That wasn't nothing. Love gave him 80 day"
+    },
+    {
+      "fp": "fi8j6a",
+      "i": 86,
+      "from": 38892,
+      "subject": "heart",
+      "entities": [],
+      "concept": "heart",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "heart, hold firm on the love delayed the end"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": null,
+        "cast": []
+      },
+      "_said": "And I will concede that the brightness they shared was real. It was visceral and true. But we have to hold firm on the Love delayed the end. It managed the symptoms for a time, but"
+    },
+    {
+      "fp": "16mhapf",
+      "i": 87,
+      "from": 39442,
+      "subject": "medical",
+      "entities": [],
+      "concept": "medical",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "medical"
+      },
+      "antidote": {
+        "concept": "medical",
+        "set": null,
+        "cast": []
+      },
+      "_said": "is that you can have a perfect pure love and a terminal mental illness at the exact same time. One does not magically cancel out the Wow, that is a devastating truth."
+    },
+    {
+      "fp": "h0kk3",
+      "i": 88,
+      "from": 39775,
+      "subject": "Theodore Finch and Violet Markey — storm",
+      "entities": [
+        "finch",
+        "violet"
+      ],
+      "concept": "storm",
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "a lanky American teenage boy with dark messy hair, a black t-shirt and a battered jacket, restless, present day and an American teenage girl with long blonde hair, a cardigan over a school dress, holding herself carefully, present day"
+      },
+      "antidote": {
+        "concept": "storm",
+        "set": null,
+        "cast": [
+          "finch",
+          "violet"
+        ]
+      },
+      "_said": "Violet couldn't love the illness out of him. No, she couldn't. She had to learn the absolute hardest lesson about seeing the person before the label, realizing that his darkness wa"
+    },
+    {
+      "fp": "zbnhfx",
+      "i": 89,
+      "from": 40320,
+      "subject": "Violet Markey — phone",
+      "entities": [
+        "violet"
+      ],
+      "concept": "phone",
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "an American teenage girl with long blonde hair, a cardigan over a school dress, holding herself carefully, present day, written in paint"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": null,
+        "cast": [
+          "violet"
+        ]
+      },
+      "_said": "authors his own vanishing. In March, Violet starts receiving these cryptic, terrifying texts. They're so unsettling. I am on the highest branch. We were written in paint. I believe"
+    },
+    {
+      "fp": "1gb8mrc",
+      "i": 90,
+      "from": 40651,
+      "subject": "water",
+      "entities": [],
+      "concept": "water",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "water, leaves behind are his final desperate act of r"
+      },
+      "antidote": {
+        "concept": "water",
+        "set": null,
+        "cast": []
+      },
+      "_said": "the glow of ultraviolet, a lake, a prayer. It's solely to be lovely and private, and then just silence. Finch's disappearance and those lyrical notes he leaves behind are his final"
+    },
+    {
+      "fp": "5hnkcb",
+      "i": 91,
+      "from": 41117,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "He refuses to be a victim of a clinical right? He doesn't want to be a statistic in Mr. Embryy's file cabinet. He becomes the author of his own vanishing, taking total control of t"
+    },
+    {
+      "fp": "1f9h5xh",
+      "i": 92,
+      "from": 41453,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "notes"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": []
+      },
+      "_said": "He scripts his exit so meticulously. Yeah. Even earlier in the book, he references a quote from Virginia Wolf's real life suicide note to her husband. I feel we can't go through an"
+    },
+    {
+      "fp": "1f2zqb4",
+      "i": 93,
+      "from": 41899,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "reading those final messages"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "And you have to admit, reading those final messages, they are incredibly poetic. They are haunting and deeply, deeply I'm going to put a hard stop right We have to ask a really unc"
+    },
+    {
+      "fp": "1j0vqyc",
+      "i": 94,
+      "from": 42266,
+      "subject": "water",
+      "entities": [],
+      "concept": "water",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "water"
+      },
+      "antidote": {
+        "concept": "water",
+        "set": null,
+        "cast": []
+      },
+      "_said": "Is it beautiful or is it a tragic mask? What do you mean how is it a mask? I mean that the lyricism hides the brutal, ugly reality of a teenage boy drowning in a freezing lake alon"
+    },
+    {
+      "fp": "o6196d",
+      "i": 95,
+      "from": 42653,
+      "subject": "Violet Markey",
+      "entities": [
+        "violet"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "an American teenage girl with long blonde hair, a cardigan over a school dress, holding herself carefully, present day"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "violet"
+        ]
+      },
+      "_said": "We have to wrestle with whether this poetry honors his beautiful mind or if it softens a horrifying reality so we and Violet don't have to look at the sheer ugliness of the disease"
+    },
+    {
+      "fp": "1douwxx",
+      "i": 96,
+      "from": 43205,
+      "subject": "road",
+      "entities": [],
+      "concept": "road",
+      "place": "highway",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "road, leaves the living to decipher the text he left, Indiana two-lane roads between wandering sites, flat fields either side"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": "highway",
+        "cast": []
+      },
+      "_said": "the artist, the wanderer, the person. before we apply the label of suicide. He doesn't want to be reduced to the act that ended his life. He wants to be lovely and private. And tha"
+    },
+    {
+      "fp": "1j5is0o",
+      "i": 97,
+      "from": 43781,
+      "subject": "Violet Markey — water",
+      "entities": [
+        "violet"
+      ],
+      "concept": "water",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "an American teenage girl with long blonde hair, a cardigan over a school dress, holding herself carefully, present day, climb down to the dried up riverbed where ele"
+      },
+      "antidote": {
+        "concept": "water",
+        "set": null,
+        "cast": [
+          "violet"
+        ]
+      },
+      "_said": "Violet and her parents go out to the A Street Bridge and they climb down to the dried up riverbed where Eleanor died. Now, what did she find? Embedded in the dirt down there is a l"
+    },
+    {
+      "fp": "6tyu3d",
+      "i": 98,
+      "from": 44134,
+      "subject": "Theodore Finch and Violet Markey — road",
+      "entities": [
+        "finch",
+        "violet"
+      ],
+      "concept": "road",
+      "place": "highway",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "a lanky American teenage boy with dark messy hair, a black t-shirt and a battered jacket, restless, present day and an American teenage girl with long blonde hair, a cardigan over a school dress, holding herself carefully, present day, Indiana two-lane roads between wandering sites, flat fields either side"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": "highway",
+        "cast": [
+          "finch",
+          "violet"
+        ]
+      },
+      "_said": "Finch planted it for Eleanor. The book's final resounding claim is that the dead keep teaching the living to notice the world. The ending hands the map and the wandering entirely t"
+    },
+    {
+      "fp": "110rvbv",
+      "i": 99,
+      "from": 44570,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "notes, walks through these strange grotto made of sp"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": []
+      },
+      "_said": "She walks through these strange grotto made of sponge rock and crystals. And then she does something so powerful. She climbs the steel posts of the giant Pyina sign with a can of r"
+    },
+    {
+      "fp": "1tqm2bh",
+      "i": 100,
+      "from": 45180,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "read it"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Why do you think she does that? Because honestly, when I first read it, I felt it was ultimately a tragic ending. Really? You thought it was tragic? Yeah, I did. She is left all al"
+    },
+    {
+      "fp": "espp8v",
+      "i": 101,
+      "from": 45593,
+      "subject": "Violet Markey — ledge",
+      "entities": [
+        "violet"
+      ],
+      "concept": "ledge",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "an American teenage girl with long blonde hair, a cardigan over a school dress, holding herself carefully, present day"
+      },
+      "antidote": {
+        "concept": "ledge",
+        "set": null,
+        "cast": [
+          "violet"
+        ]
+      },
+      "_said": "She's just echoing a dead boy because she doesn't know what else to do. I radically disagree with that reading. It is a triumphant ending. Yes. Think about where Violet started. Sh"
+    },
+    {
+      "fp": "jcmpss",
+      "i": 102,
+      "from": 45965,
+      "subject": "road",
+      "entities": [],
+      "concept": "road",
+      "place": "highway",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "road, leaving her mark on a steel sign, Indiana two-lane roads between wandering sites, flat fields either side"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": "highway",
+        "cast": []
+      },
+      "_said": "Now she is no longer counting down. She is fully awake. She is in the present tense out in the world actively leaving her mark on a steel sign. The wandering saved her. She isn't j"
+    },
+    {
+      "fp": "w4c1tz",
+      "i": 103,
+      "from": 46308,
+      "subject": "road",
+      "entities": [],
+      "concept": "road",
+      "place": "highway",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "road, Indiana two-lane roads between wandering sites, flat fields either side"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": "highway",
+        "cast": []
+      },
+      "_said": "She is answering So she finishes the map because she finally mastered the art of looking past the surface. Yes. And seeing the beauty in the ruins. She learned how to find the brig"
+    },
+    {
+      "fp": "3igej4",
+      "i": 104,
+      "from": 46896,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "have to address the elephant in the room. The criticism. Yeah. There is a very real, very honest criticism of this book that we need to Let's hear it. Does All the Bright Places ed"
+    },
+    {
+      "fp": "jep116",
+      "i": 105,
+      "from": 47381,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "phone"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": null,
+        "cast": []
+      },
+      "_said": "That is a tough question. For those listening who might not know the literary term, there is a trope called the manic pixie dream girl, It's usually a quirky, spontaneous female ch"
+    },
+    {
+      "fp": "1ifuhlw",
+      "i": 106,
+      "from": 47957,
+      "subject": "Theodore Finch — notes",
+      "entities": [
+        "finch"
+      ],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "a lanky American teenage boy with dark messy hair, a black t-shirt and a battered jacket, restless, present day, leaving lovely lyrical notes"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": [
+          "finch"
+        ]
+      },
+      "_said": "So people argue Finch is just a gender flipped manic pixie dream girl. Exactly. He swoops in. He's eccentric. He plays guitar. He quotes poetry. He breaks the rules. He teaches the"
+    },
+    {
+      "fp": "1ia7om8",
+      "i": 107,
+      "from": 48418,
+      "subject": "road",
+      "entities": [],
+      "concept": "road",
+      "place": "highway",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "road, Indiana two-lane roads between wandering sites, flat fields either side"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": "highway",
+        "cast": []
+      },
+      "_said": "Does he just exist for her character development? It is an incredibly valid necessary criticism to grapple with, especially when discussing young adult literature. You have to ackn"
+    },
+    {
+      "fp": "fbqxmt",
+      "i": 108,
+      "from": 49006,
+      "subject": "grave",
+      "entities": [],
+      "concept": "grave",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "grave"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": null,
+        "cast": []
+      },
+      "_said": "it might aestheticize his death for a vulnerable audience. It makes it look like a tragic, beautiful, cinematic fade to black rather than a catastrophic medical failure. Right. It "
+    },
+    {
+      "fp": "1kyd47e",
+      "i": 109,
+      "from": 49536,
+      "subject": "grave",
+      "entities": [],
+      "concept": "grave",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "grave"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": null,
+        "cast": []
+      },
+      "_said": "Honestly, I will defend Divven's choice here. If you look closely at the text, the book doesn't romanticize the death. It romanticizes the boy. Well, that's a crucial difference. I"
+    },
+    {
+      "fp": "11molsz",
+      "i": 110,
+      "from": 50069,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "war"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "We spent half the book inside his head fighting for survival. Exactly. The real tragedy that Nan exposes is that his beautiful poetic mind was precisely the fuel that the illness c"
+    },
+    {
+      "fp": "2jewdm",
+      "i": 111,
+      "from": 50424,
+      "subject": "ledge",
+      "entities": [],
+      "concept": "ledge",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "ledge"
+      },
+      "antidote": {
+        "concept": "ledge",
+        "set": null,
+        "cast": []
+      },
+      "_said": "The illness didn't make him deep. It killed the depth he already had. That distinction changes everything. It romanticizes the boy, not the death. So, if we pull all these threads "
+    },
+    {
+      "fp": "11gt2tz",
+      "i": 112,
+      "from": 51005,
+      "subject": "Theodore Finch and Violet Markey — gift",
+      "entities": [
+        "finch",
+        "violet"
+      ],
+      "concept": "gift",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "a lanky American teenage boy with dark messy hair, a black t-shirt and a battered jacket, restless, present day and an American teenage girl with long blonde hair, a cardigan over a school dress, holding herself carefully, present day"
+      },
+      "antidote": {
+        "concept": "gift",
+        "cast": [
+          "finch",
+          "violet"
+        ]
+      },
+      "_said": "of this story was never Finch fixing Violet or Violet failing to fix Finch. That reciprocity is a myth we need to let go of. The book is a training manual for empathy. It trains yo"
+    },
+    {
+      "fp": "ukexl",
+      "i": 113,
+      "from": 51406,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "It forces you to find the bright places in the ugly dirt. Whether that's on top of a muddy hill in Indiana or in the middle of your own grief. And it dares you to do it right now w"
+    },
+    {
+      "fp": "te6nff",
+      "i": 114,
+      "from": 51830,
+      "subject": "road",
+      "entities": [],
+      "concept": "road",
+      "place": "highway",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "road, carrying invisible weights that nobody wants, Indiana two-lane roads between wandering sites, flat fields either side"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": "highway",
+        "cast": []
+      },
+      "_said": "Really look at them. Who is the golden kid in your world carrying invisible weights that nobody wants to acknowledge? And who is the freak holding the map to the bright places? We "
+    }
+  ]
+}

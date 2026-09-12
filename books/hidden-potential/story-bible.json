@@ -1,0 +1,161 @@
+{
+  "slug": "hidden-potential",
+  "world": {
+    "era": "1944–2012",
+    "approxYear": 1996,
+    "setting": "",
+    "register": "",
+    "forbid": []
+  },
+  "cast": {
+    "character": {
+      "name": "Character",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 3
+    },
+    "melody": {
+      "name": "Melody",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 2
+    },
+    "mozart": {
+      "name": "Mozart",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 2
+    },
+    "martin": {
+      "name": "Martin",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 2
+    },
+    "talent": {
+      "name": "Talent",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 2
+    },
+    "scaffolding": {
+      "name": "Scaffolding",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 2
+    }
+  },
+  "places": {
+    "classroom": {
+      "set": "classroom",
+      "look": "",
+      "mentions": 2
+    },
+    "bedroom": {
+      "set": "bedroom",
+      "look": "",
+      "mentions": 1
+    },
+    "street": {
+      "set": "street",
+      "look": "",
+      "mentions": 1
+    }
+  },
+  "objects": [
+    {
+      "concept": "game",
+      "mentions": 21,
+      "why": ""
+    },
+    {
+      "concept": "school",
+      "mentions": 19,
+      "why": ""
+    },
+    {
+      "concept": "road",
+      "mentions": 18,
+      "why": ""
+    },
+    {
+      "concept": "phone",
+      "mentions": 10,
+      "why": ""
+    },
+    {
+      "concept": "notes",
+      "mentions": 10,
+      "why": ""
+    },
+    {
+      "concept": "lightbulb",
+      "mentions": 9,
+      "why": ""
+    },
+    {
+      "concept": "target",
+      "mentions": 9,
+      "why": ""
+    },
+    {
+      "concept": "family",
+      "mentions": 9,
+      "why": ""
+    },
+    {
+      "concept": "heart",
+      "mentions": 8,
+      "why": ""
+    },
+    {
+      "concept": "work",
+      "mentions": 8,
+      "why": ""
+    },
+    {
+      "concept": "summit",
+      "mentions": 8,
+      "why": ""
+    },
+    {
+      "concept": "trophy",
+      "mentions": 5,
+      "why": ""
+    }
+  ],
+  "spine": [
+    {
+      "act": "setup",
+      "fromFrame": 2,
+      "claim": ""
+    },
+    {
+      "act": "development",
+      "fromFrame": 17371,
+      "claim": ""
+    },
+    {
+      "act": "turn",
+      "fromFrame": 33497,
+      "claim": ""
+    },
+    {
+      "act": "consequence",
+      "fromFrame": 49382,
+      "claim": ""
+    },
+    {
+      "act": "close",
+      "fromFrame": 66113,
+      "claim": ""
+    }
+  ],
+  "authored": false
+}

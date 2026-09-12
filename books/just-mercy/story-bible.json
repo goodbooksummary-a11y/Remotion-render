@@ -1,0 +1,211 @@
+{
+  "slug": "just-mercy",
+  "world": {
+    "era": "1900–1989",
+    "approxYear": 1976,
+    "setting": "",
+    "register": "",
+    "forbid": [
+      "phone",
+      "codeWindow",
+      "laptopMockup",
+      "rocketLaunch",
+      "funnelMetrics",
+      "dollarExchange",
+      "subway",
+      "car",
+      "alarmClock",
+      "medical"
+    ]
+  },
+  "cast": {
+    "walter": {
+      "name": "Walter",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 9
+    },
+    "stevenson": {
+      "name": "Stevenson",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 4
+    },
+    "charlie": {
+      "name": "Charlie",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 3
+    },
+    "alabama": {
+      "name": "Alabama",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 2
+    },
+    "myers": {
+      "name": "Myers",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 2
+    },
+    "which": {
+      "name": "Which",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 2
+    },
+    "herbert": {
+      "name": "Herbert",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 2
+    },
+    "george": {
+      "name": "George",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 2
+    }
+  },
+  "places": {
+    "hospital": {
+      "set": "hospital",
+      "look": "",
+      "mentions": 1
+    },
+    "court": {
+      "set": "court",
+      "look": "",
+      "mentions": 1
+    }
+  },
+  "objects": [
+    {
+      "concept": "law",
+      "mentions": 53,
+      "why": ""
+    },
+    {
+      "concept": "grave",
+      "mentions": 24,
+      "why": ""
+    },
+    {
+      "concept": "phone",
+      "mentions": 10,
+      "why": ""
+    },
+    {
+      "concept": "chains",
+      "mentions": 8,
+      "why": ""
+    },
+    {
+      "concept": "family",
+      "mentions": 7,
+      "why": ""
+    },
+    {
+      "concept": "fire",
+      "mentions": 6,
+      "why": ""
+    },
+    {
+      "concept": "road",
+      "mentions": 6,
+      "why": ""
+    },
+    {
+      "concept": "lightbulb",
+      "mentions": 4,
+      "why": ""
+    },
+    {
+      "concept": "home",
+      "mentions": 4,
+      "why": ""
+    },
+    {
+      "concept": "target",
+      "mentions": 3,
+      "why": ""
+    },
+    {
+      "concept": "zap",
+      "mentions": 3,
+      "why": ""
+    },
+    {
+      "concept": "rocketLaunch",
+      "mentions": 3,
+      "why": ""
+    }
+  ],
+  "spine": [
+    {
+      "act": "Death Row Before Trial",
+      "fromFrame": 0,
+      "claim": ""
+    },
+    {
+      "act": "A Structural Indictment",
+      "fromFrame": 2640,
+      "claim": ""
+    },
+    {
+      "act": "Walter McMillian & Monroeville",
+      "fromFrame": 7980,
+      "claim": ""
+    },
+    {
+      "act": "Judges Who Override Juries",
+      "fromFrame": 14040,
+      "claim": ""
+    },
+    {
+      "act": "The Coerced Witness",
+      "fromFrame": 18240,
+      "claim": ""
+    },
+    {
+      "act": "Children Behind Bars",
+      "fromFrame": 24210,
+      "claim": ""
+    },
+    {
+      "act": "The Fish Fry Alibi",
+      "fromFrame": 30000,
+      "claim": ""
+    },
+    {
+      "act": "Criminalizing Poverty",
+      "fromFrame": 33330,
+      "claim": ""
+    },
+    {
+      "act": "The Execution of Herbert Richardson",
+      "fromFrame": 36300,
+      "claim": ""
+    },
+    {
+      "act": "Freedom Without Repair",
+      "fromFrame": 42930,
+      "claim": ""
+    },
+    {
+      "act": "More Than the Worst Thing",
+      "fromFrame": 45210,
+      "claim": ""
+    }
+  ],
+  "authored": false
+}

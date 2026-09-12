@@ -1,0 +1,4170 @@
+{
+  "slug": "just-mercy",
+  "authored": false,
+  "briefs": [
+    {
+      "fp": "1vhdgn2",
+      "i": 0,
+      "from": 0,
+      "subject": "grave",
+      "entities": [],
+      "concept": "grave",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "grave, 1976"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": null,
+        "cast": []
+      },
+      "_said": "What do you do when you find out the guy on death row is innocent and the state already knows? Right? It's it's a terrifying question. I mean, really put yourself in this exact phy"
+    },
+    {
+      "fp": "1pe3uq2",
+      "i": 1,
+      "from": 338,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "sitting in a 5x8 ft, 1976"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "is the sweltering August heat of 1987. You are sitting in a 5x8 ft"
+    },
+    {
+      "fp": "6w1zv0",
+      "i": 2,
+      "from": 520,
+      "subject": "grave",
+      "entities": [],
+      "concept": "grave",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "grave, reaches well over 100° for days at a time, 1976"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": null,
+        "cast": []
+      },
+      "_said": "ft windowless concrete cell on Alabama's death row. And the temperature in those cells consistently reaches well over 100° for days at a time. Exactly. The air is just stagnant, he"
+    },
+    {
+      "fp": "raujhy",
+      "i": 3,
+      "from": 933,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1976"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "so utterly miserable that the men around you are trapping rats"
+    },
+    {
+      "fp": "1lnncco",
+      "i": 4,
+      "from": 1034,
+      "subject": "target",
+      "entities": [],
+      "concept": "target",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "target, 1976"
+      },
+      "antidote": {
+        "concept": "target",
+        "cast": []
+      },
+      "_said": "rats and poisonous spiders in their cells just to pass the time just to have something to focus on other than the heat. Yeah. And you are there locked"
+    },
+    {
+      "fp": "1s2ic49",
+      "i": 5,
+      "from": 1286,
+      "subject": "grave",
+      "entities": [],
+      "concept": "grave",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "grave, 1976"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": null,
+        "cast": []
+      },
+      "_said": "locked on death row before your trial has even started. You haven't been convicted of a single You haven't even had your day in court, right? But the state has put you here anyway."
+    },
+    {
+      "fp": "1ezvxyr",
+      "i": 6,
+      "from": 1615,
+      "subject": "fire",
+      "entities": [],
+      "concept": "fire",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "fire, 1976"
+      },
+      "antidote": {
+        "concept": "fire",
+        "cast": []
+      },
+      "_said": "chair. this hulking wooden device painted bright yellow by the inmates. They call it yellow mama. And you can literally smell the lingering scent of burning flesh"
+    },
+    {
+      "fp": "1aekj82",
+      "i": 7,
+      "from": 1872,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1976"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "flesh from recently executed inmates. It's horrifying. And the prosecution knows definitively that you didn't commit the murder"
+    },
+    {
+      "fp": "9akwt",
+      "i": 8,
+      "from": 2114,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1976"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "murder of 18-year-old Rhonda Morrison, but here you are trapped in a machine that is relentlessly marching you toward your own execution. It is"
+    },
+    {
+      "fp": "19ofsay",
+      "i": 9,
+      "from": 2359,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1976"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "is the absolute definition of a waking nightmare. But the thing you have to grasp and what is truly terrifying about this deep dive"
+    },
+    {
+      "fp": "1awkvnv",
+      "i": 10,
+      "from": 2592,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1976"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "dive into Brian Stevenson's Just Mercy is that this is not a glitch in the system. It's not just one bad mistake. No, not at all. This book is fundamentally"
+    },
+    {
+      "fp": "1vtjnfi",
+      "i": 11,
+      "from": 2832,
+      "subject": "law",
+      "entities": [],
+      "concept": "law",
+      "place": "court",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "law, court, 1976"
+      },
+      "antidote": {
+        "concept": "law",
+        "set": "court",
+        "cast": []
+      },
+      "_said": "fundamentally a structural indictment disguised as a legal memoir. The core thesis you need to understand is that this isn't simply a debate about the ethics"
+    },
+    {
+      "fp": "1dmjoxr",
+      "i": 12,
+      "from": 3072,
+      "subject": "grave",
+      "entities": [],
+      "concept": "grave",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "grave, 1976"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": null,
+        "cast": []
+      },
+      "_said": "ethics of the death penalty. Right? Is bigger than that. Way bigger. It"
+    },
+    {
+      "fp": "x386z0",
+      "i": 13,
+      "from": 3165,
+      "subject": "Which — law",
+      "entities": [
+        "which"
+      ],
+      "concept": "law",
+      "place": "court",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Which, court, 1976"
+      },
+      "antidote": {
+        "concept": "law",
+        "set": "court",
+        "cast": [
+          "which"
+        ]
+      },
+      "_said": "It is a forensic examination of what happens to a legal system and to an entire society when it decides that certain people are entirely beyond Which is such a heavy concept. You k"
+    },
+    {
+      "fp": "1wudls0",
+      "i": 14,
+      "from": 3528,
+      "subject": "Stevenson — law",
+      "entities": [
+        "stevenson"
+      ],
+      "concept": "law",
+      "place": "court",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Stevenson, court, 1976"
+      },
+      "antidote": {
+        "concept": "law",
+        "set": "court",
+        "cast": [
+          "stevenson"
+        ]
+      },
+      "_said": "is the primary argument Stevenson makes is that the machinery that sentences a man to die is the exact same machinery that sentences children to die in prison. It"
+    },
+    {
+      "fp": "hgyrnd",
+      "i": 15,
+      "from": 3775,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1976"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "It is identical mechanism that locks the mentally disabled in solitary confinement and the same one"
+    },
+    {
+      "fp": "ebq2ej",
+      "i": 16,
+      "from": 3936,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1976"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "one that prosecutes poor women for experiencing still births. And a word"
+    },
+    {
+      "fp": "axpatu",
+      "i": 17,
+      "from": 4049,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1976"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "that gets thrown around constantly when discussing this book obviously is mercy. But we really need to define that, Yeah. Absolutely. Because in our culture, mercy is often treated"
+    },
+    {
+      "fp": "oskgn5",
+      "i": 18,
+      "from": 4421,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1976"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "like a pardon you hand out when you want to be nice or when you want to ignore the rules."
+    },
+    {
+      "fp": "129yr08",
+      "i": 19,
+      "from": 4572,
+      "subject": "Stevenson",
+      "entities": [
+        "stevenson"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Stevenson, 1976"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "stevenson"
+        ]
+      },
+      "_said": "But Stevenson is framing mercy in a completely different way here. He"
+    },
+    {
+      "fp": "1qwiz7o",
+      "i": 20,
+      "from": 4692,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1976"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "He is radically redefining it. His whole point is that mercy is not softness. It is not a synonym for weakness, nor is it the opposite of justice. It's almost a requirement for it."
+    },
+    {
+      "fp": "7r28tn",
+      "i": 21,
+      "from": 5083,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1976"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "is the absolute precondition for justice. It is the only force capable of interrupting a system that"
+    },
+    {
+      "fp": "o9cg0w",
+      "i": 22,
+      "from": 5253,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1976"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "that is actively designed to never look back at its own Because a system built purely on fear and public anger essentially becomes a self-sustaining"
+    },
+    {
+      "fp": "1fvwpy4",
+      "i": 23,
+      "from": 5532,
+      "subject": "magnifier",
+      "entities": [],
+      "concept": "magnifier",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "magnifier, 1976"
+      },
+      "antidote": {
+        "concept": "magnifier",
+        "cast": []
+      },
+      "_said": "self-sustaining machine. And a machine requires fuel. It requires bodies to function. It ultimately doesn't care if those bodies are guilty or innocent, adult or child. Exactly. So"
+    },
+    {
+      "fp": "7abm3j",
+      "i": 24,
+      "from": 5837,
+      "subject": "Which",
+      "entities": [
+        "which"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Which, 1976"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "which"
+        ]
+      },
+      "_said": "how this machine operates today through a very specific lens, which is proximity as a method. I want to make sure I understand that. By proximity, you just mean like"
+    },
+    {
+      "fp": "16s834b",
+      "i": 25,
+      "from": 6093,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1976"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "like physical closeness. Yes. Physical, but also emotional and structural closeness because distance is how"
+    },
+    {
+      "fp": "qccwga",
+      "i": 26,
+      "from": 6290,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1976"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "how injustice sustains itself. Oh, I see. When you are far away from a problem,"
+    },
+    {
+      "fp": "1ntgxli",
+      "i": 27,
+      "from": 6441,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1976"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "problem, the people involved just remain an abstraction. Exactly. Stevenson's"
+    },
+    {
+      "fp": "1lguuu5",
+      "i": 28,
+      "from": 6571,
+      "subject": "law",
+      "entities": [],
+      "concept": "law",
+      "place": "court",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "law, court, 1976"
+      },
+      "antidote": {
+        "concept": "law",
+        "set": "court",
+        "cast": []
+      },
+      "_said": "Stevenson's legal strategy and his narrative strategy are identical moves. You have to"
+    },
+    {
+      "fp": "wipoq9",
+      "i": 29,
+      "from": 6720,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1976"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "to get close enough to the condemned that the abstraction completely So,"
+    },
+    {
+      "fp": "1czb7o",
+      "i": 30,
+      "from": 6837,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "sit across a metal table from the person, 1976"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "So, you have to physically enter the space, sit across a metal table from the person, hear them breathe. Yes. See their terror to understand what the abstract laws are actually doi"
+    },
+    {
+      "fp": "1eb2jc6",
+      "i": 31,
+      "from": 7207,
+      "subject": "Stevenson and Alabama and Which",
+      "entities": [
+        "stevenson",
+        "alabama",
+        "which"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Stevenson and Alabama, 1976"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "stevenson",
+          "alabama",
+          "which"
+        ]
+      },
+      "_said": "scene for how Stevenson discovers this. It's 1989. He has started a new nonprofit in Alabama which would eventually become"
+    },
+    {
+      "fp": "13403ah",
+      "i": 32,
+      "from": 7428,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1976"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "become the Equal Justice Initiative. Though at this point he has virtually no right?"
+    },
+    {
+      "fp": "dk7o97",
+      "i": 33,
+      "from": 7562,
+      "subject": "road",
+      "entities": [],
+      "concept": "road",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "road, walking into, 1976"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": null,
+        "cast": []
+      },
+      "_said": "right? No staff, no money, and no real idea of the sheer scale of the Leviathan he is walking into. He's fresh out of Harvard Law driving a beat"
+    },
+    {
+      "fp": "1w0ph5j",
+      "i": 34,
+      "from": 7840,
+      "subject": "target",
+      "entities": [],
+      "concept": "target",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "target, 1976"
+      },
+      "antidote": {
+        "concept": "target",
+        "cast": []
+      },
+      "_said": "beat up 1975 Honda Civic around the deep south pulling allnighters just trying to keep people alive. Yeah. And this is when he meets the man who will become the central narrative f"
+    },
+    {
+      "fp": "1qax5hg",
+      "i": 35,
+      "from": 8143,
+      "subject": "Walter",
+      "entities": [
+        "walter"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Walter, 1976"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "walter"
+        ]
+      },
+      "_said": "life, Walter McMillian. Tell me about Walter because he really doesn't fit the profile of who you imagine getting swept up"
+    },
+    {
+      "fp": "1fepfbq",
+      "i": 36,
+      "from": 8325,
+      "subject": "Walter",
+      "entities": [
+        "walter"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Walter, 1976"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "walter"
+        ]
+      },
+      "_said": "up in a capital murder case. Not at all. Walter was a black pulpwood worker from a"
+    },
+    {
+      "fp": "8pojex",
+      "i": 37,
+      "from": 8465,
+      "subject": "Alabama",
+      "entities": [
+        "alabama"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Alabama, 1976"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "alabama"
+        ]
+      },
+      "_said": "rural settlement outside Monroeville, Alabama. He was an independent businessman. He had his own crew, right? Yeah. He ran his own equipment, cut his own timber."
+    },
+    {
+      "fp": "eboj34",
+      "i": 38,
+      "from": 8697,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1976"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "timber. He was wellknown, largely well-liked, and entirely self-sufficient. But he finds himself convicted of murdering a white"
+    },
+    {
+      "fp": "z09g08",
+      "i": 39,
+      "from": 8882,
+      "subject": "Alabama — school",
+      "entities": [
+        "alabama"
+      ],
+      "concept": "school",
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Alabama, 1976"
+      },
+      "antidote": {
+        "concept": "school",
+        "set": null,
+        "cast": [
+          "alabama"
+        ]
+      },
+      "_said": "white 18-year-old college student named Ronda Morrison who is found dead on the floor of a local dry cleaners in the middle of a busy morning. And we really have to talk about the "
+    },
+    {
+      "fp": "3ciq4w",
+      "i": 40,
+      "from": 9254,
+      "subject": "school",
+      "entities": [],
+      "concept": "school",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "school, 1976"
+      },
+      "antidote": {
+        "concept": "school",
+        "set": null,
+        "cast": []
+      },
+      "_said": "anyone who took high school English, that name is going to ring a bell. It is arguably one of the most famous literary towns"
+    },
+    {
+      "fp": "nimxff",
+      "i": 41,
+      "from": 9429,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1976"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "towns in America. Monroeville is Harper Lee's hometown. It is"
+    },
+    {
+      "fp": "169bn2p",
+      "i": 42,
+      "from": 9573,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "notes, 1976"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": []
+      },
+      "_said": "is the town that inspired, wrote, and endlessly celebrates the novel To Kill a They literally have a mockingb bird They do. They formed a theatrical group"
+    },
+    {
+      "fp": "1hdpp37",
+      "i": 43,
+      "from": 9859,
+      "subject": "shield",
+      "entities": [],
+      "concept": "shield",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "shield, 1976"
+      },
+      "antidote": {
+        "concept": "shield",
+        "cast": []
+      },
+      "_said": "group to perform stage adaptations for international tourists. The entire town's identity is built around celebrating the fictional defense"
+    },
+    {
+      "fp": "65isxs",
+      "i": 44,
+      "from": 10087,
+      "subject": "shield",
+      "entities": [],
+      "concept": "shield",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "shield, reading this and the irony was making me physic, 1976"
+      },
+      "antidote": {
+        "concept": "shield",
+        "cast": []
+      },
+      "_said": "defense of an innocent black man by a heroic white I was reading this and the irony was making me physically dizzy. While this town is putting on stage plays"
+    },
+    {
+      "fp": "d3f88r",
+      "i": 45,
+      "from": 10346,
+      "subject": "law",
+      "entities": [],
+      "concept": "law",
+      "place": "court",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "law, court, 1976"
+      },
+      "antidote": {
+        "concept": "law",
+        "set": "court",
+        "cast": []
+      },
+      "_said": "plays and patting themselves on the back, their actual legal system is actively railroading a real innocent black man just a few blocks away."
+    },
+    {
+      "fp": "19g41r6",
+      "i": 46,
+      "from": 10593,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1976"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "away. The cognitive dissonance is staggering. How do they not see the reality happening right in front of their faces? Because like we said, the machine is designed to hide its mec"
+    },
+    {
+      "fp": "1n2kfm1",
+      "i": 47,
+      "from": 10884,
+      "subject": "Walter — grave",
+      "entities": [
+        "walter"
+      ],
+      "concept": "grave",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Walter, 1976"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": null,
+        "cast": [
+          "walter"
+        ]
+      },
+      "_said": "mechanics. To truly grasp Walter's case, we have to dismantle that machine and look at the procedural anomalies. Okay, let's unpack this. Let's go back to the fact that Walter was "
+    },
+    {
+      "fp": "lqqj1h",
+      "i": 48,
+      "from": 11229,
+      "subject": "Alabama — home",
+      "entities": [
+        "alabama"
+      ],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Alabama, 1976"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": [
+          "alabama"
+        ]
+      },
+      "_said": "at home and correctional facility. Alabama did have"
+    },
+    {
+      "fp": "i3gsv6",
+      "i": 49,
+      "from": 11318,
+      "subject": "grave",
+      "entities": [],
+      "concept": "grave",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "grave, 1976"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": null,
+        "cast": []
+      },
+      "_said": "have a pre-trial death row statute on the books, but applying it this way was essentially unprecedented. Wait, stop. I am completely lost here. I need you to explain the legal mech"
+    },
+    {
+      "fp": "1qm5ser",
+      "i": 50,
+      "from": 11733,
+      "subject": "law",
+      "entities": [],
+      "concept": "law",
+      "place": "court",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "law, court, 1976"
+      },
+      "antidote": {
+        "concept": "law",
+        "set": "court",
+        "cast": []
+      },
+      "_said": "sounds like a blatant violation of constitutional rights. Yes. Right. If you are awaiting trial, you"
+    },
+    {
+      "fp": "1d9b8uc",
+      "i": 51,
+      "from": 11901,
+      "subject": "law",
+      "entities": [],
+      "concept": "law",
+      "place": "court",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "law, court, 1976"
+      },
+      "antidote": {
+        "concept": "law",
+        "set": "court",
+        "cast": []
+      },
+      "_said": "you have the presumption of innocence. You stay in a county jail. How can a warden at"
+    },
+    {
+      "fp": "9lfurj",
+      "i": 52,
+      "from": 12072,
+      "subject": "Walter — law",
+      "entities": [
+        "walter"
+      ],
+      "concept": "law",
+      "place": "court",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Walter, court, 1976"
+      },
+      "antidote": {
+        "concept": "law",
+        "set": "court",
+        "cast": [
+          "walter"
+        ]
+      },
+      "_said": "at a maximum security prison lock an innocent man in a cell designed for It requires an incredible amount of legal gymnastics. The state justified it under the guise of a security "
+    },
+    {
+      "fp": "1afx215",
+      "i": 53,
+      "from": 12463,
+      "subject": "Walter — law",
+      "entities": [
+        "walter"
+      ],
+      "concept": "law",
+      "place": "court",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Walter, hold him, court, 1976"
+      },
+      "antidote": {
+        "concept": "law",
+        "set": "court",
+        "cast": [
+          "walter"
+        ]
+      },
+      "_said": "Walter was incredibly dangerous and the local jail couldn't hold him. But they had zero evidence for that. None. Functionally, it"
+    },
+    {
+      "fp": "ydckte",
+      "i": 54,
+      "from": 12645,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1976"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "it was a deliberate psychological tactic. It was designed to break Walter's spirit, but more importantly to apply unbearable pressure to his supposed accomplice,"
+    },
+    {
+      "fp": "piggus",
+      "i": 55,
+      "from": 12854,
+      "subject": "Myers — grave",
+      "entities": [
+        "myers"
+      ],
+      "concept": "grave",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Myers, 1976"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": null,
+        "cast": [
+          "myers"
+        ]
+      },
+      "_said": "accomplice, a man named Ralph Myers. Right. Yes. Who the state also moved to death row. The state recognized that death row is the most restrictive"
+    },
+    {
+      "fp": "1u0vhsr",
+      "i": 56,
+      "from": 13065,
+      "subject": "zap",
+      "entities": [],
+      "concept": "zap",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "zap, 1976"
+      },
+      "antidote": {
+        "concept": "zap",
+        "set": null,
+        "cast": []
+      },
+      "_said": "restrictive punitive confinement permitted by law. You are in isolation 23 hours a day just staring at the electric chair. Exactly. They were subjecting legally innocent men to sta"
+    },
+    {
+      "fp": "bhj8ji",
+      "i": 57,
+      "from": 13377,
+      "subject": "law",
+      "entities": [],
+      "concept": "law",
+      "place": "court",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "law, court, 1976"
+      },
+      "antidote": {
+        "concept": "law",
+        "set": "court",
+        "cast": []
+      },
+      "_said": "state sanctioned psychological torture to manufacture a cooperative state of mind. Okay. So they torture him before the trial. They finally go to trial and despite all of that, the"
+    },
+    {
+      "fp": "1ohumw4",
+      "i": 58,
+      "from": 13725,
+      "subject": "law",
+      "entities": [],
+      "concept": "law",
+      "place": "court",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "law, court, 1976"
+      },
+      "antidote": {
+        "concept": "law",
+        "set": "court",
+        "cast": []
+      },
+      "_said": "jury actually votes 7 to five for life in prison."
+    },
+    {
+      "fp": "1stv5ma",
+      "i": 59,
+      "from": 13807,
+      "subject": "grave",
+      "entities": [],
+      "concept": "grave",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "grave, 1976"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": null,
+        "cast": []
+      },
+      "_said": "prison. They explicitly reject the death Yes. But then Judge Robert E."
+    },
+    {
+      "fp": "1hd9e8t",
+      "i": 60,
+      "from": 13960,
+      "subject": "Walter and Which — grave",
+      "entities": [
+        "walter",
+        "which"
+      ],
+      "concept": "grave",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Walter and Which, 1976"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": null,
+        "cast": [
+          "walter",
+          "which"
+        ]
+      },
+      "_said": "E. Lee Key steps in and changes the sentence. He throws out the jury's decision and sentences Walter to death himself, which"
+    },
+    {
+      "fp": "fy9jc6",
+      "i": 61,
+      "from": 14189,
+      "subject": "Which",
+      "entities": [
+        "which"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Which, 1976"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "which"
+        ]
+      },
+      "_said": "which is called judicial override. I need you to explain this to me. How can"
+    },
+    {
+      "fp": "1jyyrvm",
+      "i": 62,
+      "from": 14311,
+      "subject": "law",
+      "entities": [],
+      "concept": "law",
+      "place": "court",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "law, court, 1976"
+      },
+      "antidote": {
+        "concept": "law",
+        "set": "court",
+        "cast": []
+      },
+      "_said": "can a single judge legally look at a jury, say, \"Thanks, but no thanks,\" and order the state to kill a man. It is one of the most profound subversions of the democratic process wit"
+    },
+    {
+      "fp": "1y824rb",
+      "i": 63,
+      "from": 14705,
+      "subject": "law",
+      "entities": [],
+      "concept": "law",
+      "place": "court",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "law, court, 1976"
+      },
+      "antidote": {
+        "concept": "law",
+        "set": "court",
+        "cast": []
+      },
+      "_said": "Historically, the Supreme Court allowed it, arguing a"
+    },
+    {
+      "fp": "1bcnvpo",
+      "i": 64,
+      "from": 14776,
+      "subject": "Alabama — law",
+      "entities": [
+        "alabama"
+      ],
+      "concept": "law",
+      "place": "court",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Alabama, court, 1976"
+      },
+      "antidote": {
+        "concept": "law",
+        "set": "court",
+        "cast": [
+          "alabama"
+        ]
+      },
+      "_said": "a judge brings legal expertise that a jury lacks. But in practice, in practice, particularly in Alabama, it became a weapon for political survival. You have to understand that Alab"
+    },
+    {
+      "fp": "r15yoh",
+      "i": 65,
+      "from": 15129,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1976"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "judges in highly competitive partisan Oh wow. So they have to campaign. Yes. Heavily financed"
+    },
+    {
+      "fp": "qyzf1n",
+      "i": 66,
+      "from": 15319,
+      "subject": "law",
+      "entities": [],
+      "concept": "law",
+      "place": "court",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "law, court, 1976"
+      },
+      "antidote": {
+        "concept": "law",
+        "set": "court",
+        "cast": []
+      },
+      "_said": "financed by political action committees. Now put yourself in the shoes of a judge in the 1980s or '90s during the tough on crime era. If you accept"
+    },
+    {
+      "fp": "1jo0wvz",
+      "i": 67,
+      "from": 15581,
+      "subject": "grave",
+      "entities": [],
+      "concept": "grave",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "grave, 1976"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": null,
+        "cast": []
+      },
+      "_said": "accept a life sentence instead of death, you look weak. Exactly. You"
+    },
+    {
+      "fp": "1g93mze",
+      "i": 68,
+      "from": 15712,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "run an attack ad against you accusing you o, 1976"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "You are virtually guaranteeing that your opponent will run an attack ad against you accusing you of being soft on murderers. It's"
+    },
+    {
+      "fp": "1v6zeor",
+      "i": 69,
+      "from": 15893,
+      "subject": "law",
+      "entities": [],
+      "concept": "law",
+      "place": "court",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "law, court, 1976"
+      },
+      "antidote": {
+        "concept": "law",
+        "set": "court",
+        "cast": []
+      },
+      "_said": "like an autoimmune disease. The justice system is supposed to protect the jury's verdict, but instead it destroys it just to keep the judge alive politically. That is a remarkably "
+    },
+    {
+      "fp": "118igm4",
+      "i": 70,
+      "from": 16231,
+      "subject": "Alabama",
+      "entities": [
+        "alabama"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Alabama, 1976"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "alabama"
+        ]
+      },
+      "_said": "it. The system structurally incentivizes judges to kill to maintain their own employment. Since 1976, Alabama judges"
+    },
+    {
+      "fp": "hxqcld",
+      "i": 71,
+      "from": 16454,
+      "subject": "law",
+      "entities": [],
+      "concept": "law",
+      "place": "court",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "law, court, 1976"
+      },
+      "antidote": {
+        "concept": "law",
+        "set": "court",
+        "cast": []
+      },
+      "_said": "judges have overridden jury verdicts 111 times. That is insane. And in 91% of those cases,"
+    },
+    {
+      "fp": "yp26k5",
+      "i": 72,
+      "from": 16639,
+      "subject": "grave",
+      "entities": [],
+      "concept": "grave",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "grave, 1976"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": null,
+        "cast": []
+      },
+      "_said": "cases, they replace life verdicts with death sentences. It is a feature of the machine, not a bug. And the bias in Walter's case wasn't even hidden."
+    },
+    {
+      "fp": "1g4u677",
+      "i": 73,
+      "from": 16867,
+      "subject": "Stevenson — law",
+      "entities": [
+        "stevenson"
+      ],
+      "concept": "law",
+      "place": "court",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Stevenson, court, 1976"
+      },
+      "antidote": {
+        "concept": "law",
+        "set": "court",
+        "cast": [
+          "stevenson"
+        ]
+      },
+      "_said": "hidden. Before Stevenson took the case, Judge Key literally called him on the phone. Yes, he tracked him down."
+    },
+    {
+      "fp": "cuno3s",
+      "i": 74,
+      "from": 17028,
+      "subject": "Walter — law",
+      "entities": [
+        "walter"
+      ],
+      "concept": "law",
+      "place": "court",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Walter, sitting judge calls this young lawyer and tells, court, 1976"
+      },
+      "antidote": {
+        "concept": "law",
+        "set": "court",
+        "cast": [
+          "walter"
+        ]
+      },
+      "_said": "down. A sitting judge calls this young lawyer and tells him to drop the case, claiming Walter was part"
+    },
+    {
+      "fp": "1s783ip",
+      "i": 75,
+      "from": 17167,
+      "subject": "Walter and Which",
+      "entities": [
+        "walter",
+        "which"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Walter and Which, 1976"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "walter",
+          "which"
+        ]
+      },
+      "_said": "part of the Dixie Mafia. He said Walter was this massive drug kingpin which was completely fabricated. Walter was a guy who cut down pine trees with a chainsaw for a living. But th"
+    },
+    {
+      "fp": "1xy2d45",
+      "i": 76,
+      "from": 17522,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1976"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "exposes the underlying requirement of the machine. The state had to construct"
+    },
+    {
+      "fp": "fosu40",
+      "i": 77,
+      "from": 17630,
+      "subject": "Walter",
+      "entities": [
+        "walter"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Walter, 1976"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "walter"
+        ]
+      },
+      "_said": "construct a mythology around Walter to justify their extreme actions. Right. They couldn't just execute"
+    },
+    {
+      "fp": "1xppcwv",
+      "i": 78,
+      "from": 17793,
+      "subject": "law",
+      "entities": [],
+      "concept": "law",
+      "place": "court",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "law, court, 1976"
+      },
+      "antidote": {
+        "concept": "law",
+        "set": "court",
+        "cast": []
+      },
+      "_said": "execute a well-liked pulpwood worker on slimsy Exactly. But to construct that mythology in court,"
+    },
+    {
+      "fp": "1bmjtx8",
+      "i": 79,
+      "from": 17971,
+      "subject": "Which — law",
+      "entities": [
+        "which"
+      ],
+      "concept": "law",
+      "place": "court",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Which, court, 1976"
+      },
+      "antidote": {
+        "concept": "law",
+        "set": "court",
+        "cast": [
+          "which"
+        ]
+      },
+      "_said": "court, a system requires a narrative or in the absence of physical evidence, it requires a human being willing to swear under oath to whatever the state Which brings us"
+    },
+    {
+      "fp": "1h35mle",
+      "i": 80,
+      "from": 18261,
+      "subject": "Myers",
+      "entities": [
+        "myers"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Myers, 1976"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "myers"
+        ]
+      },
+      "_said": "us to Ralph Myers. This isn't just about a guy lying on the stand. It's about how"
+    },
+    {
+      "fp": "1hkkzmp",
+      "i": 81,
+      "from": 18388,
+      "subject": "Myers",
+      "entities": [
+        "myers"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Myers, 1976"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "myers"
+        ]
+      },
+      "_said": "how the state builds a liar from scratch. Who was Myers? Ralph Myers was a white man with a lengthy criminal record, but more importantly, a deeply"
+    },
+    {
+      "fp": "46s3g1",
+      "i": 82,
+      "from": 18628,
+      "subject": "fire",
+      "entities": [],
+      "concept": "fire",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "fire, leaving his face badly disfigured, 1976"
+      },
+      "antidote": {
+        "concept": "fire",
+        "cast": []
+      },
+      "_said": "deeply tragic psychological background. He had been severely burned in a fire as a child, leaving his face badly disfigured. Yes. Because of this, he suffered"
+    },
+    {
+      "fp": "1609c8w",
+      "i": 83,
+      "from": 18916,
+      "subject": "fire",
+      "entities": [],
+      "concept": "fire",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "fire, 1976"
+      },
+      "antidote": {
+        "concept": "fire",
+        "cast": []
+      },
+      "_said": "suffered from intense psychological trauma, a debilitating phobia of fire, and"
+    },
+    {
+      "fp": "1q11tuf",
+      "i": 84,
+      "from": 19075,
+      "subject": "Myers",
+      "entities": [
+        "myers"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Myers, 1976"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "myers"
+        ]
+      },
+      "_said": "and a documented history of pathological lying just to gain attention. And the state weaponized that The story they fed him was absurd. Myers claimed"
+    },
+    {
+      "fp": "1th4vrg",
+      "i": 85,
+      "from": 19351,
+      "subject": "Walter — road",
+      "entities": [
+        "walter"
+      ],
+      "concept": "road",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Walter, 1976"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": null,
+        "cast": [
+          "walter"
+        ]
+      },
+      "_said": "claimed Walter randomly approached him at a gas station, pulled a gun, and forced him to drive his truck"
+    },
+    {
+      "fp": "1cqvu85",
+      "i": 86,
+      "from": 19521,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1976"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "truck to the cleaners because Walter's arm It makes zero sense."
+    },
+    {
+      "fp": "9t1fh1",
+      "i": 87,
+      "from": 19622,
+      "subject": "Walter — road",
+      "entities": [
+        "walter"
+      ],
+      "concept": "road",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Walter, 1976"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": null,
+        "cast": [
+          "walter"
+        ]
+      },
+      "_said": "sense. Walter drove himself to the gas station perfectly right?"
+    },
+    {
+      "fp": "1rkfg7h",
+      "i": 88,
+      "from": 19747,
+      "subject": "road",
+      "entities": [],
+      "concept": "road",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "road, 1976"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": null,
+        "cast": []
+      },
+      "_said": "right? Why hijack a stranger to drive to a murder? And yet,"
+    },
+    {
+      "fp": "j9c2cg",
+      "i": 89,
+      "from": 19848,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1976"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "yet, this fabricated interaction was the entire foundation of the capital murder charge against"
+    },
+    {
+      "fp": "5sc002",
+      "i": 90,
+      "from": 19999,
+      "subject": "Walter and Myers — law",
+      "entities": [
+        "walter",
+        "myers"
+      ],
+      "concept": "law",
+      "place": "court",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Walter and Myers, court, 1976"
+      },
+      "antidote": {
+        "concept": "law",
+        "set": "court",
+        "cast": [
+          "walter",
+          "myers"
+        ]
+      },
+      "_said": "against Without Myers, there's literally no But here's the craziest part. Myers actually recanted his testimony before the trial even happened. He told the police on tape that he m"
+    },
+    {
+      "fp": "11paioz",
+      "i": 91,
+      "from": 20368,
+      "subject": "Walter",
+      "entities": [
+        "walter"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Walter, 1976"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "walter"
+        ]
+      },
+      "_said": "Walter. And the district attorney, Ted Pearson, just ignored it. He completely suppressed the tapes. How"
+    },
+    {
+      "fp": "1r30ywe",
+      "i": 92,
+      "from": 20527,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1976"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "How does suppressing evidence of innocence not derail a prosecution? Because of the immense pressure to secure a conviction. Legally, it's a severe"
+    },
+    {
+      "fp": "xfbd9o",
+      "i": 93,
+      "from": 20796,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1976"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "severe violation known as a Brady violation."
+    },
+    {
+      "fp": "1h1ioec",
+      "i": 94,
+      "from": 20887,
+      "subject": "lightbulb",
+      "entities": [],
+      "concept": "lightbulb",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "lightbulb, 1976"
+      },
+      "antidote": {
+        "concept": "lightbulb",
+        "cast": []
+      },
+      "_said": "violation. But prosecutors control the flow of information. So if they don't hand it over, the defense has no idea it Exactly. The DA needed this case closed to appease a panicked "
+    },
+    {
+      "fp": "myhqo4",
+      "i": 95,
+      "from": 21211,
+      "subject": "Myers — grave",
+      "entities": [
+        "myers"
+      ],
+      "concept": "grave",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Myers, 1976"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": null,
+        "cast": [
+          "myers"
+        ]
+      },
+      "_said": "So when Myers recanted, the state didn't drop the case. They escalated the pressure. Ah, and this is where the pre-trial death row tactic comes back. Precisely. Myers was facing hi"
+    },
+    {
+      "fp": "1674fsa",
+      "i": 96,
+      "from": 21542,
+      "subject": "grave",
+      "entities": [],
+      "concept": "grave",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "grave, 1976"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": null,
+        "cast": []
+      },
+      "_said": "for a different murder. The police leveraged that. They took a man with an extreme phobia of fire and locked him on death row right next to the electric chair. He was physically th"
+    },
+    {
+      "fp": "3pdnlc",
+      "i": 97,
+      "from": 21933,
+      "subject": "Myers — fire",
+      "entities": [
+        "myers"
+      ],
+      "concept": "fire",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Myers, 1976"
+      },
+      "antidote": {
+        "concept": "fire",
+        "cast": [
+          "myers"
+        ]
+      },
+      "_said": "smell of burning flesh drifted into his cell and Myers literally curled up on the floor hyperventilating. His mind And"
+    },
+    {
+      "fp": "1cq8ou4",
+      "i": 98,
+      "from": 22121,
+      "subject": "grave",
+      "entities": [],
+      "concept": "grave",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "grave, 1976"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": null,
+        "cast": []
+      },
+      "_said": "the very next morning, he called the sheriff and said he would testify to whatever they wanted if they just got him off death row."
+    },
+    {
+      "fp": "1bxj1u9",
+      "i": 99,
+      "from": 22301,
+      "subject": "grave",
+      "entities": [],
+      "concept": "grave",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "grave, 1976"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": null,
+        "cast": []
+      },
+      "_said": "It's literal psychological torture. It is. And we must recognize this isn't an isolated historical anomaly. In roughly 80% of wrongful death penalty convictions nationwide, false w"
+    },
+    {
+      "fp": "1730ip5",
+      "i": 100,
+      "from": 22730,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1976"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "relies on squeezing vulnerable people to provide a narrative. Exactly. The state didn't just stumble into a mistake here."
+    },
+    {
+      "fp": "1fiic8r",
+      "i": 101,
+      "from": 22925,
+      "subject": "Stevenson",
+      "entities": [
+        "stevenson"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Stevenson, 1976"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "stevenson"
+        ]
+      },
+      "_said": "here. Stevenson proved they knowingly deliberately built the case on a lie. They didn't care who"
+    },
+    {
+      "fp": "1tvig0c",
+      "i": 102,
+      "from": 23105,
+      "subject": "law",
+      "entities": [],
+      "concept": "law",
+      "place": "court",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "law, court, 1976"
+      },
+      "antidote": {
+        "concept": "law",
+        "set": "court",
+        "cast": []
+      },
+      "_said": "actually killed Ronda Morrison. They just needed a warm body to feed the machine. And once a legal system operates on the logic that it's okay to sacrifice"
+    },
+    {
+      "fp": "5nxoq4",
+      "i": 103,
+      "from": 23342,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "stands in front of it, 1976"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "sacrifice an innocent person to maintain order, it doesn't suddenly develop a conscience when a child stands in front of it. No. The exact same logic extends its reach to the most"
+    },
+    {
+      "fp": "1vau9ey",
+      "i": 104,
+      "from": 23616,
+      "subject": "Charlie and Which — grave",
+      "entities": [
+        "charlie",
+        "which"
+      ],
+      "concept": "grave",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Charlie and Which, 1976"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": null,
+        "cast": [
+          "charlie",
+          "which"
+        ]
+      },
+      "_said": "most vulnerable members of Which brings us to a part of the book that is almost unbearable to read. We need to talk about the kids on death row. Specifically, a 14-year-old boy nam"
+    },
+    {
+      "fp": "1kkvok4",
+      "i": 105,
+      "from": 23968,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1976"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "is a devastating illustration of this machinery applying adult punitive logic to a developing The facts are just steeped"
+    },
+    {
+      "fp": "16uhxqi",
+      "i": 106,
+      "from": 24165,
+      "subject": "Charlie — home",
+      "entities": [
+        "charlie"
+      ],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Charlie, 1976"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": [
+          "charlie"
+        ]
+      },
+      "_said": "steeped in generational trauma. Charlie was 14, living in a home filled"
+    },
+    {
+      "fp": "1nqjrlf",
+      "i": 107,
+      "from": 24314,
+      "subject": "George — family",
+      "entities": [
+        "george"
+      ],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "George, 1976"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": [
+          "george"
+        ]
+      },
+      "_said": "filled with domestic violence. His mother's boyfriend, George, was a local police And George was horribly abusive. Right. One night, he beats Charlie's"
+    },
+    {
+      "fp": "jlssau",
+      "i": 108,
+      "from": 24600,
+      "subject": "Charlie and George — family",
+      "entities": [
+        "charlie",
+        "george"
+      ],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Charlie and George, 1976"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": [
+          "charlie",
+          "george"
+        ]
+      },
+      "_said": "Charlie's mother so badly he knocks her unconscious. Charlie, terrified and thinking his mom is dead, grabs a gun and shoots George. And because the victim was a police officer, th"
+    },
+    {
+      "fp": "x2btw9",
+      "i": 109,
+      "from": 24972,
+      "subject": "Charlie",
+      "entities": [
+        "charlie"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Charlie, 1976"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "charlie"
+        ]
+      },
+      "_said": "at its absolute maximum Charlie was bypassed"
+    },
+    {
+      "fp": "13rixox",
+      "i": 110,
+      "from": 25070,
+      "subject": "law",
+      "entities": [],
+      "concept": "law",
+      "place": "court",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "law, court, 1976"
+      },
+      "antidote": {
+        "concept": "law",
+        "set": "court",
+        "cast": []
+      },
+      "_said": "bypassed by the juvenile system entirely and tried as an adult for capital murder. a 14-year-old kid who weighed less than 100 pounds. Sent to an adult maximum security prison."
+    },
+    {
+      "fp": "16s0gzl",
+      "i": 111,
+      "from": 25368,
+      "subject": "Stevenson and Charlie — law",
+      "entities": [
+        "stevenson",
+        "charlie"
+      ],
+      "concept": "law",
+      "place": "court",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Stevenson and Charlie, court, 1976"
+      },
+      "antidote": {
+        "concept": "law",
+        "set": "court",
+        "cast": [
+          "stevenson",
+          "charlie"
+        ]
+      },
+      "_said": "prison. When Stevenson visits him, Charlie is covered in bruises, entirely non-verbal and suicidal. He"
+    },
+    {
+      "fp": "1eu0up0",
+      "i": 112,
+      "from": 25560,
+      "subject": "Stevenson and Charlie — law",
+      "entities": [
+        "stevenson",
+        "charlie"
+      ],
+      "concept": "law",
+      "place": "court",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Stevenson and Charlie, court, 1976"
+      },
+      "antidote": {
+        "concept": "law",
+        "set": "court",
+        "cast": [
+          "stevenson",
+          "charlie"
+        ]
+      },
+      "_said": "He had been sexually assaulted multiple times in his first few days there. Stevenson tries everything to get him to speak and finally just abandons the legal approach and physicall"
+    },
+    {
+      "fp": "1olkkml",
+      "i": 113,
+      "from": 25965,
+      "subject": "chains",
+      "entities": [],
+      "concept": "chains",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "chains, 1976"
+      },
+      "antidote": {
+        "concept": "chains",
+        "cast": []
+      },
+      "_said": "look at a bruised 14-year-old and decide to lock him in a cage with violent men? To understand that, we have to look"
+    },
+    {
+      "fp": "1nw5z2u",
+      "i": 114,
+      "from": 26143,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1976"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "look at the historical context of the 1990s. This was the era where the super predator myth took hold"
+    },
+    {
+      "fp": "ny11k2",
+      "i": 115,
+      "from": 26342,
+      "subject": "law",
+      "entities": [],
+      "concept": "law",
+      "place": "court",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "law, hold of the american legal consciousness, court, 1976"
+      },
+      "antidote": {
+        "concept": "law",
+        "set": "court",
+        "cast": []
+      },
+      "_said": "hold of the American legal consciousness. Explain that myth because it sounds like a comic book villain, not a legal It was a deeply flawed theory promoted by a"
+    },
+    {
+      "fp": "1im2688",
+      "i": 116,
+      "from": 26642,
+      "subject": "water",
+      "entities": [],
+      "concept": "water",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "water, 1976"
+      },
+      "antidote": {
+        "concept": "water",
+        "set": null,
+        "cast": []
+      },
+      "_said": "a few prominent criminologists. They predicted a new wave of radically impulsive, brutally remorseless youth was about to flood the streets. And this rhetoric"
+    },
+    {
+      "fp": "1ms7ai",
+      "i": 117,
+      "from": 26949,
+      "subject": "photo",
+      "entities": [],
+      "concept": "photo",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "photo, 1976"
+      },
+      "antidote": {
+        "concept": "photo",
+        "set": null,
+        "cast": []
+      },
+      "_said": "rhetoric was heavily racially coded. Right. Overwhelmingly, they were painting a picture of black and brown kids in urban environments. The language was weaponized to create a mora"
+    },
+    {
+      "fp": "z5dxjy",
+      "i": 118,
+      "from": 27305,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1976"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "stripped away juvenile protections completely. They lowered the age for adult trials"
+    },
+    {
+      "fp": "16yupob",
+      "i": 119,
+      "from": 27422,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1976"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "trials and created mandatory transfer laws, bypassing"
+    },
+    {
+      "fp": "fpcrbq",
+      "i": 120,
+      "from": 27499,
+      "subject": "law",
+      "entities": [],
+      "concept": "law",
+      "place": "court",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "law, court, 1976"
+      },
+      "antidote": {
+        "concept": "law",
+        "set": "court",
+        "cast": []
+      },
+      "_said": "bypassing judges entirely. Tens of thousands of children were thrown into the adult prison Like Joe Sullivan, a 13-year-old"
+    },
+    {
+      "fp": "eoqgxm",
+      "i": 121,
+      "from": 27700,
+      "subject": "lightbulb",
+      "entities": [],
+      "concept": "lightbulb",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "lightbulb, 1976"
+      },
+      "antidote": {
+        "concept": "lightbulb",
+        "cast": []
+      },
+      "_said": "13-year-old with mental disabilities sentenced to life without parole for a non-homicide, or Ian Manuel, who at 13 was placed in solitary confinement for years. Yes. Living his ent"
+    },
+    {
+      "fp": "1dh83ci",
+      "i": 122,
+      "from": 28089,
+      "subject": "grave",
+      "entities": [],
+      "concept": "grave",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "grave, 1976"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": null,
+        "cast": []
+      },
+      "_said": "that a 13-year-old is irredeemable is the exact same logic that puts innocent adults on death row. It makes no sense. We know teenagers don't"
+    },
+    {
+      "fp": "1ye17u",
+      "i": 123,
+      "from": 28351,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1976"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "don't have fully developed brains. The law operates on fictions when it needs to. When the state labels someone as irredeemable, it revokes their humanity,"
+    },
+    {
+      "fp": "1g2rxv7",
+      "i": 124,
+      "from": 28613,
+      "subject": "law",
+      "entities": [],
+      "concept": "law",
+      "place": "court",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "law, court, 1976"
+      },
+      "antidote": {
+        "concept": "law",
+        "set": "court",
+        "cast": []
+      },
+      "_said": "humanity, granting itself permission to inflict cruelty without guilt. So, how do you fight a machine that processes people like widgets? You can't just file a legal brief. No. And"
+    },
+    {
+      "fp": "e0gw6t",
+      "i": 125,
+      "from": 28960,
+      "subject": "Which — lightbulb",
+      "entities": [
+        "which"
+      ],
+      "concept": "lightbulb",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Which, 1976"
+      },
+      "antidote": {
+        "concept": "lightbulb",
+        "cast": [
+          "which"
+        ]
+      },
+      "_said": "Stevenson's methodology. He realizes he has to jam the gears with physical reality, which brings us back to the strategy of proximity. Right. The breakthrough"
+    },
+    {
+      "fp": "e5ne79",
+      "i": 126,
+      "from": 29193,
+      "subject": "Walter and Stevenson — lightbulb",
+      "entities": [
+        "walter",
+        "stevenson"
+      ],
+      "concept": "lightbulb",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Walter and Stevenson, 1976"
+      },
+      "antidote": {
+        "concept": "lightbulb",
+        "cast": [
+          "walter",
+          "stevenson"
+        ]
+      },
+      "_said": "breakthrough in Walter McMillian's case comes when Stevenson actually drives back to Monroeville, crosses the tracks"
+    },
+    {
+      "fp": "agn184",
+      "i": 127,
+      "from": 29378,
+      "subject": "door",
+      "entities": [],
+      "concept": "door",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "door, 1976"
+      },
+      "antidote": {
+        "concept": "door",
+        "cast": []
+      },
+      "_said": "tracks into the black community, and starts knocking on doors. He goes to Walter's"
+    },
+    {
+      "fp": "1wmqyl",
+      "i": 128,
+      "from": 29496,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1976"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Walter's community and almost immediately finds a"
+    },
+    {
+      "fp": "1fylrp4",
+      "i": 129,
+      "from": 29560,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1976"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "a man named Darnell who completely destroys the state's timeline. Darnell proves the state's other key witness, Bill Hooks, was at work with him all day during the murder. Hooks co"
+    },
+    {
+      "fp": "csiq8q",
+      "i": 130,
+      "from": 29901,
+      "subject": "road",
+      "entities": [],
+      "concept": "road",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "road, 1976"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": null,
+        "cast": []
+      },
+      "_said": "because he was turning wrenches miles away. And"
+    },
+    {
+      "fp": "vqgmyv",
+      "i": 131,
+      "from": 29971,
+      "subject": "Stevenson — home",
+      "entities": [
+        "stevenson"
+      ],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Stevenson, 1976"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": [
+          "stevenson"
+        ]
+      },
+      "_said": "And then Stevenson finds dozens of churchgoers who were literally at a fish fry at Walter's house when the murder happened. A cop even bought a fish sandwich from them. The evidenc"
+    },
+    {
+      "fp": "1gl64k1",
+      "i": 132,
+      "from": 30288,
+      "subject": "law",
+      "entities": [],
+      "concept": "law",
+      "place": "court",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "law, court, 1976"
+      },
+      "antidote": {
+        "concept": "law",
+        "set": "court",
+        "cast": []
+      },
+      "_said": "evidence of innocence was overwhelming. So the question is, why didn't the police know about his alibi? Because they literally never went to the black part of town. They didn't ask"
+    },
+    {
+      "fp": "p6mbru",
+      "i": 133,
+      "from": 30595,
+      "subject": "Walter",
+      "entities": [
+        "walter"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Walter, 1976"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "walter"
+        ]
+      },
+      "_said": "ask a single person where Walter was. The system simply never looked. And this is Stevenson's"
+    },
+    {
+      "fp": "2k35g3",
+      "i": 134,
+      "from": 30746,
+      "subject": "law",
+      "entities": [],
+      "concept": "law",
+      "place": "court",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "law, hold trials, court, 1976"
+      },
+      "antidote": {
+        "concept": "law",
+        "set": "court",
+        "cast": []
+      },
+      "_said": "Stevenson's most profound insight. Distance is the lifeblood of injustice. How so? How is the system designed for Think about an appellate court. appellate judges don't hold trials"
+    },
+    {
+      "fp": "b71i7e",
+      "i": 135,
+      "from": 31135,
+      "subject": "road",
+      "entities": [],
+      "concept": "road",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "road, sit in courtrooms hundreds of miles away, 1976"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": null,
+        "cast": []
+      },
+      "_said": "sit in courtrooms hundreds of miles away and read paper transcripts."
+    },
+    {
+      "fp": "1g9wyed",
+      "i": 136,
+      "from": 31233,
+      "subject": "law",
+      "entities": [],
+      "concept": "law",
+      "place": "court",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "law, court, 1976"
+      },
+      "antidote": {
+        "concept": "law",
+        "set": "court",
+        "cast": []
+      },
+      "_said": "transcripts. They evaluate abstract arguments. Exactly. They don't see the tears, the poverty, or smell the prison air."
+    },
+    {
+      "fp": "1dz8cx",
+      "i": 137,
+      "from": 31411,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "sitting in front of you, 1976"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "air. This structural distance makes it incredibly easy to condemn a piece of paper, but infinitely harder to condemn a human being sitting in front of you."
+    },
+    {
+      "fp": "g9u5f7",
+      "i": 138,
+      "from": 31634,
+      "subject": "Stevenson — family",
+      "entities": [
+        "stevenson"
+      ],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Stevenson, 1976"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": [
+          "stevenson"
+        ]
+      },
+      "_said": "you. Stevenson recalls his grandmother who was born to enslaved parents. She used to hug him incredibly tight and say, \"You can't understand most of the important things from a dis"
+    },
+    {
+      "fp": "1pccqj6",
+      "i": 139,
+      "from": 32049,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1976"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "thesis. Proximity collapses the It's like a doctor diagnosing a complex disease over a"
+    },
+    {
+      "fp": "1f0sgfh",
+      "i": 140,
+      "from": 32215,
+      "subject": "target",
+      "entities": [],
+      "concept": "target",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "target, 1976"
+      },
+      "antidote": {
+        "concept": "target",
+        "cast": []
+      },
+      "_said": "a bad phone connection without ever looking at the patient. You have to get close to the wound. That is an excellent analogy. But the tragedy is that this machine doesn't just targ"
+    },
+    {
+      "fp": "10tu1l4",
+      "i": 141,
+      "from": 32592,
+      "subject": "Which",
+      "entities": [
+        "which"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Which, 1976"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "which"
+        ]
+      },
+      "_said": "targets anyone lacking socioeconomic resources. Which takes us to"
+    },
+    {
+      "fp": "ecdc03",
+      "i": 142,
+      "from": 32697,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1976"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "to a massive demographic shift, the expansion of this machinery to women, specifically through the criminalization of poverty. The statistics are staggering. Over the last 30 years"
+    },
+    {
+      "fp": "167ot6b",
+      "i": 143,
+      "from": 33024,
+      "subject": "Stevenson",
+      "entities": [
+        "stevenson"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Stevenson, 1976"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "stevenson"
+        ]
+      },
+      "_said": "been a 640% increase in women's incarceration. That's a massive explosion. and mostly for non-violent crimes driven by poverty and addiction. Stevenson highlights the case"
+    },
+    {
+      "fp": "y6oyd6",
+      "i": 144,
+      "from": 33350,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1976"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "case of Marshia Colby to show how aggressive this gets. Walk"
+    },
+    {
+      "fp": "14fg6tu",
+      "i": 145,
+      "from": 33441,
+      "subject": "Alabama — law",
+      "entities": [
+        "alabama"
+      ],
+      "concept": "law",
+      "place": "court",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Alabama, walk me through marsha's case because the le, court, 1976"
+      },
+      "antidote": {
+        "concept": "law",
+        "set": "court",
+        "cast": [
+          "alabama"
+        ]
+      },
+      "_said": "Walk me through Marsha's case because the legal logic is terrifying. Marsha was a poor woman living in a dilapidated trailer in Alabama. She"
+    },
+    {
+      "fp": "ndv96s",
+      "i": 146,
+      "from": 33669,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1976"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "She had a difficult history, previous kids taken by the state. She gets pregnant again, but she's incredibly"
+    },
+    {
+      "fp": "1o90bkh",
+      "i": 147,
+      "from": 33806,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1976"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "incredibly poor without transportation and terrified of the right? So, she"
+    },
+    {
+      "fp": "x92c7z",
+      "i": 148,
+      "from": 33938,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1976"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "she doesn't seek formal prenatal care. Tragically, she goes into premature labor and gives birth to a stillborn baby. A neighbor gets suspicious and calls the cops. And the state d"
+    },
+    {
+      "fp": "hq01o2",
+      "i": 149,
+      "from": 34358,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, 1976"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": []
+      },
+      "_said": "she must have intentionally murdered the They charged a grieving mother with capital murder."
+    },
+    {
+      "fp": "kw1u0l",
+      "i": 150,
+      "from": 34517,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1976"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "The prosecution argued her inability to afford medical care was affirmative proof of her malicious intent to murder her child. This is exactly where the machinery fundamentally mor"
+    },
+    {
+      "fp": "11f9ab9",
+      "i": 151,
+      "from": 34831,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1976"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "It stops prosecuting distinct crimes and begins criminalizing the very conditions of poverty itself. It's the ultimate structural trap. The state"
+    },
+    {
+      "fp": "niy4rc",
+      "i": 152,
+      "from": 35088,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1976"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "state makes healthcare inaccessible and then prosecutes you for the biological consequences of not having it. You've accurately identified the trap and it was fueled by an intersec"
+    },
+    {
+      "fp": "h65f50",
+      "i": 153,
+      "from": 35397,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1976"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "media hysteria surrounding so-called bad mothers. Right. The media hyperfocused on a few cases of women"
+    },
+    {
+      "fp": "b0ijjw",
+      "i": 154,
+      "from": 35556,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1976"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "women with severe postpartum psychosis. And instead of treating it as a mental health crisis, the criminal justice system sees the narrative to expand their jurisdiction. If you're"
+    },
+    {
+      "fp": "8d4cok",
+      "i": 155,
+      "from": 35858,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": "hospital",
+      "confidence": 0.35,
+      "vox": {
+        "shot": "hospital, 1976"
+      },
+      "antidote": {
+        "concept": null,
+        "set": "hospital",
+        "cast": []
+      },
+      "_said": "in a private hospital and have a still birth, it's a tragedy. If you're poor in a trailer, it's a crime scene. Exactly. And the system's"
+    },
+    {
+      "fp": "1nwuozt",
+      "i": 156,
+      "from": 36086,
+      "subject": "Which — family",
+      "entities": [
+        "which"
+      ],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Which, 1976"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": [
+          "which"
+        ]
+      },
+      "_said": "system's inability to show mercy to a grieving mother is perfectly mirrored by its inability to show mercy to those shattered by trauma. Which brings us to the execution"
+    },
+    {
+      "fp": "1onppcs",
+      "i": 157,
+      "from": 36377,
+      "subject": "Walter and Herbert",
+      "entities": [
+        "walter",
+        "herbert"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Walter and Herbert, 1976"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "walter",
+          "herbert"
+        ]
+      },
+      "_said": "execution of Herbert Richardson. This is challenging because we have to confront the limits of our empathy. Walter was innocent,"
+    },
+    {
+      "fp": "2dma5y",
+      "i": 158,
+      "from": 36576,
+      "subject": "Herbert — grave",
+      "entities": [
+        "herbert"
+      ],
+      "concept": "grave",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Herbert, 1976"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": null,
+        "cast": [
+          "herbert"
+        ]
+      },
+      "_said": "innocent, but Herbert actually committed a crime. Yes, a horrific crime was committed, but the machinery of death is still structurally the wrong answer. Herbert"
+    },
+    {
+      "fp": "1ep091f",
+      "i": 159,
+      "from": 36830,
+      "subject": "Herbert",
+      "entities": [
+        "herbert"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Herbert, 1976"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "herbert"
+        ]
+      },
+      "_said": "Herbert was a Vietnam veteran with severe PTSD and"
+    },
+    {
+      "fp": "1tvqz8h",
+      "i": 160,
+      "from": 36921,
+      "subject": "trophy",
+      "entities": [],
+      "concept": "trophy",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "trophy, leave on her porch, 1976"
+      },
+      "antidote": {
+        "concept": "trophy",
+        "cast": []
+      },
+      "_said": "and a documented brain injury. His mind was fractured by trauma from serving the state. And in a desperate, ill attempt to win back a former girlfriend, he built a pipe bomb to lea"
+    },
+    {
+      "fp": "ufxocl",
+      "i": 161,
+      "from": 37329,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1976"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "a But reality didn't follow his logic. A young child found the bomb and it killed her. An undeniable tragedy. But legally,"
+    },
+    {
+      "fp": "17mgiyy",
+      "i": 162,
+      "from": 37526,
+      "subject": "Herbert — grave",
+      "entities": [
+        "herbert"
+      ],
+      "concept": "grave",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Herbert, 1976"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": null,
+        "cast": [
+          "herbert"
+        ]
+      },
+      "_said": "legally, capital murder requires intent to kill. Herbert had absolutely no intent to kill So, how did he end up on death row? The prosecutor used a highly controversial"
+    },
+    {
+      "fp": "ij43zz",
+      "i": 163,
+      "from": 37812,
+      "subject": "law",
+      "entities": [],
+      "concept": "law",
+      "place": "court",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "law, court, 1976"
+      },
+      "antidote": {
+        "concept": "law",
+        "set": "court",
+        "cast": []
+      },
+      "_said": "controversial legal theory called transferred intent. They argued that building a bomb contained"
+    },
+    {
+      "fp": "1lzmzi5",
+      "i": 164,
+      "from": 37968,
+      "subject": "grave",
+      "entities": [],
+      "concept": "grave",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "grave, 1976"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": null,
+        "cast": []
+      },
+      "_said": "contained a generalized malice that transferred to the child and the judge just allowed it. Yes. Because the system wanted a death sentence. Herbert's PTSD and brain injury"
+    },
+    {
+      "fp": "17t58wo",
+      "i": 165,
+      "from": 38256,
+      "subject": "Stevenson and Herbert",
+      "entities": [
+        "stevenson",
+        "herbert"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Stevenson and Herbert, sits with herbert in his final hours, 1976"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "stevenson",
+          "herbert"
+        ]
+      },
+      "_said": "injury were almost entirely brushed And because of this, Stevenson sits with Herbert in his final hours. He describes"
+    },
+    {
+      "fp": "1cclwg2",
+      "i": 166,
+      "from": 38467,
+      "subject": "magnifier",
+      "entities": [],
+      "concept": "magnifier",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "magnifier, 1976"
+      },
+      "antidote": {
+        "concept": "magnifier",
+        "cast": []
+      },
+      "_said": "describes the execution protocol in agonizing detail. We have to remember the botched execution of"
+    },
+    {
+      "fp": "xqwkmr",
+      "i": 167,
+      "from": 38637,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1976"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "of John Evans a few years prior in that same chair. That Evans execution is crucial context. It took 14 minutes to kill John Evans. Three separate jolts of"
+    },
+    {
+      "fp": "1o1nsf9",
+      "i": 168,
+      "from": 38904,
+      "subject": "fire",
+      "entities": [],
+      "concept": "fire",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "fire, 1976"
+      },
+      "antidote": {
+        "concept": "fire",
+        "cast": []
+      },
+      "_said": "of 1900 volts. The electrode on his leg burst into flames. The chamber filled with smoke and they were essentially cooking a man alive. That is the physical reality of the machiner"
+    },
+    {
+      "fp": "feryvh",
+      "i": 169,
+      "from": 39259,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1976"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "guards are physically trembling. The warding can barely speak."
+    },
+    {
+      "fp": "qd5bcu",
+      "i": 170,
+      "from": 39365,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1976"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "speak. The people operating the machinery are deeply traumatized by what they are forced to do. It damages everyone. when it touches the system ignores the trauma that created the "
+    },
+    {
+      "fp": "1lww9pr",
+      "i": 171,
+      "from": 39705,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, 1976"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": []
+      },
+      "_said": "inflicts a massive new layer of trauma on the state employees, the victim's family, and"
+    },
+    {
+      "fp": "1t52v46",
+      "i": 172,
+      "from": 39845,
+      "subject": "Stevenson",
+      "entities": [
+        "stevenson"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Stevenson, 1976"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "stevenson"
+        ]
+      },
+      "_said": "and the other Stevenson"
+    },
+    {
+      "fp": "msf179",
+      "i": 173,
+      "from": 39902,
+      "subject": "Stevenson — grave",
+      "entities": [
+        "stevenson"
+      ],
+      "concept": "grave",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Stevenson, carrying out the killing? so, 1976"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": null,
+        "cast": [
+          "stevenson"
+        ]
+      },
+      "_said": "Stevenson is illustrating a profound point. The death penalty is also a question of what the process does to us as a society. Do we have the moral right to break the humanity of th"
+    },
+    {
+      "fp": "1i83m5k",
+      "i": 174,
+      "from": 40310,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1976"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "see this machine processing innocent men,"
+    },
+    {
+      "fp": "gvwckm",
+      "i": 175,
+      "from": 40387,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1976"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "men, traumatized kids, poor women, and veterans into a meat grinder, how do you fix it? You have to change the rules of the machine itself. You take it to the absolute top."
+    },
+    {
+      "fp": "1yztj8t",
+      "i": 176,
+      "from": 40658,
+      "subject": "Stevenson — law",
+      "entities": [
+        "stevenson"
+      ],
+      "concept": "law",
+      "place": "court",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Stevenson, court, 1976"
+      },
+      "antidote": {
+        "concept": "law",
+        "set": "court",
+        "cast": [
+          "stevenson"
+        ]
+      },
+      "_said": "top. The Supreme Court, Stevenson, and EJI pivot to constitutional reform, challenging juvenile life without parole in cases"
+    },
+    {
+      "fp": "oc28qx",
+      "i": 177,
+      "from": 40860,
+      "subject": "Alabama — law",
+      "entities": [
+        "alabama"
+      ],
+      "concept": "law",
+      "place": "court",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Alabama, court, 1976"
+      },
+      "antidote": {
+        "concept": "law",
+        "set": "court",
+        "cast": [
+          "alabama"
+        ]
+      },
+      "_said": "cases like Graan v, Florida, and Miller v. Alabama. They argued that condemning children to die in prison constitutes cruel and unusual punishment. The US was the only country in t"
+    },
+    {
+      "fp": "1p7pdch",
+      "i": 178,
+      "from": 41251,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1976"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "based on emerging adolescent neuroscience. They broke down"
+    },
+    {
+      "fp": "1r3b2f6",
+      "i": 179,
+      "from": 41345,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1976"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "down the biological development of the human brain for the justices, showing them the structural aimmetry. In early puberty, the rewardseeking, risk-taking part of the brain is fir"
+    },
+    {
+      "fp": "1g0d8b1",
+      "i": 180,
+      "from": 41640,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1976"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "firing on all cylinders. But the prefrontal cortex, the part responsible for impulse control"
+    },
+    {
+      "fp": "q8u2j7",
+      "i": 181,
+      "from": 41791,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1976"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "control and evaluating long-term consequences, doesn't mature until the mid20s. It's"
+    },
+    {
+      "fp": "s3tvou",
+      "i": 182,
+      "from": 41935,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1976"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "It's the hardware versus software analogy again. The operating system for immediate reactions is fully installed, but"
+    },
+    {
+      "fp": "12kezkq",
+      "i": 183,
+      "from": 42115,
+      "subject": "home",
+      "entities": [],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "home, 1976"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": []
+      },
+      "_said": "but the predictive modeling software for the future hasn't even been downloaded That is a perfect translation. It is biologically cruel to judge a 14-year-old as a fully formed adu"
+    },
+    {
+      "fp": "kdl3gf",
+      "i": 184,
+      "from": 42530,
+      "subject": "Stevenson — law",
+      "entities": [
+        "stevenson"
+      ],
+      "concept": "law",
+      "place": "court",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Stevenson, court, 1976"
+      },
+      "antidote": {
+        "concept": "law",
+        "set": "court",
+        "cast": [
+          "stevenson"
+        ]
+      },
+      "_said": "set. And Stevenson brought the lived realities of these kids directly into the Supreme Court. He forced"
+    },
+    {
+      "fp": "oppidj",
+      "i": 185,
+      "from": 42679,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1976"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "forced those insulated judges to get close to see them as unfinished kids. and it worked."
+    },
+    {
+      "fp": "ktac0c",
+      "i": 186,
+      "from": 42828,
+      "subject": "law",
+      "entities": [],
+      "concept": "law",
+      "place": "court",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "law, court, 1976"
+      },
+      "antidote": {
+        "concept": "law",
+        "set": "court",
+        "cast": []
+      },
+      "_said": "worked. The court banned mandatory life without parole for A monumental shift."
+    },
+    {
+      "fp": "r5z77l",
+      "i": 187,
+      "from": 42986,
+      "subject": "Alabama and Which — trophy",
+      "entities": [
+        "alabama",
+        "which"
+      ],
+      "concept": "trophy",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Alabama and Which, 1976"
+      },
+      "antidote": {
+        "concept": "trophy",
+        "cast": [
+          "alabama",
+          "which"
+        ]
+      },
+      "_said": "shift. But winning in Washington DC is one thing. What happens when you force the system to admit it was wrong locally in Alabama? Which brings us back"
+    },
+    {
+      "fp": "nsc173",
+      "i": 188,
+      "from": 43217,
+      "subject": "Walter and Stevenson",
+      "entities": [
+        "walter",
+        "stevenson"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Walter and Stevenson, 1976"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "walter",
+          "stevenson"
+        ]
+      },
+      "_said": "to Walter McMillian. After years of proximity, Stevenson finally proves the state's witnesses were coerced and the"
+    },
+    {
+      "fp": "bb4ad3",
+      "i": 189,
+      "from": 43447,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1976"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "the state's narrative collapses. The state officially admits his innocence. After"
+    },
+    {
+      "fp": "xf69wf",
+      "i": 190,
+      "from": 43577,
+      "subject": "Walter — grave",
+      "entities": [
+        "walter"
+      ],
+      "concept": "grave",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Walter, 1976"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": null,
+        "cast": [
+          "walter"
+        ]
+      },
+      "_said": "six agonizing years on death row, Walter is exonerated and But the book refuses to give us a simple fairy tale ending."
+    },
+    {
+      "fp": "x3rbxr",
+      "i": 191,
+      "from": 43817,
+      "subject": "Walter",
+      "entities": [
+        "walter"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Walter, 1976"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "walter"
+        ]
+      },
+      "_said": "ending. When Walter returns to Monroeville, he is met with intense hostility. The white community still views him as a criminal who got away on a technicality."
+    },
+    {
+      "fp": "1lz1cl",
+      "i": 192,
+      "from": 44095,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1976"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "technicality. He struggles immensely and develops early onset dementia, likely exacerbated by"
+    },
+    {
+      "fp": "ln5q2p",
+      "i": 193,
+      "from": 44229,
+      "subject": "Walter and Stevenson — grave",
+      "entities": [
+        "walter",
+        "stevenson"
+      ],
+      "concept": "grave",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Walter and Stevenson, 1976"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": null,
+        "cast": [
+          "walter",
+          "stevenson"
+        ]
+      },
+      "_said": "by the extreme neurological stress of death row. And when Stevenson tries to sue the county sheriff, Sheriff Tate, the man who engineered the false arrest and threatened Walter wit"
+    },
+    {
+      "fp": "1wtpfs1",
+      "i": 194,
+      "from": 44537,
+      "subject": "law",
+      "entities": [],
+      "concept": "law",
+      "place": "court",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "law, court, 1976"
+      },
+      "antidote": {
+        "concept": "law",
+        "set": "court",
+        "cast": []
+      },
+      "_said": "the Supreme Court blocks it. Utilizing a doctrine known as sovereign they decided a county sheriff is technically an officer of the state, granting"
+    },
+    {
+      "fp": "1ibq0rf",
+      "i": 195,
+      "from": 44784,
+      "subject": "work",
+      "entities": [],
+      "concept": "work",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "work, 1976"
+      },
+      "antidote": {
+        "concept": "work",
+        "set": null,
+        "cast": []
+      },
+      "_said": "granting him absolute immunity. Sheriff Tate faced zero consequences and kept his job for decades. It perfectly illustrates"
+    },
+    {
+      "fp": "1xaycs",
+      "i": 196,
+      "from": 44993,
+      "subject": "coin",
+      "entities": [],
+      "concept": "coin",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "coin, 1976"
+      },
+      "antidote": {
+        "concept": "coin",
+        "cast": []
+      },
+      "_said": "the ultimate synthesis of the book. The machinery is explicitly designed to insulate itself from liability, to never look back, and to never admit fault. The opposite of poverty is"
+    },
+    {
+      "fp": "l5vjcp",
+      "i": 197,
+      "from": 45348,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1976"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "poverty is justice. And justice cannot exist in a system that fundamentally lacks mercy. Because mercy is"
+    },
+    {
+      "fp": "gefcvi",
+      "i": 198,
+      "from": 45533,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1976"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "is the active disruptive force that forces the blind machinery to pause and recognize its own fallibility. Each of us is more than the worst thing we've ever done. If we allow fear"
+    },
+    {
+      "fp": "1kn1roi",
+      "i": 199,
+      "from": 45914,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1976"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "be our only operating principles, we destroy ourselves,"
+    },
+    {
+      "fp": "pafnfs",
+      "i": 200,
+      "from": 46022,
+      "subject": "Walter and Charlie and Herbert",
+      "entities": [
+        "walter",
+        "charlie",
+        "herbert"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Walter and Charlie, 1976"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "walter",
+          "charlie",
+          "herbert"
+        ]
+      },
+      "_said": "ourselves, we condemn ourselves to a society devoid of When we look at Walter, Charlie, Marsha, and Herbert, their humanity was erased by distance. It was only by getting close tha"
+    },
+    {
+      "fp": "17ykq3p",
+      "i": 201,
+      "from": 46348,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1976"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "that the structural failures were And this brings it all back to you listening right now. You might think, why does this matter to me? I'm not a It matters because an absence of co"
+    },
+    {
+      "fp": "13mpnn4",
+      "i": 202,
+      "from": 46608,
+      "subject": "coin",
+      "entities": [],
+      "concept": "coin",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "coin, 1976"
+      },
+      "antidote": {
+        "concept": "coin",
+        "cast": []
+      },
+      "_said": "at the structural level corrupts the decency of the entire community. That machine operates in our names. It is fueled by our tax dollars and justified by our silent complicity. We"
+    },
+    {
+      "fp": "1efr7hv",
+      "i": 203,
+      "from": 46994,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "leave you with a final thought to mle over, 1976"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "to the suffering inflicted by the institutions we created. So, I want to leave you with a final thought to mle over today. Think about your own community. Where are you keeping you"
+    },
+    {
+      "fp": "1ywfjt6",
+      "i": 204,
+      "from": 47361,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1976"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "remain a convenient obstruction? Is it the unhoused person on your corner? the kids"
+    },
+    {
+      "fp": "pco6b",
+      "i": 205,
+      "from": 47539,
+      "subject": "school",
+      "entities": [],
+      "concept": "school",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "school, 1976"
+      },
+      "antidote": {
+        "concept": "school",
+        "set": null,
+        "cast": []
+      },
+      "_said": "kids in the underfunded school across town."
+    }
+  ]
+}

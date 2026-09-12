@@ -1,0 +1,131 @@
+{
+  "slug": "supercommunicators",
+  "world": {
+    "era": "1982–1982",
+    "approxYear": 1982,
+    "setting": "",
+    "register": "",
+    "forbid": []
+  },
+  "cast": {
+    "lawler": {
+      "name": "Lawler",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 2
+    }
+  },
+  "places": {
+    "cafe": {
+      "set": "cafe",
+      "look": "",
+      "mentions": 5
+    },
+    "office": {
+      "set": "office",
+      "look": "",
+      "mentions": 2
+    },
+    "street": {
+      "set": "street",
+      "look": "",
+      "mentions": 1
+    },
+    "kitchen": {
+      "set": "kitchen",
+      "look": "",
+      "mentions": 1
+    }
+  },
+  "objects": [
+    {
+      "concept": "phone",
+      "mentions": 16,
+      "why": ""
+    },
+    {
+      "concept": "work",
+      "mentions": 15,
+      "why": ""
+    },
+    {
+      "concept": "game",
+      "mentions": 13,
+      "why": ""
+    },
+    {
+      "concept": "target",
+      "mentions": 11,
+      "why": ""
+    },
+    {
+      "concept": "gift",
+      "mentions": 8,
+      "why": ""
+    },
+    {
+      "concept": "home",
+      "mentions": 6,
+      "why": ""
+    },
+    {
+      "concept": "family",
+      "mentions": 6,
+      "why": ""
+    },
+    {
+      "concept": "school",
+      "mentions": 5,
+      "why": ""
+    },
+    {
+      "concept": "rocketLaunch",
+      "mentions": 5,
+      "why": ""
+    },
+    {
+      "concept": "war",
+      "mentions": 5,
+      "why": ""
+    },
+    {
+      "concept": "heart",
+      "mentions": 5,
+      "why": ""
+    },
+    {
+      "concept": "subway",
+      "mentions": 4,
+      "why": ""
+    }
+  ],
+  "spine": [
+    {
+      "act": "setup",
+      "fromFrame": 2,
+      "claim": ""
+    },
+    {
+      "act": "development",
+      "fromFrame": 14815,
+      "claim": ""
+    },
+    {
+      "act": "turn",
+      "fromFrame": 29294,
+      "claim": ""
+    },
+    {
+      "act": "consequence",
+      "fromFrame": 43346,
+      "claim": ""
+    },
+    {
+      "act": "close",
+      "fromFrame": 58800,
+      "claim": ""
+    }
+  ],
+  "authored": false
+}

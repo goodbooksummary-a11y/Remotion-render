@@ -1,0 +1,167 @@
+{
+  "slug": "laws-of-human-nature",
+  "world": {
+    "era": "1915–1919",
+    "approxYear": 1919,
+    "setting": "",
+    "register": "",
+    "forbid": [
+      "phone",
+      "codeWindow",
+      "laptopMockup",
+      "rocketLaunch",
+      "funnelMetrics",
+      "dollarExchange",
+      "subway",
+      "car",
+      "alarmClock",
+      "medical"
+    ]
+  },
+  "cast": {
+    "pericles": {
+      "name": "Pericles",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 3
+    },
+    "czechov": {
+      "name": "Czechov",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 3
+    },
+    "stalin": {
+      "name": "Stalin",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 2
+    },
+    "mary": {
+      "name": "Mary",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 2
+    },
+    "jane": {
+      "name": "Jane",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 2
+    },
+    "people": {
+      "name": "People",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 2
+    }
+  },
+  "places": {
+    "office": {
+      "set": "office",
+      "look": "",
+      "mentions": 3
+    },
+    "kitchen": {
+      "set": "kitchen",
+      "look": "",
+      "mentions": 1
+    }
+  },
+  "objects": [
+    {
+      "concept": "mask",
+      "mentions": 21,
+      "why": ""
+    },
+    {
+      "concept": "family",
+      "mentions": 16,
+      "why": ""
+    },
+    {
+      "concept": "heart",
+      "mentions": 12,
+      "why": ""
+    },
+    {
+      "concept": "shadowSelf",
+      "mentions": 10,
+      "why": ""
+    },
+    {
+      "concept": "work",
+      "mentions": 9,
+      "why": ""
+    },
+    {
+      "concept": "war",
+      "mentions": 8,
+      "why": ""
+    },
+    {
+      "concept": "city",
+      "mentions": 7,
+      "why": ""
+    },
+    {
+      "concept": "fire",
+      "mentions": 7,
+      "why": ""
+    },
+    {
+      "concept": "shield",
+      "mentions": 7,
+      "why": ""
+    },
+    {
+      "concept": "target",
+      "mentions": 5,
+      "why": ""
+    },
+    {
+      "concept": "mirror",
+      "mentions": 5,
+      "why": ""
+    },
+    {
+      "concept": "water",
+      "mentions": 4,
+      "why": ""
+    }
+  ],
+  "spine": [
+    {
+      "act": "setup",
+      "fromFrame": 20,
+      "claim": ""
+    },
+    {
+      "act": "development",
+      "fromFrame": 12934,
+      "claim": ""
+    },
+    {
+      "act": "turn",
+      "fromFrame": 28136,
+      "claim": ""
+    },
+    {
+      "act": "consequence",
+      "fromFrame": 42749,
+      "claim": ""
+    },
+    {
+      "act": "close",
+      "fromFrame": 57915,
+      "claim": ""
+    }
+  ],
+  "authored": false
+}

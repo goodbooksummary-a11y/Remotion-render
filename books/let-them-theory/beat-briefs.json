@@ -1,0 +1,2732 @@
+{
+  "slug": "let-them-theory",
+  "authored": false,
+  "briefs": [
+    {
+      "fp": "1407xfp",
+      "i": 0,
+      "from": 0,
+      "subject": "Which",
+      "entities": [
+        "which"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Which, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "which"
+        ]
+      },
+      "_said": "Here's what nobody tells you about the two words everyone's quoting. Let them was never about other people at all. Right? I mean, which sounds completely counterintuitive at first"
+    },
+    {
+      "fp": "1pr5j9h",
+      "i": 1,
+      "from": 281,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "first because we literally spend our entire lives convinced that, you know, if we could just get the people around us to act right or just like make better choices, then we would f"
+    },
+    {
+      "fp": "1e2nakw",
+      "i": 2,
+      "from": 616,
+      "subject": "mask",
+      "entities": [],
+      "concept": "mask",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "mask, 1995"
+      },
+      "antidote": {
+        "concept": "mask",
+        "cast": []
+      },
+      "_said": "But the absolute truth is that almost every single interpersonal problem you is actually just a control problem in disguise. Wait. A control problem"
+    },
+    {
+      "fp": "l9jf9",
+      "i": 3,
+      "from": 912,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "problem 100%. What's draining you on a daily basis?"
+    },
+    {
+      "fp": "25f2we",
+      "i": 4,
+      "from": 996,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "leaving you so completely depleted? it isn't ot, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "basis? What's leaving you so completely depleted? It isn't other people. It's the silent unpayable demand that you're placing on them to be different than exactly who they are. Oh "
+    },
+    {
+      "fp": "d0o2i6",
+      "i": 5,
+      "from": 1301,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "wow. Okay. So, the promise here is that if you drop the demand, you literally get your life back. You do."
+    },
+    {
+      "fp": "1k9ovof",
+      "i": 6,
+      "from": 1485,
+      "subject": "fire",
+      "entities": [],
+      "concept": "fire",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "fire, 1995"
+      },
+      "antidote": {
+        "concept": "fire",
+        "cast": []
+      },
+      "_said": "do. Because you stop fighting All right. you take back all that burned energy because and this is really the core of what we're looking at today. The control was always the cost. S"
+    },
+    {
+      "fp": "87nelb",
+      "i": 7,
+      "from": 1925,
+      "subject": "Mel — gift",
+      "entities": [
+        "mel"
+      ],
+      "concept": "gift",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Mel, 1995"
+      },
+      "antidote": {
+        "concept": "gift",
+        "cast": [
+          "mel"
+        ]
+      },
+      "_said": "theory by Mel Robbins. And we're not just, you know, giving you a summary of a"
+    },
+    {
+      "fp": "599xdt",
+      "i": 8,
+      "from": 2047,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "a catchy internet phrase. No, definitely not. We are doing a full psychological tearown of why you are"
+    },
+    {
+      "fp": "1y1fg64",
+      "i": 9,
+      "from": 2217,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "are so exhausted by the people around you and how this framework can just completely restructure your life. And to really get how this works, we have to look at the exact moment it"
+    },
+    {
+      "fp": "s71h3r",
+      "i": 10,
+      "from": 2575,
+      "subject": "Which",
+      "entities": [
+        "which"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Which, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "which"
+        ]
+      },
+      "_said": "sterile psychology lab, right? It was born in absolute pure parental panic, which is like the"
+    },
+    {
+      "fp": "1lj74mc",
+      "i": 11,
+      "from": 2765,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "ultimate highstakes environment for our control instincts. Oh man, the scene is just so vivid. So, it's a"
+    },
+    {
+      "fp": "jutuxx",
+      "i": 12,
+      "from": 2916,
+      "subject": "school",
+      "entities": [],
+      "concept": "school",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "school, 1995"
+      },
+      "antidote": {
+        "concept": "school",
+        "set": null,
+        "cast": []
+      },
+      "_said": "a high school prom night and there's this sudden"
+    },
+    {
+      "fp": "1hgrmkf",
+      "i": 13,
+      "from": 3026,
+      "subject": "storm",
+      "entities": [],
+      "concept": "storm",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "storm, 1995"
+      },
+      "antidote": {
+        "concept": "storm",
+        "set": null,
+        "cast": []
+      },
+      "_said": "sudden absolute downpour of rain. You know, that that very specific metallic smell of wet pavement on a hot summer night. Oh, yeah. Totally. So, in the center of town, there's this"
+    },
+    {
+      "fp": "1kwyjso",
+      "i": 14,
+      "from": 3307,
+      "subject": "food",
+      "entities": [],
+      "concept": "food",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "food, holds maybe four tables total, 1995"
+      },
+      "antidote": {
+        "concept": "food",
+        "set": null,
+        "cast": []
+      },
+      "_said": "shed, Amigos Takaria. And it is tiny. It holds maybe four tables total. Barely enough room for a regular dinner rush, let alone a crisis. Exactly."
+    },
+    {
+      "fp": "1f4mqfm",
+      "i": 15,
+      "from": 3573,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "standing outside in this torrential downpour are, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Exactly. And standing outside in this torrential downpour are 20"
+    },
+    {
+      "fp": "sydr9t",
+      "i": 16,
+      "from": 3698,
+      "subject": "school",
+      "entities": [],
+      "concept": "school",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "school, 1995"
+      },
+      "antidote": {
+        "concept": "school",
+        "set": null,
+        "cast": []
+      },
+      "_said": "20 teenagers completely decked out in full black tie attire. And they are about to get absolutely soaked because I mean, they're high school kids. They have"
+    },
+    {
+      "fp": "wnqiv5",
+      "i": 17,
+      "from": 3974,
+      "subject": "food",
+      "entities": [],
+      "concept": "food",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "food, 1995"
+      },
+      "antidote": {
+        "concept": "food",
+        "set": null,
+        "cast": []
+      },
+      "_said": "have zero executive function and they completely forgot to make dinner reservations. I'm like the busiest night of the year, right? So, obviously this triggers a massive"
+    },
+    {
+      "fp": "x1irbg",
+      "i": 18,
+      "from": 4190,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, 1995"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": []
+      },
+      "_said": "massive biological response in the parents. They are swarming."
+    },
+    {
+      "fp": "1xmhqyx",
+      "i": 19,
+      "from": 4289,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "swarming. They're in full crisis mode. Furiously scrolling on their phones. Just desperately trying to find a pizza place that delivers or like anywhere they can see 20 soaked"
+    },
+    {
+      "fp": "1qks18z",
+      "i": 20,
+      "from": 4601,
+      "subject": "Mel — family",
+      "entities": [
+        "mel"
+      ],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Mel, 1995"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": [
+          "mel"
+        ]
+      },
+      "_said": "soaked teenagers. And Mel Robbins is right there in the epicenter. Her stomach is in knots because her son"
+    },
+    {
+      "fp": "1xfgoi8",
+      "i": 21,
+      "from": 4795,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, 1995"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": []
+      },
+      "_said": "son Oakley is out there in the rain in these brand new sneakers he begged for. the ones that are about to be ruined. Ruined. The girl's"
+    },
+    {
+      "fp": "1gvglfv",
+      "i": 22,
+      "from": 4999,
+      "subject": "Mel",
+      "entities": [
+        "mel"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Mel, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "mel"
+        ]
+      },
+      "_said": "girl's expensive gowns are dragging in the mud and Mel is just vibrating with adrenaline, ready to swoop in and fix the night. And I really want to pause on that exact feeling,"
+    },
+    {
+      "fp": "1rljdf6",
+      "i": 23,
+      "from": 5270,
+      "subject": "heart",
+      "entities": [],
+      "concept": "heart",
+      "place": "cafe",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "heart, cafe, 1995"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": "cafe",
+        "cast": []
+      },
+      "_said": "feeling, that vibration you just mentioned, because we usually label that panic as, you know, care or love."
+    },
+    {
+      "fp": "kmmwmd",
+      "i": 24,
+      "from": 5460,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, 1995"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": []
+      },
+      "_said": "love. She's being a good mom, right? But neurologically, what's actually happening is a stress response driven by inshment. She perceives her son's potential"
+    },
+    {
+      "fp": "1p1ylvq",
+      "i": 25,
+      "from": 5726,
+      "subject": "wallet",
+      "entities": [],
+      "concept": "wallet",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "wallet, 1995"
+      },
+      "antidote": {
+        "concept": "wallet",
+        "cast": []
+      },
+      "_said": "potential disappointment as a literal threat to her own emotional stability. Oh, that's heavy. So, she's not just trying to save his night. No, she's trying to control the external"
+    },
+    {
+      "fp": "jev3px",
+      "i": 26,
+      "from": 6074,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "system. Wow. Okay. So, right in the middle of this frantic"
+    },
+    {
+      "fp": "8yxnwr",
+      "i": 27,
+      "from": 6182,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, 1995"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": []
+      },
+      "_said": "frantic scrolling, her older daughter, Kendall, just grabs her arm, stops her dead, and she says four flat words."
+    },
+    {
+      "fp": "q7gsec",
+      "i": 28,
+      "from": 6446,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, 1995"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": []
+      },
+      "_said": "Mom, just let it That's so jarring."
+    },
+    {
+      "fp": "4sqvi4",
+      "i": 29,
+      "from": 6511,
+      "subject": "Mel",
+      "entities": [
+        "mel"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Mel, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "mel"
+        ]
+      },
+      "_said": "jarring. Let them get soaked. Let them get ruined. Let them go eat wherever they And this is the crucial moment to pull apart the physiological shift that happens in Mel right then"
+    },
+    {
+      "fp": "n2u17b",
+      "i": 30,
+      "from": 6797,
+      "subject": "magnifier",
+      "entities": [],
+      "concept": "magnifier",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "magnifier, 1995"
+      },
+      "antidote": {
+        "concept": "magnifier",
+        "cast": []
+      },
+      "_said": "then. Because when you analyze it, the profound relief she feels, that softening in her chest, it doesn't happen because the situation gets resolved."
+    },
+    {
+      "fp": "kipp8w",
+      "i": 31,
+      "from": 7039,
+      "subject": "storm",
+      "entities": [],
+      "concept": "storm",
+      "place": "cafe",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "storm, cafe, 1995"
+      },
+      "antidote": {
+        "concept": "storm",
+        "set": "cafe",
+        "cast": []
+      },
+      "_said": "resolved. Right. It's like a fivestar restaurant suddenly opens up across the street. Exactly. The rain doesn't stop. The sneakers get wet."
+    },
+    {
+      "fp": "1juhjg9",
+      "i": 32,
+      "from": 7231,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "standing outside a taco shed, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "wet. They're still standing outside a taco shed. The relief comes entirely from her dropping the wheel. Okay, let's unpack this because it's like you're furiously trying to conduct"
+    },
+    {
+      "fp": "1oo340y",
+      "i": 33,
+      "from": 7500,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "conduct an orchestra, right? You're sweating, you're waving the baton, your heart rate is spiking, but none of the musicians are even looking at you. They don't even have sheet mus"
+    },
+    {
+      "fp": "1k14b7",
+      "i": 34,
+      "from": 7795,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Exactly. They're just playing whatever they want. And you're exhausted, but not from their chaotic music."
+    },
+    {
+      "fp": "1hkevxd",
+      "i": 35,
+      "from": 7984,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "watching you, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "music. You're exhausted from the sheer physical effort of waving a stick at people who aren't watching you. That is the perfect analogy."
+    },
+    {
+      "fp": "crfqdi",
+      "i": 36,
+      "from": 8200,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "analogy. You're expending massive energy trying to synchronize an ecosystem that is fundamentally autonomous. So for you listening to this right now, the really uncomfortable"
+    },
+    {
+      "fp": "1ne142u",
+      "i": 37,
+      "from": 8462,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "uncomfortable question is where in your life are you currently trying to manage someone else's prom"
+    },
+    {
+      "fp": "rliwrw",
+      "i": 38,
+      "from": 8642,
+      "subject": "storm",
+      "entities": [],
+      "concept": "storm",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "storm, standing in the rain scrolling for, 1995"
+      },
+      "antidote": {
+        "concept": "storm",
+        "set": null,
+        "cast": []
+      },
+      "_said": "prom Where are you standing in the rain scrolling for"
+    },
+    {
+      "fp": "1fna11n",
+      "i": 39,
+      "from": 8762,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "for a solution to a problem that isn't yours? But uh okay, hold on. Let me play devil's advocate here. Go for"
+    },
+    {
+      "fp": "1y3jqkq",
+      "i": 40,
+      "from": 8940,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "for it. Because honestly, taking this at face value makes me a little uneasy. Like if this is just the ultimate life hack for peace, just detach."
+    },
+    {
+      "fp": "ttg6o1",
+      "i": 41,
+      "from": 9160,
+      "subject": "wallet",
+      "entities": [],
+      "concept": "wallet",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "wallet, 1995"
+      },
+      "antidote": {
+        "concept": "wallet",
+        "cast": []
+      },
+      "_said": "detach. Isn't that basically a recipe for chaos? What do you mean? Well, say my partner is secretly draining our savings account. Or I have a friend who's, you know, actively engag"
+    },
+    {
+      "fp": "1fpzeex",
+      "i": 42,
+      "from": 9456,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "some really destructive addiction. If I just sip my tea and say, \"Oh, well, let him.\" That feels Oh, absolutely. It feels like an excuse to just be a completely passive,"
+    },
+    {
+      "fp": "4yshgf",
+      "i": 43,
+      "from": 9703,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "passive, apathetic person. Okay, I have to interrupt you right there because you just hit on the exact trap and it's the biggest danger of this whole"
+    },
+    {
+      "fp": "2qyhn2",
+      "i": 44,
+      "from": 9909,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "whole framework. Let them alone is a terrible dangerous trap. Yes. By itself, it curdles into toxic passivity. It gets abused constantly to dodge hard"
+    },
+    {
+      "fp": "16118qo",
+      "i": 45,
+      "from": 10236,
+      "subject": "shield",
+      "entities": [],
+      "concept": "shield",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "shield, sit on this throne, 1995"
+      },
+      "antidote": {
+        "concept": "shield",
+        "cast": []
+      },
+      "_said": "hard conversations. People use it to tolerate real systemic harm. So, it's like a shield. Exactly. Or they use it to sit on this throne of"
+    },
+    {
+      "fp": "16vz8yt",
+      "i": 46,
+      "from": 10516,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": "cafe",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone, cafe, 1995"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": "cafe",
+        "cast": []
+      },
+      "_said": "of moral superiority while a relationship literally dies. like, \"Oh, my friend didn't text me"
+    },
+    {
+      "fp": "jpf8hd",
+      "i": 47,
+      "from": 10658,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "me back. Fine, let them.\" It completely fails the second you use it to go numb instead of acting. Okay, so then how is it a valid theory?"
+    },
+    {
+      "fp": "1skdpsw",
+      "i": 48,
+      "from": 10843,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "holds together with its forgotten second half, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "theory? Because it only holds together with its forgotten second half. The whole theory relies on two words that come immediately after. Let me. Yes, you sort out what is truly you"
+    },
+    {
+      "fp": "40r2vx",
+      "i": 49,
+      "from": 11181,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "before you let go. Let them drops the illusion of control over other people, but let me is where you take back"
+    },
+    {
+      "fp": "14a7ph7",
+      "i": 50,
+      "from": 11412,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "back your response. It's your boundary. It's your next move. Ah, okay. I'm having a total aha moment"
+    },
+    {
+      "fp": "byk99a",
+      "i": 51,
+      "from": 11606,
+      "subject": "funnelTrap",
+      "entities": [],
+      "concept": "funnelTrap",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "funnel trap, 1995"
+      },
+      "antidote": {
+        "concept": "funnelTrap",
+        "cast": []
+      },
+      "_said": "moment So, it's not about giving up. It's about shifting the energy. You take all that wasted energy from what you can't control and you funnel it into the only thing you can"
+    },
+    {
+      "fp": "o20y7l",
+      "i": 52,
+      "from": 11865,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "can because if you're trying to manage them, if you're obsessing over their choices, the control was always the cost."
+    },
+    {
+      "fp": "17ajkud",
+      "i": 53,
+      "from": 12076,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "cost. You're paying the toll with your own sanity. And to understand why this shift is so hard for us, we actually have to look backward. This isn't just a trendy pop psychology th"
+    },
+    {
+      "fp": "1civv0j",
+      "i": 54,
+      "from": 12444,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "basically the foundational principle of stoicism and even the Buddhist concept of radical"
+    },
+    {
+      "fp": "1ktrcik",
+      "i": 55,
+      "from": 12552,
+      "subject": "law",
+      "entities": [],
+      "concept": "law",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "law, 1995"
+      },
+      "antidote": {
+        "concept": "law",
+        "set": null,
+        "cast": []
+      },
+      "_said": "radical acceptance, right? Like Epictitus. Exactly. Epictitus lived a life where he was literally enslaved. He had zero legal control over his own body or his location."
+    },
+    {
+      "fp": "121fnng",
+      "i": 56,
+      "from": 12840,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "location. Out of that extreme lack of control, he developed the dichotomy of This rigid line"
+    },
+    {
+      "fp": "byt91u",
+      "i": 57,
+      "from": 12989,
+      "subject": "Which",
+      "entities": [
+        "which"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Which, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "which"
+        ]
+      },
+      "_said": "in the universe, right? On one side is what you control, your thoughts, your actions, your response. On the other side is what you never did, which is other adults. And true peace "
+    },
+    {
+      "fp": "1jzzc7h",
+      "i": 58,
+      "from": 13360,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "But if philosophers have known this for thousands of years, why do we constantly try to cross that line? I mean, why is it our"
+    },
+    {
+      "fp": "1tftxoy",
+      "i": 59,
+      "from": 13567,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "our default setting to try and control other people? Because of the science of control."
+    },
+    {
+      "fp": "qfnc18",
+      "i": 60,
+      "from": 13699,
+      "subject": "shield",
+      "entities": [],
+      "concept": "shield",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "shield, 1995"
+      },
+      "antidote": {
+        "concept": "shield",
+        "cast": []
+      },
+      "_said": "control. Humans have this hardwired survival instinct. From an evolutionary standpoint, feeling in control makes your brain feel safe."
+    },
+    {
+      "fp": "1v191ww",
+      "i": 61,
+      "from": 13917,
+      "subject": "shield",
+      "entities": [],
+      "concept": "shield",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "shield, 1995"
+      },
+      "antidote": {
+        "concept": "shield",
+        "cast": []
+      },
+      "_said": "safe. Unpredictability is literally perceived by the amydala as a threat to your survival. So when I try to control someone, it's not because"
+    },
+    {
+      "fp": "oqw5qd",
+      "i": 62,
+      "from": 14172,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "fall apart if you don't hold them, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "because I'm a narcissist. No, it's not out of malice. It's out of a primal fear that things are going to fall apart if you don't hold them"
+    },
+    {
+      "fp": "1fhv0lz",
+      "i": 63,
+      "from": 14366,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "them Okay, so let's put this in a modern completely visceral context because I think"
+    },
+    {
+      "fp": "1f3av4k",
+      "i": 64,
+      "from": 14512,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "think everyone listening will feel this in their bones. The ultimate restrictive Oh, I know where you're going."
+    },
+    {
+      "fp": "1ke4yom",
+      "i": 65,
+      "from": 14673,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "going. A commercial airplane. Okay. So you are strapped into a seat. You're hurtling through the sky. You smell that dry recycled cabin air"
+    },
+    {
+      "fp": "vwgudp",
+      "i": 66,
+      "from": 14940,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "air and three rows behind you. The worst sound in the world. There is"
+    },
+    {
+      "fp": "1y8vfm5",
+      "i": 67,
+      "from": 15036,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "is a stranger with a wet persistent hacking cough just every 30 My skin is crawling just thinking about right? And your internal"
+    },
+    {
+      "fp": "1gq1rsj",
+      "i": 68,
+      "from": 15321,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "internal monologue just starts screaming, \"This guy needs to cover his mouth. Why did he get on this"
+    },
+    {
+      "fp": "1vd9dca",
+      "i": 69,
+      "from": 15453,
+      "subject": "shield",
+      "entities": [],
+      "concept": "shield",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "shield, 1995"
+      },
+      "antidote": {
+        "concept": "shield",
+        "cast": []
+      },
+      "_said": "this flight? He's going to get me sick.\" And biologically, your amygdala is firing. You're having a disgust response to protect yourself from pathogens. Your heart rate elevates."
+    },
+    {
+      "fp": "r18czw",
+      "i": 70,
+      "from": 15722,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "elevates. Cortisol floods your system. I am furiously demanding that this man stop coughing. But you have zero agency over"
+    },
+    {
+      "fp": "3l4m86",
+      "i": 71,
+      "from": 15957,
+      "subject": "law",
+      "entities": [],
+      "concept": "law",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "law, sit there and stew and let the stress respo, 1995"
+      },
+      "antidote": {
+        "concept": "law",
+        "set": null,
+        "cast": []
+      },
+      "_said": "over his respiratory system. Unless I want to go to federal prison, right? So you have a choice. You can sit there and stew and let the stress response hijack your entire body for"
+    },
+    {
+      "fp": "5t3gn9",
+      "i": 72,
+      "from": 16236,
+      "subject": "Which",
+      "entities": [
+        "which"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Which, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "which"
+        ]
+      },
+      "_said": "for a 4-hour flight. Or I apply the theory, which means starting with the hardest Let him cough."
+    },
+    {
+      "fp": "1ybmsh7",
+      "i": 73,
+      "from": 16396,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, 1995"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "cough. Let him cough. That is the objective reality. And the second you accept it, the internal war stops. And then you to let me. So,"
+    },
+    {
+      "fp": "1r8mzin",
+      "i": 74,
+      "from": 16661,
+      "subject": "mask",
+      "entities": [],
+      "concept": "mask",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "mask, 1995"
+      },
+      "antidote": {
+        "concept": "mask",
+        "cast": []
+      },
+      "_said": "let me pull a mask out of my bag. Let me turn the air vent on full blast across my face. Let me put on my"
+    },
+    {
+      "fp": "yswsd7",
+      "i": 75,
+      "from": 16857,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "my noise cancelling headphones. Let me ask the flight attendant if I can move Notice how different that feels."
+    },
+    {
+      "fp": "1iqs0ms",
+      "i": 76,
+      "from": 17045,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "feels. Focusing on what you can't control creates immense stress. Focusing on what you can control makes you powerful."
+    },
+    {
+      "fp": "lvyzm1",
+      "i": 77,
+      "from": 17265,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "powerful. You're not a hostage anymore. M for the listener, just feel the difference between those two states. The angry white knuckled passenger versus the"
+    },
+    {
+      "fp": "1qbes90",
+      "i": 78,
+      "from": 17534,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "the proactive one who just moved seats and went back to reading. Exactly. But see, it's one thing to do this with a stranger on a"
+    },
+    {
+      "fp": "119rawg",
+      "i": 79,
+      "from": 17738,
+      "subject": "heart",
+      "entities": [],
+      "concept": "heart",
+      "place": "cafe",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "heart, cafe, 1995"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": "cafe",
+        "cast": []
+      },
+      "_said": "a plane. It's entirely different when we're talking about the people we love. Oh man. Yes. Like adult friendships. This is where it gets so emotional because letting a stranger cou"
+    },
+    {
+      "fp": "v7fndb",
+      "i": 80,
+      "from": 18163,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": "cafe",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone, cafe, 1995"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": "cafe",
+        "cast": []
+      },
+      "_said": "scene. It's Friday night. You're on your couch, house is quiet, and the smartphone screen is glowing in the"
+    },
+    {
+      "fp": "1cxxkph",
+      "i": 81,
+      "from": 18319,
+      "subject": "food",
+      "entities": [],
+      "concept": "food",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "food, 1995"
+      },
+      "antidote": {
+        "concept": "food",
+        "set": null,
+        "cast": []
+      },
+      "_said": "the Always the smartphone. Always. You're scrolling and you see a photo of your core friend group out at a gorgeous dinner and you weren't invited."
+    },
+    {
+      "fp": "sy0nhh",
+      "i": 82,
+      "from": 18542,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": "cafe",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone, cafe, 1995"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": "cafe",
+        "cast": []
+      },
+      "_said": "invited. It's like a punch to the gut. It is. You immediately think, \"What did I do wrong? Why didn't they call me?\" And we personalize it instantly. We"
+    },
+    {
+      "fp": "rfnmz4",
+      "i": 83,
+      "from": 18748,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": "cafe",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone, cafe, 1995"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": "cafe",
+        "cast": []
+      },
+      "_said": "We assume it's a massive failure of our own worth. But the science actually tells a completely different story. It's a phenomenon sociologists call the great The great scattering. "
+    },
+    {
+      "fp": "nu9psy",
+      "i": 84,
+      "from": 19041,
+      "subject": "school",
+      "entities": [],
+      "concept": "school",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "school, 1995"
+      },
+      "antidote": {
+        "concept": "school",
+        "set": null,
+        "cast": []
+      },
+      "_said": "Yeah. Think about childhood and college. Your friendships were built almost entirely on force proximity."
+    },
+    {
+      "fp": "1osswzw",
+      "i": 85,
+      "from": 19200,
+      "subject": "school",
+      "entities": [],
+      "concept": "school",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "school, 1995"
+      },
+      "antidote": {
+        "concept": "school",
+        "set": null,
+        "cast": []
+      },
+      "_said": "proximity. You're in the same dorms, the same classes. You're literally tripping over each other. The environment does the work for you, right?"
+    },
+    {
+      "fp": "1t2e00u",
+      "i": 86,
+      "from": 19406,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "right? There's this incredible study out of the University of Kansas. They actually quantified how many hours it takes to build a friendship. It takes about 74 hours to build"
+    },
+    {
+      "fp": "1ugzcrz",
+      "i": 87,
+      "from": 19704,
+      "subject": "Which — school",
+      "entities": [
+        "which"
+      ],
+      "concept": "school",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Which, 1995"
+      },
+      "antidote": {
+        "concept": "school",
+        "set": null,
+        "cast": [
+          "which"
+        ]
+      },
+      "_said": "build a casual friend. And over 200 hours to build a close 200 hours. Yes. Which is easy in college. But"
+    },
+    {
+      "fp": "1uhgujz",
+      "i": 88,
+      "from": 19936,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "But in adulthood, adulthood strips away all that force proximity. The great scattering happens. People move, they get married,"
+    },
+    {
+      "fp": "1ujeahv",
+      "i": 89,
+      "from": 20121,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "married, they have kids, demanding jobs. Trying to find 200 hours with an adult friend is a logistical nightmare. It's nearly impossible. Adult friendship relies on three pillars."
+    },
+    {
+      "fp": "1q671xk",
+      "i": 90,
+      "from": 20428,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "pillars. Proximity, timing, and energy. And when those shift, friendships fade."
+    },
+    {
+      "fp": "xghprf",
+      "i": 91,
+      "from": 20611,
+      "subject": "heart",
+      "entities": [],
+      "concept": "heart",
+      "place": "cafe",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "heart, cafe, 1995"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": "cafe",
+        "cast": []
+      },
+      "_said": "fade. It's physics, not a personal failure. It's like trying to keep a campfire going around. Right. But over the years, everyone has moved their lawn chairs to totally different c"
+    },
+    {
+      "fp": "36p8mk",
+      "i": 92,
+      "from": 20940,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "standing at the original site, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "you're just standing at the original site, throwing logs into an empty circle, wondering why nobody is getting Exactly."
+    },
+    {
+      "fp": "vr26rs",
+      "i": 93,
+      "from": 21113,
+      "subject": "photo",
+      "entities": [],
+      "concept": "photo",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "photo, sitting on the couch looking at the photo, 1995"
+      },
+      "antidote": {
+        "concept": "photo",
+        "set": null,
+        "cast": []
+      },
+      "_said": "Exactly. You're trying to fuel a dynamic that physically no longer exists. But okay, sitting on the couch looking at the photo, knowing the physics doesn't stop the sting. And"
+    },
+    {
+      "fp": "wqbw2y",
+      "i": 94,
+      "from": 21391,
+      "subject": "Which",
+      "entities": [
+        "which"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Which, sit in superiority and go, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "which"
+        ]
+      },
+      "_said": "And my temptation is to sit in superiority and go, \"Well, fine. Let him go to brunch without me. I didn't want to go anyway.\" Which is that toxic passivity again. isolating yoursel"
+    },
+    {
+      "fp": "1grs1jt",
+      "i": 95,
+      "from": 21777,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "like here? First, radical acceptance. Let them drift. Let them go to"
+    },
+    {
+      "fp": "14hspzy",
+      "i": 96,
+      "from": 21861,
+      "subject": "food",
+      "entities": [],
+      "concept": "food",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "food, 1995"
+      },
+      "antidote": {
+        "concept": "food",
+        "set": null,
+        "cast": []
+      },
+      "_said": "to dinner. They're autonomous adults. But then, let me let me look at my actual current life. Let me pour my energy into the people who are in my current chapter, right?"
+    },
+    {
+      "fp": "a3zhn7",
+      "i": 97,
+      "from": 22140,
+      "subject": "coffee",
+      "entities": [],
+      "concept": "coffee",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "coffee, run club, 1995"
+      },
+      "antidote": {
+        "concept": "coffee",
+        "set": null,
+        "cast": []
+      },
+      "_said": "right? Let me ask that new co-orker for coffee. Let me join a local run club. Yes."
+    },
+    {
+      "fp": "13j492j",
+      "i": 98,
+      "from": 22284,
+      "subject": "fire",
+      "entities": [],
+      "concept": "fire",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "fire, 1995"
+      },
+      "antidote": {
+        "concept": "fire",
+        "cast": []
+      },
+      "_said": "Yes. Let them drift. let me invest where I actually am. Instead of forcing an old dynamic that doesn't fit the physics of your life anymore, you just build a new fire where you sta"
+    },
+    {
+      "fp": "4f47o9",
+      "i": 99,
+      "from": 22620,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "is so freeing. But you know what else we spend a ton of energy What's that? Oh, absolutely."
+    },
+    {
+      "fp": "1lqz15v",
+      "i": 100,
+      "from": 22819,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "absolutely. Because you're scrolling again and you see a colleague announce a massive promotion or a friend post a picture with the keys to"
+    },
+    {
+      "fp": "1gn6cnz",
+      "i": 101,
+      "from": 23068,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "to their midcentury modern and you get that sudden hot flash right in your chest. Yes. And the voice says, \"Why them?"
+    },
+    {
+      "fp": "1b6lcwp",
+      "i": 102,
+      "from": 23263,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, 1995"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": []
+      },
+      "_said": "them? It's not fair.\" And then we try to control it by diminishing them. Oh, her parents probably paid the down payment. Or, \"He only got the promotion because he sucks up to the b"
+    },
+    {
+      "fp": "54ow81",
+      "i": 103,
+      "from": 23606,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "tells us jealousy makes us bad people, so we project it outward. But when you try to diminish their success, you are literally trying to mentally undo a"
+    },
+    {
+      "fp": "1nhaap4",
+      "i": 104,
+      "from": 23839,
+      "subject": "home",
+      "entities": [],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "home, 1995"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": []
+      },
+      "_said": "a Right? The house was bought. The ink is You're fighting a reality that already exists in the world."
+    },
+    {
+      "fp": "14dc8in",
+      "i": 105,
+      "from": 24014,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "world. It's like yelling at the sky to stop But here's where it gets really interesting to me. You reframe this body reaction. That hot flash isn't your No, it's"
+    },
+    {
+      "fp": "arnbhc",
+      "i": 106,
+      "from": 24353,
+      "subject": "fire",
+      "entities": [],
+      "concept": "fire",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "fire, 1995"
+      },
+      "antidote": {
+        "concept": "fire",
+        "cast": []
+      },
+      "_said": "it's a signpost. A signpost. Think about it. You wouldn't feel that burning jealousy if you didn't deeply desire a version of what they just achieved."
+    },
+    {
+      "fp": "1a0ojcj",
+      "i": 107,
+      "from": 24645,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Underneath all that bitterness is raw data about what you actually So, how do we apply the theory?"
+    },
+    {
+      "fp": "vq0bkh",
+      "i": 108,
+      "from": 24821,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "theory? Sequential application. First, let them have the success. Let them have the dreamhouse."
+    },
+    {
+      "fp": "11kmd6s",
+      "i": 109,
+      "from": 24991,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "dreamhouse. Drop the mental resistance and allow their reality to exist without your commentary. And then the pivot. Let me let me chase what that hot flash just revealed I actuall"
+    },
+    {
+      "fp": "cvgh1",
+      "i": 110,
+      "from": 25291,
+      "subject": "mirror",
+      "entities": [],
+      "concept": "mirror",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "mirror, 1995"
+      },
+      "antidote": {
+        "concept": "mirror",
+        "set": null,
+        "cast": []
+      },
+      "_said": "want. Use their success as a mirror. If you want the promotion, let me schedule a meeting with my boss on Monday and ask what skills I need to get there."
+    },
+    {
+      "fp": "1no8l83",
+      "i": 111,
+      "from": 25553,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "there. Because if you let comparison make you bitter instead of better, the control was always the cost. You paid for"
+    },
+    {
+      "fp": "1d8wwtb",
+      "i": 112,
+      "from": 25747,
+      "subject": "home",
+      "entities": [],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "home, 1995"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": []
+      },
+      "_said": "for that bitterness by staying stuck exactly where you are while they're enjoying their new house."
+    },
+    {
+      "fp": "1gtm7sp",
+      "i": 113,
+      "from": 25881,
+      "subject": "home",
+      "entities": [],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "home, 1995"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": []
+      },
+      "_said": "house. You're surrendering your agency to someone else's highlight reel."
+    },
+    {
+      "fp": "12g0dx2",
+      "i": 114,
+      "from": 25992,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, 1995"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": []
+      },
+      "_said": "reel. Okay, we've done strangers. We've done friends. We've done successful peers. We have to do the final boss Family,"
+    },
+    {
+      "fp": "7wkbw7",
+      "i": 115,
+      "from": 26176,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, 1995"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": []
+      },
+      "_said": "Family, other people's opinions of us, specifically our parents."
+    },
+    {
+      "fp": "ntkqvq",
+      "i": 116,
+      "from": 26263,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": "cafe",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone, cafe, 1995"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": "cafe",
+        "cast": []
+      },
+      "_said": "parents. Let's talk about the Michigan mom scene. This one is intense. It is. So, you're on the phone, your heart is pounding."
+    },
+    {
+      "fp": "he2wtm",
+      "i": 117,
+      "from": 26460,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, 1995"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": []
+      },
+      "_said": "pounding. You just announced to your mother that you were engaged to the absolute love of your life. you're expecting screaming, crying, joy, and instead you get deafening silence."
+    },
+    {
+      "fp": "9l0z3w",
+      "i": 118,
+      "from": 26743,
+      "subject": "Mel — family",
+      "entities": [
+        "mel"
+      ],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Mel, 1995"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": [
+          "mel"
+        ]
+      },
+      "_said": "silence. That's a totally flat response. And Mel actually confronted her mom about this later, demanding she act excited. And her mom said, \"I"
+    },
+    {
+      "fp": "uojaxm",
+      "i": 119,
+      "from": 26990,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "\"I didn't choose him for you, and if it were up to me, I wouldn't So brutal. And"
+    },
+    {
+      "fp": "1n3zvba",
+      "i": 120,
+      "from": 27146,
+      "subject": "heart",
+      "entities": [],
+      "concept": "heart",
+      "place": "cafe",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "heart, cafe, 1995"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": "cafe",
+        "cast": []
+      },
+      "_said": "And my instinct here is to push back on the theory. We go, \"Wait, shouldn't the people who love us support our choices?"
+    },
+    {
+      "fp": "1mp1fp0",
+      "i": 121,
+      "from": 27360,
+      "subject": "heart",
+      "entities": [],
+      "concept": "heart",
+      "place": "cafe",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "heart, cafe, 1995"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": "cafe",
+        "cast": []
+      },
+      "_said": "choices? Don't we have a right to demand they be happy for us?\" This is a really hard pill to swallow, but no, they can support you materially, like showing up to the wedding witho"
+    },
+    {
+      "fp": "8oq5g8",
+      "i": 122,
+      "from": 27667,
+      "subject": "Mel and Which — family",
+      "entities": [
+        "mel",
+        "which"
+      ],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Mel and Which, 1995"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": [
+          "mel",
+          "which"
+        ]
+      },
+      "_said": "you. Mel was demanding to install a specific thought pattern in her mother's head. She wanted to control her mom's internal emotional landscape, which"
+    },
+    {
+      "fp": "1yz59iy",
+      "i": 123,
+      "from": 27900,
+      "subject": "Mel and Which — family",
+      "entities": [
+        "mel",
+        "which"
+      ],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Mel and Which, 1995"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": [
+          "mel",
+          "which"
+        ]
+      },
+      "_said": "which is impossible. And when Mel finally stepped back, she realized her mom's flat response wasn't malice, it was fear. Her mom just wanted her to marry someone"
+    },
+    {
+      "fp": "18cs8l0",
+      "i": 124,
+      "from": 28185,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "someone from Michigan so she wouldn't move away. It was grief over losing proximity. Exactly. But trying to manage your image in someone else's head is a tax with no refund. You wi"
+    },
+    {
+      "fp": "12mmtm9",
+      "i": 125,
+      "from": 28509,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "over backward curating their opinion and you'll get nothing but exhaustion in return. A tax with no refund. So what's"
+    },
+    {
+      "fp": "1ypfhar",
+      "i": 126,
+      "from": 28718,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "what's the let me shift here. Let them think bad thoughts about"
+    },
+    {
+      "fp": "1mokg8z",
+      "i": 127,
+      "from": 28790,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "about you. Let them wish you married someone else. If you curate their opinion, you're shrinking yourself."
+    },
+    {
+      "fp": "1dvwos8",
+      "i": 128,
+      "from": 28915,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "yourself. Let them think it. Let me be unapologetically happy with my choice anyway. Exactly. They hand them"
+    },
+    {
+      "fp": "5argkw",
+      "i": 129,
+      "from": 29119,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "them back the responsibility for their own emotions."
+    },
+    {
+      "fp": "1cjd1mf",
+      "i": 130,
+      "from": 29188,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, 1995"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": []
+      },
+      "_said": "emotions. Man, when we pull all this together, from the rain at the taco shop, the airplane, the fading friends, the Michigan mom, a really startling"
+    },
+    {
+      "fp": "1mmewf",
+      "i": 131,
+      "from": 29462,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, 1995"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "startling common denominator emerges. You were never actually fighting the other person. What were we fighting? You were fighting the gap. The gap between how they are in reality a"
+    },
+    {
+      "fp": "di0bag",
+      "i": 132,
+      "from": 29808,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "it. It's the friction between reality and expectation."
+    },
+    {
+      "fp": "a5crzt",
+      "i": 133,
+      "from": 29916,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "run your own, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "expectation. All of your exhaustion lives in that gap. Let them drops the unpayable demand and let me fills that newly freed space with the one and only life you actually run your "
+    },
+    {
+      "fp": "lzr1mn",
+      "i": 134,
+      "from": 30266,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "own. Because honestly, stop paying the toll."
+    },
+    {
+      "fp": "12vi7rd",
+      "i": 135,
+      "from": 30386,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "The control was always the cost."
+    },
+    {
+      "fp": "15ky9ms",
+      "i": 136,
+      "from": 30456,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "leave you the listener with a final provocati, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "cost. Always. And you know, to wrap up this dip dive, I want to leave you the listener with a final provocative thought. We've talked about applying this to everyone else, but what"
+    },
+    {
+      "fp": "r5lyyt",
+      "i": 137,
+      "from": 30864,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "yourself? Wait, how? Think about the past versions of you, the past mistakes, the"
+    },
+    {
+      "fp": "1q60gpt",
+      "i": 138,
+      "from": 30979,
+      "subject": "law",
+      "entities": [],
+      "concept": "law",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "law, 1995"
+      },
+      "antidote": {
+        "concept": "law",
+        "set": null,
+        "cast": []
+      },
+      "_said": "the old failures you're still furiously trying to manage and judge in your own head. What parts of"
+    },
+    {
+      "fp": "1qtos8d",
+      "i": 139,
+      "from": 31125,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "of your own history do you need to finally look at and say, \"Let them be in the past.\""
+    },
+    {
+      "fp": "9oa8o4",
+      "i": 140,
+      "from": 31255,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, 1995"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "past.\" Because until you stop fighting your past selves, let me can never truly step into the future. That is an incredible place to"
+    },
+    {
+      "fp": "2vxfyr",
+      "i": 141,
+      "from": 31459,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "to land. Offering yourself the exact same grace you're offering the world. Thank you so much for joining us on this deep dive. Take Let Them and Let Me and see what happens when yo"
+    }
+  ]
+}

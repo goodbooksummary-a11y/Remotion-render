@@ -1,0 +1,162 @@
+{
+  "slug": "glass-castle",
+  "world": {
+    "era": "unspecified",
+    "approxYear": null,
+    "setting": "",
+    "register": "",
+    "forbid": []
+  },
+  "cast": {
+    "janette": {
+      "name": "Janette",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 16
+    },
+    "rex": {
+      "name": "Rex",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 9
+    },
+    "rosemary": {
+      "name": "Rosemary",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 7
+    },
+    "walls": {
+      "name": "Walls",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 2
+    }
+  },
+  "places": {
+    "hospital": {
+      "set": "hospital",
+      "look": "",
+      "mentions": 5
+    },
+    "street": {
+      "set": "street",
+      "look": "",
+      "mentions": 3
+    },
+    "cafe": {
+      "set": "cafe",
+      "look": "",
+      "mentions": 2
+    },
+    "kitchen": {
+      "set": "kitchen",
+      "look": "",
+      "mentions": 2
+    },
+    "bedroom": {
+      "set": "bedroom",
+      "look": "",
+      "mentions": 1
+    },
+    "shore": {
+      "set": "shore",
+      "look": "",
+      "mentions": 1
+    }
+  },
+  "objects": [
+    {
+      "concept": "family",
+      "mentions": 45,
+      "why": ""
+    },
+    {
+      "concept": "home",
+      "mentions": 22,
+      "why": ""
+    },
+    {
+      "concept": "coin",
+      "mentions": 20,
+      "why": ""
+    },
+    {
+      "concept": "fire",
+      "mentions": 19,
+      "why": ""
+    },
+    {
+      "concept": "water",
+      "mentions": 12,
+      "why": ""
+    },
+    {
+      "concept": "war",
+      "mentions": 7,
+      "why": ""
+    },
+    {
+      "concept": "magnifier",
+      "mentions": 6,
+      "why": ""
+    },
+    {
+      "concept": "storm",
+      "mentions": 6,
+      "why": ""
+    },
+    {
+      "concept": "shield",
+      "mentions": 6,
+      "why": ""
+    },
+    {
+      "concept": "medical",
+      "mentions": 6,
+      "why": ""
+    },
+    {
+      "concept": "phone",
+      "mentions": 5,
+      "why": ""
+    },
+    {
+      "concept": "chains",
+      "mentions": 5,
+      "why": ""
+    }
+  ],
+  "spine": [
+    {
+      "act": "setup",
+      "fromFrame": 17,
+      "claim": ""
+    },
+    {
+      "act": "development",
+      "fromFrame": 14571,
+      "claim": ""
+    },
+    {
+      "act": "turn",
+      "fromFrame": 27865,
+      "claim": ""
+    },
+    {
+      "act": "consequence",
+      "fromFrame": 40390,
+      "claim": ""
+    },
+    {
+      "act": "close",
+      "fromFrame": 51593,
+      "claim": ""
+    }
+  ],
+  "authored": false
+}

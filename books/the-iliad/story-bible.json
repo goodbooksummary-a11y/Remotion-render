@@ -1,0 +1,210 @@
+{
+  "slug": "the-iliad",
+  "world": {
+    "era": "mid-20th century",
+    "approxYear": 1930,
+    "setting": "",
+    "register": "",
+    "forbid": [
+      "phone",
+      "codeWindow",
+      "laptopMockup",
+      "rocketLaunch",
+      "funnelMetrics",
+      "dollarExchange",
+      "subway",
+      "car",
+      "alarmClock",
+      "medical"
+    ]
+  },
+  "cast": {
+    "achilles": {
+      "name": "Achilles",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 28
+    },
+    "hector": {
+      "name": "Hector",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 6
+    },
+    "agamemnon": {
+      "name": "Agamemnon",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 5
+    },
+    "petroles": {
+      "name": "Petroles",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 2
+    },
+    "iliad": {
+      "name": "Iliad",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 2
+    }
+  },
+  "places": {
+    "shore": {
+      "set": "shore",
+      "look": "",
+      "mentions": 6
+    }
+  },
+  "objects": [
+    {
+      "concept": "war",
+      "mentions": 52,
+      "why": ""
+    },
+    {
+      "concept": "grave",
+      "mentions": 26,
+      "why": ""
+    },
+    {
+      "concept": "family",
+      "mentions": 25,
+      "why": ""
+    },
+    {
+      "concept": "shield",
+      "mentions": 14,
+      "why": ""
+    },
+    {
+      "concept": "trophy",
+      "mentions": 12,
+      "why": ""
+    },
+    {
+      "concept": "phone",
+      "mentions": 12,
+      "why": ""
+    },
+    {
+      "concept": "fire",
+      "mentions": 11,
+      "why": ""
+    },
+    {
+      "concept": "water",
+      "mentions": 11,
+      "why": ""
+    },
+    {
+      "concept": "city",
+      "mentions": 9,
+      "why": ""
+    },
+    {
+      "concept": "sword",
+      "mentions": 8,
+      "why": ""
+    },
+    {
+      "concept": "coin",
+      "mentions": 8,
+      "why": ""
+    },
+    {
+      "concept": "codeWindow",
+      "mentions": 7,
+      "why": ""
+    }
+  ],
+  "spine": [
+    {
+      "act": "Intro — The Prize Is a Lie",
+      "fromFrame": 0,
+      "claim": ""
+    },
+    {
+      "act": "Book 1: The Economy of Honor",
+      "fromFrame": 4500,
+      "claim": ""
+    },
+    {
+      "act": "Book 1: Achilles Withdraws — Why It Makes Sense",
+      "fromFrame": 9000,
+      "claim": ""
+    },
+    {
+      "act": "Book 6: Hector's Farewell at the Scaean Gate",
+      "fromFrame": 14250,
+      "claim": ""
+    },
+    {
+      "act": "Book 6: The Armor That Alienates You From Home",
+      "fromFrame": 19350,
+      "claim": ""
+    },
+    {
+      "act": "Book 9: Achilles Rejects Every Prize",
+      "fromFrame": 22800,
+      "claim": ""
+    },
+    {
+      "act": "Book 9: Heroes and Cowards Die the Same Death",
+      "fromFrame": 27000,
+      "claim": ""
+    },
+    {
+      "act": "Book 16: Patroclus Borrows the Armor",
+      "fromFrame": 31110,
+      "claim": ""
+    },
+    {
+      "act": "Book 18: The Shield of Hephaestus",
+      "fromFrame": 36900,
+      "claim": ""
+    },
+    {
+      "act": "Books 21–22: The Rage That Breaks Achilles",
+      "fromFrame": 42600,
+      "claim": ""
+    },
+    {
+      "act": "Book 22: Hector's Death and the Chariot",
+      "fromFrame": 45900,
+      "claim": ""
+    },
+    {
+      "act": "Book 23: The Funeral Games",
+      "fromFrame": 50400,
+      "claim": ""
+    },
+    {
+      "act": "Book 23: Achilles as Peacemaker",
+      "fromFrame": 54000,
+      "claim": ""
+    },
+    {
+      "act": "Book 24: Priam Kisses the Hands That Killed His Son",
+      "fromFrame": 55800,
+      "claim": ""
+    },
+    {
+      "act": "The Gods Problem — Why Homer Keeps Them Petty",
+      "fromFrame": 61200,
+      "claim": ""
+    },
+    {
+      "act": "The Final Line — And So They Buried Hector",
+      "fromFrame": 63900,
+      "claim": ""
+    }
+  ],
+  "authored": false
+}

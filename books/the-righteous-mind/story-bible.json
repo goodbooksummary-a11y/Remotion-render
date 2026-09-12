@@ -1,0 +1,149 @@
+{
+  "slug": "the-righteous-mind",
+  "world": {
+    "era": "contemporary",
+    "approxYear": 1995,
+    "setting": "",
+    "register": "",
+    "forbid": []
+  },
+  "cast": {
+    "which": {
+      "name": "Which",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 3
+    },
+    "dan": {
+      "name": "Dan",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 2
+    },
+    "durkheim": {
+      "name": "Durkheim",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 2
+    },
+    "jonathan": {
+      "name": "Jonathan",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 2
+    },
+    "intuitions": {
+      "name": "Intuitions",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 2
+    }
+  },
+  "places": {
+    "cafe": {
+      "set": "cafe",
+      "look": "",
+      "mentions": 3
+    },
+    "shore": {
+      "set": "shore",
+      "look": "",
+      "mentions": 1
+    }
+  },
+  "objects": [
+    {
+      "concept": "target",
+      "mentions": 8,
+      "why": ""
+    },
+    {
+      "concept": "lightbulb",
+      "mentions": 8,
+      "why": ""
+    },
+    {
+      "concept": "shield",
+      "mentions": 8,
+      "why": ""
+    },
+    {
+      "concept": "gift",
+      "mentions": 7,
+      "why": ""
+    },
+    {
+      "concept": "school",
+      "mentions": 7,
+      "why": ""
+    },
+    {
+      "concept": "law",
+      "mentions": 6,
+      "why": ""
+    },
+    {
+      "concept": "codeWindow",
+      "mentions": 6,
+      "why": ""
+    },
+    {
+      "concept": "phone",
+      "mentions": 6,
+      "why": ""
+    },
+    {
+      "concept": "heart",
+      "mentions": 5,
+      "why": ""
+    },
+    {
+      "concept": "work",
+      "mentions": 5,
+      "why": ""
+    },
+    {
+      "concept": "game",
+      "mentions": 5,
+      "why": ""
+    },
+    {
+      "concept": "family",
+      "mentions": 4,
+      "why": ""
+    }
+  ],
+  "spine": [
+    {
+      "act": "setup",
+      "fromFrame": 17,
+      "claim": ""
+    },
+    {
+      "act": "development",
+      "fromFrame": 12200,
+      "claim": ""
+    },
+    {
+      "act": "turn",
+      "fromFrame": 23741,
+      "claim": ""
+    },
+    {
+      "act": "consequence",
+      "fromFrame": 35909,
+      "claim": ""
+    },
+    {
+      "act": "close",
+      "fromFrame": 48512,
+      "claim": ""
+    }
+  ],
+  "authored": false
+}

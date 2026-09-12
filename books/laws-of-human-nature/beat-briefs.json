@@ -1,0 +1,6016 @@
+{
+  "slug": "laws-of-human-nature",
+  "authored": false,
+  "briefs": [
+    {
+      "fp": "na345u",
+      "i": 0,
+      "from": 0,
+      "subject": "city",
+      "entities": [],
+      "concept": "city",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "city, 1919"
+      },
+      "antidote": {
+        "concept": "city",
+        "set": null,
+        "cast": []
+      },
+      "_said": "Athens 4:30 BC. The plague is rotting the city from the inside. The mob in the assembly is screaming for blood and someone to blame. And one"
+    },
+    {
+      "fp": "1aaohkf",
+      "i": 1,
+      "from": 312,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "stands in front of them and refuses to feel, 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "one man stands in front of them and refuses to feel any of He really just shuts it all out."
+    },
+    {
+      "fp": "13uylpu",
+      "i": 2,
+      "from": 456,
+      "subject": "Pericles — water",
+      "entities": [
+        "pericles"
+      ],
+      "concept": "water",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Pericles, 1919"
+      },
+      "antidote": {
+        "concept": "water",
+        "set": null,
+        "cast": [
+          "pericles"
+        ]
+      },
+      "_said": "out. Yeah. Everyone around Pericles is drowning in emotion. He"
+    },
+    {
+      "fp": "8zg09f",
+      "i": 3,
+      "from": 561,
+      "subject": "target",
+      "entities": [],
+      "concept": "target",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "target, 1919"
+      },
+      "antidote": {
+        "concept": "target",
+        "cast": []
+      },
+      "_said": "He has trained himself to do the one thing almost nobody can. Think clearly at the exact moment it's hardest to, which is, you know,"
+    },
+    {
+      "fp": "w8jnh6",
+      "i": 4,
+      "from": 840,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "know, almost impossible. Okay, let's unpack this. Welcome to the deep dive. today we're uh we're immersing ourselves in an absolute masterclass of human We really are right drawing"
+    },
+    {
+      "fp": "1sf01lo",
+      "i": 5,
+      "from": 1166,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "drawing on Robert Green's exploration of our deepest most primal drives. But before we get"
+    },
+    {
+      "fp": "jm712b",
+      "i": 6,
+      "from": 1313,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "get into the historical figures and all the psychology, I have to like issue a massive pivot right up front. Oh, for sure. You have to set the ground rules with this material. Exac"
+    },
+    {
+      "fp": "9zo0l2",
+      "i": 7,
+      "from": 1553,
+      "subject": "puppeteer",
+      "entities": [],
+      "concept": "puppeteer",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "puppeteer, read this material the wrong way, 1919"
+      },
+      "antidote": {
+        "concept": "puppeteer",
+        "cast": []
+      },
+      "_said": "Exactly. Because if you read this material the wrong way, it feels I mean it feels like a Machavelian toolkit. It really does. is it reads like a manual for decoding and manipulati"
+    },
+    {
+      "fp": "mmylzb",
+      "i": 8,
+      "from": 1793,
+      "subject": "People",
+      "entities": [
+        "people"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "People, sitting right across the table from you, 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "people"
+        ]
+      },
+      "_said": "your colleagues or you know your friends the people sitting right across the table from you. Right. And it's remarkably easy to fall into that trap. Oh, absolutely."
+    },
+    {
+      "fp": "1ppwehv",
+      "i": 9,
+      "from": 2016,
+      "subject": "People — work",
+      "entities": [
+        "people"
+      ],
+      "concept": "work",
+      "place": "office",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "People, office, 1919"
+      },
+      "antidote": {
+        "concept": "work",
+        "set": "office",
+        "cast": [
+          "people"
+        ]
+      },
+      "_said": "absolutely. Because we are all desperate for a cheat code, right? To just figure other people out. We want to know why the boss is acting Yes. Or why our partner is suddenly distan"
+    },
+    {
+      "fp": "1n07ela",
+      "i": 10,
+      "from": 2393,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "we need to establish from the very first minute. The whole thesis of this conversation is this. The danger isn't"
+    },
+    {
+      "fp": "1ocmwu2",
+      "i": 11,
+      "from": 2594,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "isn't the operator across the table. It's not them at all. No, it is your own mind. This is absolutely not a manual"
+    },
+    {
+      "fp": "n1yo4l",
+      "i": 12,
+      "from": 2827,
+      "subject": "heart",
+      "entities": [],
+      "concept": "heart",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "heart, 1919"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": null,
+        "cast": []
+      },
+      "_said": "manual for decoding others. It's a mirror. A mirror. I love that. We are just far less"
+    },
+    {
+      "fp": "15qlh91",
+      "i": 13,
+      "from": 2971,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "less rational, less self-aware, and vastly more masked than we could ever"
+    },
+    {
+      "fp": "1xrwxt",
+      "i": 14,
+      "from": 3093,
+      "subject": "mask",
+      "entities": [],
+      "concept": "mask",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "mask, 1919"
+      },
+      "antidote": {
+        "concept": "mask",
+        "cast": []
+      },
+      "_said": "ever bring ourselves to The real work isn't decoding them. The mask you can't see is your own. And to"
+    },
+    {
+      "fp": "9b8sdm",
+      "i": 15,
+      "from": 3281,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "to really understand the terrifying weight of that blind spot, we have to drop right back into the ancient world. Back to Athens, right? Put yourself in Athens. Yeah."
+    },
+    {
+      "fp": "wul575",
+      "i": 16,
+      "from": 3499,
+      "subject": "city",
+      "entities": [],
+      "concept": "city",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "city, 1919"
+      },
+      "antidote": {
+        "concept": "city",
+        "set": null,
+        "cast": []
+      },
+      "_said": "Yeah. The Spartan threat is looming over the city. It's an existential crisis. A literal do or die moment for them. And the Athenian assembly is gathered on the Pix Hill. Try to vi"
+    },
+    {
+      "fp": "47paoa",
+      "i": 17,
+      "from": 3859,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "nearly 10,000 men packed together on a rocky outcropping under this blazing"
+    },
+    {
+      "fp": "w00nqg",
+      "i": 18,
+      "from": 4010,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "blazing Mediterranean sun. You can just smell the sweat and the dust and the sheer panic. Yes, the hawks in the crowd are screaming for blood."
+    },
+    {
+      "fp": "1edlbro",
+      "i": 19,
+      "from": 4226,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, 1919"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "blood. They're demanding an immediate land attack against the invincible Spartan army, which is madness. Total madness. But then the doves are terrified."
+    },
+    {
+      "fp": "uu5qu1",
+      "i": 20,
+      "from": 4454,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "terrified. Yeah. They're practically weeping, begging to accept the Spartan ultimatum and just surrender because the energy of the crowd is just"
+    },
+    {
+      "fp": "neh23f",
+      "i": 21,
+      "from": 4651,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "just this singular violently reactive organism at this point, right? And then"
+    },
+    {
+      "fp": "1g3jb1n",
+      "i": 22,
+      "from": 4788,
+      "subject": "Pericles",
+      "entities": [
+        "pericles"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Pericles, 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "pericles"
+        ]
+      },
+      "_said": "then Pericles steps up and the contrast must have been just completely staggering to witness. You have to remember"
+    },
+    {
+      "fp": "1t4uxdu",
+      "i": 23,
+      "from": 4958,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "remember early Athenian democracy heavily favored these politicians who are essentially theatrical performers. The loud guys. Exactly."
+    },
+    {
+      "fp": "1wa5pq1",
+      "i": 24,
+      "from": 5174,
+      "subject": "trophy",
+      "entities": [],
+      "concept": "trophy",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "trophy, 1919"
+      },
+      "antidote": {
+        "concept": "trophy",
+        "cast": []
+      },
+      "_said": "Exactly. Men who gave these fiery chest beating speeches. They advocated for massive reckless risks just to win personal glory."
+    },
+    {
+      "fp": "4yrzbo",
+      "i": 25,
+      "from": 5421,
+      "subject": "Pericles",
+      "entities": [
+        "pericles"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Pericles, 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "pericles"
+        ]
+      },
+      "_said": "glory. But Pericles is over 60 at this point, Yeah. He's an older statesman. He possesses this totally different gravitational pull."
+    },
+    {
+      "fp": "16rpw2b",
+      "i": 26,
+      "from": 5642,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "pull. He's intensely restrained, very dignified. He doesn't yell. No, he speaks not with soaring manipulative rhetoric to whip them up, but with this cold,"
+    },
+    {
+      "fp": "2d8jm7",
+      "i": 27,
+      "from": 5978,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "cold, airtight right? He proposes a strategy that literally no one wants to hear, but"
+    },
+    {
+      "fp": "1n422xx",
+      "i": 28,
+      "from": 6172,
+      "subject": "city",
+      "entities": [],
+      "concept": "city",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "city, 1919"
+      },
+      "antidote": {
+        "concept": "city",
+        "set": null,
+        "cast": []
+      },
+      "_said": "but that everyone actually needs to hear. The hardest thing to sell. He tells them to abandon their lands, bring everyone behind the city walls, and rely entirely on the Navy. It's"
+    },
+    {
+      "fp": "p32boy",
+      "i": 29,
+      "from": 6489,
+      "subject": "fire",
+      "entities": [],
+      "concept": "fire",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "fire, wait them out until they run out o, 1919"
+      },
+      "antidote": {
+        "concept": "fire",
+        "cast": []
+      },
+      "_said": "strategy. Let the Spartans burn the fields, Yeah. He's like, \"We won't take the bait. We'll wait them out until they literally run out of money.\" which is a brilliant logistical mo"
+    },
+    {
+      "fp": "nafvbq",
+      "i": 30,
+      "from": 6849,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "heroic to the Greek mindset to just hide behind a Cowardice, basically. So, how does he actually pull this off? How does he"
+    },
+    {
+      "fp": "sqpcjc",
+      "i": 31,
+      "from": 7034,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "he get 10,000 panicking, prideful men to agree to a strategy of sheer agonizing"
+    },
+    {
+      "fp": "4z1ck4",
+      "i": 32,
+      "from": 7228,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "right? What's the trick? He pulls it off because of the precise mechanism of his own mind. The first law of human nature is that emotion drives us and reason just invents excuses a"
+    },
+    {
+      "fp": "1x51n9x",
+      "i": 33,
+      "from": 7584,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "true. But Pericles's edge was his distance. He succeeded because he worshiped this ancient"
+    },
+    {
+      "fp": "1aopiz0",
+      "i": 34,
+      "from": 7749,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "ancient Greek concept of noose, which translates to mind or practical unemotional intelligence. He actually personified it, didn't"
+    },
+    {
+      "fp": "1p6yc9",
+      "i": 35,
+      "from": 7980,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "didn't he? Yeah. As the inner Athena. Athena being the goddess of wisdom, born directly from the head of Zeus, entirely bypassing the messy emotional womb."
+    },
+    {
+      "fp": "j8st00",
+      "i": 36,
+      "from": 8246,
+      "subject": "Pericles",
+      "entities": [
+        "pericles"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Pericles, shouting voices, 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "pericles"
+        ]
+      },
+      "_said": "womb. Pericles treated his own mind like a room full of shouting voices. fear, pride, greed, anger, and he refused to let any single one of those voices seize the wheel. He would l"
+    },
+    {
+      "fp": "1bo40jm",
+      "i": 37,
+      "from": 8613,
+      "subject": "city",
+      "entities": [],
+      "concept": "city",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "city, 1919"
+      },
+      "antidote": {
+        "concept": "city",
+        "set": null,
+        "cast": []
+      },
+      "_said": "physically retreat to his house for days when he felt overwhelmed by the city's chaos."
+    },
+    {
+      "fp": "5j79pa",
+      "i": 38,
+      "from": 8740,
+      "subject": "butterfly",
+      "entities": [],
+      "concept": "butterfly",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "butterfly, sit in total silence, 1919"
+      },
+      "antidote": {
+        "concept": "butterfly",
+        "set": null,
+        "cast": []
+      },
+      "_said": "chaos. He'd sit in total silence, letting the emotions dissipate until that clear voice of Athena emerged, which goes against everything our biology wants us to do. Exactly. Think "
+    },
+    {
+      "fp": "rsfhfz",
+      "i": 39,
+      "from": 9069,
+      "subject": "Pericles — war",
+      "entities": [
+        "pericles"
+      ],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Pericles, 1919"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": [
+          "pericles"
+        ]
+      },
+      "_said": "Right. Because Pericles wasn't just fighting the Spartan army. No, he was fighting hundreds of thousands of years of human evolution. Right."
+    },
+    {
+      "fp": "19sson2",
+      "i": 40,
+      "from": 9240,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "walking around with three different evolutionar, 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Right. You're walking around with three different evolutionary operating systems stacked on top of each other. If you look at the physical architecture of the brain, it explains th"
+    },
+    {
+      "fp": "679qvb",
+      "i": 41,
+      "from": 9672,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, 1919"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "brain, right? Built purely for immediate thoughtless survival, fight or flight. And layered above that, you"
+    },
+    {
+      "fp": "7s6hgi",
+      "i": 42,
+      "from": 9849,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "you have the mamalian lyic system, which governs feeling, social bonding, and intense emotion. And then the top layer, the most recent"
+    },
+    {
+      "fp": "vd6sxs",
+      "i": 43,
+      "from": 10063,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "recent addition, the neoortex, that thin outer layer"
+    },
+    {
+      "fp": "13nda1v",
+      "i": 44,
+      "from": 10185,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "layer that controls cognition, language, and abstract But the wiring"
+    },
+    {
+      "fp": "1r1a2wr",
+      "i": 45,
+      "from": 10303,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "wiring connecting them isn't equal, is it? Not at all. It is entirely rigged. Emotions literally process faster than language. They don't start as thoughts."
+    },
+    {
+      "fp": "e9te39",
+      "i": 46,
+      "from": 10545,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "thoughts. They're physical. Exactly. They originate as physical arousal, a rapid release of chemicals triggered by the amygdala, designed to capture"
+    },
+    {
+      "fp": "5cyxy9",
+      "i": 47,
+      "from": 10783,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "capture our attention instantly to keep us alive. So, we feel a chemical rush of anger or fear or intense envy and then our neoortex is"
+    },
+    {
+      "fp": "1f46pdj",
+      "i": 48,
+      "from": 11049,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "is left scrambling to invent a rational excuse for it after the fact. Yes, we think we're making a logical decision, but we're actually just rationalizing a chemical spike that hap"
+    },
+    {
+      "fp": "1qm6eia",
+      "i": 49,
+      "from": 11359,
+      "subject": "heart",
+      "entities": [],
+      "concept": "heart",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "heart, 1919"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": null,
+        "cast": []
+      },
+      "_said": "happened milliseconds prior. The neoortex is basically acting as a PR department for the lyic system. I love that. A"
+    },
+    {
+      "fp": "4cm3ug",
+      "i": 50,
+      "from": 11534,
+      "subject": "Pericles — fire",
+      "entities": [
+        "pericles"
+      ],
+      "concept": "fire",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Pericles, 1919"
+      },
+      "antidote": {
+        "concept": "fire",
+        "cast": [
+          "pericles"
+        ]
+      },
+      "_said": "A PR department just spinning the irrational urges. So, Pericles knew how to fire the PR"
+    },
+    {
+      "fp": "d7ur2d",
+      "i": 51,
+      "from": 11676,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "PR department. He knew how to short circuit that biological hijacking."
+    },
+    {
+      "fp": "1jh9a53",
+      "i": 52,
+      "from": 11793,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "falls apart so fast, 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "hijacking. He had distance. But the tragedy of this story just breaks my heart because we see exactly what happens when that discipline is Oh, it falls apart so fast."
+    },
+    {
+      "fp": "1xiu6en",
+      "i": 53,
+      "from": 12096,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, 1919"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "fast. Yeah. In the second year of the war, the Athenians are packed tightly behind the walls, exactly as he planned. But a plague hits,"
+    },
+    {
+      "fp": "1aeq5ef",
+      "i": 54,
+      "from": 12350,
+      "subject": "Pericles — city",
+      "entities": [
+        "pericles"
+      ],
+      "concept": "city",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Pericles, 1919"
+      },
+      "antidote": {
+        "concept": "city",
+        "set": null,
+        "cast": [
+          "pericles"
+        ]
+      },
+      "_said": "hits, a devastating plug, wipes out a third of the city. Pericles himself catches it and he dies. And the very moment he dies, the rationality of the city dies with him. Instantly,"
+    },
+    {
+      "fp": "1wpi2iw",
+      "i": 55,
+      "from": 12689,
+      "subject": "gift",
+      "entities": [],
+      "concept": "gift",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "gift, hold the reigns, 1919"
+      },
+      "antidote": {
+        "concept": "gift",
+        "cast": []
+      },
+      "_said": "unravels. Without his inner Athena to hold the reigns, the Athenians immediately give in to their basist,"
+    },
+    {
+      "fp": "1q19ipv",
+      "i": 56,
+      "from": 12840,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "basist, most reactive emotions. The fear turns into greed. The relief turns into hubris."
+    },
+    {
+      "fp": "1qbpgyz",
+      "i": 57,
+      "from": 12986,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "hubris. Right. And a few years later, purely out of unchecked feverish ambition, they decide to launch the"
+    },
+    {
+      "fp": "13p5z9n",
+      "i": 58,
+      "from": 13176,
+      "subject": "lightbulb",
+      "entities": [],
+      "concept": "lightbulb",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "lightbulb, 1919"
+      },
+      "antidote": {
+        "concept": "lightbulb",
+        "cast": []
+      },
+      "_said": "the disastrous Sicilian A terrible, terrible idea. Nikius, one"
+    },
+    {
+      "fp": "faosca",
+      "i": 59,
+      "from": 13344,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "stands on that exact same phoenix pix hill, 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "one of their commanders, stands on that exact same Phoenix Pix Hill and warns them. He says"
+    },
+    {
+      "fp": "10lrhfu",
+      "i": 60,
+      "from": 13495,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "says it's suicidal. And the crowd's response, driven entirely by dopamine and pride, is essentially, great point. Let's send double the They double down on"
+    },
+    {
+      "fp": "f3r3dn",
+      "i": 61,
+      "from": 13766,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "on the irrationality. Yeah. And it leads to the total annihilation of their Armada and the eventual ruin of the entire Athenian golden age."
+    },
+    {
+      "fp": "1i5afrx",
+      "i": 62,
+      "from": 13975,
+      "subject": "People — target",
+      "entities": [
+        "people"
+      ],
+      "concept": "target",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "People, 1919"
+      },
+      "antidote": {
+        "concept": "target",
+        "cast": [
+          "people"
+        ]
+      },
+      "_said": "age. All because they let the emotion take the wheel. But wait, I want to clarify something Because it's a trap a lot of people fall into when they hear this. The goal of all this "
+    },
+    {
+      "fp": "x3wie6",
+      "i": 63,
+      "from": 14332,
+      "subject": "Pericles — grave",
+      "entities": [
+        "pericles"
+      ],
+      "concept": "grave",
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Pericles, 1919"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": null,
+        "cast": [
+          "pericles"
+        ]
+      },
+      "_said": "Definitely not. Because Pericles clearly loved Athens. He grieved when his sons died of the He wasn't a robot. No, that is a"
+    },
+    {
+      "fp": "jsm54g",
+      "i": 64,
+      "from": 14570,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "a crucial distinction to make. Rationality is absolutely not the absence of emotion."
+    },
+    {
+      "fp": "1ga2jqx",
+      "i": 65,
+      "from": 14709,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "emotion. It's best understood through the ancient Greek metaphor of the rider and the horse. Okay, lay that out for us."
+    },
+    {
+      "fp": "1wisj13",
+      "i": 66,
+      "from": 14877,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "us. Emotion is the horse. It possesses massive, raw, incredible power and forward energy."
+    },
+    {
+      "fp": "105p2ds",
+      "i": 67,
+      "from": 15084,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "sitting on the ground, 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "energy. The rational mind is the rider. You desperately need both to move You can't just have a rider sitting on the ground,"
+    },
+    {
+      "fp": "d9fyv8",
+      "i": 68,
+      "from": 15273,
+      "subject": "heart",
+      "entities": [],
+      "concept": "heart",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "heart, 1919"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": null,
+        "cast": []
+      },
+      "_said": "ground, right? Without the horse, you have no drive, no motivation, no love, no passion. You are entirely stagnant. But if the rider drops the reins,"
+    },
+    {
+      "fp": "1ohhd5m",
+      "i": 69,
+      "from": 15537,
+      "subject": "shadowSelf",
+      "entities": [],
+      "concept": "shadowSelf",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "shadow self, run you straight off a cliff, 1919"
+      },
+      "antidote": {
+        "concept": "shadowSelf",
+        "cast": []
+      },
+      "_said": "reins, if the neoortex surrenders control to the limbic system, the horse will panic at the first shadow of a predator and run you straight off a cliff. So you have to steer. The r"
+    },
+    {
+      "fp": "hqakl5",
+      "i": 70,
+      "from": 15849,
+      "subject": "Pericles",
+      "entities": [
+        "pericles"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Pericles, 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "pericles"
+        ]
+      },
+      "_said": "reins. Pericles didn't lack emotion. and he just never let the horse dictate the destination."
+    },
+    {
+      "fp": "oqooq3",
+      "i": 71,
+      "from": 15972,
+      "subject": "Pericles — city",
+      "entities": [
+        "pericles"
+      ],
+      "concept": "city",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Pericles, 1919"
+      },
+      "antidote": {
+        "concept": "city",
+        "set": null,
+        "cast": [
+          "pericles"
+        ]
+      },
+      "_said": "destination. Okay, so Pericles managed to deliberately pull his rational mind away from the emotional contagion of an entire screaming city. But what happens when you are biologica"
+    },
+    {
+      "fp": "wjwbyf",
+      "i": 72,
+      "from": 16276,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "this is a fascinating shift, right? When you are physically separated from your own body. Put yourself in rural Wisconsin"
+    },
+    {
+      "fp": "1q4zhuq",
+      "i": 73,
+      "from": 16459,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Wisconsin in 1919. I introduce you to a 17-year-old farm boy named Milton An incredible story. He"
+    },
+    {
+      "fp": "15h0z8y",
+      "i": 74,
+      "from": 16670,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "He is a strapping active kid, but he is struck so fiercely by a"
+    },
+    {
+      "fp": "1wotumr",
+      "i": 75,
+      "from": 16797,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "falls into a coma, 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "a nearly epidemic strain of polio that he collapses and falls into a coma. And the situation was grim. Beyond grim. Right before"
+    },
+    {
+      "fp": "19t98ci",
+      "i": 76,
+      "from": 17054,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "before he goes under, slipping in and out of consciousness. He actually overhears the town doctor"
+    },
+    {
+      "fp": "rd6prj",
+      "i": 77,
+      "from": 17181,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": "kitchen",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, standing in the next room bluntly telling his mo, kitchen, 1919"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": "kitchen",
+        "cast": []
+      },
+      "_said": "doctor standing in the next room bluntly telling his mother that her son will be dead by morning. A profoundly terrifying moment to hear your own death sentence"
+    },
+    {
+      "fp": "1wb58xc",
+      "i": 78,
+      "from": 17460,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "sentence pronounced while you're powerless to speak. Yeah, beyond terrifying. But Erikson survives the night."
+    },
+    {
+      "fp": "1z0djea",
+      "i": 79,
+      "from": 17652,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "night. However, when he wakes up 3 days later, the paralysis has spread to his entire body. Even his lips are Complete lockdown. The only thing he can physically move in"
+    },
+    {
+      "fp": "1jot02e",
+      "i": 80,
+      "from": 17954,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "in his entire body are his eyeballs. He spends a year like this, right?"
+    },
+    {
+      "fp": "1csn65p",
+      "i": 81,
+      "from": 18081,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": "kitchen",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, kitchen, 1919"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": "kitchen",
+        "cast": []
+      },
+      "_said": "right? Yeah. Almost a full year. Completely, utterly trapped inside a fleshy prison. He's quarantined in a farmhouse with his parents, his brother, and his seven sisters. And to fe"
+    },
+    {
+      "fp": "wnk0rh",
+      "i": 82,
+      "from": 18376,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "watches his sisters interact, 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "the sheer excruciating psychological agony of being paralyzed, he spends months doing the only thing he can do. He just watches his sisters interact. And because he is forcefully s"
+    },
+    {
+      "fp": "1j03t9h",
+      "i": 83,
+      "from": 18672,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "ability to participate in the verbal noise, that superficial layer of language, he discovers something incredible about human nature. He really does. He realizes his sisters"
+    },
+    {
+      "fp": "1hq2nsw",
+      "i": 84,
+      "from": 18921,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": "kitchen",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, watch one sister say to another, kitchen, 1919"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": "kitchen",
+        "cast": []
+      },
+      "_said": "sisters are broadcasting an entirely separate channel of information, a second He'd watch one sister say to another, \"Yes, I'd love to help with the chores.\""
+    },
+    {
+      "fp": "11mveh5",
+      "i": 85,
+      "from": 19190,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "chores.\" But Erikson would see the microscopic tension in her neck, the slight narrowing of her eyes, the rigid set of her jaw. Her mouth was saying, \"Yes, but her biology"
+    },
+    {
+      "fp": "199uyox",
+      "i": 86,
+      "from": 19466,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "biology was screaming, \"No, I resent this deeply.\" He was observing"
+    },
+    {
+      "fp": "wqk04h",
+      "i": 87,
+      "from": 19581,
+      "subject": "People",
+      "entities": [
+        "people"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "People, read the truth people leak without a single, 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "people"
+        ]
+      },
+      "_said": "observing the physical leakage of the lyic system. Exactly. He learned to read the truth people leak without a single word. And fast forward a few decades, Ericson has miraculously"
+    },
+    {
+      "fp": "1s6cve2",
+      "i": 88,
+      "from": 19920,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "years of agonizing willpower. And he becomes a pioneering one of the greats. and he brings this exact"
+    },
+    {
+      "fp": "2pw8rf",
+      "i": 89,
+      "from": 20107,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "exact observational superpower into his clinical practice. There's this one amazing anecdote in the book where a woman comes into"
+    },
+    {
+      "fp": "mwwfco",
+      "i": 90,
+      "from": 20318,
+      "subject": "work",
+      "entities": [],
+      "concept": "work",
+      "place": "office",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "work, sits down and says, office, 1919"
+      },
+      "antidote": {
+        "concept": "work",
+        "set": "office",
+        "cast": []
+      },
+      "_said": "into his office and she claims she needs his help with a terrible fear of flying. She sits down and says, \"What?\" She"
+    },
+    {
+      "fp": "r7hqrz",
+      "i": 91,
+      "from": 20505,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "She tells Erikson, \"My husband is taking me abroad in September and I have a deathly fear of being on an airplane.\""
+    },
+    {
+      "fp": "1qmpsya",
+      "i": 92,
+      "from": 20668,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "airplane.\" And Ericen doesn't even ask her a single question about airplanes, does he? No. He instantly interrupts her and says, \"Does"
+    },
+    {
+      "fp": "acc6cr",
+      "i": 93,
+      "from": 20846,
+      "subject": "heart",
+      "entities": [],
+      "concept": "heart",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "heart, 1919"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": null,
+        "cast": []
+      },
+      "_said": "\"Does your husband know about your love affair?\" Just right for the jugular. The woman is completely stunned. She starts crying. How could he possibly know?"
+    },
+    {
+      "fp": "3aibok",
+      "i": 94,
+      "from": 21117,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "sitting with her legs locked tightly together, 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "know? And Erikson points out the data she was leaking. What did he see? She was sitting with her legs locked tightly together, one foot hooked rigidly around her ankle, a posture o"
+    },
+    {
+      "fp": "4cn1ue",
+      "i": 95,
+      "from": 21415,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "extreme defensive tension, bracing for impact. He'd seen it in countless patients who were hiding affairs. And her speech pattern, too."
+    },
+    {
+      "fp": "5v6ini",
+      "i": 96,
+      "from": 21636,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "too. Right. Furthermore, the hesitant, broken way she pronounced the word abroad, separating the syllables, taking a micro pause before saying it,"
+    },
+    {
+      "fp": "y9kll8",
+      "i": 97,
+      "from": 21924,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "it, it indicated a deep unconscious shame. He diagnosed the real issue before she even finished her first sentence. What is truly"
+    },
+    {
+      "fp": "7k37y3",
+      "i": 98,
+      "from": 22140,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "truly staggering here is the sheer volume of data we are actively ignoring every single day. It's everywhere."
+    },
+    {
+      "fp": "1t6zgta",
+      "i": 99,
+      "from": 22320,
+      "subject": "lightbulb",
+      "entities": [],
+      "concept": "lightbulb",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "lightbulb, 1919"
+      },
+      "antidote": {
+        "concept": "lightbulb",
+        "cast": []
+      },
+      "_said": "everywhere. Humans evolved for hundreds of thousands of years before the invention of spoken language. Our"
+    },
+    {
+      "fp": "vdrhpg",
+      "i": 100,
+      "from": 22476,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Our ancestors survived by communicating instantly across distances through micro"
+    },
+    {
+      "fp": "efsdzb",
+      "i": 101,
+      "from": 22608,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "micro expressions, posture, muscle tension, like a sudden stiffening of the shoulders meant a predator was near. Yes. And today, researchers estimate that over 65% of"
+    },
+    {
+      "fp": "wm1tth",
+      "i": 102,
+      "from": 22929,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "of human communication is entirely non-verbal. Wow."
+    },
+    {
+      "fp": "1xmjq3y",
+      "i": 103,
+      "from": 23037,
+      "subject": "mirror",
+      "entities": [],
+      "concept": "mirror",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "mirror, 1919"
+      },
+      "antidote": {
+        "concept": "mirror",
+        "set": null,
+        "cast": []
+      },
+      "_said": "Wow. Over 65%. It is driven by mirror neurons in the brain that involuntarily mimic and react to the emotional states of others. But we think we're"
+    },
+    {
+      "fp": "tttoth",
+      "i": 104,
+      "from": 23294,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "we're in control. We think we are in control because we choose our words so carefully. We endlessly draft our emails. We rehearse"
+    },
+    {
+      "fp": "clq22v",
+      "i": 105,
+      "from": 23510,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "rehearse our arguments in the shower. But our bodies are constantly leaking the truth. Proving we broadcast far more than we ever choose to say. Exactly."
+    },
+    {
+      "fp": "f11fvu",
+      "i": 106,
+      "from": 23767,
+      "subject": "chains",
+      "entities": [],
+      "concept": "chains",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "chains, walking styles, 1919"
+      },
+      "antidote": {
+        "concept": "chains",
+        "cast": []
+      },
+      "_said": "Exactly. We broadcast our insecurities, our lies, our deepest desires through the tempo of our walking styles, our shallow breathing patterns, the sudden pulsation of a vein in our"
+    },
+    {
+      "fp": "2des43",
+      "i": 107,
+      "from": 24144,
+      "subject": "chains",
+      "entities": [],
+      "concept": "chains",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "chains, 1919"
+      },
+      "antidote": {
+        "concept": "chains",
+        "cast": []
+      },
+      "_said": "escape a conversation. Okay. But if the biology is that universal, I have to push back. Go for it. If over 65%"
+    },
+    {
+      "fp": "4qcnvx",
+      "i": 108,
+      "from": 24353,
+      "subject": "mirror",
+      "entities": [],
+      "concept": "mirror",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "mirror, 1919"
+      },
+      "antidote": {
+        "concept": "mirror",
+        "set": null,
+        "cast": []
+      },
+      "_said": "65% of communication is non-verbal and we're literally wired with mirror neurons to project and receive it, why am I so incredibly bad at reading"
+    },
+    {
+      "fp": "llh1rw",
+      "i": 109,
+      "from": 24631,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "reading it? it's a great question, 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "reading it? It's a great question. Why didn't anyone else in that woman's life spot her rigid posture or her vocal ticks? Why did it take a guy who spent a"
+    },
+    {
+      "fp": "1fpq73o",
+      "i": 110,
+      "from": 24907,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "a year paralyzed to see it? Because of the single greatest barrier to human"
+    },
+    {
+      "fp": "ri08u7",
+      "i": 111,
+      "from": 25073,
+      "subject": "People",
+      "entities": [
+        "people"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "People, read the second language of other people bec, 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "people"
+        ]
+      },
+      "_said": "human perception, our own relentless We cannot read the second language of other people because we are entirely locked inside our own heads."
+    },
+    {
+      "fp": "f60qk9",
+      "i": 112,
+      "from": 25365,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "heads. That's so true, though. While someone else is talking to you, you aren't really observing them. You're worrying about how your hair looks, what you're going to say next to s"
+    },
+    {
+      "fp": "bltk5l",
+      "i": 113,
+      "from": 25641,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": "kitchen",
+      "confidence": 0.35,
+      "vox": {
+        "shot": "kitchen, 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": "kitchen",
+        "cast": []
+      },
+      "_said": "smart, whether they like you, or if you left the stove on. We are fundamentally obsessed with our own signals which pulls us directly out of the realm of body language and right in"
+    },
+    {
+      "fp": "xzlq13",
+      "i": 114,
+      "from": 25925,
+      "subject": "road",
+      "entities": [],
+      "concept": "road",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "road, 1919"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": null,
+        "cast": []
+      },
+      "_said": "into the psychological engine driving it. The law of narcissism, the core wound. Yes. And let's be explicitly clear right now. We are not just talking about the clinical"
+    },
+    {
+      "fp": "62ljc5",
+      "i": 115,
+      "from": 26215,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "clinical diagnostic personality disorder right? Not just NPD. We are talking"
+    },
+    {
+      "fp": "1qzyrr9",
+      "i": 116,
+      "from": 26320,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "talking about the narcissistic spectrum. Everyone, including you listening to this right now, is on"
+    },
+    {
+      "fp": "161q4s0",
+      "i": 117,
+      "from": 26436,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "on it. Underneath almost everyone, is a wound of insecurity and a hunger for"
+    },
+    {
+      "fp": "l4py60",
+      "i": 118,
+      "from": 26556,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "for Every single one of us. To understand why we are so self-absorbed, we have to look at how human identity forms in the first place."
+    },
+    {
+      "fp": "1ftcd7p",
+      "i": 119,
+      "from": 26755,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": "kitchen",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, kitchen, 1919"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": "kitchen",
+        "cast": []
+      },
+      "_said": "place. Take us back to childhood. Around the ages of 2 to 5, as we begin to physically separate from our parents,"
+    },
+    {
+      "fp": "1c9mr3b",
+      "i": 120,
+      "from": 26964,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": "kitchen",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, kitchen, 1919"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": "kitchen",
+        "cast": []
+      },
+      "_said": "parents, we experience a traumatic psychological break. We face"
+    },
+    {
+      "fp": "bvx8h",
+      "i": 121,
+      "from": 27079,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "face the inevitable painful realization that we are not the center of the universe, which is terrifying for a toddler. So to survive"
+    },
+    {
+      "fp": "p1zvl3",
+      "i": 122,
+      "from": 27360,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "survive this realization without collapsing into despair, we are supposed to develop a coherent sense of self, what psychologists call an inner thermostat"
+    },
+    {
+      "fp": "3wpsuv",
+      "i": 123,
+      "from": 27578,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": "kitchen",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, kitchen, 1919"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": "kitchen",
+        "cast": []
+      },
+      "_said": "thermostat of self-esteem. An inner thermostat. Yes. If our parents validate us appropriately, if they give us attention, but also let us experience manageable failure,"
+    },
+    {
+      "fp": "1o95jml",
+      "i": 124,
+      "from": 27842,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "failure, we internalize that validation. We build the thermostat. So when we face rejection or criticism later in life as adults, that inner thermostat kicks in, warming us from th"
+    },
+    {
+      "fp": "1h3eldz",
+      "i": 125,
+      "from": 28145,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "comfort ourselves. We have a baseline of worth but the system is fragile. What happens when that thermostat never gets That is the precise mechanism that creates"
+    },
+    {
+      "fp": "1o1bsnh",
+      "i": 126,
+      "from": 28396,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "creates a deep narcissist. The toxic version. Exactly. This usually happens due to severe childhood abandonment where the child feels utterly"
+    },
+    {
+      "fp": "1doxa9w",
+      "i": 127,
+      "from": 28634,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "utterly worthless or the exact opposite complete inshment. where a parent suffocates the child treating them as a golden idol using the child purely"
+    },
+    {
+      "fp": "132lqkn",
+      "i": 128,
+      "from": 28929,
+      "subject": "storm",
+      "entities": [],
+      "concept": "storm",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "storm, 1919"
+      },
+      "antidote": {
+        "concept": "storm",
+        "set": null,
+        "cast": []
+      },
+      "_said": "purely to validate their own parental worth. In either case, the child never builds an independent So, they're just freezing all the"
+    },
+    {
+      "fp": "qy411z",
+      "i": 129,
+      "from": 29157,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "the time. Psychologically, yes. Because deep narcissists have no internal way to generate selfworth. They rely entirely on external attention to feel alive."
+    },
+    {
+      "fp": "1a28m5o",
+      "i": 130,
+      "from": 29419,
+      "subject": "People",
+      "entities": [
+        "people"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "People, 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "people"
+        ]
+      },
+      "_said": "alive. It's like a drug addiction. To them, other people aren't autonomous, complex human beings. They are what psychology calls self-objects,"
+    },
+    {
+      "fp": "kiit7h",
+      "i": 131,
+      "from": 29673,
+      "subject": "coffee",
+      "entities": [],
+      "concept": "coffee",
+      "place": "kitchen",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "coffee, kitchen, 1919"
+      },
+      "antidote": {
+        "concept": "coffee",
+        "set": "kitchen",
+        "cast": []
+      },
+      "_said": "self-objects, just extensions of themselves. A deep narcissist views you the exact same way you view your own arm or your coffee cup merely as a tool existing solely to serve their"
+    },
+    {
+      "fp": "xzgjuk",
+      "i": 132,
+      "from": 29980,
+      "subject": "mask",
+      "entities": [],
+      "concept": "mask",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "mask, walk into a room acting like monsters, 1919"
+      },
+      "antidote": {
+        "concept": "mask",
+        "cast": []
+      },
+      "_said": "reflect their greatness. The toxic version collapses And the terrifying part of this dynamic is that early on for the mask slips, deep narcissists can be incredibly alluring. They "
+    },
+    {
+      "fp": "8fad4c",
+      "i": 133,
+      "from": 30396,
+      "subject": "Stalin",
+      "entities": [
+        "stalin"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Stalin, 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "stalin"
+        ]
+      },
+      "_said": "charming. Look at Joseph Stalin. A perfect historical example of the danger of this spectrum."
+    },
+    {
+      "fp": "1oaiq40",
+      "i": 134,
+      "from": 30528,
+      "subject": "Stalin — work",
+      "entities": [
+        "stalin"
+      ],
+      "concept": "work",
+      "place": "office",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Stalin, office, 1919"
+      },
+      "antidote": {
+        "concept": "work",
+        "set": "office",
+        "cast": [
+          "stalin"
+        ]
+      },
+      "_said": "spectrum. Right? You think of Stalin today and you picture a cold, mass murdering, paranoid but in the early days of his career"
+    },
+    {
+      "fp": "1q7bap5",
+      "i": 135,
+      "from": 30792,
+      "subject": "People — work",
+      "entities": [
+        "people"
+      ],
+      "concept": "work",
+      "place": "office",
+      "confidence": 1,
+      "vox": {
+        "shot": "People, office, 1919"
+      },
+      "antidote": {
+        "concept": "work",
+        "set": "office",
+        "cast": [
+          "people"
+        ]
+      },
+      "_said": "career in the Bolevik party, people found him shockingly charming. People loved him. He was a master of making people feel seen. He would invite junior officials into his office an"
+    },
+    {
+      "fp": "6rdm55",
+      "i": 136,
+      "from": 31137,
+      "subject": "Stalin and People — fire",
+      "entities": [
+        "stalin",
+        "people"
+      ],
+      "concept": "fire",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Stalin and People, 1919"
+      },
+      "antidote": {
+        "concept": "fire",
+        "cast": [
+          "stalin",
+          "people"
+        ]
+      },
+      "_said": "older aristocratic leaders who look down their noses at people, Stalin would insist they address him with a familiar, intimate you, creating that false bond. He would listen to the"
+    },
+    {
+      "fp": "2d0wfz",
+      "i": 137,
+      "from": 31437,
+      "subject": "heart",
+      "entities": [],
+      "concept": "heart",
+      "place": "office",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "heart, office, 1919"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": "office",
+        "cast": []
+      },
+      "_said": "burning laser-like intensity. He'd put his arm around them, puff on his pipe, and just let them talk. These young officials left his office feeling like they were bonded to him for"
+    },
+    {
+      "fp": "163blw8",
+      "i": 138,
+      "from": 31843,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "look at the mechanics, it wasn't empathy at all. Not even close. It was pure predatory mimicry."
+    },
+    {
+      "fp": "o15tra",
+      "i": 139,
+      "from": 32004,
+      "subject": "Stalin",
+      "entities": [
+        "stalin"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Stalin, 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "stalin"
+        ]
+      },
+      "_said": "mimicry. Stalin used his hyper sensitivity, which almost all deep narcissists possess because they are constantly scanning for threats to their ego, to deeply probe the minds of th"
+    },
+    {
+      "fp": "qjvkrm",
+      "i": 140,
+      "from": 32395,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "for their unfulfilled desires, their hidden resentments against their bosses, their deepest"
+    },
+    {
+      "fp": "dod44m",
+      "i": 141,
+      "from": 32525,
+      "subject": "fire",
+      "entities": [],
+      "concept": "fire",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "fire, 1919"
+      },
+      "antidote": {
+        "concept": "fire",
+        "cast": []
+      },
+      "_said": "deepest insecurities. He listened with that burning intensity, not because he cared about their well-being, but because he was quietly gathering the exact emotional data he needed"
+    },
+    {
+      "fp": "ctplnx",
+      "i": 142,
+      "from": 32803,
+      "subject": "puppeteer",
+      "entities": [],
+      "concept": "puppeteer",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "puppeteer, 1919"
+      },
+      "antidote": {
+        "concept": "puppeteer",
+        "cast": []
+      },
+      "_said": "needed to manipulate, blackmail, and control them Just counterfeit empathy designed entirely to feed his own power. So,"
+    },
+    {
+      "fp": "13kvrx",
+      "i": 143,
+      "from": 33024,
+      "subject": "Stalin",
+      "entities": [
+        "stalin"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Stalin, 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "stalin"
+        ]
+      },
+      "_said": "So, if Stalin is the darkest, most toxic end of the spectrum, collapsing inward, what does a healthy narcissist look like?"
+    },
+    {
+      "fp": "19drnpw",
+      "i": 144,
+      "from": 33264,
+      "subject": "compass",
+      "entities": [],
+      "concept": "compass",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "compass, 1919"
+      },
+      "antidote": {
+        "concept": "compass",
+        "cast": []
+      },
+      "_said": "like? Because we established that everyone is on the spectrum. We all have that hunger for validation. Yes, the raw hunger is exactly the same, but the only difference between the "
+    },
+    {
+      "fp": "9fcfq9",
+      "i": 145,
+      "from": 33578,
+      "subject": "compass",
+      "entities": [],
+      "concept": "compass",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "compass, 1919"
+      },
+      "antidote": {
+        "concept": "compass",
+        "cast": []
+      },
+      "_said": "direction. Okay, unpack that. The healthy narcissist turns that same hunger for validation outward, channeling it into deep empathy, art, and leadership. Take Ernest"
+    },
+    {
+      "fp": "1nijlmc",
+      "i": 146,
+      "from": 33833,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Ernest Shackleton, the legendary polar explorer. Oh man, what a story. In 1915, his ship, the Endurance, becomes trapped in the Antarctic pack ice. For months, they drift until the"
+    },
+    {
+      "fp": "6ejga8",
+      "i": 147,
+      "from": 34221,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "stands on the ice and realizes his grand lifel, 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "ship to splinters. Shackleton stands on the ice and realizes his grand lifelong dream of crossing"
+    },
+    {
+      "fp": "12hsxv9",
+      "i": 148,
+      "from": 34418,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "crossing the continent is entirely dead. A deep narcissist in that moment would have imploded. Absolutely. They would have"
+    },
+    {
+      "fp": "sqnavn",
+      "i": 149,
+      "from": 34598,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "have thrown tantrums wallowed in self-pity or blamed the crew for the failure because their self object had broken."
+    },
+    {
+      "fp": "74bl5i",
+      "i": 150,
+      "from": 34795,
+      "subject": "heart",
+      "entities": [],
+      "concept": "heart",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "heart, 1919"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": null,
+        "cast": []
+      },
+      "_said": "broken. And Shackleton doesn't break. No. Shackleton had a robust, brilliantly functioning inner thermostat. He had a core of self-love. So instead"
+    },
+    {
+      "fp": "syq4tr",
+      "i": 151,
+      "from": 35049,
+      "subject": "target",
+      "entities": [],
+      "concept": "target",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "target, 1919"
+      },
+      "antidote": {
+        "concept": "target",
+        "cast": []
+      },
+      "_said": "instead of collapsing inward, he used his immense self assurance to fuel an outward empathy. He instantly realized his new singular purpose was keeping his 27 men alive on the ice."
+    },
+    {
+      "fp": "4ecsm5",
+      "i": 152,
+      "from": 35448,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "read the subtle shifting moods of his crew, 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "used his sensitivity to constantly read the subtle shifting moods of his crew. He would monitor how chatty they were while eating their meager rations or how much"
+    },
+    {
+      "fp": "1mzoxj3",
+      "i": 153,
+      "from": 35693,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "reading the second link, 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "much they were swearing while dragging the lifeboats. Reading the second link. Yes. If he sensed fear, mutiny, or despair bubbling up in a specific crew member, Shaggleton would su"
+    },
+    {
+      "fp": "1s2gdx4",
+      "i": 154,
+      "from": 36031,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "behavior to counterbalance it. He would assign a pessimistic sailor to work alongside an optimistic one. He would brew hot tea at the exact moment morale dipped. He gave them exact"
+    },
+    {
+      "fp": "1h7hgvb",
+      "i": 155,
+      "from": 36343,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "exactly the emotional support they needed without them even realizing they were being He turned it into"
+    },
+    {
+      "fp": "100hz25",
+      "i": 156,
+      "from": 36492,
+      "subject": "wallet",
+      "entities": [],
+      "concept": "wallet",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "wallet, read the second language of the room to save, 1919"
+      },
+      "antidote": {
+        "concept": "wallet",
+        "cast": []
+      },
+      "_said": "into deep empathy. He read the second language of the room to save their lives. And this is where we have to stop and"
+    },
+    {
+      "fp": "1xnpikd",
+      "i": 157,
+      "from": 36657,
+      "subject": "mirror",
+      "entities": [],
+      "concept": "mirror",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "mirror, hold the mirror up because it is incredibly, 1919"
+      },
+      "antidote": {
+        "concept": "mirror",
+        "set": null,
+        "cast": []
+      },
+      "_said": "and hold the mirror up because it is incredibly satisfying to listen to the story"
+    },
+    {
+      "fp": "1yt1qf1",
+      "i": 158,
+      "from": 36785,
+      "subject": "Stalin — family",
+      "entities": [
+        "stalin"
+      ],
+      "concept": "family",
+      "place": "kitchen",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Stalin, kitchen, 1919"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": "kitchen",
+        "cast": [
+          "stalin"
+        ]
+      },
+      "_said": "of Stalin or a toxic boss and immediately diagnose your ex or your mother-in-law or that one rival at work as the"
+    },
+    {
+      "fp": "1pvl9em",
+      "i": 159,
+      "from": 37020,
+      "subject": "heart",
+      "entities": [],
+      "concept": "heart",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "heart, 1919"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": null,
+        "cast": []
+      },
+      "_said": "the deep narcissist. Oh, we love doing that. They love to point the finger and pathize everyone else. But here is the brutal truth of this deep dive. When you point the finger"
+    },
+    {
+      "fp": "held2g",
+      "i": 160,
+      "from": 37296,
+      "subject": "mask",
+      "entities": [],
+      "concept": "mask",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "mask, 1919"
+      },
+      "antidote": {
+        "concept": "mask",
+        "cast": []
+      },
+      "_said": "finger at a narcissist, remember the mask you can't see is your It's uncomfortable, but it's true. We all crave"
+    },
+    {
+      "fp": "1u8az5l",
+      "i": 161,
+      "from": 37500,
+      "subject": "People",
+      "entities": [
+        "people"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "People, 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "people"
+        ]
+      },
+      "_said": "crave that validation. We all have moments where we treat people as tools. And precisely because we crave that validation so intensely, because we"
+    },
+    {
+      "fp": "16kn4rx",
+      "i": 162,
+      "from": 37735,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "we are terrified of rejection, we learn very early on in life to construct a public face. We do it to guarantee we receive the applause we need. We realize that our raw,"
+    },
+    {
+      "fp": "1028fpa",
+      "i": 163,
+      "from": 38006,
+      "subject": "heart",
+      "entities": [],
+      "concept": "heart",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "heart, 1919"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": null,
+        "cast": []
+      },
+      "_said": "raw, unfiltered, crying, messy selves won't get the love we want. So, we build a counterfeit version of ourselves. Yeah. A persona. Which brings us to"
+    },
+    {
+      "fp": "1bhnzyt",
+      "i": 164,
+      "from": 38301,
+      "subject": "mask",
+      "entities": [],
+      "concept": "mask",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "mask, 1919"
+      },
+      "antidote": {
+        "concept": "mask",
+        "cast": []
+      },
+      "_said": "to roleplaying and the mask. The fourth law. It's fascinating just looking at the linguistic roots here. The"
+    },
+    {
+      "fp": "1lxviau",
+      "i": 165,
+      "from": 38474,
+      "subject": "mask",
+      "entities": [],
+      "concept": "mask",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "mask, 1919"
+      },
+      "antidote": {
+        "concept": "mask",
+        "cast": []
+      },
+      "_said": "The word personality literally comes from the Latin word persona which translates directly to mask. The mask worn by actors in ancient Greek and Roman theater to project a specific"
+    },
+    {
+      "fp": "d2csoi",
+      "i": 166,
+      "from": 38813,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "audience. Right? So your personality is not your soul. It is by definition a performance. We are all constantly"
+    },
+    {
+      "fp": "139dp21",
+      "i": 167,
+      "from": 38990,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "constantly performing a version of ourselves. We absolutely have to. It is the glue of civilization. From early childhood, we are systematically trained to tamp down our"
+    },
+    {
+      "fp": "1geyyf0",
+      "i": 168,
+      "from": 39216,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": "kitchen",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, kitchen, 1919"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": "kitchen",
+        "cast": []
+      },
+      "_said": "our true aggressive or selfish needs just to fit into the family unit and later society. We learn to smile politely when we are frustrated, to nod"
+    },
+    {
+      "fp": "di1rn9",
+      "i": 169,
+      "from": 39485,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "nod enthusiastically when we are actually bored to tears by a colleague's story."
+    },
+    {
+      "fp": "8pzxw",
+      "i": 170,
+      "from": 39624,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "story. Over time, we become so deeply accustomed to these social performances that we completely forget we are acting. The rest"
+    },
+    {
+      "fp": "rkdm4d",
+      "i": 171,
+      "from": 39847,
+      "subject": "People — mask",
+      "entities": [
+        "people"
+      ],
+      "concept": "mask",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "People, 1919"
+      },
+      "antidote": {
+        "concept": "mask",
+        "cast": [
+          "people"
+        ]
+      },
+      "_said": "rest of us mistake the mask for the right? But the reality is the people who rise to the top of their fields, the truly"
+    },
+    {
+      "fp": "1ar7398",
+      "i": 172,
+      "from": 40048,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "truly effective leaders and operators don't just act natural. They are keenly hyper aware of the theater of social They consciously control"
+    },
+    {
+      "fp": "1xvnn37",
+      "i": 173,
+      "from": 40339,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "control the impression they project. Exactly. Instead of leaking their inner neediness everywhere. Okay, let's theorize on this for a second because"
+    },
+    {
+      "fp": "19sxme9",
+      "i": 174,
+      "from": 40543,
+      "subject": "People — mask",
+      "entities": [
+        "people"
+      ],
+      "concept": "mask",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "People, 1919"
+      },
+      "antidote": {
+        "concept": "mask",
+        "cast": [
+          "people"
+        ]
+      },
+      "_said": "because I know people push back on this constantly. There's a whole modern movement against this. People will say, \"I don't play games. I refuse to wear a mask. I am just"
+    },
+    {
+      "fp": "22p36s",
+      "i": 175,
+      "from": 40809,
+      "subject": "People",
+      "entities": [
+        "people"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "People, 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "people"
+        ]
+      },
+      "_said": "just my authentic unfiltered self at work. I say exactly what I mean and if people don't like it, that's their problem. I hear that all the time. But think about an actor on a stag"
+    },
+    {
+      "fp": "6ao5q",
+      "i": 176,
+      "from": 41128,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "into a professional setting refusing to adhere the"
+    },
+    {
+      "fp": "1nbmvwd",
+      "i": 177,
+      "from": 41229,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "the basic social codes, loudly demanding that everyone accept their authentic, unfiltered truth. They aren't actually unmasked, are they? Not in the slightest. They are just rigidl"
+    },
+    {
+      "fp": "19swgj7",
+      "i": 178,
+      "from": 41573,
+      "subject": "mask",
+      "entities": [],
+      "concept": "mask",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "mask, 1919"
+      },
+      "antidote": {
+        "concept": "mask",
+        "cast": []
+      },
+      "_said": "a rebellious, defensive persona. It's the trutht teller mask. Yes, it is still"
+    },
+    {
+      "fp": "3cvjar",
+      "i": 179,
+      "from": 41738,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "still a performance. It's just a highly abrasive performance that usually"
+    },
+    {
+      "fp": "1hrfhyq",
+      "i": 180,
+      "from": 41839,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "usually alienates everyone around them and severely limits their own success."
+    },
+    {
+      "fp": "ojxck1",
+      "i": 181,
+      "from": 41968,
+      "subject": "shield",
+      "entities": [],
+      "concept": "shield",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "shield, 1919"
+      },
+      "antidote": {
+        "concept": "shield",
+        "cast": []
+      },
+      "_said": "success. They're using authenticity as a shield for a lack of social grace. Exactly. And the actionable insight here is incredibly crucial for navigating the world. Do not waste yo"
+    },
+    {
+      "fp": "1dasz02",
+      "i": 182,
+      "from": 42343,
+      "subject": "People — war",
+      "entities": [
+        "people"
+      ],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "People, 1919"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": [
+          "people"
+        ]
+      },
+      "_said": "life. Don't fight it. Don't be morally outraged that people are wearing masks or demand that everyone bear their souls to you."
+    },
+    {
+      "fp": "1389gff",
+      "i": 183,
+      "from": 42504,
+      "subject": "People",
+      "entities": [
+        "people"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "People, 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "people"
+        ]
+      },
+      "_said": "you. Accept the theater. Play your role with consumate skill. Tailor your appearance, your tone, and your demeanor to put people at ease and achieve your goals. But, and this is th"
+    },
+    {
+      "fp": "12e71fi",
+      "i": 184,
+      "from": 42864,
+      "subject": "mask",
+      "entities": [],
+      "concept": "mask",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "mask, 1919"
+      },
+      "antidote": {
+        "concept": "mask",
+        "cast": []
+      },
+      "_said": "an inner distance. You must know in your quietest moments that you are wearing a mask so you do not completely lose your true self in"
+    },
+    {
+      "fp": "1va1l8o",
+      "i": 185,
+      "from": 43135,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "in the performance. So, we're wearing masks. We're managing impressions."
+    },
+    {
+      "fp": "1cobvld",
+      "i": 186,
+      "from": 43231,
+      "subject": "mask",
+      "entities": [],
+      "concept": "mask",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "mask, 1919"
+      },
+      "antidote": {
+        "concept": "mask",
+        "cast": []
+      },
+      "_said": "impressions. We're smiling at our boss's terrible jokes. But what is the darkest, ugliest thing we are actively hiding behind that mask? What is the feeling we repress most violent"
+    },
+    {
+      "fp": "1u3meqb",
+      "i": 187,
+      "from": 43517,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "violently? Yeah. Without a doubt, it is Envy. The ugliest emotion. The one emotion nobody ever ever admits to"
+    },
+    {
+      "fp": "1y540ij",
+      "i": 188,
+      "from": 43740,
+      "subject": "People",
+      "entities": [
+        "people"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "People, 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "people"
+        ]
+      },
+      "_said": "to feeling. You'll hear people admit to being angry, depressed, greedy, even prideful. But no one says, \"I am deeply"
+    },
+    {
+      "fp": "1jp4bt8",
+      "i": 189,
+      "from": 43977,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "deeply Because it is the one emotion that hides even from the person experiencing it."
+    },
+    {
+      "fp": "ejci7y",
+      "i": 190,
+      "from": 44102,
+      "subject": "shield",
+      "entities": [],
+      "concept": "shield",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "shield, 1919"
+      },
+      "antidote": {
+        "concept": "shield",
+        "cast": []
+      },
+      "_said": "it. The psychological defense mechanisms around envy are incredibly thick. Why is that? Think about the mechanics of it. To consciously admit that you feel envy is to admit to your"
+    },
+    {
+      "fp": "2vwb6j",
+      "i": 191,
+      "from": 44481,
+      "subject": "coin",
+      "entities": [],
+      "concept": "coin",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "coin, 1919"
+      },
+      "antidote": {
+        "concept": "coin",
+        "cast": []
+      },
+      "_said": "It means acknowledging that they have something beauty, wealth, talent, charisma that you lack and that you feel smaller because of it."
+    },
+    {
+      "fp": "dwtqa5",
+      "i": 192,
+      "from": 44657,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "it. That realization is agonizing to the human ego. It's too painful. So what does our incredibly"
+    },
+    {
+      "fp": "bllxog",
+      "i": 193,
+      "from": 44829,
+      "subject": "fire",
+      "entities": [],
+      "concept": "fire",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "fire, 1919"
+      },
+      "antidote": {
+        "concept": "fire",
+        "cast": []
+      },
+      "_said": "incredibly adaptive brain do? It protects us. It translates the raw burning pain of envy into something much more socially palatable and empowering, righteous anger,"
+    },
+    {
+      "fp": "qhzkwk",
+      "i": 194,
+      "from": 45182,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "anger, moral indignation, or sudden inexplicable dislike. We invent a reason to hate them so we don't have to admit we want to be them. The story in the book that perfectly"
+    },
+    {
+      "fp": "1ybbf05",
+      "i": 195,
+      "from": 45434,
+      "subject": "Mary and Jane",
+      "entities": [
+        "mary",
+        "jane"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Mary and Jane, 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "mary",
+          "jane"
+        ]
+      },
+      "_said": "perfectly illustrates this terrifying dynamic is Jane Williams and Mary Shel. Such a sad story. Mary Shel, of course, the brilliant author"
+    },
+    {
+      "fp": "17uh20w",
+      "i": 196,
+      "from": 45667,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "author of Frankenstein, married to the famous poet Percy Shel."
+    },
+    {
+      "fp": "1hhs0px",
+      "i": 197,
+      "from": 45753,
+      "subject": "Mary and Jane — water",
+      "entities": [
+        "mary",
+        "jane"
+      ],
+      "concept": "water",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Mary and Jane, 1919"
+      },
+      "antidote": {
+        "concept": "water",
+        "set": null,
+        "cast": [
+          "mary",
+          "jane"
+        ]
+      },
+      "_said": "Shel. Jane Williams befriends Mary and on the surface they're incredibly close. They spend all their time together as friends. But internally, Jane is secretly drowning in feelings"
+    },
+    {
+      "fp": "ba9hqa",
+      "i": 198,
+      "from": 46020,
+      "subject": "Mary",
+      "entities": [
+        "mary"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Mary, 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "mary"
+        ]
+      },
+      "_said": "feelings of inferiority. Mary is brilliant. She is a successful published author and she commands intense attention in their social circles."
+    },
+    {
+      "fp": "syu5b5",
+      "i": 199,
+      "from": 46250,
+      "subject": "Jane",
+      "entities": [
+        "jane"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Jane, 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "jane"
+        ]
+      },
+      "_said": "circles. Jane feels she deserves that exact same level of adoration, but entirely lacks the legitimate talent or means to get it. The gap between her desire and her reality. So,"
+    },
+    {
+      "fp": "1ga60y5",
+      "i": 200,
+      "from": 46565,
+      "subject": "Jane",
+      "entities": [
+        "jane"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Jane, 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "jane"
+        ]
+      },
+      "_said": "So, the friendship morphs into a Trojan horse. It becomes a vehicle for Jane to get close enough to"
+    },
+    {
+      "fp": "1y8fctb",
+      "i": 201,
+      "from": 46735,
+      "subject": "Mary and People",
+      "entities": [
+        "mary",
+        "people"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Mary and People, 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "mary",
+          "people"
+        ]
+      },
+      "_said": "to find Mary's emotional weak points, to construct a narrative where Mary isn't actually that She tells people Mary is cold or a bad right? And she quietly, systematically"
+    },
+    {
+      "fp": "1wbmixl",
+      "i": 202,
+      "from": 47054,
+      "subject": "heart",
+      "entities": [],
+      "concept": "heart",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "heart, 1919"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": null,
+        "cast": []
+      },
+      "_said": "systematically sabotages her marriage and her reputation"
+    },
+    {
+      "fp": "p3wpn9",
+      "i": 203,
+      "from": 47124,
+      "subject": "People",
+      "entities": [
+        "people"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "People, 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "people"
+        ]
+      },
+      "_said": "reputation from the inside out. And that is the terrifying nature of the fatal friend. We always look for our enemies and the people who openly oppose us. But the friend who subtly"
+    },
+    {
+      "fp": "xauzaf",
+      "i": 204,
+      "from": 47417,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "you, who undermines your confidence with little jokes, is often the one who most intensely"
+    },
+    {
+      "fp": "5zrp89",
+      "i": 205,
+      "from": 47565,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "intensely admires you but cannot process the pain of that admiration. So, how do you spot it? If the envier"
+    },
+    {
+      "fp": "lxvt33",
+      "i": 206,
+      "from": 47738,
+      "subject": "mask",
+      "entities": [],
+      "concept": "mask",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "mask, 1919"
+      },
+      "antidote": {
+        "concept": "mask",
+        "cast": []
+      },
+      "_said": "envier doesn't even know they are envious because their ego has masked it as moral outrage, how can we possibly protect You look for the leakage in their mask, the physical tales o"
+    },
+    {
+      "fp": "sri61f",
+      "i": 207,
+      "from": 48079,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "watch for micro expressions, 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "earlier. First, watch for micro expressions. If you share genuinely good news, a promotion, a"
+    },
+    {
+      "fp": "1ag6q45",
+      "i": 208,
+      "from": 48223,
+      "subject": "heart",
+      "entities": [],
+      "concept": "heart",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "heart, 1919"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": null,
+        "cast": []
+      },
+      "_said": "a new relationship look for the fleeting fraction of a second look of disdain, just a flash, a slight tightening of the lips, a dullness in the eyes, or the exact opposite,"
+    },
+    {
+      "fp": "1o3j450",
+      "i": 209,
+      "from": 48540,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "opposite, shoddenfrod, a tiny involuntary flash of glee, or a suppressed smile when you tell them about a failure or a setback. This"
+    },
+    {
+      "fp": "kjlxju",
+      "i": 210,
+      "from": 48773,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "is the Schopenhau trick. Yes. The 19th century philosopher Arthur Schopenhau explicitly recommended this as a diagnostic tool for human nature."
+    },
+    {
+      "fp": "1vg8c8m",
+      "i": 211,
+      "from": 49051,
+      "subject": "gift",
+      "entities": [],
+      "concept": "gift",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "gift, watch their face incredibly closely, 1919"
+      },
+      "antidote": {
+        "concept": "gift",
+        "cast": []
+      },
+      "_said": "nature. Tell a suspected envir some good news, but present it casually and watch their face incredibly closely."
+    },
+    {
+      "fp": "isv8co",
+      "i": 212,
+      "from": 49243,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "closely. You're looking for that slip. You're looking for that microcond of disappointment before"
+    },
+    {
+      "fp": "rew7th",
+      "i": 213,
+      "from": 49370,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "before their neoortex catches up and they manage to paste on a fake, overly enthusiastic smile"
+    },
+    {
+      "fp": "gegj2k",
+      "i": 214,
+      "from": 49531,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "smile and congratulate you. Wow. Another major, perhaps more common red flag is poisonous praise. Oh, I hate this one."
+    },
+    {
+      "fp": "j709pb",
+      "i": 215,
+      "from": 49766,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "one. It's so insidious because you feel crazy for getting mad about a compliment. It really is designed to make you feel"
+    },
+    {
+      "fp": "1chc7vd",
+      "i": 216,
+      "from": 49925,
+      "subject": "coin",
+      "entities": [],
+      "concept": "coin",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "coin, 1919"
+      },
+      "antidote": {
+        "concept": "coin",
+        "cast": []
+      },
+      "_said": "crazy. It's the friend who says, \"Wow, you're going to make so much money off this new corporate project. Good for They sound outwardly supportive, but the subtle venomous implicat"
+    },
+    {
+      "fp": "eepij4",
+      "i": 217,
+      "from": 50316,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "or the intellectual challenge. You sold out."
+    },
+    {
+      "fp": "2rrtas",
+      "i": 218,
+      "from": 50409,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "out. It's a compliment weaponized to plant a seed of doubt precisely at the moment of your triumph. But wait, let's debate this Schopenhau trick for a second. If I am actively"
+    },
+    {
+      "fp": "10gwzi3",
+      "i": 219,
+      "from": 50693,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "waiting for a micro frown when i tell them i go, 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "actively scrutinizing my friend's face, waiting for a micro frown when I tell them I got a raise, isn't my own confirmation bias going to invent"
+    },
+    {
+      "fp": "1in38cn",
+      "i": 220,
+      "from": 50925,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "invent one? That's a valid concern. Aren't I just becoming hopelessly paranoid and projecting my own insecurities onto their subtle facial If we see these signs, how do we handle i"
+    },
+    {
+      "fp": "1r55tmg",
+      "i": 221,
+      "from": 51235,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "without destroying our relationships? Do we confront them? You raise a very valid point about paranoia, which is why you look for a cluster of leakage over time, not just a single "
+    },
+    {
+      "fp": "j2767t",
+      "i": 222,
+      "from": 51581,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "answer your question, never ever directly confront an envir."
+    },
+    {
+      "fp": "1u76k5i",
+      "i": 223,
+      "from": 51739,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Don't do it. Do not say you're just jealous. It will only trigger a massive defensive rage because, as we established, they cannot admit"
+    },
+    {
+      "fp": "14qwb7g",
+      "i": 224,
+      "from": 51965,
+      "subject": "shield",
+      "entities": [],
+      "concept": "shield",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "shield, 1919"
+      },
+      "antidote": {
+        "concept": "shield",
+        "cast": []
+      },
+      "_said": "it to themselves. You will just become the villain in their narrative. So, what's the defense? Naming it out loud to yourself is the only defense. You must name the envy."
+    },
+    {
+      "fp": "e5v86o",
+      "i": 225,
+      "from": 52243,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "envy. Recognize the toxic pushandpull dynamic, how they draw you in with intense warmth and flattery, and then inexplicably push you away with"
+    },
+    {
+      "fp": "7ot9sf",
+      "i": 226,
+      "from": 52466,
+      "subject": "shield",
+      "entities": [],
+      "concept": "shield",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "shield, 1919"
+      },
+      "antidote": {
+        "concept": "shield",
+        "cast": []
+      },
+      "_said": "with sharp criticisms or ghosting. Once you objectively recognize the pattern, your only real option to protect your own sanity is to slowly gain physical"
+    },
+    {
+      "fp": "102m5gx",
+      "i": 227,
+      "from": 52716,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "physical and emotional distance, which connects envy to an even broader, deeper psychological concept."
+    },
+    {
+      "fp": "10jdbny",
+      "i": 228,
+      "from": 52896,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "concept. Because envy isn't the only unacceptable emotion we are shoving down into the basement of our psyche."
+    },
+    {
+      "fp": "m09fev",
+      "i": 229,
+      "from": 53066,
+      "subject": "shadowSelf",
+      "entities": [],
+      "concept": "shadowSelf",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "shadow self, 1919"
+      },
+      "antidote": {
+        "concept": "shadowSelf",
+        "cast": []
+      },
+      "_said": "psyche. It's just one resident of what psychologists call the shadow. Yes. Carl"
+    },
+    {
+      "fp": "fmljv8",
+      "i": 230,
+      "from": 53193,
+      "subject": "shadowSelf",
+      "entities": [],
+      "concept": "shadowSelf",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "shadow self, walk us through, 1919"
+      },
+      "antidote": {
+        "concept": "shadowSelf",
+        "cast": []
+      },
+      "_said": "Carl Young's brilliant and terrifying concept of the shadow. Walk us through that. Throughout our lives, starting in our earliest childhood socialization, we realize that certain i"
+    },
+    {
+      "fp": "hl3jes",
+      "i": 231,
+      "from": 53469,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": "kitchen",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, kitchen, 1919"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": "kitchen",
+        "cast": []
+      },
+      "_said": "traits aren't acceptable to our parents or peers. Maybe we are naturally aggressive or deeply selfish or wildly insecure. So to seem nice, to be loved, and to fit into the group,"
+    },
+    {
+      "fp": "1uq8zp0",
+      "i": 232,
+      "from": 53765,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "we repress these traits. We banish them from our conscious But they don't leave."
+    },
+    {
+      "fp": "191r9p7",
+      "i": 233,
+      "from": 53896,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "leave. Jung's crucial insight was that they do not disappear. They go underground. They ferment and they form a dense, dark, secondary"
+    },
+    {
+      "fp": "85nwnm",
+      "i": 234,
+      "from": 54156,
+      "subject": "shadowSelf",
+      "entities": [],
+      "concept": "shadowSelf",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "shadow self, 1919"
+      },
+      "antidote": {
+        "concept": "shadowSelf",
+        "cast": []
+      },
+      "_said": "secondary personality, the shadow. And the book brings up Richard Nixon as the ultimate tragic example of this. Oh, absolutely."
+    },
+    {
+      "fp": "1xvhvvg",
+      "i": 235,
+      "from": 54360,
+      "subject": "puppeteer",
+      "entities": [],
+      "concept": "puppeteer",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "puppeteer, 1919"
+      },
+      "antidote": {
+        "concept": "puppeteer",
+        "cast": []
+      },
+      "_said": "absolutely. He epitomized the inauthentic type. He presented this incredibly controlled, pious, rigidly upright public front. The law and"
+    },
+    {
+      "fp": "dhvwkf",
+      "i": 236,
+      "from": 54621,
+      "subject": "mask",
+      "entities": [],
+      "concept": "mask",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "mask, 1919"
+      },
+      "antidote": {
+        "concept": "mask",
+        "cast": []
+      },
+      "_said": "and order candidate, the respectable every thick mask. But beneath that meticulously crafted mask, he had a phenomenally thick, dense shadow. All of his repressed paranoas, his dee"
+    },
+    {
+      "fp": "188s7o6",
+      "i": 237,
+      "from": 54936,
+      "subject": "school",
+      "entities": [],
+      "concept": "school",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "school, 1919"
+      },
+      "antidote": {
+        "concept": "school",
+        "set": null,
+        "cast": []
+      },
+      "_said": "deep-seated insecurities about his working-class background, his aggressive vindictive impulses toward his enemies, they didn't just vanish because he put on a suit. No,"
+    },
+    {
+      "fp": "1ujvqj7",
+      "i": 238,
+      "from": 55178,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "run the show under the intense crushing str, 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "No, they festered in the dark. And eventually the treats we most loudly deny are the ones that leak out sideways and eventually run the show under the intense crushing stress"
+    },
+    {
+      "fp": "5wsv9e",
+      "i": 239,
+      "from": 55449,
+      "subject": "work",
+      "entities": [],
+      "concept": "work",
+      "place": "office",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "work, hold a giant inflated beach, office, 1919"
+      },
+      "antidote": {
+        "concept": "work",
+        "set": "office",
+        "cast": []
+      },
+      "_said": "stress of the presidency. They leaked out and completely destroyed his career. It's inevitable. I always think of it like trying to hold a giant inflated beach"
+    },
+    {
+      "fp": "12gwrj5",
+      "i": 240,
+      "from": 55685,
+      "subject": "water",
+      "entities": [],
+      "concept": "water",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "water, standing in a pool pushing this huge ball down, 1919"
+      },
+      "antidote": {
+        "concept": "water",
+        "set": null,
+        "cast": []
+      },
+      "_said": "ball underwater. Imagine you're standing in a pool pushing this huge ball down. You can do it for a while"
+    },
+    {
+      "fp": "1nnmm1d",
+      "i": 241,
+      "from": 55881,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "standing in the shallow end fully rested, 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "while if you're standing in the shallow end fully rested. You look totally normal above the surface. Just a guy in a pool, right? But your arms start shaking. The harder you push"
+    },
+    {
+      "fp": "1h4kpbv",
+      "i": 242,
+      "from": 56157,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "push those aggressive or selfish traits down, the more hydrostatic pressure builds up. And"
+    },
+    {
+      "fp": "ylr9ql",
+      "i": 243,
+      "from": 56306,
+      "subject": "water",
+      "entities": [],
+      "concept": "water",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "water, holding a beach ball underwater is that you can, 1919"
+      },
+      "antidote": {
+        "concept": "water",
+        "set": null,
+        "cast": []
+      },
+      "_said": "And the terrifying thing about holding a beach ball underwater is that you can't see exactly where or when it's going to It slips the moment you get tired or you're under extreme s"
+    },
+    {
+      "fp": "mbpvkz",
+      "i": 244,
+      "from": 56594,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, 1919"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "stress like Nixon during the Vietnam War. Your grip slips and that ball explodes violently to the surface, usually hitting you right in the face in"
+    },
+    {
+      "fp": "1vsid4e",
+      "i": 245,
+      "from": 56834,
+      "subject": "coin",
+      "entities": [],
+      "concept": "coin",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "coin, 1919"
+      },
+      "antidote": {
+        "concept": "coin",
+        "cast": []
+      },
+      "_said": "in the most destructive way possible. Whatever you repress, you secretly strengthen. And the disowned self always collects its debt. It"
+    },
+    {
+      "fp": "1scsf4m",
+      "i": 246,
+      "from": 57067,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "It always collects. That is a perfect way to say it. The pressure always finds a release valve. And usually it's a catastrophic one. And this leads us to a highly"
+    },
+    {
+      "fp": "fszerr",
+      "i": 247,
+      "from": 57345,
+      "subject": "mask",
+      "entities": [],
+      "concept": "mask",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "mask, 1919"
+      },
+      "antidote": {
+        "concept": "mask",
+        "cast": []
+      },
+      "_said": "highly dangerous intersection in human behavior. What happens when a person with a thick, heavily repressed shadow, who is wearing a meticulously crafted mask actually achieves mas"
+    },
+    {
+      "fp": "899ogs",
+      "i": 248,
+      "from": 57701,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "massive, undeniable success? Oh It breeds the most dangerous delusion in the entire"
+    },
+    {
+      "fp": "7gl5m4",
+      "i": 249,
+      "from": 57849,
+      "subject": "trophy",
+      "entities": [],
+      "concept": "trophy",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "trophy, 1919"
+      },
+      "antidote": {
+        "concept": "trophy",
+        "cast": []
+      },
+      "_said": "entire human experience. Because nothing warps a person faster or more permanently than winning."
+    },
+    {
+      "fp": "10hj17z",
+      "i": 250,
+      "from": 58044,
+      "subject": "trophy",
+      "entities": [],
+      "concept": "trophy",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "trophy, 1919"
+      },
+      "antidote": {
+        "concept": "trophy",
+        "cast": []
+      },
+      "_said": "winning. Nothing. Neurologically speaking, sudden success or a massive win like a promotion, a viral moment, or a huge financial windfall releases a massive, highly addictive cockt"
+    },
+    {
+      "fp": "1oqvtjl",
+      "i": 251,
+      "from": 58368,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "chemicals in the brain, primarily dopamine and The tide of success. It is an incredible intoxicating high. But the cognitive side effect of that chemical surge"
+    },
+    {
+      "fp": "19gtj2h",
+      "i": 252,
+      "from": 58617,
+      "subject": "target",
+      "entities": [],
+      "concept": "target",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "target, 1919"
+      },
+      "antidote": {
+        "concept": "target",
+        "cast": []
+      },
+      "_said": "surge is catastrophic. The dopamine physically narrows our cognitive focus, creating a tunnel So we lose perspective. The moment"
+    },
+    {
+      "fp": "1kv9e3e",
+      "i": 253,
+      "from": 58828,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "moment we succeed, we immediately unconsciously erase the role of luck. We forget the timing of the market, the economic climate, and most importantly,"
+    },
+    {
+      "fp": "1mxqzae",
+      "i": 254,
+      "from": 59095,
+      "subject": "People",
+      "entities": [
+        "people"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "People, 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "people"
+        ]
+      },
+      "_said": "importantly, the crucial foundational help of other people. The brain literally rewires"
+    },
+    {
+      "fp": "idei1k",
+      "i": 255,
+      "from": 59253,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "rewires its narrative so that the positive outcome was the inevitable natural result of our own sheer godlike"
+    },
+    {
+      "fp": "8fzsd",
+      "i": 256,
+      "from": 59428,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "godlike brilliance. The book highlights two different paths here, two different ways to process success."
+    },
+    {
+      "fp": "2h4s6c",
+      "i": 257,
+      "from": 59589,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "success. Fantastical grandiosity versus practical grandiosity. And it points to Michael Eisner, the former incredibly successful CEO of Disney, as a prime example of"
+    },
+    {
+      "fp": "11s39lu",
+      "i": 258,
+      "from": 59870,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "of the fantastical type. A classic case. When a leader gets infected with fantastical grandiosity, their sense of self violently expands until they"
+    },
+    {
+      "fp": "15tev7v",
+      "i": 259,
+      "from": 60120,
+      "subject": "fire",
+      "entities": [],
+      "concept": "fire",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "fire, 1919"
+      },
+      "antidote": {
+        "concept": "fire",
+        "cast": []
+      },
+      "_said": "they feel infallible. They start believing they have the mightest touch. They stop listening to advisers. They fire anyone who questions them. And they make wild,"
+    },
+    {
+      "fp": "1xm6ui8",
+      "i": 260,
+      "from": 60343,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "wild, irrational decisions like Eisner's disastrous push into certain theme park expansions because they believe their sheer willpower can bend reality. They float away on the ball"
+    },
+    {
+      "fp": "9jfui8",
+      "i": 261,
+      "from": 60665,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "myth. Whereas practical grandiosity is an entirely different mechanism. It is the antidote. It requires immense painful discipline."
+    },
+    {
+      "fp": "1k0nu67",
+      "i": 262,
+      "from": 60895,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "discipline. Practical grandiosity means channeling that burst of energy and confidence, but tying your self-worth strictly to the actual work, to your tangible"
+    },
+    {
+      "fp": "29svm1",
+      "i": 263,
+      "from": 61149,
+      "subject": "funnelTrap",
+      "entities": [],
+      "concept": "funnelTrap",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "funnel trap, 1919"
+      },
+      "antidote": {
+        "concept": "funnelTrap",
+        "cast": []
+      },
+      "_said": "tangible achievements and constantly, ruthlessly remaining aware of your own Staying grounded. It"
+    },
+    {
+      "fp": "1li3d7k",
+      "i": 264,
+      "from": 61344,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "It means recognizing the luck involved. It is maintaining a relentless grounded connection to reality, refusing to let the dopamine hijack your neoortex. So, here is the direct war"
+    },
+    {
+      "fp": "3fwsdl",
+      "i": 265,
+      "from": 61672,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "for you listening right now. The moment you start believing your own myth, the moment you lean back in your chair and think, \"I finally figured it all out. I'm smarter than the mar"
+    },
+    {
+      "fp": "1vhvf0d",
+      "i": 266,
+      "from": 62071,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "waiting for you, 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "begins drafting your downfall. It's waiting for you. And if you're sitting there in your car or at your desk thinking, \"Well, this doesn't apply to me. I'm not an arrogant CEO. I'm"
+    },
+    {
+      "fp": "1rbjtsw",
+      "i": 267,
+      "from": 62356,
+      "subject": "mask",
+      "entities": [],
+      "concept": "mask",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "mask, 1919"
+      },
+      "antidote": {
+        "concept": "mask",
+        "cast": []
+      },
+      "_said": "humble.\" Listen to me. If you think you're immune to grandiosity because you're humble, look closer. The mask you can't see is your"
+    },
+    {
+      "fp": "mrlnhg",
+      "i": 268,
+      "from": 62594,
+      "subject": "mask",
+      "entities": [],
+      "concept": "mask",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "mask, 1919"
+      },
+      "antidote": {
+        "concept": "mask",
+        "cast": []
+      },
+      "_said": "your Humility can absolutely be a mask for a deep, quiet grandiosity. So, if we pause, take a breath, and look back at"
+    },
+    {
+      "fp": "1p5h3n4",
+      "i": 269,
+      "from": 62798,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "at the psychological landscape we've just traversed. It's incredibly daunting. It paints a grim picture. We are fundamentally irrational, driven by ancient brain chemistry we barel"
+    },
+    {
+      "fp": "1qyqym2",
+      "i": 270,
+      "from": 63129,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "are deeply narcissistic, obsessed with our own validation, and blind to the signals of others. We are heavily masked,"
+    },
+    {
+      "fp": "b6vyl6",
+      "i": 271,
+      "from": 63309,
+      "subject": "shadowSelf",
+      "entities": [],
+      "concept": "shadowSelf",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "shadow self, 1919"
+      },
+      "antidote": {
+        "concept": "shadowSelf",
+        "cast": []
+      },
+      "_said": "masked, performing roles to hide our dense, repressed shadows. We are plagued by an envy we can't admit to. And we are violently prone"
+    },
+    {
+      "fp": "evj2ag",
+      "i": 272,
+      "from": 63554,
+      "subject": "home",
+      "entities": [],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "home, 1919"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": []
+      },
+      "_said": "prone to grandiosity the very second we taste a drop of success. Right? It sounds like a psychological horror movie where the monster in the house is just us. So what is the cure? "
+    },
+    {
+      "fp": "1dqb6t9",
+      "i": 273,
+      "from": 63952,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "fix this internal machinery? Which brings us to one of the most powerful redemptive stories in this entire deep dive."
+    },
+    {
+      "fp": "138cft",
+      "i": 274,
+      "from": 64147,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "dive. Anton a truly remarkable transcendent historical figure. Right. Let's look at his origin."
+    },
+    {
+      "fp": "z56c2j",
+      "i": 275,
+      "from": 64312,
+      "subject": "Czechov",
+      "entities": [
+        "czechov"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Czechov, 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "czechov"
+        ]
+      },
+      "_said": "origin. Czechov is born in 19th century Russia into a state of grinding inescapable poverty."
+    },
+    {
+      "fp": "1nr6l1r",
+      "i": 276,
+      "from": 64464,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": "kitchen",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, kitchen, 1919"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": "kitchen",
+        "cast": []
+      },
+      "_said": "poverty. Son of a violent exsurf. Yes. His father is an alcoholic bankrupt exsurf who beats his children mercilessly over the smallest By all accounts, by"
+    },
+    {
+      "fp": "1ksxz6d",
+      "i": 277,
+      "from": 64817,
+      "subject": "Czechov — shadowSelf",
+      "entities": [
+        "czechov"
+      ],
+      "concept": "shadowSelf",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Czechov, 1919"
+      },
+      "antidote": {
+        "concept": "shadowSelf",
+        "cast": [
+          "czechov"
+        ]
+      },
+      "_said": "by every psychological metric, Czechov had every justification to grow up utterly consumed by righteous He should have had a shadow. so thick it choked him. He had every right to p"
+    },
+    {
+      "fp": "1ty5gf9",
+      "i": 278,
+      "from": 65121,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "play the permanent justified victim of a cruel world. But he doesn't. He"
+    },
+    {
+      "fp": "195rqv9",
+      "i": 279,
+      "from": 65253,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": "kitchen",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, writes in a letter to his brother that he had, kitchen, 1919"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": "kitchen",
+        "cast": []
+      },
+      "_said": "He does something radical. He famously writes in a letter to his brother that he had to squeeze the slave out of himself drop by drop. And how he actively"
+    },
+    {
+      "fp": "1q7sgl0",
+      "i": 280,
+      "from": 65501,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "actively accomplished that squeezing process is the master key to everything we've discussed today. Check off eventually managed to become a physician and he applied his strict"
+    },
+    {
+      "fp": "b8kah0",
+      "i": 281,
+      "from": 65757,
+      "subject": "People — family",
+      "entities": [
+        "people"
+      ],
+      "concept": "family",
+      "place": "kitchen",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "People, kitchen, 1919"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": "kitchen",
+        "cast": [
+          "people"
+        ]
+      },
+      "_said": "strict clinical medical training not just to physical ailments but to the human animal itself. He turned the lens on He decided to observe the people around him, even his violently"
+    },
+    {
+      "fp": "pdb3ey",
+      "i": 282,
+      "from": 66132,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "but with profound clinical detachment. He consciously chose to view human beings as facts of nature as entirely"
+    },
+    {
+      "fp": "88ey8u",
+      "i": 283,
+      "from": 66326,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "entirely neutral phenomena. Like comets tracing a path across the sky or plants growing toward the sun. Exactly. He stepped back. He engaged his"
+    },
+    {
+      "fp": "nzwxkd",
+      "i": 284,
+      "from": 66554,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": "kitchen",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, kitchen, 1919"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": "kitchen",
+        "cast": []
+      },
+      "_said": "his inner Athena, his neoortex. He imagined his father's story from the inside out. He realized his father wasn't some mythic evil monster designed by the universe to torture him. "
+    },
+    {
+      "fp": "tagy5",
+      "i": 285,
+      "from": 66900,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "flawed, highly irrational, terrified creature driven by his own massive unhealed"
+    },
+    {
+      "fp": "11unmhq",
+      "i": 286,
+      "from": 67027,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "unhealed childhood wounds from being born a literal slave. And by dethizing the brute, by refusing to take the abuse as a statement of his own worth, and instead seeing the patheti"
+    },
+    {
+      "fp": "1mtee2h",
+      "i": 287,
+      "from": 67351,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": "kitchen",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, kitchen, 1919"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": "kitchen",
+        "cast": []
+      },
+      "_said": "pathetic, irrational biological mechanisms driving his father's behavior,"
+    },
+    {
+      "fp": "1gf8ucc",
+      "i": 288,
+      "from": 67476,
+      "subject": "Czechov",
+      "entities": [
+        "czechov"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Czechov, 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "czechov"
+        ]
+      },
+      "_said": "behavior, Czechov found he could forgive almost anyone. By facing his own smallness and mortality headon, he became radically free and forgiving. He showed"
+    },
+    {
+      "fp": "3bxdz3",
+      "i": 289,
+      "from": 67737,
+      "subject": "mask",
+      "entities": [],
+      "concept": "mask",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "mask, read this material, 1919"
+      },
+      "antidote": {
+        "concept": "mask",
+        "cast": []
+      },
+      "_said": "showed that the shortness of life actually felt is the cure for pettiness. So, what does this all mean for us? I want to just drop the analytical facade for a second and get deeply"
+    },
+    {
+      "fp": "1210na5",
+      "i": 290,
+      "from": 68148,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "is a tremendous uncomfortable tension. There really is. If we"
+    },
+    {
+      "fp": "wm2a2b",
+      "i": 291,
+      "from": 68258,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "walk through the world treating our loved, 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "we walk through the world treating our loved ones like comets or plants, if we are constantly"
+    },
+    {
+      "fp": "af2can",
+      "i": 292,
+      "from": 68388,
+      "subject": "shadowSelf",
+      "entities": [],
+      "concept": "shadowSelf",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "shadow self, 1919"
+      },
+      "antidote": {
+        "concept": "shadowSelf",
+        "cast": []
+      },
+      "_said": "constantly scrutinizing their tight ankles and pulsating neck veins to decipher their hidden envy or their dark shadow, isn't this entire"
+    },
+    {
+      "fp": "e4w74q",
+      "i": 293,
+      "from": 68611,
+      "subject": "People",
+      "entities": [
+        "people"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "People, 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "people"
+        ]
+      },
+      "_said": "entire framework just a cold mchavelian how-to guide for using people?"
+    },
+    {
+      "fp": "1ek7cep",
+      "i": 294,
+      "from": 68741,
+      "subject": "People — notes",
+      "entities": [
+        "people"
+      ],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "People, 1919"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": [
+          "people"
+        ]
+      },
+      "_said": "people? Doesn't this just make us paranoid sociopaths? I think that discomfort is entirely valid and frankly necessary. And let's be honest, Green knows exactly what kind of book h"
+    },
+    {
+      "fp": "1qm4mol",
+      "i": 295,
+      "from": 69060,
+      "subject": "People",
+      "entities": [
+        "people"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "People, read the wrong way, 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "people"
+        ]
+      },
+      "_said": "allure. Read the wrong way. It is a how-to for using people. But there's a turn. Yes, here is the honest vital turn of this entire"
+    },
+    {
+      "fp": "vxwhes",
+      "i": 296,
+      "from": 69283,
+      "subject": "work",
+      "entities": [],
+      "concept": "work",
+      "place": "office",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "work, read your boss's micro, office, 1919"
+      },
+      "antidote": {
+        "concept": "work",
+        "set": "office",
+        "cast": []
+      },
+      "_said": "entire philosophy. The thing that separates the sociopath from the sage. If you take these laws and you aim them strictly outward, if your goal is to read your boss's micro"
+    },
+    {
+      "fp": "ito2u2",
+      "i": 297,
+      "from": 69552,
+      "subject": "puppeteer",
+      "entities": [],
+      "concept": "puppeteer",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "puppeteer, 1919"
+      },
+      "antidote": {
+        "concept": "puppeteer",
+        "cast": []
+      },
+      "_said": "micro expressions, to get a raise, to decode your spouse, to win arguments, to manipulate your friends, and play endless chess with everyone around you, you will become the exact t"
+    },
+    {
+      "fp": "vvn68z",
+      "i": 298,
+      "from": 69835,
+      "subject": "People",
+      "entities": [
+        "people"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "People, 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "people"
+        ]
+      },
+      "_said": "toxic narcissistic manipulator that you fear because you are still treating people as selfobjects. The true lasting value of"
+    },
+    {
+      "fp": "1vxv5dd",
+      "i": 299,
+      "from": 70063,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, 1919"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "of this material isn't as a weapon to use on the world. The absolute power of this framework is aiming at inward. It is the most humane,"
+    },
+    {
+      "fp": "1j2vrdt",
+      "i": 300,
+      "from": 70298,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "humane, forgiving, devastatingly effective self-help imaginable because it forces you to step off your moral pedestal. It forces you to realize"
+    },
+    {
+      "fp": "xu9shg",
+      "i": 301,
+      "from": 70533,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "realize with terrifying clarity that you are not the rational, angelic, flawless protagonist of the universe. You are just as flawed, just as secretly envious, just as prone"
+    },
+    {
+      "fp": "kscner",
+      "i": 302,
+      "from": 70841,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "prone to irrational emotional hijacking as the guy who violently cut you off in traffic"
+    },
+    {
+      "fp": "1cd2s3k",
+      "i": 303,
+      "from": 70972,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "traffic this morning. And that painful realization is where true lasting power begins. You cannot change human nature. You cannot rewire the limbic system of the species. But you c"
+    },
+    {
+      "fp": "1js9hms",
+      "i": 304,
+      "from": 71337,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "change your own awareness of it. Squeezing the slave out of yourself drop by drop. So the 18 laws of human nature ultimately collapse into a single"
+    },
+    {
+      "fp": "1q4g00e",
+      "i": 305,
+      "from": 71565,
+      "subject": "People",
+      "entities": [
+        "people"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "People, read the people around you until you stop ly, 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "people"
+        ]
+      },
+      "_said": "single terrifying but completely liberating Turn the lens around. You will never truly read the people around you until you stop lying to yourself about you. The next time you feel"
+    },
+    {
+      "fp": "1youitm",
+      "i": 306,
+      "from": 71897,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "at a colleague's irrationality or you feel that sudden sharp urge to gossip about a friend's failure, pause."
+    },
+    {
+      "fp": "plyv3s",
+      "i": 307,
+      "from": 72081,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "pause. Stop looking at them. Ask yourself what deep unhealed insecurity of your own they just"
+    },
+    {
+      "fp": "16b7q25",
+      "i": 308,
+      "from": 72223,
+      "subject": "mask",
+      "entities": [],
+      "concept": "mask",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "mask, 1919"
+      },
+      "antidote": {
+        "concept": "mask",
+        "cast": []
+      },
+      "_said": "just Because in the end, the danger was never the operator across the table. It's your own blind spot. Because in the end, the danger was never the operator across the table. The m"
+    },
+    {
+      "fp": "1esuh6c",
+      "i": 309,
+      "from": 72549,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "own. Before you go, consider this. M if our brains are this structurally wired for selfdeception, what is the one deeply held"
+    },
+    {
+      "fp": "rw5x6q",
+      "i": 310,
+      "from": 72780,
+      "subject": "mask",
+      "entities": [],
+      "concept": "mask",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "mask, 1919"
+      },
+      "antidote": {
+        "concept": "mask",
+        "cast": []
+      },
+      "_said": "held comforting belief about yourself that you are ferociously protecting right now? What mask is so perfectly, seamlessly fitted to your face that you've entirely forgotten you'd "
+    },
+    {
+      "fp": "197tycl",
+      "i": 311,
+      "from": 73087,
+      "subject": "People",
+      "entities": [
+        "people"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "People, 1919"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "people"
+        ]
+      },
+      "_said": "on? Take a walk. Look at the people around you. And more importantly, look at yourself. We'll catch you on the next deep dive."
+    }
+  ]
+}

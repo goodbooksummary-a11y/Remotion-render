@@ -217,7 +217,7 @@
       ],
       "props": [
         {
-          "type": "orbit",
+          "type": "family",
           "scale": 0.6,
           "enter": "fade",
           "color": "#D9603C",
@@ -242,7 +242,8 @@
           "enter": "pop",
           "at": 85
         }
-      ]
+      ],
+      "_subject": "family"
     },
     {
       "id": "scene-01",
@@ -1221,7 +1222,7 @@
       ],
       "props": [
         {
-          "type": "orbit",
+          "type": "road",
           "scale": 1,
           "enter": "pop",
           "color": "#D9603C",
@@ -1230,7 +1231,8 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "road"
     },
     {
       "id": "scene-14",
@@ -1376,7 +1378,8 @@
           "color2": "#1E1E22"
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "water"
     },
     {
       "id": "scene-16",
@@ -1843,7 +1846,8 @@
           "enter": "pop",
           "at": 0
         }
-      ]
+      ],
+      "_subject": "family"
     },
     {
       "id": "scene-22",
@@ -1931,7 +1935,8 @@
           "enter": "pop",
           "at": 29
         }
-      ]
+      ],
+      "_subject": "phone"
     },
     {
       "id": "scene-23",
@@ -2002,7 +2007,7 @@
       ],
       "props": [
         {
-          "type": "ripple",
+          "type": "tree",
           "scale": 1,
           "enter": "pop",
           "color": "#D9603C",
@@ -2029,7 +2034,8 @@
           "enter": "pop",
           "at": 155
         }
-      ]
+      ],
+      "_subject": "Sammy — tree"
     },
     {
       "id": "scene-24",
@@ -2108,7 +2114,8 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "Sammy"
     },
     {
       "id": "scene-25",
@@ -2259,7 +2266,7 @@
           "at": 12
         },
         {
-          "type": "spotlight",
+          "type": "codeWindow",
           "scale": 0.6,
           "enter": "fade",
           "color": "#D9603C",
@@ -2268,7 +2275,8 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "Sammy — codeWindow"
     },
     {
       "id": "scene-27",
@@ -2348,7 +2356,8 @@
           "enter": "pop",
           "at": 205
         }
-      ]
+      ],
+      "_subject": "Sammy"
     },
     {
       "id": "scene-28",
@@ -2419,7 +2428,8 @@
           "color2": "#1E1E22"
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "phone"
     },
     {
       "id": "scene-29",
@@ -2583,7 +2593,8 @@
           "enter": "pop",
           "at": 22
         }
-      ]
+      ],
+      "_subject": "Sammy"
     },
     {
       "id": "scene-31",
@@ -3042,7 +3053,7 @@
       ],
       "props": [
         {
-          "type": "spotlight",
+          "type": "wallet",
           "scale": 1,
           "enter": "pop",
           "color": "#D9603C",
@@ -3051,7 +3062,8 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "Shiftlet — wallet"
     },
     {
       "id": "scene-37",
@@ -3138,7 +3150,8 @@
           "enter": "pop",
           "at": 150
         }
-      ]
+      ],
+      "_subject": "Shiftlet — ledge"
     },
     {
       "id": "scene-38",
@@ -3218,7 +3231,8 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "family"
     },
     {
       "id": "scene-39",
@@ -3394,7 +3408,8 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "Shiftlet"
     },
     {
       "id": "scene-41",
@@ -3570,7 +3585,8 @@
           "enter": "pop",
           "at": 171
         }
-      ]
+      ],
+      "_subject": "ledge"
     },
     {
       "id": "scene-43",
@@ -3647,7 +3663,8 @@
           "enter": "pop",
           "at": 111
         }
-      ]
+      ],
+      "_subject": "Shiftlet"
     },
     {
       "id": "scene-44",
@@ -3794,7 +3811,8 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "heart"
     },
     {
       "id": "scene-46",
@@ -3891,7 +3909,8 @@
           "enter": "pop",
           "at": 22
         }
-      ]
+      ],
+      "_subject": "Sammy"
     },
     {
       "id": "scene-47",
@@ -3979,7 +3998,8 @@
           "enter": "pop",
           "at": 40
         }
-      ]
+      ],
+      "_subject": "Sammy — phone"
     },
     {
       "id": "scene-48",
@@ -4133,7 +4153,8 @@
           "enter": "pop",
           "at": 0
         }
-      ]
+      ],
+      "_subject": "Sammy"
     },
     {
       "id": "scene-50",
@@ -4346,7 +4367,7 @@
       ],
       "props": [
         {
-          "type": "ripple",
+          "type": "phone",
           "scale": 1,
           "enter": "pop",
           "color": "#D9603C",
@@ -4364,7 +4385,8 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "phone"
     },
     {
       "id": "scene-53",
@@ -4452,7 +4474,8 @@
           "color2": "#1E1E22"
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "Sammy — tree"
     },
     {
       "id": "scene-54",
@@ -4754,7 +4777,7 @@
       ],
       "props": [
         {
-          "type": "orbit",
+          "type": "family",
           "scale": 1,
           "enter": "pop",
           "color": "#D9603C",
@@ -4763,7 +4786,8 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "family"
     },
     {
       "id": "scene-58",
@@ -4841,7 +4865,8 @@
           "color2": "#1E1E22"
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "car"
     },
     {
       "id": "scene-59",
@@ -5168,7 +5193,8 @@
           "color2": "#1E1E22"
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "car"
     },
     {
       "id": "scene-63",
@@ -5239,7 +5265,7 @@
       ],
       "props": [
         {
-          "type": "maze",
+          "type": "crash",
           "scale": 1,
           "enter": "pop",
           "color": "#D9603C",
@@ -5257,7 +5283,8 @@
           "enter": "pop",
           "at": 243
         }
-      ]
+      ],
+      "_subject": "crash"
     },
     {
       "id": "scene-64",
@@ -5509,7 +5536,8 @@
           "color2": "#1E1E22"
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "family"
     },
     {
       "id": "scene-67",
@@ -5666,7 +5694,15 @@
           "lookAt": "partner"
         }
       ],
-      "props": [],
+      "props": [
+        {
+          "type": "home",
+          "scale": 1,
+          "enter": "pop",
+          "arc": "none",
+          "at": 12
+        }
+      ],
       "texts": [
         {
           "text": "SHE HID THE CAT",
@@ -5676,7 +5712,8 @@
           "enter": "pop",
           "at": 10
         }
-      ]
+      ],
+      "_subject": "home"
     },
     {
       "id": "scene-69",
@@ -5746,7 +5783,8 @@
           "color2": "#1E1E22"
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "crash"
     },
     {
       "id": "scene-70",
@@ -5824,7 +5862,8 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "crash"
     },
     {
       "id": "scene-71",
@@ -5894,7 +5933,8 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "home"
     },
     {
       "id": "scene-72",
@@ -5965,7 +6005,7 @@
       ],
       "props": [
         {
-          "type": "spotlight",
+          "type": "family",
           "scale": 1,
           "enter": "pop",
           "color": "#D9603C",
@@ -5992,7 +6032,8 @@
           "enter": "pop",
           "at": 22
         }
-      ]
+      ],
+      "_subject": "family"
     },
     {
       "id": "scene-73",
@@ -6072,7 +6113,8 @@
           "enter": "pop",
           "at": 270
         }
-      ]
+      ],
+      "_subject": "grave"
     },
     {
       "id": "scene-74",
@@ -6232,7 +6274,15 @@
           "lookAt": "partner"
         }
       ],
-      "props": [],
+      "props": [
+        {
+          "type": "car",
+          "scale": 1,
+          "enter": "pop",
+          "arc": "none",
+          "at": 12
+        }
+      ],
       "texts": [
         {
           "text": "IT WAS IN TENNESSEE",
@@ -6242,7 +6292,8 @@
           "enter": "pop",
           "at": 22
         }
-      ]
+      ],
+      "_subject": "car"
     },
     {
       "id": "scene-76",
@@ -6493,7 +6544,8 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "family"
     },
     {
       "id": "scene-79",
@@ -6563,7 +6615,15 @@
           "lookAt": "partner"
         }
       ],
-      "props": [],
+      "props": [
+        {
+          "type": "phone",
+          "scale": 1,
+          "enter": "pop",
+          "arc": "none",
+          "at": 12
+        }
+      ],
       "texts": [
         {
           "text": "BLAMING THE VICTIM?",
@@ -6573,7 +6633,8 @@
           "enter": "pop",
           "at": 90
         }
-      ]
+      ],
+      "_subject": "phone"
     },
     {
       "id": "scene-80",
@@ -6717,7 +6778,8 @@
           "enter": "pop",
           "at": 114
         }
-      ]
+      ],
+      "_subject": "crash"
     },
     {
       "id": "scene-82",
@@ -6796,7 +6858,8 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "Misfit — family"
     },
     {
       "id": "scene-83",
@@ -6875,7 +6938,8 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "Misfit — family"
     },
     {
       "id": "scene-84",
@@ -6955,7 +7019,8 @@
           "enter": "pop",
           "at": 202
         }
-      ]
+      ],
+      "_subject": "Misfit"
     },
     {
       "id": "scene-85",
@@ -7010,7 +7075,8 @@
           "at": 0
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "Misfit"
     },
     {
       "id": "scene-86",
@@ -7164,7 +7230,8 @@
           "enter": "pop",
           "at": 157
         }
-      ]
+      ],
+      "_subject": "family"
     },
     {
       "id": "scene-88",
@@ -7492,7 +7559,15 @@
           "lookAt": "partner"
         }
       ],
-      "props": [],
+      "props": [
+        {
+          "type": "family",
+          "scale": 1,
+          "enter": "pop",
+          "arc": "none",
+          "at": 12
+        }
+      ],
       "texts": [
         {
           "text": "NOT HARMLESS",
@@ -7502,7 +7577,8 @@
           "enter": "pop",
           "at": 22
         }
-      ]
+      ],
+      "_subject": "family"
     },
     {
       "id": "scene-92",
@@ -7740,7 +7816,8 @@
           "color2": "#1E1E22"
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "car"
     },
     {
       "id": "scene-95",
@@ -7815,7 +7892,8 @@
           "enter": "pop",
           "at": 22
         }
-      ]
+      ],
+      "_subject": "Misfit"
     },
     {
       "id": "scene-96",
@@ -7894,7 +7972,8 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "magnifier"
     },
     {
       "id": "scene-97",
@@ -8126,7 +8205,8 @@
           "color2": "#1E1E22"
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "family"
     },
     {
       "id": "scene-100",
@@ -8375,7 +8455,8 @@
           "color2": "#1E1E22"
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "home"
     },
     {
       "id": "scene-103",
@@ -8446,7 +8527,7 @@
       ],
       "props": [
         {
-          "type": "spotlight",
+          "type": "wallet",
           "scale": 0.6,
           "enter": "fade",
           "color": "#D9603C",
@@ -8464,7 +8545,8 @@
           "enter": "pop",
           "at": 22
         }
-      ]
+      ],
+      "_subject": "Misfit — wallet"
     },
     {
       "id": "scene-104",
@@ -8677,7 +8759,8 @@
           "enter": "pop",
           "at": 22
         }
-      ]
+      ],
+      "_subject": "Misfit — phone"
     },
     {
       "id": "scene-107",
@@ -8764,7 +8847,8 @@
           "enter": "pop",
           "at": 121
         }
-      ]
+      ],
+      "_subject": "grave"
     },
     {
       "id": "scene-108",
@@ -8988,7 +9072,8 @@
           "enter": "pop",
           "at": 66
         }
-      ]
+      ],
+      "_subject": "tree"
     },
     {
       "id": "scene-111",
@@ -9291,7 +9376,8 @@
           "color2": "#1E1E22"
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "family"
     },
     {
       "id": "scene-115",
@@ -9440,7 +9526,7 @@
       ],
       "props": [
         {
-          "type": "spotlight",
+          "type": "phone",
           "scale": 1,
           "enter": "pop",
           "color": "#D9603C",
@@ -9458,7 +9544,8 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "phone"
     },
     {
       "id": "scene-117",
@@ -9833,7 +9920,8 @@
           "enter": "pop",
           "at": 109
         }
-      ]
+      ],
+      "_subject": "Misfit — home"
     },
     {
       "id": "scene-122",
@@ -10111,7 +10199,8 @@
           "enter": "pop",
           "at": 22
         }
-      ]
+      ],
+      "_subject": "tree"
     },
     {
       "id": "scene-125",
@@ -10190,7 +10279,8 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "family"
     },
     {
       "id": "scene-126",
@@ -10269,7 +10359,8 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "Misfit"
     },
     {
       "id": "scene-127",
@@ -10535,7 +10626,8 @@
           "enter": "pop",
           "at": 143
         }
-      ]
+      ],
+      "_subject": "Misfit"
     },
     {
       "id": "scene-130",
@@ -10825,7 +10917,8 @@
           "enter": "pop",
           "at": 28
         }
-      ]
+      ],
+      "_subject": "water"
     },
     {
       "id": "scene-134",
@@ -10914,7 +11007,8 @@
           "enter": "pop",
           "at": 22
         }
-      ]
+      ],
+      "_subject": "family"
     },
     {
       "id": "scene-135",
@@ -11004,7 +11098,8 @@
           "enter": "pop",
           "at": 159
         }
-      ]
+      ],
+      "_subject": "water"
     },
     {
       "id": "scene-136",
@@ -11091,7 +11186,8 @@
           "enter": "pop",
           "at": 130
         }
-      ]
+      ],
+      "_subject": "water"
     },
     {
       "id": "scene-137",
@@ -11161,7 +11257,8 @@
           "color2": "#1E1E22"
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "home"
     },
     {
       "id": "scene-138",
@@ -11229,7 +11326,15 @@
           "lookAt": "partner"
         }
       ],
-      "props": [],
+      "props": [
+        {
+          "type": "water",
+          "scale": 1,
+          "enter": "pop",
+          "arc": "none",
+          "at": 12
+        }
+      ],
       "texts": [
         {
           "text": "BAPTIZE HIMSELF",
@@ -11239,7 +11344,8 @@
           "enter": "pop",
           "at": 104
         }
-      ]
+      ],
+      "_subject": "water"
     },
     {
       "id": "scene-139",
@@ -11309,7 +11415,15 @@
           "lookAt": "partner"
         }
       ],
-      "props": [],
+      "props": [
+        {
+          "type": "water",
+          "scale": 1,
+          "enter": "pop",
+          "arc": "none",
+          "at": 12
+        }
+      ],
       "texts": [
         {
           "text": "LIKE A GENTLE HAND",
@@ -11319,7 +11433,8 @@
           "enter": "pop",
           "at": 102
         }
-      ]
+      ],
+      "_subject": "water"
     },
     {
       "id": "scene-140",
@@ -11411,7 +11526,8 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "water"
     },
     {
       "id": "scene-141",
@@ -11495,7 +11611,8 @@
           "enter": "pop",
           "at": 20
         }
-      ]
+      ],
+      "_subject": "grave"
     },
     {
       "id": "scene-142",
@@ -11548,7 +11665,7 @@
       "characters": [],
       "props": [
         {
-          "type": "ripple",
+          "type": "water",
           "scale": 1,
           "enter": "pop",
           "color": "#D9603C",
@@ -11566,7 +11683,8 @@
           "enter": "pop",
           "at": 320
         }
-      ]
+      ],
+      "_subject": "water"
     },
     {
       "id": "scene-143",
@@ -11920,7 +12038,8 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "grave"
     },
     {
       "id": "scene-148",
@@ -12136,7 +12255,7 @@
       ],
       "props": [
         {
-          "type": "maze",
+          "type": "grave",
           "scale": 0.6,
           "enter": "fade",
           "color": "#D9603C",
@@ -12154,7 +12273,8 @@
           "enter": "pop",
           "at": 71
         }
-      ]
+      ],
+      "_subject": "grave"
     },
     {
       "id": "scene-151",
@@ -12374,7 +12494,8 @@
           "color2": "#1E1E22"
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "tree"
     },
     {
       "id": "scene-154",
@@ -12462,7 +12583,8 @@
           "enter": "pop",
           "at": 49
         }
-      ]
+      ],
+      "_subject": "Misfit"
     },
     {
       "id": "scene-155",
@@ -12781,7 +12903,8 @@
           "enter": "pop",
           "at": 143
         }
-      ]
+      ],
+      "_subject": "grave"
     },
     {
       "id": "scene-159",
@@ -12883,7 +13006,8 @@
           "enter": "pop",
           "at": 243
         }
-      ]
+      ],
+      "_subject": "Misfit"
     },
     {
       "id": "scene-160",
@@ -13053,7 +13177,8 @@
           "enter": "pop",
           "at": 123
         }
-      ]
+      ],
+      "_subject": "Misfit"
     },
     {
       "id": "scene-162",
@@ -13905,7 +14030,8 @@
           "enter": "pop",
           "at": 188
         }
-      ]
+      ],
+      "_subject": "ledge"
     },
     {
       "id": "scene-173",
@@ -13993,7 +14119,8 @@
           "enter": "pop",
           "at": 82
         }
-      ]
+      ],
+      "_subject": "home"
     },
     {
       "id": "scene-174",
@@ -14346,7 +14473,8 @@
           "enter": "pop",
           "at": 148
         }
-      ]
+      ],
+      "_subject": "tree"
     },
     {
       "id": "scene-178",
@@ -14573,7 +14701,8 @@
           "color2": "#1E1E22"
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "phone"
     },
     {
       "id": "scene-181",
@@ -14642,7 +14771,15 @@
           "lookAt": "partner"
         }
       ],
-      "props": [],
+      "props": [
+        {
+          "type": "phone",
+          "scale": 1,
+          "enter": "pop",
+          "arc": "none",
+          "at": 12
+        }
+      ],
       "texts": [
         {
           "text": "CALLED OCCASIONALISM",
@@ -14652,7 +14789,8 @@
           "enter": "pop",
           "at": 164
         }
-      ]
+      ],
+      "_subject": "phone"
     },
     {
       "id": "scene-182",
@@ -14803,7 +14941,8 @@
           "color2": "#1E1E22"
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "family"
     },
     {
       "id": "scene-184",
@@ -14892,7 +15031,8 @@
           "enter": "pop",
           "at": 203
         }
-      ]
+      ],
+      "_subject": "Shiftlet — car"
     },
     {
       "id": "scene-185",
@@ -14972,7 +15112,7 @@
           "at": 12
         },
         {
-          "type": "spotlight",
+          "type": "car",
           "scale": 0.6,
           "enter": "fade",
           "color": "#D9603C",
@@ -14981,7 +15121,8 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "car"
     },
     {
       "id": "scene-186",
@@ -15060,7 +15201,8 @@
           "enter": "pop",
           "at": 22
         }
-      ]
+      ],
+      "_subject": "heart"
     },
     {
       "id": "scene-187",
@@ -15150,7 +15292,8 @@
           "enter": "pop",
           "at": 286
         }
-      ]
+      ],
+      "_subject": "phone"
     },
     {
       "id": "scene-188",
@@ -15229,7 +15372,8 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "Shiftlet — car"
     },
     {
       "id": "scene-189",
@@ -15299,7 +15443,15 @@
           "lookAt": "partner"
         }
       ],
-      "props": [],
+      "props": [
+        {
+          "type": "family",
+          "scale": 1,
+          "enter": "pop",
+          "arc": "none",
+          "at": 12
+        }
+      ],
       "texts": [
         {
           "text": "A MOTHER'S LOVE",
@@ -15309,7 +15461,8 @@
           "enter": "pop",
           "at": 113
         }
-      ]
+      ],
+      "_subject": "family"
     },
     {
       "id": "scene-190",
@@ -15406,7 +15559,8 @@
           "enter": "pop",
           "at": 37
         }
-      ]
+      ],
+      "_subject": "car"
     },
     {
       "id": "scene-191",
@@ -15495,7 +15649,8 @@
           "enter": "pop",
           "at": 166
         }
-      ]
+      ],
+      "_subject": "Shiftlet — phone"
     },
     {
       "id": "scene-192",
@@ -15817,7 +15972,8 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "Shiftlet — school"
     },
     {
       "id": "scene-196",
@@ -18087,7 +18243,8 @@
           "enter": "pop",
           "at": 197
         }
-      ]
+      ],
+      "_subject": "home"
     },
     {
       "id": "scene-225",
@@ -18168,7 +18325,8 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "car"
     },
     {
       "id": "scene-226",
@@ -18229,7 +18387,7 @@
       ],
       "props": [
         {
-          "type": "shape",
+          "type": "family",
           "scale": 0.6,
           "enter": "fade",
           "color": "#D9603C",
@@ -18247,7 +18405,8 @@
           "enter": "pop",
           "at": 0
         }
-      ]
+      ],
+      "_subject": "family"
     },
     {
       "id": "scene-227",
@@ -18396,7 +18555,7 @@
       ],
       "props": [
         {
-          "type": "spotlight",
+          "type": "family",
           "scale": 0.6,
           "enter": "fade",
           "color": "#D9603C",
@@ -18414,7 +18573,8 @@
           "enter": "pop",
           "at": 236
         }
-      ]
+      ],
+      "_subject": "family"
     },
     {
       "id": "scene-229",
@@ -18571,7 +18731,8 @@
           "enter": "pop",
           "at": 0
         }
-      ]
+      ],
+      "_subject": "family"
     },
     {
       "id": "scene-231",
@@ -18720,7 +18881,15 @@
           "lookAt": "partner"
         }
       ],
-      "props": [],
+      "props": [
+        {
+          "type": "grave",
+          "scale": 1,
+          "enter": "pop",
+          "arc": "none",
+          "at": 12
+        }
+      ],
       "texts": [
         {
           "text": "LIKE A FUNERAL URN",
@@ -18730,7 +18899,8 @@
           "enter": "pop",
           "at": 145
         }
-      ]
+      ],
+      "_subject": "grave"
     },
     {
       "id": "scene-233",
@@ -19171,7 +19341,8 @@
           "enter": "pop",
           "at": 97
         }
-      ]
+      ],
+      "_subject": "grave"
     },
     {
       "id": "scene-238",
@@ -19405,7 +19576,8 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "Sammy"
     },
     {
       "id": "scene-241",
@@ -20073,7 +20245,8 @@
           "enter": "pop",
           "at": 92
         }
-      ]
+      ],
+      "_subject": "water"
     },
     {
       "id": "scene-249",
@@ -20299,7 +20472,8 @@
           "color2": "#1E1E22"
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "phone"
     },
     {
       "id": "scene-252",
@@ -20380,7 +20554,7 @@
           "at": 12
         },
         {
-          "type": "spotlight",
+          "type": "phone",
           "scale": 0.6,
           "enter": "fade",
           "color": "#D9603C",
@@ -20398,7 +20572,8 @@
           "enter": "pop",
           "at": 207
         }
-      ]
+      ],
+      "_subject": "phone"
     },
     {
       "id": "scene-253",
@@ -20459,7 +20634,7 @@
       ],
       "props": [
         {
-          "type": "orbit",
+          "type": "car",
           "scale": 1,
           "enter": "pop",
           "color": "#D9603C",
@@ -20468,7 +20643,8 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "car"
     },
     {
       "id": "scene-254",
@@ -20684,7 +20860,15 @@
           "action": "talk"
         }
       ],
-      "props": [],
+      "props": [
+        {
+          "type": "phone",
+          "scale": 1,
+          "enter": "pop",
+          "arc": "none",
+          "at": 12
+        }
+      ],
       "texts": [
         {
           "text": "NO CONDEMNATION",
@@ -20694,7 +20878,8 @@
           "enter": "pop",
           "at": 22
         }
-      ]
+      ],
+      "_subject": "phone"
     },
     {
       "id": "scene-257",
@@ -21008,7 +21193,8 @@
           "color2": "#1E1E22"
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "phone"
     },
     {
       "id": "scene-261",
@@ -21567,7 +21753,8 @@
           "enter": "pop",
           "at": 22
         }
-      ]
+      ],
+      "_subject": "Misfit and Sammy"
     },
     {
       "id": "scene-268",
@@ -21800,7 +21987,7 @@
       ],
       "props": [
         {
-          "type": "ripple",
+          "type": "heart",
           "scale": 0.6,
           "enter": "fade",
           "color": "#D9603C",
@@ -21818,7 +22005,8 @@
           "enter": "pop",
           "at": 236
         }
-      ]
+      ],
+      "_subject": "heart"
     },
     {
       "id": "scene-271",
@@ -22081,7 +22269,8 @@
           "enter": "pop",
           "at": 116
         }
-      ]
+      ],
+      "_subject": "car"
     }
   ],
   "captions": [

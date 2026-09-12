@@ -1,0 +1,6066 @@
+{
+  "slug": "this-is-me",
+  "authored": false,
+  "briefs": [
+    {
+      "fp": "kri0k8",
+      "i": 0,
+      "from": 0,
+      "subject": "work",
+      "entities": [],
+      "concept": "work",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "work"
+      },
+      "antidote": {
+        "concept": "work",
+        "set": null,
+        "cast": []
+      },
+      "_said": "The most famous line of her career was that she couldn't be hurt and the whole world decided to believe it about the real girl, too. Yeah, it is a really profound kind of um type c"
+    },
+    {
+      "fp": "10nide1",
+      "i": 1,
+      "from": 355,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "between the invincible character you play on TV and the vulnerable human you actually are, it just gets entirely erased"
+    },
+    {
+      "fp": "1sqjcb1",
+      "i": 2,
+      "from": 537,
+      "subject": "Hayden — phone",
+      "entities": [
+        "hayden"
+      ],
+      "concept": "phone",
+      "place": "cafe",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Hayden, watching you, cafe"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": "cafe",
+        "cast": [
+          "hayden"
+        ]
+      },
+      "_said": "erased by the culture watching you. Totally. That was the ultimate lie and it's the absolute center of what we are pulling apart today. I mean, you've seen Hayden Paniter on your s"
+    },
+    {
+      "fp": "vh3o82",
+      "i": 3,
+      "from": 984,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "was a product. So today we are doing a deep dive into her memoir,"
+    },
+    {
+      "fp": "152yb7t",
+      "i": 4,
+      "from": 1149,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": "cafe",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone, cafe"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": "cafe",
+        "cast": []
+      },
+      "_said": "memoir, This Is Me, a Reckoning. And we are looking at this text through a very specific, very revealing lens. Right. The performance"
+    },
+    {
+      "fp": "lqjypx",
+      "i": 5,
+      "from": 1404,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "performance of okayness. Exactly. We want to explore how a child who was raised under the literal glare"
+    },
+    {
+      "fp": "1pyh1ro",
+      "i": 6,
+      "from": 1560,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "glare of studio lights learned early on that being fine wasn't just like a mood. It wasn't a personality trait. No,"
+    },
+    {
+      "fp": "2ekqef",
+      "i": 7,
+      "from": 1783,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "No, it was the product. Yes, being fine was the literal product she was paid to manufacture and deliver to the world. Which brings"
+    },
+    {
+      "fp": "1s9dxof",
+      "i": 8,
+      "from": 1977,
+      "subject": "Hayden — dollarExchange",
+      "entities": [
+        "hayden"
+      ],
+      "concept": "dollarExchange",
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Hayden"
+      },
+      "antidote": {
+        "concept": "dollarExchange",
+        "set": null,
+        "cast": [
+          "hayden"
+        ]
+      },
+      "_said": "brings us to the core thesis we need to prove as we work through all this material today because the easy you know, the one the tabloids have been selling you for 15 years is that "
+    },
+    {
+      "fp": "diw2o1",
+      "i": 9,
+      "from": 2381,
+      "subject": "star",
+      "entities": [],
+      "concept": "star",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "star"
+      },
+      "antidote": {
+        "concept": "star",
+        "set": null,
+        "cast": []
+      },
+      "_said": "tragic child star trope, we've heard it a million times, right? But when you examine her life through the mechanics of this book, you realize that narrative is just it's entirely"
+    },
+    {
+      "fp": "18x56m3",
+      "i": 10,
+      "from": 2649,
+      "subject": "medical",
+      "entities": [],
+      "concept": "medical",
+      "place": "hospital",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "medical, hospital"
+      },
+      "antidote": {
+        "concept": "medical",
+        "set": "hospital",
+        "cast": []
+      },
+      "_said": "entirely backward. Fame didn't break her. Fame hired her to play indestructible girls. Wow. Yeah. The depression, the drinking, the pills. None of"
+    },
+    {
+      "fp": "1eyrox7",
+      "i": 11,
+      "from": 2923,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "notes, writes about"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": []
+      },
+      "_said": "of that was the performance failing. All of that was simply the bill for that performance coming due. So, the reckoning she writes about, it isn't a simple recovery story. No, it's"
+    },
+    {
+      "fp": "1sufpx3",
+      "i": 12,
+      "from": 3290,
+      "subject": "mask",
+      "entities": [],
+      "concept": "mask",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "mask"
+      },
+      "antidote": {
+        "concept": "mask",
+        "cast": []
+      },
+      "_said": "realization that the mask she wore to survive wasn't just a defense mechanism. It was her job. So, let's start"
+    },
+    {
+      "fp": "nyicv6",
+      "i": 13,
+      "from": 3463,
+      "subject": "school",
+      "entities": [],
+      "concept": "school",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "school"
+      },
+      "antidote": {
+        "concept": "school",
+        "set": null,
+        "cast": []
+      },
+      "_said": "start at the absolute beginning because when we say she was hired early, we aren't talking about like a high school drama club. Not at all. We are talking"
+    },
+    {
+      "fp": "1ngzg31",
+      "i": 14,
+      "from": 3693,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": "cafe",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone, cafe"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": "cafe",
+        "cast": []
+      },
+      "_said": "talking about infancy. I want to drop you right into the scene from the text and just try to picture the sensory reality of it. [snorts] It"
+    },
+    {
+      "fp": "13ppav2",
+      "i": 15,
+      "from": 3878,
+      "subject": "Hayden — storm",
+      "entities": [
+        "hayden"
+      ],
+      "concept": "storm",
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Hayden"
+      },
+      "antidote": {
+        "concept": "storm",
+        "set": null,
+        "cast": [
+          "hayden"
+        ]
+      },
+      "_said": "It is pre-dawn in New York City, 1990. The city is freezing. It's dark. It's damp. And Hayden is 8 months old."
+    },
+    {
+      "fp": "sglocp",
+      "i": 16,
+      "from": 4111,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": "cafe",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone, cafe"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": "cafe",
+        "cast": []
+      },
+      "_said": "old. eight months, just a baby, literally an infant. She is at a casting call for Michelin Tires. Her mother has stripped her down to her diaper in this drafty room and placed her "
+    },
+    {
+      "fp": "1ht36u6",
+      "i": 17,
+      "from": 4505,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "massive rubber tire. Oh my. And because she's an infant, her neck muscles can barely support her. Her giant baby head"
+    },
+    {
+      "fp": "rh7zs2",
+      "i": 18,
+      "from": 4704,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "head is bobbing around like a balloon on a string, and her body is"
+    },
+    {
+      "fp": "1j9ajy6",
+      "i": 19,
+      "from": 4807,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "is just swaying unsteadily back and forth against the heavy tread of the tire."
+    },
+    {
+      "fp": "126fom4",
+      "i": 20,
+      "from": 4912,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": []
+      },
+      "_said": "tire. That sounds terrifying. Honestly, it is. and her mother is hovering just out of frame, whispering, basically praying she doesn't fall and crack her skull"
+    },
+    {
+      "fp": "1k8c82e",
+      "i": 21,
+      "from": 5131,
+      "subject": "school",
+      "entities": [],
+      "concept": "school",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "school"
+      },
+      "antidote": {
+        "concept": "school",
+        "set": null,
+        "cast": []
+      },
+      "_said": "skull on the floor. [snorts] Now, she didn't get that specific part, but the die was cast. By 11 months old, she books a play school commercial. Her"
+    },
+    {
+      "fp": "jzecbs",
+      "i": 22,
+      "from": 5392,
+      "subject": "subway",
+      "entities": [],
+      "concept": "subway",
+      "place": "street",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "subway, watching a toy train go around a track on a brig, street"
+      },
+      "antidote": {
+        "concept": "subway",
+        "set": "street",
+        "cast": []
+      },
+      "_said": "Her very first memory, the first cognitive imprint of her entire life, is watching a toy train go around a track on a brightly lit commercial set. Let's analyze"
+    },
+    {
+      "fp": "1lpa77h",
+      "i": 23,
+      "from": 5623,
+      "subject": "magnifier",
+      "entities": [],
+      "concept": "magnifier",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "magnifier"
+      },
+      "antidote": {
+        "concept": "magnifier",
+        "cast": []
+      },
+      "_said": "analyze the mechanics of what is happening in that room, though. The foundation of her entire psychological framework is being laid"
+    },
+    {
+      "fp": "10kwmgc",
+      "i": 24,
+      "from": 5841,
+      "subject": "Hayden — phone",
+      "entities": [
+        "hayden"
+      ],
+      "concept": "phone",
+      "place": "cafe",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Hayden, cafe"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": "cafe",
+        "cast": [
+          "hayden"
+        ]
+      },
+      "_said": "laid down before she can even speak. The self, you know, the biological entity we call Hayden is being treated as a"
+    },
+    {
+      "fp": "ba71ub",
+      "i": 25,
+      "from": 6029,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "commercial commodity before the concept of consent can even begin to form in her developing brain. It's wild when you phrase it like that. I mean, think about what a casting direct"
+    },
+    {
+      "fp": "4dn5r7",
+      "i": 26,
+      "from": 6377,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "holding the clipboards was her ability to not"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "looking for talent. They're looking for compliance. Exactly. Her primary value to the adults holding the clipboards was her ability to not"
+    },
+    {
+      "fp": "zskv9a",
+      "i": 27,
+      "from": 6609,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "not cry. Yes, she was hired because she was miraculously unbothered by cold rooms, by bright lights, and by strangers manhandling her. Her value was her ability"
+    },
+    {
+      "fp": "1txw2",
+      "i": 28,
+      "from": 6926,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "ability to suppress normal infant distress, to be quote unquote professional, and to deliver whatever"
+    },
+    {
+      "fp": "1ifrff6",
+      "i": 29,
+      "from": 7101,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "whatever reaction the adult in the room demanded on Q. And you see how that expectation just calcifies as she gets older."
+    },
+    {
+      "fp": "ssqjmt",
+      "i": 30,
+      "from": 7315,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "older. Fast forward a decade. She's 11 years old. She's up for the role of Cheryl Yoast in the massive Disney film, Remember The Oh, such a huge movie. Huge. But her agent is havin"
+    },
+    {
+      "fp": "gfihqi",
+      "i": 31,
+      "from": 7711,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "polished pageant kid. They actually compare her look to John Benet Ramsay, which is a horrifying parallel of childhood"
+    },
+    {
+      "fp": "awxqz6",
+      "i": 32,
+      "from": 7941,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "childhood commodification all on its right? Just chilling. So, the pressure is immense to prove she can be rough and tumble. But right before she flies out to Los Angeles for the a"
+    },
+    {
+      "fp": "1pmcr2u",
+      "i": 33,
+      "from": 8273,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "at a water park. Like a normal 11-year-old. Exactly. She goes down a slide, hits the concrete bottom, and completely shreds her knuckles."
+    },
+    {
+      "fp": "1cdsglf",
+      "i": 34,
+      "from": 8505,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "knuckles. They are bloody, ripped open, and throbbing. She is sobbing Oh, man. And she isn't"
+    },
+    {
+      "fp": "155box",
+      "i": 35,
+      "from": 8712,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "isn't just crying because of the physical pain. She is crying because she believes"
+    },
+    {
+      "fp": "1o8x398",
+      "i": 36,
+      "from": 8822,
+      "subject": "medical",
+      "entities": [],
+      "concept": "medical",
+      "place": "hospital",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "medical, hospital"
+      },
+      "antidote": {
+        "concept": "medical",
+        "set": "hospital",
+        "cast": []
+      },
+      "_said": "believes she has ruined the audition, which is so sad. So, what does her mother do? She doesn't take her to the doctor or tell her to rest. She wraps those bloody hands tightly in "
+    },
+    {
+      "fp": "9q0rjp",
+      "i": 37,
+      "from": 9237,
+      "subject": "gift",
+      "entities": [],
+      "concept": "gift",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "gift"
+      },
+      "antidote": {
+        "concept": "gift",
+        "cast": []
+      },
+      "_said": "they want a tomboy. We'll give them a tomboy."
+    },
+    {
+      "fp": "10zt07i",
+      "i": 38,
+      "from": 9307,
+      "subject": "Hayden",
+      "entities": [
+        "hayden"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Hayden, walks into that audition room"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "hayden"
+        ]
+      },
+      "_said": "tomboy. Just push through the pain. Hayden walks into that audition room"
+    },
+    {
+      "fp": "1vb1a5f",
+      "i": 39,
+      "from": 9420,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "room with bleeding knuckles, suppressing the pain and channels this fierce, fearless attitude. She uses the injury"
+    },
+    {
+      "fp": "46qu32",
+      "i": 40,
+      "from": 9612,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "injury as a prop and she books the movie. The mechanism of reward here is deeply insidious, right? Look at what her developing brain is learning in that What do you mean? Well, the"
+    },
+    {
+      "fp": "ozgpmi",
+      "i": 41,
+      "from": 10039,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": []
+      },
+      "_said": "completely subverted by the professional requirement to perform. The adults in the room, both her mother and the casting directors, are actively"
+    },
+    {
+      "fp": "19i12xw",
+      "i": 42,
+      "from": 10276,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "actively rewarding the suppression of her actual childhood reality. Oh, wow. Yeah. They're validating"
+    },
+    {
+      "fp": "17dt4bq",
+      "i": 43,
+      "from": 10423,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "validating the character over the person. Exactly. They are validating the character she can project over the pain she is actually experiencing. When you are rewarded with a multi-"
+    },
+    {
+      "fp": "6vb0bg",
+      "i": 44,
+      "from": 10687,
+      "subject": "coin",
+      "entities": [],
+      "concept": "coin",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "coin"
+      },
+      "antidote": {
+        "concept": "coin",
+        "cast": []
+      },
+      "_said": "multi-million dollar movie role for hiding your bleeding you learn a very permanent lesson."
+    },
+    {
+      "fp": "1my7yfs",
+      "i": 45,
+      "from": 10853,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "lesson. Your pain is irrelevant. Your ability to perform through it is your only Which creates this incredible isolating"
+    },
+    {
+      "fp": "gdi7ui",
+      "i": 46,
+      "from": 11037,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "isolating dissonance. Because while all this Hollywood success is happening, she's actually living in a"
+    },
+    {
+      "fp": "dkwx1d",
+      "i": 47,
+      "from": 11176,
+      "subject": "Hayden — phone",
+      "entities": [
+        "hayden"
+      ],
+      "concept": "phone",
+      "place": "cafe",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Hayden, cafe"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": "cafe",
+        "cast": [
+          "hayden"
+        ]
+      },
+      "_said": "a very quiet, affluent suburb outside of New York City called Sneeden's Landing. It's this idyllic artsy enclave. People like Bill Murray and Alpuchccino live there. But for Hayden"
+    },
+    {
+      "fp": "1wo165c",
+      "i": 48,
+      "from": 11580,
+      "subject": "funnelTrap",
+      "entities": [],
+      "concept": "funnelTrap",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "funnel trap"
+      },
+      "antidote": {
+        "concept": "funnelTrap",
+        "cast": []
+      },
+      "_said": "is a nightmare. Kids can be brutal. Oh, ruthless. She is getting bullied by kids who are jealous or just cruel. She's having crumpled"
+    },
+    {
+      "fp": "1rpblje",
+      "i": 49,
+      "from": 11832,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "notes"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": []
+      },
+      "_said": "crumpled up notes shoved at her in the hallways that say things like, \"Your acting sucks.\" That's awful. And this is the detail that breaks my heart. She doesn't throw them away. S"
+    },
+    {
+      "fp": "h46rkl",
+      "i": 50,
+      "from": 12240,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "meticulously in a binder, and hides them under her bed. like she's collecting"
+    },
+    {
+      "fp": "1phkwt8",
+      "i": 51,
+      "from": 12333,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": []
+      },
+      "_said": "collecting the evidence of why she's not good enough, right? She sleeps over them, letting them act as this constant radiating seed of insecurity. It gets so bad that her dad actua"
+    },
+    {
+      "fp": "16ac57c",
+      "i": 52,
+      "from": 12700,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "a clean way out. He tells her she can quit, right? Yeah. He says, \"We"
+    },
+    {
+      "fp": "1prtrv3",
+      "i": 53,
+      "from": 12820,
+      "subject": "home",
+      "entities": [],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "home"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": []
+      },
+      "_said": "\"We don't care about the acting. We care about you. You can just stay home and be a normal kid.\" But she refuses."
+    },
+    {
+      "fp": "1eetz6x",
+      "i": 54,
+      "from": 12972,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": "cafe",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone, cafe"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": "cafe",
+        "cast": []
+      },
+      "_said": "refuses. She won't take the exit ramp. See, that's fascinating. Now, wait. Looking at that, my instinct is to complicate this narrative a little bit because in the text, she is rem"
+    },
+    {
+      "fp": "mm2vuw",
+      "i": 55,
+      "from": 13380,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "she was a willful child, right? She wasn't a passive victim. Exactly. She"
+    },
+    {
+      "fp": "1ga404n",
+      "i": 56,
+      "from": 13497,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": []
+      },
+      "_said": "She loved the adrenaline of the set. She loved the craft. If she wasn't being dragged kicking and screaming and her father explicitly gave her permission to quit, aren't we kind of"
+    },
+    {
+      "fp": "1fenk3j",
+      "i": 57,
+      "from": 13821,
+      "subject": "work",
+      "entities": [],
+      "concept": "work",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "work"
+      },
+      "antidote": {
+        "concept": "work",
+        "set": null,
+        "cast": []
+      },
+      "_said": "by saying she was forced into this? I mean, didn't she actively choose the performance? It's a really critical distinction to make, but we have to evaluate the nature of choice for"
+    },
+    {
+      "fp": "nxo6fi",
+      "i": 58,
+      "from": 14448,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "same thing as informed consent. Okay, that's a fair point. A pre-adolescent brain physically cannot comprehend"
+    },
+    {
+      "fp": "ppbpqj",
+      "i": 59,
+      "from": 14611,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "comprehend the long-term psychological toll of fusing their entire identity to public consumption. The profound danger here isn't"
+    },
+    {
+      "fp": "qr69qs",
+      "i": 60,
+      "from": 14817,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "isn't that she hated it and was a prisoner. The much deeper danger is that she loved it so intensely that she fused her entire sense of selfworth to the applause. She learned on a "
+    },
+    {
+      "fp": "77g98v",
+      "i": 61,
+      "from": 15122,
+      "subject": "shield",
+      "entities": [],
+      "concept": "shield",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "shield"
+      },
+      "antidote": {
+        "concept": "shield",
+        "cast": []
+      },
+      "_said": "level that love, safety, and validation were strictly conditional on her It makes me think about how we develop technology, oddly enough. How so? If you look at this through the le"
+    },
+    {
+      "fp": "19ucabw",
+      "i": 62,
+      "from": 15487,
+      "subject": "codeWindow",
+      "entities": [],
+      "concept": "codeWindow",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "code window"
+      },
+      "antidote": {
+        "concept": "codeWindow",
+        "set": null,
+        "cast": []
+      },
+      "_said": "of a software product launch, it's like a company releasing a massive new operating system where the underlying"
+    },
+    {
+      "fp": "17v29iw",
+      "i": 63,
+      "from": 15693,
+      "subject": "codeWindow",
+      "entities": [],
+      "concept": "codeWindow",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "code window"
+      },
+      "antidote": {
+        "concept": "codeWindow",
+        "set": null,
+        "cast": []
+      },
+      "_said": "underlying code is still actively being written. Oh, I see where you're going. Right."
+    },
+    {
+      "fp": "1lp1b3e",
+      "i": 64,
+      "from": 15808,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Right. It buggy. It's incomplete. It's fragile. But the public is already demanding the flawless final version. They are banging on the servers. So the developers just keep slappin"
+    },
+    {
+      "fp": "fh390n",
+      "i": 65,
+      "from": 16130,
+      "subject": "laptopMockup",
+      "entities": [],
+      "concept": "laptopMockup",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "laptop mockup"
+      },
+      "antidote": {
+        "concept": "laptopMockup",
+        "set": null,
+        "cast": []
+      },
+      "_said": "superficial patches on the interface to make it look highly functional from the outside while the core architecture is crumbling"
+    },
+    {
+      "fp": "ks5mvf",
+      "i": 66,
+      "from": 16301,
+      "subject": "funnelMetrics",
+      "entities": [],
+      "concept": "funnelMetrics",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "funnel metrics"
+      },
+      "antidote": {
+        "concept": "funnelMetrics",
+        "set": null,
+        "cast": []
+      },
+      "_said": "crumbling under the traffic. That is a perfect analogy. She learned incredibly early that the performance of okayess is the patch that keeps the servers running. And the traffic on"
+    },
+    {
+      "fp": "720uv1",
+      "i": 67,
+      "from": 16588,
+      "subject": "work",
+      "entities": [],
+      "concept": "work",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "work, reaches a terrifying cultural peak when she lan"
+      },
+      "antidote": {
+        "concept": "work",
+        "set": null,
+        "cast": []
+      },
+      "_said": "about to increase exponentially. I mean that public demand for the flawless version reaches a terrifying cultural peak when she lands the role that defines her career. Save the che"
+    },
+    {
+      "fp": "ou3m8t",
+      "i": 68,
+      "from": 16973,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "NBC's Heroes. It was inescapable"
+    },
+    {
+      "fp": "chpunm",
+      "i": 69,
+      "from": 17037,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "inescapable in 2006. It really was. So, let's look at the reality of navigating the world under that specific spotlight. She is 17 years old,"
+    },
+    {
+      "fp": "1kvblu5",
+      "i": 70,
+      "from": 17304,
+      "subject": "car",
+      "entities": [],
+      "concept": "car",
+      "place": "street",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "car, walk from a car to a door through, street"
+      },
+      "antidote": {
+        "concept": "car",
+        "set": "street",
+        "cast": []
+      },
+      "_said": "old, the absolute center of pop culture, She is trying to navigate a crowded industry event in Los Angeles, just trying to walk from a car to a door through"
+    },
+    {
+      "fp": "t8h518",
+      "i": 71,
+      "from": 17601,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "through a swarm of paparazzi. Suddenly, she feels a sharp physical pain in the back of her leg."
+    },
+    {
+      "fp": "11w2cem",
+      "i": 72,
+      "from": 17767,
+      "subject": "Hayden — photo",
+      "entities": [
+        "hayden"
+      ],
+      "concept": "photo",
+      "place": "bedroom",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Hayden, bedroom"
+      },
+      "antidote": {
+        "concept": "photo",
+        "set": "bedroom",
+        "cast": [
+          "hayden"
+        ]
+      },
+      "_said": "leg. A kick, right? Yes, a grown man, a photographer has literally kicked her hard. And as she winces, as the shock registers and she turns around, the photographer has his massive"
+    },
+    {
+      "fp": "1hcz90",
+      "i": 73,
+      "from": 18240,
+      "subject": "Hayden",
+      "entities": [
+        "hayden"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Hayden"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "hayden"
+        ]
+      },
+      "_said": "Hayden. Smile.\" That makes my blood boil. It's disgusting. He intentionally inflicted physical pain just"
+    },
+    {
+      "fp": "7hts6f",
+      "i": 74,
+      "from": 18396,
+      "subject": "photo",
+      "entities": [],
+      "concept": "photo",
+      "place": "bedroom",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "photo, bedroom"
+      },
+      "antidote": {
+        "concept": "photo",
+        "set": "bedroom",
+        "cast": []
+      },
+      "_said": "just to provoke an unscripted reaction, hoping to capture a profitable photo"
+    },
+    {
+      "fp": "1tgzhvq",
+      "i": 75,
+      "from": 18506,
+      "subject": "photo",
+      "entities": [],
+      "concept": "photo",
+      "place": "bedroom",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "photo, bedroom"
+      },
+      "antidote": {
+        "concept": "photo",
+        "set": "bedroom",
+        "cast": []
+      },
+      "_said": "photo of America's sweetheart looking angry or out of control. And we have to remember the cultural context of what she was famous for at that exact moment. On Heroes, she"
+    },
+    {
+      "fp": "172rglj",
+      "i": 76,
+      "from": 18758,
+      "subject": "school",
+      "entities": [],
+      "concept": "school",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "school"
+      },
+      "antidote": {
+        "concept": "school",
+        "set": null,
+        "cast": []
+      },
+      "_said": "she played Claire Bennett, a high school cheerleader whose superpower was cellular regeneration, right? She could heal from anything, anything. She"
+    },
+    {
+      "fp": "kav97r",
+      "i": 77,
+      "from": 18986,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "She hurled herself off 80oot oil rigs. She survived fires. She literally"
+    },
+    {
+      "fp": "159iuxq",
+      "i": 78,
+      "from": 19125,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "literally snapped her own broken bones back into place on prime time television. And the American public, aided enthusiastically by a highly predatory media landscape, took that fi"
+    },
+    {
+      "fp": "35axas",
+      "i": 79,
+      "from": 19456,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "indestructibility, and grafted it onto the real life teenager. It's like they couldn't separate the They looked at a 17-year-old girl and decided she"
+    },
+    {
+      "fp": "yr01sr",
+      "i": 80,
+      "from": 19653,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "she was a superhero. So, they tested her boundaries constantly, physically and emotionally, just to see if she would break. To fully"
+    },
+    {
+      "fp": "15pah2e",
+      "i": 81,
+      "from": 19826,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "fully understand the cruelty of that moment, you really have to understand the media ecosystem of the mid200s. This was the era of the circle of shame. Oh god, the tabloid"
+    },
+    {
+      "fp": "hjz2dw",
+      "i": 82,
+      "from": 20102,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": "shore",
+      "confidence": 0.35,
+      "vox": {
+        "shot": "shore"
+      },
+      "antidote": {
+        "concept": null,
+        "set": "shore",
+        "cast": []
+      },
+      "_said": "tabloid circles. Yes, tabloids and early gossip blogs were making millions by publishing telephoto images of teenage girls at the beach, literally drawing thick yellow circles arou"
+    },
+    {
+      "fp": "500odq",
+      "i": 83,
+      "from": 20599,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "gleeful public dissection of young women. It"
+    },
+    {
+      "fp": "sx04ed",
+      "i": 84,
+      "from": 20656,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "It was so toxic. She explicitly talks about how she"
+    },
+    {
+      "fp": "1nh21y2",
+      "i": 85,
+      "from": 20743,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": "shore",
+      "confidence": 0.35,
+      "vox": {
+        "shot": "shore"
+      },
+      "antidote": {
+        "concept": null,
+        "set": "shore",
+        "cast": []
+      },
+      "_said": "she couldn't even go to the beach with her The culture wanted to build her up as the ultimate symbol of American"
+    },
+    {
+      "fp": "1dob81q",
+      "i": 86,
+      "from": 20908,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "American purity. But they also desperately, pathologically wanted to"
+    },
+    {
+      "fp": "1xnocws",
+      "i": 87,
+      "from": 21057,
+      "subject": "photo",
+      "entities": [],
+      "concept": "photo",
+      "place": "bedroom",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "photo, bedroom"
+      },
+      "antidote": {
+        "concept": "photo",
+        "set": "bedroom",
+        "cast": []
+      },
+      "_said": "to see the cheerleader bleed. And when that paparazzo kicked her, what were her options? She couldn't press charges. She couldn't scream at him because the moment she did, he gets "
+    },
+    {
+      "fp": "1jrfq8g",
+      "i": 88,
+      "from": 21626,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "has no recourse. None. So what does she do? She swallowed the pain. She forced a smile. She maintained"
+    },
+    {
+      "fp": "him94d",
+      "i": 89,
+      "from": 21825,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "maintained the performance and the pressure to maintain that performance wasn't just this abstract cultural expectation. It was legally binding. Right at the height of this frenzy,"
+    },
+    {
+      "fp": "vdse6e",
+      "i": 90,
+      "from": 22111,
+      "subject": "coin",
+      "entities": [],
+      "concept": "coin",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "coin"
+      },
+      "antidote": {
+        "concept": "coin",
+        "cast": []
+      },
+      "_said": "massive multi-million dollar endorsement contract with Neutrogena. Oh, that's right."
+    },
+    {
+      "fp": "14qadhu",
+      "i": 91,
+      "from": 22224,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "right. The face of the brand. Yeah. She becomes the literal face of a brand whose entire identity is built on"
+    },
+    {
+      "fp": "1jd0usk",
+      "i": 92,
+      "from": 22375,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "on being squeaky clean, pure, fresh, and natural. And corporate contracts of that magnitude come with incredibly"
+    },
+    {
+      "fp": "fkd2l",
+      "i": 93,
+      "from": 22608,
+      "subject": "photo",
+      "entities": [],
+      "concept": "photo",
+      "place": "bedroom",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "photo, bedroom"
+      },
+      "antidote": {
+        "concept": "photo",
+        "set": "bedroom",
+        "cast": []
+      },
+      "_said": "incredibly strict morality clauses. You step out of line, you lose the millions. Exactly. This isn't just about washing her face on camera. She had to meticulously perform the role"
+    },
+    {
+      "fp": "1vwhkss",
+      "i": 94,
+      "from": 22913,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "sweetheart 24/7. Now, imagine being 18 in Hollywood during that specific era. It was wild. She talks about going to clubs like Leoo, which for anyone who didn't live through 2000's"
+    },
+    {
+      "fp": "o2nvhn",
+      "i": 95,
+      "from": 23280,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "culture was the absolute epicenter of toxic Hollywood nightife. It was where Paris Hilton, Lindsay Lohan, and the paparazzi all collided in this sweaty, chaotic, velvet"
+    },
+    {
+      "fp": "1hkigow",
+      "i": 96,
+      "from": 23628,
+      "subject": "Hayden — photo",
+      "entities": [
+        "hayden"
+      ],
+      "concept": "photo",
+      "place": "bedroom",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Hayden, holding a red solo cup in a photo, bedroom"
+      },
+      "antidote": {
+        "concept": "photo",
+        "set": "bedroom",
+        "cast": [
+          "hayden"
+        ]
+      },
+      "_said": "velvet rope circus. Literal circus. And Hayden is inside this environment, but she is terrified. She's terrified of holding a red solo cup in a photo. She is hyper analyzing her ou"
+    },
+    {
+      "fp": "11flich",
+      "i": 97,
+      "from": 24041,
+      "subject": "Hayden — clock",
+      "entities": [
+        "hayden"
+      ],
+      "concept": "clock",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Hayden"
+      },
+      "antidote": {
+        "concept": "clock",
+        "cast": [
+          "hayden"
+        ]
+      },
+      "_said": "second of the day that she's on the clock playing the role of Hayden Paniter, Neutrogena Girl."
+    },
+    {
+      "fp": "ftos3h",
+      "i": 98,
+      "from": 24173,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Girl. The surveillance was total. It was coming from all sides. The paparazzi were financially incentivized to catch her failing and her corporate sponsors were financially demandi"
+    },
+    {
+      "fp": "1vhrn4h",
+      "i": 99,
+      "from": 24473,
+      "subject": "coin",
+      "entities": [],
+      "concept": "coin",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "coin"
+      },
+      "antidote": {
+        "concept": "coin",
+        "cast": []
+      },
+      "_said": "She was trapped completely. She was trapped in an impossible standard acting as the guarantor for millions of dollars of other people's money. All resting on the behavior of a teen"
+    },
+    {
+      "fp": "c1za0j",
+      "i": 100,
+      "from": 24794,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "teenager. Okay, but wait. I want to challenge the assumption that this was entirely negative. Because as I"
+    },
+    {
+      "fp": "1o396z6",
+      "i": 101,
+      "from": 24955,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "read the book"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "I read the book, I couldn't help but notice that she didn't end up like the rest of the women the media cruy dubbed the messy generation. What do you mean? Well, she wasn't"
+    },
+    {
+      "fp": "1efl0n0",
+      "i": 102,
+      "from": 25281,
+      "subject": "crash",
+      "entities": [],
+      "concept": "crash",
+      "place": "highway",
+      "confidence": 0.6,
+      "vox": {
+        "shot": "crash, highway"
+      },
+      "antidote": {
+        "concept": "crash",
+        "set": "highway",
+        "cast": []
+      },
+      "_said": "wasn't getting DUIs on the Pacific Coast Highway. She wasn't crashing cars. She wasn't being photographed crying outside of courouses. Given how many child stars of that exact era "
+    },
+    {
+      "fp": "qtj6w0",
+      "i": 103,
+      "from": 25843,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": "cafe",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone, cafe"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": "cafe",
+        "cast": []
+      },
+      "_said": "act as a guardrail? Like it protected her? Yeah. Didn't it keep her safe from going completely off the rails publicly? It's a very common way to view high functioning individuals, "
+    },
+    {
+      "fp": "fhgv5z",
+      "i": 104,
+      "from": 26160,
+      "subject": "shield",
+      "entities": [],
+      "concept": "shield",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "shield"
+      },
+      "antidote": {
+        "concept": "shield",
+        "cast": []
+      },
+      "_said": "us to reject that premise entirely. It didn't keep her safe. It simply dictated the direction of the destruction. Okay, explain that. It forced"
+    },
+    {
+      "fp": "13rvydc",
+      "i": 105,
+      "from": 26390,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "forced the collapse inward. Let's step away from the cliche"
+    },
+    {
+      "fp": "1s5pkrc",
+      "i": 106,
+      "from": 26486,
+      "subject": "city",
+      "entities": [],
+      "concept": "city",
+      "place": "street",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "city, street"
+      },
+      "antidote": {
+        "concept": "city",
+        "set": "street",
+        "cast": []
+      },
+      "_said": "cliche of the pressure cooker for a moment. Think of her life as a form of architectural ficotism. Architectural ficotism. Yeah. Have you ever seen a beautiful historic building in"
+    },
+    {
+      "fp": "7wph5d",
+      "i": 107,
+      "from": 26810,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": "street",
+      "confidence": 0.35,
+      "vox": {
+        "shot": "walk around back, street"
+      },
+      "antidote": {
+        "concept": null,
+        "set": "street",
+        "cast": []
+      },
+      "_said": "from the street, the masonry and the windows look absolutely perfect and pristine. Sure. But if you walk around back, you realize the entire inside of the building has"
+    },
+    {
+      "fp": "sa81hr",
+      "i": 108,
+      "from": 27076,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "holding up that beautiful front wall is a massi"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "has been gutted, bulldozed to the dirt, and the only thing holding up that beautiful front wall is a massive"
+    },
+    {
+      "fp": "v9w8nr",
+      "i": 109,
+      "from": 27266,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": []
+      },
+      "_said": "massive hidden scaffold of steel girders. Oh wow. That was her life. She didn't rebel publicly because the scaffolding of her obligations, her mom, her team, Neutrogena, her fans, "
+    },
+    {
+      "fp": "14945gr",
+      "i": 110,
+      "from": 27653,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "afford to let it fall. The indestructible girl on television was perfectly mirrored by the indestructible teen on the red carpet."
+    },
+    {
+      "fp": "95moan",
+      "i": 111,
+      "from": 27840,
+      "subject": "mask",
+      "entities": [],
+      "concept": "mask",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "mask, holding flawlessly"
+      },
+      "antidote": {
+        "concept": "mask",
+        "cast": []
+      },
+      "_said": "carpet. The facade was holding flawlessly, but internally she was being completely"
+    },
+    {
+      "fp": "12afp09",
+      "i": 112,
+      "from": 27965,
+      "subject": "mask",
+      "entities": [],
+      "concept": "mask",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "mask"
+      },
+      "antidote": {
+        "concept": "mask",
+        "cast": []
+      },
+      "_said": "completely hollowed out. That image of the gutted building is chilling. And where does that facade finally start to show cracks? It fractures when she takes a role that forces her "
+    },
+    {
+      "fp": "9o6x7u",
+      "i": 113,
+      "from": 28296,
+      "subject": "mirror",
+      "entities": [],
+      "concept": "mirror",
+      "place": "bedroom",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "mirror, bedroom"
+      },
+      "antidote": {
+        "concept": "mirror",
+        "set": "bedroom",
+        "cast": []
+      },
+      "_said": "The Nashville years, right? This brings us to one of the most twisted meta psychological experiences detailed in the entire memoir, The Cruel Mirror"
+    },
+    {
+      "fp": "1toas3e",
+      "i": 114,
+      "from": 28620,
+      "subject": "mirror",
+      "entities": [],
+      "concept": "mirror",
+      "place": "bedroom",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "mirror, bedroom"
+      },
+      "antidote": {
+        "concept": "mirror",
+        "set": "bedroom",
+        "cast": []
+      },
+      "_said": "Mirror of Nashville. It honestly reads"
+    },
+    {
+      "fp": "w19d7v",
+      "i": 115,
+      "from": 28687,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "reads like a psychological horror story masqu"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "reads like a psychological horror story masquerading as a prime time country music soap opera. Put yourself in her shoes for a second. You're living in Tennessee."
+    },
+    {
+      "fp": "oyk7xk",
+      "i": 116,
+      "from": 28941,
+      "subject": "book",
+      "entities": [],
+      "concept": "book",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "book, sitting in your trailer opening the script for"
+      },
+      "antidote": {
+        "concept": "book",
+        "set": null,
+        "cast": []
+      },
+      "_said": "Tennessee. It's season 4 of Nashville. You are sitting in your trailer opening the script for the new season for your character Juliet Barnes. And as you read the pages, you realiz"
+    },
+    {
+      "fp": "1xfwexa",
+      "i": 117,
+      "from": 29268,
+      "subject": "mirror",
+      "entities": [],
+      "concept": "mirror",
+      "place": "bedroom",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "mirror, bedroom"
+      },
+      "antidote": {
+        "concept": "mirror",
+        "set": "bedroom",
+        "cast": []
+      },
+      "_said": "into a funhouse mirror. The writers have scripted Juliet to suffer from severe debilitating"
+    },
+    {
+      "fp": "18mvm13",
+      "i": 118,
+      "from": 29431,
+      "subject": "medical",
+      "entities": [],
+      "concept": "medical",
+      "place": "hospital",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "medical, hospital"
+      },
+      "antidote": {
+        "concept": "medical",
+        "set": "hospital",
+        "cast": []
+      },
+      "_said": "debilitating postpartum depression. That's exactly what she was dealing with. Exactly. They've"
+    },
+    {
+      "fp": "16hjtth",
+      "i": 119,
+      "from": 29553,
+      "subject": "medical",
+      "entities": [],
+      "concept": "medical",
+      "place": "hospital",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "medical, written her to have an escalating alcohol and p, hospital"
+      },
+      "antidote": {
+        "concept": "medical",
+        "set": "hospital",
+        "cast": []
+      },
+      "_said": "They've written her to have an escalating alcohol and pill problem. They've written her a looming divorce. Her character is acting erratic. She is struggling to bond with her child"
+    },
+    {
+      "fp": "3l3bk2",
+      "i": 120,
+      "from": 29865,
+      "subject": "Hayden — medical",
+      "entities": [
+        "hayden"
+      ],
+      "concept": "medical",
+      "place": "hospital",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Hayden, reading these exact words while actively, hospital"
+      },
+      "antidote": {
+        "concept": "medical",
+        "set": "hospital",
+        "cast": [
+          "hayden"
+        ]
+      },
+      "_said": "orbit. It's uncanny. And Hayden is reading these exact words while actively in her real private life, suffering from severe undiagnosed postpartum depression, an escalating alcohol"
+    },
+    {
+      "fp": "o9wxfl",
+      "i": 121,
+      "from": 30218,
+      "subject": "heart",
+      "entities": [],
+      "concept": "heart",
+      "place": "cafe",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "heart, cafe"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": "cafe",
+        "cast": []
+      },
+      "_said": "dependency, and the crumbling of her own relationship."
+    },
+    {
+      "fp": "u25dhg",
+      "i": 122,
+      "from": 30273,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "notes"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": []
+      },
+      "_said": "relationship. The cosmic cruelty of that irony is just breathtaking. used to look at the mechanics of television writing. You know, writer rooms mine the real lives of their actors"
+    },
+    {
+      "fp": "141xoys",
+      "i": 123,
+      "from": 30552,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "time. They observe a quirk, a mood, a tension, and they weave it into the script. Do you think they knew whether they intentionally harvested her pain or it was just a devastating "
+    },
+    {
+      "fp": "tgs4y2",
+      "i": 124,
+      "from": 30857,
+      "subject": "game",
+      "entities": [],
+      "concept": "game",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "game"
+      },
+      "antidote": {
+        "concept": "game",
+        "set": null,
+        "cast": []
+      },
+      "_said": "coincidence, the result is the same. The art was explicitly naming a private agony that she felt completely barred from confessing to the public. That's so heavy. Her actual live t"
+    },
+    {
+      "fp": "al0fg1",
+      "i": 125,
+      "from": 31291,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "music, and sold to advertisers as prime time tabloid drama."
+    },
+    {
+      "fp": "1aahkvo",
+      "i": 126,
+      "from": 31382,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "notes, writes this line that haunts me"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": []
+      },
+      "_said": "drama. The boundary between the fictional character she was paid to embody and the reality she was desperately trying to survive completely collapsed. Yeah. She writes this line th"
+    },
+    {
+      "fp": "1ic69zl",
+      "i": 127,
+      "from": 31805,
+      "subject": "Hayden — home",
+      "entities": [
+        "hayden"
+      ],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Hayden"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": [
+          "hayden"
+        ]
+      },
+      "_said": "through it twice. First at home as Hayden and then in front of millions as Juliet.\" Living it twice. That"
+    },
+    {
+      "fp": "1oof3yy",
+      "i": 128,
+      "from": 31994,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "That is a waking And the physical toll this takes on her body"
+    },
+    {
+      "fp": "1wvgcya",
+      "i": 129,
+      "from": 32112,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "notes"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": []
+      },
+      "_said": "body is heartbreaking. We have to talk about her real life pregnancy leading up to this story line. She put on 40 lb, which she notes with total clarity is a completely normal,"
+    },
+    {
+      "fp": "1pc2tbd",
+      "i": 130,
+      "from": 32457,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "normal, healthy amount of weight to gain while growing a human Of course, it is. But her body changed"
+    },
+    {
+      "fp": "kt643s",
+      "i": 131,
+      "from": 32604,
+      "subject": "photo",
+      "entities": [],
+      "concept": "photo",
+      "place": "bedroom",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "photo, bedroom"
+      },
+      "antidote": {
+        "concept": "photo",
+        "set": "bedroom",
+        "cast": []
+      },
+      "_said": "changed drastically. She lost her petite frame. And this entire time, the paparazziersounding her in Hawaii, in Nashville, everywhere, a major tagloid literally published a telepho"
+    },
+    {
+      "fp": "izpmot",
+      "i": 132,
+      "from": 33017,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "the actual headline, \"Fat Which just highlights the absolute depravity of the media cycle she was trapped in. It's not just an invasion of privacy. It's the intentional"
+    },
+    {
+      "fp": "1t3vtge",
+      "i": 133,
+      "from": 33290,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "intentional public humiliation of a pregnant woman's changing body. Vile doesn't even begin to cover it. So, she is dealing with this intense public shaming, feeling completely ali"
+    },
+    {
+      "fp": "1isdmrz",
+      "i": 134,
+      "from": 33549,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "from her own body, suffering from intense body dysmorphia, and then she has to go back to the set of Nashville"
+    },
+    {
+      "fp": "zqxp34",
+      "i": 135,
+      "from": 33696,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "stand in front of costume designers for hours"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Nashville feeling bloated, exhausted, and internally miserable. And she has to stand in front of costume designers for hours. She makes a point to say she loved the costume departm"
+    },
+    {
+      "fp": "14nchkp",
+      "i": 136,
+      "from": 34190,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "multiple hands all over her taking trying to squeeze her into Juliet Barn's glamorous wardrobe. Exactly. Squeezing her into these skintight sequin dresses while she felt like her e"
+    },
+    {
+      "fp": "159fxm4",
+      "i": 137,
+      "from": 34557,
+      "subject": "grave",
+      "entities": [],
+      "concept": "grave",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "grave"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": null,
+        "cast": []
+      },
+      "_said": "was dying inside. It forces us to ask a really difficult question"
+    },
+    {
+      "fp": "39vhj5",
+      "i": 138,
+      "from": 34687,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "question about the nature of the acting profession itself and how it handles human psychology. See, that's where my mind went immediately because if you know anything about the cra"
+    },
+    {
+      "fp": "1bhrcb0",
+      "i": 139,
+      "from": 35045,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "world pain is considered the gold right? Pull from your real grief. Yeah. You use it to"
+    },
+    {
+      "fp": "1nhq4za",
+      "i": 140,
+      "from": 35184,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "to make the performance authentic. So, part of me wonders, couldn't playing Juliet Barnes going through PPD actually have been deeply cathartic for her?"
+    },
+    {
+      "fp": "1bpch03",
+      "i": 141,
+      "from": 35405,
+      "subject": "shield",
+      "entities": [],
+      "concept": "shield",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "shield"
+      },
+      "antidote": {
+        "concept": "shield",
+        "cast": []
+      },
+      "_said": "Like a safe, controlled sandbox where she was allowed to just scream, cry, and let the pain out and actually get an Emmy nomination for it. It's a very intuitive assumption. M um b"
+    },
+    {
+      "fp": "nhn0p7",
+      "i": 142,
+      "from": 35765,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "have to reject it in this specific context. Because catharsis requires a boundary. It requires"
+    },
+    {
+      "fp": "1o20mbt",
+      "i": 143,
+      "from": 35957,
+      "subject": "shield",
+      "entities": [],
+      "concept": "shield",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "shield"
+      },
+      "antidote": {
+        "concept": "shield",
+        "cast": []
+      },
+      "_said": "requires a safe harbor. [snorts] If you use your grief for a scene, the therapeutic value comes from the director yelling"
+    },
+    {
+      "fp": "18and25",
+      "i": 144,
+      "from": 36129,
+      "subject": "Hayden — shield",
+      "entities": [
+        "hayden"
+      ],
+      "concept": "shield",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Hayden, walking off set back to a stable"
+      },
+      "antidote": {
+        "concept": "shield",
+        "cast": [
+          "hayden"
+        ]
+      },
+      "_said": "yelling cut and you walking off set back to a stable, supportive reality where you can decompress. Ah, and she didn't have that. Hayden didn't have a safe harbor to return to. She "
+    },
+    {
+      "fp": "nb0i2d",
+      "i": 145,
+      "from": 36564,
+      "subject": "medical",
+      "entities": [],
+      "concept": "medical",
+      "place": "hospital",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "medical, hospital"
+      },
+      "antidote": {
+        "concept": "medical",
+        "set": "hospital",
+        "cast": []
+      },
+      "_said": "massive empty house, self-medicating in secret and waking up to do it all over again. It wasn't therapy. It was a psychological"
+    },
+    {
+      "fp": "2v5qjc",
+      "i": 146,
+      "from": 36782,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "psychological loop of torture. When you are utilizing active, untreated, escalating trauma for corporate entertainment, you weren't processing it. You"
+    },
+    {
+      "fp": "u5a0ui",
+      "i": 147,
+      "from": 37032,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "You were just monetizing an open wound. The performance of okayess had become so deeply inextricably intertwined with her reality that she was literally"
+    },
+    {
+      "fp": "8hh855",
+      "i": 148,
+      "from": 37238,
+      "subject": "funnelMetrics",
+      "entities": [],
+      "concept": "funnelMetrics",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "funnel metrics"
+      },
+      "antidote": {
+        "concept": "funnelMetrics",
+        "set": null,
+        "cast": []
+      },
+      "_said": "literally cashing checks for performing her own psychological collapse. And that inability to separate the performance from reality leads to"
+    },
+    {
+      "fp": "1j7zj2b",
+      "i": 149,
+      "from": 37476,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "to the most misunderstood, heavily scrutinized chapter of her life, the moment the public judged her most harshly for the impossible math of"
+    },
+    {
+      "fp": "cbxxyw",
+      "i": 150,
+      "from": 37759,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": "cafe",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone, cafe"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": "cafe",
+        "cast": []
+      },
+      "_said": "of motherhood. If there is one chapter in this text that requires a complete"
+    },
+    {
+      "fp": "i6f3c7",
+      "i": 151,
+      "from": 37908,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "complete reframing of the public narrative, it is this one. It handles the agonizing complexities of maternal duty with just devastating clarity. I want to set this scene with abso"
+    },
+    {
+      "fp": "1frthih",
+      "i": 152,
+      "from": 38217,
+      "subject": "road",
+      "entities": [],
+      "concept": "road",
+      "place": "highway",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "road, highway"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": "highway",
+        "cast": []
+      },
+      "_said": "absolute precision because the tension is palpable. We are no longer in Hollywood or Nashville. We are thousands of miles away in a nondescript,"
+    },
+    {
+      "fp": "1si7d38",
+      "i": 153,
+      "from": 38445,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": "cafe",
+      "confidence": 0.35,
+      "vox": {
+        "shot": "sitting in the back, cafe"
+      },
+      "antidote": {
+        "concept": null,
+        "set": "cafe",
+        "cast": []
+      },
+      "_said": "nondescript, quiet restaurant in Kiev, Ukraine. Such a stark contrast. Totally jarring. They are sitting in the back, obscured from the rest of the diners behind heavy"
+    },
+    {
+      "fp": "100wie6",
+      "i": 154,
+      "from": 38678,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "heavy velvet curtains. The bright lights of her past versus this heavy"
+    },
+    {
+      "fp": "wh41ze",
+      "i": 155,
+      "from": 38793,
+      "subject": "Hayden — family",
+      "entities": [
+        "hayden"
+      ],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Hayden"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": [
+          "hayden"
+        ]
+      },
+      "_said": "heavy stoic Eastern European room. It's just Hayden, her dad, Vladimir Klitschko, and a group of Vladimir's unsmiling associates and lawyers. And what is"
+    },
+    {
+      "fp": "6vnv1g",
+      "i": 156,
+      "from": 39033,
+      "subject": "codeWindow",
+      "entities": [],
+      "concept": "codeWindow",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "code window"
+      },
+      "antidote": {
+        "concept": "codeWindow",
+        "set": null,
+        "cast": []
+      },
+      "_said": "is slides the papers across the right? He slides a thick stack of papers across the table. They are legally binding documents translated meticulously into both English and Ukrainia"
+    },
+    {
+      "fp": "bx21c",
+      "i": 157,
+      "from": 39309,
+      "subject": "Hayden — family",
+      "entities": [
+        "hayden"
+      ],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Hayden, reaches out"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": [
+          "hayden"
+        ]
+      },
+      "_said": "They are custody papers asking for full primary custody. Yes. to raise their three-year-old daughter, Kaia, in Europe. Hayden reaches out, picks up the pen, and her hands are shaki"
+    },
+    {
+      "fp": "kl7zgp",
+      "i": 158,
+      "from": 39883,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "curtains, she signs away primary custody of her only child. And we all remember"
+    },
+    {
+      "fp": "1un987q",
+      "i": 159,
+      "from": 39996,
+      "subject": "law",
+      "entities": [],
+      "concept": "law",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "law"
+      },
+      "antidote": {
+        "concept": "law",
+        "set": null,
+        "cast": []
+      },
+      "_said": "remember what the public verdict was. The speed and viciousness with which the internet and the tabloids moved was terrifying. They branded her"
+    },
+    {
+      "fp": "oxrvj0",
+      "i": 160,
+      "from": 40226,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": "cafe",
+      "confidence": 0.35,
+      "vox": {
+        "shot": "cafe"
+      },
+      "antidote": {
+        "concept": null,
+        "set": "cafe",
+        "cast": []
+      },
+      "_said": "her an unfit monster, a party girl who abandoned her child. Exactly. But the private reality, the deeply painful internal math she was doing in that quiet restaurant in Kev reveals"
+    },
+    {
+      "fp": "ya7sn7",
+      "i": 161,
+      "from": 40577,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "profoundly different calculus. It's the agonizing math of realizing that stepping back"
+    },
+    {
+      "fp": "1122vqx",
+      "i": 162,
+      "from": 40708,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "notes, writes that she could"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": []
+      },
+      "_said": "back to protect your child is sometimes more maternal than stepping forward to possess them. She gives us full access to her internal monologue in that exact moment. And it is chil"
+    },
+    {
+      "fp": "4y6s9m",
+      "i": 163,
+      "from": 41117,
+      "subject": "fire",
+      "entities": [],
+      "concept": "fire",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "fire"
+      },
+      "antidote": {
+        "concept": "fire",
+        "cast": []
+      },
+      "_said": "could start a fire so [&nbsp;__&nbsp;] fast because"
+    },
+    {
+      "fp": "1scv2sg",
+      "i": 164,
+      "from": 41191,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": []
+      },
+      "_said": "because she had the resources. Yes, she was a wealthy American celebrity. She could have hired the most vicious family lawyers in the country. She could have waged a brutal,"
+    },
+    {
+      "fp": "v4opk4",
+      "i": 165,
+      "from": 41479,
+      "subject": "law",
+      "entities": [],
+      "concept": "law",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "law"
+      },
+      "antidote": {
+        "concept": "law",
+        "set": null,
+        "cast": []
+      },
+      "_said": "brutal, scorched earth, yearslong international legal war in multiple jurisdictions. She had the financial resources. She had the fury. But as she gripped that pen, she didn't thin"
+    },
+    {
+      "fp": "1f6wgke",
+      "i": 166,
+      "from": 41810,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "about her pride. She remembered her own childhood. Exactly. She"
+    },
+    {
+      "fp": "edj7ma",
+      "i": 167,
+      "from": 41908,
+      "subject": "home",
+      "entities": [],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "home"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": []
+      },
+      "_said": "She played out the tape. She remembered the paparazzi ambushes hiding in the bushes. She remembered the visceral lack of safety in her own home. She remembered"
+    },
+    {
+      "fp": "b24xqd",
+      "i": 168,
+      "from": 42137,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": []
+      },
+      "_said": "remembered the screaming matches between her parents over money and It's all connected. It is. She looked objectively at her current reality. She was in the fragile early stages of"
+    },
+    {
+      "fp": "1vthw4l",
+      "i": 169,
+      "from": 42477,
+      "subject": "home",
+      "entities": [],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "home"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": []
+      },
+      "_said": "health was a house of cards. And she looked at Vladimir's reality. He was offering the life in Europe behind"
+    },
+    {
+      "fp": "trchnf",
+      "i": 170,
+      "from": 42624,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "notes, writes this paragraph that just stops you in y"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": []
+      },
+      "_said": "behind high walls, completely insulated from the American tabloid machine. He was offering stability. She writes this paragraph that just stops you in your tracks. She says, \"Could"
+    },
+    {
+      "fp": "1m3v7xy",
+      "i": 171,
+      "from": 42969,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": []
+      },
+      "_said": "\"Yes.\" \"But should I?\" \"No, I couldn't do it to my Such a powerful realization. She signed those papers so her daughter would have"
+    },
+    {
+      "fp": "1p3zn38",
+      "i": 172,
+      "from": 43173,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "have a peaceful, secure life out of the spotlight. She knew it"
+    },
+    {
+      "fp": "182m59p",
+      "i": 173,
+      "from": 43313,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "it meant breaking her own heart, and she knew it meant entirely destroying her own public image. But she did it anyway. But if we look at the overarching theme of her life,"
+    },
+    {
+      "fp": "hvb1vo",
+      "i": 174,
+      "from": 43579,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "the indestructible girl, this moment presents a massive You know, I actually"
+    },
+    {
+      "fp": "dw26zk",
+      "i": 175,
+      "from": 43771,
+      "subject": "gift",
+      "entities": [],
+      "concept": "gift",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "gift"
+      },
+      "antidote": {
+        "concept": "gift",
+        "cast": []
+      },
+      "_said": "actually got angry on her behalf reading this. Because wait, isn't giving up custody"
+    },
+    {
+      "fp": "11xdgge",
+      "i": 176,
+      "from": 43929,
+      "subject": "mask",
+      "entities": [],
+      "concept": "mask",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "mask"
+      },
+      "antidote": {
+        "concept": "mask",
+        "cast": []
+      },
+      "_said": "custody the ultimate failure of this indestructible persona she'd spent her whole life building? Her entire brand, her survival mechanism"
+    },
+    {
+      "fp": "ssp0z7",
+      "i": 177,
+      "from": 44145,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "mechanism from the Michelin onward was fighting for what she wanted, proving she couldn't be broken,"
+    },
+    {
+      "fp": "1hiqkg9",
+      "i": 178,
+      "from": 44297,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "broken, never letting them see her cry. Doesn't surrendering"
+    },
+    {
+      "fp": "cjipld",
+      "i": 179,
+      "from": 44373,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "surrendering her child without a fight prove that the industry finally broke I argue the exact opposite. If you truly understand the mechanics of what she did, this moment in Kiev"
+    },
+    {
+      "fp": "enj8bj",
+      "i": 180,
+      "from": 44652,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Kiev was the most indestructible thing she ever accomplished. Yes. Everything else before the the acting, the smiling through the paparazzi kicks, the neutrogena purity, the red ca"
+    },
+    {
+      "fp": "1kk9l5b",
+      "i": 181,
+      "from": 44935,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": []
+      },
+      "_said": "carpets, it was all performance. Taking the unimaginable permanent public hit of being labeled a bad mom. absorbing all of that societal vitriol and hatred without defending hersel"
+    },
+    {
+      "fp": "1vsbcw6",
+      "i": 182,
+      "from": 45254,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": []
+      },
+      "_said": "herself in the press solely to shield her daughter from the trauma of a legal battle. that isn't breaking. That is a profound, raw, agonizing act"
+    },
+    {
+      "fp": "df4y5s",
+      "i": 183,
+      "from": 45561,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "act of maternal strength."
+    },
+    {
+      "fp": "h2ud1t",
+      "i": 184,
+      "from": 45619,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": []
+      },
+      "_said": "strength. She became the villain so her daughter could have peace. Think about that for a second. Think about a time in your own life when you took the blame for a mistake at work "
+    },
+    {
+      "fp": "baajbb",
+      "i": 185,
+      "from": 45962,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": []
+      },
+      "_said": "about. Now magnify that by a million and put it on the front page of the internet. It's an unimaginable burden. To keep her daughter safe, she deliberately"
+    },
+    {
+      "fp": "1z7ode",
+      "i": 186,
+      "from": 46168,
+      "subject": "home",
+      "entities": [],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "home"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": []
+      },
+      "_said": "deliberately let the world assume that the mass of the perfect mother had failed completely. She stood there and took the bullets. But taking those bullets, living with the silence"
+    },
+    {
+      "fp": "sw4lck",
+      "i": 187,
+      "from": 46531,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "amount of numbing agent, which brings us to the actual mechanism of her survival during this era, addiction. We have to completely rewire how we view her substance abuse because th"
+    },
+    {
+      "fp": "1t4j3zq",
+      "i": 188,
+      "from": 46886,
+      "subject": "home",
+      "entities": [],
+      "concept": "home",
+      "place": "bedroom",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "home, bedroom"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": "bedroom",
+        "cast": []
+      },
+      "_said": "This was not a tragic party girl rebellion. No, not at all. Drop into this moment with her. It's 6:00 a.m. in her bedroom. The sun isn't even fully up yet. Her alarm clock is ringi"
+    },
+    {
+      "fp": "c0lty6",
+      "i": 189,
+      "from": 47287,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "sits up"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "she even sits up, her hands are shaking uncontrollably. The room is spinning. The anxiety is a physical weight on her chest. The"
+    },
+    {
+      "fp": "1flaelp",
+      "i": 190,
+      "from": 47513,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": []
+      },
+      "_said": "physical withdrawal is setting in, right? Her very first thought isn't about her script or schedule or even her family. Her first conscious thought is alcohol. She immediately gets"
+    },
+    {
+      "fp": "10shl6d",
+      "i": 191,
+      "from": 47810,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "walks to the pantry"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "walks to the pantry, and digs around to find these tiny 3 oz plastic"
+    },
+    {
+      "fp": "1xp4xuj",
+      "i": 192,
+      "from": 47916,
+      "subject": "home",
+      "entities": [],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "home"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": []
+      },
+      "_said": "plastic bottles of fireball whiskey. The cheap ones from the gas station. Exactly. She meticulously hides them from Alatameir all over the house. She unscrews the cap and takes"
+    },
+    {
+      "fp": "1l1zvbu",
+      "i": 193,
+      "from": 48187,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "takes a warm swig of cinnamon whiskey at 6:00 in the morning. And she isn't doing it to get wasted. No, she's doing it just"
+    },
+    {
+      "fp": "43e4ho",
+      "i": 194,
+      "from": 48386,
+      "subject": "car",
+      "entities": [],
+      "concept": "car",
+      "place": "street",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "car, street"
+      },
+      "antidote": {
+        "concept": "car",
+        "set": "street",
+        "cast": []
+      },
+      "_said": "just to stop the spinning. She is doing it just to stop the terrifying physical withdrawal so she can physically get dressed, get in the car and go to work. That is the crucial dis"
+    },
+    {
+      "fp": "1kfmdnh",
+      "i": 195,
+      "from": 48792,
+      "subject": "mask",
+      "entities": [],
+      "concept": "mask",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "mask"
+      },
+      "antidote": {
+        "concept": "mask",
+        "cast": []
+      },
+      "_said": "desperate maintenance. The alcohol and later the opiates and the stimulants were the literal biochemical upkeep cost of the I'm fine mask."
+    },
+    {
+      "fp": "1nu55qd",
+      "i": 196,
+      "from": 49058,
+      "subject": "mask",
+      "entities": [],
+      "concept": "mask",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "mask"
+      },
+      "antidote": {
+        "concept": "mask",
+        "cast": []
+      },
+      "_said": "mask. The upkeep cost, I like that phrasing. When your entire life relies on your ability to deliver a performance and your internal reality is collapsing, you have to bridge that "
+    },
+    {
+      "fp": "3ealzy",
+      "i": 197,
+      "from": 49490,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "to achieve baseline to deliver the product. Yes. To deliver the product that"
+    },
+    {
+      "fp": "1qr33vi",
+      "i": 198,
+      "from": 49617,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "notes, running for another 12 hours"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": []
+      },
+      "_said": "that the studio, the crew, and her family demanded. The fireball wasn't a party. It was the fuel required to keep an engine that was actively on fire running for another 12 hours. "
+    },
+    {
+      "fp": "kt5avo",
+      "i": 199,
+      "from": 50059,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "about her first stint in rehab. It wasn't a gritty 12step facility. It was"
+    },
+    {
+      "fp": "1oikleq",
+      "i": 200,
+      "from": 50179,
+      "subject": "medical",
+      "entities": [],
+      "concept": "medical",
+      "place": "hospital",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "medical, hospital"
+      },
+      "antidote": {
+        "concept": "medical",
+        "set": "hospital",
+        "cast": []
+      },
+      "_said": "was this VIP ultra exclusive European clinic. Oh, right. The luxury rehab. It was wildly expensive. She had a literal army of private doctors. She was"
+    },
+    {
+      "fp": "1xbgc2y",
+      "i": 201,
+      "from": 50476,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "was treated like absolute royalty. It was basically"
+    },
+    {
+      "fp": "1wemqon",
+      "i": 202,
+      "from": 50536,
+      "subject": "medical",
+      "entities": [],
+      "concept": "medical",
+      "place": "hospital",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "medical, leaves that facility with an official diagnosi, hospital"
+      },
+      "antidote": {
+        "concept": "medical",
+        "set": "hospital",
+        "cast": []
+      },
+      "_said": "basically a luxury hotel completely removed from the stressors of the real world. And she leaves that facility with an official diagnosis of postpartum depression, but she is compl"
+    },
+    {
+      "fp": "m4mfu8",
+      "i": 203,
+      "from": 50863,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "completely in denial about the physical addiction to Right? She thought she was above it. She actually has this thought process where she tells herself,"
+    },
+    {
+      "fp": "xtn4sv",
+      "i": 204,
+      "from": 51079,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "herself, \"A tough girl like me can't be taken down by a That VIP rehab experience is so revealing"
+    },
+    {
+      "fp": "84sbsq",
+      "i": 205,
+      "from": 51283,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "revealing about the bubble she lived in. It reinforced her specialness, her separateness from the rest of humanity. It didn't force her to confront the grim reality of her physical"
+    },
+    {
+      "fp": "gg4lw",
+      "i": 206,
+      "from": 51636,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "commodity, a VIP client rather than a patient in a life ordeath fight for survival. Which brings us"
+    },
+    {
+      "fp": "btbucy",
+      "i": 207,
+      "from": 51787,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "us to the complicity of the environment around her. See, this is the part of the book that made my jaw drop. She admits in print that she was regularly showing up to work on the se"
+    },
+    {
+      "fp": "me9dqm",
+      "i": 208,
+      "from": 52118,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Nashville smelling like vodka. She thought vodka"
+    },
+    {
+      "fp": "r7alb",
+      "i": 209,
+      "from": 52202,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": "cafe",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone, holding up production, cafe"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": "cafe",
+        "cast": []
+      },
+      "_said": "vodka was odorless, which is classic desperate addict logic. But of course, everyone could smell it seeping out of her pores. You can't hide that. She was holding up production. Sh"
+    },
+    {
+      "fp": "sn4msz",
+      "i": 210,
+      "from": 52639,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "\"Wait, why didn't anyone stop her? You have hundreds of people on set. Why wasn't"
+    },
+    {
+      "fp": "143z93f",
+      "i": 211,
+      "from": 52781,
+      "subject": "medical",
+      "entities": [],
+      "concept": "medical",
+      "place": "hospital",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "medical, hospital"
+      },
+      "antidote": {
+        "concept": "medical",
+        "set": "hospital",
+        "cast": []
+      },
+      "_said": "there an intervention? Why did the director call action instead of calling a doctor?\" Because you have to understand the dark"
+    },
+    {
+      "fp": "1ygn3zm",
+      "i": 212,
+      "from": 52965,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "dark symbiotic financial reality of Hollywood enabling. Let's look at the mechanics of a television set."
+    },
+    {
+      "fp": "c7c8y3",
+      "i": 213,
+      "from": 53141,
+      "subject": "coin",
+      "entities": [],
+      "concept": "coin",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "coin"
+      },
+      "antidote": {
+        "concept": "coin",
+        "cast": []
+      },
+      "_said": "set. An episode of a network drama like Nashville cost millions of dollars to produce. You have hundreds of crew members, gaffers, grips, caterers, makeup artists who rely on their"
+    },
+    {
+      "fp": "1lvf13v",
+      "i": 214,
+      "from": 53532,
+      "subject": "funnelMetrics",
+      "entities": [],
+      "concept": "funnelMetrics",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "funnel metrics"
+      },
+      "antidote": {
+        "concept": "funnelMetrics",
+        "set": null,
+        "cast": []
+      },
+      "_said": "you, the lead actress, are the primary product that pays all those salaries, the ecosystem is financially designed"
+    },
+    {
+      "fp": "10cup9z",
+      "i": 215,
+      "from": 53700,
+      "subject": "coin",
+      "entities": [],
+      "concept": "coin",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "coin"
+      },
+      "antidote": {
+        "concept": "coin",
+        "cast": []
+      },
+      "_said": "designed to protect the product over the person. Intervening means halting And halting production costs money. Exactly."
+    },
+    {
+      "fp": "1eitgsh",
+      "i": 216,
+      "from": 53928,
+      "subject": "home",
+      "entities": [],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "home"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": []
+      },
+      "_said": "Exactly. Halting production means the studio loses ad revenue, the crew gets sent home without pay, and the people who rock the boat"
+    },
+    {
+      "fp": "6yloq1",
+      "i": 217,
+      "from": 54113,
+      "subject": "work",
+      "entities": [],
+      "concept": "work",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "work"
+      },
+      "antidote": {
+        "concept": "work",
+        "set": null,
+        "cast": []
+      },
+      "_said": "boat get fired for causing a delay. Her team, the crew, the executives, they propped her up out of a mix of blind allegiance and very real"
+    },
+    {
+      "fp": "1niify2",
+      "i": 218,
+      "from": 54367,
+      "subject": "Hayden",
+      "entities": [
+        "hayden"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Hayden"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "hayden"
+        ]
+      },
+      "_said": "real economic fear. They needed the performance of Juliet Barnes to continue more than they needed Hayden Panitera to be healthy. The financial structure of Hollywood inherently de"
+    },
+    {
+      "fp": "wdmk98",
+      "i": 219,
+      "from": 54688,
+      "subject": "fire",
+      "entities": [],
+      "concept": "fire",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "fire, running for the cameras while hundreds of peopl"
+      },
+      "antidote": {
+        "concept": "fire",
+        "cast": []
+      },
+      "_said": "that the silence becomes complicity. It's terrifying. The indestructible girl was internally burning to the ground, using literal liquid fuel to keep the engine running for the cam"
+    },
+    {
+      "fp": "1jcircz",
+      "i": 220,
+      "from": 55200,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "incredibly vulnerable to external danger. Yes, this"
+    },
+    {
+      "fp": "1ohvmal",
+      "i": 221,
+      "from": 55293,
+      "subject": "magnifier",
+      "entities": [],
+      "concept": "magnifier",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "magnifier"
+      },
+      "antidote": {
+        "concept": "magnifier",
+        "cast": []
+      },
+      "_said": "this is where the story takes its darkest turn. We need to examine how someone trained their entire life to manage PR to look composed on a red carpet navigates the horrific realit"
+    },
+    {
+      "fp": "4lmsu2",
+      "i": 222,
+      "from": 55725,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Hickerson are harrowing. She is trapped in a toxic,"
+    },
+    {
+      "fp": "q578m7",
+      "i": 223,
+      "from": 55812,
+      "subject": "home",
+      "entities": [],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "home"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": []
+      },
+      "_said": "toxic, escalatingly abusive relationship. She describes a night where there is a violent disturbance at their home. It is loud enough and terrifying enough that the neighbors hear "
+    },
+    {
+      "fp": "1iatwz6",
+      "i": 224,
+      "from": 56160,
+      "subject": "Hayden — phone",
+      "entities": [
+        "hayden"
+      ],
+      "concept": "phone",
+      "place": "cafe",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Hayden, cafe"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": "cafe",
+        "cast": [
+          "hayden"
+        ]
+      },
+      "_said": "and call 911. The neighbors call the police. Yes. Hayden is inside and she hears the"
+    },
+    {
+      "fp": "p4lrjn",
+      "i": 225,
+      "from": 56318,
+      "subject": "Hayden — law",
+      "entities": [
+        "hayden"
+      ],
+      "concept": "law",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Hayden, run to the door"
+      },
+      "antidote": {
+        "concept": "law",
+        "set": null,
+        "cast": [
+          "hayden"
+        ]
+      },
+      "_said": "the police sirens approaching her driveway. Now, basic survival instinct would say, \"Run to the door, throw it open, run to the police, and get to safety, right? Run toward the hel"
+    },
+    {
+      "fp": "4xvluo",
+      "i": 226,
+      "from": 56637,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "do? She slinks down onto the floor. She hides. She"
+    },
+    {
+      "fp": "13lt4a1",
+      "i": 227,
+      "from": 56743,
+      "subject": "law",
+      "entities": [],
+      "concept": "law",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "law"
+      },
+      "antidote": {
+        "concept": "law",
+        "set": null,
+        "cast": []
+      },
+      "_said": "She hides from the police who are there to rescue her. She's more terrified of the cops seeing the reality of her bruised and battered life than she is of the man who just assaulte"
+    },
+    {
+      "fp": "1x1rguc",
+      "i": 228,
+      "from": 57091,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "moment. How does someone stay inside such violent harm? When your entire existence"
+    },
+    {
+      "fp": "1bgc6zh",
+      "i": 229,
+      "from": 57235,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "existence from the age of 8 months old in that Michelin tire has been built on managing your image, controlling the narrative, and projecting total wellness,"
+    },
+    {
+      "fp": "1dpz3zd",
+      "i": 230,
+      "from": 57463,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "wellness, the shame of public failure becomes a monster, far more terrifying than physical pain. The fear of the headline. Exactly."
+    },
+    {
+      "fp": "na3xxo",
+      "i": 231,
+      "from": 57672,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "reading hayden's domestic dispute"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Exactly. The fear of a TMZ headline reading Hayden's domestic dispute. The fear of losing her endorsements, the fear of shattering the illusion. It completely overrides"
+    },
+    {
+      "fp": "1k705cs",
+      "i": 232,
+      "from": 57960,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "overrides the immediate biological fear of private violence. [snorts] The performance of okayess dictates that you must hide the brokenness at all costs, even if keeping the secret"
+    },
+    {
+      "fp": "tgbtbl",
+      "i": 233,
+      "from": 58425,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "staying with him are heartbreakingly common, but amplified by her unique trauma. She explicitly says she"
+    },
+    {
+      "fp": "12qpbzg",
+      "i": 234,
+      "from": 58617,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "she split Brian into two entirely different people in her mind. The"
+    },
+    {
+      "fp": "py7fyc",
+      "i": 235,
+      "from": 58708,
+      "subject": "star",
+      "entities": [],
+      "concept": "star",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "star"
+      },
+      "antidote": {
+        "concept": "star",
+        "set": null,
+        "cast": []
+      },
+      "_said": "The split personality rationalization, right? There was the real Brian, the charismatic guy who loved dogs, who rode motorcycles, who shared her star signs, who she felt uniquely u"
+    },
+    {
+      "fp": "1sv4eqi",
+      "i": 236,
+      "from": 59220,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "this wasn't abuse. It was a mental health issue. And because she"
+    },
+    {
+      "fp": "1ovo7d4",
+      "i": 237,
+      "from": 59304,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "she was the ultimate fixer, she believed that if she could just manage his environment, fix his mental health, she would get the real Brian back It's a textbook"
+    },
+    {
+      "fp": "717kni",
+      "i": 238,
+      "from": 59558,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "textbook trauma bond. Yes. But it's amplified by her lifelong role as a performer. She had spent 20 years managing"
+    },
+    {
+      "fp": "z1xipg",
+      "i": 239,
+      "from": 59755,
+      "subject": "work",
+      "entities": [],
+      "concept": "work",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "work"
+      },
+      "antidote": {
+        "concept": "work",
+        "set": null,
+        "cast": []
+      },
+      "_said": "managing the unmanageable in her career. So, she falsely believed she could manage the unmanageable in her living"
+    },
+    {
+      "fp": "1dbrf6a",
+      "i": 240,
+      "from": 59918,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "living But wait, I have to push back here because reading this, the contrast is glaring. My immediate reaction was just total"
+    },
+    {
+      "fp": "bi9ien",
+      "i": 241,
+      "from": 60113,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "total confusion. Why? Because this is the same woman who we just established is a fighter. She literally says in the book, \"I will battle till I'm black and blue for anyone I love,"
+    },
+    {
+      "fp": "ptnnfj",
+      "i": 242,
+      "from": 60439,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "I will fight like hell for myself.\" She has a notoriously fiery temper. She is fiercely protective."
+    },
+    {
+      "fp": "1bew5o5",
+      "i": 243,
+      "from": 60624,
+      "subject": "shield",
+      "entities": [],
+      "concept": "shield",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "shield"
+      },
+      "antidote": {
+        "concept": "shield",
+        "cast": []
+      },
+      "_said": "protective. So why did she freeze for so long with Brian? Why didn't that fiery temper ignite to protect herself? The book offers"
+    },
+    {
+      "fp": "uox0nv",
+      "i": 244,
+      "from": 60806,
+      "subject": "magnifier",
+      "entities": [],
+      "concept": "magnifier",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "magnifier"
+      },
+      "antidote": {
+        "concept": "magnifier",
+        "cast": []
+      },
+      "_said": "offers a chilling, devastating detail that answers this directly. She didn't freeze out of weakness. She froze out"
+    },
+    {
+      "fp": "h2loei",
+      "i": 245,
+      "from": 60986,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "notes, writes that she knew her base instincts were s"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": []
+      },
+      "_said": "out of a terrifying level of self-awareness. What do you mean? She writes that she knew her base instincts were so incredibly powerful. Her innate fight orflight response was so fi"
+    },
+    {
+      "fp": "1c42w1j",
+      "i": 246,
+      "from": 61269,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "that if she ever fully engaged and fought back against him in the heat of the moment, she might literally kill him in self-defense. Oh my god. Let that reality sink in."
+    },
+    {
+      "fp": "1rxuhsw",
+      "i": 247,
+      "from": 61524,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "in. She stayed frozen. She absorbed the physical abuse to prevent a fatal outcome. The ultimate tragic performance of Okaness"
+    },
+    {
+      "fp": "x5rb2v",
+      "i": 248,
+      "from": 61761,
+      "subject": "shield",
+      "entities": [],
+      "concept": "shield",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "shield"
+      },
+      "antidote": {
+        "concept": "shield",
+        "cast": []
+      },
+      "_said": "Okaness was protecting her abuser from her own defensive rage to protect the image of her life and to prevent a tragedy she knew she couldn't live with. That is just it takes your "
+    },
+    {
+      "fp": "wwp0rl",
+      "i": 249,
+      "from": 62088,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "absorbed the violence to control the blast radius. And it perfectly leads into this recurring theme of her life. How she was incredibly fiercely capable of fighting for others but "
+    },
+    {
+      "fp": "619zwu",
+      "i": 250,
+      "from": 62472,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "herself. The dichotomy between her highly"
+    },
+    {
+      "fp": "trqbs3",
+      "i": 251,
+      "from": 62532,
+      "subject": "medical",
+      "entities": [],
+      "concept": "medical",
+      "place": "hospital",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "medical, hospital"
+      },
+      "antidote": {
+        "concept": "medical",
+        "set": "hospital",
+        "cast": []
+      },
+      "_said": "highly public activism and her intensely private victimization is Right throughout all of this private torment through the addiction, the abuse, the depression, she is finding prof"
+    },
+    {
+      "fp": "uucvl0",
+      "i": 252,
+      "from": 62868,
+      "subject": "road",
+      "entities": [],
+      "concept": "road",
+      "place": "highway",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "road, highway"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": "highway",
+        "cast": []
+      },
+      "_said": "purpose in global activism. She isn't just cutting checks at charity gallas. She travels"
+    },
+    {
+      "fp": "120ky6w",
+      "i": 253,
+      "from": 62983,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "travels to the cove in Taii, Japan to fight against the brutal slaughter of dolphins. She was right there on the front lines. She"
+    },
+    {
+      "fp": "1mkjsj8",
+      "i": 254,
+      "from": 63156,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "She is physically putting her body between the hunters and the animals, getting incredibly dangerous footage. She is literally chased out of the country under"
+    },
+    {
+      "fp": "q25nkm",
+      "i": 255,
+      "from": 63410,
+      "subject": "law",
+      "entities": [],
+      "concept": "law",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "law"
+      },
+      "antidote": {
+        "concept": "law",
+        "set": null,
+        "cast": []
+      },
+      "_said": "under threat of arrest by the Japanese government. She is a fierce, fearless advocate for animal rights. And similarly, she acts as the"
+    },
+    {
+      "fp": "18seglp",
+      "i": 256,
+      "from": 63681,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": []
+      },
+      "_said": "the ultimate defender of her family's public image,"
+    },
+    {
+      "fp": "1bh2kiz",
+      "i": 257,
+      "from": 63761,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": []
+      },
+      "_said": "image, taking the hits so her parents or her partners don't have to, which points directly back to her core childhood trauma. She was deeply capable of aiming her protective"
+    },
+    {
+      "fp": "iu3bx6",
+      "i": 258,
+      "from": 64049,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "protective rage outward. She could fight the dolphin hunters with the fury"
+    },
+    {
+      "fp": "1dpqxe9",
+      "i": 259,
+      "from": 64157,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": []
+      },
+      "_said": "of a superhero. She could fight to protect Kaia from the trauma of a custody war. She could fight to keep her parents' secrets hidden from the press,"
+    },
+    {
+      "fp": "1eoduzo",
+      "i": 260,
+      "from": 64363,
+      "subject": "target",
+      "entities": [],
+      "concept": "target",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "target"
+      },
+      "antidote": {
+        "concept": "target",
+        "cast": []
+      },
+      "_said": "press, but not herself. No. Because her core belief was that her own pain was irrelevant as long as she was performing. She seemed entirely unable to aim that protective"
+    },
+    {
+      "fp": "pfikpj",
+      "i": 261,
+      "from": 64612,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "notes, writes the memoir itself"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": []
+      },
+      "_said": "protective rage inward to save herself. You see this dynamic even in how she writes the memoir itself. Take how she frames"
+    },
+    {
+      "fp": "174bk59",
+      "i": 262,
+      "from": 64785,
+      "subject": "medical",
+      "entities": [],
+      "concept": "medical",
+      "place": "hospital",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "medical, hospital"
+      },
+      "antidote": {
+        "concept": "medical",
+        "set": "hospital",
+        "cast": []
+      },
+      "_said": "frames her relationship with Vladimir. She recounts this incredibly painful conversation where she finally confesses to him that she is miserable, that she thinks she has postpartu"
+    },
+    {
+      "fp": "1lemsmk",
+      "i": 263,
+      "from": 65210,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "happiness is a choice and she just needs to work hard to be happy, which"
+    },
+    {
+      "fp": "m4nipy",
+      "i": 264,
+      "from": 65323,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "which is an incredibly dismissive, medically ignorant, and damaging thing to say to someone suffering from a clinical"
+    },
+    {
+      "fp": "besspl",
+      "i": 265,
+      "from": 65491,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": "cafe",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone, cafe"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": "cafe",
+        "cast": []
+      },
+      "_said": "clinical chemical Yet, in the very same chapter, she bends over backward to praise him. She calls him a wonderful human,"
+    },
+    {
+      "fp": "ys68e1",
+      "i": 266,
+      "from": 65731,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "human, a true hero, and explicitly takes full"
+    },
+    {
+      "fp": "cp7rm1",
+      "i": 267,
+      "from": 65815,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": []
+      },
+      "_said": "full responsibility for her own shortcomings as a mother and It's a striking juaposition that reveals how her mind organizes trauma. I'll be honest, I got genuinely frustrated read"
+    },
+    {
+      "fp": "x9ifa8",
+      "i": 268,
+      "from": 66209,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "she letting the people around her off the hook? She defends Vladimir stoicism."
+    },
+    {
+      "fp": "odjr6f",
+      "i": 269,
+      "from": 66324,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": []
+      },
+      "_said": "stoicism. She defends her stage mom's intense pressure from infancy. She rationalizes her dad's complicity in the Hollywood machine. Why"
+    },
+    {
+      "fp": "1ffwzqd",
+      "i": 270,
+      "from": 66537,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Why is the indestructible girl constantly taking all the bullets for everyone else's failures? It feels frustrating as a reader, but psychologically it is the exact symptom of her "
+    },
+    {
+      "fp": "1w702kg",
+      "i": 271,
+      "from": 66818,
+      "subject": "shield",
+      "entities": [],
+      "concept": "shield",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "shield"
+      },
+      "antidote": {
+        "concept": "shield",
+        "cast": []
+      },
+      "_said": "condition. The indestructible girl's final, most deeply entrenched defense mechanism is absorbing all the How does that help her? Let's examine the logic of trauma. If the dysfunct"
+    },
+    {
+      "fp": "18z4s2x",
+      "i": 272,
+      "from": 67178,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": []
+      },
+      "_said": "life is everyone else's fault, if her parents exploited her, if the industry broke her, if her partners failed her, then she"
+    },
+    {
+      "fp": "y09048",
+      "i": 273,
+      "from": 67401,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "she is a helpless victim of circumstance. She has no power. Okay, I see. But if she"
+    },
+    {
+      "fp": "hso278",
+      "i": 274,
+      "from": 67524,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": []
+      },
+      "_said": "she takes the blame, if her mom was just pushing her to be her best, if Vlad was just being stoic and she was too sensitive, if her addiction is solely her own moral failing, then "
+    },
+    {
+      "fp": "124w4sm",
+      "i": 275,
+      "from": 67865,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "the illusion of control. Absorbing the blame is how she keeps the narrative tidy."
+    },
+    {
+      "fp": "183xi81",
+      "i": 276,
+      "from": 68011,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": []
+      },
+      "_said": "tidy. It's the ultimate performance. I am the problem, which means I can fix it. Wow, that makes so much sense. She could save the cheerleader. She could save her family. She could"
+    },
+    {
+      "fp": "14rlskz",
+      "i": 277,
+      "from": 68294,
+      "subject": "wallet",
+      "entities": [],
+      "concept": "wallet",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "wallet"
+      },
+      "antidote": {
+        "concept": "wallet",
+        "cast": []
+      },
+      "_said": "But she was never taught how to save herself because she was too busy convincing the world she didn't need saving. So,"
+    },
+    {
+      "fp": "1d3p7zd",
+      "i": 278,
+      "from": 68448,
+      "subject": "law",
+      "entities": [],
+      "concept": "law",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "law"
+      },
+      "antidote": {
+        "concept": "law",
+        "set": null,
+        "cast": []
+      },
+      "_said": "So, what finally breaks the pattern? What stops the performance once and for all? It wasn't rehab. It wasn't the police. It wasn't Hollywood. It"
+    },
+    {
+      "fp": "1v1l581",
+      "i": 279,
+      "from": 68690,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": "cafe",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone, arrive at the emotional climax of her life, cafe"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": "cafe",
+        "cast": []
+      },
+      "_said": "It was the wound that cannot be performed away. We arrive at the emotional climax of her life and of the text. the life quake. It's early spring,"
+    },
+    {
+      "fp": "1bu988c",
+      "i": 280,
+      "from": 68954,
+      "subject": "home",
+      "entities": [],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "home"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": []
+      },
+      "_said": "spring, present day. She is living a quiet life with her dad in Rockland County, just trying to heal, trying to find a baseline. She's taking long walks, escaping into fantasy nove"
+    },
+    {
+      "fp": "1eltkic",
+      "i": 281,
+      "from": 69393,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": []
+      },
+      "_said": "happy paintings on the walls. Hampton's paintings. Yes, they were painted by her younger brother,"
+    },
+    {
+      "fp": "1ilvyyy",
+      "i": 282,
+      "from": 69532,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "notes, writes that his art"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": []
+      },
+      "_said": "brother, Jansen. Jansen tragically suddenly died in February of 2023. She writes that his art is"
+    },
+    {
+      "fp": "znfwae",
+      "i": 283,
+      "from": 69725,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": "cafe",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone, walk into the room at any second with a shit, cafe"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": "cafe",
+        "cast": []
+      },
+      "_said": "is so present in the house and the grief is so sharp, so suffocating that she constantly feels like he might just walk into the room at any second with a shitty ding grin on his fa"
+    },
+    {
+      "fp": "ybwdva",
+      "i": 284,
+      "from": 70041,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": "cafe",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone, cafe"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": "cafe",
+        "cast": []
+      },
+      "_said": "calls a life quake. A disruption so massive, so tectonic that it forces a total evolution of the self because"
+    },
+    {
+      "fp": "usta2w",
+      "i": 285,
+      "from": 70252,
+      "subject": "rocketLaunch",
+      "entities": [],
+      "concept": "rocketLaunch",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "rocket launch"
+      },
+      "antidote": {
+        "concept": "rocketLaunch",
+        "set": null,
+        "cast": []
+      },
+      "_said": "because she can't act her way out of it. Exactly. Up until this point, she had found ways to perform through everything. She"
+    },
+    {
+      "fp": "fpiy6p",
+      "i": 286,
+      "from": 70442,
+      "subject": "medical",
+      "entities": [],
+      "concept": "medical",
+      "place": "hospital",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "medical, hospital"
+      },
+      "antidote": {
+        "concept": "medical",
+        "set": "hospital",
+        "cast": []
+      },
+      "_said": "She acted through the middle school bullying. She drank her way through the postpartum depression. She PR managed her way through the domestic abuse. She always"
+    },
+    {
+      "fp": "1ugefpf",
+      "i": 287,
+      "from": 70670,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": []
+      },
+      "_said": "always found a patch for the software. But the sudden death of her brother, that is a biological spiritual boon so profound and so permanent that no amount of acting, no amount of "
+    },
+    {
+      "fp": "1yi925u",
+      "i": 288,
+      "from": 71057,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "PR spin can perform it away. It demands"
+    },
+    {
+      "fp": "16s6qfa",
+      "i": 289,
+      "from": 71133,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "demands the absolute truth. She mentions David Kesler in the book. He's the author who expanded"
+    },
+    {
+      "fp": "1wzv2ic",
+      "i": 290,
+      "from": 71277,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "expanded on the stages of grief and added the sixth stage, right?"
+    },
+    {
+      "fp": "3n9zja",
+      "i": 291,
+      "from": 71409,
+      "subject": "Hayden — notes",
+      "entities": [
+        "hayden"
+      ],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Hayden, writes that all the heartache she endured brou"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": [
+          "hayden"
+        ]
+      },
+      "_said": "right? Finding meaning in the pain. Kesler argues that grief isn't just about acceptance. It's about finding meaning in the aftermath. Hayden writes that all the heartache she endu"
+    },
+    {
+      "fp": "1os8fai",
+      "i": 292,
+      "from": 71820,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "ultimately forced this book, this reckoning into existence. She had to finally"
+    },
+    {
+      "fp": "1294w1b",
+      "i": 293,
+      "from": 71937,
+      "subject": "mask",
+      "entities": [],
+      "concept": "mask",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "mask"
+      },
+      "antidote": {
+        "concept": "mask",
+        "cast": []
+      },
+      "_said": "finally tell the truth to stop the performance because the grief left absolutely no room for the mask. But notice how she handles this conclusion. It is a masterclass"
+    },
+    {
+      "fp": "cckoco",
+      "i": 294,
+      "from": 72201,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "masterclass in resisting the easy narrative. You know, that's exactly what stood out to me because usually these celebrity memoirs follow a very"
+    },
+    {
+      "fp": "1htcdyh",
+      "i": 295,
+      "from": 72422,
+      "subject": "road",
+      "entities": [],
+      "concept": "road",
+      "place": "highway",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "road, highway"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": "highway",
+        "cast": []
+      },
+      "_said": "very strict formula. Oh, the hero's journey, right? It's the hero's journey. They hit rock bottom. They go to a beautiful rehab. They have an epiphany."
+    },
+    {
+      "fp": "84qto0",
+      "i": 296,
+      "from": 72669,
+      "subject": "star",
+      "entities": [],
+      "concept": "star",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "star"
+      },
+      "antidote": {
+        "concept": "star",
+        "set": null,
+        "cast": []
+      },
+      "_said": "epiphany. And the book ends with a triumphant victory lap. I saw the light. I'm cured by"
+    },
+    {
+      "fp": "n4djhn",
+      "i": 297,
+      "from": 72892,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "by my lifestyle brand. This book doesn't feel like that at all. It doesn't. And that's precisely what makes it an actual reckoning rather than a marketing tool. There is"
+    },
+    {
+      "fp": "5zqg09",
+      "i": 298,
+      "from": 73176,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "is no neat bow here. She explicitly rejects the happily ever after Hollywood"
+    },
+    {
+      "fp": "1rppq2x",
+      "i": 299,
+      "from": 73327,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Hollywood ending. She states clearly that she's a complex person whose thoughts can often"
+    },
+    {
+      "fp": "1pynm5c",
+      "i": 300,
+      "from": 73466,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "often feel fractured. She admits she's still a work in Yes, she openly admits that she will forever"
+    },
+    {
+      "fp": "12fq17b",
+      "i": 301,
+      "from": 73632,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "forever be a work in progress, cycling through growth, failure, mistakes, and pain until her last breath. The performance is over not because she achieved some enlightened state of"
+    },
+    {
+      "fp": "kdx8xc",
+      "i": 302,
+      "from": 73987,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "her own brokenness as a permanent state of being. Which brings us"
+    },
+    {
+      "fp": "1w43u3f",
+      "i": 303,
+      "from": 74078,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "sit here and frame her addiction"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "us to a counterpoint we have to raise cuz I know people listening might be thinking it. Go for it. If we sit here and frame her addiction, her struggles, her staying with an abuser"
+    },
+    {
+      "fp": "1gtydgk",
+      "i": 304,
+      "from": 74349,
+      "subject": "work",
+      "entities": [],
+      "concept": "work",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "work"
+      },
+      "antidote": {
+        "concept": "work",
+        "set": null,
+        "cast": []
+      },
+      "_said": "purely as the cost of the job or the inevitable fault of her childhood fame, aren't we just helping her execute a brilliant PR rebrand? Is this a genuine reckoning or is"
+    },
+    {
+      "fp": "12dg7pn",
+      "i": 305,
+      "from": 74652,
+      "subject": "codeWindow",
+      "entities": [],
+      "concept": "codeWindow",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "code window"
+      },
+      "antidote": {
+        "concept": "codeWindow",
+        "set": null,
+        "cast": []
+      },
+      "_said": "is it just the next iteration of her public narrative, the newest patch on the software? Where does genuine self-awareness end in Hollywood"
+    },
+    {
+      "fp": "8w7yen",
+      "i": 306,
+      "from": 74861,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": "cafe",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone, cafe"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": "cafe",
+        "cast": []
+      },
+      "_said": "Hollywood self- mythology begin? It's the most critical question you can ask of any memoir, especially from someone trained in PR since infancy. But the text defends itself"
+    },
+    {
+      "fp": "1fztxer",
+      "i": 307,
+      "from": 75127,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "itself through radical How so? A PR rebrand requires a victim narrative. It requires smoothing out the"
+    },
+    {
+      "fp": "klfzdl",
+      "i": 308,
+      "from": 75326,
+      "subject": "Hayden",
+      "entities": [
+        "hayden"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Hayden"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "hayden"
+        ]
+      },
+      "_said": "the ugly edges to make the subject perfectly sympathetic. Hayden refuses to do that. She documents the ugly reality, the 6 a.m. warm vodka,"
+    },
+    {
+      "fp": "1gznkee",
+      "i": 309,
+      "from": 75571,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": []
+      },
+      "_said": "vodka, the hiding from the cops while her neighbors listen to her abuse, the exact devastating moment she signed her daughter away."
+    },
+    {
+      "fp": "1iihaur",
+      "i": 310,
+      "from": 75772,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "away. She presses charges against Brian, even as she admits her heart is breaking, which is an action in the real world, not just a narrative spin. So, she's not just playing the v"
+    },
+    {
+      "fp": "ihhmw2",
+      "i": 311,
+      "from": 76092,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "make herself the hero. She is conducting a brutal, honest autopsy on the hero she was forced to play."
+    },
+    {
+      "fp": "12etbet",
+      "i": 312,
+      "from": 76284,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "play. An autopsy. That's exactly what it is. It's laying the body of the indestructible girl on the table and examining exactly what killed her. The"
+    },
+    {
+      "fp": "ztwjjk",
+      "i": 313,
+      "from": 76543,
+      "subject": "Hayden",
+      "entities": [
+        "hayden"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Hayden"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "hayden"
+        ]
+      },
+      "_said": "The true reckoning of This Is Me isn't that Hayden Penitent magically got better. It isn't that she defeated her demons in a montage and emerged victorious. The reckoning is that s"
+    },
+    {
+      "fp": "cknkdr",
+      "i": 314,
+      "from": 76797,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "she finally stopped performing getting better. The indestructible girl's real power wasn't in her ability to heal from any wound. It wasn't in her ability to hurl herself off"
+    },
+    {
+      "fp": "1vzi9y9",
+      "i": 315,
+      "from": 77095,
+      "subject": "mask",
+      "entities": [],
+      "concept": "mask",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "mask, standing in front of the world"
+      },
+      "antidote": {
+        "concept": "mask",
+        "cast": []
+      },
+      "_said": "off a building or survive the paparazzi or smile through the blinding pain of bleeding knuckles. Her real power was finally standing in front of the world, taking the mask off and "
+    },
+    {
+      "fp": "bw8v2o",
+      "i": 316,
+      "from": 77405,
+      "subject": "mask",
+      "entities": [],
+      "concept": "mask",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "mask"
+      },
+      "antidote": {
+        "concept": "mask",
+        "cast": []
+      },
+      "_said": "admitting that she could break. And it forces a profound reflection for all of us, doesn't it? It really does. It makes you wonder in your own life, what exhaustion, what secret gr"
+    },
+    {
+      "fp": "1jifoiv",
+      "i": 317,
+      "from": 77724,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "\"I'm fine.\" And what would happen if you finally let yourself stop"
+    }
+  ]
+}

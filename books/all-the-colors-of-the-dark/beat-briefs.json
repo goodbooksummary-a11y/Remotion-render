@@ -1,0 +1,5031 @@
+{
+  "slug": "all-the-colors-of-the-dark",
+  "authored": false,
+  "briefs": [
+    {
+      "fp": "hgf2jt",
+      "i": 0,
+      "from": 2,
+      "subject": "storm",
+      "entities": [],
+      "concept": "storm",
+      "place": "forest",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "storm, forest, 1975"
+      },
+      "antidote": {
+        "concept": "storm",
+        "set": "forest",
+        "cast": []
+      },
+      "_said": "A 13-year-old pirate with one eye trades places with an abducted girl in the woods and spends the next 30 years trapped in the darkness he survived. Oh, it's it's just such a chill"
+    },
+    {
+      "fp": "ul3zm5",
+      "i": 1,
+      "from": 341,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "to open on, right? I mean, welcome to the deep dive, you guys. Today we are tearing into Chris Whitaker's just honestly staggering novel, All the Colors of the Staggering is the wo"
+    },
+    {
+      "fp": "pwxl0v",
+      "i": 2,
+      "from": 691,
+      "subject": "gift",
+      "entities": [],
+      "concept": "gift",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "gift, 1975"
+      },
+      "antidote": {
+        "concept": "gift",
+        "cast": []
+      },
+      "_said": "It really Yeah. And we're not here just to, you know, give you a recap of some sprawling thriller. We want to really examine this devastating story through a highly specific"
+    },
+    {
+      "fp": "tsgct7",
+      "i": 3,
+      "from": 1027,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "forensic kind of lens. Right. The architecture of survival. Exactly. The architecture of survival. And it is such a vital lens for this story because well, when we meticulously unp"
+    },
+    {
+      "fp": "ic7d5v",
+      "i": 4,
+      "from": 1351,
+      "subject": "Patch",
+      "entities": [
+        "patch"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Patch, 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "patch"
+        ]
+      },
+      "_said": "the text, we uncover this truly radical thesis about human endurance. Patch McCaulay's survival in that pitch black basement, it wasn't an act of heroic resilience in the tradition"
+    },
+    {
+      "fp": "9zxkg",
+      "i": 5,
+      "from": 1716,
+      "subject": "Grace",
+      "entities": [
+        "grace"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Grace, 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "grace"
+        ]
+      },
+      "_said": "No, not at all. It was the frantic, deliberate construction of an unbreakable mental sanctuary alongside a girl named Grace."
+    },
+    {
+      "fp": "7stt94",
+      "i": 6,
+      "from": 1918,
+      "subject": "star",
+      "entities": [],
+      "concept": "star",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "star, 1975"
+      },
+      "antidote": {
+        "concept": "star",
+        "set": null,
+        "cast": []
+      },
+      "_said": "Right. Right. And returning to the light didn't actually liberate him. In so many ways, it exiled him from the only place where his immense suffering actually made any which is suc"
+    },
+    {
+      "fp": "1g4kww9",
+      "i": 7,
+      "from": 2263,
+      "subject": "Grace",
+      "entities": [
+        "grace"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Grace, 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "grace"
+        ]
+      },
+      "_said": "wrap your head around. It is. And his 30-year interstate hunt for grace. It isn't some act of, you know, romantic chivalry."
+    },
+    {
+      "fp": "1asoxd8",
+      "i": 8,
+      "from": 2501,
+      "subject": "storm",
+      "entities": [],
+      "concept": "storm",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "storm, 1975"
+      },
+      "antidote": {
+        "concept": "storm",
+        "set": null,
+        "cast": []
+      },
+      "_said": "It's his desperate refusal to accept a reality where his darkness was just meaningless. I am just I'm so ready to dive into this with you today because it is a massive"
+    },
+    {
+      "fp": "mdrp7w",
+      "i": 9,
+      "from": 2844,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "read oh, 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "genredefing story for anyone who's read Oh, absolutely. And to really grasp what Whitaker is doing for you, the listener, we have to start at the absolute genesis of the trauma."
+    },
+    {
+      "fp": "146onc7",
+      "i": 10,
+      "from": 3122,
+      "subject": "tree",
+      "entities": [],
+      "concept": "tree",
+      "place": "forest",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "tree, forest, 1975"
+      },
+      "antidote": {
+        "concept": "tree",
+        "set": "forest",
+        "cast": []
+      },
+      "_said": "Like right at the inciting we have to go to the woods. We have to go to the woods. The year is 1975, Montlair, Missouri. Present tense. Just picture this humid, vibrant, incredibly"
+    },
+    {
+      "fp": "e98bdy",
+      "i": 11,
+      "from": 3502,
+      "subject": "Patch — tree",
+      "entities": [
+        "patch"
+      ],
+      "concept": "tree",
+      "place": "forest",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Patch, forest, 1975"
+      },
+      "antidote": {
+        "concept": "tree",
+        "set": "forest",
+        "cast": [
+          "patch"
+        ]
+      },
+      "_said": "The kind where the air is just thick. Exactly. Heavy with cicas and that sunbaked asphalt smell. And 13-year-old Patch McCauley is roaming these woods."
+    },
+    {
+      "fp": "17nsjxw",
+      "i": 12,
+      "from": 3746,
+      "subject": "Patch — star",
+      "entities": [
+        "patch"
+      ],
+      "concept": "star",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Patch, 1975"
+      },
+      "antidote": {
+        "concept": "star",
+        "set": null,
+        "cast": [
+          "patch"
+        ]
+      },
+      "_said": "And we really need to visualize Patch Yeah. He was born with one eye, hence the name. But on this specific day, he is wearing a satin purple eye patch with a silver star on"
+    },
+    {
+      "fp": "18vlkbu",
+      "i": 13,
+      "from": 4078,
+      "subject": "star",
+      "entities": [],
+      "concept": "star",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "star, 1975"
+      },
+      "antidote": {
+        "concept": "star",
+        "set": null,
+        "cast": []
+      },
+      "_said": "it. Right. Right. A silver star. He's got a tricorn hat, a waist coat. His navy slacks are actually tucked into his socks to mimic It's so specific."
+    },
+    {
+      "fp": "per1xv",
+      "i": 14,
+      "from": 4351,
+      "subject": "mask",
+      "entities": [],
+      "concept": "mask",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "mask, carrying a replica dagger, 1975"
+      },
+      "antidote": {
+        "concept": "mask",
+        "cast": []
+      },
+      "_said": "And he's carrying a replica dagger. I mean, he's fully inhabiting the persona of a pirate. He's in his own world, totally immersed."
+    },
+    {
+      "fp": "1rxlh3l",
+      "i": 15,
+      "from": 4565,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "But then slicing through the humidity, he hears a scream. And that I mean, that is the sound that permanently bifrocates his entire life."
+    },
+    {
+      "fp": "6dzk4r",
+      "i": 16,
+      "from": 4836,
+      "subject": "Misty",
+      "entities": [
+        "misty"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Misty, 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "misty"
+        ]
+      },
+      "_said": "There's the timeline before the scream and the timeline after. Exactly. Because down in this high-sighted valley obscured by all the crees, a man wearing a balaclava has grabbed Pa"
+    },
+    {
+      "fp": "7boccq",
+      "i": 17,
+      "from": 5206,
+      "subject": "Patch and Misty — star",
+      "entities": [
+        "patch",
+        "misty"
+      ],
+      "concept": "star",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Patch and Misty, 1975"
+      },
+      "antidote": {
+        "concept": "star",
+        "set": null,
+        "cast": [
+          "patch",
+          "misty"
+        ]
+      },
+      "_said": "Meyer. And Misty is, you know, she's the golden girl of Montlair. Oh, 100%. She's a trap star. She's this fitted beauty. Basically everything Patch is not."
+    },
+    {
+      "fp": "1j1tpug",
+      "i": 18,
+      "from": 5443,
+      "subject": "Patch",
+      "entities": [
+        "patch"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Patch, reaches down, 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "patch"
+        ]
+      },
+      "_said": "Right. So Patch is terrified. His body goes completely cold, but he reaches down. He picks up a rock and he throws it."
+    },
+    {
+      "fp": "14nvb0e",
+      "i": 19,
+      "from": 5647,
+      "subject": "Misty",
+      "entities": [
+        "misty"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Misty, 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "misty"
+        ]
+      },
+      "_said": "Just purely instinctual. Yeah. And he takes the man down at the knees. He looks at Misty. His lungs are totally empty. All this adrenaline is surging through his 13-year-old veins,"
+    },
+    {
+      "fp": "13x5cul",
+      "i": 20,
+      "from": 6002,
+      "subject": "magnifier",
+      "entities": [],
+      "concept": "magnifier",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "magnifier, 1975"
+      },
+      "antidote": {
+        "concept": "magnifier",
+        "cast": []
+      },
+      "_said": "In that fraction of a second, he trades his own life for hers. He steps right into the trap meant for someone And we really need to pause here and examine what this means for you, "
+    },
+    {
+      "fp": "1wi10g9",
+      "i": 21,
+      "from": 6350,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "of how we universally conceptualize bravery. Yeah. Let's unpack that because we so often frame heroism as this this grand destination, you know, like a title you earn."
+    },
+    {
+      "fp": "1u4o8wp",
+      "i": 22,
+      "from": 6691,
+      "subject": "road",
+      "entities": [],
+      "concept": "road",
+      "place": "highway",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "road, highway, 1975"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": "highway",
+        "cast": []
+      },
+      "_said": "Exactly. A title you earn after a long, arduous journey of moral development. It's the end of a hero's journey."
+    },
+    {
+      "fp": "vlmjyy",
+      "i": 23,
+      "from": 6895,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "But Whitaker dismantles that trope immediately. He just shatters it, right? He shows us that true heroism is never an arrival. It is an instant violent amputation of your own timel"
+    },
+    {
+      "fp": "1lvvr9j",
+      "i": 24,
+      "from": 7202,
+      "subject": "Patch and Misty",
+      "entities": [
+        "patch",
+        "misty"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Patch and Misty, 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "patch",
+          "misty"
+        ]
+      },
+      "_said": "God, an amputation of your own timeline. That is that is heavy. It is because in one second, Patch severs his own future so that Misty can keep hers."
+    },
+    {
+      "fp": "1vuqqwx",
+      "i": 25,
+      "from": 7457,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "It's not this calculated choice made with, you know, a full awareness of the consequences. No, he's just a kid. It's an agonizingly immediate That phrase, an amputation of your own"
+    },
+    {
+      "fp": "hmjqt4",
+      "i": 26,
+      "from": 7807,
+      "subject": "Patch",
+      "entities": [
+        "patch"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Patch, 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "patch"
+        ]
+      },
+      "_said": "a brilliant way to phrase it. And it makes me think of the psychological padding Patch was wearing that day. You know, the pirate gear. Yeah. The literal and metaphorical padding."
+    },
+    {
+      "fp": "10sfifm",
+      "i": 27,
+      "from": 8098,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Because we have this earlier scene from that very same afternoon that really sets up how he uses imagination as armor. Oh, the alleyway scene."
+    },
+    {
+      "fp": "175qzc4",
+      "i": 28,
+      "from": 8347,
+      "subject": "Patch",
+      "entities": [
+        "patch"
+      ],
+      "concept": null,
+      "place": "cafe",
+      "confidence": 0.85,
+      "vox": {
+        "shot": "Patch, cafe, 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": "cafe",
+        "cast": [
+          "patch"
+        ]
+      },
+      "_said": "Yes. Patch is backed into this brick alleyway behind Lacy's Diner. The summer heat is just radiating off the brick, and he is surrounded by Chuck Bradley and his older brothers."
+    },
+    {
+      "fp": "lr2hjp",
+      "i": 29,
+      "from": 8719,
+      "subject": "Patch",
+      "entities": [
+        "patch"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Patch, 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "patch"
+        ]
+      },
+      "_said": "These are older, really vicious bullies leaning against a cherry red Thunderbird. Patch is trapped, totally cornered."
+    },
+    {
+      "fp": "1b61ejm",
+      "i": 30,
+      "from": 8959,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "But instead of cowering, which, you know, most kids would do, he actually draws his prop dagger. So audacious. He relies entirely on the lore of the pirate Blackbeard to survive th"
+    },
+    {
+      "fp": "y25b5o",
+      "i": 31,
+      "from": 9271,
+      "subject": "magnifier",
+      "entities": [],
+      "concept": "magnifier",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "magnifier, holding this flimsy prop knife out with absolut, 1975"
+      },
+      "antidote": {
+        "concept": "magnifier",
+        "cast": []
+      },
+      "_said": "He starts reciting the historical details of Edward Teach being beheaded by Robert Maynard holding this flimsy prop knife out with absolute conviction."
+    },
+    {
+      "fp": "b1m44t",
+      "i": 32,
+      "from": 9514,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "family, 1975"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": []
+      },
+      "_said": "Right? I mean, he is a deeply impoverished kid. He has a struggling night shift working mother."
+    },
+    {
+      "fp": "1sr7e9s",
+      "i": 33,
+      "from": 9710,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "He has zero physical power in this town. So, he uses the flare and the rigid rules of fiction to dull a severe threatening reality."
+    },
+    {
+      "fp": "pm8wdm",
+      "i": 34,
+      "from": 10008,
+      "subject": "shield",
+      "entities": [],
+      "concept": "shield",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "shield, 1975"
+      },
+      "antidote": {
+        "concept": "shield",
+        "cast": []
+      },
+      "_said": "It is a classic defense mechanism, but honestly, it's elevated to an art form here. he armors himself with myth because his lived reality is just far too porous, you know, too"
+    },
+    {
+      "fp": "nd9mox",
+      "i": 35,
+      "from": 10334,
+      "subject": "tree",
+      "entities": [],
+      "concept": "tree",
+      "place": "forest",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "tree, forest, 1975"
+      },
+      "antidote": {
+        "concept": "tree",
+        "set": "forest",
+        "cast": []
+      },
+      "_said": "vulnerable to the cruelty of the world around him. The pirate persona is a literal psychological shield, right? Which, okay, this makes me want to challenge the intentionality of w"
+    },
+    {
+      "fp": "f9zi51",
+      "i": 36,
+      "from": 10685,
+      "subject": "Patch",
+      "entities": [
+        "patch"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Patch, 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "patch"
+        ]
+      },
+      "_said": "Look at the brain of a 13-year-old, especially one leaning so heavily on escapism like we just saw in the alleyway. Is Patch actually executing a conscious act of heroism in that v"
+    },
+    {
+      "fp": "1hr490o",
+      "i": 37,
+      "from": 10980,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "You're wondering if he knows what he's Yeah. Or is he just a kid who is so completely lost in his pirate fantasy that he fundamentally misunderstands the real world stakes?"
+    },
+    {
+      "fp": "1n9lm7z",
+      "i": 38,
+      "from": 11294,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": "classroom",
+      "confidence": 0.35,
+      "vox": {
+        "shot": "running around with the prop dagger, classroom, 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": "classroom",
+        "cast": []
+      },
+      "_said": "I mean, he's running around with the prop dagger. When he throws the rock, is he just playing Blackbeard again? Does he even realize that this monster in the Balaclava isn't a scho"
+    },
+    {
+      "fp": "4on64p",
+      "i": 39,
+      "from": 11623,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "will just back down from a theatrical speech? Okay, that is a completely fair question and it really speaks to that blur between childhood play and adult consequence, But if we tra"
+    },
+    {
+      "fp": "18ui9wn",
+      "i": 40,
+      "from": 11964,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "psychological shift in that exact scene, the text gives us a pretty resounding answer. You think so? I do."
+    },
+    {
+      "fp": "16kaa3p",
+      "i": 41,
+      "from": 12182,
+      "subject": "road",
+      "entities": [],
+      "concept": "road",
+      "place": "forest",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "road, hold the stick like a musket and wander thos, forest, 1975"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": "forest",
+        "cast": []
+      },
+      "_said": "The fantasy is absolutely what gets him into the woods. The pirate persona gives him the bravado to hold the stick like a musket and wander those dangerous trails. Sure, it lowers "
+    },
+    {
+      "fp": "1rmnf2g",
+      "i": 42,
+      "from": 12504,
+      "subject": "Misty",
+      "entities": [
+        "misty"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Misty, run!\" to misty, 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "misty"
+        ]
+      },
+      "_said": "But the precise moment he yells, \"Run!\" to Misty. So the fantasy shatters. Okay. How so? The text makes it clear."
+    },
+    {
+      "fp": "1gj3ddm",
+      "i": 43,
+      "from": 12718,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "There is no bravado in that whisper. He doesn't quote Edward Teach to the man in the balaclava. He doesn't hold up his prop Oh, that's true. He drops the act."
+    },
+    {
+      "fp": "s0djvf",
+      "i": 44,
+      "from": 12962,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "The pirate dies in that valley and the terrified, highly aware 13-year-old boy completely takes over. He knows exactly what he is losing in that moment. The amputation is real and "
+    },
+    {
+      "fp": "q8f8ml",
+      "i": 45,
+      "from": 13313,
+      "subject": "tree",
+      "entities": [],
+      "concept": "tree",
+      "place": "forest",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "tree, forest, 1975"
+      },
+      "antidote": {
+        "concept": "tree",
+        "set": "forest",
+        "cast": []
+      },
+      "_said": "the Wow. Okay. Yeah. That transition from play acting to profound sacrifice is just agonizing because he willingly trades the vibrant sunlit sensory rich woods"
+    },
+    {
+      "fp": "1rd50pr",
+      "i": 46,
+      "from": 13685,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "of Missouri to be swallowed by all the colors of the dark. Which brings us directly to the basement itself. The ultimate deprivation."
+    },
+    {
+      "fp": "owj3tf",
+      "i": 47,
+      "from": 13942,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "And this is where the novel really shifts. I think it moves from a thriller about an abduction into this profound exploration of human consciousness under extreme duress."
+    },
+    {
+      "fp": "1ajrt4d",
+      "i": 48,
+      "from": 14254,
+      "subject": "storm",
+      "entities": [],
+      "concept": "storm",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "storm, 1975"
+      },
+      "antidote": {
+        "concept": "storm",
+        "set": null,
+        "cast": []
+      },
+      "_said": "So, let's drop into that room. The sensory deprivation is just absolute. When we say darkness here, we aren't talking about a dimly lit room, No, not at all."
+    },
+    {
+      "fp": "1pjicus",
+      "i": 49,
+      "from": 14460,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "We are talking about a pitch black void where the eyes never adjust because there are literally zero photons to It's a complete blackout."
+    },
+    {
+      "fp": "3w4mqe",
+      "i": 50,
+      "from": 14695,
+      "subject": "Patch — road",
+      "entities": [
+        "patch"
+      ],
+      "concept": "road",
+      "place": "highway",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Patch, highway, 1975"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": "highway",
+        "cast": [
+          "patch"
+        ]
+      },
+      "_said": "And Patch is surviving just by trying to map an unmappable space. He counts his paces. 19 paces by 15 paces."
+    },
+    {
+      "fp": "lnfbiv",
+      "i": 51,
+      "from": 14904,
+      "subject": "storm",
+      "entities": [],
+      "concept": "storm",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "storm, reaches his hands up into the freezing air, 1975"
+      },
+      "antidote": {
+        "concept": "storm",
+        "set": null,
+        "cast": []
+      },
+      "_said": "Trying to find boundaries. Yeah. He reaches his hands up into the freezing air, but he cannot touch the ceiling. He is completely unmed."
+    },
+    {
+      "fp": "1f2lvcm",
+      "i": 52,
+      "from": 15122,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "And the human brain relies on spatial awareness to maintain a sense of self, right? And the basement takes all of that away."
+    },
+    {
+      "fp": "1dhr1x4",
+      "i": 53,
+      "from": 15360,
+      "subject": "Grace",
+      "entities": [
+        "grace"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Grace, 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "grace"
+        ]
+      },
+      "_said": "But then cutting through the silence, a girl's voice emerges from the void. Grace. She is already in there with him."
+    },
+    {
+      "fp": "4s1gwp",
+      "i": 54,
+      "from": 15593,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "whispers this incredible impossible command to h, 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "And she whispers this incredible impossible command to him. She says, \"Paint it for me. Paint it with every color you know so I can see it in the It gives me chills just hearing th"
+    },
+    {
+      "fp": "1aipyvb",
+      "i": 55,
+      "from": 15943,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "and the psychology of what is happening here because it is so crucial for you the listener to understand the stakes in this room. Please do because it's fascinating."
+    },
+    {
+      "fp": "17bcxks",
+      "i": 56,
+      "from": 16174,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "When the human brain is faced with absolute sensory deprivation, it panics. It doesn't just rest. Without external input, the visual cortex will literally begin to misfire. Like it"
+    },
+    {
+      "fp": "12jdfm9",
+      "i": 57,
+      "from": 16536,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "that isn't there. Exactly. This is a documented phenomenon called the Charles Bonnet syndrome. Basically, the brain, starved of visual stimuli, starts to generate its own terrifyin"
+    },
+    {
+      "fp": "ijyzw9",
+      "i": 58,
+      "from": 16889,
+      "subject": "Grace",
+      "entities": [
+        "grace"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Grace, 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "grace"
+        ]
+      },
+      "_said": "Oh, wow. Yeah. It is essentially a one-way ticket to psychosis. But Grace intervenes before Patch's mind can shatter."
+    },
+    {
+      "fp": "a0ns3a",
+      "i": 59,
+      "from": 17105,
+      "subject": "shield",
+      "entities": [],
+      "concept": "shield",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "shield, 1975"
+      },
+      "antidote": {
+        "concept": "shield",
+        "cast": []
+      },
+      "_said": "She harnesses that exact biological failafe by giving it direction. Right. She forces his brain to build beauty as an emergency shield against annihilation."
+    },
+    {
+      "fp": "4circ2",
+      "i": 60,
+      "from": 17410,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Imagination in this basement isn't escapism or daydreaming. It is a literal architectural survival It is the ultimate act of defiance against this monster who put them there."
+    },
+    {
+      "fp": "sejr4n",
+      "i": 61,
+      "from": 17755,
+      "subject": "Patch and Grace",
+      "entities": [
+        "patch",
+        "grace"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Patch and Grace, 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "patch",
+          "grace"
+        ]
+      },
+      "_said": "there's this breathtaking dynamic where Grace essentially tells Patch, you know, in the dark, we're always smiling. We're all the same."
+    },
+    {
+      "fp": "mw9n9u",
+      "i": 62,
+      "from": 17952,
+      "subject": "star",
+      "entities": [],
+      "concept": "star",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "star, 1975"
+      },
+      "antidote": {
+        "concept": "star",
+        "set": null,
+        "cast": []
+      },
+      "_said": "We're all well and happy and shining. So beautiful. She actively forces him to dig into his memories of the outside world."
+    },
+    {
+      "fp": "shhu6f",
+      "i": 63,
+      "from": 18192,
+      "subject": "shadowSelf",
+      "entities": [],
+      "concept": "shadowSelf",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "shadow self, 1975"
+      },
+      "antidote": {
+        "concept": "shadowSelf",
+        "cast": []
+      },
+      "_said": "She makes him describe the impossible gold of the Missouri sun, the vibrant crimson of a dress, the deep violet of a shadow in the alleyway."
+    },
+    {
+      "fp": "u80fg6",
+      "i": 64,
+      "from": 18463,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Through words alone, he has to turn a terrifying, suffocating sensory void into an incandescent masterpiece of because she is teaching him how to survive the unservivable. She is p"
+    },
+    {
+      "fp": "17w6j5f",
+      "i": 65,
+      "from": 18833,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "psychological but demanding that he supply the paint. it is a brilliant, brilliant way to keep his cognitive functions engaged."
+    },
+    {
+      "fp": "2sshsh",
+      "i": 66,
+      "from": 19078,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Okay, but I have to push back on this from a clinical perspective though. Okay, go ahead. I look at this scenario. You have two children trapped in a pitch black box by a literal m"
+    },
+    {
+      "fp": "e7s92p",
+      "i": 67,
+      "from": 19399,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "something much darker than just, you know, a beautiful architectural survival tool. What do you see? Isn't this just a textbook case of severe dissociation or even like fully ado a"
+    },
+    {
+      "fp": "1le1xpp",
+      "i": 68,
+      "from": 19781,
+      "subject": "grave",
+      "entities": [],
+      "concept": "grave",
+      "place": "forest",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "grave, forest, 1975"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": "forest",
+        "cast": []
+      },
+      "_said": "Ah, I see what you're saying. I mean they are in a living hell and instead of confronting the reality of their impending death, they are retreating into a hallucinated art gallery."
+    },
+    {
+      "fp": "15g2ev2",
+      "i": 69,
+      "from": 20074,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Isn't this just a fractured mind completely escaping reality because the pain is just too immense to process. Right. Right. That is exactly what a surface level clinical assessment"
+    },
+    {
+      "fp": "d3r3g6",
+      "i": 70,
+      "from": 20388,
+      "subject": "Grace — magnifier",
+      "entities": [
+        "grace"
+      ],
+      "concept": "magnifier",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Grace, 1975"
+      },
+      "antidote": {
+        "concept": "magnifier",
+        "cast": [
+          "grace"
+        ]
+      },
+      "_said": "Okay. Dissociation is the brain's circuit breaker flipping when the trauma voltage gets too high as we know. But if we examine the actual mechanics of what Grace is doing, it contr"
+    },
+    {
+      "fp": "6p31gy",
+      "i": 71,
+      "from": 20712,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "nature of pathological dissociation. How so? Because it seems pretty detached from reality to me. Because dissociation is almost always a solitary retreat inward. You detach from y"
+    },
+    {
+      "fp": "rjoby6",
+      "i": 72,
+      "from": 21026,
+      "subject": "Patch and Grace",
+      "entities": [
+        "patch",
+        "grace"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Patch and Grace, 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "patch",
+          "grace"
+        ]
+      },
+      "_said": "you also detach from other people. You go numb. What Grace and Patch are doing is the exact opposite of going numb."
+    },
+    {
+      "fp": "b9x6ys",
+      "i": 73,
+      "from": 21228,
+      "subject": "Grace",
+      "entities": [
+        "grace"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Grace, 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "grace"
+        ]
+      },
+      "_said": "It is a highly active, shared, collaborative Okay, I'm following you. Grace is actively anchoring him to a shared reality, even if it's an imagined painted one, specifically to"
+    },
+    {
+      "fp": "kpj86p",
+      "i": 74,
+      "from": 21593,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "keep his mind from snapping into that solitary void. She doesn't let him drift off into Right? She keeps talking to him."
+    },
+    {
+      "fp": "1fdcplh",
+      "i": 75,
+      "from": 21804,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "She demands he speak. She demands he connect with her. She demands he observe and describe. So, it's not a retreat at all, really. It is a tether."
+    },
+    {
+      "fp": "1qe40um",
+      "i": 76,
+      "from": 22032,
+      "subject": "gift",
+      "entities": [],
+      "concept": "gift",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "gift, 1975"
+      },
+      "antidote": {
+        "concept": "gift",
+        "cast": []
+      },
+      "_said": "She is essentially tying a rope around his waist so he doesn't float away into the blackness. Precisely. She forces him to be present with her."
+    },
+    {
+      "fp": "1464t0p",
+      "i": 77,
+      "from": 22253,
+      "subject": "star",
+      "entities": [],
+      "concept": "star",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "star, 1975"
+      },
+      "antidote": {
+        "concept": "star",
+        "set": null,
+        "cast": []
+      },
+      "_said": "It is an act of extreme presence, not absence. Wow, that makes it so much more powerful. She teaches him to survive by pulling the light inside, essentially painting all the colors"
+    },
+    {
+      "fp": "1bgnb7t",
+      "i": 78,
+      "from": 22594,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "stands in such stark, 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Beautifully put. And the sheer force of that internal construction stands in such stark, honestly heartbreaking contrast to the decay happening above ground."
+    },
+    {
+      "fp": "1orwoqe",
+      "i": 79,
+      "from": 22882,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Oh, the outside world. Montlair provides such a fascinating tragic case study in how communities metabolize trauma or well more accurately how they fail to."
+    },
+    {
+      "fp": "1h82zx",
+      "i": 80,
+      "from": 23206,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Let's move above ground for a minute because it's night in Montlair. The initial shock of the abduction has kind of passed. The frantic search parties have fizzled out like they al"
+    },
+    {
+      "fp": "17dpsw1",
+      "i": 81,
+      "from": 23520,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "sitting cross-legged on her porch, 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Brown, Patch's fiercely loyal, just brilliantly obsessive best friend is sitting cross-legged on her porch."
+    },
+    {
+      "fp": "u9f2tw",
+      "i": 82,
+      "from": 23717,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "She is a child, but the text describes the soles of her feet as dark with dirt, which is such a visceral image."
+    },
+    {
+      "fp": "17rc00h",
+      "i": 83,
+      "from": 23930,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "It really is. It shows how grounded she is in the gritty physical reality of the search. But the town around her has essentially stopped looking."
+    },
+    {
+      "fp": "73y3ai",
+      "i": 84,
+      "from": 24173,
+      "subject": "magnifier",
+      "entities": [],
+      "concept": "magnifier",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "magnifier, 1975"
+      },
+      "antidote": {
+        "concept": "magnifier",
+        "cast": []
+      },
+      "_said": "They've given up. They really have. The church lanterns, which were lit as this whole symbol of hope, are unlit. And in this incredibly eerie, almost biblical detail, even the bees"
+    },
+    {
+      "fp": "141ntjr",
+      "i": 85,
+      "from": 24552,
+      "subject": "Saint",
+      "entities": [
+        "saint"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Saint, sits there in the dark, 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "saint"
+        ]
+      },
+      "_said": "vanished. It is as if nature itself has just abandoned the Yeah. And Saint just sits there in the dark, shivering, vibrating with fury at the world's apathy. This scene, it exposes"
+    },
+    {
+      "fp": "1axrbw7",
+      "i": 86,
+      "from": 24886,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "a deeply uncomfortable truth about human nature and societal mechanics. It really does. Think about how we process grief in our own communities. You know, we have a desperate, almo"
+    },
+    {
+      "fp": "ry3gky",
+      "i": 87,
+      "from": 25226,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "hold a tearful candlelight vigil, 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "pathological societal craving for closure. Oh, absolutely. We want neatly packaged grief. If we want to put up a brass plaque, hold a tearful candlelight vigil, sing a hymn, and th"
+    },
+    {
+      "fp": "wzn9ah",
+      "i": 88,
+      "from": 25591,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "comfortable lives. We want to tie a bow on it. Exactly. What society hates, what it absolutely cannot tolerate is the messy, open-ended, deeply uncomfortable work of enduring the u"
+    },
+    {
+      "fp": "11vdjlk",
+      "i": 89,
+      "from": 25946,
+      "subject": "Patch — shield",
+      "entities": [
+        "patch"
+      ],
+      "concept": "shield",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Patch, 1975"
+      },
+      "antidote": {
+        "concept": "shield",
+        "cast": [
+          "patch"
+        ]
+      },
+      "_said": "because ambiguous loss is toxic to a community's sense of safety. Right? So, Montlair chooses a comfortable fiction. Patch is dead and we must move on. The town wants to memorializ"
+    },
+    {
+      "fp": "1szij1n",
+      "i": 90,
+      "from": 26306,
+      "subject": "Saint — grave",
+      "entities": [
+        "saint"
+      ],
+      "concept": "grave",
+      "place": "forest",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Saint, holding a funeral for an empty casket just so t, forest, 1975"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": "forest",
+        "cast": [
+          "saint"
+        ]
+      },
+      "_said": "Saint wants to find It is the ultimate betrayal. The town is essentially holding a funeral for an empty casket just so they can stop feeling anxious at night. That's exactly it."
+    },
+    {
+      "fp": "1vydesx",
+      "i": 91,
+      "from": 26573,
+      "subject": "Saint — home",
+      "entities": [
+        "saint"
+      ],
+      "concept": "home",
+      "place": "bedroom",
+      "confidence": 1,
+      "vox": {
+        "shot": "Saint, bedroom, 1975"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": "bedroom",
+        "cast": [
+          "saint"
+        ]
+      },
+      "_said": "But Saint completely refuses to participate in the theater of moving on. Over the years, while everyone else is, you know, going to prom and growing up and doing normal stuff, Sain"
+    },
+    {
+      "fp": "1kdca9k",
+      "i": 92,
+      "from": 26954,
+      "subject": "grave",
+      "entities": [],
+      "concept": "grave",
+      "place": "forest",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "grave, forest, 1975"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": "forest",
+        "cast": []
+      },
+      "_said": "a literal war She becomes an investigator. She spends her adolescence crossing referencing public records. She physically traces death certificates across county and state lines."
+    },
+    {
+      "fp": "1kik1ks",
+      "i": 93,
+      "from": 27302,
+      "subject": "Patch and Grace",
+      "entities": [
+        "patch",
+        "grace"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Patch and Grace, 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "patch",
+          "grace"
+        ]
+      },
+      "_said": "Just relentless. She makes hundreds of phone calls to the bewildered, grieving families of other missing people. She's trying to find a pattern, trying to find the girl Grace that "
+    },
+    {
+      "fp": "eae2bd",
+      "i": 94,
+      "from": 27646,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "before him. She turns her grief into this cold forensic devotion. It is a phenomenal display of loyalty."
+    },
+    {
+      "fp": "q0aibt",
+      "i": 95,
+      "from": 27842,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "I mean truly but we have to acknowledge the collateral damage here it is deeply isolating for her she is sacrificing her own developmental milestones to be the sole keeper of the w"
+    },
+    {
+      "fp": "cwszrk",
+      "i": 96,
+      "from": 28159,
+      "subject": "Saint",
+      "entities": [
+        "saint"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Saint, 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "saint"
+        ]
+      },
+      "_said": "a really tough question I think is saint basically destroying her own life here it's a fair question her grandmother Norma who loves her deeply gently suggests she let it go at one"
+    },
+    {
+      "fp": "18pzcdf",
+      "i": 97,
+      "from": 28488,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "honestly looking at it objectively wouldn't it be healthier for a teenage girl to accept that her friend is gone define healthier though well just you you know, to at least accept "
+    },
+    {
+      "fp": "16h0tm0",
+      "i": 98,
+      "from": 28812,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "cannot fix this massive tragedy. Shouldn't she just go to the movies and be a normal teenager? She is acting like a human blackbox recorder for a town that is desperately"
+    },
+    {
+      "fp": "1v2lpdd",
+      "i": 99,
+      "from": 29124,
+      "subject": "mask",
+      "entities": [],
+      "concept": "mask",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "mask, 1975"
+      },
+      "antidote": {
+        "concept": "mask",
+        "cast": []
+      },
+      "_said": "trying to pretend a plane didn't just crash. It's a compelling analogy, the black But when we ask if it would be healthier for her to move on, we really have to interrogate the def"
+    },
+    {
+      "fp": "1nzrcnp",
+      "i": 100,
+      "from": 29470,
+      "subject": "tree",
+      "entities": [],
+      "concept": "tree",
+      "place": "forest",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "tree, forest, 1975"
+      },
+      "antidote": {
+        "concept": "tree",
+        "set": "forest",
+        "cast": []
+      },
+      "_said": "Okay, lay it out. Healthier for who? The town's health, its ability to sleep soundly and pretend monsters don't live in the woods, is built entirely on foundation of willful Wow. Y"
+    },
+    {
+      "fp": "tt8fxl",
+      "i": 101,
+      "from": 29863,
+      "subject": "Patch",
+      "entities": [
+        "patch"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Patch, holding space for exactly, 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "patch"
+        ]
+      },
+      "_said": "if she accepts the town's comfortable delusion, then Patch truly is dead to the world because no one else is holding space for Exactly."
+    },
+    {
+      "fp": "x9mtbq",
+      "i": 102,
+      "from": 30094,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Saint's obsession is the literal only umbilical cord keeping Patch's reality tethered to the outside."
+    },
+    {
+      "fp": "n1r08k",
+      "i": 103,
+      "from": 30295,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "her refusal to heal. Her refusal to be a normal teenager is the only authentic way to honor his ongoing trauma."
+    },
+    {
+      "fp": "v95doi",
+      "i": 104,
+      "from": 30499,
+      "subject": "Grace",
+      "entities": [
+        "grace"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Grace, 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "grace"
+        ]
+      },
+      "_said": "So, it's not a disorder, it's a duty. Right. In a sick society, maladaptation can be the only moral choice. Oh, that's heavy. She is the anchor on the outside, just like Grace was "
+    },
+    {
+      "fp": "1gaypyk",
+      "i": 105,
+      "from": 30799,
+      "subject": "Patch and Saint",
+      "entities": [
+        "patch",
+        "saint"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Patch and Saint, holds the line for nearly a year, 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "patch",
+          "saint"
+        ]
+      },
+      "_said": "Saint refuses to let the town whitewash over the horror. She holds the line for nearly a year. And thank God she does because 307 days later, the earth spits patch back out."
+    },
+    {
+      "fp": "14rk5w8",
+      "i": 106,
+      "from": 31121,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "He is found. He is miraculously alive the miraculous rescue. But as Whitaker masterfully illustrates, physical survival is merely the prologue to a much longer, far more complex tr"
+    },
+    {
+      "fp": "qlndyk",
+      "i": 107,
+      "from": 31474,
+      "subject": "Patch",
+      "entities": [
+        "patch"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Patch, 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "patch"
+        ]
+      },
+      "_said": "Let's drop into the aftermath. Day 308 and beyond. Patch is out of the basement, but he is utterly untethered, completely a drift."
+    },
+    {
+      "fp": "1ik9t6l",
+      "i": 108,
+      "from": 31675,
+      "subject": "Patch and Sammy",
+      "entities": [
+        "patch",
+        "sammy"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Patch and Sammy, 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "patch",
+          "sammy"
+        ]
+      },
+      "_said": "Eventually, he finds himself working in a high-end art gallery owned by this wealthy man named Sammy. And Sammy gives Patch a single key to a hidden room in the back of the gallery"
+    },
+    {
+      "fp": "o1rwvb",
+      "i": 109,
+      "from": 31975,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "The white room? Yes. It is a windowless, entirely white room. White floor, white walls, white ceiling."
+    },
+    {
+      "fp": "1k4qnwh",
+      "i": 110,
+      "from": 32206,
+      "subject": "Patch and Grace",
+      "entities": [
+        "patch",
+        "grace"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Patch and Grace, stands before a massive old holland canvas, 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "patch",
+          "grace"
+        ]
+      },
+      "_said": "Patch stands before a massive old Holland canvas. And day after day, he is painting the ghost of grace over and over, over and over and over again. Hundreds of canvases all just tr"
+    },
+    {
+      "fp": "oxdalj",
+      "i": 111,
+      "from": 32554,
+      "subject": "star",
+      "entities": [],
+      "concept": "star",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "star, 1975"
+      },
+      "antidote": {
+        "concept": "star",
+        "set": null,
+        "cast": []
+      },
+      "_said": "to capture the girl in the dark. And this is where the novel completely upends our standard narrative of trauma and healing. How so? Well, we have this ingrained assumption that re"
+    },
+    {
+      "fp": "xg69v0",
+      "i": 112,
+      "from": 32918,
+      "subject": "Patch — home",
+      "entities": [
+        "patch"
+      ],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Patch, 1975"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": [
+          "patch"
+        ]
+      },
+      "_said": "right? Like the credits roll. Exactly. We think the story ends when the police tape comes down and the kid goes home. But for Patch, returning to the blinding light of the real wor"
+    },
+    {
+      "fp": "1uduiq0",
+      "i": 113,
+      "from": 33288,
+      "subject": "school",
+      "entities": [],
+      "concept": "school",
+      "place": "classroom",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "school, classroom, 1975"
+      },
+      "antidote": {
+        "concept": "school",
+        "set": "classroom",
+        "cast": []
+      },
+      "_said": "town demands a cured boy. They want him to smile, to finish high school, to date the pretty girl, to be appropriately grateful for his life. They want the neat ending."
+    },
+    {
+      "fp": "1bktel3",
+      "i": 114,
+      "from": 33574,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "But you cannot cure someone who left the core of their identity in a room that nobody else even believes exists. No, that's so isolating."
+    },
+    {
+      "fp": "1ig8ax7",
+      "i": 115,
+      "from": 33818,
+      "subject": "tree",
+      "entities": [],
+      "concept": "tree",
+      "place": "forest",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "tree, forest, 1975"
+      },
+      "antidote": {
+        "concept": "tree",
+        "set": "forest",
+        "cast": []
+      },
+      "_said": "It is. And for you listening, this forces a complete reframing of recovery. Recovery isn't going back to the person you were before the trauma because that person is gone and that "
+    },
+    {
+      "fp": "1xm06cg",
+      "i": 116,
+      "from": 34176,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Recovery sometimes is the agonizing realization that the person you are now belongs entirely to the trauma. The clash between his internal world and these external expectations is "
+    },
+    {
+      "fp": "fcr5bo",
+      "i": 117,
+      "from": 34529,
+      "subject": "Patch and Misty — star",
+      "entities": [
+        "patch",
+        "misty"
+      ],
+      "concept": "star",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Patch and Misty, 1975"
+      },
+      "antidote": {
+        "concept": "star",
+        "set": null,
+        "cast": [
+          "patch",
+          "misty"
+        ]
+      },
+      "_said": "Like you look at Misty Meyer, the girl Patch actually saved. Oh, Missy, she actually dates him in the light. They go to the movies. She kisses him by the lake."
+    },
+    {
+      "fp": "8c8vkh",
+      "i": 118,
+      "from": 34764,
+      "subject": "Misty — heart",
+      "entities": [
+        "misty"
+      ],
+      "concept": "heart",
+      "place": "cafe",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Misty, walks into sammy's gallery, cafe, 1975"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": "cafe",
+        "cast": [
+          "misty"
+        ]
+      },
+      "_said": "They try to play out this normal all-American teenage romance. It's what the town wants. But then Misty walks into Sammy's gallery."
+    },
+    {
+      "fp": "wr9bb1",
+      "i": 119,
+      "from": 34997,
+      "subject": "Grace",
+      "entities": [
+        "grace"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Grace, 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "grace"
+        ]
+      },
+      "_said": "She steps into that white room and she looks at a hundred frantic, desperate paintings of Grace. The realization she has there, right?"
+    },
+    {
+      "fp": "6c5ycc",
+      "i": 120,
+      "from": 35222,
+      "subject": "Grace",
+      "entities": [
+        "grace"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Grace, holding her hand, 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "grace"
+        ]
+      },
+      "_said": "She realizes in that single moment that she's competing with a phantom. She has the physical boy holding her hand, but Pash's soul is perpetually trying to resurrect Grace on canva"
+    },
+    {
+      "fp": "fb9f1r",
+      "i": 121,
+      "from": 35537,
+      "subject": "Misty — coin",
+      "entities": [
+        "misty"
+      ],
+      "concept": "coin",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Misty, reach him there, 1975"
+      },
+      "antidote": {
+        "concept": "coin",
+        "cast": [
+          "misty"
+        ]
+      },
+      "_said": "He is entirely consumed by the debt he owes the dark, and Misty can never ever reach him there. It is a devastating realization for Misty, but honestly, it is a necessary one."
+    },
+    {
+      "fp": "51od1",
+      "i": 122,
+      "from": 35866,
+      "subject": "Sammy — law",
+      "entities": [
+        "sammy"
+      ],
+      "concept": "law",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Sammy, 1975"
+      },
+      "antidote": {
+        "concept": "law",
+        "set": null,
+        "cast": [
+          "sammy"
+        ]
+      },
+      "_said": "It is the visual proof of Patch's internal prison. Okay, but I want to focus on Sammy for a minute, though, because this arrangement deeply unsettles me."
+    },
+    {
+      "fp": "1uc16ug",
+      "i": 123,
+      "from": 36091,
+      "subject": "Sammy",
+      "entities": [
+        "sammy"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Sammy, 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "sammy"
+        ]
+      },
+      "_said": "Really? Why? I look at this setup and I see a massive ethical red flag. Sammy takes a deeply traumatized kid, a kid who was literally held captive in a windowless"
+    },
+    {
+      "fp": "1410fap",
+      "i": 124,
+      "from": 36449,
+      "subject": "Sammy — chains",
+      "entities": [
+        "sammy"
+      ],
+      "concept": "chains",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Sammy, 1975"
+      },
+      "antidote": {
+        "concept": "chains",
+        "cast": [
+          "sammy"
+        ]
+      },
+      "_said": "room, and he gives him another windowless room. I see where you're going. It feels like taking a rescue dog who was abused in a cage, and saying, \"Here, you can live in this nicer "
+    },
+    {
+      "fp": "15jhhut",
+      "i": 125,
+      "from": 36835,
+      "subject": "Sammy",
+      "entities": [
+        "sammy"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Sammy, 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "sammy"
+        ]
+      },
+      "_said": "a broken kid? He locks him in a white box to paint masterpieces born of agony, which Sammy can eventually sell to wealthy art collectors."
+    },
+    {
+      "fp": "nj6fau",
+      "i": 126,
+      "from": 37082,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "It just feels predatory to I understand that perspective. It absolutely looks predatory on the surface. The aesthetics of the white room are undeniably triggering."
+    },
+    {
+      "fp": "z0o9td",
+      "i": 127,
+      "from": 37337,
+      "subject": "Sammy — shield",
+      "entities": [
+        "sammy"
+      ],
+      "concept": "shield",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Sammy, 1975"
+      },
+      "antidote": {
+        "concept": "shield",
+        "cast": [
+          "sammy"
+        ]
+      },
+      "_said": "Very triggering. But if we dig deeper into the psychology of containment, Sammy actually understands Patch's needs far better than the well-meaning town of Montlair Okay, defend Sa"
+    },
+    {
+      "fp": "1otbmg3",
+      "i": 128,
+      "from": 37656,
+      "subject": "Patch — mask",
+      "entities": [
+        "patch"
+      ],
+      "concept": "mask",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Patch, 1975"
+      },
+      "antidote": {
+        "concept": "mask",
+        "cast": [
+          "patch"
+        ]
+      },
+      "_said": "Think about what the town wants. The town wants Patch to exist in the open, boundless world and pretend the basement never happened."
+    },
+    {
+      "fp": "1k8irwd",
+      "i": 129,
+      "from": 37896,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "That is terrifying for someone whose entire reality was compressed into a 19x5 ft space. That's true. The lack of boundaries would be awful."
+    },
+    {
+      "fp": "x0f4md",
+      "i": 130,
+      "from": 38158,
+      "subject": "Sammy — crack",
+      "entities": [
+        "sammy"
+      ],
+      "concept": "crack",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Sammy, 1975"
+      },
+      "antidote": {
+        "concept": "crack",
+        "cast": [
+          "sammy"
+        ]
+      },
+      "_said": "Sammy recognizes that Patch's internal containment is completely shattered. So what does he do? He provides external The windowless white room isn't a punishment."
+    },
+    {
+      "fp": "1a254",
+      "i": 131,
+      "from": 38448,
+      "subject": "Patch — butterfly",
+      "entities": [
+        "patch"
+      ],
+      "concept": "butterfly",
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Patch, 1975"
+      },
+      "antidote": {
+        "concept": "butterfly",
+        "set": null,
+        "cast": [
+          "patch"
+        ]
+      },
+      "_said": "It is a blank canvas for his trauma. It is an environment where sensory input is minimized so patch can project his internal chaos outward like a controlled burn. Exactly."
+    },
+    {
+      "fp": "1wh9e8k",
+      "i": 132,
+      "from": 38810,
+      "subject": "Sammy",
+      "entities": [
+        "sammy"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Sammy, weeping when he looks at the raw emotion in pat, 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "sammy"
+        ]
+      },
+      "_said": "And Sammy doesn't demand a performance of normaly. We see scenes where Sammy is openly weeping when he looks at the raw emotion in Patch's art."
+    },
+    {
+      "fp": "190hhvo",
+      "i": 133,
+      "from": 39046,
+      "subject": "Sammy — law",
+      "entities": [
+        "sammy"
+      ],
+      "concept": "law",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Sammy, 1975"
+      },
+      "antidote": {
+        "concept": "law",
+        "set": null,
+        "cast": [
+          "sammy"
+        ]
+      },
+      "_said": "Sammy gives him a safe controlled version of his prison so he can bleed the trauma out onto the campus instead of letting it rot inside him. Wow. Okay, that is a profound reframing"
+    },
+    {
+      "fp": "yb1byx",
+      "i": 134,
+      "from": 39310,
+      "subject": "Patch and Sammy — chains",
+      "entities": [
+        "patch",
+        "sammy"
+      ],
+      "concept": "chains",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Patch and Sammy, standing in the blinding light of freedom, 1975"
+      },
+      "antidote": {
+        "concept": "chains",
+        "cast": [
+          "patch",
+          "sammy"
+        ]
+      },
+      "_said": "Sammy is giving him an airlock between the basement and the real world. An airlock. I love that. So Patch is physically standing in the blinding light of freedom, but mentally, vis"
+    },
+    {
+      "fp": "1b7eknu",
+      "i": 135,
+      "from": 39626,
+      "subject": "Grace",
+      "entities": [
+        "grace"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Grace, 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "grace"
+        ]
+      },
+      "_said": "frantically trying to manifest the vibrant, agonizing colors he painted in the dark. Exactly. And that frantic need to prove that the dark was real, that grace was real, is what pr"
+    },
+    {
+      "fp": "62hd74",
+      "i": 136,
+      "from": 40013,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "and into a decadesl long cross-country epic. Which brings us to the Phantom Manhunt. Because we drop into the action years later and the genre of the book seems to completely shift"
+    },
+    {
+      "fp": "1kitgp5",
+      "i": 137,
+      "from": 40325,
+      "subject": "Patch — gift",
+      "entities": [
+        "patch"
+      ],
+      "concept": "gift",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Patch, walks through the glass doors of a south atla, 1975"
+      },
+      "antidote": {
+        "concept": "gift",
+        "cast": [
+          "patch"
+        ]
+      },
+      "_said": "almost giving you It really does. Patch walks through the glass doors of a South Atlantic bank. He's cold, calculated."
+    },
+    {
+      "fp": "1m0hhsk",
+      "i": 138,
+      "from": 40546,
+      "subject": "road",
+      "entities": [],
+      "concept": "road",
+      "place": "highway",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "road, highway, 1975"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": "highway",
+        "cast": []
+      },
+      "_said": "He pulls a weapon, puts a gun directly in the face of a terrified young teller, fills a duffel bag with cash, and speeds away down Interstate He's narrowly avoiding a highway patro"
+    },
+    {
+      "fp": "1xoqz4j",
+      "i": 139,
+      "from": 40858,
+      "subject": "road",
+      "entities": [],
+      "concept": "road",
+      "place": "highway",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "road, highway, 1975"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": "highway",
+        "cast": []
+      },
+      "_said": "for three miles. Yeah, it is a high octane heist Then we have to ask why. Why does the traumatized boy become the bank robber?"
+    },
+    {
+      "fp": "16jnmib",
+      "i": 140,
+      "from": 41081,
+      "subject": "Patch — ledge",
+      "entities": [
+        "patch"
+      ],
+      "concept": "ledge",
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Patch, 1975"
+      },
+      "antidote": {
+        "concept": "ledge",
+        "set": null,
+        "cast": [
+          "patch"
+        ]
+      },
+      "_said": "Right? It seems like such a leap. Here is what that behavioral shift means for you. Looking at the extremes of human motivation, Patch isn't your typical criminal driven by greed o"
+    },
+    {
+      "fp": "1kmqq6f",
+      "i": 141,
+      "from": 41422,
+      "subject": "Grace — coin",
+      "entities": [
+        "grace"
+      ],
+      "concept": "coin",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Grace, 1975"
+      },
+      "antidote": {
+        "concept": "coin",
+        "cast": [
+          "grace"
+        ]
+      },
+      "_said": "No, not at all. He takes this stolen cash and funnels it entirely into the Harvey Robin Foundation, using it to finance a relentless interstate hunt for grace."
+    },
+    {
+      "fp": "1jw2pce",
+      "i": 142,
+      "from": 41712,
+      "subject": "law",
+      "entities": [],
+      "concept": "law",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "law, 1975"
+      },
+      "antidote": {
+        "concept": "law",
+        "set": null,
+        "cast": []
+      },
+      "_said": "He's funding his own manhunt, right? And why resort to armed robbery? Because when every single authority figure, the police, the town, the FBI, labels the girl who"
+    },
+    {
+      "fp": "irp1sh",
+      "i": 143,
+      "from": 42026,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "saved your life a fever dream, a hallucination. Quitting the search means agreeing that you are fundamentally insane. It means accepting that your mind is broken."
+    },
+    {
+      "fp": "1lho1n",
+      "i": 144,
+      "from": 42310,
+      "subject": "fire",
+      "entities": [],
+      "concept": "fire",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "fire, 1975"
+      },
+      "antidote": {
+        "concept": "fire",
+        "cast": []
+      },
+      "_said": "And he can't do that. No. For you listening, this dynamic perfectly explains why individuals will sometimes burn their own life to the ground, break laws, and destroy their reputat"
+    },
+    {
+      "fp": "1vye5zt",
+      "i": 145,
+      "from": 42622,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "for a cause that seems utterly irrational to the outside world. It is the only conceivable way to preserve their own internal reality."
+    },
+    {
+      "fp": "1j4x4r0",
+      "i": 146,
+      "from": 42833,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "He has to prove she physically existed so he knows that he physically exists. If she isn't real, then his survival isn't real."
+    },
+    {
+      "fp": "1i5plm9",
+      "i": 147,
+      "from": 43044,
+      "subject": "Patch and Walter — road",
+      "entities": [
+        "patch",
+        "walter"
+      ],
+      "concept": "road",
+      "place": "highway",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Patch and Walter, highway, 1975"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": "highway",
+        "cast": [
+          "patch",
+          "walter"
+        ]
+      },
+      "_said": "And this obsession leads to one of the most heartbreaking scenes in the entire novel. Patch is traveling the country and he meets Walter Strike. Yeah. Walter is this older, frail"
+    },
+    {
+      "fp": "qtvf80",
+      "i": 148,
+      "from": 43358,
+      "subject": "Eloise — family",
+      "entities": [
+        "eloise"
+      ],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Eloise, 1975"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": [
+          "eloise"
+        ]
+      },
+      "_said": "man with a cane living in a frozen, desolate town in Marian County. Walter's daughter Eloise went missing years ago."
+    },
+    {
+      "fp": "ycjxrl",
+      "i": 149,
+      "from": 43577,
+      "subject": "Patch and Grace — family",
+      "entities": [
+        "patch",
+        "grace"
+      ],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Patch and Grace, 1975"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": [
+          "patch",
+          "grace"
+        ]
+      },
+      "_said": "And Patch isn't just looking for grace. He is painting portraits of these missing girls for their devastated parents. It's so sad."
+    },
+    {
+      "fp": "aopn6v",
+      "i": 150,
+      "from": 43778,
+      "subject": "Walter — road",
+      "entities": [
+        "walter"
+      ],
+      "concept": "road",
+      "place": "highway",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Walter, sits with walter, highway, 1975"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": "highway",
+        "cast": [
+          "walter"
+        ]
+      },
+      "_said": "He travels from the humid Texas coast all the way to the frozen canals of the North. And as he sits with Walter, he realizes something horrifying about ambiguous loss."
+    },
+    {
+      "fp": "z8wtl1",
+      "i": 151,
+      "from": 44078,
+      "subject": "Walter and Eloise",
+      "entities": [
+        "walter",
+        "eloise"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Walter and Eloise, 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "walter",
+          "eloise"
+        ]
+      },
+      "_said": "For these families, hope is its own kind of agonizing punishment. It truly is. Walter knows deep down that Eloise is likely dead, but the 1% chance that she is alive keeps him trap"
+    },
+    {
+      "fp": "nhjhz9",
+      "i": 152,
+      "from": 44470,
+      "subject": "Patch and Walter — mirror",
+      "entities": [
+        "patch",
+        "walter"
+      ],
+      "concept": "mirror",
+      "place": "bedroom",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Patch and Walter, bedroom, 1975"
+      },
+      "antidote": {
+        "concept": "mirror",
+        "set": "bedroom",
+        "cast": [
+          "patch",
+          "walter"
+        ]
+      },
+      "_said": "Patch looks at Walter and sees his own reflection. He sees the terminal disease of hope. Because hope without the possibility of resolution is a unique, exquisite kind of psycholog"
+    },
+    {
+      "fp": "1azu8ra",
+      "i": 153,
+      "from": 44810,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "torture. It prevents the grieving process from ever It's a wound that can't close. But okay, I have to stop and look at Patch's actions objectively here."
+    },
+    {
+      "fp": "17etsyb",
+      "i": 154,
+      "from": 45029,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Let's do it. We can deeply empathize with his pain. We understand the poetry of his internal struggle, the terminal disease of hope, all of it."
+    },
+    {
+      "fp": "hdy85s",
+      "i": 155,
+      "from": 45266,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "war, walking into federal banks with a loaded weapon, 1975"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "But let's look at the reality of his behavior. He is walking into federal banks with a loaded weapon. Yes, he is."
+    },
+    {
+      "fp": "4rn6ea",
+      "i": 156,
+      "from": 45485,
+      "subject": "coin",
+      "entities": [],
+      "concept": "coin",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "coin, 1975"
+      },
+      "antidote": {
+        "concept": "coin",
+        "cast": []
+      },
+      "_said": "He is pointing guns at the heads of innocent tellers who are just trying to earn a paycheck. He is inflicting severe trauma on bystanders to fund his own personal crusade."
+    },
+    {
+      "fp": "1ge1vlh",
+      "i": 157,
+      "from": 45790,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "At a certain point, doesn't his unresolved trauma just become an alibi for villain? Oo, that's a tough question. Doesn't he become the monster he survived?"
+    },
+    {
+      "fp": "9aa9ew",
+      "i": 158,
+      "from": 46027,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "I mean, he's traumatizing people in enclosed spaces. This is the moral fiction that elevates the novel from a simple thriller to a profound ethical inquiry."
+    },
+    {
+      "fp": "dmbnts",
+      "i": 159,
+      "from": 46310,
+      "subject": "Patch",
+      "entities": [
+        "patch"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Patch, 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "patch"
+        ]
+      },
+      "_said": "Is Patch a villain? Well, is he? If you measure him by the yard stick of federal law and societal norms, absolutely. He's a violent felon."
+    },
+    {
+      "fp": "1sy7vi7",
+      "i": 160,
+      "from": 46546,
+      "subject": "compass",
+      "entities": [],
+      "concept": "compass",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "compass, 1975"
+      },
+      "antidote": {
+        "concept": "compass",
+        "cast": []
+      },
+      "_said": "But psychologically, Pasha's moral compass is perfectly immaculately calibrated. Calibrated to what, though? That's the tragedy."
+    },
+    {
+      "fp": "1hv5tc3",
+      "i": 161,
+      "from": 46783,
+      "subject": "compass",
+      "entities": [],
+      "concept": "compass",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "compass, 1975"
+      },
+      "antidote": {
+        "concept": "compass",
+        "cast": []
+      },
+      "_said": "The real friction is that his compass is calibrated to the ethics of the basement, not to the ethics of polite society. Oh, wow. In the basement, the only law was survival and the "
+    },
+    {
+      "fp": "vdkxwo",
+      "i": 162,
+      "from": 47158,
+      "subject": "Grace — coin",
+      "entities": [
+        "grace"
+      ],
+      "concept": "coin",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Grace, 1975"
+      },
+      "antidote": {
+        "concept": "coin",
+        "cast": [
+          "grace"
+        ]
+      },
+      "_said": "self-sacrificing devotion. He is operating on a survival ethic where federal statutes are completely meaningless compared to his unpaid debt to grace. So, he just doesn't care abou"
+    },
+    {
+      "fp": "rc1doi",
+      "i": 163,
+      "from": 47518,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "laws. He willingly trades societal morality for basement morality. He doesn't care about being a good citizen because society's definition of good left him to rot in the dark."
+    },
+    {
+      "fp": "d1lq9m",
+      "i": 164,
+      "from": 47839,
+      "subject": "law",
+      "entities": [],
+      "concept": "law",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "law, 1975"
+      },
+      "antidote": {
+        "concept": "law",
+        "set": null,
+        "cast": []
+      },
+      "_said": "God, that's powerful. He will tear down the entire legal framework of the United States if it helps him prove that all the colors of the dark, that the girl in the dark was He abso"
+    },
+    {
+      "fp": "1yh2es2",
+      "i": 165,
+      "from": 48158,
+      "subject": "star",
+      "entities": [],
+      "concept": "star",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "star, 1975"
+      },
+      "antidote": {
+        "concept": "star",
+        "set": null,
+        "cast": []
+      },
+      "_said": "will. And this outlaw trajectory puts him on a direct devastating collision course with the one person who never stopped looking for him in the light."
+    },
+    {
+      "fp": "1ng3220",
+      "i": 166,
+      "from": 48413,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "the just position between who they become as adults is the structural spine of the novel second half. Let's paint that contrast because it is cinematic perfection, please. St. Brow"
+    },
+    {
+      "fp": "17isnu1",
+      "i": 167,
+      "from": 48742,
+      "subject": "home",
+      "entities": [],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "home, sits alone in her dark, 1975"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": []
+      },
+      "_said": "She sits alone in her dark, sparse apartment, the blinds tightly closed against the world. She is sitting in the glow of a tape deck, listening to old police interview tapes of"
+    },
+    {
+      "fp": "mp3gs9",
+      "i": 168,
+      "from": 49070,
+      "subject": "Patch and Saint",
+      "entities": [
+        "patch",
+        "saint"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Patch and Saint, 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "patch",
+          "saint"
+        ]
+      },
+      "_said": "a young, freshly rescued patch, echoing the words, \"I miss her.\" Just letting it haunt her. And Saint uses her FBI resources, her badge, her authority. She makes a highly calculate"
+    },
+    {
+      "fp": "1y2n48k",
+      "i": 169,
+      "from": 49433,
+      "subject": "Patch — work",
+      "entities": [
+        "patch"
+      ],
+      "concept": "work",
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Patch, 1975"
+      },
+      "antidote": {
+        "concept": "work",
+        "set": null,
+        "cast": [
+          "patch"
+        ]
+      },
+      "_said": "risky trade with her boss, Heim. Very risky trade. She essentially agrees to become the ultimate hunter of bank robbers, to hunt the very criminals Patch has become if Heimmes lets"
+    },
+    {
+      "fp": "1t6u9c6",
+      "i": 170,
+      "from": 49774,
+      "subject": "Grace",
+      "entities": [
+        "grace"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Grace, 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "grace"
+        ]
+      },
+      "_said": "the sheer power of the federal system to look for grace. She is relentless weaponizing the bureaucracy to serve her childhood grief."
+    },
+    {
+      "fp": "1a66527",
+      "i": 171,
+      "from": 49985,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "If we synthesize this dynamic, we are looking at two halves of a single fractured Missouri childhood, racing across the American landscape on parallel tracks of furious devotion. I"
+    },
+    {
+      "fp": "11n5k7o",
+      "i": 172,
+      "from": 50326,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "carrying a stolen gun and breaking every rule, 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "One hunts shadows from within the system, wearing a federal badge and leveraging institutional power. The other hunts shadows entirely outside the system, carrying a stolen gun and"
+    },
+    {
+      "fp": "1sx2sl2",
+      "i": 173,
+      "from": 50638,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "For you, the listener, it's a brilliant demonstration of how a shared foundational trauma can dictate the entire framework of your life."
+    },
+    {
+      "fp": "1qhvbcv",
+      "i": 174,
+      "from": 50885,
+      "subject": "home",
+      "entities": [],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "home, walk through to search for the exit, 1975"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": []
+      },
+      "_said": "The trauma built the house they both live in. They just chose different doors to walk through to search for the exit. It's so deeply sad to see them separated by the very mechanism"
+    },
+    {
+      "fp": "1e5y8f5",
+      "i": 175,
+      "from": 51218,
+      "subject": "Patch — law",
+      "entities": [
+        "patch"
+      ],
+      "concept": "law",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Patch, sitting in a federal prison on sea level for ba, 1975"
+      },
+      "antidote": {
+        "concept": "law",
+        "set": null,
+        "cast": [
+          "patch"
+        ]
+      },
+      "_said": "Yes. Like in one pivotal sequence, Patch is literally sitting in a federal prison on sea level for bank robbery. He is wearing a jumpsuit surrounded by cinder block, iron bars, and"
+    },
+    {
+      "fp": "dc3np0",
+      "i": 176,
+      "from": 51598,
+      "subject": "Saint",
+      "entities": [
+        "saint"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Saint, 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "saint"
+        ]
+      },
+      "_said": "talking to his old friend Marty Tombs. Meanwhile, Saint is an FBI agent operating on the outside. They are physically divided by federal law, by iron and concrete, but they are ent"
+    },
+    {
+      "fp": "1g4mcmz",
+      "i": 177,
+      "from": 51977,
+      "subject": "Saint — target",
+      "entities": [
+        "saint"
+      ],
+      "concept": "target",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Saint, 1975"
+      },
+      "antidote": {
+        "concept": "target",
+        "cast": [
+          "saint"
+        ]
+      },
+      "_said": "united by their shared mission to find a ghost. They're twin reflections of the exact same wound. But and I have to throw a flag on Saint Nobody does hear it."
+    },
+    {
+      "fp": "vyx59g",
+      "i": 178,
+      "from": 52202,
+      "subject": "Patch",
+      "entities": [
+        "patch"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Patch, 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "patch"
+        ]
+      },
+      "_said": "I have to challenge her integrity. She is a sworn officer of a law. She took an She did. If she is actively tracking Patch and she knows he is committing armed federal crimes, but "
+    },
+    {
+      "fp": "f6nxw8",
+      "i": 179,
+      "from": 52529,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "to grime in because of their childhood bond, isn't she entirely compromised? Oh, I She is essentially a rogue agent harboring a violent fugitive in her heart while wearing an FBI b"
+    },
+    {
+      "fp": "1jelvl2",
+      "i": 180,
+      "from": 52910,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "That is a fundamental betrayal of her oath. Where is her integrity? From a purely administrative standpoint, you are absolutely right."
+    },
+    {
+      "fp": "ayzvmv",
+      "i": 181,
+      "from": 53122,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "She is But we have to look at her hierarchy of loyalty. Her integrity is completely intact, but it is tethered to a higher older law higher than the FBI."
+    },
+    {
+      "fp": "18krz26",
+      "i": 182,
+      "from": 53398,
+      "subject": "Patch — law",
+      "entities": [
+        "patch"
+      ],
+      "concept": "law",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Patch, 1975"
+      },
+      "antidote": {
+        "concept": "law",
+        "set": null,
+        "cast": [
+          "patch"
+        ]
+      },
+      "_said": "To her, yes. Her loyalty to Pash supersedes her loyalty to the FBI badge. Why? Because she knows better than any judge or jury that the system failed Patch completely at age"
+    },
+    {
+      "fp": "khpgay",
+      "i": 183,
+      "from": 53726,
+      "subject": "tree",
+      "entities": [],
+      "concept": "tree",
+      "place": "forest",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "tree, forest, 1975"
+      },
+      "antidote": {
+        "concept": "tree",
+        "set": "forest",
+        "cast": []
+      },
+      "_said": "13. That's true. They gave up on him. The system let him get swallowed by the woods. The system stopped looking for him. She refuses to let that same flawed, apathetic system crush"
+    },
+    {
+      "fp": "5uu1o4",
+      "i": 184,
+      "from": 54077,
+      "subject": "law",
+      "entities": [],
+      "concept": "law",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "law, 1975"
+      },
+      "antidote": {
+        "concept": "law",
+        "set": null,
+        "cast": []
+      },
+      "_said": "of legal justice. She is attempting to balance the scales of a cosmic existential injustice. She views the law as a tool, not a deity. Wow. She is using the master's"
+    },
+    {
+      "fp": "wjvkev",
+      "i": 185,
+      "from": 54391,
+      "subject": "home",
+      "entities": [],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "home, 1975"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": []
+      },
+      "_said": "tools to dismantle the master's house. All in service of the truth. And they are both just chasing the reality they know is hidden out there."
+    },
+    {
+      "fp": "1d3o7r4",
+      "i": 186,
+      "from": 54662,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Which brings us inevitably to the devastating climax of the novel. The truth when it finally breaks the surface is horrifying and it fundamentally rewrites everything we and the ch"
+    },
+    {
+      "fp": "8nvgqx",
+      "i": 187,
+      "from": 55030,
+      "subject": "water",
+      "entities": [],
+      "concept": "water",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "water, standing at lake white rock, 1975"
+      },
+      "antidote": {
+        "concept": "water",
+        "set": null,
+        "cast": []
+      },
+      "_said": "about the nature of the We are standing at Lake White Rock. The geography itself feels broken. The earth is charred, coarse, erodable."
+    },
+    {
+      "fp": "p2q7xt",
+      "i": 188,
+      "from": 55301,
+      "subject": "Patch and Saint — home",
+      "entities": [
+        "patch",
+        "saint"
+      ],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Patch and Saint, standing together looking at the burned, 1975"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": [
+          "patch",
+          "saint"
+        ]
+      },
+      "_said": "Patch and Saint are standing together looking at the burned, smoking remains of Eli Aaron's house. Just a devastating scene."
+    },
+    {
+      "fp": "1f34jr7",
+      "i": 189,
+      "from": 55512,
+      "subject": "Grace",
+      "entities": [
+        "grace"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Grace, 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "grace"
+        ]
+      },
+      "_said": "And the staggering, horrifying truth finally drops. Grace was never a ghost. She was never a hallucination born of sensory deprivation."
+    },
+    {
+      "fp": "haw7xm",
+      "i": 190,
+      "from": 55759,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "family, 1975"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": []
+      },
+      "_said": "She was Eli Aaron's own captive daughter. It's just, it's unthinkable. She was held for three decades, largely in a barn, coerced into his horrific crimes, forced to error a hell t"
+    },
+    {
+      "fp": "nh9e2k",
+      "i": 191,
+      "from": 56124,
+      "subject": "Patch",
+      "entities": [
+        "patch"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Patch, 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "patch"
+        ]
+      },
+      "_said": "like a fraction of the nightmare. The impact of this revelation on the narrative is profound. Think about what this means. It changes everything. Patch lifelong delusion."
+    },
+    {
+      "fp": "7nkegf",
+      "i": 192,
+      "from": 56402,
+      "subject": "law",
+      "entities": [],
+      "concept": "law",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "law, 1975"
+      },
+      "antidote": {
+        "concept": "law",
+        "set": null,
+        "cast": []
+      },
+      "_said": "The girl, everyone from his girlfriend to the police to the therapist told him he hallucinated to cope with the trauma was a flesh and blood reality."
+    },
+    {
+      "fp": "8xoou5",
+      "i": 193,
+      "from": 56671,
+      "subject": "compass",
+      "entities": [],
+      "concept": "compass",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "compass, 1975"
+      },
+      "antidote": {
+        "concept": "compass",
+        "cast": []
+      },
+      "_said": "He was right all along. His internal traumatized compass was the only accurate moral compass in the entire country. For you, this serves as a staggering, humbling"
+    },
+    {
+      "fp": "raf0pq",
+      "i": 194,
+      "from": 56986,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "reminder that the most unbelievable truths are often held by the very people society is quickest to dismiss as broken, traumatized, or the man everyone called crazy was the only on"
+    },
+    {
+      "fp": "ya9adi",
+      "i": 195,
+      "from": 57370,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "saw the monster operating in plain sight. It's chilling. It vindicates his entire life's obsession, but at the most terrible cost."
+    },
+    {
+      "fp": "1ee014m",
+      "i": 196,
+      "from": 57574,
+      "subject": "Patch — chains",
+      "entities": [
+        "patch"
+      ],
+      "concept": "chains",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Patch, whispered confession to patch when they finally r, 1975"
+      },
+      "antidote": {
+        "concept": "chains",
+        "cast": [
+          "patch"
+        ]
+      },
+      "_said": "And then you get Grace's whispered confession to Patch when they finally reunite. Oh, this broke me. She looks at him after 30 years of unimaginable suffering and she tells him, \"I"
+    },
+    {
+      "fp": "14w6opk",
+      "i": 197,
+      "from": 57912,
+      "subject": "Patch — shield",
+      "entities": [
+        "patch"
+      ],
+      "concept": "shield",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Patch, 1975"
+      },
+      "antidote": {
+        "concept": "shield",
+        "cast": [
+          "patch"
+        ]
+      },
+      "_said": "killed me.\" The ultimate sacrifice. She stayed in that barn. She endured three decades of torture specifically to keep Patch safe from her father."
+    },
+    {
+      "fp": "9zyqgg",
+      "i": 198,
+      "from": 58138,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "She traded her entire existence for his, just like he traded his childhood for Misty's all those years ago in the It is a closed, agonizing loop of ultimate sacrifice. The heroism "
+    },
+    {
+      "fp": "qugl21",
+      "i": 199,
+      "from": 58474,
+      "subject": "Grace",
+      "entities": [
+        "grace"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Grace, wait into the darkest nuance of this book ri, 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "grace"
+        ]
+      },
+      "_said": "an isolated incident. It was a contagion of grace, literally and figuratively. But we have to wait into the darkest nuance of this book right now."
+    },
+    {
+      "fp": "rjcapv",
+      "i": 200,
+      "from": 58733,
+      "subject": "Grace — gift",
+      "entities": [
+        "grace"
+      ],
+      "concept": "gift",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Grace, 1975"
+      },
+      "antidote": {
+        "concept": "gift",
+        "cast": [
+          "grace"
+        ]
+      },
+      "_said": "Let's go there. We have to talk about Grace's proximity to Eli's crimes. If Grace was with Eli Erin for 30 years, if she had Tim, if she was present for his abductions and his murd"
+    },
+    {
+      "fp": "1ga72kk",
+      "i": 201,
+      "from": 59088,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "make her It's the hardest question in the book. The law would look at her as an accomplice. Is she purely a victim or did the trauma warp her into becoming a monster by proxy?"
+    },
+    {
+      "fp": "fhcyoj",
+      "i": 202,
+      "from": 59371,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Does Stockholm syndrome absolve you of participation in We cannot look away from the absolute horror of this dynamic. It is the most challenging moral question the book Physically,"
+    },
+    {
+      "fp": "aen8n9",
+      "i": 203,
+      "from": 59777,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "yes, she was complicit, but psychologically she was the ultimate hostage. Her complicity was not born of malice."
+    },
+    {
+      "fp": "1obz6g1",
+      "i": 204,
+      "from": 59983,
+      "subject": "Patch — chains",
+      "entities": [
+        "patch"
+      ],
+      "concept": "chains",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Patch, 1975"
+      },
+      "antidote": {
+        "concept": "chains",
+        "cast": [
+          "patch"
+        ]
+      },
+      "_said": "It was the ultimate act of Protect patch. She surrendered not just her physical freedom but her own morality, her own soul, her own sense of goodness solely to keep the boy she lov"
+    },
+    {
+      "fp": "ghveac",
+      "i": 205,
+      "from": 60331,
+      "subject": "Patch — heart",
+      "entities": [
+        "patch"
+      ],
+      "concept": "heart",
+      "place": "cafe",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Patch, cafe, 1975"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": "cafe",
+        "cast": [
+          "patch"
+        ]
+      },
+      "_said": "alive. She agreed to become a monster in the eyes of the world so that Patch could it is a love so extreme, so absolute"
+    },
+    {
+      "fp": "pxdjp1",
+      "i": 206,
+      "from": 60653,
+      "subject": "chains",
+      "entities": [],
+      "concept": "chains",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "chains, 1975"
+      },
+      "antidote": {
+        "concept": "chains",
+        "cast": []
+      },
+      "_said": "that it requires total self She was the true architect of his survival. She was the one who commanded him to paint all the colors of the dark so his mind wouldn't shatter. And then"
+    },
+    {
+      "fp": "174isso",
+      "i": 207,
+      "from": 60977,
+      "subject": "Saint — star",
+      "entities": [
+        "saint"
+      ],
+      "concept": "star",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Saint, 1975"
+      },
+      "antidote": {
+        "concept": "star",
+        "set": null,
+        "cast": [
+          "saint"
+        ]
+      },
+      "_said": "the dark for 30 years so he could live in the light. And the crushing weight of that debt of that sacrifice brings us to the final showdown and the ultimate impossible choice Saint"
+    },
+    {
+      "fp": "1obhpxj",
+      "i": 208,
+      "from": 61344,
+      "subject": "storm",
+      "entities": [],
+      "concept": "storm",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "storm, 1975"
+      },
+      "antidote": {
+        "concept": "storm",
+        "set": null,
+        "cast": []
+      },
+      "_said": "The violence has ended. The storm clouds finally break. Sketching the horizon in bright blue skies. A moment of peace."
+    },
+    {
+      "fp": "1nzqel7",
+      "i": 209,
+      "from": 61548,
+      "subject": "Saint",
+      "entities": [
+        "saint"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Saint, falls to her knees on the charred earth, 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "saint"
+        ]
+      },
+      "_said": "Finally. Saint, heavily battered, falls to her knees on the charred earth. She is coughing. Her chest is weak. But the FBI agent in her takes over."
+    },
+    {
+      "fp": "1qfiyq5",
+      "i": 210,
+      "from": 61776,
+      "subject": "Patch — war",
+      "entities": [
+        "patch"
+      ],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Patch, holds it dead level at patch's chest, 1975"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": [
+          "patch"
+        ]
+      },
+      "_said": "muscle memory. She raises her federally issued weapon and she holds it dead level at Patch's chest. Patch has just killed Eli Aaron to save her life. He turns, looks down the barre"
+    },
+    {
+      "fp": "1v4azp9",
+      "i": 211,
+      "from": 62112,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "best friend's gun, and he raises his hands in surrender. He looks at her tears and he actually smiles. In the distance, the whale of sirens grows louder. The net of the law is clos"
+    },
+    {
+      "fp": "szm2tb",
+      "i": 212,
+      "from": 62453,
+      "subject": "Saint",
+      "entities": [
+        "saint"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Saint, 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "saint"
+        ]
+      },
+      "_said": "This is the crucible. This is where a saint must finally permanently choose between institutional justice and human which is such a massive theme for you, the listener."
+    },
+    {
+      "fp": "ggb2qa",
+      "i": 213,
+      "from": 62762,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "It asks the most profound philosophical question of the story. What does justice actually mean when the rigidity of the law is entirely unequipped to measure the scope of a 30-year"
+    },
+    {
+      "fp": "1wx71jy",
+      "i": 214,
+      "from": 63098,
+      "subject": "Patch",
+      "entities": [
+        "patch"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Patch, 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "patch"
+        ]
+      },
+      "_said": "The law can't comprehend it. The law is binary. The law says Patch is a bank robber and a murderer. The law is entirely blind to the basement, blind to Grace's sacrifice, blind to "
+    },
+    {
+      "fp": "w9b87h",
+      "i": 215,
+      "from": 63449,
+      "subject": "Patch and Saint",
+      "entities": [
+        "patch",
+        "saint"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Patch and Saint, 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "patch",
+          "saint"
+        ]
+      },
+      "_said": "dead. The dialogue in this moment absolutely ruins me. Patch looks at Saint the gun pointed right at his heart. And he says with total peace, you look after everyone. You do the ri"
+    },
+    {
+      "fp": "14t7bex",
+      "i": 216,
+      "from": 63770,
+      "subject": "law",
+      "entities": [],
+      "concept": "law",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "law, 1975"
+      },
+      "antidote": {
+        "concept": "law",
+        "set": null,
+        "cast": []
+      },
+      "_said": "and I love you for it. He expects her to arrest him. He is fully prepared to go to federal prison for the rest of his life."
+    },
+    {
+      "fp": "1n2wk5z",
+      "i": 217,
+      "from": 63986,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "reaches down, 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "He accepts that she has to be the cop, but saying she reaches down. She slips the metal handcuffs off her belt, but she doesn't use them."
+    },
+    {
+      "fp": "42ntp1",
+      "i": 218,
+      "from": 64231,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "war, walk forward, 1975"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "She doesn't walk forward. She doesn't use them. Slowly, she lowers her weapon. She looks at the boy she spent her entire life trying to save, and she tells him, \"They're coming for"
+    },
+    {
+      "fp": "1eswtj0",
+      "i": 219,
+      "from": 64584,
+      "subject": "Grace",
+      "entities": [
+        "grace"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Grace, 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "grace"
+        ]
+      },
+      "_said": "And she lets the outlaw turn around and vanish into the trees. It is an act of profound rulebreaking grace. It is the ultimate testament to their bond. But oh, wait."
+    },
+    {
+      "fp": "1pte5rw",
+      "i": 220,
+      "from": 64896,
+      "subject": "Saint",
+      "entities": [
+        "saint"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Saint, walk away from a murder scene, 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "saint"
+        ]
+      },
+      "_said": "I have to play the cynic here again. Go for it. By lowering that gun, by letting him walk away from a murder scene, Saint objectively becomes an accomplice after the fact."
+    },
+    {
+      "fp": "95nq3x",
+      "i": 221,
+      "from": 65172,
+      "subject": "chains",
+      "entities": [],
+      "concept": "chains",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "chains, 1975"
+      },
+      "antidote": {
+        "concept": "chains",
+        "cast": []
+      },
+      "_said": "Legally, yes. She ruins her entire career. She burns down everything she built to escape her own poverty and trauma."
+    },
+    {
+      "fp": "q0u0un",
+      "i": 222,
+      "from": 65369,
+      "subject": "fire",
+      "entities": [],
+      "concept": "fire",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "fire, 1975"
+      },
+      "antidote": {
+        "concept": "fire",
+        "cast": []
+      },
+      "_said": "She chooses to be a criminal. She sacrifices the career. Yes. She burns the badge. Was it worth it? You could argue, and I believe the novel demands we argue, that by lowering the "
+    },
+    {
+      "fp": "r8q5od",
+      "i": 223,
+      "from": 65743,
+      "subject": "Patch — chains",
+      "entities": [
+        "patch"
+      ],
+      "concept": "chains",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Patch, 1975"
+      },
+      "antidote": {
+        "concept": "chains",
+        "cast": [
+          "patch"
+        ]
+      },
+      "_said": "Institutional justice would have put Patch in handcuffs, put him in a transport van, and locked him back inside a concrete cage, But true, Cosmic Justice recognizes that Patch has "
+    },
+    {
+      "fp": "hv5nh",
+      "i": 224,
+      "from": 66082,
+      "subject": "Saint — coin",
+      "entities": [
+        "saint"
+      ],
+      "concept": "coin",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Saint, 1975"
+      },
+      "antidote": {
+        "concept": "coin",
+        "cast": [
+          "saint"
+        ]
+      },
+      "_said": "in a cage since a humid summer day in 1975. The debt has been paid a thousand times over. By lowering her gun, Saint is the one who finally truly sets him free."
+    },
+    {
+      "fp": "16eqe5w",
+      "i": 225,
+      "from": 66401,
+      "subject": "star",
+      "entities": [],
+      "concept": "star",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "star, walk out of the dark and truly step into, 1975"
+      },
+      "antidote": {
+        "concept": "star",
+        "set": null,
+        "cast": []
+      },
+      "_said": "She breaks the cycle of captivity. She allows him to finally walk out of the dark and truly step into the light. It is a masterpiece of an ending."
+    },
+    {
+      "fp": "dukhgg",
+      "i": 226,
+      "from": 66650,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "It is. But as with any story of this immense scale, it invites significant critique. We have to look at the structure of what Whitaker built. Right. Let's step back and play devil'"
+    },
+    {
+      "fp": "12uphqc",
+      "i": 227,
+      "from": 67027,
+      "subject": "law",
+      "entities": [],
+      "concept": "law",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "law, 1975"
+      },
+      "antidote": {
+        "concept": "law",
+        "set": null,
+        "cast": []
+      },
+      "_said": "it. Yeah. We've just spent an hour talking about a book that spans serial abductions, highstakes bank heists across multiple state lines, high-end art world fame, prison gangs, and"
+    },
+    {
+      "fp": "1yu2388",
+      "i": 228,
+      "from": 67380,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "tropes, all unfolding over nearly three decades. It's a lot of ground to cover. My question is, does Whitaker risk turning raw, intimate, devastating childhood grief into a Hollywo"
+    },
+    {
+      "fp": "4h06f6",
+      "i": 229,
+      "from": 67733,
+      "subject": "road",
+      "entities": [],
+      "concept": "road",
+      "place": "highway",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "road, highway, 1975"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": "highway",
+        "cast": []
+      },
+      "_said": "It's a fair critique. Does jumping from the suffocating intimacy of a pitch black basement to a cinematic bank robbery shootout on a highway stretch the credul of"
+    },
+    {
+      "fp": "1gt44s9",
+      "i": 230,
+      "from": 68052,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "the narrative too far? Does the genre hopping dilute the emotional core? It is a very common and fair critique of the novel. When you verbally stack the plot points"
+    },
+    {
+      "fp": "vu1y19",
+      "i": 231,
+      "from": 68369,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "like that, it sounds chaotic. It sounds like three different movies spliced It kind of does. But I would argue that this epic constantly shifting genrehopping scale actually amplif"
+    },
+    {
+      "fp": "whn7w5",
+      "i": 232,
+      "from": 68770,
+      "subject": "shield",
+      "entities": [],
+      "concept": "shield",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "shield, 1975"
+      },
+      "antidote": {
+        "concept": "shield",
+        "cast": []
+      },
+      "_said": "Okay, defend the melodrama. When a child undergoes a psychological trauma, this extreme, a normal, quiet domestic drama simply cannot contain the Oh, that makes sense."
+    },
+    {
+      "fp": "1tdej8j",
+      "i": 233,
+      "from": 69086,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "The hyper reality of the heists, the sprawling manic geography of the manhunt, perfectly mirrors the disproportionate, life-shattering nature of the initial abduction."
+    },
+    {
+      "fp": "1ok717m",
+      "i": 234,
+      "from": 69370,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "It's as big as his grief. Yes, the trauma is so massive, so radioactive that it bleeds out of the small town and infects the entire country."
+    },
+    {
+      "fp": "1qlsjmh",
+      "i": 235,
+      "from": 69674,
+      "subject": "mirror",
+      "entities": [],
+      "concept": "mirror",
+      "place": "bedroom",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "mirror, hold his grief, bedroom, 1975"
+      },
+      "antidote": {
+        "concept": "mirror",
+        "set": "bedroom",
+        "cast": []
+      },
+      "_said": "The genre shifts are a literal reflection of Patch's shattered psyche, frantically trying to find a container large enough to hold his grief."
+    },
+    {
+      "fp": "1rw9uw0",
+      "i": 236,
+      "from": 69917,
+      "subject": "game",
+      "entities": [],
+      "concept": "game",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "game, 1975"
+      },
+      "antidote": {
+        "concept": "game",
+        "set": null,
+        "cast": []
+      },
+      "_said": "The plot has to be chaotic because Patch's internal world is chaotic. The scale of the story matches the scale of the wound."
+    },
+    {
+      "fp": "ysy3zi",
+      "i": 237,
+      "from": 70126,
+      "subject": "road",
+      "entities": [],
+      "concept": "road",
+      "place": "highway",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "road, highway, 1975"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": "highway",
+        "cast": []
+      },
+      "_said": "The narrative breaks boundaries because the trauma broke all of his boundaries. cuz I love that Which brings us to the ultimate takeaway for you, our listener, as you reflect on th"
+    },
+    {
+      "fp": "y3m9r6",
+      "i": 238,
+      "from": 70423,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "What's the core message? The real miracle in this story, the true emotional core, isn't actually finding the girl in the dark."
+    },
+    {
+      "fp": "xpai0g",
+      "i": 239,
+      "from": 70661,
+      "subject": "Grace and Saint — star",
+      "entities": [
+        "grace",
+        "saint"
+      ],
+      "concept": "star",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Grace and Saint, 1975"
+      },
+      "antidote": {
+        "concept": "star",
+        "set": null,
+        "cast": [
+          "grace",
+          "saint"
+        ]
+      },
+      "_said": "It is discovering who stood by you in the light. Wow. Yes. Thatch spent 30 agonizing years trying to rescue Grace to prove the dark room was real. But Saint spent 30 years waiting"
+    },
+    {
+      "fp": "mn2gpa",
+      "i": 240,
+      "from": 70997,
+      "subject": "work",
+      "entities": [],
+      "concept": "work",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "work, 1975"
+      },
+      "antidote": {
+        "concept": "work",
+        "set": null,
+        "cast": []
+      },
+      "_said": "on the outside, compromising her life, her career, her sanity to prove that the world was still worth living She never left him."
+    },
+    {
+      "fp": "1fzus59",
+      "i": 241,
+      "from": 71210,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "No, you don't ultimately survive trauma by catching the ghost you've been chasing. You survive by finally letting the living pull you into the morning. That is beautiful."
+    },
+    {
+      "fp": "4yf42s",
+      "i": 242,
+      "from": 71477,
+      "subject": "tree",
+      "entities": [],
+      "concept": "tree",
+      "place": "forest",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "tree, leaves me with one final haunting question for, forest, 1975"
+      },
+      "antidote": {
+        "concept": "tree",
+        "set": "forest",
+        "cast": []
+      },
+      "_said": "And it leaves me with one final haunting question for you, the listener, to mull over long after this is done. Oops."
+    },
+    {
+      "fp": "owfvrc",
+      "i": 243,
+      "from": 71693,
+      "subject": "Grace — road",
+      "entities": [
+        "grace"
+      ],
+      "concept": "road",
+      "place": "highway",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Grace, highway, 1975"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": "highway",
+        "cast": [
+          "grace"
+        ]
+      },
+      "_said": "If Patch's entire identity, his art, his drive, and his moral compass were forged during those 307 days in the dark, and if his entire adult life was defined by the frantic hunt fo"
+    },
+    {
+      "fp": "446h6w",
+      "i": 244,
+      "from": 72046,
+      "subject": "target",
+      "entities": [],
+      "concept": "target",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "target, 1975"
+      },
+      "antidote": {
+        "concept": "target",
+        "cast": []
+      },
+      "_said": "what happens on day 308 of his new When the hunt is over, when the monster is dead and the girl is found, how does a person live when their defining mission of pain is finally"
+    },
+    {
+      "fp": "yxfxaf",
+      "i": 245,
+      "from": 72358,
+      "subject": "Patch",
+      "entities": [
+        "patch"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Patch, 1975"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "patch"
+        ]
+      },
+      "_said": "resolved? Who is Patch McCaulay when he no longer has a ghost to chase? He is a terrifying and beautiful blank canvas."
+    },
+    {
+      "fp": "cttjdu",
+      "i": 246,
+      "from": 72595,
+      "subject": "storm",
+      "entities": [],
+      "concept": "storm",
+      "place": "forest",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "storm, forest, 1975"
+      },
+      "antidote": {
+        "concept": "storm",
+        "set": "forest",
+        "cast": []
+      },
+      "_said": "Thank you so much for joining us on this deep dive. Keep exploring the shadows and the light in your own lives. And whenever you face the darkness, remember that 13-year-old pirate"
+    }
+  ]
+}

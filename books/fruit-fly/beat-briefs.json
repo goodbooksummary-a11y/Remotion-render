@@ -1,0 +1,2968 @@
+{
+  "slug": "fruit-fly",
+  "authored": false,
+  "briefs": [
+    {
+      "fp": "1v110g9",
+      "i": 0,
+      "from": 2,
+      "subject": "wallet",
+      "entities": [],
+      "concept": "wallet",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "wallet, 1995"
+      },
+      "antidote": {
+        "concept": "wallet",
+        "cast": []
+      },
+      "_said": "She doesn't want to save him. She wants first-p person access. And she'd tell you that herself out loud without Yeah, it is um a really staggering level of honesty. And honestly, i"
+    },
+    {
+      "fp": "yawh3a",
+      "i": 1,
+      "from": 430,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "You know, you're trapped in the mind of someone who knows exactly how toxic she is. Right into the deep end today. Welcome to the deep dive. We are spending our time today unpackin"
+    },
+    {
+      "fp": "dtxt0p",
+      "i": 2,
+      "from": 818,
+      "subject": "Fruitfly — phone",
+      "entities": [
+        "fruitfly"
+      ],
+      "concept": "phone",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Fruitfly, 1995"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": null,
+        "cast": [
+          "fruitfly"
+        ]
+      },
+      "_said": "It's called Fruitfly. It's a tough one. Oh, absolutely. Because you know, if you've ever looked at a raw memoir or like a piece of gritty true crime media and wondered um who actua"
+    },
+    {
+      "fp": "10oxjhk",
+      "i": 3,
+      "from": 1277,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "We are looking at authorship as a form of extraction, What happens to a writer when her only remaining source of material is somebody else's absolute worst year on earth? It really"
+    },
+    {
+      "fp": "mdm9dz",
+      "i": 4,
+      "from": 1721,
+      "subject": "heart",
+      "entities": [],
+      "concept": "heart",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "heart, 1995"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": null,
+        "cast": []
+      },
+      "_said": "We uh we love the myth of the writer bleeding onto the page, right? Translating human suffering into high art. But this book asks a much more cynical and probably a much more reali"
+    },
+    {
+      "fp": "sqw3nt",
+      "i": 5,
+      "from": 2093,
+      "subject": "Mallerie",
+      "entities": [
+        "mallerie"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Mallerie, holding the bucket while someone else bleeds?, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "mallerie"
+        ]
+      },
+      "_said": "What if the writer isn't bleeding at all? What if she's just holding the bucket while someone else bleeds? And the really terrifying part of Mallerie Maddox, our protagonist here, "
+    },
+    {
+      "fp": "1m8tk0o",
+      "i": 6,
+      "from": 2472,
+      "subject": "Leo",
+      "entities": [
+        "leo"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Leo, sitting around waiting for a muse, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "leo"
+        ]
+      },
+      "_said": "like she suffers from a seven-year writer's block, but she'sn't sitting around waiting for a muse. She knows what she's doing when she latches on to Leo. He's this young homeless A"
+    },
+    {
+      "fp": "1yr6svh",
+      "i": 7,
+      "from": 3017,
+      "subject": "heart",
+      "entities": [],
+      "concept": "heart",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "heart, 1995"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": null,
+        "cast": []
+      },
+      "_said": "for everything we're going to talk about today. Self-awareness is not a break, it's an I love that. Keep that phrase in the back of your mind as we go through this because we are s"
+    },
+    {
+      "fp": "12aqw8p",
+      "i": 8,
+      "from": 3444,
+      "subject": "Mallerie",
+      "entities": [
+        "mallerie"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Mallerie, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "mallerie"
+        ]
+      },
+      "_said": "Like the first step is admitting you have a problem. Exactly. But Mallerie proves that sometimes admitting the flaw is literally just the loophole you use to keep exploiting people"
+    },
+    {
+      "fp": "h919mm",
+      "i": 9,
+      "from": 3898,
+      "subject": "Mallerie — home",
+      "entities": [
+        "mallerie"
+      ],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Mallerie, sitting on the closed toilet seat in the downst, 1995"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": [
+          "mallerie"
+        ]
+      },
+      "_said": "Imagine you're at a very chic, very expensive party in a three-floor semi- detached house in North London. But you aren't mingling. You were Mallerie the host, and you are sitting "
+    },
+    {
+      "fp": "1j7kix9",
+      "i": 10,
+      "from": 4368,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": "kitchen",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "phone, kitchen, 1995"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": "kitchen",
+        "cast": []
+      },
+      "_said": "Frantically swiping at Candy Crush on your phone. Yes, hiding. Outside the door, a kitchen full of artsy intellectuals are eating hummus. It's store-bought Tesco hummus, by the way"
+    },
+    {
+      "fp": "bdl2px",
+      "i": 11,
+      "from": 4699,
+      "subject": "Mallerie — school",
+      "entities": [
+        "mallerie"
+      ],
+      "concept": "school",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Mallerie, 1995"
+      },
+      "antidote": {
+        "concept": "school",
+        "set": null,
+        "cast": [
+          "mallerie"
+        ]
+      },
+      "_said": "But Mallerie put it in a rustic bowl and sprinkled some coriander on it so everyone thinks she made it from scratch. It is the ultimate performance of middle class authenticity. An"
+    },
+    {
+      "fp": "g3cx5r",
+      "i": 12,
+      "from": 5170,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone, 1995"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": null,
+        "cast": []
+      },
+      "_said": "Yes. Someone just compared her to Virginia Wolf. They literally called her Clarissa [&nbsp;__&nbsp;] Doway. I mean the ego trip, right? And to sustain that illusion, she keeps a hi"
+    },
+    {
+      "fp": "1be9ks1",
+      "i": 13,
+      "from": 5542,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone, read it, 1995"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": null,
+        "cast": []
+      },
+      "_said": "Doway on display right there next to the toilet. But she had to forcibly bend the spine to make it look because she hasn't actually read it. No, not a page. So, as she sits there d"
+    },
+    {
+      "fp": "d8unnf",
+      "i": 14,
+      "from": 6055,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "She feels like she just doesn't exist. Which forces you as the reader to completely reframe what her writer's block actually is. Because culturally, we think of writer's block as a"
+    },
+    {
+      "fp": "191bdqy",
+      "i": 15,
+      "from": 6446,
+      "subject": "Mallerie — medical",
+      "entities": [
+        "mallerie"
+      ],
+      "concept": "medical",
+      "place": "hospital",
+      "confidence": 1,
+      "vox": {
+        "shot": "Mallerie, hospital, 1995"
+      },
+      "antidote": {
+        "concept": "medical",
+        "set": "hospital",
+        "cast": [
+          "mallerie"
+        ]
+      },
+      "_said": "Mallerie tells her publisher it's lost inspiration. She uses the emotional exhaustion of her hit debut novel, Shallow Embers, as this like protective shield. Yeah. She even spent t"
+    },
+    {
+      "fp": "puowju",
+      "i": 16,
+      "from": 6991,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "notes, 1995"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": []
+      },
+      "_said": "gave too much of her soul to her art. But when you actually look at her actions, you realize she never wrote from imagination in the first place. She wrote from access. She canniba"
+    },
+    {
+      "fp": "1409tch",
+      "i": 17,
+      "from": 7428,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "run out of internal resources to mine, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "So, this seven-year drought, it isn't a creative problem at all. It's a supply chain problem. She has simply run out of internal resources to mine. It's like um think about the mec"
+    },
+    {
+      "fp": "19ha1lr",
+      "i": 18,
+      "from": 7956,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Or the workers forgot how to do their jobs. You check the loading dock. If there's no steel coming in, no glass, no rubber, the factory just stops. Maller's imagination isn't broke"
+    },
+    {
+      "fp": "zzlykk",
+      "i": 19,
+      "from": 8316,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Proximity to pain was the engine. That is such a good way to put it. So, without new raw material, she is entirely paralyzed. Every single thing she does from this moment forward i"
+    },
+    {
+      "fp": "11e9hrv",
+      "i": 20,
+      "from": 8676,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "notes, write her fake second book, 1995"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": []
+      },
+      "_said": "And you see this mechanical failure so clearly in her attempts to write her fake second book, The Air Between Us. Oh god, the landscape descriptions. It's pathetic, but it's so rev"
+    },
+    {
+      "fp": "9wlj9s",
+      "i": 21,
+      "from": 9096,
+      "subject": "Ronin — notes",
+      "entities": [
+        "ronin"
+      ],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Ronin, sits down to write a quiet domestic novel, 1995"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": [
+          "ronin"
+        ]
+      },
+      "_said": "Yeah. She's married to a successful TV executive named Ronin. She has money. She has peace. She has absolutely no trauma to mind. So, when she sits down to write a quiet domestic n"
+    },
+    {
+      "fp": "1gckp6v",
+      "i": 22,
+      "from": 9638,
+      "subject": "mask",
+      "entities": [],
+      "concept": "mask",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "mask, 1995"
+      },
+      "antidote": {
+        "concept": "mask",
+        "cast": []
+      },
+      "_said": "things like uh the structure of trees, just blatantly plagiarizing nature. Yeah. She copies and pastes these sweeping generic descriptions of the British countryside into her word "
+    },
+    {
+      "fp": "15f04fr",
+      "i": 23,
+      "from": 10166,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone, 1995"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": null,
+        "cast": []
+      },
+      "_said": "She has nothing left to say. But wait, hold on a second. Let me push back on that. Is it totally fair to say she has no pain of her own? Because throughout the text, she mentions t"
+    },
+    {
+      "fp": "gv1rin",
+      "i": 24,
+      "from": 10699,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "But that sounds like genuine psychological suffering. Why can't that be her That is a really crucial distinction to make. I'm not saying her pain isn't real to her. The numbness an"
+    },
+    {
+      "fp": "ggdvzz",
+      "i": 25,
+      "from": 11107,
+      "subject": "dollarExchange",
+      "entities": [],
+      "concept": "dollarExchange",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "dollar exchange, 1995"
+      },
+      "antidote": {
+        "concept": "dollarExchange",
+        "set": null,
+        "cast": []
+      },
+      "_said": "Her pain might be real, but it is not marketable. Uh, it doesn't sell right. The industry doesn't want a quiet, introspective book about a wealthy woman feeling a bit sad in her be"
+    },
+    {
+      "fp": "1k4z2t0",
+      "i": 26,
+      "from": 11501,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "notes, 1995"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": []
+      },
+      "_said": "They bought unhinged bravery from her the first time. They want the visceral, raw, messy trauma of shallow embers. So, her current emotional void isn't a story they can put a gloss"
+    },
+    {
+      "fp": "1jpwie3",
+      "i": 27,
+      "from": 12065,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "White Lies. That is almost too perfect. White Lies It's brilliant. She knows she's empty. She knows the bent spine on the Virginia Wolf book is a prop. But recognizing her own empt"
+    },
+    {
+      "fp": "ru7vci",
+      "i": 28,
+      "from": 12430,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Because like we said, self-awareness is not a break. It's an alibi. It's just the justification she uses to go looking for someone else's pain to steal. Which brings us to the titl"
+    },
+    {
+      "fp": "qh7he3",
+      "i": 29,
+      "from": 12780,
+      "subject": "Leo",
+      "entities": [
+        "leo"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Leo, standing on mallalerie's porch, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "leo"
+        ]
+      },
+      "_said": "Let's look at the moment she truly sinks her hooks into Leo. it's dead of night. Leo is a young homeless sex worker. He is deeply addicted to meth. And he is standing on Mallalerie"
+    },
+    {
+      "fp": "1hgvua2",
+      "i": 30,
+      "from": 13243,
+      "subject": "Mallerie",
+      "entities": [
+        "mallerie"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Mallerie, watch what mallerie does in this mom, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "mallerie"
+        ]
+      },
+      "_said": "He is there because Mallerie promised him sanctuary. But watch what Mallerie actually does in this moment. She isn't tending to his She's frantically tying her dressing gown and lo"
+    },
+    {
+      "fp": "1sdobl9",
+      "i": 31,
+      "from": 13661,
+      "subject": "Ronin and Fruitfly — alarmClock",
+      "entities": [
+        "ronin",
+        "fruitfly"
+      ],
+      "concept": "alarmClock",
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Ronin and Fruitfly, 1995"
+      },
+      "antidote": {
+        "concept": "alarmClock",
+        "set": null,
+        "cast": [
+          "ronin",
+          "fruitfly"
+        ]
+      },
+      "_said": "Ronin is going to wake up. She is panicked about what the neighbors will think of this bleeding man on her pristine porch. She's actually hissing at him to step It is pure unfilter"
+    },
+    {
+      "fp": "plfu94",
+      "i": 32,
+      "from": 14131,
+      "subject": "Mallerie and Fruitfly",
+      "entities": [
+        "mallerie",
+        "fruitfly"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Mallerie and Fruitfly, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "mallerie",
+          "fruitfly"
+        ]
+      },
+      "_said": "Break that down for us. Well, think about how we use that term colloquially. A fruitfly is slang for a straight woman who constantly orbits gay men, usually because she finds their"
+    },
+    {
+      "fp": "pu6fnq",
+      "i": 33,
+      "from": 14710,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "marginalization without taking on any of the actual But the biological definition is where it gets incredibly dark. Exactly. Because what is a literal fruitly? It's a lab insect. B"
+    },
+    {
+      "fp": "dv06pl",
+      "i": 34,
+      "from": 15228,
+      "subject": "Leo — ledge",
+      "entities": [
+        "leo"
+      ],
+      "concept": "ledge",
+      "place": "street",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Leo, falling apart, street, 1995"
+      },
+      "antidote": {
+        "concept": "ledge",
+        "set": "street",
+        "cast": [
+          "leo"
+        ]
+      },
+      "_said": "It requires rot to sustain itself. So, she isn't drawn to Leo despite the fact that his life is falling apart. She is drawn to him because it is falling the rot is the material. If"
+    },
+    {
+      "fp": "3oztqy",
+      "i": 35,
+      "from": 15605,
+      "subject": "Mallerie and Leo and Nick — family",
+      "entities": [
+        "mallerie",
+        "leo",
+        "nick"
+      ],
+      "concept": "family",
+      "place": "kitchen",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Mallerie and Leo, kitchen, 1995"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": "kitchen",
+        "cast": [
+          "mallerie",
+          "leo",
+          "nick"
+        ]
+      },
+      "_said": "And you see this predatory calculation long before she even meets Leo. Just look at how she processes the death of her own brother, Nick. Oh, man. The internal monologue about Nick"
+    },
+    {
+      "fp": "1yht8an",
+      "i": 36,
+      "from": 16181,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "She literally evaluates his tragedy in terms of its market value. She thinks to herself, \"Gay and sad, gold dust, gay cells.\" Those are her actual words. It was so gross."
+    },
+    {
+      "fp": "74r0ri",
+      "i": 37,
+      "from": 16519,
+      "subject": "Mallerie — phone",
+      "entities": [
+        "mallerie"
+      ],
+      "concept": "phone",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Mallerie, 1995"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": null,
+        "cast": [
+          "mallerie"
+        ]
+      },
+      "_said": "She reduces her own dead brother to a lucrative marketing demographic. And when a young woman at a recovery meeting calls her out, literally calling her a [&nbsp;__&nbsp;] hag, Mal"
+    },
+    {
+      "fp": "7hzowx",
+      "i": 38,
+      "from": 17107,
+      "subject": "home",
+      "entities": [],
+      "concept": "home",
+      "place": "kitchen",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "home, kitchen, 1995"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": "kitchen",
+        "cast": []
+      },
+      "_said": "on to make her own main character syndrome feel more important. Yeah, but here's the thing. She doesn't exist in a vacuum where nobody notices this behavior. Her mother sees it per"
+    },
+    {
+      "fp": "15e2u94",
+      "i": 39,
+      "from": 17525,
+      "subject": "Mallerie — family",
+      "entities": [
+        "mallerie"
+      ],
+      "concept": "family",
+      "place": "kitchen",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Mallerie, kitchen, 1995"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": "kitchen",
+        "cast": [
+          "mallerie"
+        ]
+      },
+      "_said": "Her mom says, \"You use a generated perception of your past to justify your behavior.\" She tells Mallerie she's been drawn to mess since she was a little kid. And she uses this chil"
+    },
+    {
+      "fp": "99tk0r",
+      "i": 40,
+      "from": 17986,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": "kitchen",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, kitchen, 1995"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": "kitchen",
+        "cast": []
+      },
+      "_said": "The mother is the ultimate voice of reality there. She completely refuses to buy into the myth of the tortured artist. She just sees a grown woman creating chaos because she is fun"
+    },
+    {
+      "fp": "1w5nn5k",
+      "i": 41,
+      "from": 18442,
+      "subject": "Mallerie — medical",
+      "entities": [
+        "mallerie"
+      ],
+      "concept": "medical",
+      "place": "hospital",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Mallerie, hospital, 1995"
+      },
+      "antidote": {
+        "concept": "medical",
+        "set": "hospital",
+        "cast": [
+          "mallerie"
+        ]
+      },
+      "_said": "So Mallerie gets this incredible moment of clarity handed to her on a silver platter, a perfect psychological diagnosis from someone who has known her all her life. And what does s"
+    },
+    {
+      "fp": "1t3d0nz",
+      "i": 42,
+      "from": 18806,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": "kitchen",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, walking down the exact same path of procuring l, kitchen, 1995"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": "kitchen",
+        "cast": []
+      },
+      "_said": "She registers that her mother is 100% right. And then she just keeps walking down the exact same path of procuring Leo's life. The insight doesn't act as a stop sign. It acts as a "
+    },
+    {
+      "fp": "117jcc7",
+      "i": 43,
+      "from": 19166,
+      "subject": "road",
+      "entities": [],
+      "concept": "road",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "road, 1995"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": null,
+        "cast": []
+      },
+      "_said": "She pays the toll of feeling briefly guilty and then she just keeps driving because self-awareness is not a break. It's an alibi. Knowing she's messed up just becomes another layer"
+    },
+    {
+      "fp": "g1vfez",
+      "i": 44,
+      "from": 19538,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "reading? why don't we as readers just throw, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Which really makes you wonder if she is this openly manipulative. I mean, if she is literally evaluating bleeding men for their narrative potential, why do we keep reading? Why don"
+    },
+    {
+      "fp": "18bh9ad",
+      "i": 45,
+      "from": 19970,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Because the architecture of the pros itself is designed to make you complicit. The form of the novel is the I really want to dig into how that actually works on a psychological lev"
+    },
+    {
+      "fp": "rwpfv7",
+      "i": 46,
+      "from": 20395,
+      "subject": "Mallerie",
+      "entities": [
+        "mallerie"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Mallerie, read an eye on the page, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "mallerie"
+        ]
+      },
+      "_said": "And first person narration is inherently a trap. When you read an eye on the page, your brain naturally aligns your own consciousness with the narrators. You share their optical vi"
+    },
+    {
+      "fp": "1jyt5tp",
+      "i": 47,
+      "from": 20957,
+      "subject": "Mandy — medical",
+      "entities": [
+        "mandy"
+      ],
+      "concept": "medical",
+      "place": "hospital",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Mandy, sitting in the circle wearing expensive sunglas, hospital, 1995"
+      },
+      "antidote": {
+        "concept": "medical",
+        "set": "hospital",
+        "cast": [
+          "mandy"
+        ]
+      },
+      "_said": "right there in the chair with her. She's sitting in the circle wearing expensive sunglasses indoors and so obnoxious. She's decided to pretend to be a recovering alcoholic and a th"
+    },
+    {
+      "fp": "1xyyqaz",
+      "i": 48,
+      "from": 21384,
+      "subject": "Mallerie and Mandy — home",
+      "entities": [
+        "mallerie",
+        "mandy"
+      ],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Mallerie and Mandy, weeping about her genuine trauma, 1995"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": [
+          "mallerie",
+          "mandy"
+        ]
+      },
+      "_said": "She decides Mandy is scrappy. She decides Mandy is too giving. She decides Mandy owns her own home. And when a real actual woman in this safe space starts weeping about her genuine"
+    },
+    {
+      "fp": "19itpyc",
+      "i": 49,
+      "from": 21938,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "It's a masterclass in sociopathic rationalization. But because you are in her head, you experience this exploitation as reasonable. It feels calm. It almost feels justified because"
+    },
+    {
+      "fp": "xe6xvr",
+      "i": 50,
+      "from": 22284,
+      "subject": "shield",
+      "entities": [],
+      "concept": "shield",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "shield, 1995"
+      },
+      "antidote": {
+        "concept": "shield",
+        "cast": []
+      },
+      "_said": "She makes these sharp, snarky observations about the decor or the other people in the room, and you find yourself laughing with her. And that's the trap. A witty narrator completel"
+    },
+    {
+      "fp": "1dormuw",
+      "i": 51,
+      "from": 22786,
+      "subject": "Leo — phone",
+      "entities": [
+        "leo"
+      ],
+      "concept": "phone",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Leo, 1995"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": null,
+        "cast": [
+          "leo"
+        ]
+      },
+      "_said": "The author is making you track how the text gets you to nod along sentence by sentence until you realize you're rooting for the predator. You really feel that when Leo finally spea"
+    },
+    {
+      "fp": "1a7uc3m",
+      "i": 52,
+      "from": 23174,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "He's angry. He explicitly tells the room he hates it there, but he is desperate for help. It is raw, unvarnished vulnerability. and what is Mallerie's physical reaction?"
+    },
+    {
+      "fp": "12osm7v",
+      "i": 53,
+      "from": 23532,
+      "subject": "rocketLaunch",
+      "entities": [],
+      "concept": "rocketLaunch",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "rocket launch, reach out, 1995"
+      },
+      "antidote": {
+        "concept": "rocketLaunch",
+        "set": null,
+        "cast": []
+      },
+      "_said": "She doesn't reach out. She leans forward in her chair. She's reeling in a catch. Exactly. She isn't feeling a surge of human empathy. She's feeling the thrill of a prospector strik"
+    },
+    {
+      "fp": "51k43k",
+      "i": 54,
+      "from": 23906,
+      "subject": "Mallerie and Ronin and Leo — home",
+      "entities": [
+        "mallerie",
+        "ronin",
+        "leo"
+      ],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Mallerie and Ronin, 1995"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": [
+          "mallerie",
+          "ronin",
+          "leo"
+        ]
+      },
+      "_said": "But wait, I have to admit something about my own experience reading this. Okay, well wait on me. Later in the book, when Leo shows up at her house and her husband Ronin catches the"
+    },
+    {
+      "fp": "k5d47o",
+      "i": 55,
+      "from": 24314,
+      "subject": "Ronin — notes",
+      "entities": [
+        "ronin"
+      ],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Ronin, writing project, 1995"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": [
+          "ronin"
+        ]
+      },
+      "_said": "I wanted her to get away with the lie. I was so stressed that Ronin was going to discover her secret writing project. Doesn't that mean she isn't a total sociopath if she can gener"
+    },
+    {
+      "fp": "pg2hhf",
+      "i": 56,
+      "from": 24650,
+      "subject": "school",
+      "entities": [],
+      "concept": "school",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "school, 1995"
+      },
+      "antidote": {
+        "concept": "school",
+        "set": null,
+        "cast": []
+      },
+      "_said": "Think about what you just admitted You are experiencing anxiety over a wealthy middle-class woman's marital stability and her social standing. [snorts] You were worried about a sec"
+    },
+    {
+      "fp": "1i5zige",
+      "i": 57,
+      "from": 25260,
+      "subject": "school",
+      "entities": [],
+      "concept": "school",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "school, 1995"
+      },
+      "antidote": {
+        "concept": "school",
+        "set": null,
+        "cast": []
+      },
+      "_said": "in imminent physical danger and needed medical care. Oh my god, I see it now. The first person narrative hijacked your moral compass. You cared more about the middle class secret b"
+    },
+    {
+      "fp": "b6ih2x",
+      "i": 58,
+      "from": 25750,
+      "subject": "Leo — target",
+      "entities": [
+        "leo"
+      ],
+      "concept": "target",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Leo, 1995"
+      },
+      "antidote": {
+        "concept": "target",
+        "cast": [
+          "leo"
+        ]
+      },
+      "_said": "We get so aligned with her objective getting the story that we view Leo as an obstacle to her success rather than a human being in pain. She narrates her own psychopathy with such "
+    },
+    {
+      "fp": "10va03s",
+      "i": 59,
+      "from": 26131,
+      "subject": "medical",
+      "entities": [],
+      "concept": "medical",
+      "place": "hospital",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "medical, hospital, 1995"
+      },
+      "antidote": {
+        "concept": "medical",
+        "set": "hospital",
+        "cast": []
+      },
+      "_said": "And her knowing she's doing it doesn't stop her. Because again, self-awareness is not a break, it's an alibi. Which perfectly sets up the question of what happens when she actually"
+    },
+    {
+      "fp": "10onk7c",
+      "i": 60,
+      "from": 26722,
+      "subject": "Mallerie — medical",
+      "entities": [
+        "mallerie"
+      ],
+      "concept": "medical",
+      "place": "hospital",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Mallerie, hospital, 1995"
+      },
+      "antidote": {
+        "concept": "medical",
+        "set": "hospital",
+        "cast": [
+          "mallerie"
+        ]
+      },
+      "_said": "where Mallerie has to undergo a mental health assessment over the phone. the nurse is trying to deescalate the situation, trying to build rapport. So, she cheerfully refers to Mall"
+    },
+    {
+      "fp": "1binh7q",
+      "i": 61,
+      "from": 27276,
+      "subject": "Mallerie",
+      "entities": [
+        "mallerie"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Mallerie, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "mallerie"
+        ]
+      },
+      "_said": "language has become. We have turned psychological crisis into acute tick tock aesthetic. Right. And Mallerie immediately recognizes how absurd this is. She starts translating this "
+    },
+    {
+      "fp": "mnp2mx",
+      "i": 62,
+      "from": 27677,
+      "subject": "medical",
+      "entities": [],
+      "concept": "medical",
+      "place": "hospital",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "medical, hospital, 1995"
+      },
+      "antidote": {
+        "concept": "medical",
+        "set": "hospital",
+        "cast": []
+      },
+      "_said": "She starts referring to her condition as a banana rabbit. Banana rabbit. She tells the nurse, \"My banana rabbit took a turn for the worse seven years ago.\" Meanwhile, Ronan is list"
+    },
+    {
+      "fp": "1grkp0o",
+      "i": 63,
+      "from": 28169,
+      "subject": "medical",
+      "entities": [],
+      "concept": "medical",
+      "place": "hospital",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "medical, hospital, 1995"
+      },
+      "antidote": {
+        "concept": "medical",
+        "set": "hospital",
+        "cast": []
+      },
+      "_said": "She sees the entire mental health apparatus for what it is, a bureaucratic game. The takeaway here for anyone who has spent time in modern therapy culture is chilling. We place thi"
+    },
+    {
+      "fp": "1ugthct",
+      "i": 64,
+      "from": 28757,
+      "subject": "Mallerie",
+      "entities": [
+        "mallerie"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Mallerie, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "mallerie"
+        ]
+      },
+      "_said": "But Mallerie proves that insight changes absolutely nothing on its own. She can name her pattern with clinical precision. Yes, but confession isn't remorse. Confession is just pape"
+    },
+    {
+      "fp": "166ihy7",
+      "i": 65,
+      "from": 29102,
+      "subject": "puppeteer",
+      "entities": [],
+      "concept": "puppeteer",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "puppeteer, 1995"
+      },
+      "antidote": {
+        "concept": "puppeteer",
+        "cast": []
+      },
+      "_said": "She files the paperwork in her brain, acknowledging she's manipulative, and then she goes right back to manipulating. The naming of the disorder becomes her permission slip to keep"
+    },
+    {
+      "fp": "objr7h",
+      "i": 66,
+      "from": 29561,
+      "subject": "Ronin — phone",
+      "entities": [
+        "ronin"
+      ],
+      "concept": "phone",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Ronin, 1995"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": null,
+        "cast": [
+          "ronin"
+        ]
+      },
+      "_said": "Please Exactly. Look at the moment Ronin finally figures out the depth of her lies. He confronts her. He calls her a narcissist in sheep's clothing. He tells her she has absolutely"
+    },
+    {
+      "fp": "unb2cf",
+      "i": 67,
+      "from": 29983,
+      "subject": "shield",
+      "entities": [],
+      "concept": "shield",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "shield, 1995"
+      },
+      "antidote": {
+        "concept": "shield",
+        "cast": []
+      },
+      "_said": "That she treats human lives like a game. And what is her defense She pleads complete insanity. But she doesn't deny the facts. She confesses to everything perfectly. She admits she"
+    },
+    {
+      "fp": "1gl5v2r",
+      "i": 68,
+      "from": 30552,
+      "subject": "Leo — book",
+      "entities": [
+        "leo"
+      ],
+      "concept": "book",
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Leo, 1995"
+      },
+      "antidote": {
+        "concept": "book",
+        "set": null,
+        "cast": [
+          "leo"
+        ]
+      },
+      "_said": "disarm his anger. Wait, hold on. Is she completely lying to herself? Is she just a cold robot? Because when Leo finally confronts her about the manuscript, when he realizes how pro"
+    },
+    {
+      "fp": "1y3qfii",
+      "i": 69,
+      "from": 31032,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "She cries and says, \"I do care.\" Doesn't the physical act of crying mean that somewhere deep down in her nervous system, the insight actually touched a human nerve? It's a brillian"
+    },
+    {
+      "fp": "r3of5a",
+      "i": 70,
+      "from": 31426,
+      "subject": "Leo — phone",
+      "entities": [
+        "leo"
+      ],
+      "concept": "phone",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Leo, 1995"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": null,
+        "cast": [
+          "leo"
+        ]
+      },
+      "_said": "She might be feeling a genuine surge of negative emotion, but what does she do with those tears? She immediately weaponizes them to center herself. Ah, the classic weaponized tears"
+    },
+    {
+      "fp": "t04nil",
+      "i": 71,
+      "from": 31829,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": "kitchen",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "notes, stand in her expensive kitchen and have a cat, kitchen, 1995"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": "kitchen",
+        "cast": []
+      },
+      "_said": "He points out the grotesque absurdity of the dynamic. She gets to stand in her expensive kitchen and have a cathartic emotional release about how difficult it is to write about his"
+    },
+    {
+      "fp": "qzuv7g",
+      "i": 72,
+      "from": 32371,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "not to die. He literally says, \"I want to [&nbsp;__&nbsp;] It's devastating. Her tears are just another form of taking. She's taking the emotional release that belongs to him. She "
+    },
+    {
+      "fp": "1voeh97",
+      "i": 73,
+      "from": 32914,
+      "subject": "Leo",
+      "entities": [
+        "leo"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Leo, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "leo"
+        ]
+      },
+      "_said": "It's an alibi. And this dynamic um where they are both trapped in these destructive loops, it brings up a terrifying parallel the book draws. We keep talking about Mallalerie as a "
+    },
+    {
+      "fp": "12lch4j",
+      "i": 74,
+      "from": 33334,
+      "subject": "Leo — home",
+      "entities": [
+        "leo"
+      ],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Leo, 1995"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": [
+          "leo"
+        ]
+      },
+      "_said": "Oh, there is a chaotic street fight outside Malie's house that illustrates this perfectly. Leo is completely out of his mind on meth and smack. His brain is buzzing in a chemical v"
+    },
+    {
+      "fp": "1dorhum",
+      "i": 75,
+      "from": 33876,
+      "subject": "Mallerie",
+      "entities": [
+        "mallerie"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Mallerie, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "mallerie"
+        ]
+      },
+      "_said": "throws it squarely at her head. He is literally begging for physical violence. He wants to be hit because the physical pain will momentarily distract him from his internal agony. A"
+    },
+    {
+      "fp": "rdb1ux",
+      "i": 76,
+      "from": 34387,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "standing on the same street but acting out entir, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "She's terrified the neighbors will see. Terrified that her secret projects will be exposed and she'll lose her book deal. You have two people in absolute crisis standing on the sam"
+    },
+    {
+      "fp": "qutvod",
+      "i": 77,
+      "from": 34730,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "leave without going into violent physical wit, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "But the novel is forcing us to see that there are two addictions happening in this scene and they share the exact same Yes, the mechanics of the addiction are Leo's addiction is th"
+    },
+    {
+      "fp": "137ms9u",
+      "i": 78,
+      "from": 35316,
+      "subject": "butterfly",
+      "entities": [],
+      "concept": "butterfly",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "butterfly, standing next to a tragedy and feeling it's, 1995"
+      },
+      "antidote": {
+        "concept": "butterfly",
+        "set": null,
+        "cast": []
+      },
+      "_said": "But Mallerie's addiction is psychological. She is addicted to chaos. She is addicted to attention, to being the one who matters, to the adrenaline high standing next to a tragedy a"
+    },
+    {
+      "fp": "zb5mkp",
+      "i": 79,
+      "from": 35856,
+      "subject": "Leo — phone",
+      "entities": [
+        "leo"
+      ],
+      "concept": "phone",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Leo, 1995"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": null,
+        "cast": [
+          "leo"
+        ]
+      },
+      "_said": "need a bigger hit, more danger, more trauma. You spend all your time managing the supply chain. And to justify the destruction it causes to your life, you call it something noble. "
+    },
+    {
+      "fp": "kxmdtb",
+      "i": 80,
+      "from": 36230,
+      "subject": "Mallerie — phone",
+      "entities": [
+        "mallerie"
+      ],
+      "concept": "phone",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Mallerie, watching two junkies fighting over a stash, 1995"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": null,
+        "cast": [
+          "mallerie"
+        ]
+      },
+      "_said": "Mallerie calls her extraction art or love. It's like watching two junkies fighting over a stash. One junkie is wearing Birkenstocks and holds a tape modern membership and the other"
+    },
+    {
+      "fp": "1qyw31e",
+      "i": 81,
+      "from": 36823,
+      "subject": "Leo — phone",
+      "entities": [
+        "leo"
+      ],
+      "concept": "phone",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Leo, 1995"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": null,
+        "cast": [
+          "leo"
+        ]
+      },
+      "_said": "Think about Leo's horrific confession regarding his friend Mo. The story about the canal, right? Leo admits to Mallalerie that one night he was going to jump into the canal to end "
+    },
+    {
+      "fp": "542tfb",
+      "i": 82,
+      "from": 37356,
+      "subject": "Mallerie and Leo — phone",
+      "entities": [
+        "mallerie",
+        "leo"
+      ],
+      "concept": "phone",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Mallerie and Leo, watched mo fall, 1995"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": null,
+        "cast": [
+          "mallerie",
+          "leo"
+        ]
+      },
+      "_said": "freezing water. And what does Leo do? Leo admits he watched Mo fall, didn't reach out of hand, didn't call the police. He just turned around and went to get high instead because it"
+    },
+    {
+      "fp": "1j2suhu",
+      "i": 83,
+      "from": 37836,
+      "subject": "Leo — notes",
+      "entities": [
+        "leo"
+      ],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Leo, watching leo drown in his addiction right in fro, 1995"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": [
+          "leo"
+        ]
+      },
+      "_said": "She is watching Leo drown in his addiction right in front of her. And instead of throwing him a lifeline, instead of getting him into rehab or calling an ambulance, she turns aroun"
+    },
+    {
+      "fp": "1wcft15",
+      "i": 84,
+      "from": 38239,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "running away into her high, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "She is running away into her high, the high of literary creation, ambition, and industry relevance. Wait, I have to play devil's advocate here. Isn't it actually deeply offensive t"
+    },
+    {
+      "fp": "1bjezeu",
+      "i": 85,
+      "from": 38760,
+      "subject": "Mallerie",
+      "entities": [
+        "mallerie"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Mallerie, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "mallerie"
+        ]
+      },
+      "_said": "Aren't we letting Mallerie off the hook by saying, \"Oh, she can't help it. She's an addict, too.\" Leo's life is in imminent physical danger every single day. Mallerie's biggest ris"
+    },
+    {
+      "fp": "1xkcxlr",
+      "i": 86,
+      "from": 39101,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "That discomfort you're feeling is exactly what Silver is trying to provoke. It feels offensive because society categorizes them differently, but the book actively refuses to neatly"
+    },
+    {
+      "fp": "dqm2mo",
+      "i": 87,
+      "from": 39629,
+      "subject": "school",
+      "entities": [],
+      "concept": "school",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "school, 1995"
+      },
+      "antidote": {
+        "concept": "school",
+        "set": null,
+        "cast": []
+      },
+      "_said": "By aligning their behavior so closely, the novel argues that they are both consuming human lives to get their fix. The stakes of survival are wildly different, yes, but the psychol"
+    },
+    {
+      "fp": "1995bqb",
+      "i": 88,
+      "from": 40186,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "It just levels the moral playing field in the most depressing way possible. Because as we know, self-awareness is not a break. It's an alibi. Knowing she's an adrenaline junkie doe"
+    },
+    {
+      "fp": "j810ui",
+      "i": 89,
+      "from": 40543,
+      "subject": "Leo — book",
+      "entities": [
+        "leo"
+      ],
+      "concept": "book",
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Leo, 1995"
+      },
+      "antidote": {
+        "concept": "book",
+        "set": null,
+        "cast": [
+          "leo"
+        ]
+      },
+      "_said": "So, how does a supposedly progressive, educated, socially aware author justify stealing a vulnerable person's life for a book deal? She has to rebrand her theft as a moral imperati"
+    },
+    {
+      "fp": "pxof2k",
+      "i": 90,
+      "from": 41093,
+      "subject": "Mallerie — notes",
+      "entities": [
+        "mallerie"
+      ],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Mallerie, reads it back to her and he is just mocking t, 1995"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": [
+          "mallerie"
+        ]
+      },
+      "_said": "the new book Sleigh. He reads it back to her and he is just mocking the plot she's invented for his life. In her book, his fictional counterpart Liam is repeatedly abused by a clie"
+    },
+    {
+      "fp": "1ifoy7",
+      "i": 91,
+      "from": 41611,
+      "subject": "Leo",
+      "entities": [
+        "leo"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Leo, reads this aloud, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "leo"
+        ]
+      },
+      "_said": "Leo reads this aloud, his voice dripping with absolute sarcasm, and asks her if the book felt a bit underresarched. Underressearched. It's such a quiet, lethal critique of her enti"
+    },
+    {
+      "fp": "j4q3om",
+      "i": 92,
+      "from": 42156,
+      "subject": "Mallerie and Leo — lightbulb",
+      "entities": [
+        "mallerie",
+        "leo"
+      ],
+      "concept": "lightbulb",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Mallerie and Leo, 1995"
+      },
+      "antidote": {
+        "concept": "lightbulb",
+        "cast": [
+          "mallerie",
+          "leo"
+        ]
+      },
+      "_said": "The idea of authenticity as a market Let's break that down. What does that actually mean in the publishing world? We like to think the publishing industry buys truth, but they don'"
+    },
+    {
+      "fp": "h20umk",
+      "i": 93,
+      "from": 42694,
+      "subject": "fire",
+      "entities": [],
+      "concept": "fire",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "fire, 1995"
+      },
+      "antidote": {
+        "concept": "fire",
+        "cast": []
+      },
+      "_said": "she sat in an AA meeting next to him, her physical proximity gives her a credential. She believes that because she was near the fire, only she has the right to describe the heat. S"
+    },
+    {
+      "fp": "uekszr",
+      "i": 94,
+      "from": 43234,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "notes, writes for the book within the book, 1995"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": []
+      },
+      "_said": "blur together until you can't tell them apart. She thinks because she cares about his story, she literally owns his life. And you see the ultimate manifestation of this bizarre own"
+    },
+    {
+      "fp": "eo8y8q",
+      "i": 95,
+      "from": 43589,
+      "subject": "Mallerie and Leo — medical",
+      "entities": [
+        "mallerie",
+        "leo"
+      ],
+      "concept": "medical",
+      "place": "hospital",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Mallerie and Leo, stand-in for mallerie herself, hospital, 1995"
+      },
+      "antidote": {
+        "concept": "medical",
+        "set": "hospital",
+        "cast": [
+          "mallerie",
+          "leo"
+        ]
+      },
+      "_said": "Yes. The fictional therapist in her book, who is obviously a stand-in for Mallerie herself, literally stabs the abuser in the head with a fruit bowl to save the Leo character. And "
+    },
+    {
+      "fp": "9aumjr",
+      "i": 96,
+      "from": 44086,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "It is the ultimate white savior complex. She literally co-ops his horrific realworld trauma, rewrites it so that she is the action hero who delivers justice and then slaps a bumper"
+    },
+    {
+      "fp": "1fmusqw",
+      "i": 97,
+      "from": 44467,
+      "subject": "Mallerie — gift",
+      "entities": [
+        "mallerie"
+      ],
+      "concept": "gift",
+      "place": "street",
+      "confidence": 1,
+      "vox": {
+        "shot": "Mallerie, street, 1995"
+      },
+      "antidote": {
+        "concept": "gift",
+        "set": "street",
+        "cast": [
+          "mallerie"
+        ]
+      },
+      "_said": "Yeah, it's awful. But let me ask you this. Doesn't Mallerie genuinely believe she is helping him from her incredibly twisted perspective. Leo's pain is just random chaotic sufferin"
+    },
+    {
+      "fp": "vxtcwo",
+      "i": 98,
+      "from": 45017,
+      "subject": "Leo — dollarExchange",
+      "entities": [
+        "leo"
+      ],
+      "concept": "dollarExchange",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Leo, 1995"
+      },
+      "antidote": {
+        "concept": "dollarExchange",
+        "set": null,
+        "cast": [
+          "leo"
+        ]
+      },
+      "_said": "She thinks she's giving his suffering She absolutely tries to sell that narrative to herself, but Leo destroys that defense completely. When he confronts her, he doesn't let her hi"
+    },
+    {
+      "fp": "180vvgq",
+      "i": 99,
+      "from": 45370,
+      "subject": "gift",
+      "entities": [],
+      "concept": "gift",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "gift, 1995"
+      },
+      "antidote": {
+        "concept": "gift",
+        "cast": []
+      },
+      "_said": "He cuts right through the intellectual BS. He flat out asks her, \"Did you enjoy it? Did it give you the thrill you And she can't lie. She looks at him and admits it. It did. Yes. T"
+    },
+    {
+      "fp": "1h1dki4",
+      "i": 100,
+      "from": 45725,
+      "subject": "wallet",
+      "entities": [],
+      "concept": "wallet",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "wallet, 1995"
+      },
+      "antidote": {
+        "concept": "wallet",
+        "cast": []
+      },
+      "_said": "It was never about saving him. It was about feeling alive. She wanted the adrenaline of being the main character in a tragedy without having to actually endure the tragedy. And con"
+    },
+    {
+      "fp": "uxhwh",
+      "i": 101,
+      "from": 46178,
+      "subject": "Mallerie — food",
+      "entities": [
+        "mallerie"
+      ],
+      "concept": "food",
+      "place": "kitchen",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Mallerie, kitchen, 1995"
+      },
+      "antidote": {
+        "concept": "food",
+        "set": "kitchen",
+        "cast": [
+          "mallerie"
+        ]
+      },
+      "_said": "Because self-awareness is not a break. It's an alibi. But we have to zoom out here because Mallerie doesn't operate in a vacuum. She is funded, encouraged, and celebrated by a mass"
+    },
+    {
+      "fp": "p501vu",
+      "i": 102,
+      "from": 46601,
+      "subject": "Mallerie and Ronin — home",
+      "entities": [
+        "mallerie",
+        "ronin"
+      ],
+      "concept": "home",
+      "place": "kitchen",
+      "confidence": 1,
+      "vox": {
+        "shot": "Mallerie and Ronin, kitchen, 1995"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": "kitchen",
+        "cast": [
+          "mallerie",
+          "ronin"
+        ]
+      },
+      "_said": "Yes, let's talk about the machine. There's this incredibly tense domestic scene in Mallalerie's kitchen. Ronin, her husband, is leaning against the counter, sipping a beer, and jus"
+    },
+    {
+      "fp": "179kzya",
+      "i": 103,
+      "from": 47182,
+      "subject": "home",
+      "entities": [],
+      "concept": "home",
+      "place": "kitchen",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "home, sitting right there at their softly lit kitchen, kitchen, 1995"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": "kitchen",
+        "cast": []
+      },
+      "_said": "wars is sitting right there at their softly lit kitchen island. It's a brilliantly mundane snapshot of the corporate reality behind all this art, and this reveals the true villain "
+    },
+    {
+      "fp": "xz6lec",
+      "i": 104,
+      "from": 47556,
+      "subject": "puppeteer",
+      "entities": [],
+      "concept": "puppeteer",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "puppeteer, 1995"
+      },
+      "antidote": {
+        "concept": "puppeteer",
+        "cast": []
+      },
+      "_said": "Because nobody in the entire publishing or television supply chain, not the agents, not the editors, not the Netflix executives, ever stops to ask where a story came from. They don"
+    },
+    {
+      "fp": "1ge3jqr",
+      "i": 105,
+      "from": 48115,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "war, 1995"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "The more traumatic the source material, the higher the bidding war. If an editor can go into an acquisition's meeting and say, \"The author practically lived with a meth addict to g"
+    },
+    {
+      "fp": "1e3hvx8",
+      "i": 106,
+      "from": 48530,
+      "subject": "coin",
+      "entities": [],
+      "concept": "coin",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "coin, 1995"
+      },
+      "antidote": {
+        "concept": "coin",
+        "cast": []
+      },
+      "_said": "And for those unfamiliar, a preempt is when a publisher offers so much money upfront that they force the author to take the book off the market before an auction can even happen. T"
+    },
+    {
+      "fp": "e0ay3v",
+      "i": 107,
+      "from": 48950,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "The satire here isn't just targeting one monstrous woman in North London. It's targeting the massive corporate appetite that funds her and the entire downstream economy of people w"
+    },
+    {
+      "fp": "115df82",
+      "i": 108,
+      "from": 49519,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "notes, writes glowing profiles praising her as fierce, 1995"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": []
+      },
+      "_said": "PK wrote a YA trilogy about a bisexual teen with telepathy. She scored a massive Lion's Gate film deal, and now she lives in a beachfront house in Malibu. Cosmopolitan magazine wri"
+    },
+    {
+      "fp": "186iqon",
+      "i": 109,
+      "from": 49987,
+      "subject": "Ronin",
+      "entities": [
+        "ronin"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Ronin, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "ronin"
+        ]
+      },
+      "_said": "This is what Mallalerie is chasing. This is the structural reward for successfully mining identity and trauma and packaging it for mass The ecosystem aggressively rewards the most "
+    },
+    {
+      "fp": "jogoz3",
+      "i": 110,
+      "from": 50388,
+      "subject": "Mallerie and Ronin and Leo — phone",
+      "entities": [
+        "mallerie",
+        "ronin",
+        "leo"
+      ],
+      "concept": "phone",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Mallerie and Ronin, 1995"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": null,
+        "cast": [
+          "mallerie",
+          "ronin",
+          "leo"
+        ]
+      },
+      "_said": "When Ronin finds out what Mallerie is doing with Leo, he goes ballistic. He yells at her. He calls her a narcissist. Isn't he acting as the voice of industry morality? the one pers"
+    },
+    {
+      "fp": "qwlk0",
+      "i": 111,
+      "from": 50851,
+      "subject": "Mallerie — work",
+      "entities": [
+        "mallerie"
+      ],
+      "concept": "work",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Mallerie, standing at wow, 1995"
+      },
+      "antidote": {
+        "concept": "work",
+        "set": null,
+        "cast": [
+          "mallerie"
+        ]
+      },
+      "_said": "He isn't grieving for Leo's humanity. He isn't heartbroken that a vulnerable man is being exploited. He is furious because Mallerie lied to him. And more importantly, because her r"
+    },
+    {
+      "fp": "1mlacxu",
+      "i": 112,
+      "from": 51310,
+      "subject": "Ronin and Leo — family",
+      "entities": [
+        "ronin",
+        "leo"
+      ],
+      "concept": "family",
+      "place": "kitchen",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Ronin and Leo, kitchen, 1995"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": "kitchen",
+        "cast": [
+          "ronin",
+          "leo"
+        ]
+      },
+      "_said": "He tells her, \"Do you know how dangerous this is?\" And Mallerie's mother echoes this exact sentiment, warning that Leo could make Ronin lose his brilliant job. Ronin is acting as a"
+    },
+    {
+      "fp": "e9qmi6",
+      "i": 113,
+      "from": 51744,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "standing on his porch, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "He doesn't object to the extraction of trauma. He objects to the liability of having the source of the trauma standing on his porch. He cares about the PR nightmare. The entire ind"
+    },
+    {
+      "fp": "8hggs1",
+      "i": 114,
+      "from": 52099,
+      "subject": "food",
+      "entities": [],
+      "concept": "food",
+      "place": "kitchen",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "food, kitchen, 1995"
+      },
+      "antidote": {
+        "concept": "food",
+        "set": "kitchen",
+        "cast": []
+      },
+      "_said": "They just want the trauma delivered cleanly in a PDF format without the messy, bleeding reality showing up at their dinner parties. And they all know it's gross. But say it with me"
+    },
+    {
+      "fp": "1iqe8e5",
+      "i": 115,
+      "from": 52459,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Which pushes the narrative into its inevitable terrifying conclusion? Because what happens when the corporate machine demands a third act, but the real life you're extracting from "
+    },
+    {
+      "fp": "15xwpnu",
+      "i": 116,
+      "from": 52795,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "What does a blocked writer do? She creates one. This is the moment the satire drops the jokes and turns into a full-blown psychological thriller. Picture this scene."
+    },
+    {
+      "fp": "apl4r8",
+      "i": 117,
+      "from": 53136,
+      "subject": "Mallerie and Leo — home",
+      "entities": [
+        "mallerie",
+        "leo"
+      ],
+      "concept": "home",
+      "place": "kitchen",
+      "confidence": 1,
+      "vox": {
+        "shot": "Mallerie and Leo, holding a knife while they talk, kitchen, 1995"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": "kitchen",
+        "cast": [
+          "mallerie",
+          "leo"
+        ]
+      },
+      "_said": "Mallerie and Leo are alone in the kitchen. The tension is incredibly thick. Mallerie is casually holding a knife while they talk. And she asks Leo with this intense predatory focus"
+    },
+    {
+      "fp": "o6g5k2",
+      "i": 118,
+      "from": 53664,
+      "subject": "city",
+      "entities": [],
+      "concept": "city",
+      "place": "street",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "city, street, 1995"
+      },
+      "antidote": {
+        "concept": "city",
+        "set": "street",
+        "cast": []
+      },
+      "_said": "on the streets and sees right through her sociopathy, looks at the knife in her hand and asks, \"Do you want it for your book?\" It is a chilling meta moment. The barrier between rea"
+    },
+    {
+      "fp": "mlv9du",
+      "i": 119,
+      "from": 54070,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "notes, write the book?\" the question becomes, 1995"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": []
+      },
+      "_said": "As her secrets start to come apart, the question driving her stops being, \"Will she write the book?\" The question becomes, what does the book need to happen next? Plot becomes the "
+    },
+    {
+      "fp": "1ft9y5f",
+      "i": 120,
+      "from": 54636,
+      "subject": "Leo — dollarExchange",
+      "entities": [
+        "leo"
+      ],
+      "concept": "dollarExchange",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Leo, 1995"
+      },
+      "antidote": {
+        "concept": "dollarExchange",
+        "set": null,
+        "cast": [
+          "leo"
+        ]
+      },
+      "_said": "of the novel. She isn't just an observer anymore. She is provoking him, pushing him, trying to squeeze a murder confession out of a fragile addict just so her manuscript has a bett"
+    },
+    {
+      "fp": "stlnnh",
+      "i": 121,
+      "from": 55186,
+      "subject": "home",
+      "entities": [],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "home, 1995"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": []
+      },
+      "_said": "a fellow hustler. He realizes that she is doing the exact same thing he does to survive on the streets. But her lies have the institutional power of the printed word and a major pu"
+    },
+    {
+      "fp": "p1b4cl",
+      "i": 122,
+      "from": 55726,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "But I have to push back a little here. She didn't actually murder anyone, right? She didn't push Mo into the canal. She's just asking highly unethical questions. Can we really clas"
+    },
+    {
+      "fp": "1rw9pzu",
+      "i": 123,
+      "from": 56090,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "notes, waiting for him to bleed so she can jot down no, 1995"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": []
+      },
+      "_said": "This is where Silver's redefinition of violence is so astute. In this book, the thriller aspect isn't physical murder. It is narrative consumption. Her mere presence in his life, h"
+    },
+    {
+      "fp": "elfpk1",
+      "i": 124,
+      "from": 56590,
+      "subject": "dollarExchange",
+      "entities": [],
+      "concept": "dollarExchange",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "dollar exchange, waiting for the animal to die, 1995"
+      },
+      "antidote": {
+        "concept": "dollarExchange",
+        "set": null,
+        "cast": []
+      },
+      "_said": "She is a vulture waiting for the animal to die. Yes, she is actively pushing an incredibly fragile man toward a psychological breaking point just so she has a satisfying character "
+    },
+    {
+      "fp": "1ifca2n",
+      "i": 125,
+      "from": 57091,
+      "subject": "Mallerie",
+      "entities": [
+        "mallerie"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Mallerie, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "mallerie"
+        ]
+      },
+      "_said": "And yet, self-awareness is not a break. It's an alibi. She tells herself it's just research. Now, for the final act of this analysis, we have to turn the lens away from Mallerie. W"
+    },
+    {
+      "fp": "i8vfab",
+      "i": 126,
+      "from": 57449,
+      "subject": "Mallerie",
+      "entities": [
+        "mallerie"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Mallerie, sitting down for a glowing interview with cosmo, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "mallerie"
+        ]
+      },
+      "_said": "This is the counterpoint that makes my head spin every time I think about it. Let's fast forward 13 months to the epilogue. Mallerie has won. The machine rewarded her. She is sitti"
+    },
+    {
+      "fp": "p2lt8m",
+      "i": 127,
+      "from": 58008,
+      "subject": "Mallerie and Leo — medical",
+      "entities": [
+        "mallerie",
+        "leo"
+      ],
+      "concept": "medical",
+      "place": "hospital",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Mallerie and Leo, hospital, 1995"
+      },
+      "antidote": {
+        "concept": "medical",
+        "set": "hospital",
+        "cast": [
+          "mallerie",
+          "leo"
+        ]
+      },
+      "_said": "and the interviewer asks her about the deep pain in the book. Mallerie confidently, shamelessly looks the interviewer in the eye and declares that the pain of the therapist charact"
+    },
+    {
+      "fp": "iw42o7",
+      "i": 128,
+      "from": 58601,
+      "subject": "Mallerie",
+      "entities": [
+        "mallerie"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Mallerie, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "mallerie"
+        ]
+      },
+      "_said": "her own voyerism the hero of the It makes you want to throw up. But it raises a massive structural question about the media we consume. Is Mallerie monstrous enough to let the read"
+    },
+    {
+      "fp": "1x3gbcj",
+      "i": 129,
+      "from": 58939,
+      "subject": "Mallerie and Leo",
+      "entities": [
+        "mallerie",
+        "leo"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Mallerie and Leo, read this book, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "mallerie",
+          "leo"
+        ]
+      },
+      "_said": "I mean, we get to read this book, point our fingers at Mallerie, and say, \"Wow, look at this terrible, narcissistic, privileged woman. We get to watch a villain, which prevents us "
+    },
+    {
+      "fp": "11r6u95",
+      "i": 130,
+      "from": 59376,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "reaches us through josh silver's novel, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "And ultimately, he only reaches us through Josh Silver's novel, a book that condemns the reduction of a human being to their suffering risks, doing exactly that same reduction to e"
+    },
+    {
+      "fp": "1pybpyu",
+      "i": 131,
+      "from": 59712,
+      "subject": "Fruitfly — phone",
+      "entities": [
+        "fruitfly"
+      ],
+      "concept": "phone",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Fruitfly, 1995"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": null,
+        "cast": [
+          "fruitfly"
+        ]
+      },
+      "_said": "That is the inescapable paradox of satires like this. And Silver leans right into the discomfort of it. If you look at the real life praise from the beginning of our source text, t"
+    },
+    {
+      "fp": "pfsljw",
+      "i": 132,
+      "from": 60264,
+      "subject": "Fruitfly",
+      "entities": [
+        "fruitfly"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Fruitfly, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "fruitfly"
+        ]
+      },
+      "_said": "Oh my god, those are the exact same Yes, the real book Fruitfly is being sold to us, the readers, using the exact same buzzwords and market logic that the fictional book sleigh is "
+    },
+    {
+      "fp": "1u0i7pp",
+      "i": 133,
+      "from": 60648,
+      "subject": "Fruitfly — dollarExchange",
+      "entities": [
+        "fruitfly"
+      ],
+      "concept": "dollarExchange",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Fruitfly, 1995"
+      },
+      "antidote": {
+        "concept": "dollarExchange",
+        "set": null,
+        "cast": [
+          "fruitfly"
+        ]
+      },
+      "_said": "Does that mean Fruitfly is immunizing itself with the confession diagnosis? Is the author saying, \"I know I'm selling you trauma, but because I'm sadderizing the selling of trauma,"
+    },
+    {
+      "fp": "1l539vn",
+      "i": 134,
+      "from": 61195,
+      "subject": "chains",
+      "entities": [],
+      "concept": "chains",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "chains, 1995"
+      },
+      "antidote": {
+        "concept": "chains",
+        "cast": []
+      },
+      "_said": "off the exact thing he's critiquing? You can effectively and fiercely argue both sides. On one hand, it is an escape hatch. It lets us laugh at the absurdities of the publishing wo"
+    },
+    {
+      "fp": "tdl66g",
+      "i": 135,
+      "from": 61565,
+      "subject": "subway",
+      "entities": [],
+      "concept": "subway",
+      "place": "street",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "subway, street, 1995"
+      },
+      "antidote": {
+        "concept": "subway",
+        "set": "street",
+        "cast": []
+      },
+      "_said": "Doway, the corporate jargon, and feel intellectually superior. But on the other hand, it is pure complicity because at the end of the day, we still bought the book. We still paid m"
+    },
+    {
+      "fp": "1052ehc",
+      "i": 136,
+      "from": 61982,
+      "subject": "Leo",
+      "entities": [
+        "leo"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Leo, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "leo"
+        ]
+      },
+      "_said": "The book's self-awareness of its own medium doesn't stop it from being a commodity on a shelf. Just like Mallerie's self-awareness didn't stop her from exploiting Leo. Even for the"
+    },
+    {
+      "fp": "1wqlegf",
+      "i": 137,
+      "from": 62323,
+      "subject": "road",
+      "entities": [],
+      "concept": "road",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "road, 1995"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": null,
+        "cast": []
+      },
+      "_said": "It's an Which brings us to the final reframe. The entire journey of this deep dive. Think about the media you consumed this week. The true crime series, the raw memoirs, the docume"
+    },
+    {
+      "fp": "uecyr2",
+      "i": 138,
+      "from": 62741,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "notes, write about someone else's pain, 1995"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": []
+      },
+      "_said": "The book isn't just asking a simple ethical question about whether it's wrong to write about someone else's pain. It's asking something much, much worse. It asks, \"What if knowing "
+    },
+    {
+      "fp": "l0z48p",
+      "i": 139,
+      "from": 63300,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "We just spent this time consuming a story built from the fictionalized worst year of someone's life. We dissected the trauma. We analyzed the addiction. We laughed at the satire. A"
+    },
+    {
+      "fp": "fc9zhk",
+      "i": 140,
+      "from": 63698,
+      "subject": "Mallerie",
+      "entities": [
+        "mallerie"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Mallerie, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "mallerie"
+        ]
+      },
+      "_said": "We see the matrix of extraction clearly. But the self-awareness you're feeling right now. Your ability to see the system and critique Mallerie Matics, that isn't a break either. Th"
+    },
+    {
+      "fp": "1ydajx5",
+      "i": 141,
+      "from": 64082,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "leave you there, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "We'll leave you there. Until next time."
+    }
+  ]
+}

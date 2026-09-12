@@ -1,0 +1,5700 @@
+{
+  "slug": "glass-castle",
+  "authored": false,
+  "briefs": [
+    {
+      "fp": "18m6l0f",
+      "i": 0,
+      "from": 0,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "She's in a taxi on Park Avenue in a borrowed designer dress. She looks out the window, sees her"
+    },
+    {
+      "fp": "zudloo",
+      "i": 1,
+      "from": 185,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": "kitchen",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, kitchen"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": "kitchen",
+        "cast": []
+      },
+      "_said": "mother digging through a dumpster, and she ducks, She literally slides down"
+    },
+    {
+      "fp": "n8wh12",
+      "i": 2,
+      "from": 324,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": "kitchen",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, hold on to that image because that single re, kitchen"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": "kitchen",
+        "cast": []
+      },
+      "_said": "down in the leather seat of this cab so her own mother won't see her. And you really uh you have to hold on to that image because that single reflexive motion of ducking in the bac"
+    },
+    {
+      "fp": "6o9gs8",
+      "i": 3,
+      "from": 700,
+      "subject": "magnifier",
+      "entities": [],
+      "concept": "magnifier",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "magnifier"
+      },
+      "antidote": {
+        "concept": "magnifier",
+        "cast": []
+      },
+      "_said": "switch for everything we are looking at today. Yeah, completely. When we examine the pedagogy of neglect"
+    },
+    {
+      "fp": "1ruo560",
+      "i": 4,
+      "from": 859,
+      "subject": "Janette",
+      "entities": [
+        "janette"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Janette"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "janette"
+        ]
+      },
+      "_said": "neglect in Janette Walls's defining memoir,"
+    },
+    {
+      "fp": "hans6",
+      "i": 5,
+      "from": 916,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "memoir, The Glass Castle, we're looking at a highly specific um a highly volatile"
+    },
+    {
+      "fp": "3178ef",
+      "i": 6,
+      "from": 1080,
+      "subject": "Rex",
+      "entities": [
+        "rex"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Rex"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "rex"
+        ]
+      },
+      "_said": "volatile formulation of parenting. Very volatile. And the thesis we're going to prove to you as we unpack this material is that every unforgivable, dangerous, horrifying thing Rex"
+    },
+    {
+      "fp": "xtiwfp",
+      "i": 7,
+      "from": 1334,
+      "subject": "Rex and Rosemary and Walls",
+      "entities": [
+        "rex",
+        "rosemary",
+        "walls"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Rex and Rosemary"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "rex",
+          "rosemary",
+          "walls"
+        ]
+      },
+      "_said": "Rex and Rosemary Walls did to their kids is also bizarrely exactly why those kids walked"
+    },
+    {
+      "fp": "7xkion",
+      "i": 8,
+      "from": 1488,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "walked out of welch"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "walked out of Welch, West Virginia, fundamentally"
+    },
+    {
+      "fp": "37nkaw",
+      "i": 9,
+      "from": 1576,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Right. Unbreakable. So, okay. To understand this deep dive, we really need to set the stage for you today. We're pulling"
+    },
+    {
+      "fp": "1x5ihzn",
+      "i": 10,
+      "from": 1773,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "pulling from Wall's memoir alongside some psychological frameworks of childhood trauma and resilience to figure out how"
+    },
+    {
+      "fp": "13wiyem",
+      "i": 11,
+      "from": 1946,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "how a childhood defined by just unimaginable neglect created adults of"
+    },
+    {
+      "fp": "1imxh43",
+      "i": 12,
+      "from": 2121,
+      "subject": "Rex and Walls — butterfly",
+      "entities": [
+        "rex",
+        "walls"
+      ],
+      "concept": "butterfly",
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Rex and Walls"
+      },
+      "antidote": {
+        "concept": "butterfly",
+        "set": null,
+        "cast": [
+          "rex",
+          "walls"
+        ]
+      },
+      "_said": "of impenetrable strength. Yeah. And you have to meet the architects of this chaos to understand it. So, first you have Rex Walls, the"
+    },
+    {
+      "fp": "17ocfq0",
+      "i": 13,
+      "from": 2393,
+      "subject": "Rex",
+      "entities": [
+        "rex"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Rex"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "rex"
+        ]
+      },
+      "_said": "Oh, Rex, right? He is a brilliant magnetic um heavily alcoholic dreamer. Like this is a man"
+    },
+    {
+      "fp": "7o95al",
+      "i": 14,
+      "from": 2621,
+      "subject": "work",
+      "entities": [],
+      "concept": "work",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "work, hold down a job in egypt mind"
+      },
+      "antidote": {
+        "concept": "work",
+        "set": null,
+        "cast": []
+      },
+      "_said": "who can explain the complex physics of a black hole to a toddler. But he absolutely cannot hold down a job in Egypt mind. No, not at all."
+    },
+    {
+      "fp": "1th6tb7",
+      "i": 15,
+      "from": 2837,
+      "subject": "Rosemary — phone",
+      "entities": [
+        "rosemary"
+      ],
+      "concept": "phone",
+      "place": "cafe",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Rosemary, cafe"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": "cafe",
+        "cast": [
+          "rosemary"
+        ]
+      },
+      "_said": "all. And balancing him out, well, if you can call it balancing, right? Balancing is a strong word, right? Balancing him out is Rosemary, the"
+    },
+    {
+      "fp": "1d7xb87",
+      "i": 16,
+      "from": 3021,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": "kitchen",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, kitchen"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": "kitchen",
+        "cast": []
+      },
+      "_said": "the mother. She's a self-proclaimed excitement addict, which is such a phrase. It really is. She's this bohemian artist who values her own personal freedom so intensely that she ac"
+    },
+    {
+      "fp": "1uzj1lh",
+      "i": 17,
+      "from": 3283,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "actively refuses to cook, clean, or provide, you know, basic Like zero basic needs met. Exactly. Meanwhile, her four kids are living this squalid nomadic life."
+    },
+    {
+      "fp": "tkrzzu",
+      "i": 18,
+      "from": 3619,
+      "subject": "Rex",
+      "entities": [
+        "rex"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Rex"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "rex"
+        ]
+      },
+      "_said": "life. They're constantly fleeing towns in the middle of the night to avoid bill collectors, which um Rex romantically brands as"
+    },
+    {
+      "fp": "17vpa7w",
+      "i": 19,
+      "from": 3842,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "as the scuaddle. The scuaddle. It sounds so fun when you say like that, right? It's totally part of his charm. And what makes this memoir such"
+    },
+    {
+      "fp": "l3tnu3",
+      "i": 20,
+      "from": 4089,
+      "subject": "Janette and Walls — magnifier",
+      "entities": [
+        "janette",
+        "walls"
+      ],
+      "concept": "magnifier",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Janette and Walls"
+      },
+      "antidote": {
+        "concept": "magnifier",
+        "cast": [
+          "janette",
+          "walls"
+        ]
+      },
+      "_said": "such a masterpiece and honestly so endlessly frustrating to analyze is that Janette Walls absolutely"
+    },
+    {
+      "fp": "ehaklc",
+      "i": 21,
+      "from": 4274,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": "kitchen",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, kitchen"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": "kitchen",
+        "cast": []
+      },
+      "_said": "absolutely refuses to tell you the reader whether you should forgive her parents. Yeah, she won't do it. That is not her mission. She simply"
+    },
+    {
+      "fp": "g43nis",
+      "i": 22,
+      "from": 4492,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "simply presents the raw evidence. And to navigate that evidence today, we're going to anchor our analysis around one recurring concept. And you have to keep this in mind."
+    },
+    {
+      "fp": "zupflw",
+      "i": 23,
+      "from": 4723,
+      "subject": "Rex and Walls — home",
+      "entities": [
+        "rex",
+        "walls"
+      ],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Rex and Walls"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": [
+          "rex",
+          "walls"
+        ]
+      },
+      "_said": "mind. What's the concept? The story was the house. The story was the house. Right. Rex Walls promised his family he was going to build a physical glass castle, a massive solarp pow"
+    },
+    {
+      "fp": "1795hkq",
+      "i": 24,
+      "from": 5047,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "desert. Spoilers, he never built it, right? He never built it, but he did build it out of his children."
+    },
+    {
+      "fp": "cgj2rp",
+      "i": 25,
+      "from": 5189,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "children. That's um that's exactly the lens we need. So, let's drop right back into that taxi cab because that scene establishes the emotional stakes of this entire deep dive."
+    },
+    {
+      "fp": "1b5ddep",
+      "i": 26,
+      "from": 5508,
+      "subject": "storm",
+      "entities": [],
+      "concept": "storm",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "storm"
+      },
+      "antidote": {
+        "concept": "storm",
+        "set": null,
+        "cast": []
+      },
+      "_said": "dive. It's so visceral. It is. It's March in New York City. It's blustery. The wind is whipping steam out of the manholes. And"
+    },
+    {
+      "fp": "1ep0udq",
+      "i": 27,
+      "from": 5755,
+      "subject": "Janette",
+      "entities": [
+        "janette"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Janette, sitting in the back of this cab"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "janette"
+        ]
+      },
+      "_said": "And Janette is sitting in the back of this cab. And Vivaldi is playing on the radio."
+    },
+    {
+      "fp": "jjukig",
+      "i": 28,
+      "from": 5887,
+      "subject": "home",
+      "entities": [],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "home"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": []
+      },
+      "_said": "radio. Valdi. Yeah. Right. She's on her way to a fancy party. She's going to go home later to an apartment filled with turn of the century bronze vases and Georgian maps."
+    },
+    {
+      "fp": "e0k3am",
+      "i": 29,
+      "from": 6168,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": "street",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "family, street"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": "street",
+        "cast": []
+      },
+      "_said": "maps. Very curated. Highly curated. And there, just 15 feet away on the sidewalk is her mother."
+    },
+    {
+      "fp": "u8lmpo",
+      "i": 30,
+      "from": 6355,
+      "subject": "Rosemary — family",
+      "entities": [
+        "rosemary"
+      ],
+      "concept": "family",
+      "place": "kitchen",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Rosemary, kitchen"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": "kitchen",
+        "cast": [
+          "rosemary"
+        ]
+      },
+      "_said": "mother. Rosemary has rags tied around her shoulders and she's happily picking through the trash with a little terrier mix at her feet. just digging in a right? And"
+    },
+    {
+      "fp": "1w1h74m",
+      "i": 31,
+      "from": 6595,
+      "subject": "Janette — phone",
+      "entities": [
+        "janette"
+      ],
+      "concept": "phone",
+      "place": "cafe",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Janette, cafe"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": "cafe",
+        "cast": [
+          "janette"
+        ]
+      },
+      "_said": "And Janette is seized with absolute paralyzing panic that her mother will look up and call out her It's just it's such a heavy moment. And the immediate aftermath is just as tellin"
+    },
+    {
+      "fp": "4ve8ag",
+      "i": 32,
+      "from": 6902,
+      "subject": "Janette — family",
+      "entities": [
+        "janette"
+      ],
+      "concept": "family",
+      "place": "cafe",
+      "confidence": 1,
+      "vox": {
+        "shot": "Janette, cafe"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": "cafe",
+        "cast": [
+          "janette"
+        ]
+      },
+      "_said": "telling because Janette feels so consumed by guilt for ducking that a few days later she takes her mom out to to the Chinese restaurant, right? Her"
+    },
+    {
+      "fp": "14mihlq",
+      "i": 33,
+      "from": 7130,
+      "subject": "Rosemary",
+      "entities": [
+        "rosemary"
+      ],
+      "concept": null,
+      "place": "cafe",
+      "confidence": 0.85,
+      "vox": {
+        "shot": "Rosemary, cafe"
+      },
+      "antidote": {
+        "concept": null,
+        "set": "cafe",
+        "cast": [
+          "rosemary"
+        ]
+      },
+      "_said": "Her favorite Chinese restaurant. So Rosemary shows up wearing a bulky stained gray sweater and men's leather Quite the look."
+    },
+    {
+      "fp": "1kow4kf",
+      "i": 34,
+      "from": 7377,
+      "subject": "Rosemary",
+      "entities": [
+        "rosemary"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Rosemary"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "rosemary"
+        ]
+      },
+      "_said": "look. Yeah. And before they even order the seafood delight, Rosemary is scooping up every single packet of soy sauce and duck sauce from the table and"
+    },
+    {
+      "fp": "fphuui",
+      "i": 35,
+      "from": 7620,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "and just dumping them into her purse. And the dried noodles, too, right? Oh, yes. She dumps an entire wooden bowl of dried noodles into her bag."
+    },
+    {
+      "fp": "tfhw1v",
+      "i": 36,
+      "from": 7876,
+      "subject": "Janette — family",
+      "entities": [
+        "janette"
+      ],
+      "concept": "family",
+      "place": "kitchen",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Janette, sitting across from her just desperate to fix t, kitchen"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": "kitchen",
+        "cast": [
+          "janette"
+        ]
+      },
+      "_said": "bag. And Janette is sitting across from her just desperate to fix this impossible Like, how do you fix that? You can't. She offers her mom money. She asks, practically begging what"
+    },
+    {
+      "fp": "11nzxwg",
+      "i": 37,
+      "from": 8253,
+      "subject": "Rosemary — family",
+      "entities": [
+        "rosemary"
+      ],
+      "concept": "family",
+      "place": "kitchen",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Rosemary, sitting there in her nice clothes and says, kitchen"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": "kitchen",
+        "cast": [
+          "rosemary"
+        ]
+      },
+      "_said": "life. Mhm. And Rosemary just looks at her daughter sitting there in her nice clothes and says,\"I could"
+    },
+    {
+      "fp": "10i52up",
+      "i": 38,
+      "from": 8397,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "could use an electrolysis treatment.\" Which is such a brilliantly absurd Right. Electrolysis. Yeah. And"
+    },
+    {
+      "fp": "1voujl4",
+      "i": 39,
+      "from": 8570,
+      "subject": "Janette — family",
+      "entities": [
+        "janette"
+      ],
+      "concept": "family",
+      "place": "kitchen",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Janette, kitchen"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": "kitchen",
+        "cast": [
+          "janette"
+        ]
+      },
+      "_said": "And when Janette pushes back on that, mom says, \"I'm fine. You're the one who needs help. Your values are all Wow."
+    },
+    {
+      "fp": "142gdqd",
+      "i": 40,
+      "from": 8757,
+      "subject": "magnifier",
+      "entities": [],
+      "concept": "magnifier",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "magnifier"
+      },
+      "antidote": {
+        "concept": "magnifier",
+        "cast": []
+      },
+      "_said": "Wow. Here's what that gap between the Vivaldi and the soy sauce packets means for you as we analyze this. The real subject of this opening isn't poverty."
+    },
+    {
+      "fp": "18vauf3",
+      "i": 41,
+      "from": 9024,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "poverty. It's not. No. I mean, poverty is the visual, yes, but the psychological reality we're dealing with is shame. Ah, shame, right? It's the agonizing, almost physically painfu"
+    },
+    {
+      "fp": "fo1vu7",
+      "i": 42,
+      "from": 9415,
+      "subject": "Janette — family",
+      "entities": [
+        "janette"
+      ],
+      "concept": "family",
+      "place": "kitchen",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Janette, kitchen"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": "kitchen",
+        "cast": [
+          "janette"
+        ]
+      },
+      "_said": "curated Park Avenue version of Janette, the one with the antique maps and the pearls and the chaotic homeless mother she is hiding from."
+    },
+    {
+      "fp": "12kxnkr",
+      "i": 43,
+      "from": 9631,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "from. Right. Because they can't exist in the same room. Exactly."
+    },
+    {
+      "fp": "l1a6j0",
+      "i": 44,
+      "from": 9720,
+      "subject": "Janette",
+      "entities": [
+        "janette"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Janette"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "janette"
+        ]
+      },
+      "_said": "Exactly. Janette has constructed an adult identity that is in total rigid opposition to her childhood. And the mere sight"
+    },
+    {
+      "fp": "1c3l99z",
+      "i": 45,
+      "from": 9933,
+      "subject": "Rosemary",
+      "entities": [
+        "rosemary"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Rosemary, read it"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "rosemary"
+        ]
+      },
+      "_said": "sight of Rosemary threatens to shatter that fragile construct I want to dig into that panic in the taxi though because when I first read it, my immediate thought was that this is a"
+    },
+    {
+      "fp": "1t9h9hv",
+      "i": 46,
+      "from": 10284,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "reads almost like pure vanity"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "relatable imposttor Imposttor syndrome. Yeah. It reads almost like pure vanity. I mean, look"
+    },
+    {
+      "fp": "eei31s",
+      "i": 47,
+      "from": 10416,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": "street",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "family, street"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": "street",
+        "cast": []
+      },
+      "_said": "look at her surroundings. She's ashamed of her own curated fancy life because it feels entirely fraudulent next to the stark freezing reality of her parents on the street. You thin"
+    },
+    {
+      "fp": "12cr03x",
+      "i": 48,
+      "from": 10749,
+      "subject": "coin",
+      "entities": [],
+      "concept": "coin",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "coin"
+      },
+      "antidote": {
+        "concept": "coin",
+        "cast": []
+      },
+      "_said": "wealth? Yeah, I think she's embarrassed by her wealth just as much as she's embarrassed by their poverty."
+    },
+    {
+      "fp": "1uhm6kd",
+      "i": 49,
+      "from": 10869,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "poverty. It's shame over being a fake. I see why you'd frame it as imposttor syndrome, but if we look at the clinical psychology of childhood trauma, I have to disagree. Really? Wh"
+    },
+    {
+      "fp": "18yp2rw",
+      "i": 50,
+      "from": 11196,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": "kitchen",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, kitchen"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": "kitchen",
+        "cast": []
+      },
+      "_said": "vanity. It's a primal survival She ducks because acknowledging her mother in that"
+    },
+    {
+      "fp": "9szjd2",
+      "i": 51,
+      "from": 11390,
+      "subject": "Rosemary — butterfly",
+      "entities": [
+        "rosemary"
+      ],
+      "concept": "butterfly",
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Rosemary"
+      },
+      "antidote": {
+        "concept": "butterfly",
+        "set": null,
+        "cast": [
+          "rosemary"
+        ]
+      },
+      "_said": "that moment threatens to pull her right back into the vortex of chaos she barely survived. Oh wow. You have to realize Rosemary isn't just a poor woman on the"
+    },
+    {
+      "fp": "12sxr0i",
+      "i": 52,
+      "from": 11654,
+      "subject": "Janette",
+      "entities": [
+        "janette"
+      ],
+      "concept": null,
+      "place": "street",
+      "confidence": 0.85,
+      "vox": {
+        "shot": "Janette, street"
+      },
+      "antidote": {
+        "concept": null,
+        "set": "street",
+        "cast": [
+          "janette"
+        ]
+      },
+      "_said": "the street to Janette. She is a literal gravitational pullback to a life where Janette was starved, neglected, and constantly"
+    },
+    {
+      "fp": "15uga44",
+      "i": 53,
+      "from": 11906,
+      "subject": "Janette",
+      "entities": [
+        "janette"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Janette"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "janette"
+        ]
+      },
+      "_said": "So, the ducking is protective. Ducking is an act of psychological Compartmentalization is the only way Janette is surviving New York. That makes so much"
+    },
+    {
+      "fp": "lye16g",
+      "i": 54,
+      "from": 12206,
+      "subject": "home",
+      "entities": [],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "home"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": []
+      },
+      "_said": "much sense. She's trying to build a physical house out of antiques and Georgian maps to protect herself, but she's realizing that the story was the"
+    },
+    {
+      "fp": "15sjkbl",
+      "i": 55,
+      "from": 12403,
+      "subject": "home",
+      "entities": [],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "home"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": []
+      },
+      "_said": "the house. Yeah, exact. The secret terrifying story of her past is the real structure she lives inside. She's just terrified of anyone looking through the windows. She really is. A"
+    },
+    {
+      "fp": "1jacos",
+      "i": 56,
+      "from": 12720,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "we want to understand exactly what she's so terrified of being pulled back into, we have to look at the genesis of that We have to go back to the beginning, right? We have to look "
+    },
+    {
+      "fp": "gwhayg",
+      "i": 57,
+      "from": 12974,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": "kitchen",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, kitchen"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": "kitchen",
+        "cast": []
+      },
+      "_said": "at how danger was normalized in this family from the very Which brings us to arguably the most famous scene in the book, the hot dog fire. Yes, the hot dog fire."
+    },
+    {
+      "fp": "3n0idc",
+      "i": 58,
+      "from": 13327,
+      "subject": "fire",
+      "entities": [],
+      "concept": "fire",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "fire"
+      },
+      "antidote": {
+        "concept": "fire",
+        "cast": []
+      },
+      "_said": "fire. This is Janette's earliest conscious memory. She's 3 years old. Three."
+    },
+    {
+      "fp": "8otnj8",
+      "i": 59,
+      "from": 13459,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": "kitchen",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "family, standing on a chair in a trailer park in arizona, kitchen"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": "kitchen",
+        "cast": []
+      },
+      "_said": "Three. It's unbelievable. Three. She's standing on a chair in a trailer park in Arizona wearing a pink dress that she says sticks out like a tutu and she's boiling hot dogs by hers"
+    },
+    {
+      "fp": "6z8y0y",
+      "i": 60,
+      "from": 13922,
+      "subject": "fire",
+      "entities": [],
+      "concept": "fire",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "fire"
+      },
+      "antidote": {
+        "concept": "fire",
+        "cast": []
+      },
+      "_said": "completely absorbed in painting a picture. Suddenly, the pink dress catches fire."
+    },
+    {
+      "fp": "vq5bgx",
+      "i": 61,
+      "from": 14073,
+      "subject": "Janette — fire",
+      "entities": [
+        "janette"
+      ],
+      "concept": "fire",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Janette, climbing her stomach"
+      },
+      "antidote": {
+        "concept": "fire",
+        "cast": [
+          "janette"
+        ]
+      },
+      "_said": "fire. Janette describes the yellow white flames climbing her stomach."
+    },
+    {
+      "fp": "scs38e",
+      "i": 62,
+      "from": 14174,
+      "subject": "fire",
+      "entities": [],
+      "concept": "fire",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "fire"
+      },
+      "antidote": {
+        "concept": "fire",
+        "cast": []
+      },
+      "_said": "stomach. She remembers the smell of burning hair, the horrible crackling sound of her own eyelashes singing. God, the sensory details are just they're horrifying."
+    },
+    {
+      "fp": "1pvvz3c",
+      "i": 63,
+      "from": 14405,
+      "subject": "medical",
+      "entities": [],
+      "concept": "medical",
+      "place": "hospital",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "medical, hospital"
+      },
+      "antidote": {
+        "concept": "medical",
+        "set": "hospital",
+        "cast": []
+      },
+      "_said": "horrifying. She's rushed to the hospital. She's put on a metal bed piled with ice cubes."
+    },
+    {
+      "fp": "1fxoq71",
+      "i": 64,
+      "from": 14568,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": "kitchen",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, standing there reaching up to crunch on the ice, kitchen"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": "kitchen",
+        "cast": []
+      },
+      "_said": "cubes. And Brian, her little brother, is standing there reaching up to crunch on the ice cubes that are covering her severely burned body. Those details"
+    },
+    {
+      "fp": "m2jxle",
+      "i": 65,
+      "from": 14800,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": "kitchen",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, kitchen"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": "kitchen",
+        "cast": []
+      },
+      "_said": "details are unforgettable, but it's what happens next that defines the family's entire operational model, right?"
+    },
+    {
+      "fp": "1cx9hbo",
+      "i": 66,
+      "from": 14976,
+      "subject": "Rex",
+      "entities": [
+        "rex"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Rex"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "rex"
+        ]
+      },
+      "_said": "right? Because after six weeks of agonizing skin grafts, Rex shows up. Here comes Rex. He doesn't pay the bill."
+    },
+    {
+      "fp": "1spqxc0",
+      "i": 67,
+      "from": 15160,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "bill. He doesn't consult the doctors. He unhooks her right arm from the slang, scoops her up,"
+    },
+    {
+      "fp": "1b4biy2",
+      "i": 68,
+      "from": 15312,
+      "subject": "medical",
+      "entities": [],
+      "concept": "medical",
+      "place": "hospital",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "medical, running away from the nurses, hospital"
+      },
+      "antidote": {
+        "concept": "medical",
+        "set": "hospital",
+        "cast": []
+      },
+      "_said": "up, and sprints down the hospital stairs, physically running away from the nurses. Just runs."
+    },
+    {
+      "fp": "1ppfq8e",
+      "i": 69,
+      "from": 15451,
+      "subject": "Rex",
+      "entities": [
+        "rex"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Rex"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "rex"
+        ]
+      },
+      "_said": "runs. Yeah. He tells her they are checking out Rex Wall style. Rex Wall style."
+    },
+    {
+      "fp": "1ctpv7m",
+      "i": 70,
+      "from": 15568,
+      "subject": "Walls — medical",
+      "entities": [
+        "walls"
+      ],
+      "concept": "medical",
+      "place": "hospital",
+      "confidence": 1,
+      "vox": {
+        "shot": "Walls, hospital"
+      },
+      "antidote": {
+        "concept": "medical",
+        "set": "hospital",
+        "cast": [
+          "walls"
+        ]
+      },
+      "_said": "style. Here's what that hospital breakout means for you in the context of this deep dive. This single event sets the absolute doctrine of the Walls family"
+    },
+    {
+      "fp": "n626h4",
+      "i": 71,
+      "from": 15825,
+      "subject": "Janette — family",
+      "entities": [
+        "janette"
+      ],
+      "concept": "family",
+      "place": "kitchen",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Janette, kitchen"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": "kitchen",
+        "cast": [
+          "janette"
+        ]
+      },
+      "_said": "family before Janette is even 4 years old. What's the doctrine? The doctrine is twofold."
+    },
+    {
+      "fp": "e1srof",
+      "i": 72,
+      "from": 15957,
+      "subject": "Rex — phone",
+      "entities": [
+        "rex"
+      ],
+      "concept": "phone",
+      "place": "cafe",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Rex, cafe"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": "cafe",
+        "cast": [
+          "rex"
+        ]
+      },
+      "_said": "twofold. First, institutions, whether it's hospitals, doctors, schools, or the government, they are the enemy. Rex literally calls them med school quacks. Right. They can't be trus"
+    },
+    {
+      "fp": "j2yq1f",
+      "i": 73,
+      "from": 16274,
+      "subject": "magnifier",
+      "entities": [],
+      "concept": "magnifier",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "magnifier"
+      },
+      "antidote": {
+        "concept": "magnifier",
+        "cast": []
+      },
+      "_said": "Exactly. Second, extreme self-reliance is demanded for survival. But we have to look closer at the mechanics of this because this doctrine"
+    },
+    {
+      "fp": "13rui11",
+      "i": 74,
+      "from": 16512,
+      "subject": "Rex",
+      "entities": [
+        "rex"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Rex"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "rex"
+        ]
+      },
+      "_said": "doctrine of aggressive self-reliance also serves as the perfect airtight alibi for Rex"
+    },
+    {
+      "fp": "1tnisqw",
+      "i": 75,
+      "from": 16653,
+      "subject": "Rex — fire",
+      "entities": [
+        "rex"
+      ],
+      "concept": "fire",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Rex"
+      },
+      "antidote": {
+        "concept": "fire",
+        "cast": [
+          "rex"
+        ]
+      },
+      "_said": "Rex and Rosemary's profound neglect. Oh, that's dark. Think about it. If your children are supposed to be completely self-reliant at 3 years old, then you aren't failing to protect"
+    },
+    {
+      "fp": "1gy3zym",
+      "i": 76,
+      "from": 17006,
+      "subject": "fire",
+      "entities": [],
+      "concept": "fire",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "fire"
+      },
+      "antidote": {
+        "concept": "fire",
+        "cast": []
+      },
+      "_said": "fire. You're simply allowing them to be Wow. And the most insane part is that you see"
+    },
+    {
+      "fp": "17jwjla",
+      "i": 77,
+      "from": 17191,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "see the immediate result of this doctrine just a few days later. You do."
+    },
+    {
+      "fp": "cr1yae",
+      "i": 78,
+      "from": 17299,
+      "subject": "Janette — medical",
+      "entities": [
+        "janette"
+      ],
+      "concept": "medical",
+      "place": "kitchen",
+      "confidence": 1,
+      "vox": {
+        "shot": "Janette, kitchen"
+      },
+      "antidote": {
+        "concept": "medical",
+        "set": "kitchen",
+        "cast": [
+          "janette"
+        ]
+      },
+      "_said": "do. Janette gets home from the hospital wrapped in bandages and she goes right back to the stove. She cooks hot dogs And her mom,"
+    },
+    {
+      "fp": "1s6pkih",
+      "i": 79,
+      "from": 17580,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": "kitchen",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, kitchen"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": "kitchen",
+        "cast": []
+      },
+      "_said": "mom, instead of being horrified, says, \"Good"
+    },
+    {
+      "fp": "9o0k8f",
+      "i": 80,
+      "from": 17652,
+      "subject": "Janette — fire",
+      "entities": [
+        "janette"
+      ],
+      "concept": "fire",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Janette, watches the neighbor burn trash"
+      },
+      "antidote": {
+        "concept": "fire",
+        "cast": [
+          "janette"
+        ]
+      },
+      "_said": "\"Good for you. You've got to get right back in the saddle.\" Just incredible. And then Janette develops this complete fascination with fire. She starts stealing matches. She watches"
+    },
+    {
+      "fp": "ryjn54",
+      "i": 81,
+      "from": 18041,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "haunts The Tinker Bell. Yes, the Tinkerbell. She takes her favorite plastic toy,"
+    },
+    {
+      "fp": "547lul",
+      "i": 82,
+      "from": 18165,
+      "subject": "game",
+      "entities": [],
+      "concept": "game",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "game, holds a lit match to its face"
+      },
+      "antidote": {
+        "concept": "game",
+        "set": null,
+        "cast": []
+      },
+      "_said": "toy, a Tinkerbell figurine, and she holds a lit match to its face. She watches Tinker Bell's eyes grow wide, the plastic melting, the saucy red lips turning into this"
+    },
+    {
+      "fp": "1ocx1e3",
+      "i": 83,
+      "from": 18434,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "this ugly lopsided smear, and then she puts tiny bandages on the melted face. It is a textbook chilling example"
+    },
+    {
+      "fp": "yz4mnl",
+      "i": 84,
+      "from": 18628,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "example of trauma repetition. Trauma repetition. Yeah. In psychology, when a child experiences a severe trauma where they have zero agency,"
+    },
+    {
+      "fp": "lj86lb",
+      "i": 85,
+      "from": 18893,
+      "subject": "fire",
+      "entities": [],
+      "concept": "fire",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "fire"
+      },
+      "antidote": {
+        "concept": "fire",
+        "cast": []
+      },
+      "_said": "agency, like catching fire, their brain struggles to process that total loss of control. So, they instinctively try"
+    },
+    {
+      "fp": "bzzold",
+      "i": 86,
+      "from": 19061,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "try to recreate the scenario, but this time they act as the"
+    },
+    {
+      "fp": "qsrj48",
+      "i": 87,
+      "from": 19154,
+      "subject": "fire",
+      "entities": [],
+      "concept": "fire",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "fire"
+      },
+      "antidote": {
+        "concept": "fire",
+        "cast": []
+      },
+      "_said": "the one in control. Oh, so she's the fire now. Exactly."
+    },
+    {
+      "fp": "fux6wl",
+      "i": 88,
+      "from": 19260,
+      "subject": "Janette — fire",
+      "entities": [
+        "janette"
+      ],
+      "concept": "fire",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Janette"
+      },
+      "antidote": {
+        "concept": "fire",
+        "cast": [
+          "janette"
+        ]
+      },
+      "_said": "Janette becomes the perpetrator of the fire against Tinkerbell rather than the victim to master the anxiety. But what's really happening on a parental level here"
+    },
+    {
+      "fp": "1pcyjzw",
+      "i": 89,
+      "from": 19524,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "here is pathological child endangerment."
+    },
+    {
+      "fp": "692pva",
+      "i": 90,
+      "from": 19579,
+      "subject": "Rex",
+      "entities": [
+        "rex"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Rex"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "rex"
+        ]
+      },
+      "_said": "endangerment. Right. Rex doesn't just let her cook again. He actively teaches her to pass her finger"
+    },
+    {
+      "fp": "hripef",
+      "i": 91,
+      "from": 19716,
+      "subject": "fire",
+      "entities": [],
+      "concept": "fire",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "fire"
+      },
+      "antidote": {
+        "concept": "fire",
+        "cast": []
+      },
+      "_said": "finger through a candle flame. He forces her to face the fire to cover up his own catastrophic failure to protect his"
+    },
+    {
+      "fp": "1kml7bn",
+      "i": 92,
+      "from": 19908,
+      "subject": "fire",
+      "entities": [],
+      "concept": "fire",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "fire, carry the guilt of her getting severely burne"
+      },
+      "antidote": {
+        "concept": "fire",
+        "cast": []
+      },
+      "_said": "his Because if she's tough, if she's a fearless fire tamer, he doesn't have to carry the guilt of her getting severely burned under his watch. I"
+    },
+    {
+      "fp": "1i1v23r",
+      "i": 93,
+      "from": 20126,
+      "subject": "lightbulb",
+      "entities": [],
+      "concept": "lightbulb",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "lightbulb"
+      },
+      "antidote": {
+        "concept": "lightbulb",
+        "cast": []
+      },
+      "_said": "I totally understand the clinical view of trauma repetition, but I mean, I have to push back on the idea that it was purely damaging. You do. I do because look at the actual tangib"
+    },
+    {
+      "fp": "dhlkbl",
+      "i": 94,
+      "from": 20476,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": "cafe",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone, cafe"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": "cafe",
+        "cast": []
+      },
+      "_said": "can call it pathological endangerment, but it worked."
+    },
+    {
+      "fp": "4vi6os",
+      "i": 95,
+      "from": 20539,
+      "subject": "fire",
+      "entities": [],
+      "concept": "fire",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "fire, running away from the burning trash"
+      },
+      "antidote": {
+        "concept": "fire",
+        "cast": []
+      },
+      "_said": "worked. Yeah, she didn't become a victim terrified of stoves for the rest of her life. She conquered the fear. When the neighbor is shocked, she isn't running away from the burning"
+    },
+    {
+      "fp": "a9zspc",
+      "i": 96,
+      "from": 20793,
+      "subject": "Rex — fire",
+      "entities": [
+        "rex"
+      ],
+      "concept": "fire",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Rex"
+      },
+      "antidote": {
+        "concept": "fire",
+        "cast": [
+          "rex"
+        ]
+      },
+      "_said": "trash. Rex Bellows, why the hell would she? She already fought the fire once and won. if we think about this like a vaccine"
+    },
+    {
+      "fp": "9ph696",
+      "i": 97,
+      "from": 21062,
+      "subject": "puppeteer",
+      "entities": [],
+      "concept": "puppeteer",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "puppeteer"
+      },
+      "antidote": {
+        "concept": "puppeteer",
+        "cast": []
+      },
+      "_said": "vaccine introducing a controlled or in this case uncontrolled dose of a disease to"
+    },
+    {
+      "fp": "f4gwcs",
+      "i": 98,
+      "from": 21208,
+      "subject": "fire",
+      "entities": [],
+      "concept": "fire",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "fire"
+      },
+      "antidote": {
+        "concept": "fire",
+        "cast": []
+      },
+      "_said": "to build immunity, the cruelty of making her face the fire actually birthed this extreme bizarre"
+    },
+    {
+      "fp": "1ez589",
+      "i": 99,
+      "from": 21427,
+      "subject": "Rex",
+      "entities": [
+        "rex"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Rex"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "rex"
+        ]
+      },
+      "_said": "bizarre resilience. I like the vaccine analogy, but we have to ask if Rex accidentally administered a lethal emotional dose. A lethal dose. Yes. Yes. She gained practical resilienc"
+    },
+    {
+      "fp": "57rqy1",
+      "i": 100,
+      "from": 21758,
+      "subject": "Rex — home",
+      "entities": [
+        "rex"
+      ],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Rex"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": [
+          "rex"
+        ]
+      },
+      "_said": "to her psychological development? She's bandaging a melted toy because no one properly bandaged her emotional wounds. She learned that she is entirely on her But that's exactly it."
+    },
+    {
+      "fp": "wfyzqh",
+      "i": 101,
+      "from": 22125,
+      "subject": "home",
+      "entities": [],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "home"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": []
+      },
+      "_said": "home with a functioning stove or a protective, watchful environment. So, he built a narrative instead."
+    },
+    {
+      "fp": "wkekjd",
+      "i": 102,
+      "from": 22257,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": "kitchen",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, kitchen"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": "kitchen",
+        "cast": []
+      },
+      "_said": "instead. The narrative of the hero, right? He built a story where the hospitalers are the villains. He is the daring outlaw hero rescuing his daughter and she is the brave warrior"
+    },
+    {
+      "fp": "fi6y58",
+      "i": 103,
+      "from": 22579,
+      "subject": "fire",
+      "entities": [],
+      "concept": "fire",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "fire"
+      },
+      "antidote": {
+        "concept": "fire",
+        "cast": []
+      },
+      "_said": "warrior who defeated fire. The narrative completely replaces the physical safety they lack. Which leads us directly into the"
+    },
+    {
+      "fp": "1roioa5",
+      "i": 104,
+      "from": 22819,
+      "subject": "Rex",
+      "entities": [
+        "rex"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Rex"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "rex"
+        ]
+      },
+      "_said": "the ultimate narrative structure Rex built. The glass castle itself, the title of the book. Exactly. This is where the physical and"
+    },
+    {
+      "fp": "23hp0x",
+      "i": 105,
+      "from": 23028,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "and the psychological fully collide. We're moving out of the desert and into Welch, West Virginia, which is Rex's hometown."
+    },
+    {
+      "fp": "1l26kdx",
+      "i": 106,
+      "from": 23229,
+      "subject": "Rex",
+      "entities": [
+        "rex"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Rex, arrive in welch"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "rex"
+        ]
+      },
+      "_said": "hometown. Welch is a rough place. Very rough. But before they even arrive in Welch, we have to look at the blueprints. Rex carries these dogeared stained blueprints everywhere they"
+    },
+    {
+      "fp": "1irdx1o",
+      "i": 107,
+      "from": 23582,
+      "subject": "water",
+      "entities": [],
+      "concept": "water",
+      "place": "shore",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "water, shore"
+      },
+      "antidote": {
+        "concept": "water",
+        "set": "shore",
+        "cast": []
+      },
+      "_said": "drawn. He has this blocky, precise handwriting. He's mapped out the solar cells, the glass ceilings, the water purification systems. He tells the kids they just need to find gold w"
+    },
+    {
+      "fp": "yw4wlv",
+      "i": 108,
+      "from": 23851,
+      "subject": "ledge",
+      "entities": [],
+      "concept": "ledge",
+      "place": "street",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "ledge, street"
+      },
+      "antidote": {
+        "concept": "ledge",
+        "set": "street",
+        "cast": []
+      },
+      "_said": "homemade prospector device to fund it. The prospector, right? When they finally scadaddle to Welch and buy a rotting shack with no indoor plumbing and a leaky roof,"
+    },
+    {
+      "fp": "z7hlx6",
+      "i": 109,
+      "from": 24115,
+      "subject": "Rex — ledge",
+      "entities": [
+        "rex"
+      ],
+      "concept": "ledge",
+      "place": "street",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Rex, street"
+      },
+      "antidote": {
+        "concept": "ledge",
+        "set": "street",
+        "cast": [
+          "rex"
+        ]
+      },
+      "_said": "roof, Rex confidently stakes out the foundation for the castle in the yard. And he makes the kids dig."
+    },
+    {
+      "fp": "1fqe1u6",
+      "i": 110,
+      "from": 24256,
+      "subject": "Janette",
+      "entities": [
+        "janette"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Janette"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "janette"
+        ]
+      },
+      "_said": "dig. Janette and Brian spend a month digging a massive hole in the rocky dirt. They dig it deep enough for them to physically disappear inside."
+    },
+    {
+      "fp": "zihv6a",
+      "i": 111,
+      "from": 24485,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": "kitchen",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, kitchen"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": "kitchen",
+        "cast": []
+      },
+      "_said": "inside. It's an incredible physical effort from these starving kids. And then, because the family can't afford the town's trash collection fee, the garbage in the shack starts pili"
+    },
+    {
+      "fp": "79ruud",
+      "i": 112,
+      "from": 24804,
+      "subject": "Rex",
+      "entities": [
+        "rex"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Rex"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "rex"
+        ]
+      },
+      "_said": "sad. Rex looks at the massive hole his children just dug and tells them to start throwing their household trash into the foundation. He tells them it's temporary."
+    },
+    {
+      "fp": "121fohu",
+      "i": 113,
+      "from": 25044,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": "kitchen",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, kitchen"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": "kitchen",
+        "cast": []
+      },
+      "_said": "temporary. Yeah, the temporary measure, he But of course, the hole just fills up. The foundation for the glorious glass castle literally becomes the family garbage pit. The emotion"
+    },
+    {
+      "fp": "1s3oxf7",
+      "i": 114,
+      "from": 25392,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "of that transition from foundation to garbage pit is staggering."
+    },
+    {
+      "fp": "pulgpr",
+      "i": 115,
+      "from": 25507,
+      "subject": "Walls — lightbulb",
+      "entities": [
+        "walls"
+      ],
+      "concept": "lightbulb",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Walls"
+      },
+      "antidote": {
+        "concept": "lightbulb",
+        "cast": [
+          "walls"
+        ]
+      },
+      "_said": "Here's what this means for the psychology of the walls children. The gift of the glass castle was a cathedral- sized lie. A lie. It was a fiction. But critically, and this is the g"
+    },
+    {
+      "fp": "1hl6itm",
+      "i": 116,
+      "from": 25838,
+      "subject": "Janette — mirror",
+      "entities": [
+        "janette"
+      ],
+      "concept": "mirror",
+      "place": "bedroom",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Janette, bedroom"
+      },
+      "antidote": {
+        "concept": "mirror",
+        "set": "bedroom",
+        "cast": [
+          "janette"
+        ]
+      },
+      "_said": "genius of Janette Wall's reflection on her childhood, believing in this impossible pristine glass"
+    },
+    {
+      "fp": "1dol69c",
+      "i": 117,
+      "from": 25994,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "glass structure is exactly what allowed her to imagine a life beyond the squalor of I see the lie gave her the mental architecture"
+    },
+    {
+      "fp": "15fx997",
+      "i": 118,
+      "from": 26239,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "architecture to survive the garbage pit. If she didn't have the blueprint in her mind, the reality of the trash would have crushed her. You see the dark power of"
+    },
+    {
+      "fp": "1exwerq",
+      "i": 119,
+      "from": 26479,
+      "subject": "Janette — tree",
+      "entities": [
+        "janette"
+      ],
+      "concept": "tree",
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Janette"
+      },
+      "antidote": {
+        "concept": "tree",
+        "set": null,
+        "cast": [
+          "janette"
+        ]
+      },
+      "_said": "of those blueprints years later when Janette is a teenager. Oh, right before she leaves, right, she's weeks away from finally escaping"
+    },
+    {
+      "fp": "1x15lfv",
+      "i": 120,
+      "from": 26733,
+      "subject": "Rex — home",
+      "entities": [
+        "rex"
+      ],
+      "concept": "home",
+      "place": "bedroom",
+      "confidence": 1,
+      "vox": {
+        "shot": "Rex, bedroom"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": "bedroom",
+        "cast": [
+          "rex"
+        ]
+      },
+      "_said": "escaping to New York City. She has her bus ticket out and Rex comes into her bedroom. He unrolls those same stained, ragged blueprints. The same ones. The exact same ones. He point"
+    },
+    {
+      "fp": "1ts24zx",
+      "i": 121,
+      "from": 27134,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "\"Now that Lorie's gone, I'm reconfiguring the layout and your room will be a lot"
+    },
+    {
+      "fp": "1lkb7wq",
+      "i": 122,
+      "from": 27256,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "lot It's so manipulative. He promises her that he will"
+    },
+    {
+      "fp": "13drxgf",
+      "i": 123,
+      "from": 27348,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "will finally build it if she stays. He is desperately using the math, the fantasy,"
+    },
+    {
+      "fp": "1czv4xd",
+      "i": 124,
+      "from": 27511,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "fantasy, the literal drawing of a larger room to trap her into staying in the garbage pit with It really is incredibly manipulative. It reveals"
+    },
+    {
+      "fp": "1psfv3r",
+      "i": 125,
+      "from": 27722,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "reveals that the blueprints were a calculated psychological tool from day You think from day one? Yes. It was a mirage he dangled in front of his kids to keep his starving"
+    },
+    {
+      "fp": "10alg9l",
+      "i": 126,
+      "from": 27976,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "starving troops marching forward without mutiny. If they believe in the castle, they won't rebel against the shack."
+    },
+    {
+      "fp": "1lo3c31",
+      "i": 127,
+      "from": 28137,
+      "subject": "Rex",
+      "entities": [
+        "rex"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Rex"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "rex"
+        ]
+      },
+      "_said": "shack. See, I struggle to believe Rex was that Yeah. When you"
+    },
+    {
+      "fp": "1l7drjt",
+      "i": 128,
+      "from": 28279,
+      "subject": "puppeteer",
+      "entities": [],
+      "concept": "puppeteer",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "puppeteer"
+      },
+      "antidote": {
+        "concept": "puppeteer",
+        "cast": []
+      },
+      "_said": "you look at the mechanics of the tragedy isn't usually a master plan of manipulation."
+    },
+    {
+      "fp": "uaf4oj",
+      "i": 129,
+      "from": 28468,
+      "subject": "puppeteer",
+      "entities": [],
+      "concept": "puppeteer",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "puppeteer"
+      },
+      "antidote": {
+        "concept": "puppeteer",
+        "cast": []
+      },
+      "_said": "manipulation. It's the delusion that they'll eventually get it right. The delusion, right? I genuinely believe that when he was drawing those solar cells, he thought he would strik"
+    },
+    {
+      "fp": "halp8w",
+      "i": 130,
+      "from": 28874,
+      "subject": "Rex and Walls",
+      "entities": [
+        "rex",
+        "walls"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Rex and Walls"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "rex",
+          "walls"
+        ]
+      },
+      "_said": "tragedy of Rex Walls isn't a malicious intent."
+    },
+    {
+      "fp": "1p7xab8",
+      "i": 131,
+      "from": 28944,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "reading of him"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "intent. It's his addiction. He was breaking his own heart right along with I have to strongly disagree with that reading of him."
+    },
+    {
+      "fp": "ftujwx",
+      "i": 132,
+      "from": 29155,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "him. Addiction explains the failure, sure, but it doesn't excuse the specific nature of the lie. How so? You don't tell your kids to throw their literal rotting garbage into"
+    },
+    {
+      "fp": "bkcb94",
+      "i": 133,
+      "from": 29467,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "into the foundation of your dream if you genuinely believe you're going to pour concrete the next day."
+    },
+    {
+      "fp": "1p6vko6",
+      "i": 134,
+      "from": 29618,
+      "subject": "home",
+      "entities": [],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "home"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": []
+      },
+      "_said": "day. That's true. The moment he authorized the trash, he knew the castle was dead. But to your point about the dream sheltering them, the story was the house, right? The phrase, th"
+    },
+    {
+      "fp": "wxvg22",
+      "i": 135,
+      "from": 30007,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "on that mountain. The blueprint itself, the fiction of a better future was the only shelter he ever"
+    },
+    {
+      "fp": "1vu1fap",
+      "i": 136,
+      "from": 30211,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": "kitchen",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, kitchen"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": "kitchen",
+        "cast": []
+      },
+      "_said": "ever actually provided for his daughter and she lived inside that blueprint for years."
+    },
+    {
+      "fp": "1qms05t",
+      "i": 137,
+      "from": 30369,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "years. Okay. If the blueprint was how he sheltered them mentally, we have to look at how he taught them to survive Ah, the swimming lesson, right? Which brings us to the hot pot."
+    },
+    {
+      "fp": "1qw5k4s",
+      "i": 138,
+      "from": 30698,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "pot. We're back out in the Nevada desert now. The hot pot"
+    },
+    {
+      "fp": "1cr4bz0",
+      "i": 139,
+      "from": 30792,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "pot is a natural sulfur spring surrounded by craggy rocks."
+    },
+    {
+      "fp": "mukgo3",
+      "i": 140,
+      "from": 30914,
+      "subject": "Janette — water",
+      "entities": [
+        "janette"
+      ],
+      "concept": "water",
+      "place": "shore",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Janette, shore"
+      },
+      "antidote": {
+        "concept": "water",
+        "set": "shore",
+        "cast": [
+          "janette"
+        ]
+      },
+      "_said": "rocks. It smells intensely like rotten eggs and it's deep. The locals say it has no bottom and Janette cannot swim. She is absolutely"
+    },
+    {
+      "fp": "1q906ji",
+      "i": 141,
+      "from": 31145,
+      "subject": "Janette and Rex — water",
+      "entities": [
+        "janette",
+        "rex"
+      ],
+      "concept": "water",
+      "place": "shore",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Janette and Rex, carrying a terrified janette who is just clingin, shore"
+      },
+      "antidote": {
+        "concept": "water",
+        "set": "shore",
+        "cast": [
+          "janette",
+          "rex"
+        ]
+      },
+      "_said": "absolutely terrified of the water. Rex wades out into the center carrying a terrified Janette who is just clinging to his neck for dear"
+    },
+    {
+      "fp": "1iuce9z",
+      "i": 142,
+      "from": 31351,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "holding on so tight"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "dear life. She's just holding on so tight. And then he pries her fingers off. He literally pushes her away into the deep"
+    },
+    {
+      "fp": "t12igg",
+      "i": 143,
+      "from": 31519,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "deep It's awkward. She sinks into the dark sulfurous water."
+    },
+    {
+      "fp": "4p6uyn",
+      "i": 144,
+      "from": 31625,
+      "subject": "Rex — water",
+      "entities": [
+        "rex"
+      ],
+      "concept": "water",
+      "place": "shore",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Rex, shore"
+      },
+      "antidote": {
+        "concept": "water",
+        "set": "shore",
+        "cast": [
+          "rex"
+        ]
+      },
+      "_said": "water. She's choking. Water is surging into her nose and lungs. She is actively drowning. Rex grabs her waist, pulls her up just"
+    },
+    {
+      "fp": "x4ti0a",
+      "i": 145,
+      "from": 31884,
+      "subject": "water",
+      "entities": [],
+      "concept": "water",
+      "place": "shore",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "water, shore"
+      },
+      "antidote": {
+        "concept": "water",
+        "set": "shore",
+        "cast": []
+      },
+      "_said": "just long enough so she can gasp for air, and then bellows sink or swim and hurls her right back into the middle. This"
+    },
+    {
+      "fp": "1a2tzpz",
+      "i": 146,
+      "from": 32097,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "This is the pedagogical core of the entire deep dive. If you want to understand the thesis of abuse and formation being the same act, it is right here in the hot pot."
+    },
+    {
+      "fp": "6vk3sl",
+      "i": 147,
+      "from": 32364,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "pot. Yes, cruelty and teaching are a single indivisible gesture in this moment. you cannot pull them apart."
+    },
+    {
+      "fp": "12su85j",
+      "i": 148,
+      "from": 32553,
+      "subject": "water",
+      "entities": [],
+      "concept": "water",
+      "place": "shore",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "water, holding her up and showing her the strokes, shore"
+      },
+      "antidote": {
+        "concept": "water",
+        "set": "shore",
+        "cast": []
+      },
+      "_said": "apart. He's teaching her to survive by becoming the very danger she has to survive, He doesn't teach her by holding her up and showing her the strokes. He teaches her by letting he"
+    },
+    {
+      "fp": "1hz8w8j",
+      "i": 149,
+      "from": 32885,
+      "subject": "Rosemary",
+      "entities": [
+        "rosemary"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Rosemary"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "rosemary"
+        ]
+      },
+      "_said": "animal instinct takes over. And what's wild is that Rosemary has her own equally dangerous version of this The rusty nail. Yes."
+    },
+    {
+      "fp": "e3koy5",
+      "i": 150,
+      "from": 33132,
+      "subject": "Janette",
+      "entities": [
+        "janette"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Janette, climbing a fence and she rips her thigh open"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "janette"
+        ]
+      },
+      "_said": "Yes. Later on, Janette is climbing a fence and she rips her thigh open on a rusty nail."
+    },
+    {
+      "fp": "sgotxi",
+      "i": 151,
+      "from": 33268,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "nail. It's a deep, ugly gash. A neighbor looks at it and says she immediately needs a tetanus shot and stitches obviously."
+    },
+    {
+      "fp": "1bo6cmu",
+      "i": 152,
+      "from": 33489,
+      "subject": "Rosemary — road",
+      "entities": [
+        "rosemary"
+      ],
+      "concept": "road",
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Rosemary"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": null,
+        "cast": [
+          "rosemary"
+        ]
+      },
+      "_said": "obviously. But Rosemary wanders over, looks at this gaping wound, and declares minor flesh wound."
+    },
+    {
+      "fp": "1vkkpl0",
+      "i": 153,
+      "from": 33684,
+      "subject": "medical",
+      "entities": [],
+      "concept": "medical",
+      "place": "hospital",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "medical, run to the hospital every time they skin th, hospital"
+      },
+      "antidote": {
+        "concept": "medical",
+        "set": "hospital",
+        "cast": []
+      },
+      "_said": "wound. Minor flesh wound. She flat out refuses to take her to the hospital, saying, \"People these days run to the hospital every time they skin their knees."
+    },
+    {
+      "fp": "1u5uapa",
+      "i": 154,
+      "from": 33909,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "knees. We're becoming a nation of sissies.\" And she just sends a bleeding child back out to play in the dirt."
+    },
+    {
+      "fp": "4hufkq",
+      "i": 155,
+      "from": 34056,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "dirt. It's medical neglect framed as rugged But"
+    },
+    {
+      "fp": "t531pz",
+      "i": 156,
+      "from": 34205,
+      "subject": "Rex — water",
+      "entities": [
+        "rex"
+      ],
+      "concept": "water",
+      "place": "shore",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Rex, shore"
+      },
+      "antidote": {
+        "concept": "water",
+        "set": "shore",
+        "cast": [
+          "rex"
+        ]
+      },
+      "_said": "But the psychological motive behind Rex at the hot pot is what fascinates me Because this isn't just about teaching her to swim."
+    },
+    {
+      "fp": "tyt2vp",
+      "i": 157,
+      "from": 34408,
+      "subject": "water",
+      "entities": [],
+      "concept": "water",
+      "place": "shore",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "water, shore"
+      },
+      "antidote": {
+        "concept": "water",
+        "set": "shore",
+        "cast": []
+      },
+      "_said": "swim. It's about absolute dominance. He wants to be the god who drowns her and the savior who pulls her up to the surface. He's actively manufacturing a life ordeath crisis so he c"
+    },
+    {
+      "fp": "puxlc5",
+      "i": 158,
+      "from": 34845,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "look at the physical mechanics of the scene at the hot pot. The only"
+    },
+    {
+      "fp": "ntph8c",
+      "i": 159,
+      "from": 34941,
+      "subject": "Janette — water",
+      "entities": [
+        "janette"
+      ],
+      "concept": "water",
+      "place": "shore",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Janette, shore"
+      },
+      "antidote": {
+        "concept": "water",
+        "set": "shore",
+        "cast": [
+          "janette"
+        ]
+      },
+      "_said": "only way Janette actually learns to swim is by actively fighting him. Fighting him? Yes. She realizes mid drown that he's going to keep throwing her back"
+    },
+    {
+      "fp": "11ein5",
+      "i": 160,
+      "from": 35196,
+      "subject": "wallet",
+      "entities": [],
+      "concept": "wallet",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "wallet, reach for his hands"
+      },
+      "antidote": {
+        "concept": "wallet",
+        "cast": []
+      },
+      "_said": "back in. He's not going to save her. So the last time she goes under, she doesn't reach for his hands. She kicks away from No, she pushes away."
+    },
+    {
+      "fp": "10vbk0t",
+      "i": 161,
+      "from": 35383,
+      "subject": "water",
+      "entities": [],
+      "concept": "water",
+      "place": "shore",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "water, shore"
+      },
+      "antidote": {
+        "concept": "water",
+        "set": "shore",
+        "cast": []
+      },
+      "_said": "away. She propels herself beyond his grasp. He taught her to survive. Yes, but he did it by teaching her how to escape him. She literally had to swim away from her father to live. "
+    },
+    {
+      "fp": "1cwzilf",
+      "i": 162,
+      "from": 35709,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "That is a phenomenal point. The independence is born from rejection. And how"
+    },
+    {
+      "fp": "wgbf15",
+      "i": 163,
+      "from": 35837,
+      "subject": "Rex — water",
+      "entities": [
+        "rex"
+      ],
+      "concept": "water",
+      "place": "shore",
+      "confidence": 1,
+      "vox": {
+        "shot": "Rex, shore"
+      },
+      "antidote": {
+        "concept": "water",
+        "set": "shore",
+        "cast": [
+          "rex"
+        ]
+      },
+      "_said": "how does Rex frame this near drowning once they're back on the shore? Oh, he spins it. He frames it as paternal wisdom. If you don't want to sink, you better figure out how to swim"
+    },
+    {
+      "fp": "1555xbu",
+      "i": 164,
+      "from": 36146,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "takes a brutal, terrifying world and shapes it into a narrative where"
+    },
+    {
+      "fp": "fp6bbd",
+      "i": 165,
+      "from": 36283,
+      "subject": "home",
+      "entities": [],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "home"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": []
+      },
+      "_said": "where they're stronger, tougher, and more capable than everyone else because they don't need floaties or swimming lessons. Because the story was the house. The story was the house."
+    },
+    {
+      "fp": "1o512gm",
+      "i": 166,
+      "from": 36597,
+      "subject": "Walls — family",
+      "entities": [
+        "walls"
+      ],
+      "concept": "family",
+      "place": "kitchen",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Walls, kitchen"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": "kitchen",
+        "cast": [
+          "walls"
+        ]
+      },
+      "_said": "the tough, invincible Walls family is"
+    },
+    {
+      "fp": "izoy6m",
+      "i": 167,
+      "from": 36660,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "is the structural support that keeps them from realizing they're just victims of severe child abuse. So, we've seen how they"
+    },
+    {
+      "fp": "1dpyfuk",
+      "i": 168,
+      "from": 36837,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "they handle physical danger. But what happens when they have absolutely nothing? When there isn't even a garbage pit to dig? The desert"
+    },
+    {
+      "fp": "19wbnet",
+      "i": 169,
+      "from": 37044,
+      "subject": "Rex — coin",
+      "entities": [
+        "rex"
+      ],
+      "concept": "coin",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Rex"
+      },
+      "antidote": {
+        "concept": "coin",
+        "cast": [
+          "rex"
+        ]
+      },
+      "_said": "desert Christmas, right? That brings us to Christmas Eve in the desert. They have no money. Rex got fired from the gypsum mine. They have no food, no presents, nothing. Literally n"
+    },
+    {
+      "fp": "14sdpun",
+      "i": 170,
+      "from": 37325,
+      "subject": "Janette and Rex — storm",
+      "entities": [
+        "janette",
+        "rex"
+      ],
+      "concept": "storm",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Janette and Rex, walks her out into the dark and he"
+      },
+      "antidote": {
+        "concept": "storm",
+        "set": null,
+        "cast": [
+          "janette",
+          "rex"
+        ]
+      },
+      "_said": "nothing. So Rex takes each kid out into the freezing night sky one by one. Janette is 5 years old, wrapped in a scratchy army surplus blanket. Rex walks her out into the dark and h"
+    },
+    {
+      "fp": "1bw6bl3",
+      "i": 171,
+      "from": 37670,
+      "subject": "star",
+      "entities": [],
+      "concept": "star",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "star"
+      },
+      "antidote": {
+        "concept": "star",
+        "set": null,
+        "cast": []
+      },
+      "_said": "he starts explaining how the stars rotate, how you can navigate by the North Star."
+    },
+    {
+      "fp": "i8ok75",
+      "i": 172,
+      "from": 37785,
+      "subject": "Janette and Rex — star",
+      "entities": [
+        "janette",
+        "rex"
+      ],
+      "concept": "star",
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Janette and Rex"
+      },
+      "antidote": {
+        "concept": "star",
+        "set": null,
+        "cast": [
+          "janette",
+          "rex"
+        ]
+      },
+      "_said": "Star. It's very poetic. It is. And then tells her to pick one out. He says she can have it for keeps. Janette points to the brightest one on the horizon. Rex grins and says"
+    },
+    {
+      "fp": "1k16bjg",
+      "i": 173,
+      "from": 38097,
+      "subject": "star",
+      "entities": [],
+      "concept": "star",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "star"
+      },
+      "antidote": {
+        "concept": "star",
+        "set": null,
+        "cast": []
+      },
+      "_said": "that's Venus, right? The planet. He explains the astrophysics that it's a planet, not a star, and it only shines"
+    },
+    {
+      "fp": "rnxmhi",
+      "i": 174,
+      "from": 38297,
+      "subject": "Rex",
+      "entities": [
+        "rex"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Rex"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "rex"
+        ]
+      },
+      "_said": "shines from reflected light. But he says, \"What the hell is Christmas? You can have a planet if you want.\" This is Rex rewriting poverty as cosmology. It is a masterclass"
+    },
+    {
+      "fp": "3qs4lb",
+      "i": 175,
+      "from": 38573,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "masterclass in simultaneous survival tech and gaslighting. He's taking absolute destitution, the fact that he cannot provide a 10-cent plastic toy for his child"
+    },
+    {
+      "fp": "q5c5a3",
+      "i": 176,
+      "from": 38825,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "child on Christmas. And he's reframing it into a point of cosmic Superiority over who?"
+    },
+    {
+      "fp": "p8v34o",
+      "i": 177,
+      "from": 38988,
+      "subject": "food",
+      "entities": [],
+      "concept": "food",
+      "place": "kitchen",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "food, kitchen"
+      },
+      "antidote": {
+        "concept": "food",
+        "set": "kitchen",
+        "cast": []
+      },
+      "_said": "who? Over everyone else. He's teaching them highle astronomy, giving them the literal universe while simultaneously denying them dinner. You hear the power of this reframing in his"
+    },
+    {
+      "fp": "1vo7grh",
+      "i": 178,
+      "from": 39285,
+      "subject": "food",
+      "entities": [],
+      "concept": "food",
+      "place": "kitchen",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "food, kitchen"
+      },
+      "antidote": {
+        "concept": "food",
+        "set": "kitchen",
+        "cast": []
+      },
+      "_said": "during Christmas dinner later. Oh yeah. They're eating whatever meager scraps they have, discussing black holes and quazars."
+    },
+    {
+      "fp": "scp5nu",
+      "i": 179,
+      "from": 39501,
+      "subject": "Rex — city",
+      "entities": [
+        "rex"
+      ],
+      "concept": "city",
+      "place": "street",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Rex, street"
+      },
+      "antidote": {
+        "concept": "city",
+        "set": "street",
+        "cast": [
+          "rex"
+        ]
+      },
+      "_said": "quazars. And Rex starts mocking the rich city folks. He says those kids are brainwashed"
+    },
+    {
+      "fp": "1t0hoph",
+      "i": 180,
+      "from": 39648,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "brainwashed getting cheap plastic toys made in Japan that will break in a few He looks at his kids and says years from now when all the junk they got"
+    },
+    {
+      "fp": "183m7ye",
+      "i": 181,
+      "from": 39912,
+      "subject": "star",
+      "entities": [],
+      "concept": "star",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "star"
+      },
+      "antidote": {
+        "concept": "star",
+        "set": null,
+        "cast": []
+      },
+      "_said": "got is broken and longforgotten, you'll still have your stars."
+    },
+    {
+      "fp": "1cyu3zr",
+      "i": 182,
+      "from": 40020,
+      "subject": "storm",
+      "entities": [],
+      "concept": "storm",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "storm"
+      },
+      "antidote": {
+        "concept": "storm",
+        "set": null,
+        "cast": []
+      },
+      "_said": "stars. It's romanticized gaslighting. He's using poetry and astrophysics to distract from the fact that his children are literally starving and freezing because he drank"
+    },
+    {
+      "fp": "1xvbqq2",
+      "i": 183,
+      "from": 40281,
+      "subject": "coin",
+      "entities": [],
+      "concept": "coin",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "coin"
+      },
+      "antidote": {
+        "concept": "coin",
+        "cast": []
+      },
+      "_said": "drank their Christmas money. It's the ultimate cheap out. He gives them the sky because the sky costs him I really have to disagree with the cynicism there. Do you do I do I think "
+    },
+    {
+      "fp": "eiyl5",
+      "i": 184,
+      "from": 40658,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "It's a breathtaking act of parmple imagination. Yes, he failed materially. He failed miserably. But he he gave those kids a sense of wonder, a literal"
+    },
+    {
+      "fp": "vffk7a",
+      "i": 185,
+      "from": 40920,
+      "subject": "coin",
+      "entities": [],
+      "concept": "coin",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "coin"
+      },
+      "antidote": {
+        "concept": "coin",
+        "cast": []
+      },
+      "_said": "literal ownership of the universe that money absolutely cannot buy. A sense of wonder doesn't fill a"
+    },
+    {
+      "fp": "1542rp0",
+      "i": 186,
+      "from": 41083,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "a True, but he taught them to look up. You can't tell me that that exact act of imagination didn't"
+    },
+    {
+      "fp": "352bh4",
+      "i": 187,
+      "from": 41261,
+      "subject": "Janette",
+      "entities": [
+        "janette"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Janette"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "janette"
+        ]
+      },
+      "_said": "shape Janette into the writer she became. It shaped her certainly, but it shaped her"
+    },
+    {
+      "fp": "kv27zn",
+      "i": 188,
+      "from": 41426,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "her by forcing her to find warmth in a cold, empty vacuum."
+    },
+    {
+      "fp": "ar45tz",
+      "i": 189,
+      "from": 41551,
+      "subject": "mask",
+      "entities": [],
+      "concept": "mask",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "mask"
+      },
+      "antidote": {
+        "concept": "mask",
+        "cast": []
+      },
+      "_said": "Cognitive reframing is a powerful tool, but when it's used to mask starvation, it borders on Brainwashing is a strong word because"
+    },
+    {
+      "fp": "12mr7vm",
+      "i": 190,
+      "from": 41839,
+      "subject": "home",
+      "entities": [],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "home"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": []
+      },
+      "_said": "because when you're sleeping in the dirt under the open sky, claiming ownership of the literal universe is the only roof you have. The story was the house."
+    },
+    {
+      "fp": "87ylyo",
+      "i": 191,
+      "from": 42093,
+      "subject": "Rex — home",
+      "entities": [
+        "rex"
+      ],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Rex"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": [
+          "rex"
+        ]
+      },
+      "_said": "house. Okay, we've talked a lot about Rex and his grand narratives. Let's pivot"
+    },
+    {
+      "fp": "16ftq3l",
+      "i": 192,
+      "from": 42194,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "pivot to Rurles Mary. Because if Rex's mythmaking is loud and theatrical, hers is quiet and arguably much more insidious. Yes,"
+    },
+    {
+      "fp": "12g328o",
+      "i": 193,
+      "from": 42461,
+      "subject": "heart",
+      "entities": [],
+      "concept": "heart",
+      "place": "cafe",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "heart, cafe"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": "cafe",
+        "cast": []
+      },
+      "_said": "Yes, Rosemary's secrets. Here is where the illusion of the Bohemian romance completely shatters. The kids are starving in Welch."
+    },
+    {
+      "fp": "ab8a2e",
+      "i": 194,
+      "from": 42669,
+      "subject": "Janette — food",
+      "entities": [
+        "janette"
+      ],
+      "concept": "food",
+      "place": "kitchen",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Janette, kitchen"
+      },
+      "antidote": {
+        "concept": "food",
+        "set": "kitchen",
+        "cast": [
+          "janette"
+        ]
+      },
+      "_said": "Welch. They're literally foraging for food. Brian and Janette are eating out of a dumpster behind a warehouse, finding chocolates covered in green mold, and eating them"
+    },
+    {
+      "fp": "1qpzi0m",
+      "i": 195,
+      "from": 42905,
+      "subject": "home",
+      "entities": [],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "home, sitting in the living room freezing"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": []
+      },
+      "_said": "them Moldy chocolate. Just remember that right? And one night, they're all sitting in the living room freezing."
+    },
+    {
+      "fp": "1w3wjcq",
+      "i": 196,
+      "from": 43085,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": "kitchen",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, kitchen"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": "kitchen",
+        "cast": []
+      },
+      "_said": "Mom is under a blanket on the sofa bed. Brian notices she's chewing something. It catches her."
+    },
+    {
+      "fp": "1jzg8ax",
+      "i": 197,
+      "from": 43241,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": "kitchen",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, kitchen"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": "kitchen",
+        "cast": []
+      },
+      "_said": "her. Mom claims her teeth hurt and she's working her jaw to increase circulation, which is such a lie."
+    },
+    {
+      "fp": "1tgflg6",
+      "i": 198,
+      "from": 43408,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "lie. Brian doesn't buy it for a second. He yanks the covers back. And lying on the mattress next"
+    },
+    {
+      "fp": "1q6m277",
+      "i": 199,
+      "from": 43550,
+      "subject": "Rosemary",
+      "entities": [
+        "rosemary"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Rosemary"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "rosemary"
+        ]
+      },
+      "_said": "next to Rosemary is a huge familysiz"
+    },
+    {
+      "fp": "1vnuxd3",
+      "i": 200,
+      "from": 43637,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "familysiz Hershey chocolate bar, while her kids eat mold. Exactly. She's secretly gorging herself on chocolate while her children are scavenging"
+    },
+    {
+      "fp": "1ycoi8r",
+      "i": 201,
+      "from": 43893,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": "kitchen",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, kitchen"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": "kitchen",
+        "cast": []
+      },
+      "_said": "scavenging in dumpsters. When caught, she cries and claims, \"I'm a sugar addict, just like your father is an This is the moment the romance dies. This is"
+    },
+    {
+      "fp": "15oabi1",
+      "i": 202,
+      "from": 44174,
+      "subject": "mask",
+      "entities": [],
+      "concept": "mask",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "mask"
+      },
+      "antidote": {
+        "concept": "mask",
+        "cast": []
+      },
+      "_said": "is where Rosemary's excitement addict persona curdles into a deeply selfish choice dressed up as a psychological affliction."
+    },
+    {
+      "fp": "c9v1he",
+      "i": 203,
+      "from": 44381,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "affliction. It's just selfish. What we realize here is that the poverty the kids are suffering is in part completely voluntary. Her neglect isn't just a byproduct of Rex's drinking"
+    },
+    {
+      "fp": "1deygs7",
+      "i": 204,
+      "from": 44719,
+      "subject": "funnelTrap",
+      "entities": [],
+      "concept": "funnelTrap",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "funnel trap"
+      },
+      "antidote": {
+        "concept": "funnelTrap",
+        "cast": []
+      },
+      "_said": "resources. She's prioritizing her own comfort over her children's survival. And the ultimate mindbending gut punch of this comes years later."
+    },
+    {
+      "fp": "17a8gv1",
+      "i": 205,
+      "from": 44935,
+      "subject": "Janette and Rosemary — family",
+      "entities": [
+        "janette",
+        "rosemary"
+      ],
+      "concept": "family",
+      "place": "kitchen",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Janette and Rosemary, kitchen"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": "kitchen",
+        "cast": [
+          "janette",
+          "rosemary"
+        ]
+      },
+      "_said": "later. Janette is an adult. She's married, living in New York. The Texas land. Yes, the Texas land. Rosemary casually asks Janette to ask her husband for a million dollar loan to b"
+    },
+    {
+      "fp": "giud7m",
+      "i": 206,
+      "from": 45268,
+      "subject": "Janette — coin",
+      "entities": [
+        "janette"
+      ],
+      "concept": "coin",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Janette"
+      },
+      "antidote": {
+        "concept": "coin",
+        "cast": [
+          "janette"
+        ]
+      },
+      "_said": "land in Texas. A million dollars. Janette is confused and asks how much the land is actually worth."
+    },
+    {
+      "fp": "a35czm",
+      "i": 207,
+      "from": 45453,
+      "subject": "Janette and Rosemary",
+      "entities": [
+        "janette",
+        "rosemary"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Janette and Rosemary"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "janette",
+          "rosemary"
+        ]
+      },
+      "_said": "worth. Rosemary admits it's exactly the same size as her brothers. Janette does the math in her head. It is absolutely thunderruck. I"
+    },
+    {
+      "fp": "77f8ok",
+      "i": 208,
+      "from": 45669,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": "kitchen",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, sitting on land worth a million dollars the ent, kitchen"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": "kitchen",
+        "cast": []
+      },
+      "_said": "I she realizes her mother has been sitting on land worth a million dollars the entire time they were freezing in Welch without coal, without plumbing, without"
+    },
+    {
+      "fp": "17zfuux",
+      "i": 209,
+      "from": 45924,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": "kitchen",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, kitchen"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": "kitchen",
+        "cast": []
+      },
+      "_said": "without freezing to death. And Rosemary's defense is just a stubborn casual, \"My a father taught me you never sell land.\" Which brings us to the core ethical debate of the"
+    },
+    {
+      "fp": "1cwj0eu",
+      "i": 210,
+      "from": 46233,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": "kitchen",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, kitchen"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": "kitchen",
+        "cast": []
+      },
+      "_said": "the family dynamics. Who is the true villain here? Is there one? Because I would argue mom is actually worse"
+    },
+    {
+      "fp": "1jjeamj",
+      "i": 211,
+      "from": 46418,
+      "subject": "Rex — family",
+      "entities": [
+        "rex"
+      ],
+      "concept": "family",
+      "place": "kitchen",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Rex, kitchen"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": "kitchen",
+        "cast": [
+          "rex"
+        ]
+      },
+      "_said": "worse than Rex. Yes. Rex is possessed by a demon of addiction and severe trauma from his own past in Welch, which we see hints of with his own mother, Irma."
+    },
+    {
+      "fp": "1geldu3",
+      "i": 212,
+      "from": 46692,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": "kitchen",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, kitchen"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": "kitchen",
+        "cast": []
+      },
+      "_said": "Irma. Right. The trauma is real. But mom's neglect is passive. It's cold and it's entirely hypocritical. She hoards wealth. This"
+    },
+    {
+      "fp": "a855an",
+      "i": 213,
+      "from": 46920,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "This Texas land antique jewelry she keeps in storage, the chocolate, while claiming moral superiority over people who care about material things. I"
+    },
+    {
+      "fp": "syzj5m",
+      "i": 214,
+      "from": 47153,
+      "subject": "Rex — coin",
+      "entities": [
+        "rex"
+      ],
+      "concept": "coin",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Rex"
+      },
+      "antidote": {
+        "concept": "coin",
+        "cast": [
+          "rex"
+        ]
+      },
+      "_said": "see the hypocrisy, definitely. But I can't let Rex off the hook that easily. Why not? Rex actively aggressively destroyed their lives. He stole the grocery money."
+    },
+    {
+      "fp": "1bl0ijn",
+      "i": 215,
+      "from": 47431,
+      "subject": "Rosemary — home",
+      "entities": [
+        "rosemary"
+      ],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Rosemary"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": [
+          "rosemary"
+        ]
+      },
+      "_said": "money. He terrorized them when he was drunk. He smashed the house. He chased Rosemary with a butcher knife. Okay. The violence was real."
+    },
+    {
+      "fp": "3seall",
+      "i": 216,
+      "from": 47616,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": "kitchen",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, kitchen"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": "kitchen",
+        "cast": []
+      },
+      "_said": "real. Mom was mentally ill. She was retreating into her own delusions to cope with a highly abusive marriage. She"
+    },
+    {
+      "fp": "1v6m2lr",
+      "i": 217,
+      "from": 47834,
+      "subject": "Rex — family",
+      "entities": [
+        "rex"
+      ],
+      "concept": "family",
+      "place": "kitchen",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Rex, kitchen"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": "kitchen",
+        "cast": [
+          "rex"
+        ]
+      },
+      "_said": "She didn't weaponize the poverty the way Rex did. She just ignored it. She checked out. But by checking out, she forced her children to become the parents."
+    },
+    {
+      "fp": "17otlxb",
+      "i": 218,
+      "from": 48057,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": "kitchen",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, kitchen"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": "kitchen",
+        "cast": []
+      },
+      "_said": "parents. Enshment and parentification are severe forms of emotional abuse. She built an impenetrable narrative of being a pioneer, a misunderstood artist, a bohemian to justify her"
+    },
+    {
+      "fp": "1oy2021",
+      "i": 219,
+      "from": 48465,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "children. A convenient narrative. Her artistic principles were just a convenient excuse"
+    },
+    {
+      "fp": "5jwvqt",
+      "i": 220,
+      "from": 48576,
+      "subject": "home",
+      "entities": [],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "home"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": []
+      },
+      "_said": "excuse for profound selfishness. The story was the house. She lived inside the story of being portrait artists so she wouldn't have to look at the starving kids in front of And eve"
+    },
+    {
+      "fp": "11g8wne",
+      "i": 221,
+      "from": 48857,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "kids realize that the story is a lie. They realize they're entirely on their own."
+    },
+    {
+      "fp": "1wz892w",
+      "i": 222,
+      "from": 49010,
+      "subject": "chains",
+      "entities": [],
+      "concept": "chains",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "chains"
+      },
+      "antidote": {
+        "concept": "chains",
+        "cast": []
+      },
+      "_said": "own. Which brings us to the escape fund, affectionately named the kids"
+    },
+    {
+      "fp": "qf170d",
+      "i": 223,
+      "from": 49157,
+      "subject": "city",
+      "entities": [],
+      "concept": "city",
+      "place": "street",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "city, street"
+      },
+      "antidote": {
+        "concept": "city",
+        "set": "street",
+        "cast": []
+      },
+      "_said": "are in Welch and they realize the only way to survive is to get Lori, the oldest, out to New York City and then the rest of them will follow."
+    },
+    {
+      "fp": "l60z8m",
+      "i": 224,
+      "from": 49394,
+      "subject": "coin",
+      "entities": [],
+      "concept": "coin",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "coin"
+      },
+      "antidote": {
+        "concept": "coin",
+        "cast": []
+      },
+      "_said": "follow. It's a great plan. For nine agonizing months, they scrape together every single penny. Babysitting money, bottle redemption money, tutoring money. They stash it in a plasti"
+    },
+    {
+      "fp": "c9dw6j",
+      "i": 225,
+      "from": 49740,
+      "subject": "Janette — home",
+      "entities": [
+        "janette"
+      ],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Janette"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": [
+          "janette"
+        ]
+      },
+      "_said": "Oz. Every penny. One evening, Janette comes home to put her babysitting money in. She looks for Oz. She finds the pig on the floor."
+    },
+    {
+      "fp": "14020su",
+      "i": 226,
+      "from": 49925,
+      "subject": "crash",
+      "entities": [],
+      "concept": "crash",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "crash"
+      },
+      "antidote": {
+        "concept": "crash",
+        "set": null,
+        "cast": []
+      },
+      "_said": "floor. Someone slashed it apart with a knife. It's smashed, empty, The devastating irony of this moment is profound. They use the very doctrine"
+    },
+    {
+      "fp": "irct3a",
+      "i": 227,
+      "from": 50217,
+      "subject": "Rex — chains",
+      "entities": [
+        "rex"
+      ],
+      "concept": "chains",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Rex"
+      },
+      "antidote": {
+        "concept": "chains",
+        "cast": [
+          "rex"
+        ]
+      },
+      "_said": "doctrine Rex taught them, extreme self-reliance, hustle, survival at all costs to fund their escape from him."
+    },
+    {
+      "fp": "xlxn2c",
+      "i": 228,
+      "from": 50414,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "leave anyway"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "him. And he destroys it. He uses his power to destroy it. But the crucial point here, the thing that proves the thesis of this deep dive is that they leave anyway. They do. Lori go"
+    },
+    {
+      "fp": "sn8nmd",
+      "i": 229,
+      "from": 50709,
+      "subject": "Janette — coin",
+      "entities": [
+        "janette"
+      ],
+      "concept": "coin",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Janette"
+      },
+      "antidote": {
+        "concept": "coin",
+        "cast": [
+          "janette"
+        ]
+      },
+      "_said": "York, then Janette, then Brian, then Moren. They take his survival training and turn it directly against him. The scene right after they discover the money is gone"
+    },
+    {
+      "fp": "jpsnw6",
+      "i": 230,
+      "from": 50988,
+      "subject": "coin",
+      "entities": [],
+      "concept": "coin",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "coin"
+      },
+      "antidote": {
+        "concept": "coin",
+        "cast": []
+      },
+      "_said": "gone is heartbreaking. Lorie realizes the money is stolen. She doesn't scream. She accidentally knocks over a"
+    },
+    {
+      "fp": "1whvcf4",
+      "i": 231,
+      "from": 51187,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "a bottle of India ink and just starts this silent, broken whimpering. The silence is worse than screaming. It really"
+    },
+    {
+      "fp": "8mfyfv",
+      "i": 232,
+      "from": 51372,
+      "subject": "Janette and Rex",
+      "entities": [
+        "janette",
+        "rex"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Janette and Rex"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "janette",
+          "rex"
+        ]
+      },
+      "_said": "really is. Yeah, but Janette goes to confront Rex. He s there's trying to act innocent, turning the slashed pig over in his hands, playing dumb."
+    },
+    {
+      "fp": "xzimj3",
+      "i": 233,
+      "from": 51583,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "leaving in 3 months"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "dumb. Playing dumb. And later, when he shows her the blueprints to try and make her stay, she looks him dead in the eye and says she is leaving in 3 months. She tells him that if t"
+    },
+    {
+      "fp": "1fzjfkq",
+      "i": 234,
+      "from": 51924,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "running, she'll hitchhike. If she has to, she will walk the whole way to New York."
+    },
+    {
+      "fp": "1eiwgwh",
+      "i": 235,
+      "from": 52046,
+      "subject": "home",
+      "entities": [],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "home"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": []
+      },
+      "_said": "York. Let's debate Rex's intent in slashing Because you could look at this and say, \"Well, he was a severe alcoholic. He had the shakes. He needed alcohol and he took the cash that"
+    },
+    {
+      "fp": "9gflo8",
+      "i": 236,
+      "from": 52346,
+      "subject": "home",
+      "entities": [],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "home"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": []
+      },
+      "_said": "house. It was thoughtless desperation, a compulsion of the disease."
+    },
+    {
+      "fp": "gs5m1d",
+      "i": 237,
+      "from": 52452,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "disease. That's exactly what I think it was. It was the tragedy of a man who loved his kids but loved the bottle more. His brain was hijacked by a"
+    },
+    {
+      "fp": "ua8xsr",
+      "i": 238,
+      "from": 52711,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "a chemical dependency. He couldn't stop himself. It was a compulsion, not a calculated plot to ruin their lives. No, I think this was highly"
+    },
+    {
+      "fp": "f6nndv",
+      "i": 239,
+      "from": 52925,
+      "subject": "coin",
+      "entities": [],
+      "concept": "coin",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "coin"
+      },
+      "antidote": {
+        "concept": "coin",
+        "cast": []
+      },
+      "_said": "highly calculated He knew exactly what that money was for. He heard them talking about New York for months. He slash Oz to intentionally clip their wings. But why?"
+    },
+    {
+      "fp": "2liwsn",
+      "i": 240,
+      "from": 53248,
+      "subject": "Rex",
+      "entities": [
+        "rex"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Rex"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "rex"
+        ]
+      },
+      "_said": "why? Because Rex Walls's entire identity is built on being the smartest, most powerful man in the room."
+    },
+    {
+      "fp": "1sgjr4f",
+      "i": 241,
+      "from": 53431,
+      "subject": "Rex",
+      "entities": [
+        "rex"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Rex"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "rex"
+        ]
+      },
+      "_said": "room. Without his children to rule over, without his captive audience, his kingdom ceases to exist. He needs them starving in Welch to be Rex"
+    },
+    {
+      "fp": "1o0mpsp",
+      "i": 242,
+      "from": 53664,
+      "subject": "Rex and Walls — home",
+      "entities": [
+        "rex",
+        "walls"
+      ],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Rex and Walls"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": [
+          "rex",
+          "walls"
+        ]
+      },
+      "_said": "Rex Walls, the savior. And his plan fails. They break out. They do. The story was the house. Rex taught them how to survive in the wilderness, how to fight, how to hustle, and they"
+    },
+    {
+      "fp": "1lz57bs",
+      "i": 243,
+      "from": 54036,
+      "subject": "gift",
+      "entities": [],
+      "concept": "gift",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "gift"
+      },
+      "antidote": {
+        "concept": "gift",
+        "cast": []
+      },
+      "_said": "in New York. Which brings us to the resolution of the the present day, mostly, right?"
+    },
+    {
+      "fp": "c2re88",
+      "i": 244,
+      "from": 54185,
+      "subject": "Rex and Rosemary — grave",
+      "entities": [
+        "rex",
+        "rosemary"
+      ],
+      "concept": "grave",
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Rex and Rosemary"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": null,
+        "cast": [
+          "rex",
+          "rosemary"
+        ]
+      },
+      "_said": "right? We're in New York. Years have passed. Rex has died of a heart attack. Rosemary is squatting in an abandoned building on the Lower East Side. A rough squat. Very rough. When "
+    },
+    {
+      "fp": "1vuw9li",
+      "i": 245,
+      "from": 54533,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": "kitchen",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, kitchen"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": "kitchen",
+        "cast": []
+      },
+      "_said": "are no hinges on the door. You have to physically lift the heavy wooden door out of the frame just to get in. Oh, wow. But mom is perfectly content. She actually visits"
+    },
+    {
+      "fp": "kvwqrl",
+      "i": 246,
+      "from": 54808,
+      "subject": "Janette — home",
+      "entities": [
+        "janette"
+      ],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Janette"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": [
+          "janette"
+        ]
+      },
+      "_said": "visits Janette's Park Avenue apartment, which Janette moved into with her first husband, Eric. And mom"
+    },
+    {
+      "fp": "vabb3q",
+      "i": 247,
+      "from": 54969,
+      "subject": "home",
+      "entities": [],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "home"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": []
+      },
+      "_said": "mom critiques the architecture. Critiques it. She looks around this multi-million dollar home and says, \"I don't really like Park Avenue."
+    },
+    {
+      "fp": "1rn4deg",
+      "i": 248,
+      "from": 55188,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Avenue. The architecture is too monotonous.\" She genuinely prefers the squat. And here is the ultimate emotional payoff of the entire book."
+    },
+    {
+      "fp": "hl050o",
+      "i": 249,
+      "from": 55404,
+      "subject": "Janette",
+      "entities": [
+        "janette"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Janette"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "janette"
+        ]
+      },
+      "_said": "book. Janette stops hiding. She stops ducking in the taxi. The hiding's over. The payoff isn't a tearful Hollywood forgiveness scene where everyone apologizes. And it isn't a cold,"
+    },
+    {
+      "fp": "14jiydk",
+      "i": 250,
+      "from": 55708,
+      "subject": "medical",
+      "entities": [],
+      "concept": "medical",
+      "place": "hospital",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "medical, hospital"
+      },
+      "antidote": {
+        "concept": "medical",
+        "set": "hospital",
+        "cast": []
+      },
+      "_said": "angry arangement where she never speaks to her mother again and goes to therapy for 30 years. It is the radical refusal to file her parents as either victims or are villains. She j"
+    },
+    {
+      "fp": "1h7ljv8",
+      "i": 251,
+      "from": 56088,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": "kitchen",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, kitchen"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": "kitchen",
+        "cast": []
+      },
+      "_said": "the final Thanksgiving gathering. Brian is there. He's a police officer now. And he's ribbing mom about the gifts she brought. The things she literally plucked from a The dumpster "
+    },
+    {
+      "fp": "1xgrm0o",
+      "i": 252,
+      "from": 56383,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "gifts. Rusting silverware, old magazines, 1920s china with chips in it. And they're all laughing."
+    },
+    {
+      "fp": "1ne71gi",
+      "i": 253,
+      "from": 56582,
+      "subject": "Rosemary",
+      "entities": [
+        "rosemary"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Rosemary"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "rosemary"
+        ]
+      },
+      "_said": "laughing. They've accepted exactly who Rosemary is without needing her to change without being ashamed of her. But wait, I have to ask the hard question here. By accepting her as s"
+    },
+    {
+      "fp": "1mr7vbm",
+      "i": 254,
+      "from": 56877,
+      "subject": "Janette",
+      "entities": [
+        "janette"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Janette"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "janette"
+        ]
+      },
+      "_said": "is, isn't Janette just enabling her? Enabling her?"
+    },
+    {
+      "fp": "1npe3b8",
+      "i": 255,
+      "from": 56945,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "her? Yeah. Letting an aging woman freeze in a squat with no door hinges feels like an abdication of a"
+    },
+    {
+      "fp": "zkhdty",
+      "i": 256,
+      "from": 57134,
+      "subject": "home",
+      "entities": [],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "home"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": []
+      },
+      "_said": "a child's responsibility to their parent. Shouldn't she use her wealth to force her into a safer environment? Get her a real apartment. I would push back on that completely."
+    },
+    {
+      "fp": "12kihzy",
+      "i": 257,
+      "from": 57396,
+      "subject": "Rosemary — home",
+      "entities": [
+        "rosemary"
+      ],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Rosemary"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": [
+          "rosemary"
+        ]
+      },
+      "_said": "completely. Trying to force Rosemary into a normal life, like moving her into the Park Avenue apartment or buying her a condo, was always"
+    },
+    {
+      "fp": "19u211q",
+      "i": 258,
+      "from": 57576,
+      "subject": "Rosemary",
+      "entities": [
+        "rosemary"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Rosemary"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "rosemary"
+        ]
+      },
+      "_said": "always about Janette's shame, not Rosemary's happiness. Oh, because of the taxi scene. Exactly. Remember the electrolysis comment? Rosemary wants to be a squatter. She wants to be "
+    },
+    {
+      "fp": "ts93vw",
+      "i": 259,
+      "from": 57890,
+      "subject": "Janette — chains",
+      "entities": [
+        "janette"
+      ],
+      "concept": "chains",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Janette"
+      },
+      "antidote": {
+        "concept": "chains",
+        "cast": [
+          "janette"
+        ]
+      },
+      "_said": "outsider. Letting her be who she is without shame is the ultimate liberation for Janette. It"
+    },
+    {
+      "fp": "kuezm3",
+      "i": 260,
+      "from": 58041,
+      "subject": "Janette — family",
+      "entities": [
+        "janette"
+      ],
+      "concept": "family",
+      "place": "kitchen",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Janette, carry the burden of fixing her mother to vali, kitchen"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": "kitchen",
+        "cast": [
+          "janette"
+        ]
+      },
+      "_said": "It means Janette no longer has to carry the burden of fixing her mother to validate her own existence. Wow."
+    },
+    {
+      "fp": "lkxer8",
+      "i": 261,
+      "from": 58226,
+      "subject": "home",
+      "entities": [],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "home"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": []
+      },
+      "_said": "Wow. Yeah, I see that. The story was the house. They ended up in a literal squatter's ruin, crumbling bricks, and no plumbing."
+    },
+    {
+      "fp": "1n5mjhw",
+      "i": 262,
+      "from": 58466,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "plumbing. But they're happy because it perfectly fits the pioneer wild west narrative they always told themselves. It fits. They're finally living their own myth without hurting th"
+    },
+    {
+      "fp": "1gaxoy2",
+      "i": 263,
+      "from": 58809,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "crucial metaanalytical counterpoint for you to chew on. And this is something that scholars and readers debate constantly."
+    },
+    {
+      "fp": "1kvbsjc",
+      "i": 264,
+      "from": 58980,
+      "subject": "Janette and Rex and Walls — star",
+      "entities": [
+        "janette",
+        "rex",
+        "walls"
+      ],
+      "concept": "star",
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Janette and Rex"
+      },
+      "antidote": {
+        "concept": "star",
+        "set": null,
+        "cast": [
+          "janette",
+          "rex",
+          "walls"
+        ]
+      },
+      "_said": "constantly. What's that? Is the immense charm of the glass castle actually its biggest trap? The charm. Yeah. Janette Walls is such an incredibly gifted writer. She makes Rex so po"
+    },
+    {
+      "fp": "80p26f",
+      "i": 265,
+      "from": 59361,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "hospitals, explaining astrophysics that we have to ask, does the book soften the reality of severe"
+    },
+    {
+      "fp": "10vluvn",
+      "i": 266,
+      "from": 59520,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "severe child endangerment into quirky It's a really unsettling thought. Think about the physical realities we just discussed."
+    },
+    {
+      "fp": "11xez99",
+      "i": 267,
+      "from": 59733,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": "kitchen",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, falling out of a moving car because the door fl, kitchen"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": "kitchen",
+        "cast": []
+      },
+      "_said": "discussed. A three-year-old catching fire and requiring skin grass, right? Yeah. A toddler falling out of a moving car because the door flew open. And the parents just grab him, pl"
+    },
+    {
+      "fp": "12fr3cj",
+      "i": 268,
+      "from": 60113,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "notes"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": []
+      },
+      "_said": "face, and keep Keep driving like nothing happened. The writing is"
+    },
+    {
+      "fp": "caem0",
+      "i": 269,
+      "from": 60221,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "is so gorgeous, the pacing is so incredible, the dialogue is so snappy that we,"
+    },
+    {
+      "fp": "pt74pq",
+      "i": 270,
+      "from": 60367,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": "kitchen",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, kitchen"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": "kitchen",
+        "cast": []
+      },
+      "_said": "we, as readers, forgive the parents entirely too easily. We laugh"
+    },
+    {
+      "fp": "7x9ggy",
+      "i": 271,
+      "from": 60492,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": "cafe",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone, reading a true crime story where child protecti, cafe"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": "cafe",
+        "cast": []
+      },
+      "_said": "laugh at the scadattlele instead of realizing we're reading a true crime story where child protective services should have been called 50 times. Exactly. When we read a memoir, we'"
+    },
+    {
+      "fp": "u943ao",
+      "i": 272,
+      "from": 60773,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "on the reliability of a narrator who was groomed to romanticize her own abuse."
+    },
+    {
+      "fp": "1vfjrsc",
+      "i": 273,
+      "from": 60890,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "reading the cognitive yeah"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "abuse. We're reading the cognitive Yeah, it's grooming. So maybe the beautiful pros of the memoir itself is the ultimate final glass castle. The book itself, the structure built"
+    },
+    {
+      "fp": "pqspoj",
+      "i": 274,
+      "from": 61181,
+      "subject": "Janette and Walls",
+      "entities": [
+        "janette",
+        "walls"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Janette and Walls"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "janette",
+          "walls"
+        ]
+      },
+      "_said": "built by Janette Walls using her immense talent to make"
+    },
+    {
+      "fp": "1duwecy",
+      "i": 275,
+      "from": 61279,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "make the unbearable reality of her childhood look magical enough to survive it."
+    },
+    {
+      "fp": "1mth1b0",
+      "i": 276,
+      "from": 61406,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "leave you with a massive shift"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "it. The aestheticization of trauma makes us the readers complicit in the forgiveness. So, as we bring this deep dive to a close, we want to leave you with a massive shift"
+    },
+    {
+      "fp": "10tyb86",
+      "i": 277,
+      "from": 61694,
+      "subject": "Rex and Walls",
+      "entities": [
+        "rex",
+        "walls"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Rex and Walls"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "rex",
+          "walls"
+        ]
+      },
+      "_said": "shift in perspective to think about on your own. Throughout this entire analysis, we've talked about how Rex Walls failed to build the glass castle. He"
+    },
+    {
+      "fp": "yo0s57",
+      "i": 278,
+      "from": 61939,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "He drew the blueprints. He measured the angles, but he filled the foundation with rotting But if you think about it, he actually did build it. He did. The glass castle was never go"
+    },
+    {
+      "fp": "it95l0",
+      "i": 279,
+      "from": 62253,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "of watch, West Virginia. But you, the reader, you're holding it in your hands right now. The book itself is the castle. It"
+    },
+    {
+      "fp": "108gxqf",
+      "i": 280,
+      "from": 62443,
+      "subject": "Rex and Walls",
+      "entities": [
+        "rex",
+        "walls"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Rex and Walls"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "rex",
+          "walls"
+        ]
+      },
+      "_said": "It is transparent. It is impossibly beautiful. And it is made of the one and only thing Rex Walls ever truly trafficked in. A story good enough to live inside."
+    },
+    {
+      "fp": "neod5q",
+      "i": 281,
+      "from": 62738,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "inside. Trauma and beauty aren't just intertwined. Sometimes they are the exact same material."
+    }
+  ]
+}

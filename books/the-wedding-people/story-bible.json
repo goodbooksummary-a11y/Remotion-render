@@ -1,0 +1,124 @@
+{
+  "slug": "the-wedding-people",
+  "world": {
+    "era": "1864–1991",
+    "approxYear": 1991,
+    "setting": "",
+    "register": "",
+    "forbid": []
+  },
+  "cast": {
+    "phoebe": {
+      "name": "Phoebe",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 17
+    },
+    "leela": {
+      "name": "Leela",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 10
+    },
+    "which": {
+      "name": "Which",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 3
+    }
+  },
+  "places": {},
+  "objects": [
+    {
+      "concept": "heart",
+      "mentions": 37,
+      "why": ""
+    },
+    {
+      "concept": "family",
+      "mentions": 13,
+      "why": ""
+    },
+    {
+      "concept": "phone",
+      "mentions": 11,
+      "why": ""
+    },
+    {
+      "concept": "shield",
+      "mentions": 8,
+      "why": ""
+    },
+    {
+      "concept": "food",
+      "mentions": 8,
+      "why": ""
+    },
+    {
+      "concept": "crash",
+      "mentions": 6,
+      "why": ""
+    },
+    {
+      "concept": "gift",
+      "mentions": 6,
+      "why": ""
+    },
+    {
+      "concept": "grave",
+      "mentions": 6,
+      "why": ""
+    },
+    {
+      "concept": "coin",
+      "mentions": 5,
+      "why": ""
+    },
+    {
+      "concept": "storm",
+      "mentions": 4,
+      "why": ""
+    },
+    {
+      "concept": "home",
+      "mentions": 4,
+      "why": ""
+    },
+    {
+      "concept": "chains",
+      "mentions": 4,
+      "why": ""
+    }
+  ],
+  "spine": [
+    {
+      "act": "setup",
+      "fromFrame": 2,
+      "claim": ""
+    },
+    {
+      "act": "development",
+      "fromFrame": 10637,
+      "claim": ""
+    },
+    {
+      "act": "turn",
+      "fromFrame": 20962,
+      "claim": ""
+    },
+    {
+      "act": "consequence",
+      "fromFrame": 32594,
+      "claim": ""
+    },
+    {
+      "act": "close",
+      "fromFrame": 42852,
+      "claim": ""
+    }
+  ],
+  "authored": false
+}

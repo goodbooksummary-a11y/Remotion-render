@@ -1,0 +1,211 @@
+{
+  "slug": "the-handmaids-tale",
+  "world": {
+    "era": "mid-20th century",
+    "approxYear": 1930,
+    "setting": "",
+    "register": "",
+    "forbid": [
+      "phone",
+      "codeWindow",
+      "laptopMockup",
+      "rocketLaunch",
+      "funnelMetrics",
+      "dollarExchange",
+      "subway",
+      "car",
+      "alarmClock",
+      "medical"
+    ]
+  },
+  "cast": {
+    "offred": {
+      "name": "Offred",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 8
+    },
+    "gilead": {
+      "name": "Gilead",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 4
+    },
+    "nick": {
+      "name": "Nick",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 3
+    },
+    "luke": {
+      "name": "Luke",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 3
+    },
+    "lydia": {
+      "name": "Lydia",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 3
+    },
+    "moira": {
+      "name": "Moira",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 2
+    },
+    "which": {
+      "name": "Which",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 2
+    },
+    "offered": {
+      "name": "Offered",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 2
+    }
+  },
+  "places": {
+    "kitchen": {
+      "set": "kitchen",
+      "look": "",
+      "mentions": 1
+    },
+    "street": {
+      "set": "street",
+      "look": "",
+      "mentions": 1
+    }
+  },
+  "objects": [
+    {
+      "concept": "law",
+      "mentions": 10,
+      "why": ""
+    },
+    {
+      "concept": "chains",
+      "mentions": 10,
+      "why": ""
+    },
+    {
+      "concept": "heart",
+      "mentions": 10,
+      "why": ""
+    },
+    {
+      "concept": "phone",
+      "mentions": 8,
+      "why": ""
+    },
+    {
+      "concept": "gift",
+      "mentions": 8,
+      "why": ""
+    },
+    {
+      "concept": "family",
+      "mentions": 8,
+      "why": ""
+    },
+    {
+      "concept": "home",
+      "mentions": 7,
+      "why": ""
+    },
+    {
+      "concept": "notes",
+      "mentions": 7,
+      "why": ""
+    },
+    {
+      "concept": "war",
+      "mentions": 6,
+      "why": ""
+    },
+    {
+      "concept": "lightbulb",
+      "mentions": 6,
+      "why": ""
+    },
+    {
+      "concept": "shield",
+      "mentions": 5,
+      "why": ""
+    },
+    {
+      "concept": "magnifier",
+      "mentions": 5,
+      "why": ""
+    }
+  ],
+  "spine": [
+    {
+      "act": "The Morning Everything Stopped",
+      "fromFrame": 0,
+      "claim": ""
+    },
+    {
+      "act": "Luke's \"I'll Take Care of It\"",
+      "fromFrame": 3810,
+      "claim": ""
+    },
+    {
+      "act": "The Red Center & Aunt Lydia",
+      "fromFrame": 11010,
+      "claim": ""
+    },
+    {
+      "act": "The Ceremony — Serena Joy's Rings",
+      "fromFrame": 17790,
+      "claim": ""
+    },
+    {
+      "act": "Offred's Unreliable Mind",
+      "fromFrame": 25080,
+      "claim": ""
+    },
+    {
+      "act": "Moira's Escape & Jezebel's Trap",
+      "fromFrame": 30660,
+      "claim": ""
+    },
+    {
+      "act": "Nick — Love or Entrapment?",
+      "fromFrame": 37410,
+      "claim": ""
+    },
+    {
+      "act": "The Commander's Scrabble Games",
+      "fromFrame": 42840,
+      "claim": ""
+    },
+    {
+      "act": "The Historical Notes Epilogue",
+      "fromFrame": 48600,
+      "claim": ""
+    },
+    {
+      "act": "Is Offred Too Passive?",
+      "fromFrame": 53820,
+      "claim": ""
+    },
+    {
+      "act": "\"We Lived as Usual, by Ignoring\"",
+      "fromFrame": 56280,
+      "claim": ""
+    }
+  ],
+  "authored": false
+}

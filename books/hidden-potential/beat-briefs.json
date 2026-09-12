@@ -1,0 +1,3144 @@
+{
+  "slug": "hidden-potential",
+  "authored": false,
+  "briefs": [
+    {
+      "fp": "iq482z",
+      "i": 0,
+      "from": 2,
+      "subject": "road",
+      "entities": [],
+      "concept": "road",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "road, 1996"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": null,
+        "cast": []
+      },
+      "_said": "the person who got the top score probably didn't travel the farthest to get it and we just handed the prize to the wrong thing. I mean, it's a fundamental miscalculation that we ma"
+    },
+    {
+      "fp": "1dsxedp",
+      "i": 1,
+      "from": 638,
+      "subject": "Talent — lightbulb",
+      "entities": [
+        "talent"
+      ],
+      "concept": "lightbulb",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Talent, 1996"
+      },
+      "antidote": {
+        "concept": "lightbulb",
+        "cast": [
+          "talent"
+        ]
+      },
+      "_said": "you know, we're using the entirely wrong ruler to do it. It completely flips how you think about success to be honest. So, welcome to the deep dive everyone. The core mission we ar"
+    },
+    {
+      "fp": "rymacr",
+      "i": 2,
+      "from": 1140,
+      "subject": "Character and Talent and Scaffolding — road",
+      "entities": [
+        "character",
+        "talent",
+        "scaffolding"
+      ],
+      "concept": "road",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Character and Talent, 1996"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": null,
+        "cast": [
+          "character",
+          "talent",
+          "scaffolding"
+        ]
+      },
+      "_said": "Right. It's not just this biological lottery ticket. Exactly. Talent is a distance traveled. What looks like a natural innate gift. That undeniable spark we all love to is um it's "
+    },
+    {
+      "fp": "1t3nf81",
+      "i": 3,
+      "from": 1656,
+      "subject": "school",
+      "entities": [],
+      "concept": "school",
+      "place": "classroom",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "school, classroom, 1996"
+      },
+      "antidote": {
+        "concept": "school",
+        "set": "classroom",
+        "cast": []
+      },
+      "_said": "Yeah. It's those unseen elements that turn ordinary raw material into incredible achievement. And this is the lens through which you really need to view every workplace promotion, "
+    },
+    {
+      "fp": "aj5w41",
+      "i": 4,
+      "from": 2282,
+      "subject": "road",
+      "entities": [],
+      "concept": "road",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "road, 1996"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": null,
+        "cast": []
+      },
+      "_said": "starting point with high potential. And we are going to unpack exactly how to fix that ruler today because the phrase we were going to keep coming back to the mantra for this whole"
+    },
+    {
+      "fp": "e5umgn",
+      "i": 5,
+      "from": 2827,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "reading through the case studies on this and th, 1996"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "It really does. So I was reading through the case studies on this and there is this one moment that perfectly captures this whole illusion. It's the spring of Go. The National Juni"
+    },
+    {
+      "fp": "1lnyao",
+      "i": 6,
+      "from": 3300,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1996"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "It is packed to the brim with middle schoolers, but the second the clocks start, the entire room goes dead silent. I can literally feel the tension, right? The only sound is the fr"
+    },
+    {
+      "fp": "1yglw8h",
+      "i": 7,
+      "from": 3943,
+      "subject": "school",
+      "entities": [],
+      "concept": "school",
+      "place": "classroom",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "school, classroom, 1996"
+      },
+      "antidote": {
+        "concept": "school",
+        "set": "classroom",
+        "cast": []
+      },
+      "_said": "School in New York City, which is like an incredibly elite prep Exactly. They basically built an Olympic training center for chess. These kids have had mandatory chess classes sinc"
+    },
+    {
+      "fp": "i01268",
+      "i": 8,
+      "from": 4356,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone, hold a yeah, 1996"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": null,
+        "cast": []
+      },
+      "_said": "I mean, their parents fly them to international So, they are the absolute epitome of early advantage. The system was designed to optimize their performance from the moment they cou"
+    },
+    {
+      "fp": "82shhs",
+      "i": 9,
+      "from": 4817,
+      "subject": "school",
+      "entities": [],
+      "concept": "school",
+      "place": "classroom",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "school, classroom, 1996"
+      },
+      "antidote": {
+        "concept": "school",
+        "set": "classroom",
+        "cast": []
+      },
+      "_said": "They are this scrappy, totally underfunded group of eighth and nth graders from Junior High School 43, a public school in Harlem. Wow. Okay. They barely had the budget to field a t"
+    },
+    {
+      "fp": "1a1l4ho",
+      "i": 10,
+      "from": 5215,
+      "subject": "game",
+      "entities": [],
+      "concept": "game",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "game, watching a drug dealer play, 1996"
+      },
+      "antidote": {
+        "concept": "game",
+        "set": null,
+        "cast": []
+      },
+      "_said": "They obviously didn't have a decade of private coaching. In fact, some of them only learned how the pieces moved a couple of years prior. Their team captain, Cassan Henry, literall"
+    },
+    {
+      "fp": "o3bnot",
+      "i": 11,
+      "from": 5642,
+      "subject": "game",
+      "entities": [],
+      "concept": "game",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "game, 1996"
+      },
+      "antidote": {
+        "concept": "game",
+        "set": null,
+        "cast": []
+      },
+      "_said": "That is just the environmental contrast is staggering. You have a frictionless track on one side and this massive mountain of structural barriers on the And yet defying every singl"
+    },
+    {
+      "fp": "16keb9m",
+      "i": 12,
+      "from": 6240,
+      "subject": "game",
+      "entities": [],
+      "concept": "game",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "game, hold the exact same trophy, 1996"
+      },
+      "antidote": {
+        "concept": "game",
+        "set": null,
+        "cast": []
+      },
+      "_said": "Now, if you just look at the final score, they are equals. They both hold the exact same trophy. But if you look at the climb, the rooks covered 10 times the ground. And this is ex"
+    },
+    {
+      "fp": "2c7y4m",
+      "i": 13,
+      "from": 6778,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1996"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "On day one, we look at the y intercept on a graph. Right. The starting point. Uh yeah, the Dalton kids started halfway up the mountain. Their y intercept was incredibly high. The r"
+    },
+    {
+      "fp": "1au9jyo",
+      "i": 14,
+      "from": 7193,
+      "subject": "law",
+      "entities": [],
+      "concept": "law",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "law, 1996"
+      },
+      "antidote": {
+        "concept": "law",
+        "set": null,
+        "cast": []
+      },
+      "_said": "But if you only judge people by what they can do on the first day of the assessment, their actual potential, like the steepness of their slope remains completely hidden. It's the d"
+    },
+    {
+      "fp": "v24icx",
+      "i": 15,
+      "from": 7589,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1996"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "The late bloomer who clanged a mountain always beats the prodigy who started halfway up because the late bloomer actually had to develop the mechanics of climbing. We assume the pe"
+    },
+    {
+      "fp": "1cwgc1r",
+      "i": 16,
+      "from": 8086,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1996"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "That actually makes me think of Maya Shanker. Her story is a perfect parallel to this. If you look at her early life, she was the absolute definition of an early peaker. Oh yeah, t"
+    },
+    {
+      "fp": "bx88lo",
+      "i": 17,
+      "from": 8544,
+      "subject": "work",
+      "entities": [],
+      "concept": "work",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "work, 1996"
+      },
+      "antidote": {
+        "concept": "work",
+        "set": null,
+        "cast": []
+      },
+      "_said": "She was on this completely frictionless track to becoming one of the greatest concert violinists in the world. But then as a teenager, she tore a tendon in her hand. In a single mo"
+    },
+    {
+      "fp": "192s48j",
+      "i": 18,
+      "from": 8964,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1996"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Her starting advantage was totally wiped And that is exactly where you see what her potential actually was because she didn't just have a high starting point in music. She had deve"
+    },
+    {
+      "fp": "d6iwk",
+      "i": 19,
+      "from": 9389,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1996"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "She took all that relentless discipline, the ability to process microscopic feedback, the resilience she learned from the violin, and she applied it to a totally blank slate, cogni"
+    },
+    {
+      "fp": "rx5p73",
+      "i": 20,
+      "from": 9862,
+      "subject": "Talent — road",
+      "entities": [
+        "talent"
+      ],
+      "concept": "road",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Talent, 1996"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": null,
+        "cast": [
+          "talent"
+        ]
+      },
+      "_said": "She started from zero in a new field, ended up getting her PhD from Oxford on a road scholarship, and eventually became a senior adviser in the White House, founding the first beha"
+    },
+    {
+      "fp": "2gl1v5",
+      "i": 21,
+      "from": 10469,
+      "subject": "road",
+      "entities": [],
+      "concept": "road",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "road, 1996"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": null,
+        "cast": []
+      },
+      "_said": "She knew how to travel the distance. Okay, but I have to push back here for a Sure, go for it. Because while Maya Shanker's pivot is incredible and the raging rooks are this phenom"
+    },
+    {
+      "fp": "dap6hv",
+      "i": 22,
+      "from": 10951,
+      "subject": "Mozart — phone",
+      "entities": [
+        "mozart"
+      ],
+      "concept": "phone",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Mozart, fall out of the sky with a 160 iq? what abou, 1996"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": null,
+        "cast": [
+          "mozart"
+        ]
+      },
+      "_said": "What do you mean? I mean, what about the kids who just fall out of the sky with a 160 IQ? What about Mozart? Everyone uses him as the ultimate example of the innate born child prod"
+    },
+    {
+      "fp": "1b8ykn9",
+      "i": 23,
+      "from": 11616,
+      "subject": "Mozart — phone",
+      "entities": [
+        "mozart"
+      ],
+      "concept": "phone",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Mozart, read the letters and the historical accounts, 1996"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": null,
+        "cast": [
+          "mozart"
+        ]
+      },
+      "_said": "Yeah. We love to romanticize Mozart as this divine vessel of music who just scribbled masterpieces as a toddler. But if you read the letters and the historical accounts of his actu"
+    },
+    {
+      "fp": "1ndm6jq",
+      "i": 24,
+      "from": 12269,
+      "subject": "Mozart — notes",
+      "entities": [
+        "mozart"
+      ],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Mozart, writing letters as a teenager talking about how, 1996"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": [
+          "mozart"
+        ]
+      },
+      "_said": "slavery. It was rigorous, brutal, non-stop drilling from the time the boy was a toddler. Mozart was writing letters as a teenager talking about how his fingers physically achd, how"
+    },
+    {
+      "fp": "1jlh1a0",
+      "i": 25,
+      "from": 12672,
+      "subject": "lightbulb",
+      "entities": [],
+      "concept": "lightbulb",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "lightbulb, 1996"
+      },
+      "antidote": {
+        "concept": "lightbulb",
+        "cast": []
+      },
+      "_said": "Not at all. He wasn't a freak of nature. He was a freak of nurture. He succeeded in spite of this compulsive fanatical practice. Not because it was some healthy realization of inna"
+    },
+    {
+      "fp": "xja00e",
+      "i": 26,
+      "from": 13258,
+      "subject": "trophy",
+      "entities": [],
+      "concept": "trophy",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "trophy, 1996"
+      },
+      "antidote": {
+        "concept": "trophy",
+        "cast": []
+      },
+      "_said": "Oh, I saw this in the book. It's Right. We are talking Guggenheim winning sculptors, internationally acclaimed concert pianists, prize-winning mathematicians, Olympic swimmers, wor"
+    },
+    {
+      "fp": "134wvbu",
+      "i": 27,
+      "from": 13685,
+      "subject": "school",
+      "entities": [],
+      "concept": "school",
+      "place": "classroom",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "school, classroom, 1996"
+      },
+      "antidote": {
+        "concept": "school",
+        "set": "classroom",
+        "cast": []
+      },
+      "_said": "They interviewed them, their parents, their coaches, and the stunning discovery was that almost none of them were child None. That is the data point that just completely disrupts t"
+    },
+    {
+      "fp": "xsxhhn",
+      "i": 28,
+      "from": 14225,
+      "subject": "school",
+      "entities": [],
+      "concept": "school",
+      "place": "classroom",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "school, stand out for unusual aptitude at all, classroom, 1996"
+      },
+      "antidote": {
+        "concept": "school",
+        "set": "classroom",
+        "cast": []
+      },
+      "_said": "Hardly any of the Olympic swimmers set records early on. Most of the elite tennis players lost in the early rounds of their first tournaments. So, they didn't stand out for unusual"
+    },
+    {
+      "fp": "1jko4a4",
+      "i": 29,
+      "from": 14832,
+      "subject": "Talent — lightbulb",
+      "entities": [
+        "talent"
+      ],
+      "concept": "lightbulb",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Talent, 1996"
+      },
+      "antidote": {
+        "concept": "lightbulb",
+        "cast": [
+          "talent"
+        ]
+      },
+      "_said": "Exactly. The whole obsession with early innate talent is a myth. It reminds me of the Pulgar sisters. That famous experiment from the 1960s where the Hungarian psychologist Llo Pul"
+    },
+    {
+      "fp": "gxq2pn",
+      "i": 30,
+      "from": 15353,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1996"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "He publicly declared that any healthy child could be turned into a prodigy with the right environment. He and his wife had three daughters, Susan, Sophia, and Judith. and they deci"
+    },
+    {
+      "fp": "1st8xs9",
+      "i": 31,
+      "from": 15754,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1996"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "It is honestly one of the most audacious psychological experiments in history. He believed geniuses are made, not born. And he basically proved it. Yeah. All three girls became wor"
+    },
+    {
+      "fp": "11i4r4j",
+      "i": 32,
+      "from": 16382,
+      "subject": "road",
+      "entities": [],
+      "concept": "road",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "road, 1996"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": null,
+        "cast": []
+      },
+      "_said": "at the time. And they weren't born with a special chess gene. They were placed in an environment that heavily scaffolded their trajectory. They measured the distance traveled, not "
+    },
+    {
+      "fp": "13g47ua",
+      "i": 33,
+      "from": 17023,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1996"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "to the next really important question. If raw innate cognitive power isn't the engine that drives a person across that distance, what is? Right? To figure that out, we have to look"
+    },
+    {
+      "fp": "pjr44t",
+      "i": 34,
+      "from": 17472,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": "classroom",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "phone, run this massive randomized controlled tria, classroom, 1996"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": "classroom",
+        "cast": []
+      },
+      "_said": "Let's go to a kindergarten classroom in Tennessee in the late Right? Setting the scene. The state government decides to run this massive randomized controlled trial called the STAR"
+    },
+    {
+      "fp": "1p80klj",
+      "i": 35,
+      "from": 18058,
+      "subject": "school",
+      "entities": [],
+      "concept": "school",
+      "place": "classroom",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "school, classroom, 1996"
+      },
+      "antidote": {
+        "concept": "school",
+        "set": "classroom",
+        "cast": []
+      },
+      "_said": "It is a pure test of a teacher's impact, which is so rare to get in educational Exactly. Fast forward a couple of decades. These exact kids are now 25 years old. This brilliant eco"
+    },
+    {
+      "fp": "189padz",
+      "i": 36,
+      "from": 18516,
+      "subject": "school",
+      "entities": [],
+      "concept": "school",
+      "place": "classroom",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "school, classroom, 1996"
+      },
+      "antidote": {
+        "concept": "school",
+        "set": "classroom",
+        "cast": []
+      },
+      "_said": "He cross references their kindergarten records with their adult W2 tax returns, college attendance records, all of it, and he discovers something What did he find? Having an experi"
+    },
+    {
+      "fp": "5wr02d",
+      "i": 37,
+      "from": 19176,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "sit in a circle and eat paste when you were, 1996"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "for a second. The specific human being who taught you how to sit in a circle and eat paste when you were 5 years old is measurably impacting your W2 tax return two decades later. B"
+    },
+    {
+      "fp": "ztax6r",
+      "i": 38,
+      "from": 19846,
+      "subject": "school",
+      "entities": [],
+      "concept": "school",
+      "place": "classroom",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "school, reading in first and second grade, classroom, 1996"
+      },
+      "antidote": {
+        "concept": "school",
+        "set": "classroom",
+        "cast": []
+      },
+      "_said": "That they learned their ABCs But that wasn't it. Cheddy's team looked at the early standardized test scores. And yes, the kids with the experienced teachers had a temporary bump in"
+    },
+    {
+      "fp": "1fu0iaf",
+      "i": 39,
+      "from": 20333,
+      "subject": "Character — phone",
+      "entities": [
+        "character"
+      ],
+      "concept": "phone",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Character, reading advantage disappeared, 1996"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": null,
+        "cast": [
+          "character"
+        ]
+      },
+      "_said": "the other kids caught up. Their test scores leveled out. So, if the math and reading advantage disappeared, what actually lasted 20 It was what psychologists call character skills."
+    },
+    {
+      "fp": "fzpk29",
+      "i": 40,
+      "from": 20784,
+      "subject": "Character — game",
+      "entities": [
+        "character"
+      ],
+      "concept": "game",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Character, 1996"
+      },
+      "antidote": {
+        "concept": "game",
+        "set": null,
+        "cast": [
+          "character"
+        ]
+      },
+      "_said": "The teachers had rated them on specific behaviors, proactivity, pro-social behavior, discipline, and determination. And how did the kids with the experienced kindergarten teachers "
+    },
+    {
+      "fp": "19v1qup",
+      "i": 41,
+      "from": 21461,
+      "subject": "game",
+      "entities": [],
+      "concept": "game",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "game, reading 2, 1996"
+      },
+      "antidote": {
+        "concept": "game",
+        "set": null,
+        "cast": []
+      },
+      "_said": "standardized math and reading 2.4 times more. We spend our entire lives obsessing over SAT scores, reading levels, and IQ tests. And it turns out the ability to collaborate, to reg"
+    },
+    {
+      "fp": "macmwe",
+      "i": 42,
+      "from": 22097,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1996"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "the It completely breaks the traditional model of academic success. And you know, we often dismiss these traits as soft skills, which is a historically terrible term. Oh, I totally"
+    },
+    {
+      "fp": "dldkgy",
+      "i": 43,
+      "from": 22495,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1996"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "I despise the term soft skills. It makes them sound like a fluffy throw pillow on a couch. It sounds optional. The origin of the term is actually from the US military in the late 1"
+    },
+    {
+      "fp": "xmvrt8",
+      "i": 44,
+      "from": 23131,
+      "subject": "target",
+      "entities": [],
+      "concept": "target",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "target, 1996"
+      },
+      "antidote": {
+        "concept": "target",
+        "cast": []
+      },
+      "_said": "the term almost immediately because it made these vital mission critical skills sound weak and feminine to the soldiers. But the corporate world adopted it and it just stuck. Of co"
+    },
+    {
+      "fp": "83432z",
+      "i": 45,
+      "from": 23786,
+      "subject": "Character",
+      "entities": [
+        "character"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Character, 1996"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "character"
+        ]
+      },
+      "_said": "these character skills are literally the only things that elevate us above the machines. And what's incredibly empowering is that we have hard data showing these character skills a"
+    },
+    {
+      "fp": "193jzp7",
+      "i": 46,
+      "from": 24199,
+      "subject": "Character",
+      "entities": [
+        "character"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Character, running local startups, 1996"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "character"
+        ]
+      },
+      "_said": "There was this recent fascinating study conducted in West Africa with 1,500 entrepreneurs. These are people in their 30s, 40s, and 50s running local startups. The researchers split"
+    },
+    {
+      "fp": "q7u659",
+      "i": 47,
+      "from": 24763,
+      "subject": "Character",
+      "entities": [
+        "character"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Character, 1996"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "character"
+        ]
+      },
+      "_said": "They don't look at a single spreadsheet. Instead, they study personal initiative, proactivity, and discipline. They literally roleplay how to anticipate problems and overcome setba"
+    },
+    {
+      "fp": "121hvns",
+      "i": 48,
+      "from": 25330,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1996"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "That was nearly triple the benefit of the cognitive training group. Triple the profit just from learning proactivity. But how does that actually work mechanically? Well, because fi"
+    },
+    {
+      "fp": "1ow54zd",
+      "i": 49,
+      "from": 25735,
+      "subject": "Character — rocketLaunch",
+      "entities": [
+        "character"
+      ],
+      "concept": "rocketLaunch",
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Character, waited for it to be fixed, 1996"
+      },
+      "antidote": {
+        "concept": "rocketLaunch",
+        "set": null,
+        "cast": [
+          "character"
+        ]
+      },
+      "_said": "If a client comes to you, you know how to build them. But character training taught them how to generate opportunities. It taught them resourcefulness. When the supply chain broke "
+    },
+    {
+      "fp": "7njwyj",
+      "i": 50,
+      "from": 26189,
+      "subject": "Character — family",
+      "entities": [
+        "character"
+      ],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Character, 1996"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": [
+          "character"
+        ]
+      },
+      "_said": "Okay, but I have to interject here because this clashes with classical How so? William James, the founding father of American psychology. He famously declared that by age 30, a per"
+    },
+    {
+      "fp": "1bgcuhd",
+      "i": 51,
+      "from": 26688,
+      "subject": "Character — school",
+      "entities": [
+        "character"
+      ],
+      "concept": "school",
+      "place": "classroom",
+      "confidence": 1,
+      "vox": {
+        "shot": "Character, sit in a classroom for a week and learn cha, classroom, 1996"
+      },
+      "antidote": {
+        "concept": "school",
+        "set": "classroom",
+        "cast": [
+          "character"
+        ]
+      },
+      "_said": "If I'm 45 years old, how can I just sit in a classroom for a week and learn character? Isn't my personality pretty much locked into my neural pathways? This is a very common confus"
+    },
+    {
+      "fp": "u2fio3",
+      "i": 52,
+      "from": 27101,
+      "subject": "Character — funnelTrap",
+      "entities": [
+        "character"
+      ],
+      "concept": "funnelTrap",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Character, 1996"
+      },
+      "antidote": {
+        "concept": "funnelTrap",
+        "cast": [
+          "character"
+        ]
+      },
+      "_said": "They are entirely different psychological mechanisms. Yes, personality is your predisposition. It's your basic instinct, your default setting on a typical low stress day. Character"
+    },
+    {
+      "fp": "1kf5hmk",
+      "i": 53,
+      "from": 27590,
+      "subject": "Character — sword",
+      "entities": [
+        "character"
+      ],
+      "concept": "sword",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Character, stand up and speak, 1996"
+      },
+      "antidote": {
+        "concept": "sword",
+        "cast": [
+          "character"
+        ]
+      },
+      "_said": "Oh, that is a profound distinction. Let's unpack that a bit more. Think of it this way. Personality is your tendency, but character is your destiny. If you are naturally a shy, con"
+    },
+    {
+      "fp": "gn0f9p",
+      "i": 54,
+      "from": 28248,
+      "subject": "Character",
+      "entities": [
+        "character"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Character, 1996"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "character"
+        ]
+      },
+      "_said": "out anyway, that is your character overwriting your personality. Character isn't how you behave when things are easy. Character is how you show up on a hard day. So personality mig"
+    },
+    {
+      "fp": "z7y37q",
+      "i": 55,
+      "from": 28666,
+      "subject": "Character",
+      "entities": [
+        "character"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Character, 1996"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "character"
+        ]
+      },
+      "_said": "Exactly. And the beautiful thing the West Africa study proves is that William James was wrong about character. It does not set like plaster. It retains its plasticity forever. You "
+    },
+    {
+      "fp": "5ibprk",
+      "i": 56,
+      "from": 29071,
+      "subject": "Character — road",
+      "entities": [
+        "character"
+      ],
+      "concept": "road",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Character, 1996"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": null,
+        "cast": [
+          "character"
+        ]
+      },
+      "_said": "Character is the fuel that allows you to cover the distance traveled, not just rely on the height of your peak. It's not about what you were born with. It's about the habits you bu"
+    },
+    {
+      "fp": "1wex6ii",
+      "i": 57,
+      "from": 29705,
+      "subject": "heart",
+      "entities": [],
+      "concept": "heart",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "heart, 1996"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": null,
+        "cast": []
+      },
+      "_said": "You have to develop the courage to deliberately become a creature of I love this concept. Let's look at a moment in the 1960s. Oh, the comedy club scene. Yes. We are inside a dark,"
+    },
+    {
+      "fp": "4bsvnr",
+      "i": 58,
+      "from": 30132,
+      "subject": "Martin",
+      "entities": [
+        "martin"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Martin, 1996"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "martin"
+        ]
+      },
+      "_said": "Up on stage is a very young Steve Martin. He's got his banjo. He's trying out his act and he is bombing hard. It's just painful. He goes 5 minutes without a single chuckle. 10 minu"
+    },
+    {
+      "fp": "16c95p5",
+      "i": 59,
+      "from": 30576,
+      "subject": "Martin — notes",
+      "entities": [
+        "martin"
+      ],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Martin, stands up, 1996"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": [
+          "martin"
+        ]
+      },
+      "_said": "gets so painfully bad that a heckler actually stands up, walks toward the stage, and throws a glass of red wine at A critic who saw him during this era later wrote that Steve Marti"
+    },
+    {
+      "fp": "m9jk49",
+      "i": 60,
+      "from": 31224,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "watching others, 1996"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "was trying to learn comedy the way that felt most comfortable to his personality. He was watching others, listening, and doing off-the- cuff improv. Improv felt natural to him. It "
+    },
+    {
+      "fp": "pys7ix",
+      "i": 61,
+      "from": 31853,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "notes, 1996"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": []
+      },
+      "_said": "most in the world, which he despised. He absolutely hated writing. It was excruciatingly hard for him. He actually had such severe writer's block one night that he had to call his "
+    },
+    {
+      "fp": "1mawt1s",
+      "i": 62,
+      "from": 32333,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "notes, 1996"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": []
+      },
+      "_said": "By forcing himself into the unbearable, highly frictional awkwardness of writing, he built entirely new neural pathways. Oh, so he learned to trim the fat from his comedy. Improv a"
+    },
+    {
+      "fp": "ahtl20",
+      "i": 63,
+      "from": 32969,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1996"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "He intentionally sought out the mode of learning that was most neurologically uncomfortable for him and that targeted discomfort is what propelled him to become one of the biggest,"
+    },
+    {
+      "fp": "e8xrb6",
+      "i": 64,
+      "from": 33497,
+      "subject": "lightbulb",
+      "entities": [],
+      "concept": "lightbulb",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "lightbulb, 1996"
+      },
+      "antidote": {
+        "concept": "lightbulb",
+        "cast": []
+      },
+      "_said": "Absolutely. The idea of learning styles, the theory that you are exclusively a visual learner or an auditory learner or a kinesthetic learner is one of the most pervasive damaging "
+    },
+    {
+      "fp": "1yhbjst",
+      "i": 65,
+      "from": 33938,
+      "subject": "school",
+      "entities": [],
+      "concept": "school",
+      "place": "classroom",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "school, classroom, 1996"
+      },
+      "antidote": {
+        "concept": "school",
+        "set": "classroom",
+        "cast": []
+      },
+      "_said": "But when cognitive scientists reviewed decades of rigorous research, they found zero credible evidence that matching instruction to a student's self-reported preferred learning sty"
+    },
+    {
+      "fp": "1rrqd9r",
+      "i": 66,
+      "from": 34428,
+      "subject": "road",
+      "entities": [],
+      "concept": "road",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "road, 1996"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": null,
+        "cast": []
+      },
+      "_said": "Oh, I have to draw a map. I'm a visual learner or I prefer audio because I'm an auditory learner. What they are describing is a preference, not a biological mandate. What makes you"
+    },
+    {
+      "fp": "1q9myz",
+      "i": 67,
+      "from": 35062,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "war, 1996"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "So, comfort is actually the enemy of Exactly. To grow myelin, which is the insulation around your neural circuits that makes skills automatic, you need productive struggle. If you "
+    },
+    {
+      "fp": "183bqm7",
+      "i": 68,
+      "from": 35630,
+      "subject": "school",
+      "entities": [],
+      "concept": "school",
+      "place": "classroom",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "school, classroom, 1996"
+      },
+      "antidote": {
+        "concept": "school",
+        "set": "classroom",
+        "cast": []
+      },
+      "_said": "A brilliant modern example of this is Benny Lewis. Benny is a famous polyglot. He speaks over a dozen languages, but he did not start out with a language gene. Definitely not. In f"
+    },
+    {
+      "fp": "1npru9j",
+      "i": 69,
+      "from": 36060,
+      "subject": "school",
+      "entities": [],
+      "concept": "school",
+      "place": "classroom",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "school, classroom, 1996"
+      },
+      "antidote": {
+        "concept": "school",
+        "set": "classroom",
+        "cast": []
+      },
+      "_said": "He moved to Spain for six months after college, lived there, and still couldn't string a basic Spanish sentence together. He genuinely believed he just lacked the biological hardwa"
+    },
+    {
+      "fp": "1t3trce",
+      "i": 70,
+      "from": 36480,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": "bedroom",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "phone, reading textbooks and quietly making flashcards, bedroom, 1996"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": "bedroom",
+        "cast": []
+      },
+      "_said": "So, finally, he realizes that reading textbooks and quietly making flashcards in his room, which felt comfortable and safe, just wasn't working. He decides to completely invert his"
+    },
+    {
+      "fp": "1c5mnau",
+      "i": 71,
+      "from": 36929,
+      "subject": "heart",
+      "entities": [],
+      "concept": "heart",
+      "place": "street",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "heart, street, 1996"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": "street",
+        "cast": []
+      },
+      "_said": "I love that term. He goes out into the street and starts speaking the new language from day one. He literally wears a bright green leprechaun hat on the streets of foreign cities j"
+    },
+    {
+      "fp": "ai8iq3",
+      "i": 72,
+      "from": 37349,
+      "subject": "target",
+      "entities": [],
+      "concept": "target",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "target, 1996"
+      },
+      "antidote": {
+        "concept": "target",
+        "cast": []
+      },
+      "_said": "He aims to make at least 200 mistakes a day. That's his actual goal. Yes. He explicitly measures his daily progress not by what he got right, but by how many errors he made. He del"
+    },
+    {
+      "fp": "17u0o1n",
+      "i": 73,
+      "from": 37740,
+      "subject": "funnelMetrics",
+      "entities": [],
+      "concept": "funnelMetrics",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "funnel metrics, 1996"
+      },
+      "antidote": {
+        "concept": "funnelMetrics",
+        "set": null,
+        "cast": []
+      },
+      "_said": "Most people operate under the illusion that learning is about acquiring theoretical knowledge in private until you feel comfortable enough to practice in public. Right. Like we hav"
+    },
+    {
+      "fp": "i2gfvf",
+      "i": 74,
+      "from": 38443,
+      "subject": "alarmClock",
+      "entities": [],
+      "concept": "alarmClock",
+      "place": "bedroom",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "alarm clock, bedroom, 1996"
+      },
+      "antidote": {
+        "concept": "alarmClock",
+        "set": "bedroom",
+        "cast": []
+      },
+      "_said": "You don't get comfortable before you practice. Your comfort grows as you practice. Okay, but hold on. If I'm listening to this, my internal alarm bells are Deliberately feeling awf"
+    },
+    {
+      "fp": "1w0j3v7",
+      "i": 75,
+      "from": 39070,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "war, 1996"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "Yeah. I feel like my brain's amydala would just hijack my nervous system, trigger the fight orflight response, and pull the emergency brake. How do you not just quit? It's a vital "
+    },
+    {
+      "fp": "cdabe8",
+      "i": 76,
+      "from": 39499,
+      "subject": "target",
+      "entities": [],
+      "concept": "target",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "target, 1996"
+      },
+      "antidote": {
+        "concept": "target",
+        "cast": []
+      },
+      "_said": "There was an incredible study done with students learning improv comedy, which is notoriously terrifying for beginners. The researchers randomly assigned different explicit goals t"
+    },
+    {
+      "fp": "q4k847",
+      "i": 77,
+      "from": 40212,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1996"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "awkward and uncomfortable. If you feel embarrassed, it is a sign the exercise is working.\" Oh wow. So they completely rebranded the pain. Precisely. When discomfort is unconsciousl"
+    },
+    {
+      "fp": "4k86lr",
+      "i": 78,
+      "from": 40704,
+      "subject": "target",
+      "entities": [],
+      "concept": "target",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "target, running away from the awkwardness and start stu, 1996"
+      },
+      "antidote": {
+        "concept": "target",
+        "cast": []
+      },
+      "_said": "But when you are explicitly told by an authority figure that discomfort is the actual signal of progress. Your prefrontal cortex overrides the fear. You lean into it. You stop runn"
+    },
+    {
+      "fp": "1cm6tzz",
+      "i": 79,
+      "from": 41364,
+      "subject": "road",
+      "entities": [],
+      "concept": "road",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "road, sit comfortably on your starting block, 1996"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": null,
+        "cast": []
+      },
+      "_said": "He hacked his own reward That completely shifts the paradigm of how he approached new skills. You can't just sit comfortably on your starting block, reading the manual, waiting for"
+    },
+    {
+      "fp": "17o2wx4",
+      "i": 80,
+      "from": 41945,
+      "subject": "Character",
+      "entities": [
+        "character"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Character, 1996"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "character"
+        ]
+      },
+      "_said": "And as you are stumbling forward, deliberately making those 200 mistakes, you have to know how to process the reactions of the people around you. You have to know how to absorb the"
+    },
+    {
+      "fp": "so2enu",
+      "i": 81,
+      "from": 42466,
+      "subject": "Melody — school",
+      "entities": [
+        "melody"
+      ],
+      "concept": "school",
+      "place": "classroom",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Melody, classroom, 1996"
+      },
+      "antidote": {
+        "concept": "school",
+        "set": "classroom",
+        "cast": [
+          "melody"
+        ]
+      },
+      "_said": "Let's trace the life of Melody Hobson to understand this. We are in Chicago. A young girl named Melody comes home from elementary school and once again she flips the light switch a"
+    },
+    {
+      "fp": "1i8srbp",
+      "i": 82,
+      "from": 42948,
+      "subject": "Melody — school",
+      "entities": [
+        "melody"
+      ],
+      "concept": "school",
+      "place": "classroom",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Melody, classroom, 1996"
+      },
+      "antidote": {
+        "concept": "school",
+        "set": "classroom",
+        "cast": [
+          "melody"
+        ]
+      },
+      "_said": "They face evictions. Their car gets repossessed. In first grade, Melody is placed in remedial reading. She is starting from far, far behind the starting line. But in second grade, "
+    },
+    {
+      "fp": "16swp9z",
+      "i": 83,
+      "from": 43394,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "sitting in a local mcdonald's with john rogers, 1996"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "She becomes completely obsessed. She relentlessly learns every single word she doesn't know. She transitions from a passive participant in her environment to an active absorber. Sh"
+    },
+    {
+      "fp": "108ox5u",
+      "i": 84,
+      "from": 44054,
+      "subject": "rocketLaunch",
+      "entities": [],
+      "concept": "rocketLaunch",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "rocket launch, sits there aggressively soaking up everythin, 1996"
+      },
+      "antidote": {
+        "concept": "rocketLaunch",
+        "set": null,
+        "cast": []
+      },
+      "_said": "founder of a major investment firm. Quite the networking spot, right? But she doesn't just listen to him. She sits there aggressively soaking up everything he reads in the newspape"
+    },
+    {
+      "fp": "1du1fvq",
+      "i": 85,
+      "from": 44491,
+      "subject": "Melody",
+      "entities": [
+        "melody"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Melody, 1996"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "melody"
+        ]
+      },
+      "_said": "Today, Melody Hobson is the co-CEO of Aerial Investments. She's the chair of the board at Starbucks and was named one of Times 100 most influential people. She became a literal, in"
+    },
+    {
+      "fp": "1355hxx",
+      "i": 86,
+      "from": 44957,
+      "subject": "Character",
+      "entities": [
+        "character"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Character, 1996"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "character"
+        ]
+      },
+      "_said": "What is so crucial to understand here is that being a sponge is a highly proactive character skill. It's not just about passively taking in information. It's about absorbing the ri"
+    },
+    {
+      "fp": "o5mozw",
+      "i": 87,
+      "from": 45365,
+      "subject": "heart",
+      "entities": [],
+      "concept": "heart",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "heart, 1996"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": null,
+        "cast": []
+      },
+      "_said": "I love the analogy the author uses here is the difference between being teflon being clay and being a sponge. Oh, that's a great framework. If you are teflon, you are entirely ego-"
+    },
+    {
+      "fp": "hvrmah",
+      "i": 88,
+      "from": 45806,
+      "subject": "work",
+      "entities": [],
+      "concept": "work",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "work, sit there and wait for someone else, 1996"
+      },
+      "antidote": {
+        "concept": "work",
+        "set": null,
+        "cast": []
+      },
+      "_said": "If you are clay, you are growthoriented, but you are completely passive. You just sit there and wait for someone else, a mentor, a boss to mold you. But a sponge is proactive and g"
+    },
+    {
+      "fp": "1qf1f5t",
+      "i": 89,
+      "from": 46423,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "wait for a performance review, 1996"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "You don't just wait for a performance review. You actively hunt for input. But you have to know exactly what words to use when you ask for it. This was my absolute favorite paradig"
+    },
+    {
+      "fp": "ak7b6e",
+      "i": 90,
+      "from": 46915,
+      "subject": "work",
+      "entities": [],
+      "concept": "work",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "work, 1996"
+      },
+      "antidote": {
+        "concept": "work",
+        "set": null,
+        "cast": []
+      },
+      "_said": "Early in his career, he is asked to guest lecture to a room full of seasoned Air Force colonels. He is terrified. He is naturally a shy introvert. He is sweating through his button"
+    },
+    {
+      "fp": "1hfz3tt",
+      "i": 91,
+      "from": 47371,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "notes, 1996"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": []
+      },
+      "_said": "Big mistake. Huge mistake. The colonels absolutely crucify him. M one piece of feedback literally said, \"Your nervous breathing sounds like Darth Vader.\" Another wrote, \"I gained n"
+    },
+    {
+      "fp": "9ow0qw",
+      "i": 92,
+      "from": 47815,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1996"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Just pure demoralization by useless criticism. We have all experienced that kind of feedback loop. But the revelation here is that asking for feedback is actually a psychological t"
+    },
+    {
+      "fp": "310wlc",
+      "i": 93,
+      "from": 48307,
+      "subject": "target",
+      "entities": [],
+      "concept": "target",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "target, 1996"
+      },
+      "antidote": {
+        "concept": "target",
+        "cast": []
+      },
+      "_said": "It looks backward. And when people focus on the past, they naturally turn into one of two things. They either become harsh critics who attack your worst self, or they become toxic "
+    },
+    {
+      "fp": "1t1d7bz",
+      "i": 94,
+      "from": 48706,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1996"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Neither is useful for growth. So what is the linguistic hack? Instead of asking for feedback, you must ask for You don't ask, \"How did I do?\" You ask, \"What is one specific thing I"
+    },
+    {
+      "fp": "em968y",
+      "i": 95,
+      "from": 49267,
+      "subject": "game",
+      "entities": [],
+      "concept": "game",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "game, 1996"
+      },
+      "antidote": {
+        "concept": "game",
+        "set": null,
+        "cast": []
+      },
+      "_said": "It neutralizes their critical instinct and turns them into a coach. Okay, but I have to play the skeptic here again. always a good idea because if I am adopting this sponge identit"
+    },
+    {
+      "fp": "upbdsy",
+      "i": 96,
+      "from": 49898,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1996"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "of toxic, useless, biased That's a valid concern. If a sponge soaks up dirty water, it just becomes a dirty sponge. How do I not internalize terrible advice? That is a brilliant co"
+    },
+    {
+      "fp": "ebti3w",
+      "i": 97,
+      "from": 50563,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1996"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "which coaches are actually allowed into your psychological inner circle. And how do we do that? The research points to three specific critical metrics for filtering advice. First, "
+    },
+    {
+      "fp": "v0dypp",
+      "i": 98,
+      "from": 51022,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, 1996"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": []
+      },
+      "_said": "If they don't genuinely care about you, you can completely dismiss their reaction. Their critique is about their ego, not your growth. Okay. Care that eliminates all the anonymous "
+    },
+    {
+      "fp": "w3ajvr",
+      "i": 99,
+      "from": 51686,
+      "subject": "codeWindow",
+      "entities": [],
+      "concept": "codeWindow",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "code window, 1996"
+      },
+      "antidote": {
+        "concept": "codeWindow",
+        "set": null,
+        "cast": []
+      },
+      "_said": "advice on your code is Makes sense. And third, familiarity. Do they know you? And do they know your baseline well enough to actually judge your trajectory? If someone hits all thre"
+    },
+    {
+      "fp": "12evh72",
+      "i": 100,
+      "from": 52200,
+      "subject": "road",
+      "entities": [],
+      "concept": "road",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "road, 1996"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": null,
+        "cast": []
+      },
+      "_said": "You soak up the right advice to sustain your momentum across the distance traveled, not the height of the But what happens when you soak up all that brilliant advice, you apply it,"
+    },
+    {
+      "fp": "pdcf87",
+      "i": 101,
+      "from": 52673,
+      "subject": "game",
+      "entities": [],
+      "concept": "game",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "game, reading the section on perfectionism and my bra, 1996"
+      },
+      "antidote": {
+        "concept": "game",
+        "set": null,
+        "cast": []
+      },
+      "_said": "I was reading the section on perfectionism and my brain instantly snapped back to a vivid memory of being 14 years old. What happened? Picture a local municipal swimming pool. I am"
+    },
+    {
+      "fp": "k6fpc6",
+      "i": 102,
+      "from": 53333,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1996"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "45 minutes? Yes. Why? Because in my head, I felt my center of gravity was leaning too far forward, or my breathing rhythm was off, or my toes weren't perfectly pointed. My absolute"
+    },
+    {
+      "fp": "8407ki",
+      "i": 103,
+      "from": 53964,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1996"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "between my reality and perfection. What you experienced on that diving board is the defining trap of perfectionism. Perfectionism is not a commitment to excellence. It is a cogniti"
+    },
+    {
+      "fp": "56qae4",
+      "i": 104,
+      "from": 54374,
+      "subject": "ledge",
+      "entities": [],
+      "concept": "ledge",
+      "place": "street",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "ledge, street, 1996"
+      },
+      "antidote": {
+        "concept": "ledge",
+        "set": "street",
+        "cast": []
+      },
+      "_said": "They obsess over polishing the wrong things like a tiny splash on a dive or the font on a presentation while completely ignoring the larger structural flaws like their vertical lea"
+    },
+    {
+      "fp": "1px1mg1",
+      "i": 105,
+      "from": 54886,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "war, 1996"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "You spend 90% of your energy on the last 10% of the polish. To combat this, we need to look at Japanese philosophy, specifically the practice of wabishabi. Wabishabi is the discipl"
+    },
+    {
+      "fp": "16dxy75",
+      "i": 106,
+      "from": 55582,
+      "subject": "star",
+      "entities": [],
+      "concept": "star",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "star, 1996"
+      },
+      "antidote": {
+        "concept": "star",
+        "set": null,
+        "cast": []
+      },
+      "_said": "legendary Japanese architect If you look at his work like the church of the light, he is an absolute master of wabishabi. His buildings are incredible. When he designs his concrete"
+    },
+    {
+      "fp": "z7xf64",
+      "i": 107,
+      "from": 56059,
+      "subject": "funnelTrap",
+      "entities": [],
+      "concept": "funnelTrap",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "funnel trap, 1996"
+      },
+      "antidote": {
+        "concept": "funnelTrap",
+        "cast": []
+      },
+      "_said": "But he intentionally compromises on pure function and comfort. He knows that to be ruthlessly disciplined and structural integrity, he has to let other aspects go. He knows exactly"
+    },
+    {
+      "fp": "1hau9b4",
+      "i": 108,
+      "from": 56537,
+      "subject": "school",
+      "entities": [],
+      "concept": "school",
+      "place": "classroom",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "school, runs completely counter to the default plati, classroom, 1996"
+      },
+      "antidote": {
+        "concept": "school",
+        "set": "classroom",
+        "cast": []
+      },
+      "_said": "And this philosophy runs completely counter to the default platitude we are all taught in school and by our parents. We are constantly told just do your best, right? But the empiri"
+    },
+    {
+      "fp": "2ndbno",
+      "i": 109,
+      "from": 57175,
+      "subject": "game",
+      "entities": [],
+      "concept": "game",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "game, read it, 1996"
+      },
+      "antidote": {
+        "concept": "game",
+        "set": null,
+        "cast": []
+      },
+      "_said": "given a specific difficult target. That blew my mind when I read it. But it makes sense. If my diving coach says just do your best, my 14-year-old perfectionist brain translates be"
+    },
+    {
+      "fp": "17hs3gw",
+      "i": 110,
+      "from": 57583,
+      "subject": "game",
+      "entities": [],
+      "concept": "game",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "game, 1996"
+      },
+      "antidote": {
+        "concept": "game",
+        "set": null,
+        "cast": []
+      },
+      "_said": "Exactly. But if the coach says, \"I want you to aim for a 6.5 on this dive.\" Suddenly, the paralyzing pressure for a 10 is gone. A 6.5 allows for bent knees and a splash. You have a"
+    },
+    {
+      "fp": "k5fqod",
+      "i": 111,
+      "from": 58255,
+      "subject": "codeWindow",
+      "entities": [],
+      "concept": "codeWindow",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "code window, 1996"
+      },
+      "antidote": {
+        "concept": "codeWindow",
+        "set": null,
+        "cast": []
+      },
+      "_said": "operating table, I want a perfectionist heart surgeon. Naturally, if I am boarding a Boeing 747, I want a perfectionist aerospace engineer. I don't want a pilot who practices while"
+    },
+    {
+      "fp": "1tyuxla",
+      "i": 112,
+      "from": 58826,
+      "subject": "work",
+      "entities": [],
+      "concept": "work",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "work, 1996"
+      },
+      "antidote": {
+        "concept": "work",
+        "set": null,
+        "cast": []
+      },
+      "_said": "It is a totally rational fear, but the data tells a completely counterintuitive story. In the workplace, a massive metaanalysis was conducted looking at the correlation between per"
+    },
+    {
+      "fp": "y3pzdp",
+      "i": 113,
+      "from": 59239,
+      "subject": "funnelMetrics",
+      "entities": [],
+      "concept": "funnelMetrics",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "funnel metrics, 1996"
+      },
+      "antidote": {
+        "concept": "funnelMetrics",
+        "set": null,
+        "cast": []
+      },
+      "_said": "The correlation was exactly Perfectionists perform no better than their peers. And frequently they actually perform worse. Worse? How is that even possible? Because perfectionists "
+    },
+    {
+      "fp": "nyvl2i",
+      "i": 114,
+      "from": 59765,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone, 1996"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": null,
+        "cast": []
+      },
+      "_said": "They play it safe to maintain their flawless success rate. But the real world is ambiguous and requires adaptation. So they never innovate. Right? And here is the ultimate psycholo"
+    },
+    {
+      "fp": "172ycjx",
+      "i": 115,
+      "from": 60290,
+      "subject": "lightbulb",
+      "entities": [],
+      "concept": "lightbulb",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "lightbulb, 1996"
+      },
+      "antidote": {
+        "concept": "lightbulb",
+        "cast": []
+      },
+      "_said": "We have this egocentric bias where we think one single mistake will define our entire reputation. But think about William the ultimate peak of literature, right? We universally rev"
+    },
+    {
+      "fp": "10s02uw",
+      "i": 116,
+      "from": 60715,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "notes, 1996"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": []
+      },
+      "_said": "Hamlet, McBth, King Lear. We completely ignore his terrible, messy, forgotten plays like Thyman of Athens or Symbolene. I haven't even heard of those. Exactly. He wrote a lot of me"
+    },
+    {
+      "fp": "njupz2",
+      "i": 117,
+      "from": 61306,
+      "subject": "road",
+      "entities": [],
+      "concept": "road",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "road, 1996"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": null,
+        "cast": []
+      },
+      "_said": "Perfectionists get stuck on the diving board, obsessing over an imaginary peak rather than accumulating the messy, splashed fililled jumps required for the climb. It is the distanc"
+    },
+    {
+      "fp": "1nui3k",
+      "i": 118,
+      "from": 61944,
+      "subject": "work",
+      "entities": [],
+      "concept": "work",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "work, climbs alone, 1996"
+      },
+      "antidote": {
+        "concept": "work",
+        "set": null,
+        "cast": []
+      },
+      "_said": "absolutely nobody climbs alone. I want to take us to the winter of 2012 to one of the most hostile environments on Earth, the bitter freezing summit of Mount Kilimanjaro. Okay, qui"
+    },
+    {
+      "fp": "1rda6im",
+      "i": 119,
+      "from": 62570,
+      "subject": "gift",
+      "entities": [],
+      "concept": "gift",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "gift, climbed it for charity, 1996"
+      },
+      "antidote": {
+        "concept": "gift",
+        "cast": []
+      },
+      "_said": "He has been bouncing around the minor leagues. His traditional pitching mechanics have failed him, and he has lost. So, what's he doing on a mountain? He climbed it for charity. Bu"
+    },
+    {
+      "fp": "1m0mxvu",
+      "i": 120,
+      "from": 63031,
+      "subject": "trophy",
+      "entities": [],
+      "concept": "trophy",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "trophy, 1996"
+      },
+      "antidote": {
+        "concept": "trophy",
+        "cast": []
+      },
+      "_said": "This grueling detour, this massive geographical loop backward away from baseball completely resets his mental framework. And what happens when he comes down? He completely abandons"
+    },
+    {
+      "fp": "16sy9al",
+      "i": 121,
+      "from": 63634,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone, 1996"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": null,
+        "cast": []
+      },
+      "_said": "What Arri Dicki's story beautifully illustrates is that progress is rarely a linear upward trajectory. It is full of loops, regressions, and detours. And when you hit a rut, when y"
+    },
+    {
+      "fp": "1vu2653",
+      "i": 122,
+      "from": 64114,
+      "subject": "Scaffolding",
+      "entities": [
+        "scaffolding"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Scaffolding, reach heights they absolutely couldn't reach, 1996"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "scaffolding"
+        ]
+      },
+      "_said": "Exactly. In construction, scaffolding is a temporary support structure that is bolted onto a building. It allows a crew to reach heights they absolutely couldn't reach alone. And o"
+    },
+    {
+      "fp": "1kogd2l",
+      "i": 123,
+      "from": 64546,
+      "subject": "Scaffolding — heart",
+      "entities": [
+        "scaffolding"
+      ],
+      "concept": "heart",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Scaffolding, 1996"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": null,
+        "cast": [
+          "scaffolding"
+        ]
+      },
+      "_said": "So, how does that apply to human Scaffolding is temporary support from others, mentors, peers, systems that allows your latent hidden potential to The most moving historical exampl"
+    },
+    {
+      "fp": "uz491s",
+      "i": 124,
+      "from": 65114,
+      "subject": "subway",
+      "entities": [],
+      "concept": "subway",
+      "place": "street",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "subway, street, 1996"
+      },
+      "antidote": {
+        "concept": "subway",
+        "set": "street",
+        "cast": []
+      },
+      "_said": "The US Navy has finally reluctantly allowed black men to train to become officers. These 13 men are the first, and the systemic pressure on them is astronomical. The systemic racis"
+    },
+    {
+      "fp": "ltlpv8",
+      "i": 125,
+      "from": 65633,
+      "subject": "Scaffolding — star",
+      "entities": [
+        "scaffolding"
+      ],
+      "concept": "star",
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Scaffolding, wait for a white instructor to save them bec, 1996"
+      },
+      "antidote": {
+        "concept": "star",
+        "set": null,
+        "cast": [
+          "scaffolding"
+        ]
+      },
+      "_said": "When they hit the incredibly complex navigation modules, like learning to use a sextant to navigate by the stars, they struggled. But they didn't just passively wait for a white in"
+    },
+    {
+      "fp": "qp93ux",
+      "i": 126,
+      "from": 66113,
+      "subject": "game",
+      "entities": [],
+      "concept": "game",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "game, 1996"
+      },
+      "antidote": {
+        "concept": "game",
+        "set": null,
+        "cast": []
+      },
+      "_said": "How did they do it? At night, they covered the windows of their barracks so the guards wouldn't see the lights, and they taught each other the material. And this reveals a profound"
+    },
+    {
+      "fp": "1pci2us",
+      "i": 127,
+      "from": 66653,
+      "subject": "codeWindow",
+      "entities": [],
+      "concept": "codeWindow",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "code window, 1996"
+      },
+      "antidote": {
+        "concept": "codeWindow",
+        "set": null,
+        "cast": []
+      },
+      "_said": "But neurological studies show that giving advice to someone else actually builds your own confidence and competence more than receiving advice does. Just like rubber ducking in sof"
+    },
+    {
+      "fp": "8twkbz",
+      "i": 128,
+      "from": 67236,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1996"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "The act of externalizing and teaching the problem forces the brain to reorganize the information and they usually spot the error themselves. That is the exact mechanism. When the g"
+    },
+    {
+      "fp": "j8pp5y",
+      "i": 129,
+      "from": 67918,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1996"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "They lifted the entire group. Every single one of them passed with higher marks than the white which is just incredible. Okay, but let's look at this practically today. If I am stu"
+    },
+    {
+      "fp": "12hm993",
+      "i": 130,
+      "from": 68558,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone, 1996"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": null,
+        "cast": []
+      },
+      "_said": "my peers who are also struggling? Doesn't the chief financial officer know more about modeling than my study group? They absolutely know more. But that is exactly why they are ofte"
+    },
+    {
+      "fp": "1cenb8x",
+      "i": 131,
+      "from": 69216,
+      "subject": "ledge",
+      "entities": [],
+      "concept": "ledge",
+      "place": "street",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "ledge, runs it on complete autopilot, street, 1996"
+      },
+      "antidote": {
+        "concept": "ledge",
+        "set": "street",
+        "cast": []
+      },
+      "_said": "their brain runs it on complete autopilot. They have literally forgotten what it feels like to not know the basics. Oh man, it's like asking that elite Olympic diver we talked abou"
+    },
+    {
+      "fp": "1njlb1u",
+      "i": 132,
+      "from": 69790,
+      "subject": "Scaffolding",
+      "entities": [
+        "scaffolding"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Scaffolding, 1996"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "scaffolding"
+        ]
+      },
+      "_said": "It's entirely useless advice to a beginner because the expert cannot cognitively deconstruct the micro steps anymore. It's too intuitive. That is why peer scaffolding is often far "
+    },
+    {
+      "fp": "12m1z2p",
+      "i": 133,
+      "from": 70349,
+      "subject": "Scaffolding — road",
+      "entities": [
+        "scaffolding"
+      ],
+      "concept": "road",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Scaffolding, 1996"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": null,
+        "cast": [
+          "scaffolding"
+        ]
+      },
+      "_said": "They remember the friction. Scaffolding is the architecture that connects the starting line to the finish line. It is the structure of the distance traveled, not the height of the "
+    },
+    {
+      "fp": "uptzb",
+      "i": 134,
+      "from": 70757,
+      "subject": "Scaffolding — notes",
+      "entities": [
+        "scaffolding"
+      ],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Scaffolding, sitting at his table holding a letter, 1996"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": [
+          "scaffolding"
+        ]
+      },
+      "_said": "We have to acknowledge that not everyone gets access to the same scaffolding. And that forces us to look at the macro level the systems we build. Let's set our final and perhaps mo"
+    },
+    {
+      "fp": "1dd0g0z",
+      "i": 135,
+      "from": 71266,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "notes, 1996"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": []
+      },
+      "_said": "It is a rejection letter from the NASA astronaut candidate program, but it's not his first. It is his 11th rejection letter. 11 times over more than a decade, he has applied to his"
+    },
+    {
+      "fp": "t0hyzo",
+      "i": 136,
+      "from": 71676,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "notes, leaves it on the floor, 1996"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": []
+      },
+      "_said": "And 11 times a system has told him he simply isn't good enough. He crumples the letter up, throws it at the garbage can, misses, and just leaves it on the floor. His spirit is abso"
+    },
+    {
+      "fp": "pqvci1",
+      "i": 137,
+      "from": 72314,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1996"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "university admissions dictates whose potential is ever seen in the first When the NASA selection committee looked at Jose's application, they used a very specific traditional ruler"
+    },
+    {
+      "fp": "7oi0it",
+      "i": 138,
+      "from": 72977,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1996"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Their system had absolutely no metric to measure his trajectory. They didn't have a box on the application form that captured the fact that Jose was a migrant farm worker who spent"
+    },
+    {
+      "fp": "1kcq1l",
+      "i": 139,
+      "from": 73512,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "climbed just to get that application in the mai, 1996"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "They judged his starting point, the altitude of his current resume and completely ignored the astonishing, impossibly steep trajectory he had climbed just to get that application i"
+    },
+    {
+      "fp": "askrja",
+      "i": 140,
+      "from": 74002,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, holding inventors than kids raised below, 1996"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": []
+      },
+      "_said": "He conducted a sweeping study cross-referencing over a million tax returns with US patent records. He wanted to see who actually becomes an inventor in America. And the data was br"
+    },
+    {
+      "fp": "n3amev",
+      "i": 141,
+      "from": 74628,
+      "subject": "Talent and Scaffolding — coin",
+      "entities": [
+        "talent",
+        "scaffolding"
+      ],
+      "concept": "coin",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Talent and Scaffolding, 1996"
+      },
+      "antidote": {
+        "concept": "coin",
+        "cast": [
+          "talent",
+          "scaffolding"
+        ]
+      },
+      "_said": "the median income. And we have to stop and ask ourselves the uncomfortable question. Are rich kids biologically inherently 10 times smarter? Are they 10 times more naturally creati"
+    },
+    {
+      "fp": "8d80ix",
+      "i": 142,
+      "from": 75250,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1996"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "They didn't have the experienced kindergarten teachers teaching them proactivity. They didn't have the financial leeway to be a creature of discomfort and make 200 mistakes a day b"
+    },
+    {
+      "fp": "wim53s",
+      "i": 143,
+      "from": 75679,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1996"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "We have to look at countries that build better systems. Yeah. Look at Finland. In the United States and Germany, we heavily track students. We test them at age eight or nine, label"
+    },
+    {
+      "fp": "3rbg2c",
+      "i": 144,
+      "from": 76217,
+      "subject": "Scaffolding",
+      "entities": [
+        "scaffolding"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Scaffolding, 1996"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "scaffolding"
+        ]
+      },
+      "_said": "Finland refuses to do this. They have unttracked schools. They keep all students together, regardless of early ability, until they are 16 years old. They provide massive integrated"
+    },
+    {
+      "fp": "8lrl9b",
+      "i": 145,
+      "from": 76704,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1996"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "They don't filter people out too early. I have to hit pause here Okay. What's up? Because if I am listening to us right now, I might be thinking this sounds a little too perfectly "
+    },
+    {
+      "fp": "ucdx6m",
+      "i": 146,
+      "from": 77155,
+      "subject": "Character and Melody",
+      "entities": [
+        "character",
+        "melody"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Character and Melody, 1996"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "character",
+          "melody"
+        ]
+      },
+      "_said": "Go ahead. We have spent the last hour celebrating the raging Ricks from Harlem. We celebrated Melody Hopson rising from evictions to CEO. We celebrated Jose Hernandez eventually ge"
+    },
+    {
+      "fp": "v2xxrq",
+      "i": 147,
+      "from": 77849,
+      "subject": "grave",
+      "entities": [],
+      "concept": "grave",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "grave, 1996"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": null,
+        "cast": []
+      },
+      "_said": "you can overcome anything, right? But isn't this narrative borderline toxic? Aren't we just relying on massive survivorship bias? We are pointing to the one remarkable rose that so"
+    },
+    {
+      "fp": "11bqotc",
+      "i": 148,
+      "from": 78358,
+      "subject": "Character",
+      "entities": [
+        "character"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Character, reach the exact same starting line that a pri, 1996"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "character"
+        ]
+      },
+      "_said": "I agree with you completely and this is the most vital necessary counterpoint to everything we've discussed today. The optimism in Adam Grant's work can inadvertently flatten the r"
+    },
+    {
+      "fp": "1abp8eo",
+      "i": 149,
+      "from": 79027,
+      "subject": "Character",
+      "entities": [
+        "character"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Character, 1996"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "character"
+        ]
+      },
+      "_said": "Yes. If a corporate system requires you to be an absolute superhero just to get an entry-level interview, the system is fundamentally broken. Exactly. Oppression and poverty absolu"
+    },
+    {
+      "fp": "af6h91",
+      "i": 150,
+      "from": 79466,
+      "subject": "Character",
+      "entities": [
+        "character"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Character, 1996"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "character"
+        ]
+      },
+      "_said": "But the phrase, \"You have hidden potential should never be weaponized. It shouldn't become a toxic pressure to perform without support.\" We cannot use character skills as an excuse"
+    },
+    {
+      "fp": "y2xwff",
+      "i": 151,
+      "from": 79894,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1996"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Good systems open doors for people who don't grow up with means. They actively shatter glass ceilings. We need systems in our universities and our corporate HR departments that mea"
+    },
+    {
+      "fp": "123ap36",
+      "i": 152,
+      "from": 80441,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1996"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "They did. They eventually broadened their criteria. They finally saw Jose's trajectory and he went to space. But we have to ask ourselves, how many hoses are we throwing in the gar"
+    },
+    {
+      "fp": "1x3uoet",
+      "i": 153,
+      "from": 80911,
+      "subject": "road",
+      "entities": [],
+      "concept": "road",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "road, 1996"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": null,
+        "cast": []
+      },
+      "_said": "Let's synthesize this incredible journey we've been on. we have to completely stop looking at people and looking at ourselves and asking the static question, how talented is this p"
+    },
+    {
+      "fp": "2garbx",
+      "i": 154,
+      "from": 81398,
+      "subject": "Scaffolding — road",
+      "entities": [
+        "scaffolding"
+      ],
+      "concept": "road",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Scaffolding, 1996"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": null,
+        "cast": [
+          "scaffolding"
+        ]
+      },
+      "_said": "Instead, we must start asking the dynamic question, how far could they travel? And what scaffolding are we failing to build for them? We have to become creatures of discomfort, act"
+    },
+    {
+      "fp": "ng7kw2",
+      "i": 155,
+      "from": 82066,
+      "subject": "Talent — family",
+      "entities": [
+        "talent"
+      ],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Talent, leave you with a final provocative challenge, 1996"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": [
+          "talent"
+        ]
+      },
+      "_said": "to build systems that recognize that talent is not a starting point. I love that. So, do you have a final thought to send everyone out on? I do. I want to leave you with a final pr"
+    },
+    {
+      "fp": "npvl7j",
+      "i": 156,
+      "from": 82541,
+      "subject": "summit",
+      "entities": [],
+      "concept": "summit",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "summit, sitting right next to you that you have complet, 1996"
+      },
+      "antidote": {
+        "concept": "summit",
+        "cast": []
+      },
+      "_said": "Who is the uncut gem sitting right next to you that you have completely written off because they didn't shine on day one because they didn't have a high y The most valuable hidden "
+    },
+    {
+      "fp": "76r6gb",
+      "i": 157,
+      "from": 83189,
+      "subject": "road",
+      "entities": [],
+      "concept": "road",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "road, 1996"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": null,
+        "cast": []
+      },
+      "_said": "Remember, you always have to measure the distance traveled, not the height of the"
+    }
+  ]
+}

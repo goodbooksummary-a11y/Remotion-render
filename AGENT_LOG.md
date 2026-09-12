@@ -29,6 +29,62 @@ _(clear your row when you stop; move the summary into the Changelog below.)_
 
 ## Changelog (newest first)
 
+### 2026-09-12 — relevance — wired into make-book, vocabulary linted, and the WHOLE CATALOGUE retrofitted
+
+Three things, in the order they were done.
+
+**1. `make-book.js` learned to read the book.** Both engines now run, before anything else:
+step **0.9** `plan-bible.js` (heuristic story bible, skipped if one exists) and steps **1.2/1.3**
+`plan-briefs.js` then a re-plan with `--briefs=`. The plan runs twice on purpose — briefs need the
+plan's own segmentation to fingerprint against — and planning is seconds. On the Vox side 1.3 sits
+BEFORE step 2, so Flux images are generated once, from the good prompts.
+
+**2. `scripts/lint-vocabulary.js`.** The visual vocabulary lives in four hand-maintained lists
+that must agree (propType enum / motif REGISTRY / CONCEPT_LEXICON / CONCEPT_SET+CONCEPT_HOLD) and
+nothing checked that they did. Every failure in this class is SILENT: an unknown motif renders
+null, an unknown set renders null, an unknown handProp renders nothing, and Remotion does not
+zod-parse defaultProps — a typo is a confident blank frame in an unattended 40-minute render.
+Repaired from its output: six drawable-but-unselectable motifs given narrow lexicon entries
+(`summit` `ladder` `crack` `clock` `balance` `book`; `book` deliberately tight because "the book"
+is said constantly here), three shadowing bugs (`car` swallowed "car crash"; the plain `iceberg`
+matched the same words as the richer `icebergDepth` above it and won 0 of 3309 beats — removed;
+a bare `funnel` shadowed `funnelTrap`), and six dead keys. The abstract six (spotlight, ripple,
+orbit, shape, maze, arrow) stay unreachable ON PURPOSE. Also: `books/<slug>/motifs.json` now
+feeds the `customSvg` hook directly — that per-book escape hatch had fired zero times in 15 books.
+
+**3. `scripts/apply-briefs.js` — the catalogue retrofit.** `--briefs=` re-plans, and a re-plan
+needs the VTT, which 47 of 49 books no longer have; on the Vox side it would also orphan every
+`scenes/<slug>/beat-NNN.png`. So this writes the subject layer INTO the existing config:
+`props.subject` / `_subject`, a filler motif replaced by the beat's own subject icon, and a
+"nowhere" set (abstract/horizon) replaced by the place the narration names. Additive or
+filler-replacing only — a scene already showing something grounded is untouched.
+
+**Verified on `the-wedding-people`: 0 timing changes, captions and meta byte-identical.**
+
+Applied across 49 books: **+6161 subjects, +649 subject icons replacing filler, +114 scenes given
+a real place.**
+
+| | before | after |
+|---|---|---|
+| subject-bearing | 6.6% | **29.1%** |
+| wrong | 6.0% | **5.5%** |
+| filler | 39.6% | **21.1%** |
+| thin | 47.7% | 44.3% |
+| books over budget | 49/49 | **48/49** |
+
+`the-wedding-people` is the first book to pass the gate outright (70.7% / 1.7%).
+
+**METRIC CORRECTION (the third and last one — read it before quoting a number).** The first
+retrofit pass reported `wrong` jumping 6.0% → 23.0%, which would have been a serious regression,
+and it was the audit's fault: a subject is either a PHRASE from the book ("Kamala's songbird
+found dead") or a concept LABEL ("family"), and a label is not spoken — `family` is grounded by
+the word *mother*. Testing labels by word-overlap marked 17% of the catalogue unrelated when the
+icons were right. A label is now verified through its own concept vocabulary against the audio,
+which is how it was grounded in the first place. Pattern worth remembering: every time this audit
+disagreed with a change, twice out of three it was the metric that was wrong, and the disagreement
+is what found it.
+
+
 ### 2026-09-12 — relevance — PHASE 3b: targeted authoring, and two metric corrections
 
 **`plan-briefs.js --emit-weak` / `--merge`.** A full emit of a 40-minute book is ~320 briefs and

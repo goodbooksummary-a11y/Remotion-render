@@ -1,0 +1,219 @@
+{
+  "slug": "the-girl-with-the-dragon-tattoo",
+  "world": {
+    "era": "1924–1966",
+    "approxYear": 1966,
+    "setting": "",
+    "register": "",
+    "forbid": [
+      "phone",
+      "codeWindow",
+      "laptopMockup",
+      "rocketLaunch",
+      "funnelMetrics",
+      "dollarExchange",
+      "subway",
+      "car",
+      "alarmClock",
+      "medical"
+    ]
+  },
+  "cast": {
+    "michael": {
+      "name": "Michael",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 12
+    },
+    "harriet": {
+      "name": "Harriet",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 4
+    },
+    "martin": {
+      "name": "Martin",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 3
+    },
+    "elizabeth": {
+      "name": "Elizabeth",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 2
+    },
+    "henrik": {
+      "name": "Henrik",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 2
+    },
+    "tattoo": {
+      "name": "Tattoo",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 2
+    },
+    "sweden": {
+      "name": "Sweden",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 2
+    }
+  },
+  "places": {
+    "street": {
+      "set": "street",
+      "look": "",
+      "mentions": 2
+    },
+    "office": {
+      "set": "office",
+      "look": "",
+      "mentions": 1
+    }
+  },
+  "objects": [
+    {
+      "concept": "phone",
+      "mentions": 27,
+      "why": ""
+    },
+    {
+      "concept": "law",
+      "mentions": 21,
+      "why": ""
+    },
+    {
+      "concept": "family",
+      "mentions": 17,
+      "why": ""
+    },
+    {
+      "concept": "notes",
+      "mentions": 11,
+      "why": ""
+    },
+    {
+      "concept": "photo",
+      "mentions": 10,
+      "why": ""
+    },
+    {
+      "concept": "home",
+      "mentions": 7,
+      "why": ""
+    },
+    {
+      "concept": "chains",
+      "mentions": 7,
+      "why": ""
+    },
+    {
+      "concept": "road",
+      "mentions": 5,
+      "why": ""
+    },
+    {
+      "concept": "war",
+      "mentions": 5,
+      "why": ""
+    },
+    {
+      "concept": "shield",
+      "mentions": 5,
+      "why": ""
+    },
+    {
+      "concept": "grave",
+      "mentions": 5,
+      "why": ""
+    },
+    {
+      "concept": "coin",
+      "mentions": 5,
+      "why": ""
+    }
+  ],
+  "spine": [
+    {
+      "act": "The Face That Changes",
+      "fromFrame": 0,
+      "claim": ""
+    },
+    {
+      "act": "The Thesis: Archives, Not Detectives",
+      "fromFrame": 2340,
+      "claim": ""
+    },
+    {
+      "act": "Blomkvist's Disgrace & the Kalle Curse",
+      "fromFrame": 6300,
+      "claim": ""
+    },
+    {
+      "act": "Henrik Vanger's Forty-Year Obsession",
+      "fromFrame": 9270,
+      "claim": ""
+    },
+    {
+      "act": "The Pressed Flower Torture",
+      "fromFrame": 14190,
+      "claim": ""
+    },
+    {
+      "act": "Breaking the Paradox: Forensic Photography",
+      "fromFrame": 16650,
+      "claim": ""
+    },
+    {
+      "act": "The Bible Code & the Leviticus Murders",
+      "fromFrame": 23040,
+      "claim": ""
+    },
+    {
+      "act": "Salander's Digital Arsenal",
+      "fromFrame": 29160,
+      "claim": ""
+    },
+    {
+      "act": "Bjurman & the Tattoo That Cannot Be Filed Away",
+      "fromFrame": 33570,
+      "claim": ""
+    },
+    {
+      "act": "The Vanger Family Tree: Dynastic Silence",
+      "fromFrame": 38700,
+      "claim": ""
+    },
+    {
+      "act": "Martin's Basement: The System That Protected Him",
+      "fromFrame": 43020,
+      "claim": ""
+    },
+    {
+      "act": "Wennerström's Downfall: Following the Money",
+      "fromFrame": 49290,
+      "claim": ""
+    },
+    {
+      "act": "The Honest Criticism: Victim or Avenger?",
+      "fromFrame": 53790,
+      "claim": ""
+    },
+    {
+      "act": "The Filing Cabinet Was Never Locked",
+      "fromFrame": 57090,
+      "claim": ""
+    }
+  ],
+  "authored": false
+}

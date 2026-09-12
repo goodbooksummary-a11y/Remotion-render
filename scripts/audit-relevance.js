@@ -225,8 +225,20 @@ function scoreScene({ engine, id, from, dur, spoken, planned, shown }) {
   // against the audio, so a subject that lies is caught, and adding scenery to
   // the prompt changes nothing.
   if (shown.subject) {
-    const claim = String(shown.subject).toLowerCase().match(/[a-z]{4,}/g) || [];
-    if (claim.some((w) => saidLc.includes(w))) grounded++;
+    // A subject is either a PHRASE taken from the book ("Kamala's songbird found
+    // dead") or a CONCEPT LABEL ("family"). A label is verified through the
+    // concept's own vocabulary, because the label itself need not be spoken —
+    // `family` is grounded by "mother", not by the word "family". Testing labels
+    // by word-overlap marked 17% of the catalogue as unrelated when the icons
+    // were in fact correct.
+    const raw = String(shown.subject);
+    const labels = raw.toLowerCase().split(/[^a-z0-9]+/).filter(Boolean)
+      .map((t) => [...CONCEPT_RE.keys()].find((k) => k.toLowerCase() === t))
+      .filter(Boolean);
+    const claim = raw.toLowerCase().match(/[a-z]{4,}/g) || [];
+    const byLabel = labels.some((k) => CONCEPT_RE.get(k).test(said));
+    const byWords = claim.some((w) => saidLc.includes(w));
+    if (byLabel || byWords) grounded++;
     else ungrounded++;
   } else {
     for (const img of shown.images) {

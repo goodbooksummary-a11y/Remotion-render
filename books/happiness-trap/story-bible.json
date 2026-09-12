@@ -1,0 +1,150 @@
+{
+  "slug": "happiness-trap",
+  "world": {
+    "era": "2018–2018",
+    "approxYear": 2018,
+    "setting": "",
+    "register": "",
+    "forbid": []
+  },
+  "cast": {
+    "harris": {
+      "name": "Harris",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 4
+    },
+    "resignation": {
+      "name": "Resignation",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 2
+    },
+    "acceptance": {
+      "name": "Acceptance",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 2
+    }
+  },
+  "places": {
+    "highway": {
+      "set": "highway",
+      "look": "",
+      "mentions": 2
+    },
+    "cafe": {
+      "set": "cafe",
+      "look": "",
+      "mentions": 1
+    },
+    "kitchen": {
+      "set": "kitchen",
+      "look": "",
+      "mentions": 1
+    },
+    "street": {
+      "set": "street",
+      "look": "",
+      "mentions": 1
+    },
+    "shore": {
+      "set": "shore",
+      "look": "",
+      "mentions": 1
+    }
+  },
+  "objects": [
+    {
+      "concept": "road",
+      "mentions": 17,
+      "why": ""
+    },
+    {
+      "concept": "war",
+      "mentions": 13,
+      "why": ""
+    },
+    {
+      "concept": "car",
+      "mentions": 13,
+      "why": ""
+    },
+    {
+      "concept": "phone",
+      "mentions": 12,
+      "why": ""
+    },
+    {
+      "concept": "water",
+      "mentions": 9,
+      "why": ""
+    },
+    {
+      "concept": "medical",
+      "mentions": 8,
+      "why": ""
+    },
+    {
+      "concept": "gift",
+      "mentions": 8,
+      "why": ""
+    },
+    {
+      "concept": "compass",
+      "mentions": 8,
+      "why": ""
+    },
+    {
+      "concept": "target",
+      "mentions": 7,
+      "why": ""
+    },
+    {
+      "concept": "heart",
+      "mentions": 6,
+      "why": ""
+    },
+    {
+      "concept": "alarmClock",
+      "mentions": 5,
+      "why": ""
+    },
+    {
+      "concept": "fire",
+      "mentions": 4,
+      "why": ""
+    }
+  ],
+  "spine": [
+    {
+      "act": "setup",
+      "fromFrame": 17,
+      "claim": ""
+    },
+    {
+      "act": "development",
+      "fromFrame": 10877,
+      "claim": ""
+    },
+    {
+      "act": "turn",
+      "fromFrame": 22393,
+      "claim": ""
+    },
+    {
+      "act": "consequence",
+      "fromFrame": 32117,
+      "claim": ""
+    },
+    {
+      "act": "close",
+      "fromFrame": 42557,
+      "claim": ""
+    }
+  ],
+  "authored": false
+}

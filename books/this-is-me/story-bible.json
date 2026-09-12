@@ -1,0 +1,141 @@
+{
+  "slug": "this-is-me",
+  "world": {
+    "era": "1990–2023",
+    "approxYear": 2006,
+    "setting": "",
+    "register": "",
+    "forbid": []
+  },
+  "cast": {
+    "hayden": {
+      "name": "Hayden",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 7
+    }
+  },
+  "places": {
+    "shore": {
+      "set": "shore",
+      "look": "",
+      "mentions": 2
+    },
+    "cafe": {
+      "set": "cafe",
+      "look": "",
+      "mentions": 2
+    },
+    "highway": {
+      "set": "highway",
+      "look": "",
+      "mentions": 1
+    },
+    "street": {
+      "set": "street",
+      "look": "",
+      "mentions": 1
+    },
+    "bedroom": {
+      "set": "bedroom",
+      "look": "",
+      "mentions": 1
+    },
+    "hospital": {
+      "set": "hospital",
+      "look": "",
+      "mentions": 1
+    }
+  },
+  "objects": [
+    {
+      "concept": "family",
+      "mentions": 30,
+      "why": ""
+    },
+    {
+      "concept": "shield",
+      "mentions": 20,
+      "why": ""
+    },
+    {
+      "concept": "phone",
+      "mentions": 17,
+      "why": ""
+    },
+    {
+      "concept": "war",
+      "mentions": 15,
+      "why": ""
+    },
+    {
+      "concept": "notes",
+      "mentions": 13,
+      "why": ""
+    },
+    {
+      "concept": "home",
+      "mentions": 13,
+      "why": ""
+    },
+    {
+      "concept": "medical",
+      "mentions": 12,
+      "why": ""
+    },
+    {
+      "concept": "law",
+      "mentions": 9,
+      "why": ""
+    },
+    {
+      "concept": "mask",
+      "mentions": 8,
+      "why": ""
+    },
+    {
+      "concept": "work",
+      "mentions": 7,
+      "why": ""
+    },
+    {
+      "concept": "coin",
+      "mentions": 7,
+      "why": ""
+    },
+    {
+      "concept": "wallet",
+      "mentions": 7,
+      "why": ""
+    }
+  ],
+  "spine": [
+    {
+      "act": "setup",
+      "fromFrame": 17,
+      "claim": ""
+    },
+    {
+      "act": "development",
+      "fromFrame": 15063,
+      "claim": ""
+    },
+    {
+      "act": "turn",
+      "fromFrame": 30437,
+      "claim": ""
+    },
+    {
+      "act": "consequence",
+      "fromFrame": 47146,
+      "claim": ""
+    },
+    {
+      "act": "close",
+      "fromFrame": 63152,
+      "claim": ""
+    }
+  ],
+  "authored": false
+}

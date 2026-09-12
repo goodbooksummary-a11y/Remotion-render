@@ -1,0 +1,5490 @@
+{
+  "slug": "diary-of-a-ceo",
+  "authored": false,
+  "briefs": [
+    {
+      "fp": "1tldmvc",
+      "i": 0,
+      "from": 0,
+      "subject": "food",
+      "entities": [],
+      "concept": "food",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "food, 1985"
+      },
+      "antidote": {
+        "concept": "food",
+        "set": null,
+        "cast": []
+      },
+      "_said": "Because you really have to look at this concrete image of him, right? I mean, just close your eyes for a second and picture a completely broke uh perpetually hungry"
+    },
+    {
+      "fp": "4ftjr6",
+      "i": 1,
+      "from": 319,
+      "subject": "Bartlett — road",
+      "entities": [
+        "bartlett"
+      ],
+      "concept": "road",
+      "place": "highway",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Bartlett, highway, 1985"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": "highway",
+        "cast": [
+          "bartlett"
+        ]
+      },
+      "_said": "hungry Steven Bartlett, We are talking about a guy who is a college dropout. He's just scraping by, wandering around, staring at the floor, you know, living in the state of"
+    },
+    {
+      "fp": "uj752e",
+      "i": 2,
+      "from": 640,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "of constant grinding scarcity. Yeah. The version of him that absolutely nobody would have ever bet a single dime Exactly. And it is so incredibly hard for your brain to"
+    },
+    {
+      "fp": "op94vu",
+      "i": 3,
+      "from": 921,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "to reconcile that like that gritty, desperate image with the polished"
+    },
+    {
+      "fp": "1bqew4e",
+      "i": 4,
+      "from": 1077,
+      "subject": "coin",
+      "entities": [],
+      "concept": "coin",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "coin, sitting in boardrooms today, 1985"
+      },
+      "antidote": {
+        "concept": "coin",
+        "cast": []
+      },
+      "_said": "polished 30-year-old guy sitting in boardrooms today. Oh, totally. The guy who has built companies with billion dollar valuations, the guy who literally sits down"
+    },
+    {
+      "fp": "1636fgm",
+      "i": 5,
+      "from": 1327,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "down and interviews uh the greatest minds, the most successful athletes, the most brilliant scientists on the entire planet for a"
+    },
+    {
+      "fp": "73g6xf",
+      "i": 6,
+      "from": 1545,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "a living. Yeah, it's wild. You look at that immense gap between those two realities and you have to ask yourself, you know, what was the actual bridge? And that gap is exactly what"
+    },
+    {
+      "fp": "a7k6t1",
+      "i": 7,
+      "from": 1881,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": "cafe",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone, cafe, 1985"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": "cafe",
+        "cast": []
+      },
+      "_said": "slightly sneaky about how he actually presents it to us. Sneaky how? Well, he dressed up this entire philosophy, right? This whole massive volume of text as the 33 laws"
+    },
+    {
+      "fp": "1bnmkw1",
+      "i": 8,
+      "from": 2186,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "laws of business and life, And it sounds very tactical. It sounds very clean,"
+    },
+    {
+      "fp": "13gg8wq",
+      "i": 9,
+      "from": 2308,
+      "subject": "codeWindow",
+      "entities": [],
+      "concept": "codeWindow",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "code window, 1985"
+      },
+      "antidote": {
+        "concept": "codeWindow",
+        "set": null,
+        "cast": []
+      },
+      "_said": "clean, like a checklist you can just print out and pin to your wall. Like a cheat code. Exactly. A cheat code. But that is a disguise. If you actually strip away"
+    },
+    {
+      "fp": "1nuaz0k",
+      "i": 10,
+      "from": 2532,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "away the formatting, if you look at the psychological engine humming"
+    },
+    {
+      "fp": "132mpvp",
+      "i": 11,
+      "from": 2616,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "humming underneath all these chapters, they aren't 33 separate isolated laws. No, they're really not. They are actually 33"
+    },
+    {
+      "fp": "tks3o9",
+      "i": 12,
+      "from": 2839,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "33 different masks for one incredibly uncomfortable law. And it says the person who wins in the end is simply the one who is"
+    },
+    {
+      "fp": "48fh8u",
+      "i": 13,
+      "from": 3113,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "is most willing to be The willingness to be judged. Yes."
+    },
+    {
+      "fp": "70rv7o",
+      "i": 14,
+      "from": 3208,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Yes. The willingness to be a total beginner again when everyone else in your circle is acting like an expert. The willingness to do the intensely boring, unglamorous,"
+    },
+    {
+      "fp": "83iba4",
+      "i": 15,
+      "from": 3453,
+      "subject": "trophy",
+      "entities": [],
+      "concept": "trophy",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "trophy, 1985"
+      },
+      "antidote": {
+        "concept": "trophy",
+        "cast": []
+      },
+      "_said": "unglamorous, repetitive thing alone in the dark uh while your peers are out taking victory laps on social It totally flips the script on how we usually view the struggle."
+    },
+    {
+      "fp": "1ruc76h",
+      "i": 16,
+      "from": 3775,
+      "subject": "Discomfort — road",
+      "entities": [
+        "discomfort"
+      ],
+      "concept": "road",
+      "place": "highway",
+      "confidence": 1,
+      "vox": {
+        "shot": "Discomfort, highway, 1985"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": "highway",
+        "cast": [
+          "discomfort"
+        ]
+      },
+      "_said": "struggle. Because I mean, if you think about how we are culturally conditioned, we tend to look at discomfort as the toll you pay on the highway to success, right?"
+    },
+    {
+      "fp": "1s6v5g7",
+      "i": 17,
+      "from": 4025,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Like a necessary evil. Yeah. like I will suffer through this awful stressful period so I can eventually get to the good part, you"
+    },
+    {
+      "fp": "g4g330",
+      "i": 18,
+      "from": 4236,
+      "subject": "Discomfort — road",
+      "entities": [
+        "discomfort"
+      ],
+      "concept": "road",
+      "place": "highway",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Discomfort, reading his journey is that discomfort is not t, highway, 1985"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": "highway",
+        "cast": [
+          "discomfort"
+        ]
+      },
+      "_said": "you know, the comfortable part. But what you realize reading his journey is that discomfort is not the price of success. It was the actual asset he was quietly"
+    },
+    {
+      "fp": "1qheky7",
+      "i": 19,
+      "from": 4517,
+      "subject": "dominoCascade",
+      "entities": [],
+      "concept": "dominoCascade",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "domino cascade, 1985"
+      },
+      "antidote": {
+        "concept": "dominoCascade",
+        "cast": []
+      },
+      "_said": "quietly compounding the entire time. Oh, that's such a good way to put it. Every single time he leaned into something that made his stomach turn, every time he faced"
+    },
+    {
+      "fp": "6oc5xg",
+      "i": 20,
+      "from": 4754,
+      "subject": "Discomfort",
+      "entities": [
+        "discomfort"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Discomfort, 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "discomfort"
+        ]
+      },
+      "_said": "faced a scenario that made him want to quit and hide, he wasn't paying a tax. He was making a deposit because discomfort is the asset."
+    },
+    {
+      "fp": "1car1yi",
+      "i": 21,
+      "from": 4968,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "asset. Exactly. Okay, so let's drop right into how this actually plays out"
+    },
+    {
+      "fp": "hevst8",
+      "i": 22,
+      "from": 5097,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "out in reality because, you know, it sounds great in theory, but the execution is wild. Yeah, it really is."
+    },
+    {
+      "fp": "adjfx0",
+      "i": 23,
+      "from": 5282,
+      "subject": "alarmClock",
+      "entities": [],
+      "concept": "alarmClock",
+      "place": "street",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "alarm clock, standing in his front garden just holding his mo, street, 1985"
+      },
+      "antidote": {
+        "concept": "alarmClock",
+        "set": "street",
+        "cast": []
+      },
+      "_said": "is. Picture the scene. It's a quiet, crisp morning. A guy named David is standing in his front garden just holding his morning espresso, minding his own business, watching the worl"
+    },
+    {
+      "fp": "1r2e9sk",
+      "i": 24,
+      "from": 5705,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "street is Elon Musk. But it's not the polished tailored suit stage"
+    },
+    {
+      "fp": "18y4dt3",
+      "i": 25,
+      "from": 5887,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "stage presentation Elon Musk that you usually see, right? He"
+    },
+    {
+      "fp": "1q3c8lv",
+      "i": 26,
+      "from": 5981,
+      "subject": "heart",
+      "entities": [],
+      "concept": "heart",
+      "place": "cafe",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "heart, cafe, 1985"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": "cafe",
+        "cast": []
+      },
+      "_said": "He is wearing these tired, beaten up gym clothes. He is sweaty. He is panting heavily. Just jogging incredibly slowly down the pavement. I love this story so much. He stops"
+    },
+    {
+      "fp": "1e12x6j",
+      "i": 27,
+      "from": 6317,
+      "subject": "crack",
+      "entities": [],
+      "concept": "crack",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "crack, 1985"
+      },
+      "antidote": {
+        "concept": "crack",
+        "cast": []
+      },
+      "_said": "stops at David's gate, struggling to catch his breath, cracks some joke that makes absolutely no sense, laughs frantically at his own joke, and then just starts erratically"
+    },
+    {
+      "fp": "1d7ty1p",
+      "i": 28,
+      "from": 6568,
+      "subject": "home",
+      "entities": [],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "home, 1985"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": []
+      },
+      "_said": "erratically blurting out his plans, just yelling, \"I'm building house robots and going to Mars.\" Yes. He just drops that absolute"
+    },
+    {
+      "fp": "polsjc",
+      "i": 29,
+      "from": 6763,
+      "subject": "road",
+      "entities": [],
+      "concept": "road",
+      "place": "highway",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "road, highway, 1985"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": "highway",
+        "cast": []
+      },
+      "_said": "absolute bombshell of science fiction on a guy having his morning coffee, waves goodbye, and goes back to his slow, sweaty trudge down the road. It's absurd. Now, put yourself"
+    },
+    {
+      "fp": "stzi1b",
+      "i": 30,
+      "from": 7065,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": "hospital",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "phone, hospital, 1985"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": "hospital",
+        "cast": []
+      },
+      "_said": "yourself in David's shoes for a second. If literally anyone else on Earth does that, you are quietly backing into your house and calling a hospital. You assume this person is havin"
+    },
+    {
+      "fp": "uy75x5",
+      "i": 31,
+      "from": 7370,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "break. Oh, 100%. But because it's Elon Musk, people don't think he's crazy."
+    },
+    {
+      "fp": "2qomww",
+      "i": 32,
+      "from": 7492,
+      "subject": "coin",
+      "entities": [],
+      "concept": "coin",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "coin, 1985"
+      },
+      "antidote": {
+        "concept": "coin",
+        "cast": []
+      },
+      "_said": "crazy. Instead, they literally hand him billions of dollars of their children's inheritance. Brilliant engineers quit their stable, high-paying jobs. They uproot their families. Th"
+    },
+    {
+      "fp": "6cnls4",
+      "i": 33,
+      "from": 7908,
+      "subject": "dollarExchange",
+      "entities": [],
+      "concept": "dollarExchange",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "dollar exchange, 1985"
+      },
+      "antidote": {
+        "concept": "dollarExchange",
+        "set": null,
+        "cast": []
+      },
+      "_said": "every day, consumers pre-order products. he hasn't even invented yet. And the reason why the"
+    },
+    {
+      "fp": "wj6u54",
+      "i": 34,
+      "from": 8119,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "the deep underlying psychology behind why society tolerates and"
+    },
+    {
+      "fp": "1osbed5",
+      "i": 35,
+      "from": 8234,
+      "subject": "Bartlett",
+      "entities": [
+        "bartlett"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Bartlett, 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "bartlett"
+        ]
+      },
+      "_said": "and even enthusiastically funds that level of bizarre ambition is because of what Bartlett identifies as the five Okay. Yeah."
+    },
+    {
+      "fp": "1nd21jj",
+      "i": 36,
+      "from": 8457,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Yeah. Musk's buckets are overflowing, which grants him a societal pass that the rest of us just do not have."
+    },
+    {
+      "fp": "42tvc",
+      "i": 37,
+      "from": 8642,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "have. Let's unpack these buckets because honestly, if you don't understand this framework, the rest of the 33 laws are just going to sound like motivational noise, right? This is t"
+    },
+    {
+      "fp": "1iodexf",
+      "i": 38,
+      "from": 8909,
+      "subject": "Bartlett",
+      "entities": [
+        "bartlett"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Bartlett, 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "bartlett"
+        ]
+      },
+      "_said": "This is a foundational architecture. So, Bartlett argues that every professional on earth, whether you are a barista or"
+    },
+    {
+      "fp": "igxm87",
+      "i": 39,
+      "from": 9069,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "or a billionaire, possesses these five buckets. And the total volume of these buckets dictates the absolute limit of your potential in the"
+    },
+    {
+      "fp": "1ozigwa",
+      "i": 40,
+      "from": 9297,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "the Okay. So, what are they? Bucket number one is what you know, your knowledge."
+    },
+    {
+      "fp": "1jzcwq2",
+      "i": 41,
+      "from": 9398,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "knowledge. Bucket number two is what you can do, your skills, which is really just applied knowledge. Makes sense. Bucket three is who you know, your network."
+    },
+    {
+      "fp": "1mw7y3y",
+      "i": 42,
+      "from": 9631,
+      "subject": "coin",
+      "entities": [],
+      "concept": "coin",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "coin, 1985"
+      },
+      "antidote": {
+        "concept": "coin",
+        "cast": []
+      },
+      "_said": "network. Bucket four is what you have, your resources, your capital, your money. And bucket five is what people think of you, your reputation. And there"
+    },
+    {
+      "fp": "fwrxmf",
+      "i": 43,
+      "from": 9854,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "there is this incredible scene in the book that crystallizes this Oh,"
+    },
+    {
+      "fp": "mtpqa6",
+      "i": 44,
+      "from": 9962,
+      "subject": "Bartlett — city",
+      "entities": [
+        "bartlett"
+      ],
+      "concept": "city",
+      "place": "street",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Bartlett, street, 1985"
+      },
+      "antidote": {
+        "concept": "city",
+        "set": "street",
+        "cast": [
+          "bartlett"
+        ]
+      },
+      "_said": "Oh, the New York scene. Yes. Bartlett describes being in New York City, squeezed into this massive,"
+    },
+    {
+      "fp": "1xe74mm",
+      "i": 45,
+      "from": 10145,
+      "subject": "water",
+      "entities": [],
+      "concept": "water",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "water, 1985"
+      },
+      "antidote": {
+        "concept": "water",
+        "set": null,
+        "cast": []
+      },
+      "_said": "massive, breathless sea of mesmerized followers. They're all there listening to"
+    },
+    {
+      "fp": "k8f8py",
+      "i": 46,
+      "from": 10272,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "to a world-renowned spiritual guru Radhanath"
+    },
+    {
+      "fp": "uy6pg6",
+      "i": 47,
+      "from": 10385,
+      "subject": "Bartlett",
+      "entities": [
+        "bartlett"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Bartlett, 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "bartlett"
+        ]
+      },
+      "_said": "And Bartlett trying to grapple with his own ambition raises his hand and asks this deep existential question. He asks whether building"
+    },
+    {
+      "fp": "13lamco",
+      "i": 48,
+      "from": 10639,
+      "subject": "coin",
+      "entities": [],
+      "concept": "coin",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "coin, 1985"
+      },
+      "antidote": {
+        "concept": "coin",
+        "cast": []
+      },
+      "_said": "building a business, accumulating wealth and influence is a noble pursuit compared to dedicating your life to saving others."
+    },
+    {
+      "fp": "10mdtr1",
+      "i": 49,
+      "from": 10838,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "others. And the response is so intense. The guru just stops. He silences the entire room, stares directly into Bartlett's soul, and says, \"You cannot pour from empty buckets. It gi"
+    },
+    {
+      "fp": "1i3nkfl",
+      "i": 50,
+      "from": 11153,
+      "subject": "crash",
+      "entities": [],
+      "concept": "crash",
+      "place": "highway",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "crash, highway, 1985"
+      },
+      "antidote": {
+        "concept": "crash",
+        "set": "highway",
+        "cast": []
+      },
+      "_said": "really does. It's this collision of hyper capitalism and ancient spirituality. You have to fill yourself before you can even attempt to bend the world to your will."
+    },
+    {
+      "fp": "jrj4kx",
+      "i": 51,
+      "from": 11402,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "will. Yeah. And the crucial mechanism here, the part that trips absolutely everyone up is that these buckets must be filled in order sequentially from 1 to 5."
+    },
+    {
+      "fp": "18bmrhv",
+      "i": 52,
+      "from": 11678,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "5. Wait, I need to push back on that a bit. Go for it. Wait, but then why do so many smart people skip straight to buckets four and five? If these buckets are a"
+    },
+    {
+      "fp": "1d9fz8f",
+      "i": 53,
+      "from": 11916,
+      "subject": "ledge",
+      "entities": [],
+      "concept": "ledge",
+      "place": "street",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "ledge, street, 1985"
+      },
+      "antidote": {
+        "concept": "ledge",
+        "set": "street",
+        "cast": []
+      },
+      "_said": "a strict sequential law of gravity, how do you explain the brilliant 22-year-old developers who skip the knowledge building grind and jump straight to a massive"
+    },
+    {
+      "fp": "l0ggbw",
+      "i": 54,
+      "from": 12163,
+      "subject": "coin",
+      "entities": [],
+      "concept": "coin",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "coin, 1985"
+      },
+      "antidote": {
+        "concept": "coin",
+        "cast": []
+      },
+      "_said": "massive Google salary? Or the people who leverage a family connection to instantly get a fancy title? You absolutely do see it. But what you"
+    },
+    {
+      "fp": "1tjdbg3",
+      "i": 55,
+      "from": 12422,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "you are witnessing is ego, not strategy. Yes. The human ego is neurologically wired to scream for the visible shiny"
+    },
+    {
+      "fp": "a6foz3",
+      "i": 56,
+      "from": 12674,
+      "subject": "coin",
+      "entities": [],
+      "concept": "coin",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "coin, 1985"
+      },
+      "antidote": {
+        "concept": "coin",
+        "cast": []
+      },
+      "_said": "shiny immediate winds. We evolved in tribes where status kept you alive. Right. Right. So our brains desperately want the resources. We want the cash, the car. We"
+    },
+    {
+      "fp": "zmixic",
+      "i": 57,
+      "from": 12931,
+      "subject": "work",
+      "entities": [],
+      "concept": "work",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "work, 1985"
+      },
+      "antidote": {
+        "concept": "work",
+        "set": null,
+        "cast": []
+      },
+      "_said": "We want the reputation, the fancy job title we can plaster all over our So we skip the boring stuff. Exactly. The ego violently rejects buckets one and two because"
+    },
+    {
+      "fp": "ogdox0",
+      "i": 58,
+      "from": 13216,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "sitting alone at 11 p, 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "because acquiring knowledge and building skills in the dark is largely invisible. No one claps for you when you're sitting alone at 11 p.m."
+    },
+    {
+      "fp": "1tuvhr9",
+      "i": 59,
+      "from": 13461,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "p.m. struggling to comprehend a dense book on supply chain logistics."
+    },
+    {
+      "fp": "9tzrr8",
+      "i": 60,
+      "from": 13565,
+      "subject": "Bartlett",
+      "entities": [
+        "bartlett"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Bartlett, 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "bartlett"
+        ]
+      },
+      "_said": "logistics. Nobody is retweeting that. Nobody. But here is the brutal mechanistic reality that Bartlett is exposing."
+    },
+    {
+      "fp": "js2s49",
+      "i": 61,
+      "from": 13809,
+      "subject": "work",
+      "entities": [],
+      "concept": "work",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "work, 1985"
+      },
+      "antidote": {
+        "concept": "work",
+        "set": null,
+        "cast": []
+      },
+      "_said": "exposing. A professional earthquake like a sudden market crash, an industry disruption, getting fired, a PR scandal that can instantly evaporate your network. It can drain your res"
+    },
+    {
+      "fp": "oluuln",
+      "i": 62,
+      "from": 14184,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "completely annihilate your reputation overnight. Because all of those things are externally granted."
+    },
+    {
+      "fp": "vdvun6",
+      "i": 63,
+      "from": 14306,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "granted. They're loan to you by society. Exactly. But an earthquake can never ever take away your applied"
+    },
+    {
+      "fp": "6kf05n",
+      "i": 64,
+      "from": 14474,
+      "subject": "ledge",
+      "entities": [],
+      "concept": "ledge",
+      "place": "street",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "ledge, street, 1985"
+      },
+      "antidote": {
+        "concept": "ledge",
+        "set": "street",
+        "cast": []
+      },
+      "_said": "applied knowledge. A recession cannot unlearn your skills. If you jump straight to buckets four and five, it is like trying to install a luxury penthouse"
+    },
+    {
+      "fp": "cnz6j0",
+      "i": 65,
+      "from": 14721,
+      "subject": "city",
+      "entities": [],
+      "concept": "city",
+      "place": "street",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "city, street, 1985"
+      },
+      "antidote": {
+        "concept": "city",
+        "set": "street",
+        "cast": []
+      },
+      "_said": "penthouse on a skyscraper before you've even poured the concrete foundation. The higher you build, the"
+    },
+    {
+      "fp": "13i10ct",
+      "i": 66,
+      "from": 14863,
+      "subject": "coin",
+      "entities": [],
+      "concept": "coin",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "coin, 1985"
+      },
+      "antidote": {
+        "concept": "coin",
+        "cast": []
+      },
+      "_said": "the more catastrophic the collapse will be when the wind inevitably blows. So, the people chasing the cash and the title first are setting themselves up for a devastating fall."
+    },
+    {
+      "fp": "r173h7",
+      "i": 67,
+      "from": 15091,
+      "subject": "Discomfort",
+      "entities": [
+        "discomfort"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Discomfort, 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "discomfort"
+        ]
+      },
+      "_said": "fall. 100%. If you actually want longevity, if you want to be bulletproof, you have to endure the profound discomfort of quietly filling"
+    },
+    {
+      "fp": "1g3lbq3",
+      "i": 68,
+      "from": 15343,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "filling your knowledge bucket while your peers are out showing off their status, you have to be totally okay with looking to the outside world like you are losing in the short term"
+    },
+    {
+      "fp": "72liv3",
+      "i": 69,
+      "from": 15655,
+      "subject": "Discomfort",
+      "entities": [
+        "discomfort"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Discomfort, 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "discomfort"
+        ]
+      },
+      "_said": "instant gratification is exactly why discomfort is the asset."
+    },
+    {
+      "fp": "10n3e2e",
+      "i": 70,
+      "from": 15804,
+      "subject": "funnelMetrics",
+      "entities": [],
+      "concept": "funnelMetrics",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "funnel metrics, 1985"
+      },
+      "antidote": {
+        "concept": "funnelMetrics",
+        "set": null,
+        "cast": []
+      },
+      "_said": "asset. It's the invisible, indestructible foundation of everything else. Okay, so that leads us perfectly into how you actually execute that applied knowledge on a daily basis beca"
+    },
+    {
+      "fp": "1qc1u10",
+      "i": 71,
+      "from": 16118,
+      "subject": "lightbulb",
+      "entities": [],
+      "concept": "lightbulb",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "lightbulb, 1985"
+      },
+      "antidote": {
+        "concept": "lightbulb",
+        "cast": []
+      },
+      "_said": "we have this romanticized idea of business being about massive sweeping cinematic strokes of genius."
+    },
+    {
+      "fp": "1gmnwzt",
+      "i": 72,
+      "from": 16291,
+      "subject": "lightbulb",
+      "entities": [],
+      "concept": "lightbulb",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "lightbulb, 1985"
+      },
+      "antidote": {
+        "concept": "lightbulb",
+        "cast": []
+      },
+      "_said": "genius. Right. The light bulb moment. Exactly. Let's strip that away and go back in time. It's 1985. We are dropping right onto the massive, noisy, bustling floor"
+    },
+    {
+      "fp": "1r0zmsi",
+      "i": 73,
+      "from": 16574,
+      "subject": "gift",
+      "entities": [],
+      "concept": "gift",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "gift, 1985"
+      },
+      "antidote": {
+        "concept": "gift",
+        "cast": []
+      },
+      "_said": "floor of the Toyotami factory in North Oh, this is such a great case study. To give you context, under General Motors previous ownership, this factory had a horrifically toxic"
+    },
+    {
+      "fp": "tat1aw",
+      "i": 74,
+      "from": 16831,
+      "subject": "work",
+      "entities": [],
+      "concept": "work",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "work, 1985"
+      },
+      "antidote": {
+        "concept": "work",
+        "set": null,
+        "cast": []
+      },
+      "_said": "toxic reputation. We are talking about terrible quality control, disgruntled workers literally drinking on the job, absolute structural chaos, a total mess."
+    },
+    {
+      "fp": "2ahvsz",
+      "i": 75,
+      "from": 17121,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "mess. But Toyota has taken over. And right in the middle of a busy shift, a regular factory worker, a guy who used to be rebellious and totally"
+    },
+    {
+      "fp": "xef168",
+      "i": 76,
+      "from": 17340,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "reaches out, 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "totally disengaged under the old regime, he looks up, reaches out, and pulls a physical cord hanging directly above his station. Yeah. And instantly a massive"
+    },
+    {
+      "fp": "je8n1w",
+      "i": 77,
+      "from": 17647,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "massive 100line manufacturing process just halts. It grinds to a complete expensive stop because"
+    },
+    {
+      "fp": "hw9kbw",
+      "i": 78,
+      "from": 17858,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": "cafe",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone, cafe, 1985"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": "cafe",
+        "cast": []
+      },
+      "_said": "because the philosophy changed completely. Suddenly the message to that worker is you're no longer just doing your bit."
+    },
+    {
+      "fp": "1l9p7zv",
+      "i": 79,
+      "from": 18012,
+      "subject": "game",
+      "entities": [],
+      "concept": "game",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "game, 1985"
+      },
+      "antidote": {
+        "concept": "game",
+        "set": null,
+        "cast": []
+      },
+      "_said": "bit. You're a team member tasked with proactive thinking. That was the radical"
+    },
+    {
+      "fp": "15n4w3r",
+      "i": 80,
+      "from": 18144,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "radical psychological shift. Under the old GM hierarchy, which had something like 14 layers of bloated"
+    },
+    {
+      "fp": "7gkx58",
+      "i": 81,
+      "from": 18309,
+      "subject": "work",
+      "entities": [],
+      "concept": "work",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "work, 1985"
+      },
+      "antidote": {
+        "concept": "work",
+        "set": null,
+        "cast": []
+      },
+      "_said": "bloated management, if you saw a defect on the line, you ignored it because stopping the line meant you were going to get screamed at by a boss for costing the company money. Exact"
+    },
+    {
+      "fp": "ym6k4k",
+      "i": 82,
+      "from": 18588,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "But under Toyota's Kaizen philosophy, the hierarchy was slashed to just three levels. Every single person on that floor was empowered, expected, even to pull the cord to fix a"
+    },
+    {
+      "fp": "151o4fb",
+      "i": 83,
+      "from": 18873,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "a tiny incremental problem. Yeah. Kaizen translates roughly to continuous microscopic improvement."
+    },
+    {
+      "fp": "67c3o2",
+      "i": 84,
+      "from": 19044,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "improvement. It's the unglamorous 1% that absolutely nobody's ever going to throw a parade for. But that invisible 1% is where the entire global marketplace is actually decided."
+    },
+    {
+      "fp": "ekxvga",
+      "i": 85,
+      "from": 19361,
+      "subject": "Bartlett",
+      "entities": [
+        "bartlett"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Bartlett, 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "bartlett"
+        ]
+      },
+      "_said": "decided. Bartlett lays out the brutal mathematical reality of this 1% and it is staggering when you force yourself to actually look at the numbers,"
+    },
+    {
+      "fp": "1tfw0nv",
+      "i": 86,
+      "from": 19617,
+      "subject": "dominoCascade",
+      "entities": [],
+      "concept": "dominoCascade",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "domino cascade, 1985"
+      },
+      "antidote": {
+        "concept": "dominoCascade",
+        "cast": []
+      },
+      "_said": "numbers, the compounding math. Yes. Let's say you start with a 100 pounds. If you let your business or your health or your skills get just 1% worse every single day, well, on day t"
+    },
+    {
+      "fp": "c8l3sp",
+      "i": 87,
+      "from": 20011,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "barely It's just a penny. But if you extrapolate that out over two years,"
+    },
+    {
+      "fp": "1kygd4j",
+      "i": 88,
+      "from": 20100,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "years, that 100 pounds is worth pennies. Literally six pence. You are entirely wiped out. Wow. But if you apply Kaizen and you get just 1% better every day, again, a totally invisi"
+    },
+    {
+      "fp": "1iyb9f7",
+      "i": 89,
+      "from": 20450,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "invisible, unseleelebrated metric in the moment in two years, that initial 100 pounds exponentially compounds into over"
+    },
+    {
+      "fp": "bf09ra",
+      "i": 90,
+      "from": 20668,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "over 142,000 lb. The problem is that the human brain is biologically"
+    },
+    {
+      "fp": "1kw9lvq",
+      "i": 91,
+      "from": 20803,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "biologically incatable of intuitively understanding"
+    },
+    {
+      "fp": "1a7rv3r",
+      "i": 92,
+      "from": 20904,
+      "subject": "dominoCascade",
+      "entities": [],
+      "concept": "dominoCascade",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "domino cascade, 1985"
+      },
+      "antidote": {
+        "concept": "dominoCascade",
+        "cast": []
+      },
+      "_said": "understanding exponential compounding. From an evolutionary standpoint, we are wired to think in straight linear lines like tracking an animal."
+    },
+    {
+      "fp": "186gj9s",
+      "i": 93,
+      "from": 21168,
+      "subject": "road",
+      "entities": [],
+      "concept": "road",
+      "place": "highway",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "road, walk 2 miles a day, highway, 1985"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": "highway",
+        "cast": []
+      },
+      "_said": "animal. Exactly. If you walk 2 miles a day, you know exactly where you'll be in a week. [snorts] We evolved to track the linear"
+    },
+    {
+      "fp": "1bos5ro",
+      "i": 94,
+      "from": 21360,
+      "subject": "dominoCascade",
+      "entities": [],
+      "concept": "dominoCascade",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "domino cascade, 1985"
+      },
+      "antidote": {
+        "concept": "dominoCascade",
+        "cast": []
+      },
+      "_said": "linear trajectory of a predator, not the compounding interest"
+    },
+    {
+      "fp": "z55vg8",
+      "i": 95,
+      "from": 21458,
+      "subject": "coin",
+      "entities": [],
+      "concept": "coin",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "coin, 1985"
+      },
+      "antidote": {
+        "concept": "coin",
+        "cast": []
+      },
+      "_said": "interest of a microscopic Okay, wait, but then if it's so easy to just save a dollar or just improve 1%, why doesn't anyone do it? I have a really hard time buying that it's"
+    },
+    {
+      "fp": "1wr5g7y",
+      "i": 96,
+      "from": 21736,
+      "subject": "dominoCascade",
+      "entities": [],
+      "concept": "dominoCascade",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "domino cascade, 1985"
+      },
+      "antidote": {
+        "concept": "dominoCascade",
+        "cast": []
+      },
+      "_said": "it's just invisibility keeping people from doing this. If the math of compounding is that demonstrabably true and every CEO can"
+    },
+    {
+      "fp": "3uib65",
+      "i": 97,
+      "from": 21962,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "read a spreadsheet, 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "can read a spreadsheet, why isn't every single company on Earth operating exactly like that NUMI factory?"
+    },
+    {
+      "fp": "1ddvyh8",
+      "i": 98,
+      "from": 22140,
+      "subject": "alarmClock",
+      "entities": [],
+      "concept": "alarmClock",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "alarm clock, 1985"
+      },
+      "antidote": {
+        "concept": "alarmClock",
+        "set": null,
+        "cast": []
+      },
+      "_said": "factory? Because the distance between cause and effect is too long for the ego to Tell me more about that. Think about it. If you decide to brush your teeth tonight, you do not wak"
+    },
+    {
+      "fp": "w63w2z",
+      "i": 99,
+      "from": 22449,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "up with a Hollywood smile tomorrow morning. If you decide to skip brushing them tonight, your teeth don't fall"
+    },
+    {
+      "fp": "t0jovw",
+      "i": 100,
+      "from": 22601,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "fall out tomorrow morning, 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "fall out tomorrow morning. Right? The outcome of doing the easy tiny thing and"
+    },
+    {
+      "fp": "qyngpm",
+      "i": 101,
+      "from": 22723,
+      "subject": "rocketLaunch",
+      "entities": [],
+      "concept": "rocketLaunch",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "rocket launch, 1985"
+      },
+      "antidote": {
+        "concept": "rocketLaunch",
+        "set": null,
+        "cast": []
+      },
+      "_said": "and not doing the easy tiny thing is completely imperceptible in the short term. The ego of a CEO wants to launch a massive"
+    },
+    {
+      "fp": "1x1l8z",
+      "i": 102,
+      "from": 22975,
+      "subject": "coin",
+      "entities": [],
+      "concept": "coin",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "coin, write up in the wall street journal, 1985"
+      },
+      "antidote": {
+        "concept": "coin",
+        "cast": []
+      },
+      "_said": "massive multi-million dollar AI initiative that gets a glowing write up in the Wall Street Journal. They want the cover"
+    },
+    {
+      "fp": "2ild4g",
+      "i": 103,
+      "from": 23138,
+      "subject": "game",
+      "entities": [],
+      "concept": "game",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "game, sitting in a windowless room with a logistics t, 1985"
+      },
+      "antidote": {
+        "concept": "game",
+        "set": null,
+        "cast": []
+      },
+      "_said": "cover of Forbes. Exactly. The ego absolutely dreads the idea of sitting in a windowless room with a logistics team to figure out how to make a cardboard packing box"
+    },
+    {
+      "fp": "4u3nut",
+      "i": 104,
+      "from": 23426,
+      "subject": "wallet",
+      "entities": [],
+      "concept": "wallet",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "wallet, 1985"
+      },
+      "antidote": {
+        "concept": "wallet",
+        "cast": []
+      },
+      "_said": "box 1 millimeter smaller to save 3 cents on international shipping. So sweating the small stuff means you have to actively consciously choose"
+    },
+    {
+      "fp": "1n2au8z",
+      "i": 105,
+      "from": 23668,
+      "subject": "Discomfort — rocketLaunch",
+      "entities": [
+        "discomfort"
+      ],
+      "concept": "rocketLaunch",
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Discomfort, 1985"
+      },
+      "antidote": {
+        "concept": "rocketLaunch",
+        "set": null,
+        "cast": [
+          "discomfort"
+        ]
+      },
+      "_said": "choose the discomfort of being invisible. Yes, you have to reject the comfort of a big splashy but ultimately unsustainable launch and instead embrace the quiet, boring, profoundly"
+    },
+    {
+      "fp": "1md9ftr",
+      "i": 106,
+      "from": 24043,
+      "subject": "dominoCascade",
+      "entities": [],
+      "concept": "dominoCascade",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "domino cascade, 1985"
+      },
+      "antidote": {
+        "concept": "dominoCascade",
+        "cast": []
+      },
+      "_said": "micro improvements. You are trading the applause of today for compounded"
+    },
+    {
+      "fp": "868hkx",
+      "i": 107,
+      "from": 24158,
+      "subject": "Discomfort — dominoCascade",
+      "entities": [
+        "discomfort"
+      ],
+      "concept": "dominoCascade",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Discomfort, 1985"
+      },
+      "antidote": {
+        "concept": "dominoCascade",
+        "cast": [
+          "discomfort"
+        ]
+      },
+      "_said": "compounded exponential dominance tomorrow. Which means once again, the discomfort itself is the asset. And if you want to talk about rejecting the comfort of what everyone else is "
+    },
+    {
+      "fp": "1ukkaql",
+      "i": 108,
+      "from": 24473,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "to the hypervisible. Oh, I know where you're going with this. It's absolutely bizarre. Imagine this."
+    },
+    {
+      "fp": "ky487o",
+      "i": 109,
+      "from": 24631,
+      "subject": "road",
+      "entities": [],
+      "concept": "road",
+      "place": "highway",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "road, reach out to turn on the cold water, highway, 1985"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": "highway",
+        "cast": []
+      },
+      "_said": "this. You're traveling. You check into a hotel. You go up to your room. You unpack your bag. And you step into the bathroom to take a shower. You step inside the stall. You reach o"
+    },
+    {
+      "fp": "nwow8j",
+      "i": 110,
+      "from": 24943,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "and you find yourself staring directly at a fully stocked ice cold beer fridge built permanently directly into the tile wall"
+    },
+    {
+      "fp": "zsvy4d",
+      "i": 111,
+      "from": 25166,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "wall inside the shower stall. It's the Brew Dog Hotel, which is objectively speaking completely insane. It is, but we don't care about the rules. We are"
+    },
+    {
+      "fp": "1szdauu",
+      "i": 112,
+      "from": 25452,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "are four people who are That is the silent psychological scream of that shower beer fridge."
+    },
+    {
+      "fp": "1md85g5",
+      "i": 113,
+      "from": 25634,
+      "subject": "Bartlett — lightbulb",
+      "entities": [
+        "bartlett"
+      ],
+      "concept": "lightbulb",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Bartlett, 1985"
+      },
+      "antidote": {
+        "concept": "lightbulb",
+        "cast": [
+          "bartlett"
+        ]
+      },
+      "_said": "fridge. It's brilliant. The point Bartlett is landing here is about the sheer untamed power of absurdity in a crowded market. When you come up with an idea that genuinely"
+    },
+    {
+      "fp": "11j45bb",
+      "i": 114,
+      "from": 25893,
+      "subject": "lightbulb",
+      "entities": [],
+      "concept": "lightbulb",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "lightbulb, 1985"
+      },
+      "antidote": {
+        "concept": "lightbulb",
+        "cast": []
+      },
+      "_said": "genuinely embarrasses you to say out loud to your peers, an idea that feels like a useless, costly absurdity, that is almost always the exact idea that has absolutely"
+    },
+    {
+      "fp": "92jeyz",
+      "i": 115,
+      "from": 26155,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "absolutely zero competition because everyone else in your industry is too terrified of looking stupid to do it. He quotes the brilliant advertising legend Rory Sutherland on this, "
+    },
+    {
+      "fp": "1uh76xo",
+      "i": 116,
+      "from": 26412,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "perfectly encapsulates the evolutionary psychology at play here. Sutherland says meaning is conveyed by the things we do that are not in our"
+    },
+    {
+      "fp": "1v8puvp",
+      "i": 117,
+      "from": 26640,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "our own short-term self-interest by the costs that we incur and the risks we take. Costly signaling. Yes."
+    },
+    {
+      "fp": "1dww9rk",
+      "i": 118,
+      "from": 26848,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": "cafe",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone, cafe, 1985"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": "cafe",
+        "cast": []
+      },
+      "_said": "Yes. Biologists call this costly signaling theory. It's why a peacock"
+    },
+    {
+      "fp": "sxvsy2",
+      "i": 119,
+      "from": 26978,
+      "subject": "chains",
+      "entities": [],
+      "concept": "chains",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "chains, 1985"
+      },
+      "antidote": {
+        "concept": "chains",
+        "cast": []
+      },
+      "_said": "peacock has a massive vibrant heavy tail that actually makes it harder to escape predators. The tail"
+    },
+    {
+      "fp": "fvvrx0",
+      "i": 120,
+      "from": 27144,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "tail is a signal that says, \"I am so biologically fit that"
+    },
+    {
+      "fp": "n3s2a7",
+      "i": 121,
+      "from": 27237,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "that I can survive even with this massive That is such a wild comparison, but it works. In business, installing"
+    },
+    {
+      "fp": "pk2hzu",
+      "i": 122,
+      "from": 27444,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "installing a refrigerated electrical unit inside a wet environment with complex plumbing is incredibly costly and inefficient. But that"
+    },
+    {
+      "fp": "1cfswxy",
+      "i": 123,
+      "from": 27655,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "that exact inefficiency is the irrefutable signal that proves you actually mean what you say about being a rebellious punk rock brand. If it were cheap and efficient, anyone could "
+    },
+    {
+      "fp": "1lanokh",
+      "i": 124,
+      "from": 27921,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "fake Okay, let me play devil's advocate here because this sounds incredibly dangerous. Wait, but then how do you actually explain this to a CFO who demands"
+    },
+    {
+      "fp": "luibqb",
+      "i": 125,
+      "from": 28159,
+      "subject": "work",
+      "entities": [],
+      "concept": "work",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "work, 1985"
+      },
+      "antidote": {
+        "concept": "work",
+        "set": null,
+        "cast": []
+      },
+      "_said": "demands a measurable return on investment for a shower beer fridge? If I go to my CFO, the person whose entire job is to minimize risk, and I say, \"I want to spend 50 grand putting"
+    },
+    {
+      "fp": "1s2my8s",
+      "i": 126,
+      "from": 28449,
+      "subject": "work",
+      "entities": [],
+      "concept": "work",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "work, 1985"
+      },
+      "antidote": {
+        "concept": "work",
+        "set": null,
+        "cast": []
+      },
+      "_said": "putting electrical refrigerators where they explicitly do not belong just to convey meaning.\" I am getting laughed out of the room or fired. You absolutely are."
+    },
+    {
+      "fp": "j94g2b",
+      "i": 127,
+      "from": 28711,
+      "subject": "Bartlett",
+      "entities": [
+        "bartlett"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Bartlett, 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "bartlett"
+        ]
+      },
+      "_said": "are. And Bartlett openly admits this paradox. You cannot explain meaning on a spreadsheet. You really can't. You cannot quantify"
+    },
+    {
+      "fp": "qwsoqk",
+      "i": 128,
+      "from": 28910,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "quantify absurdity with an ROI projection. That is exactly why it's almost exclusively founders who take these massive swings, not appointed"
+    },
+    {
+      "fp": "nvtk39",
+      "i": 129,
+      "from": 29148,
+      "subject": "shield",
+      "entities": [],
+      "concept": "shield",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "shield, 1985"
+      },
+      "antidote": {
+        "concept": "shield",
+        "cast": []
+      },
+      "_said": "appointed professional CEOs who are perpetually terrified of quarterly earnings reports. The appointed CEO plays it safe. The appointed CEO takes the safe, rational route because i"
+    },
+    {
+      "fp": "dc0q1m",
+      "i": 130,
+      "from": 29445,
+      "subject": "work",
+      "entities": [],
+      "concept": "work",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "work, 1985"
+      },
+      "antidote": {
+        "concept": "work",
+        "set": null,
+        "cast": []
+      },
+      "_said": "it is comfortable and defensible to the board. If a safe idea fails, you don't get fired because everyone else was doing it, too. But the founder takes the absurd swing because"
+    },
+    {
+      "fp": "j9pcd2",
+      "i": 131,
+      "from": 29702,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "because they understand the deeper truth. Taking no risk is actually the most fatal risk of all. If you are perfectly rational, you fade into"
+    },
+    {
+      "fp": "1t4n7o5",
+      "i": 132,
+      "from": 29937,
+      "subject": "Discomfort — lightbulb",
+      "entities": [
+        "discomfort"
+      ],
+      "concept": "lightbulb",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Discomfort, 1985"
+      },
+      "antidote": {
+        "concept": "lightbulb",
+        "cast": [
+          "discomfort"
+        ]
+      },
+      "_said": "into the wallpaper. So leaning into the bizarre means enduring the immense visceral discomfort of looking profoundly stupid, of having your idea sound,"
+    },
+    {
+      "fp": "ke91v",
+      "i": 133,
+      "from": 30206,
+      "subject": "Bartlett",
+      "entities": [
+        "bartlett"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Bartlett, sit in a boardroom, 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "bartlett"
+        ]
+      },
+      "_said": "sound, as Bartlett puts it, dumb or even illegal. You have to sit in a boardroom, pitch something that makes everyone look at you like you have lost your mind and stand by it. But "
+    },
+    {
+      "fp": "1ifwdmh",
+      "i": 134,
+      "from": 30506,
+      "subject": "Discomfort — shield",
+      "entities": [
+        "discomfort"
+      ],
+      "concept": "shield",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Discomfort, 1985"
+      },
+      "antidote": {
+        "concept": "shield",
+        "cast": [
+          "discomfort"
+        ]
+      },
+      "_said": "that specific flavor of social discomfort is the moat that protects you from all the safe, boring, rational"
+    },
+    {
+      "fp": "1g4v6pu",
+      "i": 135,
+      "from": 30681,
+      "subject": "ledge",
+      "entities": [],
+      "concept": "ledge",
+      "place": "street",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "ledge, street, 1985"
+      },
+      "antidote": {
+        "concept": "ledge",
+        "set": "street",
+        "cast": []
+      },
+      "_said": "rational competitors. Now, let's look at how you actually manage the social dynamics when you have these wild ideas or when you need to change someone's mind. We are jumping from t"
+    },
+    {
+      "fp": "r4cv50",
+      "i": 136,
+      "from": 30984,
+      "subject": "ledge",
+      "entities": [],
+      "concept": "ledge",
+      "place": "street",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "ledge, street, 1985"
+      },
+      "antidote": {
+        "concept": "ledge",
+        "set": "street",
+        "cast": []
+      },
+      "_said": "to November 1980. A bit of a time jump, just a little bit. The camera zooms"
+    },
+    {
+      "fp": "bzh6fs",
+      "i": 137,
+      "from": 31147,
+      "subject": "Reagan",
+      "entities": [
+        "reagan"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Reagan, standing at a podium under hot studio lights, 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "reagan"
+        ]
+      },
+      "_said": "zooms in on Ronald Reagan. He is standing at a podium under hot studio lights in the middle of a fiercely heated presidential debate against the incumbent"
+    },
+    {
+      "fp": "9vaty0",
+      "i": 138,
+      "from": 31406,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "watching his every micro expression, 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "incumbent Jimmy By stakes, he has the entire nation watching his every micro expression. And instead"
+    },
+    {
+      "fp": "1jg9guw",
+      "i": 139,
+      "from": 31608,
+      "subject": "rocketLaunch",
+      "entities": [],
+      "concept": "rocketLaunch",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "rocket launch, 1985"
+      },
+      "antidote": {
+        "concept": "rocketLaunch",
+        "set": null,
+        "cast": []
+      },
+      "_said": "instead of launching into a long factual defensive lecture about inflation rates or economic policy, he just stops. He ignores"
+    },
+    {
+      "fp": "10zvajl",
+      "i": 140,
+      "from": 31838,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "ignores his opponent, looks directly into the television lens, and asks a single"
+    },
+    {
+      "fp": "jsnnbv",
+      "i": 141,
+      "from": 31968,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "single devastating question. Are you better off than you were four years ago? It gives you chills when you realize"
+    },
+    {
+      "fp": "69jfgu",
+      "i": 142,
+      "from": 32148,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "realize the psychological mechanics of what he just did. It's absolute magic. I explains that questions, unlike statements, elicit"
+    },
+    {
+      "fp": "1m95t4a",
+      "i": 143,
+      "from": 32354,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "elicit a mandatory active response from the human brain. Right. When someone lectures you, your brain immediately throws up defensive shields. You start looking for flaws in their "
+    },
+    {
+      "fp": "ym19uc",
+      "i": 144,
+      "from": 32743,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "forces the listener's brain to stop, internalize the premise, and generate an answer. When the facts are actually on your side, asking a question is infinitely more effective than "
+    },
+    {
+      "fp": "1mmeqe6",
+      "i": 145,
+      "from": 33017,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": "cafe",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone, cafe, 1985"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": "cafe",
+        "cast": []
+      },
+      "_said": "a It's a scientifically proven phenomenon called the question behavior effect. He cites this amazing"
+    },
+    {
+      "fp": "o3bpmt",
+      "i": 146,
+      "from": 33197,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "amazing Washington State University study that proves asking is literally better than telling. Oh,"
+    },
+    {
+      "fp": "1ohstx5",
+      "i": 147,
+      "from": 33374,
+      "subject": "food",
+      "entities": [],
+      "concept": "food",
+      "place": "cafe",
+      "confidence": 0.6,
+      "vox": {
+        "shot": "food, cafe, 1985"
+      },
+      "antidote": {
+        "concept": "food",
+        "set": "cafe",
+        "cast": []
+      },
+      "_said": "Oh, the restaurant one. Yeah. They looked at something as simple as restaurant waiters. If a waiter drops the check and says, \"I hope you enjoyed the food,\" it does literally nothi"
+    },
+    {
+      "fp": "17mn89l",
+      "i": 148,
+      "from": 33628,
+      "subject": "dollarExchange",
+      "entities": [],
+      "concept": "dollarExchange",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "dollar exchange, 1985"
+      },
+      "antidote": {
+        "concept": "dollarExchange",
+        "set": null,
+        "cast": []
+      },
+      "_said": "the tip percentage. It's a statement. The customer's brain categorizes it as background noise and ignores it. But if the waiter pauses right"
+    },
+    {
+      "fp": "wv04dz",
+      "i": 149,
+      "from": 33868,
+      "subject": "dollarExchange",
+      "entities": [],
+      "concept": "dollarExchange",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "dollar exchange, 1985"
+      },
+      "antidote": {
+        "concept": "dollarExchange",
+        "set": null,
+        "cast": []
+      },
+      "_said": "right before dropping the bill, looks at the customer and asks, \"How was the food?\" The customer is socially obligated to answer. It forces them to reflect on the positive"
+    },
+    {
+      "fp": "uur7zd",
+      "i": 150,
+      "from": 34135,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "positive experience. It changes the psychology of the interaction and it measurably increases the tick."
+    },
+    {
+      "fp": "1t0c3dh",
+      "i": 151,
+      "from": 34301,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "tick. It's so simple but so effective. Or think about civic signs. A sign commanding please recycle fails constantly. A sign asking will you recycle?"
+    },
+    {
+      "fp": "rzrabz",
+      "i": 152,
+      "from": 34581,
+      "subject": "gift",
+      "entities": [],
+      "concept": "gift",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "gift, 1985"
+      },
+      "antidote": {
+        "concept": "gift",
+        "cast": []
+      },
+      "_said": "recycle? Significantly changes behavior. But hold on, wait. But then doesn't asking a question give the other person the power to say no?"
+    },
+    {
+      "fp": "1cjvdcc",
+      "i": 153,
+      "from": 34828,
+      "subject": "Reagan — home",
+      "entities": [
+        "reagan"
+      ],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Reagan, sitting at home says, 1985"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": [
+          "reagan"
+        ]
+      },
+      "_said": "no? If Reagan asks if you're better off and the viewer sitting at home says, \"Actually, yes, I got a promotion. I am better off.\" His entire"
+    },
+    {
+      "fp": "1fmklze",
+      "i": 154,
+      "from": 35021,
+      "subject": "road",
+      "entities": [],
+      "concept": "road",
+      "place": "highway",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "road, falls apart, highway, 1985"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": "highway",
+        "cast": []
+      },
+      "_said": "entire argument instantaneously falls apart, you are giving the other person the power to destroy your premise. You are handing them the steering wheel. Yes. But you're doing it on"
+    },
+    {
+      "fp": "10koap7",
+      "i": 155,
+      "from": 35366,
+      "subject": "lightbulb",
+      "entities": [],
+      "concept": "lightbulb",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "lightbulb, 1985"
+      },
+      "antidote": {
+        "concept": "lightbulb",
+        "cast": []
+      },
+      "_said": "where the destination is. That's the genius of it. Yes, an individual might say no, but"
+    },
+    {
+      "fp": "1wuvfkh",
+      "i": 156,
+      "from": 35513,
+      "subject": "Reagan",
+      "entities": [
+        "reagan"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Reagan, 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "reagan"
+        ]
+      },
+      "_said": "but macroeconomically, Reagan knew the vast majority were struggling. Fair point. But the deeper"
+    },
+    {
+      "fp": "1qufd6g",
+      "i": 157,
+      "from": 35666,
+      "subject": "Bartlett",
+      "entities": [
+        "bartlett"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Bartlett, 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "bartlett"
+        ]
+      },
+      "_said": "deeper psychological point Bartlett makes is that a yes or no question completely removes the wiggle room we use to deceive ourselves. It forces absolute"
+    },
+    {
+      "fp": "155rory",
+      "i": 158,
+      "from": 35911,
+      "subject": "alarmClock",
+      "entities": [],
+      "concept": "alarmClock",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "alarm clock, 1985"
+      },
+      "antidote": {
+        "concept": "alarmClock",
+        "set": null,
+        "cast": []
+      },
+      "_said": "absolute commitment. If you wake up and tell yourself, \"I really need to go to the gym today,\" your brain, which wants to conserve energy, instantly generates 10 highly"
+    },
+    {
+      "fp": "1hrwnh7",
+      "i": 159,
+      "from": 36170,
+      "subject": "mirror",
+      "entities": [],
+      "concept": "mirror",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "mirror, 1985"
+      },
+      "antidote": {
+        "concept": "mirror",
+        "set": null,
+        "cast": []
+      },
+      "_said": "highly rational excuses why you can't. Oh, I do that all the time. Right? But if you look in the mirror and ask yourself a close question, will I go to the gym today? Yes or no? Yo"
+    },
+    {
+      "fp": "13z6npp",
+      "i": 160,
+      "from": 36489,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "You force yourself to actively choose laziness rather than passively slipping into it. It requires such a deep unnatural level"
+    },
+    {
+      "fp": "1ivvogm",
+      "i": 161,
+      "from": 36701,
+      "subject": "Discomfort",
+      "entities": [
+        "discomfort"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Discomfort, 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "discomfort"
+        ]
+      },
+      "_said": "level of discomfort to surrender the ego of telling. Think about it. When we are in an argument or"
+    },
+    {
+      "fp": "1cjdwwf",
+      "i": 162,
+      "from": 36878,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "or a highstakes negotiation, our ego desperately wants to lecture. We want to sound like the smartest person in the room. We want to batter the other person into submission with fa"
+    },
+    {
+      "fp": "1h12jgf",
+      "i": 163,
+      "from": 37248,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "prove our intellectual superiority."
+    },
+    {
+      "fp": "18x1sge",
+      "i": 164,
+      "from": 37305,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Biting your tongue, swallowing your pride, and asking a quiet, powerful question feels like you're yielding power. It feels incredibly"
+    },
+    {
+      "fp": "80sv9i",
+      "i": 165,
+      "from": 37541,
+      "subject": "Discomfort — trophy",
+      "entities": [
+        "discomfort"
+      ],
+      "concept": "trophy",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Discomfort, 1985"
+      },
+      "antidote": {
+        "concept": "trophy",
+        "cast": [
+          "discomfort"
+        ]
+      },
+      "_said": "incredibly uncomfortable. It does. But that exact restraint is why discomfort is the asset. You are trading the temporary comfort of sounding smart for the permanent power of actua"
+    },
+    {
+      "fp": "1f2s5i3",
+      "i": 166,
+      "from": 37872,
+      "subject": "trophy",
+      "entities": [],
+      "concept": "trophy",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "trophy, 1985"
+      },
+      "antidote": {
+        "concept": "trophy",
+        "cast": []
+      },
+      "_said": "mastery of psychological restraint to completely alter how people perceive reality Let's drop into another scene."
+    },
+    {
+      "fp": "1vmchh5",
+      "i": 167,
+      "from": 38037,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "standing in front of a group of very demanding, 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "scene. Elon Musk is back, but this time he is standing in front of a group of very demanding, very vocal animal rights associations. Okay, setting the stage. They are pressuring hi"
+    },
+    {
+      "fp": "1rd0utb",
+      "i": 168,
+      "from": 38306,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "about the environmental and ethical impact of his cars. And he makes a bold, seemingly impossible promise for the interior of the upcoming Tesla"
+    },
+    {
+      "fp": "101hvnk",
+      "i": 169,
+      "from": 38527,
+      "subject": "game",
+      "entities": [],
+      "concept": "game",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "game, 1985"
+      },
+      "antidote": {
+        "concept": "game",
+        "set": null,
+        "cast": []
+      },
+      "_said": "Tesla Model 3. No more animal products whatsoever. We proudly present a vegan leather. Right. His team rolls out this sleek new"
+    },
+    {
+      "fp": "ngfya1",
+      "i": 170,
+      "from": 38810,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "new luxury upholstery. But if you peel back"
+    },
+    {
+      "fp": "3yogv2",
+      "i": 171,
+      "from": 38906,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "back the marketing, here is the brilliant, almost hilarious absurdity of that moment."
+    },
+    {
+      "fp": "1wjr067",
+      "i": 172,
+      "from": 39053,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "moment. Vegan leather is literally just plastic. It's just polyurethane. Yes, it's the exact same synthetic, sweaty material that has been used to cover the seats of"
+    },
+    {
+      "fp": "3ky0wg",
+      "i": 173,
+      "from": 39377,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "cheap entry-level cars for decades. But the frame changes everything. The frame matters more than the picture"
+    },
+    {
+      "fp": "uzr8tx",
+      "i": 174,
+      "from": 39602,
+      "subject": "Bartlett — phone",
+      "entities": [
+        "bartlett"
+      ],
+      "concept": "phone",
+      "place": "cafe",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Bartlett, cafe, 1985"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": "cafe",
+        "cast": [
+          "bartlett"
+        ]
+      },
+      "_said": "picture Bartlett points out how wild the human brain is in this regard. Tesla took a cheap synthetic material, absolutely refused to call it plastic, slapped the word leather on it"
+    },
+    {
+      "fp": "1syptdc",
+      "i": 175,
+      "from": 39926,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "sitting on the cutting edge of ethical, 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "added the modifier vegan to anchor it to morality, and suddenly consumers feel like they are sitting on the cutting edge of ethical"
+    },
+    {
+      "fp": "lnbs2l",
+      "i": 176,
+      "from": 40099,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "sitting side by side, 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "ethical high-end He brings up the meat aisle in the grocery store, which is the classic textbook example of this cognitive bias. You have two packages of ground beef sitting side b"
+    },
+    {
+      "fp": "1tmp1jc",
+      "i": 177,
+      "from": 40373,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "side. They're absolutely identical in every single physical chemical way. One gets a bright label that says 90% lean. The other gets a label that"
+    },
+    {
+      "fp": "uzbacv",
+      "i": 178,
+      "from": 40605,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "that says contains 10% fat. The 90% lean flies off the shelf. The 10% fat rots in the fridge until it's thrown away."
+    },
+    {
+      "fp": "1r2dadf",
+      "i": 179,
+      "from": 40836,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "away. The empirical reality is exactly the same, but the frame dictates the human behavior because we are meaning-making machines, not"
+    },
+    {
+      "fp": "16822o8",
+      "i": 180,
+      "from": 41119,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "not Okay, I need to stop you there because where is the line between framing and actual consumer fraud? Wait, but then isn't this just lying?"
+    },
+    {
+      "fp": "7icscq",
+      "i": 181,
+      "from": 41335,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": "cafe",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone, cafe, 1985"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": "cafe",
+        "cast": []
+      },
+      "_said": "lying? Isn't it just corporate deception? If I take a piece of plastic and call it leather, even with the word vegan in front of it, aren't we just encouraging people to manipulate"
+    },
+    {
+      "fp": "122n457",
+      "i": 182,
+      "from": 41685,
+      "subject": "Bartlett",
+      "entities": [
+        "bartlett"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Bartlett, 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "bartlett"
+        ]
+      },
+      "_said": "tension Bartlett is playing with. But he clarifies the distinction beautifully."
+    },
+    {
+      "fp": "14r15ow",
+      "i": 183,
+      "from": 41805,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "beautifully. It's not fraud because reality to human brain is nothing more than perception based on Both labels on the meat are factually true."
+    },
+    {
+      "fp": "1alsjgs",
+      "i": 184,
+      "from": 42057,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "true. Polyurethane is vegan and it is designed to mimic leather. Framing isn't about lying about the chemical makeup of a product."
+    },
+    {
+      "fp": "1feaad",
+      "i": 185,
+      "from": 42271,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "product. It's about understanding that human beings do not make decisions based on raw data. We make decisions based on stories, identity, and status signaling."
+    },
+    {
+      "fp": "bwcirq",
+      "i": 186,
+      "from": 42568,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "signaling. It's about presenting the truth through the most compelling resonant lens But to do that effectively, you have to take the incredibly"
+    },
+    {
+      "fp": "qrdxic",
+      "i": 187,
+      "from": 42797,
+      "subject": "codeWindow",
+      "entities": [],
+      "concept": "codeWindow",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "code window, 1985"
+      },
+      "antidote": {
+        "concept": "codeWindow",
+        "set": null,
+        "cast": []
+      },
+      "_said": "incredibly uncomfortable risk of letting go of the plain facts. If you are an engineer or a creator, you desperately want your product to speak for itself. You want to point"
+    },
+    {
+      "fp": "5dz3ug",
+      "i": 188,
+      "from": 43056,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "point to the spreadsheet and say, \"Look at the data. Look at the specs. I built the best thing.\" Oh, engineers hate this stuff. They really do. It is deeply, fundamentally uncomfor"
+    },
+    {
+      "fp": "1k24060",
+      "i": 189,
+      "from": 43317,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "that your brilliant specs don't actually matter to the consumer as much as the story does. You have to abandon your ego as a creator and craft a frame that people actually care abo"
+    },
+    {
+      "fp": "3x3plx",
+      "i": 190,
+      "from": 43617,
+      "subject": "Discomfort",
+      "entities": [
+        "discomfort"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Discomfort, 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "discomfort"
+        ]
+      },
+      "_said": "theatrical. Once again, abandoning that comfort zone is the Which brings us to the internal psychological mechanics of how you actually sustain this level of strategic discomfort o"
+    },
+    {
+      "fp": "1skqk9w",
+      "i": 191,
+      "from": 43989,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Porto, Portugal. Okay, changing scenery Bartlet is out on a run."
+    },
+    {
+      "fp": "1gm44o5",
+      "i": 192,
+      "from": 44119,
+      "subject": "road",
+      "entities": [],
+      "concept": "road",
+      "place": "highway",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "road, highway, 1985"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": "highway",
+        "cast": []
+      },
+      "_said": "run. He's approaching this terrifying nearvertical cobblestone hill. He's already exhausted from his miles. His lungs are absolutely"
+    },
+    {
+      "fp": "1jvjbcw",
+      "i": 193,
+      "from": 44321,
+      "subject": "funnelMetrics",
+      "entities": [],
+      "concept": "funnelMetrics",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "funnel metrics, 1985"
+      },
+      "antidote": {
+        "concept": "funnelMetrics",
+        "set": null,
+        "cast": []
+      },
+      "_said": "absolutely burning. His legs feel like lead. And his brain is screaming at him,"
+    },
+    {
+      "fp": "iwh7x2",
+      "i": 194,
+      "from": 44421,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "walk for 60 and he voices this internal bina, 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "him, begging him to just stop and walk for 60 And he voices this internal binary"
+    },
+    {
+      "fp": "1lvxbnu",
+      "i": 195,
+      "from": 44577,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "binary question that he forces on himself in that exact moment of physical agony. He asks himself out loud, \"Will you keep running"
+    },
+    {
+      "fp": "hkynnl",
+      "i": 196,
+      "from": 44817,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "running without stopping until you've reached t, 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "running without stopping until you've reached the top? Yes or no?\" and he forces the answer out of his own mouth. This is the absolute crux of law 27."
+    },
+    {
+      "fp": "6gkgef",
+      "i": 197,
+      "from": 45065,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "27. Discipline over motivation. We culturally worship motivation. But motivation is just an emotion. And emotions are incredibly fickle by biological design. They come and go. Exac"
+    },
+    {
+      "fp": "1asf5ms",
+      "i": 198,
+      "from": 45362,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Exactly. Motivation vanishes when it rains. It vanishes when you haven't slept. It vanishes when someone criticizes you."
+    },
+    {
+      "fp": "3wkawq",
+      "i": 199,
+      "from": 45521,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "you. Discipline, on the other hand, is the architectural act of building a self that acts when the feeling to act simply isn't there. And he breaks this down into an"
+    },
+    {
+      "fp": "hi1d6f",
+      "i": 200,
+      "from": 45797,
+      "subject": "target",
+      "entities": [],
+      "concept": "target",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "target, 1985"
+      },
+      "antidote": {
+        "concept": "target",
+        "cast": []
+      },
+      "_said": "actual mathematical equation, the discipline equation. It's the perceived value of the goal plus the psychological reward of the pursuit minus"
+    },
+    {
+      "fp": "1upqt3h",
+      "i": 201,
+      "from": 46034,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "minus the psychological cost of the pursuit. If the value and the reward are higher than the cost, you stay disciplined."
+    },
+    {
+      "fp": "fsx5ci",
+      "i": 202,
+      "from": 46200,
+      "subject": "lightbulb",
+      "entities": [],
+      "concept": "lightbulb",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "lightbulb, 1985"
+      },
+      "antidote": {
+        "concept": "lightbulb",
+        "cast": []
+      },
+      "_said": "disciplined. Makes sense on paper, right? And he pairs this with the power of progress. the neurological idea that you have to celebrate the tiny microscopic"
+    },
+    {
+      "fp": "1pqvqya",
+      "i": 203,
+      "from": 46459,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "microscopic windslike just making it to the next lamp post on that hill because that gives you a hit of dopamine which creates the feeling of forward motion and forward motion arti"
+    },
+    {
+      "fp": "ni3tlr",
+      "i": 204,
+      "from": 46783,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "perceived psychological cost. It's a great hack for your brain. That sounds incredibly neat in a book, but in the real world, what happens when you are biologically depleted?"
+    },
+    {
+      "fp": "epr49a",
+      "i": 205,
+      "from": 47042,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Wait, but then what do you do on the days when the cost absolutely outweighs the reward and you are totally depleted? The days when you are sick, you've"
+    },
+    {
+      "fp": "18o05vr",
+      "i": 206,
+      "from": 47263,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "you've had a terrible week, your bank account is overdrawn, and"
+    },
+    {
+      "fp": "swob5z",
+      "i": 207,
+      "from": 47335,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "and the equation completely breaks down. You cannot math your way out of total systemic exhaustion. That is exactly when that binary yes or"
+    },
+    {
+      "fp": "isf2bx",
+      "i": 208,
+      "from": 47594,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "or no question becomes an emergency override switch for your brain. When"
+    },
+    {
+      "fp": "7okkce",
+      "i": 209,
+      "from": 47719,
+      "subject": "trophy",
+      "entities": [],
+      "concept": "trophy",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "trophy, 1985"
+      },
+      "antidote": {
+        "concept": "trophy",
+        "cast": []
+      },
+      "_said": "When the equation breaks down, you remove the debate entirely. You do not ask yourself how you feel. You do not negotiate with your fatigue because your fatigue will always win"
+    },
+    {
+      "fp": "1ysb1rc",
+      "i": 210,
+      "from": 47988,
+      "subject": "trophy",
+      "entities": [],
+      "concept": "trophy",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "trophy, 1985"
+      },
+      "antidote": {
+        "concept": "trophy",
+        "cast": []
+      },
+      "_said": "win a negotiation. It's true. It really will. You ask a closed question. Will I do this? Yes or no."
+    },
+    {
+      "fp": "1y1rnlf",
+      "i": 211,
+      "from": 48185,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "no. It leverages that question behavior effect we talked about earlier, but you turn it inward on yourself. It removes all the intellectual wiggle room."
+    },
+    {
+      "fp": "uljbv",
+      "i": 212,
+      "from": 48410,
+      "subject": "Discomfort",
+      "entities": [
+        "discomfort"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Discomfort, 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "discomfort"
+        ]
+      },
+      "_said": "room. So discomfort isn't an obstacle to discipline. Discomfort is the actual raw material of discipline. If it wasn't profoundly uncomfortable, you wouldn't even"
+    },
+    {
+      "fp": "1lwsk4p",
+      "i": 213,
+      "from": 48677,
+      "subject": "fire",
+      "entities": [],
+      "concept": "fire",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "fire, 1985"
+      },
+      "antidote": {
+        "concept": "fire",
+        "cast": []
+      },
+      "_said": "even need discipline. You'd just be doing something you naturally enjoy. enduring that burning in your lungs, enduring that screaming in your brain to stop and get back into bed. T"
+    },
+    {
+      "fp": "1gyluvt",
+      "i": 214,
+      "from": 48955,
+      "subject": "dominoCascade",
+      "entities": [],
+      "concept": "dominoCascade",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "domino cascade, 1985"
+      },
+      "antidote": {
+        "concept": "dominoCascade",
+        "cast": []
+      },
+      "_said": "asset being compounded in real time. And if you sustain"
+    },
+    {
+      "fp": "dv907v",
+      "i": 215,
+      "from": 49039,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "run head first into our next scene, 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "sustain that discipline long enough, you will inevitably run head first into our next scene. Picture a dusty, chaotic"
+    },
+    {
+      "fp": "8dtxim",
+      "i": 216,
+      "from": 49243,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "standing amidst half-finish paintings, 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "chaotic Renaissance workshop. Leonardo da Vinci is standing amidst half-finish paintings, wooden gears, and meticulous anatomical sketches. He has spent his entire"
+    },
+    {
+      "fp": "1edb8k3",
+      "i": 217,
+      "from": 49524,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "notes, 1985"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": []
+      },
+      "_said": "entire life observing not just nature but the fragile machinery of human psychology and he hits on this brutal truth. He writes, \"The depth of your failure is gauged by"
+    },
+    {
+      "fp": "1sqhdj5",
+      "i": 218,
+      "from": 49819,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "by your self-abandonment. It is a profound observation. The difference between experiencing a failure and becoming a failure all comes down to the concept"
+    },
+    {
+      "fp": "h23s8q",
+      "i": 219,
+      "from": 50073,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "concept of self-abandonment. I failed is just a data point. It means the hypothesis was incorrect. The experiment didn't work."
+    },
+    {
+      "fp": "1t91zle",
+      "i": 220,
+      "from": 50261,
+      "subject": "trophy",
+      "entities": [],
+      "concept": "trophy",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "trophy, 1985"
+      },
+      "antidote": {
+        "concept": "trophy",
+        "cast": []
+      },
+      "_said": "work. That's feedback. Exactly. I am a failure means you have internalized the negative data and completely abandoned your own identity. Law 21 dictates that if you want to win in"
+    },
+    {
+      "fp": "1bevir9",
+      "i": 221,
+      "from": 50546,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "run more experiments which mathematically g, 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "in a fast-moving market, you literally have to outfail the competition. You have to run more experiments which mathematically guarantees you will face more negative results."
+    },
+    {
+      "fp": "l06njv",
+      "i": 222,
+      "from": 50776,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "results. Barllet points back to pillar lure of his philosophy, the self. He argues that if you have done the work to know your personal philosophy, you can accurately"
+    },
+    {
+      "fp": "1yx4zic",
+      "i": 223,
+      "from": 51028,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "stand for acts as, 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "accurately forecast your own behavior in a crisis. An incredibly strong self story. Knowing exactly who you are, what your values are, and what you stand for acts as"
+    },
+    {
+      "fp": "ltobgy",
+      "i": 224,
+      "from": 51333,
+      "subject": "shield",
+      "entities": [],
+      "concept": "shield",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "shield, 1985"
+      },
+      "antidote": {
+        "concept": "shield",
+        "cast": []
+      },
+      "_said": "as an impenetrable psychological shield against the sting of failure. It's armor."
+    },
+    {
+      "fp": "h2ipop",
+      "i": 225,
+      "from": 51458,
+      "subject": "coin",
+      "entities": [],
+      "concept": "coin",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "coin, 1985"
+      },
+      "antidote": {
+        "concept": "coin",
+        "cast": []
+      },
+      "_said": "armor. Yeah. When the business collapses, if your self- story is intact, your identity doesn't collapse with it. That's the ideal state anyway. But wait, but then failure still has"
+    },
+    {
+      "fp": "3ci4az",
+      "i": 226,
+      "from": 51770,
+      "subject": "coin",
+      "entities": [],
+      "concept": "coin",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "coin, 1985"
+      },
+      "antidote": {
+        "concept": "coin",
+        "cast": []
+      },
+      "_said": "ruins reputations. It hurts. It's not just an abstract psychological exercise you can journal your way out of. A failed business loses real money. It ruins"
+    },
+    {
+      "fp": "dhvcq2",
+      "i": 227,
+      "from": 52015,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "ruins real reputations. It strains marriages. You can't just philosophize away the pain of a massive public failure. You can't."
+    },
+    {
+      "fp": "m8eknh",
+      "i": 228,
+      "from": 52214,
+      "subject": "Bartlett — shield",
+      "entities": [
+        "bartlett"
+      ],
+      "concept": "shield",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Bartlett, 1985"
+      },
+      "antidote": {
+        "concept": "shield",
+        "cast": [
+          "bartlett"
+        ]
+      },
+      "_said": "can't. And Bartlett doesn't pretend you can. The pain is intensely real. The financial cost is real. The embarrassment is real. But his point is that hiding from failure, trying to"
+    },
+    {
+      "fp": "1lfhdo1",
+      "i": 229,
+      "from": 52574,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "you never experience that pain guarantees your own obsolescence. The world simply moves too fast. Now, if"
+    },
+    {
+      "fp": "1ldoofr",
+      "i": 230,
+      "from": 52766,
+      "subject": "grave",
+      "entities": [],
+      "concept": "grave",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "grave, 1985"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": null,
+        "cast": []
+      },
+      "_said": "if you aren't failing occasionally, it means you aren't iterating. And if you aren't iterating, you are actively dying. It is the"
+    },
+    {
+      "fp": "k44i5y",
+      "i": 231,
+      "from": 52948,
+      "subject": "Discomfort — lightbulb",
+      "entities": [
+        "discomfort"
+      ],
+      "concept": "lightbulb",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Discomfort, standing completely naked in your own failure, 1985"
+      },
+      "antidote": {
+        "concept": "lightbulb",
+        "cast": [
+          "discomfort"
+        ]
+      },
+      "_said": "the ultimate discomfort. Standing completely naked in your own failure, looking at the smoking wreckage of your idea, and consciously choosing"
+    },
+    {
+      "fp": "v0ofpd",
+      "i": 232,
+      "from": 53193,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "choosing to extract the data and learn from it rather than hiding under the covers and blaming the market. You have to invite"
+    },
+    {
+      "fp": "k4inev",
+      "i": 233,
+      "from": 53366,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "sit at the table with it, 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "invite the failure in, sit at the table with it, and interrogate it."
+    },
+    {
+      "fp": "1etx7dj",
+      "i": 234,
+      "from": 53457,
+      "subject": "Discomfort — road",
+      "entities": [
+        "discomfort"
+      ],
+      "concept": "road",
+      "place": "highway",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Discomfort, highway, 1985"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": "highway",
+        "cast": [
+          "discomfort"
+        ]
+      },
+      "_said": "it. Because once again, discomfort is the asset. Which leads us to the ultimate realization he has about his entire wild journey. We drop into a sleek glasswalled high-rise boardro"
+    },
+    {
+      "fp": "1tnf6d3",
+      "i": 235,
+      "from": 53813,
+      "subject": "Bartlett",
+      "entities": [
+        "bartlett"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Bartlett, sitting at the head of the table and he is advi, 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "bartlett"
+        ]
+      },
+      "_said": "very young Steven Bartlett is sitting at the head of the table and he is advising the CEOs"
+    },
+    {
+      "fp": "1ih45ee",
+      "i": 236,
+      "from": 53928,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "CEOs of Uber, Apple, and Nike, telling the biggest, most powerful brands in the world how to communicate their stories to the public. And as he's doing this, surrounded by all this"
+    },
+    {
+      "fp": "jkq323",
+      "i": 237,
+      "from": 54247,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "external validation, he has this incredibly vulnerable realization about his younger self. He admits, \"I spent my late teens doggedly"
+    },
+    {
+      "fp": "t1ef5t",
+      "i": 238,
+      "from": 54496,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "doggedly pursuing monetary goals to validate the things that made me feel invalid when I was younger.\" That is the ultimate takeaway of the entire book."
+    },
+    {
+      "fp": "bbj131",
+      "i": 239,
+      "from": 54739,
+      "subject": "Bartlett",
+      "entities": [
+        "bartlett"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Bartlett, 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "bartlett"
+        ]
+      },
+      "_said": "book. It's the hidden engine finally exposed. Bartlett was never actually building companies."
+    },
+    {
+      "fp": "130v5vd",
+      "i": 240,
+      "from": 54876,
+      "subject": "coin",
+      "entities": [],
+      "concept": "coin",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "coin, 1985"
+      },
+      "antidote": {
+        "concept": "coin",
+        "cast": []
+      },
+      "_said": "companies. The companies, the millions of dollars, the podcast, they were just a byproduct. He was building the person whose psychology could tolerate building"
+    },
+    {
+      "fp": "1tcqxtj",
+      "i": 241,
+      "from": 55128,
+      "subject": "codeWindow",
+      "entities": [],
+      "concept": "codeWindow",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "code window, 1985"
+      },
+      "antidote": {
+        "concept": "codeWindow",
+        "set": null,
+        "cast": []
+      },
+      "_said": "building those companies. Wow. The self is literally the only thing in the universe we have direct absolute control over. Everything else, the stock market, your employees, the alg"
+    },
+    {
+      "fp": "8kf7g7",
+      "i": 242,
+      "from": 55387,
+      "subject": "dollarExchange",
+      "entities": [],
+      "concept": "dollarExchange",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "dollar exchange, 1985"
+      },
+      "antidote": {
+        "concept": "dollarExchange",
+        "set": null,
+        "cast": []
+      },
+      "_said": "algorithm, your competitors, is pure He notes that business strategy changes like the seasons. A best-selling book about marketing strategy from just 5 years ago is already complet"
+    },
+    {
+      "fp": "xd4meb",
+      "i": 243,
+      "from": 55673,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "completely useless today because the social media algorithms changed. But the laws"
+    },
+    {
+      "fp": "savfao",
+      "i": 244,
+      "from": 55800,
+      "subject": "Discomfort",
+      "entities": [
+        "discomfort"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Discomfort, 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "discomfort"
+        ]
+      },
+      "_said": "laws of selfmastery, the psychology of resilience, the ability to endure discomfort, those will work exactly the"
+    },
+    {
+      "fp": "1pgdatt",
+      "i": 245,
+      "from": 55977,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "the same 100 years from now as they did for the Romans. They're timeless. Wait, but then are we saying the actual business model doesn't matter? Are we arguing that"
+    },
+    {
+      "fp": "v604la",
+      "i": 246,
+      "from": 56203,
+      "subject": "wallet",
+      "entities": [],
+      "concept": "wallet",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "wallet, 1985"
+      },
+      "antidote": {
+        "concept": "wallet",
+        "cast": []
+      },
+      "_said": "that a brilliant psychology can save a fundamentally broken business model? Like you can have a terrible product, but as long as"
+    },
+    {
+      "fp": "12g8wqe",
+      "i": 247,
+      "from": 56448,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "as you've mastered your childhood trauma and you are highly"
+    },
+    {
+      "fp": "19i2wsl",
+      "i": 248,
+      "from": 56532,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "highly disciplined, you'll somehow magically No, the laws of economics still apply."
+    },
+    {
+      "fp": "ur9ysy",
+      "i": 249,
+      "from": 56702,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "apply. The business model absolutely matters. A bad product with no market fit will fail every time. But what he is clarifying is that you could take the most incredible,"
+    },
+    {
+      "fp": "134hepw",
+      "i": 250,
+      "from": 57000,
+      "subject": "rocketLaunch",
+      "entities": [],
+      "concept": "rocketLaunch",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "rocket launch, 1985"
+      },
+      "antidote": {
+        "concept": "rocketLaunch",
+        "set": null,
+        "cast": []
+      },
+      "_said": "incredible, bulletproof, highly profitable business model in the world and if you hand it to a founder with a broken, insecure, undisiplined"
+    },
+    {
+      "fp": "hwh50k",
+      "i": 251,
+      "from": 57223,
+      "subject": "dollarExchange",
+      "entities": [],
+      "concept": "dollarExchange",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "dollar exchange, 1985"
+      },
+      "antidote": {
+        "concept": "dollarExchange",
+        "set": null,
+        "cast": []
+      },
+      "_said": "undisiplined psychology, they will inevitably find a way to destroy it. They'll sabotage it. Yes, they will sabotage their leadership team out of paranoia. They will panic and sell"
+    },
+    {
+      "fp": "o46f3x",
+      "i": 252,
+      "from": 57638,
+      "subject": "Discomfort",
+      "entities": [
+        "discomfort"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Discomfort, 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "discomfort"
+        ]
+      },
+      "_said": "pristine psychology is the absolute prerequisite for the business strategy to even function. So, the deepest discomfort of all isn't running a"
+    },
+    {
+      "fp": "18e0ifa",
+      "i": 253,
+      "from": 57847,
+      "subject": "lightbulb",
+      "entities": [],
+      "concept": "lightbulb",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "lightbulb, 1985"
+      },
+      "antidote": {
+        "concept": "lightbulb",
+        "cast": []
+      },
+      "_said": "a steep cobblestone hill in Portugal or pitching a bizarre beer fridge to a board or looking foolish when an idea fails. The"
+    },
+    {
+      "fp": "1nuxjya",
+      "i": 254,
+      "from": 58061,
+      "subject": "Discomfort — mirror",
+      "entities": [
+        "discomfort"
+      ],
+      "concept": "mirror",
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Discomfort, 1985"
+      },
+      "antidote": {
+        "concept": "mirror",
+        "set": null,
+        "cast": [
+          "discomfort"
+        ]
+      },
+      "_said": "deepest discomfort is turning the mirror on yourself and fixing your own broken psychology."
+    },
+    {
+      "fp": "drdua1",
+      "i": 255,
+      "from": 58207,
+      "subject": "road",
+      "entities": [],
+      "concept": "road",
+      "place": "highway",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "road, highway, 1985"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": "highway",
+        "cast": []
+      },
+      "_said": "psychology. Admitting where you are insecure, admitting where you desperately need external validation, admitting where your fragile ego is driving the bus instead of your intellec"
+    },
+    {
+      "fp": "12xtpbu",
+      "i": 256,
+      "from": 58493,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "internal excavation is terrifying, but doing that work is how you forge the asset. But I have to stop us here for a"
+    },
+    {
+      "fp": "1kv6cjr",
+      "i": 257,
+      "from": 58708,
+      "subject": "Discomfort",
+      "entities": [
+        "discomfort"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Discomfort, 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "discomfort"
+        ]
+      },
+      "_said": "a second. Okay. What's up? I really need to hit pause because we need a moment of profound honesty here. We have spent this entire deep dive meticulously dissecting how discomfort "
+    },
+    {
+      "fp": "htzd7m",
+      "i": 258,
+      "from": 59008,
+      "subject": "dominoCascade",
+      "entities": [],
+      "concept": "dominoCascade",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "domino cascade, 1985"
+      },
+      "antidote": {
+        "concept": "dominoCascade",
+        "cast": []
+      },
+      "_said": "magical compounding asset. But if we are going to be intellectually honest"
+    },
+    {
+      "fp": "1urnif8",
+      "i": 259,
+      "from": 59109,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "honest with ourselves and with you listening to this, we absolutely have to talk about survivorship bias. Yeah, we do. It is the massive"
+    },
+    {
+      "fp": "znfpje",
+      "i": 260,
+      "from": 59333,
+      "subject": "shadowSelf",
+      "entities": [],
+      "concept": "shadowSelf",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "shadow self, 1985"
+      },
+      "antidote": {
+        "concept": "shadowSelf",
+        "cast": []
+      },
+      "_said": "massive unavoidable shadow hanging over this entire philosophy and it would be irresponsible to ignore it. Think about it. For every single"
+    },
+    {
+      "fp": "lu98d6",
+      "i": 261,
+      "from": 59577,
+      "subject": "Bartlett and Discomfort",
+      "entities": [
+        "bartlett",
+        "discomfort"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Bartlett and Discomfort, 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "bartlett",
+          "discomfort"
+        ]
+      },
+      "_said": "single Steven Bartlett who ran head first into intense discomfort, who took massive financial risks, who dropped out of university, who leaned"
+    },
+    {
+      "fp": "1i8yw3l",
+      "i": 262,
+      "from": 59803,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "leaned into bizarre ideas, and who ultimately There are thousands, maybe tens of thousands of people who ran at that exact"
+    },
+    {
+      "fp": "1kgsabm",
+      "i": 263,
+      "from": 60062,
+      "subject": "Discomfort",
+      "entities": [
+        "discomfort"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Discomfort, 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "discomfort"
+        ]
+      },
+      "_said": "exact same discomfort with the exact same discipline and just lost They lost their homes. They bankrupted their families. They ruined their lives. They aren't"
+    },
+    {
+      "fp": "1u0l6fg",
+      "i": 264,
+      "from": 60300,
+      "subject": "Discomfort — notes",
+      "entities": [
+        "discomfort"
+      ],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Discomfort, writing bestselling books, 1985"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": [
+          "discomfort"
+        ]
+      },
+      "_said": "aren't writing bestselling books. They are just broken. The immense danger of labeling discomfort as an asset is that it can very easily be weaponized by"
+    },
+    {
+      "fp": "1jmhjf3",
+      "i": 265,
+      "from": 60530,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "by the successful. [snorts] It can quietly insidiously blame people for their own It implies that if you failed, if you ended up bankrupt, well, you just weren't willing"
+    },
+    {
+      "fp": "3ok2ro",
+      "i": 266,
+      "from": 60808,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "willing to be uncomfortable enough you didn't want it badly enough, which is awful. When in reality, it might have just been horrific random luck. Or crucially, it might be the res"
+    },
+    {
+      "fp": "1n9zew9",
+      "i": 267,
+      "from": 61053,
+      "subject": "Bartlett — alarmClock",
+      "entities": [
+        "bartlett"
+      ],
+      "concept": "alarmClock",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Bartlett, 1985"
+      },
+      "antidote": {
+        "concept": "alarmClock",
+        "set": null,
+        "cast": [
+          "bartlett"
+        ]
+      },
+      "_said": "result of a complete lack of a societal safety net. Bartlett had the sheer grit to sleep on park benches and steal food to survive. Yes, and we applaud that. But"
+    },
+    {
+      "fp": "19x60zx",
+      "i": 268,
+      "from": 61346,
+      "subject": "alarmClock",
+      "entities": [],
+      "concept": "alarmClock",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "alarm clock, leave their children sleeping on a park bench, 1985"
+      },
+      "antidote": {
+        "concept": "alarmClock",
+        "set": null,
+        "cast": []
+      },
+      "_said": "But not everyone can afford to take a risk that might leave their children sleeping on a park bench. We have to sit"
+    },
+    {
+      "fp": "ma4gv3",
+      "i": 269,
+      "from": 61538,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "sit in that uncomfortable reality for a min, 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "sit in that uncomfortable reality for a minute. It is an incredibly privileged position to be able to outfail the competition if your failures don't result in actual"
+    },
+    {
+      "fp": "q620zd",
+      "i": 270,
+      "from": 61795,
+      "subject": "Discomfort — family",
+      "entities": [
+        "discomfort"
+      ],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Discomfort, 1985"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": [
+          "discomfort"
+        ]
+      },
+      "_said": "actual starvation or losing your health insurance. Telling a single mother working three jobs to embrace the discomfort of the 1% feels almost insulting when her entire life is alr"
+    },
+    {
+      "fp": "1j1zd30",
+      "i": 271,
+      "from": 62114,
+      "subject": "Discomfort",
+      "entities": [
+        "discomfort"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Discomfort, 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "discomfort"
+        ]
+      },
+      "_said": "nothing but discomfort. It is a massive structural flaw in all business literature. And while we"
+    },
+    {
+      "fp": "45dgtk",
+      "i": 272,
+      "from": 62268,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "we have to acknowledge that survivorship bias is entirely real and luck plays a terrifyingly large role in success, we also have to look"
+    },
+    {
+      "fp": "1x4o388",
+      "i": 273,
+      "from": 62498,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "look at the alternative. What is the alternative to Bartlett's Right? And here is how I resolve that tension in my own head."
+    },
+    {
+      "fp": "htzkqa",
+      "i": 274,
+      "from": 62714,
+      "subject": "coin",
+      "entities": [],
+      "concept": "coin",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "coin, 1985"
+      },
+      "antidote": {
+        "concept": "coin",
+        "cast": []
+      },
+      "_said": "head. Success is absolutely not guaranteed just because you suffer. The universe does not owe you a billion-dollar company or a hit podcast just because you were willing"
+    },
+    {
+      "fp": "4vly69",
+      "i": 275,
+      "from": 62973,
+      "subject": "Discomfort",
+      "entities": [
+        "discomfort"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Discomfort, 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "discomfort"
+        ]
+      },
+      "_said": "willing to be uncomfortable. Suffering is not a vending machine where you put in pain and get out millions. It doesn't work that way. But avoiding discomfort guarantees with"
+    },
+    {
+      "fp": "wkrx9j",
+      "i": 276,
+      "from": 63269,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "with 100% mathematical certainty that you will stay exactly where you are right now. You do not"
+    },
+    {
+      "fp": "1ex5cid",
+      "i": 277,
+      "from": 63441,
+      "subject": "Discomfort — game",
+      "entities": [
+        "discomfort"
+      ],
+      "concept": "game",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Discomfort, 1985"
+      },
+      "antidote": {
+        "concept": "game",
+        "set": null,
+        "cast": [
+          "discomfort"
+        ]
+      },
+      "_said": "not court discomfort because it guarantees a win. You court it because it is literally the only currency accepted at the door to even buy a ticket to the game. That is the perfect"
+    },
+    {
+      "fp": "wdi5m0",
+      "i": 278,
+      "from": 63729,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "perfect distillation of the entire book. If you strip away all the incredible celebrity stories, if you strip away the data, the frameworks, the five buckets, and all 33 laws, you "
+    },
+    {
+      "fp": "1pyyxmq",
+      "i": 279,
+      "from": 64080,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "slightly terrifying tool in your hands. Before any major decision in your business or honestly in your life, you don't"
+    },
+    {
+      "fp": "xka6mp",
+      "i": 280,
+      "from": 64248,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "don't need a massive complex procon list. You don't need a spreadsheet. You only need to look at the options in front of you and"
+    },
+    {
+      "fp": "1os1i0k",
+      "i": 281,
+      "from": 64418,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "and ask yourself one simple question. Which choice here is more"
+    },
+    {
+      "fp": "42rnhn",
+      "i": 282,
+      "from": 64552,
+      "subject": "shield",
+      "entities": [],
+      "concept": "shield",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "shield, 1985"
+      },
+      "antidote": {
+        "concept": "shield",
+        "cast": []
+      },
+      "_said": "more Because unsettlingly often, the most uncomfortable choice is also the exact right one. So the next time you feel that dread in your stomach when your brain screams at you to t"
+    },
+    {
+      "fp": "983zcw",
+      "i": 283,
+      "from": 64865,
+      "subject": "Discomfort",
+      "entities": [
+        "discomfort"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Discomfort, 1985"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "discomfort"
+        ]
+      },
+      "_said": "easy, invisible route, lean into it. Discomfort is the"
+    }
+  ]
+}

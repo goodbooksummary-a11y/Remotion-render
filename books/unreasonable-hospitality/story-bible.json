@@ -1,0 +1,159 @@
+{
+  "slug": "unreasonable-hospitality",
+  "world": {
+    "era": "2008–2017",
+    "approxYear": 2010,
+    "setting": "",
+    "register": "",
+    "forbid": []
+  },
+  "cast": {
+    "gdara": {
+      "name": "Gdara",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 12
+    },
+    "which": {
+      "name": "Which",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 4
+    },
+    "felix": {
+      "name": "Felix",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 3
+    },
+    "hospitality": {
+      "name": "Hospitality",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 3
+    },
+    "hum": {
+      "name": "Hum",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 2
+    }
+  },
+  "places": {
+    "cafe": {
+      "set": "cafe",
+      "look": "",
+      "mentions": 32
+    },
+    "kitchen": {
+      "set": "kitchen",
+      "look": "",
+      "mentions": 8
+    },
+    "hospital": {
+      "set": "hospital",
+      "look": "",
+      "mentions": 2
+    },
+    "shore": {
+      "set": "shore",
+      "look": "",
+      "mentions": 1
+    }
+  },
+  "objects": [
+    {
+      "concept": "food",
+      "mentions": 32,
+      "why": ""
+    },
+    {
+      "concept": "gift",
+      "mentions": 24,
+      "why": ""
+    },
+    {
+      "concept": "home",
+      "mentions": 19,
+      "why": ""
+    },
+    {
+      "concept": "family",
+      "mentions": 19,
+      "why": ""
+    },
+    {
+      "concept": "game",
+      "mentions": 15,
+      "why": ""
+    },
+    {
+      "concept": "phone",
+      "mentions": 14,
+      "why": ""
+    },
+    {
+      "concept": "dollarExchange",
+      "mentions": 14,
+      "why": ""
+    },
+    {
+      "concept": "coin",
+      "mentions": 14,
+      "why": ""
+    },
+    {
+      "concept": "shield",
+      "mentions": 13,
+      "why": ""
+    },
+    {
+      "concept": "work",
+      "mentions": 11,
+      "why": ""
+    },
+    {
+      "concept": "wallet",
+      "mentions": 11,
+      "why": ""
+    },
+    {
+      "concept": "star",
+      "mentions": 6,
+      "why": ""
+    }
+  ],
+  "spine": [
+    {
+      "act": "setup",
+      "fromFrame": 20,
+      "claim": ""
+    },
+    {
+      "act": "development",
+      "fromFrame": 18797,
+      "claim": ""
+    },
+    {
+      "act": "turn",
+      "fromFrame": 37287,
+      "claim": ""
+    },
+    {
+      "act": "consequence",
+      "fromFrame": 53153,
+      "claim": ""
+    },
+    {
+      "act": "close",
+      "fromFrame": 69778,
+      "claim": ""
+    }
+  ],
+  "authored": false
+}

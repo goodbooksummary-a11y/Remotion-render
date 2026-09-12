@@ -1,0 +1,177 @@
+{
+  "slug": "enders-game",
+  "world": {
+    "era": "1991–1991",
+    "approxYear": 1991,
+    "setting": "",
+    "register": "",
+    "forbid": []
+  },
+  "cast": {
+    "ender": {
+      "name": "Ender",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 24
+    },
+    "graph": {
+      "name": "Graph",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 7
+    },
+    "understanding": {
+      "name": "Understanding",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 4
+    },
+    "peter": {
+      "name": "Peter",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 3
+    }
+  },
+  "places": {
+    "classroom": {
+      "set": "classroom",
+      "look": "",
+      "mentions": 2
+    },
+    "forest": {
+      "set": "forest",
+      "look": "",
+      "mentions": 1
+    }
+  },
+  "objects": [
+    {
+      "concept": "war",
+      "mentions": 48,
+      "why": ""
+    },
+    {
+      "concept": "game",
+      "mentions": 17,
+      "why": ""
+    },
+    {
+      "concept": "shield",
+      "mentions": 15,
+      "why": ""
+    },
+    {
+      "concept": "school",
+      "mentions": 14,
+      "why": ""
+    },
+    {
+      "concept": "heart",
+      "mentions": 10,
+      "why": ""
+    },
+    {
+      "concept": "phone",
+      "mentions": 10,
+      "why": ""
+    },
+    {
+      "concept": "family",
+      "mentions": 10,
+      "why": ""
+    },
+    {
+      "concept": "road",
+      "mentions": 7,
+      "why": ""
+    },
+    {
+      "concept": "notes",
+      "mentions": 6,
+      "why": ""
+    },
+    {
+      "concept": "crack",
+      "mentions": 6,
+      "why": ""
+    },
+    {
+      "concept": "gift",
+      "mentions": 5,
+      "why": ""
+    },
+    {
+      "concept": "laptopMockup",
+      "mentions": 5,
+      "why": ""
+    }
+  ],
+  "spine": [
+    {
+      "act": "The Most Loving Child Ever Weaponized",
+      "fromFrame": 0,
+      "claim": ""
+    },
+    {
+      "act": "Third: A Child Bred by the State",
+      "fromFrame": 4500,
+      "claim": ""
+    },
+    {
+      "act": "Why Peter and Valentine Were Rejected",
+      "fromFrame": 7500,
+      "claim": ""
+    },
+    {
+      "act": "The Puppet Master Who Was Only Guessing",
+      "fromFrame": 11250,
+      "claim": ""
+    },
+    {
+      "act": "The Stilson Beating: Preemptive Empathy",
+      "fromFrame": 13500,
+      "claim": ""
+    },
+    {
+      "act": "\"The Enemy's Gate Is Down\"",
+      "fromFrame": 21750,
+      "claim": ""
+    },
+    {
+      "act": "How Graff Weaponized Loneliness",
+      "fromFrame": 28500,
+      "claim": ""
+    },
+    {
+      "act": "Crushing the Wasp: Love as Infiltration",
+      "fromFrame": 34500,
+      "claim": ""
+    },
+    {
+      "act": "The Formics: Humanity in a Mirror",
+      "fromFrame": 39000,
+      "claim": ""
+    },
+    {
+      "act": "The Simulation Was the Real War",
+      "fromFrame": 44250,
+      "claim": ""
+    },
+    {
+      "act": "Speaker for the Dead: Carrying the Guilt",
+      "fromFrame": 51750,
+      "claim": ""
+    },
+    {
+      "act": "Does the Book Let Ender Off?",
+      "fromFrame": 56250,
+      "claim": ""
+    }
+  ],
+  "authored": false
+}

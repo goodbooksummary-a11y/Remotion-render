@@ -1,0 +1,189 @@
+{
+  "slug": "all-the-colors-of-the-dark",
+  "world": {
+    "era": "1975–1975",
+    "approxYear": 1975,
+    "setting": "",
+    "register": "",
+    "forbid": [
+      "phone",
+      "codeWindow",
+      "laptopMockup",
+      "rocketLaunch",
+      "funnelMetrics",
+      "dollarExchange",
+      "subway",
+      "car",
+      "alarmClock",
+      "medical"
+    ]
+  },
+  "cast": {
+    "patch": {
+      "name": "Patch",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 19
+    },
+    "sammy": {
+      "name": "Sammy",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 6
+    },
+    "grace": {
+      "name": "Grace",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 5
+    },
+    "saint": {
+      "name": "Saint",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 4
+    },
+    "misty": {
+      "name": "Misty",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 4
+    },
+    "walter": {
+      "name": "Walter",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 2
+    },
+    "eloise": {
+      "name": "Eloise",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 2
+    }
+  },
+  "places": {
+    "forest": {
+      "set": "forest",
+      "look": "",
+      "mentions": 9
+    },
+    "highway": {
+      "set": "highway",
+      "look": "",
+      "mentions": 2
+    },
+    "cafe": {
+      "set": "cafe",
+      "look": "",
+      "mentions": 1
+    },
+    "classroom": {
+      "set": "classroom",
+      "look": "",
+      "mentions": 1
+    },
+    "bedroom": {
+      "set": "bedroom",
+      "look": "",
+      "mentions": 1
+    }
+  },
+  "objects": [
+    {
+      "concept": "star",
+      "mentions": 14,
+      "why": ""
+    },
+    {
+      "concept": "law",
+      "mentions": 13,
+      "why": ""
+    },
+    {
+      "concept": "tree",
+      "mentions": 12,
+      "why": ""
+    },
+    {
+      "concept": "chains",
+      "mentions": 12,
+      "why": ""
+    },
+    {
+      "concept": "road",
+      "mentions": 10,
+      "why": ""
+    },
+    {
+      "concept": "shield",
+      "mentions": 9,
+      "why": ""
+    },
+    {
+      "concept": "phone",
+      "mentions": 8,
+      "why": ""
+    },
+    {
+      "concept": "gift",
+      "mentions": 7,
+      "why": ""
+    },
+    {
+      "concept": "coin",
+      "mentions": 7,
+      "why": ""
+    },
+    {
+      "concept": "storm",
+      "mentions": 6,
+      "why": ""
+    },
+    {
+      "concept": "mask",
+      "mentions": 6,
+      "why": ""
+    },
+    {
+      "concept": "home",
+      "mentions": 6,
+      "why": ""
+    }
+  ],
+  "spine": [
+    {
+      "act": "setup",
+      "fromFrame": 2,
+      "claim": ""
+    },
+    {
+      "act": "development",
+      "fromFrame": 13879,
+      "claim": ""
+    },
+    {
+      "act": "turn",
+      "fromFrame": 27842,
+      "claim": ""
+    },
+    {
+      "act": "consequence",
+      "fromFrame": 43752,
+      "claim": ""
+    },
+    {
+      "act": "close",
+      "fromFrame": 58138,
+      "claim": ""
+    }
+  ],
+  "authored": false
+}

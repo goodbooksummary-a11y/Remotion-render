@@ -22599,12 +22599,12 @@
       ]
     },
     {
-      "text": "45\u00b0 away from you.",
+      "text": "45° away from you.",
       "startFrame": 38804,
       "endFrame": 38866,
       "words": [
         {
-          "w": "45\u00b0",
+          "w": "45°",
           "s": 38804,
           "e": 38835
         },
@@ -42840,7 +42840,8 @@
           "communication",
           "foundational",
           "absolutely."
-        ]
+        ],
+        "subject": "phone"
       },
       "images": [
         {
@@ -43011,7 +43012,8 @@
           "incredibly",
           "defensive",
           "actually"
-        ]
+        ],
+        "subject": "phone"
       },
       "images": []
     },
@@ -43320,7 +43322,8 @@
           "does",
           "commander",
           "supposed"
-        ]
+        ],
+        "subject": "war"
       },
       "images": [
         {
@@ -43491,7 +43494,8 @@
           "engineering",
           "fascinating",
           "engineered"
-        ]
+        ],
+        "subject": "shield"
       },
       "images": []
     },
@@ -43560,7 +43564,8 @@
           "automatically",
           "relative",
           "reached"
-        ]
+        ],
+        "subject": "car"
       },
       "images": [
         {
@@ -43587,7 +43592,8 @@
           "passenger",
           "totally",
           "locking"
-        ]
+        ],
+        "subject": "shield"
       },
       "images": []
     },
@@ -43656,7 +43662,8 @@
           "precisely.",
           "automatic",
           "washes."
-        ]
+        ],
+        "subject": "car"
       },
       "images": [
         {
@@ -43683,7 +43690,8 @@
           "customer",
           "neutral",
           "vehicle"
-        ]
+        ],
+        "subject": "car"
       },
       "images": []
     },
@@ -43779,7 +43787,8 @@
           "automatically",
           "triggered.",
           "literally"
-        ]
+        ],
+        "subject": "car"
       },
       "images": []
     },
@@ -43896,7 +43905,8 @@
           "laboratory",
           "photograph",
           "isolated"
-        ]
+        ],
+        "subject": "photo"
       },
       "images": [
         {
@@ -43992,7 +44002,8 @@
           "physical",
           "whether",
           "matches"
-        ]
+        ],
+        "subject": "game"
       },
       "images": [
         {
@@ -44040,7 +44051,8 @@
           "nervous",
           "inongruity.",
           "biological"
-        ]
+        ],
+        "subject": "war"
       },
       "images": [
         {
@@ -44115,7 +44127,8 @@
           "toward",
           "shoulders",
           "darting"
-        ]
+        ],
+        "subject": "shield"
       },
       "images": []
     },
@@ -44403,7 +44416,8 @@
           "illustrates",
           "incredible",
           "perfectly"
-        ]
+        ],
+        "subject": "phone"
       },
       "images": []
     },
@@ -44424,7 +44438,8 @@
           "newlywed",
           "vulnerability.",
           "story."
-        ]
+        ],
+        "subject": "family"
       },
       "images": [
         {
@@ -44472,7 +44487,8 @@
           "friends",
           "acquaintances",
           "researchers"
-        ]
+        ],
+        "subject": "game"
       },
       "images": [
         {
@@ -44547,7 +44563,8 @@
           "conversations.",
           "resemblances",
           "listening"
-        ]
+        ],
+        "subject": "family"
       },
       "images": []
     },
@@ -44595,7 +44612,8 @@
           "subconscious",
           "comfortable",
           "environment"
-        ]
+        ],
+        "subject": "shadowSelf"
       },
       "images": []
     },
@@ -44664,7 +44682,8 @@
           "biological",
           "highstakes",
           "principle"
-        ]
+        ],
+        "subject": "family"
       },
       "images": [
         {
@@ -44712,7 +44731,8 @@
           "observation",
           "conference",
           "regarding"
-        ]
+        ],
+        "subject": "phone"
       },
       "images": [
         {
@@ -44856,7 +44876,8 @@
           "negotiation",
           "overheating",
           "calculating"
-        ]
+        ],
+        "subject": "rocketLaunch"
       },
       "images": [
         {
@@ -45000,7 +45021,8 @@
           "environment",
           "threatened",
           "immediate"
-        ]
+        ],
+        "subject": "shield"
       },
       "images": [
         {
@@ -45336,7 +45358,8 @@
           "shoulders",
           "shrugged",
           "protect"
-        ]
+        ],
+        "subject": "shield"
       },
       "images": [
         {
@@ -45411,7 +45434,8 @@
           "response.",
           "orflight",
           "fingers."
-        ]
+        ],
+        "subject": "war"
       },
       "images": []
     },
@@ -45453,7 +45477,8 @@
           "unconsciously",
           "amplifier.",
           "defensive"
-        ]
+        ],
+        "subject": "war"
       },
       "images": []
     },
@@ -45501,7 +45526,8 @@
           "socialization",
           "interesting",
           "difference"
-        ]
+        ],
+        "subject": "phone"
       },
       "images": []
     },
@@ -45618,7 +45644,8 @@
           "subconscious",
           "attention",
           "ingrained"
-        ]
+        ],
+        "subject": "shadowSelf"
       },
       "images": [
         {
@@ -45858,7 +45885,8 @@
           "psychological",
           "eyeglasses.",
           "fascinating"
-        ]
+        ],
+        "subject": "mask"
       },
       "images": [
         {
@@ -45885,7 +45913,8 @@
           "evaluation",
           "themselves",
           "physical"
-        ]
+        ],
+        "subject": "mask"
       },
       "images": []
     },
@@ -45933,7 +45962,8 @@
           "methodically",
           "immediately",
           "answering"
-        ]
+        ],
+        "subject": "rocketLaunch"
       },
       "images": []
     },
@@ -46653,7 +46683,8 @@
           "squaring",
           "opponent",
           "exposing"
-        ]
+        ],
+        "subject": "war"
       },
       "images": []
     },
@@ -46690,10 +46721,10 @@
       "fromFrame": 38901,
       "durationFrames": 137,
       "props": {
-        "text": "the person subtly angles their body 45\u00b0 away from you. They are physically shielding themselves from whatever you are And",
+        "text": "the person subtly angles their body 45° away from you. They are physically shielding themselves from whatever you are And",
         "kicker": "",
         "emphasis": [
-          "45\u00b0",
+          "45°",
           "THEMSELVES"
         ],
         "items": [],
@@ -46866,7 +46897,8 @@
           "already",
           "hallway.",
           "meeting"
-        ]
+        ],
+        "subject": "mask"
       },
       "images": [
         {
@@ -46938,7 +46970,8 @@
           "classic.",
           "before",
           "itself"
-        ]
+        ],
+        "subject": "phone"
       },
       "images": [
         {
@@ -47082,7 +47115,8 @@
           "communicate",
           "scientific",
           "movements"
-        ]
+        ],
+        "subject": "shadowSelf"
       },
       "images": [
         {
@@ -47109,7 +47143,8 @@
           "encapsulates",
           "subconscious",
           "conversation"
-        ]
+        ],
+        "subject": "school"
       },
       "images": []
     },
@@ -47130,7 +47165,8 @@
           "student",
           "impress",
           "trying"
-        ]
+        ],
+        "subject": "school"
       },
       "images": [
         {
@@ -47157,7 +47193,8 @@
           "millisecond",
           "vigorously",
           "specific"
-        ]
+        ],
+        "subject": "school"
       },
       "images": []
     },
@@ -47178,7 +47215,8 @@
           "immediately",
           "interrupted",
           "professor"
-        ]
+        ],
+        "subject": "phone"
       },
       "images": []
     },
@@ -47220,7 +47258,8 @@
           "incredibly",
           "finished",
           "telling"
-        ]
+        ],
+        "subject": "rocketLaunch"
       },
       "images": [
         {
@@ -47295,7 +47334,8 @@
           "sophisticated",
           "neurological",
           "primitive"
-        ]
+        ],
+        "subject": "school"
       },
       "images": []
     },
@@ -47316,7 +47356,8 @@
           "subconscious",
           "deceiving",
           "college"
-        ]
+        ],
+        "subject": "shadowSelf"
       },
       "images": []
     },
@@ -47406,7 +47447,8 @@
           "physically",
           "capillary",
           "pressure"
-        ]
+        ],
+        "subject": "phone"
       },
       "images": [
         {
@@ -47433,7 +47475,8 @@
           "pinocchio",
           "effect.",
           "physiological"
-        ]
+        ],
+        "subject": "phone"
       },
       "images": []
     },
@@ -47454,7 +47497,8 @@
           "psychological",
           "subconscious",
           "synergizes"
-        ]
+        ],
+        "subject": "shadowSelf"
       },
       "images": [
         {
@@ -47481,7 +47525,8 @@
           "literally",
           "reality.",
           "fighting"
-        ]
+        ],
+        "subject": "war"
       },
       "images": []
     },
@@ -47693,7 +47738,8 @@
           "subconsciously",
           "unthreatened",
           "environment."
-        ]
+        ],
+        "subject": "shield"
       },
       "images": [
         {
@@ -47768,7 +47814,8 @@
           "thousands.",
           "executives",
           "seminars."
-        ]
+        ],
+        "subject": "rocketLaunch"
       },
       "images": []
     },
@@ -48008,7 +48055,8 @@
           "anthropologists",
           "suddenly",
           "invading"
-        ]
+        ],
+        "subject": "phone"
       },
       "images": []
     },
@@ -48383,7 +48431,8 @@
           "recognizable",
           "universally",
           "brilliant"
-        ]
+        ],
+        "subject": "photo"
       },
       "images": []
     },
@@ -48803,7 +48852,8 @@
           "frustration",
           "willpower",
           "contained"
-        ]
+        ],
+        "subject": "phone"
       },
       "images": []
     },
@@ -48827,7 +48877,8 @@
           "response.",
           "cognitive",
           "directly"
-        ]
+        ],
+        "subject": "phone"
       },
       "images": []
     },
@@ -48848,7 +48899,8 @@
           "have",
           "emotionally.",
           "shattered"
-        ]
+        ],
+        "subject": "mask"
       },
       "images": []
     },
@@ -48896,7 +48948,8 @@
           "frustration",
           "demanding",
           "recognize"
-        ]
+        ],
+        "subject": "phone"
       },
       "images": []
     },
@@ -48965,7 +49018,8 @@
           "philosophical",
           "broadcasting",
           "violently"
-        ]
+        ],
+        "subject": "photo"
       },
       "images": [
         {
@@ -49187,7 +49241,8 @@
           "defensiveness",
           "broadcasting",
           "subconscious"
-        ]
+        ],
+        "subject": "shadowSelf"
       },
       "images": []
     },
@@ -49235,7 +49290,8 @@
           "immediately.",
           "subconscious",
           "authors"
-        ]
+        ],
+        "subject": "shadowSelf"
       },
       "images": []
     },
@@ -49256,7 +49312,8 @@
           "negotiation.",
           "subconscious",
           "incredibly"
-        ]
+        ],
+        "subject": "shadowSelf"
       },
       "images": [
         {
@@ -49400,7 +49457,8 @@
           "subconscious",
           "non-verbal",
           "broadcast."
-        ]
+        ],
+        "subject": "shadowSelf"
       },
       "images": [
         {
@@ -49475,7 +49533,8 @@
           "listener",
           "because",
           "tension"
-        ]
+        ],
+        "subject": "shadowSelf"
       },
       "images": []
     },
@@ -49523,7 +49582,8 @@
           "absolutely",
           "arrogance.",
           "readader."
-        ]
+        ],
+        "subject": "coffee"
       },
       "images": []
     },
@@ -49634,7 +49694,8 @@
           "manipulation",
           "outright",
           "weapon."
-        ]
+        ],
+        "subject": "war"
       },
       "images": [
         {
@@ -49661,7 +49722,8 @@
           "looking",
           "successfully",
           "weaknesses"
-        ]
+        ],
+        "subject": "phone"
       },
       "images": []
     },
@@ -49709,7 +49771,8 @@
           "understanding",
           "extract.",
           "exactly."
-        ]
+        ],
+        "subject": "target"
       },
       "images": []
     },
@@ -49826,7 +49889,8 @@
           "communication",
           "non-verbal",
           "inherently"
-        ]
+        ],
+        "subject": "target"
       },
       "images": [
         {
@@ -49853,7 +49917,8 @@
           "using",
           "everything.",
           "knowledge"
-        ]
+        ],
+        "subject": "game"
       },
       "images": []
     },
@@ -49997,7 +50062,8 @@
           "provocation",
           "negotiation",
           "thought"
-        ]
+        ],
+        "subject": "family"
       },
       "images": []
     },
@@ -50045,7 +50111,8 @@
           "notice",
           "physical",
           "leakage."
-        ]
+        ],
+        "subject": "photo"
       },
       "images": []
     },

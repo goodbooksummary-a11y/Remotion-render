@@ -1,0 +1,4387 @@
+{
+  "slug": "happiness-trap",
+  "authored": false,
+  "briefs": [
+    {
+      "fp": "514zq1",
+      "i": 0,
+      "from": 0,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "You step in quicksand. Every instinct screams three rash. Kick, grab, fight your way out. And that instinct is exactly what pulls you under and kills you. The only"
+    },
+    {
+      "fp": "1isrwkq",
+      "i": 1,
+      "from": 292,
+      "subject": "Harris — war",
+      "entities": [
+        "harris"
+      ],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Harris"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": [
+          "harris"
+        ]
+      },
+      "_said": "only way to survive is to do the one thing that feels insane. You stop fighting, lie back, spread out. Russ Harris says, \"Your anxiety works exactly the same Yeah, it really is. It"
+    },
+    {
+      "fp": "vp1eks",
+      "i": 2,
+      "from": 621,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "completely counterintuitive reality. And that's what makes his book, The Happiness Trap, so I don't know,"
+    },
+    {
+      "fp": "1vjzr78",
+      "i": 3,
+      "from": 792,
+      "subject": "Acceptance — medical",
+      "entities": [
+        "acceptance"
+      ],
+      "concept": "medical",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Acceptance"
+      },
+      "antidote": {
+        "concept": "medical",
+        "set": null,
+        "cast": [
+          "acceptance"
+        ]
+      },
+      "_said": "know, deeply unsettling, but also incredibly liberating once you actually get it. liberating, right? Because we've been doing this deep dive into acceptance and commitment therapy,"
+    },
+    {
+      "fp": "1m9ndwm",
+      "i": 4,
+      "from": 1029,
+      "subject": "medical",
+      "entities": [],
+      "concept": "medical",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "medical"
+      },
+      "antidote": {
+        "concept": "medical",
+        "set": null,
+        "cast": []
+      },
+      "_said": "therapy, ACT for short, and the core thesis of this whole framework basically dismantles the entire modern self-help industry. Oh, completely. The argument is literally that the pu"
+    },
+    {
+      "fp": "1wufvbw",
+      "i": 5,
+      "from": 1435,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "itself. Yeah. Exactly. Everything society has trained us to do when we feel something painful, you know, fight it, fix it, distract"
+    },
+    {
+      "fp": "ztj9i",
+      "i": 6,
+      "from": 1615,
+      "subject": "mirror",
+      "entities": [],
+      "concept": "mirror",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "mirror"
+      },
+      "antidote": {
+        "concept": "mirror",
+        "set": null,
+        "cast": []
+      },
+      "_said": "distract ourselves, chant positive affirmations in the mirror, that is the thrashing. That is exactly what tightens the quicksand around your chest."
+    },
+    {
+      "fp": "1jwgeaw",
+      "i": 7,
+      "from": 1819,
+      "subject": "Acceptance",
+      "entities": [
+        "acceptance"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Acceptance"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "acceptance"
+        ]
+      },
+      "_said": "chest. Right? And I want to draw a really hard line in the sand right away because the minute people hear acceptance"
+    },
+    {
+      "fp": "1qntxzz",
+      "i": 8,
+      "from": 1994,
+      "subject": "Acceptance — medical",
+      "entities": [
+        "acceptance"
+      ],
+      "concept": "medical",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Acceptance"
+      },
+      "antidote": {
+        "concept": "medical",
+        "set": null,
+        "cast": [
+          "acceptance"
+        ]
+      },
+      "_said": "acceptance and commitment therapy, they immediately lump it into that like good vibes only Oh, toxic positivity."
+    },
+    {
+      "fp": "2lycd5",
+      "i": 9,
+      "from": 2196,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "positivity. Yeah, exactly. They think it's about slapping a smile on a terrible"
+    },
+    {
+      "fp": "tvj1wg",
+      "i": 10,
+      "from": 2311,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "terrible situation. But this deep dive is the polar opposite of positive thinking."
+    },
+    {
+      "fp": "1moqfyh",
+      "i": 11,
+      "from": 2472,
+      "subject": "Harris — war",
+      "entities": [
+        "harris"
+      ],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Harris"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": [
+          "harris"
+        ]
+      },
+      "_said": "thinking. Toxic positivity is actually the enemy here. Right. Harris argues that you cannot control how you feel nearly as much as you think you can. You just can't."
+    },
+    {
+      "fp": "93pvtb",
+      "i": 12,
+      "from": 2724,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "can't. The cultural lie is that you should be the master of your emotions. You can't be. But you absolutely can control what you do. So for"
+    },
+    {
+      "fp": "mimge5",
+      "i": 13,
+      "from": 2949,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "for anyone listening right now, if we boil this entire paradigm down to one core rule, it is this. The struggle is the trap. To really grasp why that struggle"
+    },
+    {
+      "fp": "lztda1",
+      "i": 14,
+      "from": 3225,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "struggle is so destructive, I mean, we have to look at the mechanics of how a negative emotion actually processes in the body, right? versus how we interfere with it."
+    },
+    {
+      "fp": "j1e5tz",
+      "i": 15,
+      "from": 3475,
+      "subject": "Harris — phone",
+      "entities": [
+        "harris"
+      ],
+      "concept": "phone",
+      "place": "cafe",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Harris, cafe"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": "cafe",
+        "cast": [
+          "harris"
+        ]
+      },
+      "_said": "it. And Harris introduces this concept called"
+    },
+    {
+      "fp": "pozsbp",
+      "i": 16,
+      "from": 3530,
+      "subject": "alarmClock",
+      "entities": [],
+      "concept": "alarmClock",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "alarm clock"
+      },
+      "antidote": {
+        "concept": "alarmClock",
+        "set": null,
+        "cast": []
+      },
+      "_said": "called the struggle switch. Okay, let's ground that in a messy everyday scenario. So, imagine you are lying in bed."
+    },
+    {
+      "fp": "1cpcpd8",
+      "i": 17,
+      "from": 3821,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "It's 3:00 a.m. Your chest feels tight because you have this baseline layer"
+    },
+    {
+      "fp": "xcab5x",
+      "i": 18,
+      "from": 3974,
+      "subject": "wallet",
+      "entities": [],
+      "concept": "wallet",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "wallet, sitting there"
+      },
+      "antidote": {
+        "concept": "wallet",
+        "cast": []
+      },
+      "_said": "layer of financial stress. You know, the the mortgage is due, savings are low, whatever. The feeling is just sitting there, just a normal human reaction to a right? But then"
+    },
+    {
+      "fp": "1c5iu0",
+      "i": 19,
+      "from": 4286,
+      "subject": "alarmClock",
+      "entities": [],
+      "concept": "alarmClock",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "alarm clock"
+      },
+      "antidote": {
+        "concept": "alarmClock",
+        "set": null,
+        "cast": []
+      },
+      "_said": "then a secondary wave of heat washes over your body. You realize you are infuriated that you are stressed. You start doing the math on the alarm clock like I'm only going to get 3 "
+    },
+    {
+      "fp": "wth3xd",
+      "i": 20,
+      "from": 4565,
+      "subject": "alarmClock",
+      "entities": [],
+      "concept": "alarmClock",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "alarm clock"
+      },
+      "antidote": {
+        "concept": "alarmClock",
+        "set": null,
+        "cast": []
+      },
+      "_said": "sleep. My presentation tomorrow is going to be a disaster. And suddenly you are panicking about the panic."
+    },
+    {
+      "fp": "lsybfe",
+      "i": 21,
+      "from": 4711,
+      "subject": "water",
+      "entities": [],
+      "concept": "water",
+      "place": "shore",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "water, shore"
+      },
+      "antidote": {
+        "concept": "water",
+        "set": "shore",
+        "cast": []
+      },
+      "_said": "panic. Yeah. And that secondary wave that is the exact moment the struggle switch gets flipped on. Wow. Because when the switch is off, you just have what ACT calls clean pain."
+    },
+    {
+      "fp": "pdcas5",
+      "i": 22,
+      "from": 4975,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "leave it alone"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "pain. Clean pain is that baseline financial stress you mentioned. It's uncomfortable, sure, but it's a natural biological response to a real world issue, right? It makes sense to f"
+    },
+    {
+      "fp": "ra3k8e",
+      "i": 23,
+      "from": 5359,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "a very predictable half-life. They rise, they peak, and they metabolize right out"
+    },
+    {
+      "fp": "1iq8h41",
+      "i": 24,
+      "from": 5481,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "out of the nervous system. But when you flip that switch on, you look at a clean pain and your brain screams, \"This is unacceptable."
+    },
+    {
+      "fp": "p8vdxj",
+      "i": 25,
+      "from": 5690,
+      "subject": "fire",
+      "entities": [],
+      "concept": "fire",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "fire"
+      },
+      "antidote": {
+        "concept": "fire",
+        "cast": []
+      },
+      "_said": "unacceptable. I shouldn't feel this way.\" It's like having a small grease fire on your stove and your instinct to put it out involves throwing a blanket on it, but the blanket is s"
+    },
+    {
+      "fp": "4sxc4t",
+      "i": 26,
+      "from": 6038,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "is a phenomenal way to put it. You are adding combustible material to a totally contained event. When the struggle switches on, that clean pain instantly"
+    },
+    {
+      "fp": "1iaxfhj",
+      "i": 27,
+      "from": 6290,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "instantly transforms into a dirty spiral of suffering. The V spiral."
+    },
+    {
+      "fp": "1th661o",
+      "i": 28,
+      "from": 6403,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "spiral. Yeah. You get angry about your anxiety. Then you feel depressed about your then guilty for feeling depressed. Exactly. because you think, well, I have a good life. I should"
+    },
+    {
+      "fp": "5bft42",
+      "i": 29,
+      "from": 6665,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "depressed. You're generating these massive secondary and tertiary layers of pain entirely through the act of resistance. Which really begs the question, why is our default setting "
+    },
+    {
+      "fp": "9r8035",
+      "i": 30,
+      "from": 7010,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "I mean, if thrashing in the quicksand kills us, why is it our first instinct?"
+    },
+    {
+      "fp": "14t6t1m",
+      "i": 31,
+      "from": 7121,
+      "subject": "Harris",
+      "entities": [
+        "harris"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Harris"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "harris"
+        ]
+      },
+      "_said": "instinct? Harris points straight at evolutionary biology here, and I have to admit, this part of the book felt like a personal attack on my brain. Oh, I know the feeling. He basica"
+    },
+    {
+      "fp": "j7l3vn",
+      "i": 32,
+      "from": 7370,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "basically describes the human mind as a paranoia machine. It really is. We have to"
+    },
+    {
+      "fp": "1qljlqf",
+      "i": 33,
+      "from": 7577,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "to stop viewing the brain as a device designed to make us happy. It is a stone age don't get killed device."
+    },
+    {
+      "fp": "1r59qk",
+      "i": 34,
+      "from": 7764,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "carrying around in your skull evolved in environ"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "device. Don't get killed. The cognitive hardware you're carrying around in your skull evolved in environments of extreme constant physical danger. If an early human"
+    },
+    {
+      "fp": "1ujn88y",
+      "i": 35,
+      "from": 8044,
+      "subject": "road",
+      "entities": [],
+      "concept": "road",
+      "place": "highway",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "road, highway"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": "highway",
+        "cast": []
+      },
+      "_said": "human was wandering through the savannah and they were, you know, easily satisfied, relaxed, basking in the beauty of the they got eat by a saber-tooth tiger. They got eaten."
+    },
+    {
+      "fp": "wwta40",
+      "i": 36,
+      "from": 8292,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "eaten. The ancestors who survived, the ones who actually passed their genes down to us were the ones whose brains were hypervigilant threat right? A"
+    },
+    {
+      "fp": "1o7v7ff",
+      "i": 37,
+      "from": 8529,
+      "subject": "ledge",
+      "entities": [],
+      "concept": "ledge",
+      "place": "street",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "ledge, street"
+      },
+      "antidote": {
+        "concept": "ledge",
+        "set": "street",
+        "cast": []
+      },
+      "_said": "A false positive keeps you alive. If you see a stick in the grass and your brain screams snake, you jump back. You survive. If you see a snake and your brain says, \"Eh, probably ju"
+    },
+    {
+      "fp": "1kjus8h",
+      "i": 38,
+      "from": 8853,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "a stick. Stay positive.\" you die. So, we inherited a brain that is literally addicted to worst case And it goes beyond physical"
+    },
+    {
+      "fp": "k710xw",
+      "i": 39,
+      "from": 9081,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "physical predators, too. Think about the social dynamics of an ancient hunter gatherer tribe."
+    },
+    {
+      "fp": "1f6cbee",
+      "i": 40,
+      "from": 9233,
+      "subject": "grave",
+      "entities": [],
+      "concept": "grave",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "grave"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": null,
+        "cast": []
+      },
+      "_said": "tribe. Belonging to the group was a literal matter of life and death. Well, because if you were cast out, you starved or the wolves got you. So, your brain developed a fierce,"
+    },
+    {
+      "fp": "1245c6c",
+      "i": 41,
+      "from": 9520,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "fierce, relentless mechanism for social comparison and self-criticism. Am"
+    },
+    {
+      "fp": "1r4q8hm",
+      "i": 42,
+      "from": 9650,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Am I contributing enough? Does the clan leader like me? Am I going to be Fast forward to today and we don't have saber-tooth tigers, but we"
+    },
+    {
+      "fp": "10jdxu2",
+      "i": 43,
+      "from": 9895,
+      "subject": "coffee",
+      "entities": [],
+      "concept": "coffee",
+      "place": "cafe",
+      "confidence": 0.6,
+      "vox": {
+        "shot": "coffee, cafe"
+      },
+      "antidote": {
+        "concept": "coffee",
+        "set": "cafe",
+        "cast": []
+      },
+      "_said": "we have performance reviews, right? We have awkward interactions at the coffee shop. We have social media where we can compare our tribal status to 8 billion other people instead o"
+    },
+    {
+      "fp": "x9hbew",
+      "i": 44,
+      "from": 10245,
+      "subject": "alarmClock",
+      "entities": [],
+      "concept": "alarmClock",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "alarm clock"
+      },
+      "antidote": {
+        "concept": "alarmClock",
+        "set": null,
+        "cast": []
+      },
+      "_said": "center, processes a critical email from your boss with the exact same neurochemical alarm system as a stalking"
+    },
+    {
+      "fp": "1c79jsn",
+      "i": 45,
+      "from": 10420,
+      "subject": "grave",
+      "entities": [],
+      "concept": "grave",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "grave"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": null,
+        "cast": []
+      },
+      "_said": "stalking predator. It floods your body with adrenaline and cortisol. The stakes feel like literal death. And this is"
+    },
+    {
+      "fp": "18gtyrd",
+      "i": 46,
+      "from": 10608,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "is the foundational truth that the happiness industry ignores. A normal, healthy human mind naturally"
+    },
+    {
+      "fp": "13dch0d",
+      "i": 47,
+      "from": 10773,
+      "subject": "work",
+      "entities": [],
+      "concept": "work",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "work"
+      },
+      "antidote": {
+        "concept": "work",
+        "set": null,
+        "cast": []
+      },
+      "_said": "naturally manufactures suffering. It is doing its job. You are not broken if you are unhappy. That is such"
+    },
+    {
+      "fp": "58i90z",
+      "i": 48,
+      "from": 10958,
+      "subject": "water",
+      "entities": [],
+      "concept": "water",
+      "place": "shore",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "water, shore"
+      },
+      "antidote": {
+        "concept": "water",
+        "set": "shore",
+        "cast": []
+      },
+      "_said": "such a profound relief to hear because the cultural water we swim in tells us the exact opposite. The myth is"
+    },
+    {
+      "fp": "uac41m",
+      "i": 49,
+      "from": 11160,
+      "subject": "medical",
+      "entities": [],
+      "concept": "medical",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "medical"
+      },
+      "antidote": {
+        "concept": "medical",
+        "set": null,
+        "cast": []
+      },
+      "_said": "is that happiness is our natural state of being and if you aren't happy, you are you need a pill, a retreat, a new morning routine or like"
+    },
+    {
+      "fp": "uyg2sy",
+      "i": 50,
+      "from": 11400,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "like a different mindset. And believing that myth is exactly what flips the struggle switch. If you believe you're supposed to be happy, then any arrival of sadness or anxiety feel"
+    },
+    {
+      "fp": "1l3pduf",
+      "i": 51,
+      "from": 11760,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "so you start thrashing. The struggle, not the feeling, is the trap. The sadness is just biological weather. The panic about"
+    },
+    {
+      "fp": "10bf65v",
+      "i": 52,
+      "from": 11952,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "about the sadness is what ruins your week. Which brings us into the core mechanical failure of how we live our lives."
+    },
+    {
+      "fp": "nbuq2o",
+      "i": 53,
+      "from": 12122,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "lives. Because we have these stone age minds generating endless streams of terrible, uncomfortable feelings. Our modern problem-solving brains decide to take control."
+    },
+    {
+      "fp": "q4t3w6",
+      "i": 54,
+      "from": 12384,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "control. We implement the control The fix it mentality. And I'll be honest, this is where I struggle the most personally because in almost every other area of life,"
+    },
+    {
+      "fp": "17234ny",
+      "i": 55,
+      "from": 12643,
+      "subject": "car",
+      "entities": [],
+      "concept": "car",
+      "place": "street",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "car, street"
+      },
+      "antidote": {
+        "concept": "car",
+        "set": "street",
+        "cast": []
+      },
+      "_said": "life, control works beautifully. It does. If the power on my car goes flat, I don't just, you know, accept the flat tire. I get a jack. I take the tire off. I put a new one on."
+    },
+    {
+      "fp": "uq15wv",
+      "i": 56,
+      "from": 12919,
+      "subject": "storm",
+      "entities": [],
+      "concept": "storm",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "storm"
+      },
+      "antidote": {
+        "concept": "storm",
+        "set": null,
+        "cast": []
+      },
+      "_said": "on. Problem solved. If it starts pouring rain, I build a shelter or open an umbrella."
+    },
+    {
+      "fp": "1g5p53j",
+      "i": 57,
+      "from": 13049,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "umbrella. Right? We are the apex species of this planet entirely because we mastered controlling our external environment. Exactly. So why doesn't that work here?"
+    },
+    {
+      "fp": "vneu0s",
+      "i": 58,
+      "from": 13317,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "here? Because it's the ultimate cognitive"
+    },
+    {
+      "fp": "1xf3xrl",
+      "i": 59,
+      "from": 13380,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "cognitive illusion. We assume that because control works flawlessly in the external"
+    },
+    {
+      "fp": "dseu0t",
+      "i": 60,
+      "from": 13529,
+      "subject": "road",
+      "entities": [],
+      "concept": "road",
+      "place": "highway",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "road, highway"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": "highway",
+        "cast": []
+      },
+      "_said": "external physical world. It should map perfectly onto our internal psychological world. We think we can patch a leaky emotion the way we patch a leaky pipe. But the internal world "
+    },
+    {
+      "fp": "tapgss",
+      "i": 61,
+      "from": 13836,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "on totally different rules. completely inverted physics. Inside your mind, control doesn't just fail, it actively creates the outcome you were trying to The classic"
+    },
+    {
+      "fp": "1k02yag",
+      "i": 62,
+      "from": 14119,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "classic psychological demonstrations of this are so frustratingly accurate."
+    },
+    {
+      "fp": "16hz0xt",
+      "i": 63,
+      "from": 14265,
+      "subject": "Harris",
+      "entities": [
+        "harris"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Harris"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "harris"
+        ]
+      },
+      "_said": "Harris talks about suppression. Let's do it right now. If I tell you, the listener, whatever you do, do not think about a massive towering ice cream cone. Oh boy. Do not think abou"
+    },
+    {
+      "fp": "ky4w74",
+      "i": 64,
+      "from": 14647,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "think about the vanilla melting down the sides. refuse to picture"
+    },
+    {
+      "fp": "1yyinyd",
+      "i": 65,
+      "from": 14743,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "picture it. Well, the only way to ensure you weren't thinking about the ice cream cone is for your brain to constantly check in and ask, \"Am I thinking about the ice cream which me"
+    },
+    {
+      "fp": "utfhxx",
+      "i": 66,
+      "from": 15206,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "experiment by Daniel Wegner. Suppression guarantees obsession. The brain's monitoring process hijacks the very thing it was trying to block. Go back to that 3:00"
+    },
+    {
+      "fp": "1jb1fnl",
+      "i": 67,
+      "from": 15477,
+      "subject": "alarmClock",
+      "entities": [],
+      "concept": "alarmClock",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "alarm clock"
+      },
+      "antidote": {
+        "concept": "alarmClock",
+        "set": null,
+        "cast": []
+      },
+      "_said": "3:00 a.m. insomnia scenario. The harder you demand that your brain shut down, the harder you squeeze your eyes shut and command your body to relax. What actually happens? Your nerv"
+    },
+    {
+      "fp": "1vxpu86",
+      "i": 68,
+      "from": 15823,
+      "subject": "alarmClock",
+      "entities": [],
+      "concept": "alarmClock",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "alarm clock"
+      },
+      "antidote": {
+        "concept": "alarmClock",
+        "set": null,
+        "cast": []
+      },
+      "_said": "sleep as a highstakes performance task. The pressure to relax generates adrenaline."
+    },
+    {
+      "fp": "cbm6ze",
+      "i": 69,
+      "from": 15960,
+      "subject": "Harris",
+      "entities": [
+        "harris"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Harris"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "harris"
+        ]
+      },
+      "_said": "adrenaline. You become wired, agitated, and hyperaroused entirely because you are trying to force Harris has this vivid"
+    },
+    {
+      "fp": "1vvfati",
+      "i": 70,
+      "from": 16248,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": "cafe",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone, hold a giant, cafe"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": "cafe",
+        "cast": []
+      },
+      "_said": "vivid metaphor in the text that captures this physical toll. He says, \"Pushing your painful feelings away is like trying to hold a giant, fully inflated beach ball"
+    },
+    {
+      "fp": "xeb2la",
+      "i": 71,
+      "from": 16524,
+      "subject": "water",
+      "entities": [],
+      "concept": "water",
+      "place": "shore",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "water, hold a beach ball underwater at a pool, shore"
+      },
+      "antidote": {
+        "concept": "water",
+        "set": "shore",
+        "cast": []
+      },
+      "_said": "ball underwater.\" Think about the mechanics of that. If you've ever actually tried to hold a beach ball underwater at a pool, it requires an immense amount"
+    },
+    {
+      "fp": "193wxbo",
+      "i": 72,
+      "from": 16749,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "amount of continuous downward force. Yeah, your shoulders are engaged. Your core is tight. Your hands are constantly adjusting to keep it balanced. You can do it for a while, but i"
+    },
+    {
+      "fp": "cifd8n",
+      "i": 73,
+      "from": 17040,
+      "subject": "water",
+      "entities": [],
+      "concept": "water",
+      "place": "shore",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "water, shore"
+      },
+      "antidote": {
+        "concept": "water",
+        "set": "shore",
+        "cast": []
+      },
+      "_said": "massive percentage of your cognitive and physical bandwidth. You can't enjoy the pool party. No, you can't swim. You are entirely"
+    },
+    {
+      "fp": "10xkv6r",
+      "i": 74,
+      "from": 17213,
+      "subject": "gift",
+      "entities": [],
+      "concept": "gift",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "gift"
+      },
+      "antidote": {
+        "concept": "gift",
+        "cast": []
+      },
+      "_said": "entirely occupied by the task of suppression. And the second you lose your grip or the second your arms just give out from sheer muscular failure, what happens? That beach ball vio"
+    },
+    {
+      "fp": "1dhzlve",
+      "i": 75,
+      "from": 17488,
+      "subject": "water",
+      "entities": [],
+      "concept": "water",
+      "place": "shore",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "water, shore"
+      },
+      "antidote": {
+        "concept": "water",
+        "set": "shore",
+        "cast": []
+      },
+      "_said": "violently erupts out of the water and smacks you right in the The anxiety comes back 10 times harder than if you would just let it float"
+    },
+    {
+      "fp": "7lwras",
+      "i": 76,
+      "from": 17700,
+      "subject": "home",
+      "entities": [],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "home"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": []
+      },
+      "_said": "float on the surface to begin with. And to truly hammer home the biological"
+    },
+    {
+      "fp": "1adlhoo",
+      "i": 77,
+      "from": 17810,
+      "subject": "Harris",
+      "entities": [
+        "harris"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Harris"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "harris"
+        ]
+      },
+      "_said": "biological impossibility of the control agenda, Harris presents the polygraph thought experiment. It is just"
+    },
+    {
+      "fp": "efvs70",
+      "i": 78,
+      "from": 17995,
+      "subject": "heart",
+      "entities": [],
+      "concept": "heart",
+      "place": "cafe",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "heart, cafe"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": "cafe",
+        "cast": []
+      },
+      "_said": "just brilliant in its extremity. Oh, I love this one. Imagine you are kidnapped by a super villain, strapped into a chair, and hooked up to the world's most sensitive polygraph mac"
+    },
+    {
+      "fp": "o1dc92",
+      "i": 79,
+      "from": 18319,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "measures micrfluctuations in your sweat glands, your heart rate variability, your blood Okay, terrified already."
+    },
+    {
+      "fp": "1ds6wez",
+      "i": 80,
+      "from": 18504,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "already. The villain puts his hand on a red lever and says, \"If this machine detects a single microscopic ounce of anxiety in your nervous system, I will pull this lever"
+    },
+    {
+      "fp": "81o5e",
+      "i": 81,
+      "from": 18825,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "lever and electrocute you with 1 million volts. Your survival depends entirely on you remaining 100% calm. You would be completely fry before you even finish"
+    },
+    {
+      "fp": "1e6f4uv",
+      "i": 82,
+      "from": 19101,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "finish the sentence. Exactly. The stakes of the demand create the anxiety. The closed loop is unbreakable."
+    },
+    {
+      "fp": "164tdxn",
+      "i": 83,
+      "from": 19276,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "arrive at this terrifying intersection"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "unbreakable. The requirement to not feel the thing is the exact mechanism that generates the thing. So we arrive at this terrifying intersection. We have a"
+    },
+    {
+      "fp": "1rq7uxq",
+      "i": 84,
+      "from": 19502,
+      "subject": "fire",
+      "entities": [],
+      "concept": "fire",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "fire"
+      },
+      "antidote": {
+        "concept": "fire",
+        "cast": []
+      },
+      "_said": "a brain designed to make us anxious. We have a culture telling us we shouldn't be anxious. And the tool we use to try to fix it control acts like gasoline on a fire. We are stuck"
+    },
+    {
+      "fp": "1wa5xq",
+      "i": 85,
+      "from": 19776,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "stuck in the quicksand. So, how do we stop these thoughts from completely ruining our lives if we can't suppress them or positive think them We have to fundamentally alter"
+    },
+    {
+      "fp": "1nbcxdn",
+      "i": 86,
+      "from": 20049,
+      "subject": "heart",
+      "entities": [],
+      "concept": "heart",
+      "place": "cafe",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "heart, cafe"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": "cafe",
+        "cast": []
+      },
+      "_said": "alter our relationship to the noise in our heads. We have to stop treating thoughts as threats that require a fight orflight response. And the first real actionable tool"
+    },
+    {
+      "fp": "1kputv2",
+      "i": 87,
+      "from": 20313,
+      "subject": "Harris",
+      "entities": [
+        "harris"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Harris"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "harris"
+        ]
+      },
+      "_said": "tool Harris gives us in ACT is Cognitive diffusion. Right?"
+    },
+    {
+      "fp": "buihcy",
+      "i": 88,
+      "from": 20467,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Right? To understand this, we have to recognize our default state, which is cognitive fusion. When we are fused with our thoughts, there is no separation between the thinker and th"
+    },
+    {
+      "fp": "6yfbi",
+      "i": 89,
+      "from": 20745,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": "cafe",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone, sitting at your desk, cafe"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": "cafe",
+        "cast": []
+      },
+      "_said": "thought. Let's give a messy example of that. You are sitting at your desk. You open a work email and it's a critique from your manager on a project you spent weeks on. Your stomach"
+    },
+    {
+      "fp": "1kj8j81",
+      "i": 90,
+      "from": 21120,
+      "subject": "fire",
+      "entities": [],
+      "concept": "fire",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "fire"
+      },
+      "antidote": {
+        "concept": "fire",
+        "cast": []
+      },
+      "_said": "with this absolute burning certainty. I'm a complete failure. In that specific"
+    },
+    {
+      "fp": "vwp53a",
+      "i": 91,
+      "from": 21268,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "specific terrifying second, that thought doesn't feel like a string of vocabulary words. It feels as"
+    },
+    {
+      "fp": "quol88",
+      "i": 92,
+      "from": 21463,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "as heavy, as solid, and as dangerous as a brick flying at your Yes. When you are fused with the thought, you treat it as an absolute truth. You treat it as"
+    },
+    {
+      "fp": "uw5yor",
+      "i": 93,
+      "from": 21796,
+      "subject": "target",
+      "entities": [],
+      "concept": "target",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "target"
+      },
+      "antidote": {
+        "concept": "target",
+        "cast": []
+      },
+      "_said": "as an imperative command or an objective reality."
+    },
+    {
+      "fp": "1crnc64",
+      "i": 94,
+      "from": 21883,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Diffusion is the psychological process of unhooking the thought from the emotional payload. Unhooking it. It is the realization that a thought is not a brick. It cannot break your "
+    },
+    {
+      "fp": "1r63q2k",
+      "i": 95,
+      "from": 22245,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "just an electrical impulse triggering a series of sounds and images in a biological machine."
+    },
+    {
+      "fp": "2rz63w",
+      "i": 96,
+      "from": 22382,
+      "subject": "Harris — gift",
+      "entities": [
+        "harris"
+      ],
+      "concept": "gift",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Harris"
+      },
+      "antidote": {
+        "concept": "gift",
+        "cast": [
+          "harris"
+        ]
+      },
+      "_said": "machine. It's your stone age reason giving machine spitting out data. And the techniques Harris outlines for this are almost shockingly simple. When that heavy thought hits you, I "
+    },
+    {
+      "fp": "13szx4c",
+      "i": 97,
+      "from": 22735,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "create psychological distance by just inserting a single phrase in front of"
+    },
+    {
+      "fp": "qqkh1m",
+      "i": 98,
+      "from": 22860,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "of it. Would it you mentally say I'm having the thought that I'm a failure. Let's look at the cognitive shift there. I am a failure is a statement of total identity. It consumes yo"
+    },
+    {
+      "fp": "1dk4ama",
+      "i": 99,
+      "from": 23186,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "failure. Changes your position in space. You are no longer the thought itself. You are the observer of the thought. You have created a buffer zone."
+    },
+    {
+      "fp": "1rg19ou",
+      "i": 100,
+      "from": 23407,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": "cafe",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone, cafe"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": "cafe",
+        "cast": []
+      },
+      "_said": "zone. It's like the difference between being trapped inside a movie theater where the screen is wrapping around"
+    },
+    {
+      "fp": "1hu18a9",
+      "i": 101,
+      "from": 23532,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "standing in the projection booth watching the fi"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "around you. Yeah. Versus standing in the projection booth watching the film run through the machine. You can see the mechanics of Yes. And if you want to push that distance even fu"
+    },
+    {
+      "fp": "1jfzg4f",
+      "i": 102,
+      "from": 23815,
+      "subject": "Harris",
+      "entities": [
+        "harris"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Harris"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "harris"
+        ]
+      },
+      "_said": "further, Harris suggests techniques that feel totally absurd, but are rooted in deep neurological pattern interruption. When your brain is screaming your darkest, most painful"
+    },
+    {
+      "fp": "1jt0ng6",
+      "i": 103,
+      "from": 24093,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "painful self-judgments, you don't debate them. You sing them. This felt completely ridiculous to read, but I actually tried"
+    },
+    {
+      "fp": "upmiss",
+      "i": 104,
+      "from": 24288,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "tried it. Did you really? I did. You take the phrase, \"I am a complete"
+    },
+    {
+      "fp": "efy336",
+      "i": 105,
+      "from": 24388,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "complete failure,\" and you sing it out loud or in your head to the tune of happy birthday. Like,"
+    },
+    {
+      "fp": "19vgm9y",
+      "i": 106,
+      "from": 24554,
+      "subject": "home",
+      "entities": [],
+      "concept": "home",
+      "place": "kitchen",
+      "confidence": 0.6,
+      "vox": {
+        "shot": "home, kitchen"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": "kitchen",
+        "cast": []
+      },
+      "_said": "Like, happy birthday to me. I'm a failure. You see? And what The first time I did it, I actually laughed out loud in my kitchen. The thought instantly loses all its gravity."
+    },
+    {
+      "fp": "1lqzf0m",
+      "i": 107,
+      "from": 24828,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "gravity. It evaporates back into just being The reason that works is because you are engaging different areas of the brain. You are taking a thought heavily"
+    },
+    {
+      "fp": "vtcega",
+      "i": 108,
+      "from": 25073,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "heavily associated with the amydala's threat response and you are processing it through melody, rhythm, and humor. You"
+    },
+    {
+      "fp": "121pm1o",
+      "i": 109,
+      "from": 25265,
+      "subject": "heart",
+      "entities": [],
+      "concept": "heart",
+      "place": "cafe",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "heart, cafe"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": "cafe",
+        "cast": []
+      },
+      "_said": "You are stripping the thought of its emotional authority without actually trying to change the content of the thought itself. Another one I love is treating your brain like an over"
+    },
+    {
+      "fp": "1lk1dzy",
+      "i": 110,
+      "from": 25610,
+      "subject": "Harris — phone",
+      "entities": [
+        "harris"
+      ],
+      "concept": "phone",
+      "place": "cafe",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Harris, cafe"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": "cafe",
+        "cast": [
+          "harris"
+        ]
+      },
+      "_said": "filter. Harris calls it the thanks mind That's a great one. When your mind starts cranking out all the catastrophic reasons you were going to bomb"
+    },
+    {
+      "fp": "1f2u146",
+      "i": 111,
+      "from": 25831,
+      "subject": "work",
+      "entities": [],
+      "concept": "work",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "work"
+      },
+      "antidote": {
+        "concept": "work",
+        "set": null,
+        "cast": []
+      },
+      "_said": "bomb an upcoming date or a job interview, you don't engage in a logical debate with it. You just playfully acknowledge it."
+    },
+    {
+      "fp": "3e97ld",
+      "i": 112,
+      "from": 26040,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "it. Thanks, mind. Wow, really creative doom scenario there. Appreciate the heads up, but I've got things to do. You are treating your mind like a slightly annoying"
+    },
+    {
+      "fp": "1rm0fe4",
+      "i": 113,
+      "from": 26277,
+      "subject": "car",
+      "entities": [],
+      "concept": "car",
+      "place": "street",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "car, street"
+      },
+      "antidote": {
+        "concept": "car",
+        "set": "street",
+        "cast": []
+      },
+      "_said": "annoying passenger in your car who keeps offering unsolicited driving advice. What is vital"
+    },
+    {
+      "fp": "1panbp3",
+      "i": 114,
+      "from": 26443,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "vital to understand here is what you are intentionally not doing. [snorts] You are not arguing with the thought. You aren't marshalling evidence to prove to yourself that you are i"
+    },
+    {
+      "fp": "1exoxtt",
+      "i": 115,
+      "from": 26745,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "a Because debating the thought means you are taking the thought seriously. You"
+    },
+    {
+      "fp": "u6x3nw",
+      "i": 116,
+      "from": 26889,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": "street",
+      "confidence": 0.35,
+      "vox": {
+        "shot": "walking because, street"
+      },
+      "antidote": {
+        "concept": null,
+        "set": "street",
+        "cast": []
+      },
+      "_said": "You are validating its premise. If someone on the street yells that you are an alien from Mars, you don't stop and show them your birth certificate to prove you're human, You just "
+    },
+    {
+      "fp": "1ca2oe0",
+      "i": 117,
+      "from": 27245,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "claim is irrelevant. Arguing with it is just wrestling in the quicksand again."
+    },
+    {
+      "fp": "c9f1s7",
+      "i": 118,
+      "from": 27355,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": "cafe",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone, cafe"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": "cafe",
+        "cast": []
+      },
+      "_said": "again. Diffusion means you don't have to believe the story your brain is telling you. But you also don't have to try to silence the storyteller. You just let the radio play in the "
+    },
+    {
+      "fp": "m7sfkn",
+      "i": 119,
+      "from": 27686,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": "cafe",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone, cafe"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": "cafe",
+        "cast": []
+      },
+      "_said": "email. Okay, I buy the diffusion for the mental chatter, the words in my head. But my biggest hang-up when going through this material was the physical sensation, the body."
+    },
+    {
+      "fp": "crenpt",
+      "i": 120,
+      "from": 27981,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "body. Yeah, we are biological creatures. The tightness in the chest, the nausea in the stomach, the hot flush of anger in the face, those"
+    },
+    {
+      "fp": "1kjfqyn",
+      "i": 121,
+      "from": 28190,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "those are visceral. I can't just happy birthday to a racing heart. How do we stop fighting the physical reality of the pain? That requires the shift from diffusion to expansion, wh"
+    },
+    {
+      "fp": "14o66x2",
+      "i": 122,
+      "from": 28528,
+      "subject": "Acceptance",
+      "entities": [
+        "acceptance"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Acceptance"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "acceptance"
+        ]
+      },
+      "_said": "the physical manifestation of acceptance. To"
+    },
+    {
+      "fp": "1fzud0i",
+      "i": 123,
+      "from": 28598,
+      "subject": "Harris",
+      "entities": [
+        "harris"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Harris"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "harris"
+        ]
+      },
+      "_said": "To really understand the mechanics of expansion, Harris uses a visual that I think is the most powerful metaphor in the entire ACT framework. The tugofwar with the monster. Oh, I"
+    },
+    {
+      "fp": "942sjx",
+      "i": 124,
+      "from": 28886,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "standing in thick mud"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "I kept visualizing this over and over. Picture this. You are standing in thick mud."
+    },
+    {
+      "fp": "1j0ucdq",
+      "i": 125,
+      "from": 29037,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "mud. Your hands are gripping a rough, heavy rope. Your heels are dug deep into the dirt. And on the other"
+    },
+    {
+      "fp": "7hfhgm",
+      "i": 126,
+      "from": 29193,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "standing across a massive"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "other side of this rope, standing across a massive, bottomless pit, is"
+    },
+    {
+      "fp": "pa23jp",
+      "i": 127,
+      "from": 29320,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "is a terrifying, ugly monster. And this monster is made of all your worst physical anxieties, your deepest sadness, the heaviest grief you carry. And it is pulling on that rope wit"
+    },
+    {
+      "fp": "1tih9q4",
+      "i": 128,
+      "from": 29721,
+      "subject": "fire",
+      "entities": [],
+      "concept": "fire",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "fire"
+      },
+      "antidote": {
+        "concept": "fire",
+        "cast": []
+      },
+      "_said": "naturally, you pull back, your hands are bleeding, your forearms are burning, you are absolutely"
+    },
+    {
+      "fp": "on7cvn",
+      "i": 129,
+      "from": 29844,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "absolutely exhausted, but you are pulling for your life. That is the ultimate visualization of the struggle switch being flipped on. As long as you are pulling on that rope, you ar"
+    },
+    {
+      "fp": "c8ehxt",
+      "i": 130,
+      "from": 30144,
+      "subject": "work",
+      "entities": [],
+      "concept": "work",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "work"
+      },
+      "antidote": {
+        "concept": "work",
+        "set": null,
+        "cast": []
+      },
+      "_said": "stuck at the absolute edge of the pit. You can't go anywhere, right? You can't hug your kids. You can't build a career because both of your hands are permanently"
+    },
+    {
+      "fp": "aal27o",
+      "i": 131,
+      "from": 30365,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "permanently occupied with this endless tugofwar. And here is the brutal,"
+    },
+    {
+      "fp": "a1b70",
+      "i": 132,
+      "from": 30552,
+      "subject": "trophy",
+      "entities": [],
+      "concept": "trophy",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "trophy"
+      },
+      "antidote": {
+        "concept": "trophy",
+        "cast": []
+      },
+      "_said": "brutal, unavoidable truth of the human condition. You will never pull the monster into the pit. You can't win. The monster"
+    },
+    {
+      "fp": "1subnm8",
+      "i": 133,
+      "from": 30770,
+      "subject": "medical",
+      "entities": [],
+      "concept": "medical",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "medical"
+      },
+      "antidote": {
+        "concept": "medical",
+        "set": null,
+        "cast": []
+      },
+      "_said": "monster has infinite stamina because the monster is you. So, what is the alternative? The instinct is to pull harder, to find a new therapy or a"
+    },
+    {
+      "fp": "1857r2v",
+      "i": 134,
+      "from": 31010,
+      "subject": "gift",
+      "entities": [],
+      "concept": "gift",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "gift"
+      },
+      "antidote": {
+        "concept": "gift",
+        "cast": []
+      },
+      "_said": "a new supplement to give you more strength to pull. But the exit strategy is radically different. You drop the rope. You literally just let go. You stop pulling. Now, we have to be"
+    },
+    {
+      "fp": "77fdeb",
+      "i": 135,
+      "from": 31313,
+      "subject": "Acceptance",
+      "entities": [
+        "acceptance"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Acceptance"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "acceptance"
+        ]
+      },
+      "_said": "next. Because this is where people completely misunderstand acceptance. Does dropping the rope make"
+    },
+    {
+      "fp": "1lrgvse",
+      "i": 136,
+      "from": 31471,
+      "subject": "ledge",
+      "entities": [],
+      "concept": "ledge",
+      "place": "street",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "ledge, holding its end of the rope, street"
+      },
+      "antidote": {
+        "concept": "ledge",
+        "set": "street",
+        "cast": []
+      },
+      "_said": "make the monster No. The monster is still there. It might still be yelling at you. It might still be holding its end of the rope, but you are no longer tethered to it. Your hands a"
+    },
+    {
+      "fp": "13701kw",
+      "i": 137,
+      "from": 31905,
+      "subject": "compass",
+      "entities": [],
+      "concept": "compass",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "compass, walk in a different direction"
+      },
+      "antidote": {
+        "concept": "compass",
+        "cast": []
+      },
+      "_said": "walk in a different direction. The struggle is the trap. The pulling is what keeps"
+    },
+    {
+      "fp": "1a138ei",
+      "i": 138,
+      "from": 32045,
+      "subject": "Harris — ledge",
+      "entities": [
+        "harris"
+      ],
+      "concept": "ledge",
+      "place": "street",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Harris, street"
+      },
+      "antidote": {
+        "concept": "ledge",
+        "set": "street",
+        "cast": [
+          "harris"
+        ]
+      },
+      "_said": "keeps you immobilized at the edge of the pit. I want to translate this into the physical body because Harris uses an exercise that blew my mind in"
+    },
+    {
+      "fp": "11u50z9",
+      "i": 139,
+      "from": 32268,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": "cafe",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone, cafe"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": "cafe",
+        "cast": []
+      },
+      "_said": "in its simplicity. The book exercise. Yes. He calls it expansion or making room for the feeling. If you take a heavy"
+    },
+    {
+      "fp": "7i79hz",
+      "i": 140,
+      "from": 32503,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "hold it out at arms length"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "heavy hard coverver book and you hold it out at arms length, locking your elbows, aggressively pushing it away from your torso, that is"
+    },
+    {
+      "fp": "1vlb0y3",
+      "i": 141,
+      "from": 32733,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "is struggle. That is what you are doing to your anxiety and your body pays the price. Your deltoids are going to shake, your back will ache and you will eventually"
+    },
+    {
+      "fp": "1bcn8ry",
+      "i": 142,
+      "from": 33000,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "eventually collapse from the sheer caloric output required to keep that heavy thing away from you. That is physical resistance. It requires active"
+    },
+    {
+      "fp": "182sg9r",
+      "i": 143,
+      "from": 33228,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "active continuous energy. Expansion is when you stop pushing. You don't throw the book away because you can't. The feelings belong to you."
+    },
+    {
+      "fp": "1pc6w8b",
+      "i": 144,
+      "from": 33417,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "you. Instead, you unlock your elbows. You bend your arms and you bring the heavy book down, dropping it gently into your lap. You let it rest there. It is still heavy. It is still "
+    },
+    {
+      "fp": "12kyaf8",
+      "i": 145,
+      "from": 33876,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "hold it at arms length"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "90% of your metabolic energy trying to hold it at arms length. That shift"
+    },
+    {
+      "fp": "1nhh2xq",
+      "i": 146,
+      "from": 33993,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "holding it out to dropping it in your lap is wh"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "shift from holding it out to dropping it in your lap is what we mean by making room."
+    },
+    {
+      "fp": "trcw51",
+      "i": 147,
+      "from": 34140,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "room. In psychological terms, it's about inception. Instead of tensing your muscles around the tight chest or the nauseous stomach, you consciously relax the tissue around"
+    },
+    {
+      "fp": "x11qve",
+      "i": 148,
+      "from": 34408,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "around the sensation. You breathe into it. You expand around it, treating it like a curious physical object rather than a lethal threat. You allow it to occupy space inside you whi"
+    },
+    {
+      "fp": "etmgpp",
+      "i": 149,
+      "from": 34814,
+      "subject": "chains",
+      "entities": [],
+      "concept": "chains",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "chains"
+      },
+      "antidote": {
+        "concept": "chains",
+        "cast": []
+      },
+      "_said": "around It's like a Chinese finger trap. The harder you pull to escape"
+    },
+    {
+      "fp": "4gf2wh",
+      "i": 150,
+      "from": 34908,
+      "subject": "chains",
+      "entities": [],
+      "concept": "chains",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "chains"
+      },
+      "antidote": {
+        "concept": "chains",
+        "cast": []
+      },
+      "_said": "escape the sensation, the tighter it constricts around your finger. The only way to get your finger out is to push into the trap."
+    },
+    {
+      "fp": "26xq3b",
+      "i": 151,
+      "from": 35088,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "trap. You lean into the discomfort, create space, and suddenly you can slip out. Beautifully put. And this ability to step back and observe the feeling without getting tangled in i"
+    },
+    {
+      "fp": "1u9rkmw",
+      "i": 152,
+      "from": 35421,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "profound philosophical concept in act. The observing self, the sky and the weather. This fundamentally changed how I view my own"
+    },
+    {
+      "fp": "1slhzfx",
+      "i": 153,
+      "from": 35671,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "own Tell me about it. It separates who you are from what you feel."
+    },
+    {
+      "fp": "osaafh",
+      "i": 154,
+      "from": 35774,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "feel. Think about the sky. The weather is constantly changing. Sometimes it's sunny and 75°."
+    },
+    {
+      "fp": "1qwp3nl",
+      "i": 155,
+      "from": 35942,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Sometimes it's a dreary cold drizzle. And sometimes there is a category 5 hurricane violently ripping"
+    },
+    {
+      "fp": "1802mkk",
+      "i": 156,
+      "from": 36189,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "ripping through the atmosphere. Your thoughts, your feelings, your bodily sensations, they are the weather. But you,"
+    },
+    {
+      "fp": "hsy5nc",
+      "i": 157,
+      "from": 36386,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "you, the awareness, the part of you that notices the thoughts, the part that feels the feelings, you are not the weather. You are the sky. I am"
+    },
+    {
+      "fp": "1xy6ivy",
+      "i": 158,
+      "from": 36600,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "am not the hurricane. I am the space in which the hurricane"
+    },
+    {
+      "fp": "1nmt7th",
+      "i": 159,
+      "from": 36665,
+      "subject": "storm",
+      "entities": [],
+      "concept": "storm",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "storm"
+      },
+      "antidote": {
+        "concept": "storm",
+        "set": null,
+        "cast": []
+      },
+      "_said": "hurricane has happened. Exactly. And no matter how violent the hurricane gets, no matter how dark the storm clouds are, the storm cannot permanently damage the sky. The sky"
+    },
+    {
+      "fp": "1pydvt3",
+      "i": 160,
+      "from": 36928,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "holds it"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "sky has infinite room for all kinds of weather. It just holds it, lets it pass through and remains fundamentally unchanged. When you tap into"
+    },
+    {
+      "fp": "14z9o7d",
+      "i": 161,
+      "from": 37140,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "into the observing self, you can step back from a catastrophic panic attack and say, \"I am not this panic. I"
+    },
+    {
+      "fp": "5v1v5k",
+      "i": 162,
+      "from": 37327,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": "cafe",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone, cafe"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": "cafe",
+        "cast": []
+      },
+      "_said": "I am the awareness in which this panic is temporarily occurring.\" And the most crucial element of the observing self is that it only exists in one place right now. The text hits th"
+    },
+    {
+      "fp": "wdflly",
+      "i": 163,
+      "from": 37733,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Our default mode network in the brain is constantly dragging us into the past to replay"
+    },
+    {
+      "fp": "khsaju",
+      "i": 164,
+      "from": 37886,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "replay a thunderstorm from five years ago or projecting us into the future to brace for a hurricane that might hit next week. Which means you are completely"
+    },
+    {
+      "fp": "154cjfs",
+      "i": 165,
+      "from": 38112,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, sitting in a beautiful park eating a great meal"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "completely missing the reality of the present moment. You could be sitting in a beautiful park eating a great meal with a friend, but mentally you are fighting a ghost"
+    },
+    {
+      "fp": "12aua6b",
+      "i": 166,
+      "from": 38381,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "from 2018. Life only ever happens now. The weather is only ever happening now. If you are lost in the past or"
+    },
+    {
+      "fp": "1kmvaev",
+      "i": 167,
+      "from": 38599,
+      "subject": "alarmClock",
+      "entities": [],
+      "concept": "alarmClock",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "alarm clock"
+      },
+      "antidote": {
+        "concept": "alarmClock",
+        "set": null,
+        "cast": []
+      },
+      "_said": "or the future, you are asleep at the wheel of your own life. Which forces a major transition in our deep dive here."
+    },
+    {
+      "fp": "184kcel",
+      "i": 168,
+      "from": 38841,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "here. Let's say a listener has mastered these tools. They are diffusing for their thoughts. They are expanding around their bodily sensations."
+    },
+    {
+      "fp": "bwu7vj",
+      "i": 169,
+      "from": 39053,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, stand by the pit for the rest of your life st"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "They are anchored in the present moment. They dropped the rope in the mud. Now what? Right? You can't just stand by the pit for the rest of your life staring at the monster. What d"
+    },
+    {
+      "fp": "8su2g4",
+      "i": 170,
+      "from": 39367,
+      "subject": "compass",
+      "entities": [],
+      "concept": "compass",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "compass"
+      },
+      "antidote": {
+        "concept": "compass",
+        "cast": []
+      },
+      "_said": "We need a direction. The entire point of stopping the struggle is to free up your hands so you can build something. This"
+    },
+    {
+      "fp": "irz661",
+      "i": 171,
+      "from": 39573,
+      "subject": "Acceptance — medical",
+      "entities": [
+        "acceptance"
+      ],
+      "concept": "medical",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Acceptance"
+      },
+      "antidote": {
+        "concept": "medical",
+        "set": null,
+        "cast": [
+          "acceptance"
+        ]
+      },
+      "_said": "This is the commitment part of acceptance and commitment therapy. And to establish that direction,"
+    },
+    {
+      "fp": "11uc0jk",
+      "i": 172,
+      "from": 39715,
+      "subject": "Harris — compass",
+      "entities": [
+        "harris"
+      ],
+      "concept": "compass",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Harris"
+      },
+      "antidote": {
+        "concept": "compass",
+        "cast": [
+          "harris"
+        ]
+      },
+      "_said": "direction, Harris makes a razor sharp distinction between goals and This"
+    },
+    {
+      "fp": "xta8g3",
+      "i": 173,
+      "from": 39852,
+      "subject": "target",
+      "entities": [],
+      "concept": "target",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "target"
+      },
+      "antidote": {
+        "concept": "target",
+        "cast": []
+      },
+      "_said": "This was another massive paradigm shift for me. Most of us are entirely goal we think goals and values are the exact same thing. Like my value"
+    },
+    {
+      "fp": "1umppal",
+      "i": 174,
+      "from": 40104,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "value is getting promoted to VP or my values losing 20 pounds or my values getting married. But those are goals, not values. And"
+    },
+    {
+      "fp": "mpum36",
+      "i": 175,
+      "from": 40356,
+      "subject": "target",
+      "entities": [],
+      "concept": "target",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "target"
+      },
+      "antidote": {
+        "concept": "target",
+        "cast": []
+      },
+      "_said": "And steering your life exclusively by goals is incredibly fragile. A goal is a"
+    },
+    {
+      "fp": "g4sxgz",
+      "i": 176,
+      "from": 40509,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "a fixed destination. It's an end point. And the problem with the destination is three-fold. First, it can be permanently blocked by reality. You want to"
+    },
+    {
+      "fp": "1r2ojbc",
+      "i": 177,
+      "from": 40730,
+      "subject": "target",
+      "entities": [],
+      "concept": "target",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "target, leaves you feeling worthless"
+      },
+      "antidote": {
+        "concept": "target",
+        "cast": []
+      },
+      "_said": "to be a professional athlete, but you blow out your knee. Goal over. Life ruined. Second, you can fail to achieve it, which leaves you feeling worthless. And third, even if you suc"
+    },
+    {
+      "fp": "1izo471",
+      "i": 178,
+      "from": 41040,
+      "subject": "target",
+      "entities": [],
+      "concept": "target",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "target"
+      },
+      "antidote": {
+        "concept": "target",
+        "cast": []
+      },
+      "_said": "goal, the dopamine spike fades after three days and you are left staring at the wall asking, \"Now Precisely."
+    },
+    {
+      "fp": "hg4rlg",
+      "i": 179,
+      "from": 41217,
+      "subject": "compass",
+      "entities": [],
+      "concept": "compass",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "compass"
+      },
+      "antidote": {
+        "concept": "compass",
+        "cast": []
+      },
+      "_said": "Values operate entirely differently. Values are not a destination. They are a compass. A value is how you"
+    },
+    {
+      "fp": "11mqkiz",
+      "i": 180,
+      "from": 41428,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "you want to behave on an ongoing basis."
+    },
+    {
+      "fp": "1dhffbe",
+      "i": 181,
+      "from": 41493,
+      "subject": "road",
+      "entities": [],
+      "concept": "road",
+      "place": "highway",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "road, stand for in the face of adversity, highway"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": "highway",
+        "cast": []
+      },
+      "_said": "basis. It's what you want to stand for in the face of adversity. Being courageous, being supportive friend, being intellectually curious, acting with integrity. You can never finis"
+    },
+    {
+      "fp": "noxs4i",
+      "i": 182,
+      "from": 41786,
+      "subject": "road",
+      "entities": [],
+      "concept": "road",
+      "place": "highway",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "road, arrive at west, highway"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": "highway",
+        "cast": []
+      },
+      "_said": "traveling West. Exactly. You don't arrive at West, pack your bags, and say, \"Well, I completed West.\" You just keep steering by it. And the beauty of a compass is that no matter"
+    },
+    {
+      "fp": "1og9r48",
+      "i": 183,
+      "from": 42048,
+      "subject": "car",
+      "entities": [],
+      "concept": "car",
+      "place": "street",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "car, street"
+      },
+      "antidote": {
+        "concept": "car",
+        "set": "street",
+        "cast": []
+      },
+      "_said": "matter what obstacles block the road, no matter if your car breaks down or you get detourred, you can always choose to point your compass west. You can always choose to act on your"
+    },
+    {
+      "fp": "xvgg6q",
+      "i": 184,
+      "from": 42410,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "regardless of the circumstances. Which perfectly sets up the final overarching"
+    },
+    {
+      "fp": "gau563",
+      "i": 185,
+      "from": 42511,
+      "subject": "car",
+      "entities": [],
+      "concept": "car",
+      "place": "street",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "car, street"
+      },
+      "antidote": {
+        "concept": "car",
+        "set": "street",
+        "cast": []
+      },
+      "_said": "overarching metaphor of the book. We have the compass. We have the car. We are ready to drive. But we aren't alone in the vehicle. Let's paint the picture. You"
+    },
+    {
+      "fp": "rtddc5",
+      "i": 186,
+      "from": 42753,
+      "subject": "car",
+      "entities": [],
+      "concept": "car",
+      "place": "highway",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "car, highway"
+      },
+      "antidote": {
+        "concept": "car",
+        "set": "highway",
+        "cast": []
+      },
+      "_said": "You are gripping the steering wheel of a You are driving down a gorgeous scenic coastal highway. The sun is shining. You are heading west toward your values. But the backseat of yo"
+    },
+    {
+      "fp": "ke9l5x",
+      "i": 187,
+      "from": 43176,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "most obnoxious, terrifying, loud"
+    },
+    {
+      "fp": "1al3fxd",
+      "i": 188,
+      "from": 43262,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "loud passengers you could ever imagine. These passengers are your doubts, your insecurities, your traumatic memories, your deepest anxieties. And they are screaming at the back of "
+    },
+    {
+      "fp": "17l6wvk",
+      "i": 189,
+      "from": 43531,
+      "subject": "car",
+      "entities": [],
+      "concept": "car",
+      "place": "street",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "car, street"
+      },
+      "antidote": {
+        "concept": "car",
+        "set": "street",
+        "cast": []
+      },
+      "_said": "head. You're a fraud. You can't drive this car. you're going to crash. Pull over right now and let me drive. Take the next exit. That is the reality of"
+    },
+    {
+      "fp": "14uwawr",
+      "i": 190,
+      "from": 43740,
+      "subject": "sword",
+      "entities": [],
+      "concept": "sword",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "sword"
+      },
+      "antidote": {
+        "concept": "sword",
+        "cast": []
+      },
+      "_said": "of taking committed action. The passengers are always going to come along for the ride. The fear will always accompany the courage. The anxiety will always be there when you take a"
+    },
+    {
+      "fp": "f7qx7g",
+      "i": 191,
+      "from": 44047,
+      "subject": "car",
+      "entities": [],
+      "concept": "car",
+      "place": "street",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "car, street"
+      },
+      "antidote": {
+        "concept": "car",
+        "set": "street",
+        "cast": []
+      },
+      "_said": "risk. The question is not how to get the passengers out of the car. The question is how you navigate the road while they are screaming. The struggle is the trap. If you pull the ca"
+    },
+    {
+      "fp": "i3rkyh",
+      "i": 192,
+      "from": 44342,
+      "subject": "car",
+      "entities": [],
+      "concept": "car",
+      "place": "street",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "car, street"
+      },
+      "antidote": {
+        "concept": "car",
+        "set": "street",
+        "cast": []
+      },
+      "_said": "to the shoulder, turn around, and start fighting with the passengers, trying to kick them out of the car, you have stopped driving. You aren't moving toward your values"
+    },
+    {
+      "fp": "tlhyrg",
+      "i": 193,
+      "from": 44611,
+      "subject": "car",
+      "entities": [],
+      "concept": "car",
+      "place": "street",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "car, street"
+      },
+      "antidote": {
+        "concept": "car",
+        "set": "street",
+        "cast": []
+      },
+      "_said": "values You're just fighting on the side of the or worse, you surrender the steering wheel to the loudest"
+    },
+    {
+      "fp": "e82dyz",
+      "i": 194,
+      "from": 44757,
+      "subject": "road",
+      "entities": [],
+      "concept": "road",
+      "place": "highway",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "road, highway"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": "highway",
+        "cast": []
+      },
+      "_said": "loudest passenger and they drive you straight into a ditch to avoid the perceived danger. Committed action means you keep your hands firmly on the wheel. You look at your compass."
+    },
+    {
+      "fp": "1w7p0wb",
+      "i": 195,
+      "from": 45017,
+      "subject": "road",
+      "entities": [],
+      "concept": "road",
+      "place": "highway",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "road, carry them with you and you keep driving west, highway"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": "highway",
+        "cast": []
+      },
+      "_said": "compass. You acknowledge the passengers are there. You hear them screaming, but you refuse to pull over. You carry them with you and you keep driving west."
+    },
+    {
+      "fp": "115rpcz",
+      "i": 196,
+      "from": 45245,
+      "subject": "ledge",
+      "entities": [],
+      "concept": "ledge",
+      "place": "street",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "ledge, street"
+      },
+      "antidote": {
+        "concept": "ledge",
+        "set": "street",
+        "cast": []
+      },
+      "_said": "west. Okay, I have to jump in here and play devil's advocate because I know exactly how someone steeped in our modern fix it culture is reacting to this."
+    },
+    {
+      "fp": "giy406",
+      "i": 197,
+      "from": 45506,
+      "subject": "gift",
+      "entities": [],
+      "concept": "gift",
+      "place": "shore",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "gift, carrying a back seat full of screaming demons, shore"
+      },
+      "antidote": {
+        "concept": "gift",
+        "set": "shore",
+        "cast": []
+      },
+      "_said": "this. Tell me, they are listening to all this, dropping the rope, letting the beach ball hit them in the face, carrying a back seat full of screaming demons, and they are thinking,"
+    },
+    {
+      "fp": "1fwz3dv",
+      "i": 198,
+      "from": 45830,
+      "subject": "Resignation — medical",
+      "entities": [
+        "resignation"
+      ],
+      "concept": "medical",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Resignation"
+      },
+      "antidote": {
+        "concept": "medical",
+        "set": null,
+        "cast": [
+          "resignation"
+        ]
+      },
+      "_said": "passive resignation. I hate my anxiety. I want it gone.\" Nobody wants to hear a therapist tell them just make room"
+    },
+    {
+      "fp": "o03lf3",
+      "i": 199,
+      "from": 46037,
+      "subject": "car",
+      "entities": [],
+      "concept": "car",
+      "place": "street",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "car, street"
+      },
+      "antidote": {
+        "concept": "car",
+        "set": "street",
+        "cast": []
+      },
+      "_said": "for the monster and let it ride in your car forever. It feels weak. I am so glad you're pushing back on this because it is the single hardest cell for ACT. We want the cure. We wan"
+    },
+    {
+      "fp": "602fhe",
+      "i": 200,
+      "from": 46353,
+      "subject": "Harris — phone",
+      "entities": [
+        "harris"
+      ],
+      "concept": "phone",
+      "place": "cafe",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Harris, cafe"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": "cafe",
+        "cast": [
+          "harris"
+        ]
+      },
+      "_said": "the bad feelings vanish. And Harris is brutally, refreshingly honest in the text."
+    },
+    {
+      "fp": "gd9jam",
+      "i": 201,
+      "from": 46514,
+      "subject": "medical",
+      "entities": [],
+      "concept": "medical",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "medical"
+      },
+      "antidote": {
+        "concept": "medical",
+        "set": null,
+        "cast": []
+      },
+      "_said": "text. These techniques will not make your pain go away. That is a bitter pill to swallow. It is. But that is not a bug in the system. That is the feature."
+    },
+    {
+      "fp": "1y5lumv",
+      "i": 202,
+      "from": 46742,
+      "subject": "Resignation and Acceptance — codeWindow",
+      "entities": [
+        "resignation",
+        "acceptance"
+      ],
+      "concept": "codeWindow",
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Resignation and Acceptance"
+      },
+      "antidote": {
+        "concept": "codeWindow",
+        "set": null,
+        "cast": [
+          "resignation",
+          "acceptance"
+        ]
+      },
+      "_said": "feature. We're not trying to cure the human condition. But we have to look very closely at the difference between acceptance and resignation because they are fundamentally differen"
+    },
+    {
+      "fp": "pxmlew",
+      "i": 203,
+      "from": 47054,
+      "subject": "Resignation — car",
+      "entities": [
+        "resignation"
+      ],
+      "concept": "car",
+      "place": "highway",
+      "confidence": 1,
+      "vox": {
+        "shot": "Resignation, highway"
+      },
+      "antidote": {
+        "concept": "car",
+        "set": "highway",
+        "cast": [
+          "resignation"
+        ]
+      },
+      "_said": "biological and psychological states. Resignation is pulling the car over on the side of the highway, turning the engine off,"
+    },
+    {
+      "fp": "9wjp7e",
+      "i": 204,
+      "from": 47244,
+      "subject": "car",
+      "entities": [],
+      "concept": "car",
+      "place": "street",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "car, climbing into the back seat with the screaming m, street"
+      },
+      "antidote": {
+        "concept": "car",
+        "set": "street",
+        "cast": []
+      },
+      "_said": "off, climbing into the back seat with the screaming monsters, and dying in the car because you are too afraid to drive."
+    },
+    {
+      "fp": "qahjrx",
+      "i": 205,
+      "from": 47417,
+      "subject": "Resignation and Acceptance — road",
+      "entities": [
+        "resignation",
+        "acceptance"
+      ],
+      "concept": "road",
+      "place": "highway",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Resignation and Acceptance, highway"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": "highway",
+        "cast": [
+          "resignation",
+          "acceptance"
+        ]
+      },
+      "_said": "drive. Resignation is letting the weather dictate whether you live your You give up, you collapse. Acceptance is the absolute inverse of"
+    },
+    {
+      "fp": "184ekqm",
+      "i": 206,
+      "from": 47645,
+      "subject": "Acceptance — car",
+      "entities": [
+        "acceptance"
+      ],
+      "concept": "car",
+      "place": "street",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Acceptance, street"
+      },
+      "antidote": {
+        "concept": "car",
+        "set": "street",
+        "cast": [
+          "acceptance"
+        ]
+      },
+      "_said": "that. Acceptance is gripping the wheel, putting the car in gear, and pressing the gas pedal even though the passengers are screaming in your ear."
+    },
+    {
+      "fp": "f7iy47",
+      "i": 207,
+      "from": 47856,
+      "subject": "Acceptance — road",
+      "entities": [
+        "acceptance"
+      ],
+      "concept": "road",
+      "place": "highway",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Acceptance, highway"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": "highway",
+        "cast": [
+          "acceptance"
+        ]
+      },
+      "_said": "ear. Even though, yes, acceptance is making room for the painful feeling specifically so that you can keep driving. It is the most active, resilient,"
+    },
+    {
+      "fp": "9p0rvq",
+      "i": 208,
+      "from": 48153,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "carry it while you execute"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "resilient, courageous thing a human being can do. You aren't tolerating the pain because you are weak. You are making room for it because you are strong enough to carry it while yo"
+    },
+    {
+      "fp": "19ykz2k",
+      "i": 209,
+      "from": 48422,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "execute a meaningful life. That distinction changes everything. You"
+    },
+    {
+      "fp": "c2k6it",
+      "i": 210,
+      "from": 48533,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "aren't surrendering to the feeling. You are surrendering the fight against the feeling. So you can reallocate that energy into your actual life. Which brings us to the ultimate ref"
+    },
+    {
+      "fp": "1ri05zn",
+      "i": 211,
+      "from": 48857,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "started by attacking the concept of happiness. We established that the pursuit of happiness is the trap. But that is only true based on how modern society defines"
+    },
+    {
+      "fp": "1tn6us9",
+      "i": 212,
+      "from": 49116,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "defines Right? We have been sold a cheap mass-roduced transient definition of the word. The"
+    },
+    {
+      "fp": "1ctr5ye",
+      "i": 213,
+      "from": 49293,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "The ancient Greeks had a word for this shallow version hidonia. the pursuit of fleeting, pleasurable, good If your definition of good life"
+    },
+    {
+      "fp": "1d325aa",
+      "i": 214,
+      "from": 49536,
+      "subject": "water",
+      "entities": [],
+      "concept": "water",
+      "place": "shore",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "water, holding that beach ball underwater, shore"
+      },
+      "antidote": {
+        "concept": "water",
+        "set": "shore",
+        "cast": []
+      },
+      "_said": "life is hyonia, maximizing pleasure and minimizing pain, you will spend your entire life frantically holding that beach ball underwater. You will drown in the quicksand. But there "
+    },
+    {
+      "fp": "11feqzc",
+      "i": 215,
+      "from": 49862,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": "cafe",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone, cafe"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": "cafe",
+        "cast": []
+      },
+      "_said": "deeper definition of happiness. The Greeks called it udemonia."
+    },
+    {
+      "fp": "4bxio8",
+      "i": 216,
+      "from": 49965,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "udemonia. Udemonia, human flourishing. True happiness isn't feeling good all the time. It isn't a state of permanent psychological comfort."
+    },
+    {
+      "fp": "4q1gw6",
+      "i": 217,
+      "from": 50208,
+      "subject": "compass",
+      "entities": [],
+      "concept": "compass",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "compass, stand for"
+      },
+      "antidote": {
+        "concept": "compass",
+        "cast": []
+      },
+      "_said": "True happiness is living a rich, full, deeply meaningful life. It is knowing what you stand for, pointing your compass in that direction, and taking"
+    },
+    {
+      "fp": "k57px3",
+      "i": 218,
+      "from": 50491,
+      "subject": "road",
+      "entities": [],
+      "concept": "road",
+      "place": "highway",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "road, highway"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": "highway",
+        "cast": []
+      },
+      "_said": "taking the journey. And a rich, full life is inherently going to contain That has to. You cannot have a"
+    },
+    {
+      "fp": "161y8iv",
+      "i": 219,
+      "from": 50709,
+      "subject": "heart",
+      "entities": [],
+      "concept": "heart",
+      "place": "cafe",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "heart, cafe"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": "cafe",
+        "cast": []
+      },
+      "_said": "a deep, profound capacity for love without an equally deep capacity for grief. When you lose what you love, they are two sides of the exact same coin. To avoid the grief, you have "
+    },
+    {
+      "fp": "17jraew",
+      "i": 220,
+      "from": 51050,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Exactly. Udemonia embraces the full spectrum of the human experience, painful emotions and all. The struggle is the trap."
+    },
+    {
+      "fp": "16sv5ke",
+      "i": 221,
+      "from": 51259,
+      "subject": "road",
+      "entities": [],
+      "concept": "road",
+      "place": "highway",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "road, carry the screaming passengers, highway"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": "highway",
+        "cast": []
+      },
+      "_said": "trap. Willingness is the way out. Willingness to feel it all, to carry the screaming passengers, to drop the rope in the mud, and to just keep driving west. As we close out this de"
+    },
+    {
+      "fp": "1ovwgq0",
+      "i": 222,
+      "from": 51566,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "leave the listener with a final thought to ch"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "to leave the listener with a final thought to chew on, and it steps outside of just our own internal psychology."
+    },
+    {
+      "fp": "2853w5",
+      "i": 223,
+      "from": 51696,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "psychology. We've talked a lot about the personal energy spent fighting the quicksand, but think about what happens when you stop. Think about the modeling you provide to the peopl"
+    },
+    {
+      "fp": "1nconv0",
+      "i": 224,
+      "from": 51972,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "friends, your community. Yeah. If we spend our lives frantically trying to suppress our anxiety and perform happiness, we are silently teaching the"
+    },
+    {
+      "fp": "12mg4al",
+      "i": 225,
+      "from": 52188,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "carrying your fears"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "the next generation that pain is toxic and must be hidden. But if you drop the rope, if you demonstrate what it looks like to move boldly toward your values while openly carrying y"
+    },
+    {
+      "fp": "90yia3",
+      "i": 226,
+      "from": 52533,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "leave isn't teaching your kids how to be happ"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "what kind of generational resilience could we build? What if the greatest legacy you leave isn't teaching your kids how to be happy, but showing them how to suffer"
+    }
+  ]
+}

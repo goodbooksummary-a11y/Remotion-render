@@ -1,0 +1,5315 @@
+{
+  "slug": "supercommunicators",
+  "authored": false,
+  "briefs": [
+    {
+      "fp": "lxmstt",
+      "i": 0,
+      "from": 2,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "walk through the front door and you are, 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "You walk through the front door and you are just I mean you are bone tired. Oh yeah. That exhaustion that just lives right in your marrow. Exactly. Like your raincoat is dripping."
+    },
+    {
+      "fp": "14t8775",
+      "i": 1,
+      "from": 274,
+      "subject": "funnelMetrics",
+      "entities": [],
+      "concept": "funnelMetrics",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "funnel metrics, 1982"
+      },
+      "antidote": {
+        "concept": "funnelMetrics",
+        "set": null,
+        "cast": []
+      },
+      "_said": "Your bag feels like it's filled with literal lead. And when you toss your keys into that ceramic bowl on the entryway table."
+    },
+    {
+      "fp": "kbjpvv",
+      "i": 2,
+      "from": 511,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "The clatter is just obnoxiously loud. Now you don't even care, right? You don't care. You kick your shoes off."
+    },
+    {
+      "fp": "1b93ftb",
+      "i": 3,
+      "from": 713,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "You slump against the wall. And you let out this massive heavy rattling sigh."
+    },
+    {
+      "fp": "11rvdf1",
+      "i": 4,
+      "from": 854,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Your partner looks up from the couch. The TV is playing some muted sitcom."
+    },
+    {
+      "fp": "nsmh57",
+      "i": 5,
+      "from": 1001,
+      "subject": "home",
+      "entities": [],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "home, 1982"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": []
+      },
+      "_said": "The living room is warm. And suddenly the dam just absolutely You just start venting. You start venting. You say, \"My boss is a complete nightmare."
+    },
+    {
+      "fp": "jfmkhq",
+      "i": 6,
+      "from": 1253,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "The entire scheduling system, you know, the one we spent three agonizing months building from scratch. Scrapped. Trashed in a fiveminute morning huddle.\" Oh, brutal. Right."
+    },
+    {
+      "fp": "x60kmb",
+      "i": 7,
+      "from": 1550,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": "cafe",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone, cafe, 1982"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": "cafe",
+        "cast": []
+      },
+      "_said": "I am so unbelievably overwhelmed. I don't even know how I'm going to log in tomorrow. and your partner who loves you, who genuinely deeply wants to support you, they set down their"
+    },
+    {
+      "fp": "jxb739",
+      "i": 8,
+      "from": 1949,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "and say, \"Okay, listen. Have you tried talking to HR about this? Maybe you should open a Google doc right now,"
+    },
+    {
+      "fp": "1q71tga",
+      "i": 9,
+      "from": 2155,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": "cafe",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone, cafe, 1982"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": "cafe",
+        "cast": []
+      },
+      "_said": "draft an email to the department head, and just strictly document what happened with timestamps.\" And instantly, your blood just boils."
+    },
+    {
+      "fp": "y3nl32",
+      "i": 10,
+      "from": 2386,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "It is a physical sensation, a hot flash of pure anger right at the back of your neck."
+    },
+    {
+      "fp": "1xyhb0c",
+      "i": 11,
+      "from": 2542,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": "cafe",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone, write an email, cafe, 1982"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": "cafe",
+        "cast": []
+      },
+      "_said": "You snap. I don't need you to tell me to write an email. Yeah. And then your partner gets defensive, throwing their hands up, saying, \"Hey, I'm just trying to help you fix it.\" And"
+    },
+    {
+      "fp": "r0vfms",
+      "i": 12,
+      "from": 2851,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": "cafe",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone, cafe, 1982"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": "cafe",
+        "cast": []
+      },
+      "_said": "The air is thick with tension, and you both feel completely, utterly alienated. It happens every single day. I mean, in millions of households and offices over text threads, and he"
+    },
+    {
+      "fp": "qiyr0k",
+      "i": 13,
+      "from": 3185,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "mistake that just detonated that living What happened? You weren't actually having an argument. You were confidently, passionately having two completely different kinds of conversa"
+    },
+    {
+      "fp": "9sgn4l",
+      "i": 14,
+      "from": 3473,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Two different conversations. Exactly. One of you was desperately seeking emotional validation, just begging to be seen in your frustration."
+    },
+    {
+      "fp": "iygqoc",
+      "i": 15,
+      "from": 3689,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "The other was offering practical, logistical fixes. You were speaking two entirely different languages, totally blind to the fact that the other person couldn't process a single wo"
+    },
+    {
+      "fp": "1yj9q7z",
+      "i": 16,
+      "from": 4034,
+      "subject": "target",
+      "entities": [],
+      "concept": "target",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "target, 1982"
+      },
+      "antidote": {
+        "concept": "target",
+        "cast": []
+      },
+      "_said": "dive. Today we are setting out on a very specific, honestly, incredibly highstakes mission. We really are."
+    },
+    {
+      "fp": "zm0fwv",
+      "i": 17,
+      "from": 4267,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "We are analyzing the biological and psychological mechanics of human connection, drawing heavily on Charles Doohig's"
+    },
+    {
+      "fp": "19a94fr",
+      "i": 18,
+      "from": 4469,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "brilliant exploration of communication. And we're going to state our thesis right up front, plainly, no caveats."
+    },
+    {
+      "fp": "1l50uye",
+      "i": 19,
+      "from": 4680,
+      "subject": "gift",
+      "entities": [],
+      "concept": "gift",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "gift, 1982"
+      },
+      "antidote": {
+        "concept": "gift",
+        "cast": []
+      },
+      "_said": "True connection has almost nothing to do with being articulate. Nothing at all. Has nothing to do with being charming or extroverted or having some magical gift of charisma."
+    },
+    {
+      "fp": "y5ur7j",
+      "i": 20,
+      "from": 4930,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Our absolute worst most painful misunderstandings happen simply because two people are confidently in different conversations"
+    },
+    {
+      "fp": "1hxmtyy",
+      "i": 21,
+      "from": 5141,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "right and a super commmunicator and yeah that is the technical term we'll be using today is simply the person in the room who is working the hardest to detect which conversation yo"
+    },
+    {
+      "fp": "ousdu9",
+      "i": 22,
+      "from": 5515,
+      "subject": "gift",
+      "entities": [],
+      "concept": "gift",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "gift, 1982"
+      },
+      "antidote": {
+        "concept": "gift",
+        "cast": []
+      },
+      "_said": "the key connection is a learnable skill of attention it is not a biological gift bestowed on the lucky no it's a series of deliberate micro choices that anyone can make if they kno"
+    },
+    {
+      "fp": "1ugpt3i",
+      "i": 23,
+      "from": 5863,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "know what to look for. And to help you look for it, there is one critical question we're going to keep coming back to throughout this entire deep dive."
+    },
+    {
+      "fp": "r4b4w7",
+      "i": 24,
+      "from": 6070,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "It's the phrase that pays for today. Whenever our conversation starts to go off the rails, or honestly even before it begins, you have to stop, take a breath, and ask yourself, wha"
+    },
+    {
+      "fp": "mgou29",
+      "i": 25,
+      "from": 6422,
+      "subject": "road",
+      "entities": [],
+      "concept": "road",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "road, 1982"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": null,
+        "cast": []
+      },
+      "_said": "That is the core of it. And to answer that, we first have to map out the framework of human interaction."
+    },
+    {
+      "fp": "se119j",
+      "i": 26,
+      "from": 6595,
+      "subject": "subway",
+      "entities": [],
+      "concept": "subway",
+      "place": "street",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "subway, falls into one of three distinct okay, street, 1982"
+      },
+      "antidote": {
+        "concept": "subway",
+        "set": "street",
+        "cast": []
+      },
+      "_said": "Every single discussion you have ever had, whether it's with your spouse, your boss, a stranger on a train, or a hostage in a bank vault, falls into one of three distinct Okay, let"
+    },
+    {
+      "fp": "1h320bk",
+      "i": 27,
+      "from": 6917,
+      "subject": "home",
+      "entities": [],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "home, 1982"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": []
+      },
+      "_said": "these buckets before we go any further. Because if we're going to stop talking past each other, we need to know the landscape, The first one seems pretty obvious from that living r"
+    },
+    {
+      "fp": "gbkeus",
+      "i": 28,
+      "from": 7154,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "It is. The first bucket is the practical conversation. This is the realm of decision-m, logistics, planning, problem solving. It asks the literal"
+    },
+    {
+      "fp": "u4dios",
+      "i": 29,
+      "from": 7452,
+      "subject": "home",
+      "entities": [],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "home, 1982"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": []
+      },
+      "_said": "surface level question, what's this really about? Like, are we buying this specific house?"
+    },
+    {
+      "fp": "1rz1alv",
+      "i": 30,
+      "from": 7658,
+      "subject": "target",
+      "entities": [],
+      "concept": "target",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "target, 1982"
+      },
+      "antidote": {
+        "concept": "target",
+        "cast": []
+      },
+      "_said": "Who's picking up the kids at 4? How do we fix this software bug? Exactly. It is objective. It's the spreadsheet bucket."
+    },
+    {
+      "fp": "amxqvd",
+      "i": 31,
+      "from": 7870,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": "cafe",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone, cafe, 1982"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": "cafe",
+        "cast": []
+      },
+      "_said": "The let's draft an HR email bucket. But my partner in that opening scene didn't want a spreadsheet. They wanted the second bucket."
+    },
+    {
+      "fp": "1sbfdas",
+      "i": 32,
+      "from": 8131,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "The second is the emotional conversation. This completely bypasses logistics. This bucket asks, \"How do we How do we feel? Okay. It's the arena of vulnerability, a venting,"
+    },
+    {
+      "fp": "zdhy4u",
+      "i": 33,
+      "from": 8431,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "processing grief, or even sharing profound joy. It is emphatically not about solving a problem. It's about acknowledging an internal state."
+    },
+    {
+      "fp": "lnbpkh",
+      "i": 34,
+      "from": 8688,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "If someone is in this bucket, offering them a practical solution isn't just unhelpful. It feels like an insult. Like you're not even listening."
+    },
+    {
+      "fp": "1ahbdb3",
+      "i": 35,
+      "from": 8904,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Okay. So if the first is practical, the what and the second is emotional, how we feel."
+    },
+    {
+      "fp": "10eh7d5",
+      "i": 36,
+      "from": 9074,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "The third bucket has to be something broader like who we are in relation to each other. You hit the nail on the head."
+    },
+    {
+      "fp": "1axq152",
+      "i": 37,
+      "from": 9278,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "The third bucket is the social conversation. This asks the heavy question, who are we?"
+    },
+    {
+      "fp": "1ttplps",
+      "i": 38,
+      "from": 9463,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "It deals with our social dynamics, our backgrounds, our racial, political or gender identities,"
+    },
+    {
+      "fp": "djvubo",
+      "i": 39,
+      "from": 9636,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": "cafe",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone, cafe, 1982"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": "cafe",
+        "cast": []
+      },
+      "_said": "the invisible baggage, societal norms and power dynamics we bring into the room. Which brings us to the absolute core rule of this deep dive, which we'll call the matching principl"
+    },
+    {
+      "fp": "olxrpb",
+      "i": 40,
+      "from": 10049,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "when you are in the same kind of conversation as they are. The exact same kind. If they're in bucket two, the emotional bucket, and you come at them with bucket one, the practical "
+    },
+    {
+      "fp": "1ipgqxb",
+      "i": 41,
+      "from": 10385,
+      "subject": "game",
+      "entities": [],
+      "concept": "game",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "game, 1982"
+      },
+      "antidote": {
+        "concept": "game",
+        "set": null,
+        "cast": []
+      },
+      "_said": "crash and burn. You cannot solve an emotional problem with a practical fix. You have to match You have to align your frequency. If they are broadcasting on FM, you cannot receive t"
+    },
+    {
+      "fp": "zsv9f7",
+      "i": 42,
+      "from": 10678,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "It is biologically So, this brings up the immediate obvious How on earth do we know which bucket we're in?"
+    },
+    {
+      "fp": "1ocbvxj",
+      "i": 43,
+      "from": 10946,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "walk around holding up signs that say, 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "People don't walk around holding up signs that say, \"I am currently in a social conversation.\" No, they definitely don't. We have to figure it out on the fly. Which takes us to our"
+    },
+    {
+      "fp": "dqikfl",
+      "i": 44,
+      "from": 11258,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "sitting at a long, 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "concept. Picture this scene. You're sitting at a long, incredibly intimidating mahogany boardroom table. The AC is humming a little too loud. Or maybe you're sliding into a sticky"
+    },
+    {
+      "fp": "1cg7lmq",
+      "i": 45,
+      "from": 11630,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": "cafe",
+      "confidence": 0.35,
+      "vox": {
+        "shot": "cafe, 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": "cafe",
+        "cast": []
+      },
+      "_said": "vinyl booth at a diner with an old friend you haven't seen in a year. Yes. Setting the scene. Someone clears their throat."
+    },
+    {
+      "fp": "1utkpwd",
+      "i": 46,
+      "from": 11808,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "They shift their weight in the squeaky chair. They make a tiny almost throwaway joke about the weather. Or they lean in, lower their voice, and say, \"Man, that memo earlier was com"
+    },
+    {
+      "fp": "ang0tp",
+      "i": 47,
+      "from": 12132,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Okay. There's this incredibly awkward, delicate, probing, back and forth dance that happens before the real topic is ever breached."
+    },
+    {
+      "fp": "1lmqxk0",
+      "i": 48,
+      "from": 12372,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": "cafe",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone, cafe, 1982"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": "cafe",
+        "cast": []
+      },
+      "_said": "What you're describing is a phenomenon researchers call the quiet negotiation. Every single conversation you have silently opens by deciding what kind of conversation it is going t"
+    },
+    {
+      "fp": "pm4fbh",
+      "i": 49,
+      "from": 12658,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "A negotiation. It's like a cryptographic handshake between two computers trying to figure out which protocol to use before sending data."
+    },
+    {
+      "fp": "tv5uu6",
+      "i": 50,
+      "from": 12883,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": "cafe",
+      "confidence": 0.35,
+      "vox": {
+        "shot": "cafe, 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": "cafe",
+        "cast": []
+      },
+      "_said": "We are constantly throwing out invisible offers and counter offers. Okay. So when your friend at the diner says that memo was crazy, right?"
+    },
+    {
+      "fp": "1nhg1nb",
+      "i": 51,
+      "from": 13178,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "They aren't just making a statement of No, they are making an offer. They are implicitly saying, \"I want to have an emotional conversation about how stressed out and overwhelmed I "
+    },
+    {
+      "fp": "9h1w0p",
+      "i": 52,
+      "from": 13562,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "memo had three bullet points. We need to execute by Friday, so we better get on it.\" I've completely rejected their emotional offer. You swatted it away."
+    },
+    {
+      "fp": "583cvj",
+      "i": 53,
+      "from": 13807,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "You countered with a practical one. And this is where the vast majority of our miscommunications are born. We usually get it completely wrong because we suffer from an egocentric b"
+    },
+    {
+      "fp": "j29rv2",
+      "i": 54,
+      "from": 14095,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Meaning we think we're always right. We assume our agenda is the only logical one. We assume that because we are in a problem-solving mood, the other person must want a solution."
+    },
+    {
+      "fp": "1tjawa8",
+      "i": 55,
+      "from": 14371,
+      "subject": "school",
+      "entities": [],
+      "concept": "school",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "school, 1982"
+      },
+      "antidote": {
+        "concept": "school",
+        "set": null,
+        "cast": []
+      },
+      "_said": "But to communicate effectively, we have to look at the work of experts like Deepo Malhotra at Harvard Business School. He does high stakes negotiation, right?"
+    },
+    {
+      "fp": "1m2h6di",
+      "i": 56,
+      "from": 14621,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Yeah. High stakes. corporate mergers, peace treaties, labor disputes. And his cardinal rule is this."
+    },
+    {
+      "fp": "1g1g1et",
+      "i": 57,
+      "from": 14815,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Never begin by assuming you know what the other side wants. You have to use open-ended questions as experiments to see which conversational norms"
+    },
+    {
+      "fp": "1r3pmrp",
+      "i": 58,
+      "from": 15067,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "will stick. I have to push back on this right away because frankly, this sounds exhausting. Exhausting? How so? If I'm being perfectly honest,"
+    },
+    {
+      "fp": "u9aoas",
+      "i": 59,
+      "from": 15322,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": "cafe",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone, cafe, 1982"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": "cafe",
+        "cast": []
+      },
+      "_said": "the idea of having to constantly negotiate every single chat sounds awful. If I'm calling my mom on a Sunday afternoon or grabbing a beer with my best friend, I just want to talk."
+    },
+    {
+      "fp": "babwy1",
+      "i": 60,
+      "from": 15641,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": "cafe",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone, sitting down to sign a treaty, cafe, 1982"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": "cafe",
+        "cast": []
+      },
+      "_said": "I don't want to feel like I'm sitting down to sign a treaty. Calling it a negotiation makes intimacy sound like a clinical corporate strategy. It sounds clinical when we put an aca"
+    },
+    {
+      "fp": "13o566h",
+      "i": 61,
+      "from": 15970,
+      "subject": "shadowSelf",
+      "entities": [],
+      "concept": "shadowSelf",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "shadow self, 1982"
+      },
+      "antidote": {
+        "concept": "shadowSelf",
+        "cast": []
+      },
+      "_said": "is that it is a subconscious, deeply ingrained biological dance. You aren't plotting a strategy. You are reacting to cues."
+    },
+    {
+      "fp": "13cxw05",
+      "i": 62,
+      "from": 16169,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": "cafe",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone, cafe, 1982"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": "cafe",
+        "cast": []
+      },
+      "_said": "You're already doing it. You're just doing it blindly. I'm already doing it. Think about it. When you call that best friend on a Tuesday night and they pick up the phone and say a "
+    },
+    {
+      "fp": "qegnvh",
+      "i": 63,
+      "from": 16493,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "hello, your brain immediately registers the acoustic properties of that tone."
+    },
+    {
+      "fp": "1fihjqa",
+      "i": 64,
+      "from": 16673,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "You instantly abandon the funny, practical anecdote you were about to share. You soften your voice and you say, \"Whoa, are you okay?\" Okay. Yeah, I would do that instantly."
+    },
+    {
+      "fp": "chn47a",
+      "i": 65,
+      "from": 16954,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Exactly. You just negotiated the terms of the conversation. You heard their implicit emotional offer and you accepted it. You threw away your practical agenda."
+    },
+    {
+      "fp": "1ql2sf5",
+      "i": 66,
+      "from": 17210,
+      "subject": "target",
+      "entities": [],
+      "concept": "target",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "target, 1982"
+      },
+      "antidote": {
+        "concept": "target",
+        "cast": []
+      },
+      "_said": "Oh, I see. The goal of this quiet dance isn't to be manipulative. It's simply to answer our guiding question."
+    },
+    {
+      "fp": "7g1gx8",
+      "i": 67,
+      "from": 17419,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "What's this really about? Is it about the funny story I wanted to tell? Or is it about the fact that my friend sounds like they're on the verge of tears?"
+    },
+    {
+      "fp": "1hz4wne",
+      "i": 68,
+      "from": 17630,
+      "subject": "puppeteer",
+      "entities": [],
+      "concept": "puppeteer",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "puppeteer, 1982"
+      },
+      "antidote": {
+        "concept": "puppeteer",
+        "cast": []
+      },
+      "_said": "That makes a lot of sense when you frame it as a natural instinct rather than a tactic. It's less about manipulation and more about calibrating your instruments before you start pl"
+    },
+    {
+      "fp": "kntve6",
+      "i": 69,
+      "from": 17887,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": "cafe",
+      "confidence": 0.35,
+      "vox": {
+        "shot": "cafe, 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": "cafe",
+        "cast": []
+      },
+      "_said": "So, let's take this matching principle out of the diner and into the highest stakes imaginable. H. Let's look at it in the wild. Let's do it. The year is 1982."
+    },
+    {
+      "fp": "1cvuyhl",
+      "i": 70,
+      "from": 18144,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "We are inside a sterile, brightly lit, windowless room at NASA headquarters."
+    },
+    {
+      "fp": "16fewul",
+      "i": 71,
+      "from": 18336,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "sits an incredibly intimidating, 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Across a table sits an incredibly intimidating, perfectly qualified astronaut candidate. This guy is a physically fit Navy veteran. He has a PhD in atmospheric chemistry. He's a fi"
+    },
+    {
+      "fp": "1n3tk8f",
+      "i": 72,
+      "from": 18682,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "sitting across from him is a nasa psychiatrist, 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "aircraft carriers in the dark. The dictionary definition of the right literally. And sitting across from him is a NASA psychiatrist"
+    },
+    {
+      "fp": "1y437oy",
+      "i": 73,
+      "from": 18893,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": "cafe",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone, cafe, 1982"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": "cafe",
+        "cast": []
+      },
+      "_said": "named Terrence Magcguire. Magguire's job is to screen these superhumans for man space flights."
+    },
+    {
+      "fp": "vczqox",
+      "i": 74,
+      "from": 19087,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Now, Magguire intentionally drops a deeply emotional cue into the interview. He leans forward, drops his pen, and talks about a personal tragedy."
+    },
+    {
+      "fp": "y7ewuw",
+      "i": 75,
+      "from": 19327,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": "kitchen",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, kitchen, 1982"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": "kitchen",
+        "cast": []
+      },
+      "_said": "He even invents a fake sister, claiming she passed away under tragic circumstances. Wait, he invented a fake sister? Yeah, just to test the emotional waters of the room. He lays th"
+    },
+    {
+      "fp": "1ss9kiv",
+      "i": 76,
+      "from": 19644,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "on the table. And the astronaut candidate, he completely ignores the emotion. He doesn't offer condolences. He doesn't soften his posture."
+    },
+    {
+      "fp": "u82jv3",
+      "i": 77,
+      "from": 19872,
+      "subject": "target",
+      "entities": [],
+      "concept": "target",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "target, 1982"
+      },
+      "antidote": {
+        "concept": "target",
+        "cast": []
+      },
+      "_said": "His face doesn't change. He just responds with cold robotic practical logic about mission parameters and psychological resilience."
+    },
+    {
+      "fp": "5kv4k8",
+      "i": 78,
+      "from": 20076,
+      "subject": "storm",
+      "entities": [],
+      "concept": "storm",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "storm, 1982"
+      },
+      "antidote": {
+        "concept": "storm",
+        "set": null,
+        "cast": []
+      },
+      "_said": "And for NASA, that lack of response was a massive blinking red flag. Really, cuz you'd think they want the cold logical guy. Well, for a long time in the early days, the Mercury an"
+    },
+    {
+      "fp": "1gg7ghu",
+      "i": 79,
+      "from": 20429,
+      "subject": "fire",
+      "entities": [],
+      "concept": "fire",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "fire, 1982"
+      },
+      "antidote": {
+        "concept": "fire",
+        "cast": []
+      },
+      "_said": "They just wanted the smartest, calmst, most unflapable people. the guys whose blood pressure wouldn't spike during a launchpad fire, computers made of meat,"
+    },
+    {
+      "fp": "1cutbkx",
+      "i": 80,
+      "from": 20717,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "But as missions evolved from two-day orbital hops into six month stretches on a space station, NASA realized a terrifying truth. You can be the smartest chemist on the planet, but "
+    },
+    {
+      "fp": "15b2fzy",
+      "i": 81,
+      "from": 21082,
+      "subject": "school",
+      "entities": [],
+      "concept": "school",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "school, read the emotional temperature of the room, 1982"
+      },
+      "antidote": {
+        "concept": "school",
+        "set": null,
+        "cast": []
+      },
+      "_said": "in a tin can the size of a school bus for half a year with three other humans and you cannot read the emotional temperature of the room, you are a lethal liability."
+    },
+    {
+      "fp": "1hb56oy",
+      "i": 82,
+      "from": 21372,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Because if tension builds up and you can't diffuse it, people snap. Precisely. If one astronaut is terrified about a mechanical failure and the other responds with a dry recitation"
+    },
+    {
+      "fp": "1gscbev",
+      "i": 83,
+      "from": 21744,
+      "subject": "game",
+      "entities": [],
+      "concept": "game",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "game, 1982"
+      },
+      "antidote": {
+        "concept": "game",
+        "set": null,
+        "cast": []
+      },
+      "_said": "plea, the isolation and resentment will tear the crew apart. NASA needed people who could recognize an emotional conversation and seamlessly match it."
+    },
+    {
+      "fp": "mxmw7a",
+      "i": 84,
+      "from": 21989,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Which means matching isn't just mimicking, right? No, definitely not. Because if my friend is terrified, I shouldn't just parrot back their terror."
+    },
+    {
+      "fp": "51r50h",
+      "i": 85,
+      "from": 22207,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "If I say I'm sad and you put on a robotic voice and say I see you are sad, I too will act sad."
+    },
+    {
+      "fp": "1t27jbj",
+      "i": 86,
+      "from": 22411,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "That is mimicry and frankly it's condescending. It feels like I'm talking to a bad AI. Mimicry is superficial. True matching is providing biological proof of a desire to connect."
+    },
+    {
+      "fp": "zv2l9u",
+      "i": 87,
+      "from": 22750,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "To understand the difference, look at Robert Proine's research on laughter. He was a neuroscientist who studied the acoustic structure of laughter."
+    },
+    {
+      "fp": "1n5awjt",
+      "i": 88,
+      "from": 22970,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "His research shows that less than 20% of conversational laughter is actually a response to a formal joke. Wait, really? Less than 20%?"
+    },
+    {
+      "fp": "1a69ryf",
+      "i": 89,
+      "from": 23182,
+      "subject": "shadowSelf",
+      "entities": [],
+      "concept": "shadowSelf",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "shadow self, 1982"
+      },
+      "antidote": {
+        "concept": "shadowSelf",
+        "cast": []
+      },
+      "_said": "Then what on earth are we laughing at all day? We laugh to show alignment. We laugh as a subconscious signaling mechanism to say, \"I am with you.\" We share the same Oh wow. Yeah. I"
+    },
+    {
+      "fp": "oirse7",
+      "i": 90,
+      "from": 23530,
+      "subject": "gift",
+      "entities": [],
+      "concept": "gift",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "gift, 1982"
+      },
+      "antidote": {
+        "concept": "gift",
+        "cast": []
+      },
+      "_said": "they give a massive booming belly laugh at their own mild misfortune and you only offer a tepid, half-hearted chuckle, you aren't connecting."
+    },
+    {
+      "fp": "9fymjf",
+      "i": 91,
+      "from": 23782,
+      "subject": "rocketLaunch",
+      "entities": [],
+      "concept": "rocketLaunch",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "rocket launch, 1982"
+      },
+      "antidote": {
+        "concept": "rocketLaunch",
+        "set": null,
+        "cast": []
+      },
+      "_said": "Proine found that mismatched laughter actually signals dominance or rejection. Like a boss laughing at their own joke and the employees giving nervous tight"
+    },
+    {
+      "fp": "1wxgbxh",
+      "i": 92,
+      "from": 24070,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Exactly. It highlights the power dynamic. It doesn't bridge it. Matching their intensity is how you prove biologically that you are with them in the moment."
+    },
+    {
+      "fp": "1xip9oy",
+      "i": 93,
+      "from": 24348,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Okay, I see where this is going, but I have to stop you again. Let's follow that logic to its darkest conclusion."
+    },
+    {
+      "fp": "elqf6w",
+      "i": 94,
+      "from": 24523,
+      "subject": "game",
+      "entities": [],
+      "concept": "game",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "game, 1982"
+      },
+      "antidote": {
+        "concept": "game",
+        "set": null,
+        "cast": []
+      },
+      "_said": "If the matching principle dictates that I absolutely have to match the other person's state, what happens if someone comes at me completely furious?"
+    },
+    {
+      "fp": "1ggrt20",
+      "i": 95,
+      "from": 24804,
+      "subject": "work",
+      "entities": [],
+      "concept": "work",
+      "place": "office",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "work, office, 1982"
+      },
+      "antidote": {
+        "concept": "work",
+        "set": "office",
+        "cast": []
+      },
+      "_said": "What if my coworker corners me in the breakroom and starts screaming at me over a missed Ah, I see what you're asking."
+    },
+    {
+      "fp": "1inl8xw",
+      "i": 96,
+      "from": 25022,
+      "subject": "game",
+      "entities": [],
+      "concept": "game",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "game, 1982"
+      },
+      "antidote": {
+        "concept": "game",
+        "set": null,
+        "cast": []
+      },
+      "_said": "Does the matching principle mean I should match their anger, raise my voice, and start screaming back?"
+    },
+    {
+      "fp": "1yfvhft",
+      "i": 97,
+      "from": 25193,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, 1982"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "Because that sounds like a guaranteed recipe for a fist fight or an HR lawsuit. That is a crucial distinction to make."
+    },
+    {
+      "fp": "1fsxqnl",
+      "i": 98,
+      "from": 25397,
+      "subject": "game",
+      "entities": [],
+      "concept": "game",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "game, 1982"
+      },
+      "antidote": {
+        "concept": "game",
+        "set": null,
+        "cast": []
+      },
+      "_said": "Matching does not mean escalating toxicity. You don't mirror abuse. You don't match the hostility. You match the intensity of their focus on the emotional state. Explain the mechan"
+    },
+    {
+      "fp": "c6ifdi",
+      "i": 99,
+      "from": 25726,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "What does it actually sound like in a heated If someone is furious, they are firmly in bucket two, high stakes emotional"
+    },
+    {
+      "fp": "1hu4m6e",
+      "i": 100,
+      "from": 25973,
+      "subject": "dollarExchange",
+      "entities": [],
+      "concept": "dollarExchange",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "dollar exchange, whisper quiet, 1982"
+      },
+      "antidote": {
+        "concept": "dollarExchange",
+        "set": null,
+        "cast": []
+      },
+      "_said": "conversation. If you respond with a calm, whisper quiet, overly composed voice, that classic customer service voice, and say, \"Let's lower our voices"
+    },
+    {
+      "fp": "unm9hj",
+      "i": 101,
+      "from": 26266,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "and look at the spreadsheet.\" You are retreating into bucket one, a practical bucket, right? And to the angry person, that feels incredibly invalidating."
+    },
+    {
+      "fp": "ktid43",
+      "i": 102,
+      "from": 26537,
+      "subject": "game",
+      "entities": [],
+      "concept": "game",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "game, 1982"
+      },
+      "antidote": {
+        "concept": "game",
+        "set": null,
+        "cast": []
+      },
+      "_said": "It feels like you were treating them like a hysterical toddler. You're implicitly telling them their emotion is wrong, which usually just makes them yell louder because they're try"
+    },
+    {
+      "fp": "bb2fxc",
+      "i": 103,
+      "from": 26918,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "acknowledging the gravity of their emotion without the aggression. You plant your feet, look them in the eye, and you say, \"With equal energy and absolute seriousness,"
+    },
+    {
+      "fp": "1cf0ju1",
+      "i": 104,
+      "from": 27151,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "\"I can see how incredibly frustrating this is for you. This is a massive issue, and we need to deal with it right now.\" You aren't throwing a tantrum back. No, but you're showing y"
+    },
+    {
+      "fp": "z9k92x",
+      "i": 105,
+      "from": 27506,
+      "subject": "hourglass",
+      "entities": [],
+      "concept": "hourglass",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "hourglass, 1982"
+      },
+      "antidote": {
+        "concept": "hourglass",
+        "set": null,
+        "cast": []
+      },
+      "_said": "You [snorts] are proving that you understand the answer to the question, \"What's this really about? It's about their feeling of being let down, not just the missed deadline."
+    },
+    {
+      "fp": "erym5k",
+      "i": 106,
+      "from": 27749,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "It's about the feeling, not the spreadsheet. Which perfectly transitions us into our next major realization."
+    },
+    {
+      "fp": "1bkbxb1",
+      "i": 107,
+      "from": 27955,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "And this one is a bit of a mindbender, especially for people who pride themselves on being logical problem solvers. The practical conversation is almost never only practical."
+    },
+    {
+      "fp": "1vv9fo0",
+      "i": 108,
+      "from": 28255,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "It is the ultimate trap for logical thinkers, the illusion of objectivity. Here's a perfect example from the book. Charles Doohig, the author, talks about a time he was managing a "
+    },
+    {
+      "fp": "19q3wr8",
+      "i": 109,
+      "from": 28615,
+      "subject": "school",
+      "entities": [],
+      "concept": "school",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "school, 1982"
+      },
+      "antidote": {
+        "concept": "school",
+        "set": null,
+        "cast": []
+      },
+      "_said": "Doohig's a smart guy. Harvard Business School MBA. So, he does what MBA guys do when faced with a challenge. He retreats into the practical bucket."
+    },
+    {
+      "fp": "7y2gw0",
+      "i": 110,
+      "from": 28901,
+      "subject": "work",
+      "entities": [],
+      "concept": "work",
+      "place": "office",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "work, office, 1982"
+      },
+      "antidote": {
+        "concept": "work",
+        "set": "office",
+        "cast": []
+      },
+      "_said": "he's whipping up schedules, drafting logistics, color coding organizational charts, and a colleague comes into his office visibly frustrated, hands shaking slightly, and says they "
+    },
+    {
+      "fp": "nudo6w",
+      "i": 111,
+      "from": 29196,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "ignored. They say their contributions aren't being recognized. Doohig operating entirely in bucket one. Here's a logistical problem."
+    },
+    {
+      "fp": "1ikimee",
+      "i": 112,
+      "from": 29414,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "And he offers a logistical solution. He responds with, \"Okay, I hear you. Let's change the meeting structure. Let's redraw the org chart right now to clarify your duties.\" And the "
+    },
+    {
+      "fp": "klu4mz",
+      "i": 113,
+      "from": 29760,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "interrupts his frantic charting, and says, \"You're not listening to me. We don't need clearer roles on a piece of paper. We need to respect each other.\""
+    },
+    {
+      "fp": "1vgg82f",
+      "i": 114,
+      "from": 29993,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "sit the much deeper, 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Doohig genuinely thought he was having a practical conversation. But underneath the logistics of schedules and org charts sit the much deeper, murkier issues of control, values,"
+    },
+    {
+      "fp": "1qyt6v",
+      "i": 115,
+      "from": 30293,
+      "subject": "home",
+      "entities": [],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "home, 1982"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": []
+      },
+      "_said": "pride. The practical conversation is often just a Trojan horse for an emotional or social need. Trying to fix a lack of respect with a new schedule is like trying to put out a hous"
+    },
+    {
+      "fp": "cr2ndr",
+      "i": 116,
+      "from": 30643,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Exactly. It's like couples arguing over how to load the dishwasher. Nobody actually cares that much about the optimal angle of a cereal bowl."
+    },
+    {
+      "fp": "k4uaqt",
+      "i": 117,
+      "from": 30862,
+      "subject": "heart",
+      "entities": [],
+      "concept": "heart",
+      "place": "cafe",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "heart, cafe, 1982"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": "cafe",
+        "cast": []
+      },
+      "_said": "No, they don't. And this brings us to John Gottman's legendary research. The psychologist famous for his love lab at the University of Washington."
+    },
+    {
+      "fp": "11k5s7r",
+      "i": 118,
+      "from": 31123,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "He studied married couples for decades. He'd literally hook them up to biometric sensors, measuring heart rates, sweat gland activity, and ask them to discuss a recurring disagreem"
+    },
+    {
+      "fp": "mb6am4",
+      "i": 119,
+      "from": 31450,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Like, who takes out the trash? He wanted to find the mechanism that predicts whether a couple will stay together or get divorced."
+    },
+    {
+      "fp": "ii41m1",
+      "i": 120,
+      "from": 31651,
+      "subject": "rocketLaunch",
+      "entities": [],
+      "concept": "rocketLaunch",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "rocket launch, 1982"
+      },
+      "antidote": {
+        "concept": "rocketLaunch",
+        "set": null,
+        "cast": []
+      },
+      "_said": "And what he found was astonishing. The mechanism that maintains closeness isn't agreeing on the facts of an argument."
+    },
+    {
+      "fp": "1txirn5",
+      "i": 121,
+      "from": 31908,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "It isn't the logistics of who actually took the trash out last Tuesday. Because nobody gets divorced over literal garbage."
+    },
+    {
+      "fp": "1o3ijir",
+      "i": 122,
+      "from": 32150,
+      "subject": "rocketLaunch",
+      "entities": [],
+      "concept": "rocketLaunch",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "rocket launch, 1982"
+      },
+      "antidote": {
+        "concept": "rocketLaunch",
+        "set": null,
+        "cast": []
+      },
+      "_said": "They get divorced over what the garbage represents. Gottman found that happy couples maintain what he calls effect symmetry. They agree on the speaker's emotional state. If one par"
+    },
+    {
+      "fp": "mku726",
+      "i": 123,
+      "from": 32534,
+      "subject": "home",
+      "entities": [],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "home, 1982"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": []
+      },
+      "_said": "the house being messy, the other partner doesn't pull out a chore chart to logically prove they did their half. They don't litigate the facts."
+    },
+    {
+      "fp": "13vc81t",
+      "i": 124,
+      "from": 32748,
+      "subject": "game",
+      "entities": [],
+      "concept": "game",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "game, 1982"
+      },
+      "antidote": {
+        "concept": "game",
+        "set": null,
+        "cast": []
+      },
+      "_said": "No, they match the distress. They validate the feeling of being overwhelmed. They say, \"You're right. This place is chaos and it's exhausting.\" They align in the emotional bucket b"
+    },
+    {
+      "fp": "1wq4myv",
+      "i": 125,
+      "from": 33062,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "solve the practical problem. But wait, let's be real for a second. Sometimes a logistics problem really is just a logistics problem, isn't it? Like if I ask you to please take the "
+    },
+    {
+      "fp": "1chahom",
+      "i": 126,
+      "from": 33377,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": "street",
+      "confidence": 0.35,
+      "vox": {
+        "shot": "street, 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": "street",
+        "cast": []
+      },
+      "_said": "is literally rumbling down the street. I don't want a deep soulful dive into your childhood trauma regarding sanitation."
+    },
+    {
+      "fp": "11looe0",
+      "i": 127,
+      "from": 33602,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "I don't want effect symmetry. I just want the physical bag of trash moved to the curb. We can't psychoanalyze everything."
+    },
+    {
+      "fp": "17mv46c",
+      "i": 128,
+      "from": 33811,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "You're completely right. If you ask for the trash to go out and it goes out, then the practical conversation was successful. But here's the catch."
+    },
+    {
+      "fp": "pz326n",
+      "i": 129,
+      "from": 34015,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, 1982"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "If the trash becomes a recurring fight week after week with raised voices and slamming doors, then the practical fix has entirely failed because it's not about the trash Because th"
+    },
+    {
+      "fp": "191crfc",
+      "i": 130,
+      "from": 34373,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "the need to feel respected or supported hasn't been addressed. A recurring practical dispute almost always has two answers to the question, what's this really about? There is the s"
+    },
+    {
+      "fp": "lq1h20",
+      "i": 131,
+      "from": 34728,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "and then there is the massive unseen emotional need lurking beneath it."
+    },
+    {
+      "fp": "8gz13x",
+      "i": 132,
+      "from": 34891,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, 1982"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "If you only ever address the trash, you will be fighting about it for the rest of your life. Okay, that is a brilliant distinction."
+    },
+    {
+      "fp": "1jw7ny7",
+      "i": 133,
+      "from": 35098,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "If it repeats, it's not about the trash. So, if the practical conversation is a trap, how do we successfully navigate the emotional conversation?"
+    },
+    {
+      "fp": "1ah59x",
+      "i": 134,
+      "from": 35359,
+      "subject": "road",
+      "entities": [],
+      "concept": "road",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "road, 1982"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": null,
+        "cast": []
+      },
+      "_said": "Because, frankly, that feels like wandering into a minefield blindfolded. It can be. Let's drop into another scene. The year is 1982."
+    },
+    {
+      "fp": "uml61o",
+      "i": 135,
+      "from": 35592,
+      "subject": "Lawler",
+      "entities": [
+        "lawler"
+      ],
+      "concept": null,
+      "place": "cafe",
+      "confidence": 0.85,
+      "vox": {
+        "shot": "Lawler, sitting across from a young woman named yasmin, cafe, 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": "cafe",
+        "cast": [
+          "lawler"
+        ]
+      },
+      "_said": "A shadowy upscale restaurant in Europe. A young CIA case officer named Jim Lawler is sitting across from a young woman named Yasmin."
+    },
+    {
+      "fp": "odx22t",
+      "i": 136,
+      "from": 35846,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "She works for the foreign ministry of a Middle Eastern country that recently had a highly oppressive revolution. Very tense situation. Very."
+    },
+    {
+      "fp": "aj2x4n",
+      "i": 137,
+      "from": 36053,
+      "subject": "Lawler — work",
+      "entities": [
+        "lawler"
+      ],
+      "concept": "work",
+      "place": "office",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Lawler, office, 1982"
+      },
+      "antidote": {
+        "concept": "work",
+        "set": "office",
+        "cast": [
+          "lawler"
+        ]
+      },
+      "_said": "And Lawler has been failing miserably at his job. He's terrible at recruiting spies."
+    },
+    {
+      "fp": "1283mba",
+      "i": 138,
+      "from": 36216,
+      "subject": "mask",
+      "entities": [],
+      "concept": "mask",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "mask, running a cover identity, 1982"
+      },
+      "antidote": {
+        "concept": "mask",
+        "cast": []
+      },
+      "_said": "For weeks, he's been running a cover identity, posing as a wealthy oil speculator, taking Yasmin out to expensive dinners, pretending to offer her a consulting gig."
+    },
+    {
+      "fp": "awjbyx",
+      "i": 139,
+      "from": 36470,
+      "subject": "work",
+      "entities": [],
+      "concept": "work",
+      "place": "office",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "work, run out, office, 1982"
+      },
+      "antidote": {
+        "concept": "work",
+        "set": "office",
+        "cast": []
+      },
+      "_said": "But tonight, the clock has run out. His boss ordered him to close the deal, drop the cover, and recruit her for the CIA."
+    },
+    {
+      "fp": "1epz6pd",
+      "i": 140,
+      "from": 36650,
+      "subject": "Lawler",
+      "entities": [
+        "lawler"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Lawler, sits there sweating through his suit, 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "lawler"
+        ]
+      },
+      "_said": "The absolute moment of truth. The stakes literally could not be higher. Right? So, Lawler sits there sweating through his suit, and he finally confesses."
+    },
+    {
+      "fp": "1y9qtkr",
+      "i": 141,
+      "from": 36876,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "He drops the fake swagger. He says, \"I'm not an oil speculator. I am an officer for American intelligence. We want to undermine your country's theocracy."
+    },
+    {
+      "fp": "1jkdup7",
+      "i": 142,
+      "from": 37097,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Will you work for the CIA?\" Oh, wow. And Yasmin's reaction is visceral. She gasps. She physically recoils, grips the tablecloth so hard her knuckles go white, her eyes go wide with"
+    },
+    {
+      "fp": "r92yc9",
+      "i": 143,
+      "from": 37445,
+      "subject": "Lawler",
+      "entities": [
+        "lawler"
+      ],
+      "concept": null,
+      "place": "cafe",
+      "confidence": 0.85,
+      "vox": {
+        "shot": "Lawler, leaving him all alone, cafe, 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": "cafe",
+        "cast": [
+          "lawler"
+        ]
+      },
+      "_said": "She starts shaking her head frantically, bursts into tears, and immediately flees the restaurant, leaving him all alone. Leaving Lawler sitting there, realizing he has completely"
+    },
+    {
+      "fp": "gkovbt",
+      "i": 144,
+      "from": 37738,
+      "subject": "work",
+      "entities": [],
+      "concept": "work",
+      "place": "office",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "work, office, 1982"
+      },
+      "antidote": {
+        "concept": "work",
+        "set": "office",
+        "cast": []
+      },
+      "_said": "blown it, and his career is definitively over. She knows her government executes people for even speaking to American spies. And why did he fail?"
+    },
+    {
+      "fp": "oo2027",
+      "i": 145,
+      "from": 37999,
+      "subject": "Lawler — target",
+      "entities": [
+        "lawler"
+      ],
+      "concept": "target",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Lawler, 1982"
+      },
+      "antidote": {
+        "concept": "target",
+        "cast": [
+          "lawler"
+        ]
+      },
+      "_said": "Because Lawler, in the most critical moment of his life, was trying to use a practical bucket to solve an emotional problem. He was offering objective facts."
+    },
+    {
+      "fp": "duoir2",
+      "i": 146,
+      "from": 38242,
+      "subject": "work",
+      "entities": [],
+      "concept": "work",
+      "place": "office",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "work, office, 1982"
+      },
+      "antidote": {
+        "concept": "work",
+        "set": "office",
+        "cast": []
+      },
+      "_said": "Here is my real identity. Here is my goal. Here is the job offer. But you cannot argue someone into a connection."
+    },
+    {
+      "fp": "1vvueg4",
+      "i": 147,
+      "from": 38438,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "You cannot use cold logic to overcome the mortal terror of being executed. But the wild part of this story is that he eventually does recruit her."
+    },
+    {
+      "fp": "10pdy69",
+      "i": 148,
+      "from": 38686,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "How does he pull that off after such a catastrophic failure? By entirely switching buckets. Days later, he manages to get her to agree to one final brief meeting."
+    },
+    {
+      "fp": "19vln64",
+      "i": 149,
+      "from": 39014,
+      "subject": "tree",
+      "entities": [],
+      "concept": "tree",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "tree, leaves the facts and logic at the door, 1982"
+      },
+      "antidote": {
+        "concept": "tree",
+        "set": null,
+        "cast": []
+      },
+      "_said": "And this time, he leaves the facts and logic at the door. He focuses entirely on matching her feeling. He doesn't pitch her on American democracy."
+    },
+    {
+      "fp": "1u0ooy4",
+      "i": 150,
+      "from": 39262,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "He opens up about his own deep, crushing doubts. He gets vulnerable. Exactly. He confesses his fear of failure."
+    },
+    {
+      "fp": "lww7la",
+      "i": 151,
+      "from": 39468,
+      "subject": "work",
+      "entities": [],
+      "concept": "work",
+      "place": "office",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "work, office, 1982"
+      },
+      "antidote": {
+        "concept": "work",
+        "set": "office",
+        "cast": []
+      },
+      "_said": "He admits he's on the verge of being fired, that he feels out of his depth, that he's terrified. He stops treating her like an asset on a chessboard and starts treating her like a "
+    },
+    {
+      "fp": "6noys1",
+      "i": 152,
+      "from": 39818,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "terrified flawed human being. He recruited a master spy not with logic but by matching her emotional It's the mechanism of emotional"
+    },
+    {
+      "fp": "17auk07",
+      "i": 153,
+      "from": 40085,
+      "subject": "mirror",
+      "entities": [],
+      "concept": "mirror",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "mirror, 1982"
+      },
+      "antidote": {
+        "concept": "mirror",
+        "set": null,
+        "cast": []
+      },
+      "_said": "Yes, emotional contagion is a biological reality rooted in our mirror neurons and vulnerability is one of our loudest emotions."
+    },
+    {
+      "fp": "rh9ny6",
+      "i": 154,
+      "from": 40361,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "The human brain is evolutionarily hardwired to notice it above almost all other signals."
+    },
+    {
+      "fp": "14q60tw",
+      "i": 155,
+      "from": 40536,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "When someone shares something raw that exposes them to judgment, it acts like a tuning fork in a silent room. It forces the brains around it to resonate. Okay, I have to pause here"
+    },
+    {
+      "fp": "i8pc4s",
+      "i": 156,
+      "from": 40858,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, 1982"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "really need to look at the ethics of this. We need to look at the dark underbelly. Isn't this incredibly deeply cynical? Oh, I know where you're going with this. We're talking abou"
+    },
+    {
+      "fp": "no5wag",
+      "i": 157,
+      "from": 41242,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": "cafe",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone, cafe, 1982"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": "cafe",
+        "cast": []
+      },
+      "_said": "He is hacking her neurochemistry so she'll commit high treason which could literally get her tortured and killed. Calling this a meaningful human connection feels incredibly dark."
+    },
+    {
+      "fp": "7lsp60",
+      "i": 158,
+      "from": 41489,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "It feels predatory. That is a very fair, very heavy critique and it's one researchers grapple with. But here is the fascinating paradox at the heart of the matching principle."
+    },
+    {
+      "fp": "3w5uu6",
+      "i": 159,
+      "from": 41786,
+      "subject": "Lawler",
+      "entities": [
+        "lawler"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Lawler, 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "lawler"
+        ]
+      },
+      "_said": "You cannot fake it. Not sustainably and not in high stakes environments. To convince Yasmin that he cared about her to trigger that emotional contagion, Lawler actually had to care"
+    },
+    {
+      "fp": "wq4upg",
+      "i": 160,
+      "from": 42158,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "If he was just reciting lines from a psychology manual about how to display vulnerability, she would have sensed the inongruity. Our brains are incredibly adept at sniffing out ina"
+    },
+    {
+      "fp": "1srojut",
+      "i": 161,
+      "from": 42485,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "The connection had to be entirely genuine to work, which is exactly why his previous slick manufactured attempts failed. He only succeeded when he dropped the act, abandoned his eg"
+    },
+    {
+      "fp": "2l8cwk",
+      "i": 162,
+      "from": 42847,
+      "subject": "shield",
+      "entities": [],
+      "concept": "shield",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "shield, 1982"
+      },
+      "antidote": {
+        "concept": "shield",
+        "cast": []
+      },
+      "_said": "this really It wasn't about geopolitics. No, it was about a terrified woman who needed to know she was safe talking to a terrified man who needed to know he wasn't a So,"
+    },
+    {
+      "fp": "1vkijpb",
+      "i": 163,
+      "from": 43145,
+      "subject": "key",
+      "entities": [],
+      "concept": "key",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "key, walk around spilling your deepest, 1982"
+      },
+      "antidote": {
+        "concept": "key",
+        "set": null,
+        "cast": []
+      },
+      "_said": "genuine vulnerability is the key that unlocks the emotional bucket. But how do you just conjure that up in everyday life? I mean, you can't just walk around spilling your deepest, "
+    },
+    {
+      "fp": "8d1uvc",
+      "i": 164,
+      "from": 43471,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "to everyone you meet. That's trauma dumping and it pushes people away. You definitely don't want to do that. But you can invite vulnerability by asking the right questions. Let's l"
+    },
+    {
+      "fp": "1cjb1is",
+      "i": 165,
+      "from": 43829,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "sits them knee to knee, 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Arthur Enron. Picture his laboratory in the 1990s. He takes two complete strangers, never met, different backgrounds, and sits them knee to knee."
+    },
+    {
+      "fp": "pfddce",
+      "i": 166,
+      "from": 44110,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "They aren't allowed to engage in the quiet negotiation. They aren't allowed to talk about the weather or their commutes. Instead, they are handed a deck of cards with a very specif"
+    },
+    {
+      "fp": "1eige2i",
+      "i": 167,
+      "from": 44402,
+      "subject": "heart",
+      "entities": [],
+      "concept": "heart",
+      "place": "cafe",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "heart, cafe, 1982"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": "cafe",
+        "cast": []
+      },
+      "_said": "These are the famous 36 questions that lead to love. Right. The ones who went Exactly. And the structure is brilliant."
+    },
+    {
+      "fp": "1xsjt26",
+      "i": 168,
+      "from": 44621,
+      "subject": "food",
+      "entities": [],
+      "concept": "food",
+      "place": "kitchen",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "food, kitchen, 1982"
+      },
+      "antidote": {
+        "concept": "food",
+        "set": "kitchen",
+        "cast": []
+      },
+      "_said": "They start somewhat light, but they escalate quickly in intimacy. They move from, \"Given the choice of anyone in the world, whom would you want as a dinner guest to things like,\"If"
+    },
+    {
+      "fp": "o0kspv",
+      "i": 169,
+      "from": 44933,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": "kitchen",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, kitchen, 1982"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": "kitchen",
+        "cast": []
+      },
+      "_said": "could tell you the truth about your life, what would you want to know?\" And by the end, they are incredibly heavy. Like, of all the people in your family, whose death would you fin"
+    },
+    {
+      "fp": "yli5p5",
+      "i": 170,
+      "from": 45257,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "And the final step, if I remember correctly, is that after answering all 36 questions, they have to stare silently into each other's eyes for four unbroken minutes, which sounds"
+    },
+    {
+      "fp": "1723owj",
+      "i": 171,
+      "from": 45612,
+      "subject": "rocketLaunch",
+      "entities": [],
+      "concept": "rocketLaunch",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "rocket launch, 1982"
+      },
+      "antidote": {
+        "concept": "rocketLaunch",
+        "set": null,
+        "cast": []
+      },
+      "_said": "It sounds agonizing, but what Aaron found was mathematically astounding. By forcing people to ask about values, fears, and feelings rather than just exchanging facts like resumes, "
+    },
+    {
+      "fp": "16cg0o9",
+      "i": 172,
+      "from": 45989,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "in under an hour that usually takes years to build. Several of the couples actually ended up getting married. That's wild. The takeaway is that we consistently vastly underestimate"
+    },
+    {
+      "fp": "18dbyl6",
+      "i": 173,
+      "from": 46315,
+      "subject": "subway",
+      "entities": [],
+      "concept": "subway",
+      "place": "street",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "subway, street, 1982"
+      },
+      "antidote": {
+        "concept": "subway",
+        "set": "street",
+        "cast": []
+      },
+      "_said": "actually want to be asked deep questions. We think we're being intrusive, but people are often desperate to be truly seen. Which brings us to Nick Epley's train study."
+    },
+    {
+      "fp": "13zs39m",
+      "i": 174,
+      "from": 46579,
+      "subject": "subway",
+      "entities": [],
+      "concept": "subway",
+      "place": "street",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "subway, street, 1982"
+      },
+      "antidote": {
+        "concept": "subway",
+        "set": "street",
+        "cast": []
+      },
+      "_said": "I absolutely love this because it highlights this exact blind spot. Epley is a behavioral science researcher who forced daily commuters in Chicago to talk to strangers on the train"
+    },
+    {
+      "fp": "1xtp6q5",
+      "i": 175,
+      "from": 46886,
+      "subject": "subway",
+      "entities": [],
+      "concept": "subway",
+      "place": "street",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "subway, street, 1982"
+      },
+      "antidote": {
+        "concept": "subway",
+        "set": "street",
+        "cast": []
+      },
+      "_said": "Now, if you've ever ridden a commuter train at 7 a.m., you know the universal rule of public transit. Headphones in, eyes down, do not make eye contact."
+    },
+    {
+      "fp": "v64eyx",
+      "i": 176,
+      "from": 47174,
+      "subject": "lightbulb",
+      "entities": [],
+      "concept": "lightbulb",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "lightbulb, 1982"
+      },
+      "antidote": {
+        "concept": "lightbulb",
+        "cast": []
+      },
+      "_said": "Let me exist in my bubble. The ultimate modern isolation chamber, right? The commuters in the study dreaded the idea."
+    },
+    {
+      "fp": "st74pw",
+      "i": 177,
+      "from": 47362,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "They predicted it would be horribly awkward and intrusive, but Epley forced them to have deep conversations, and the result, they loved it."
+    },
+    {
+      "fp": "1tfanxu",
+      "i": 178,
+      "from": 47590,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "They reported significantly higher levels of happiness and connection than the control group who sat in silence. But there's a massive catch to this, right?"
+    },
+    {
+      "fp": "q1qci",
+      "i": 179,
+      "from": 47820,
+      "subject": "gift",
+      "entities": [],
+      "concept": "gift",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "gift, 1982"
+      },
+      "antidote": {
+        "concept": "gift",
+        "cast": []
+      },
+      "_said": "Aaron discovered that reciprocity is absolutely Yes. You can't just act like an investigative journalist. If you ask someone all 36 questions in a row and just nod and take notes, "
+    },
+    {
+      "fp": "n05mfs",
+      "i": 180,
+      "from": 48192,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "You must take turns. When they answer a question, you have to answer the exact same question yourself. That reciprocal vulnerability is what triggers the emotional contagion. It pr"
+    },
+    {
+      "fp": "1er5l6m",
+      "i": 181,
+      "from": 48530,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "them. But again, let's translate this out of the sterile psychology lab and into the real world."
+    },
+    {
+      "fp": "anplxv",
+      "i": 182,
+      "from": 48703,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": "office",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "family, walk up to kevin by the office coffee machin, office, 1982"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": "office",
+        "cast": []
+      },
+      "_said": "I can't just walk up to Kevin by the office coffee machine on a Monday morning and say, \"Hey, Kevin, nice spreadsheet. Hey, whose death in your family would you find most disturbin"
+    },
+    {
+      "fp": "1yxovuu",
+      "i": 183,
+      "from": 49068,
+      "subject": "work",
+      "entities": [],
+      "concept": "work",
+      "place": "office",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "work, office, 1982"
+      },
+      "antidote": {
+        "concept": "work",
+        "set": "office",
+        "cast": []
+      },
+      "_said": "with HR. It's incredibly creepy. You're completely right. You can't jump straight to mortality over bad office coffee."
+    },
+    {
+      "fp": "17s37ny",
+      "i": 184,
+      "from": 49265,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "But the brilliance of this framework is that a deep question doesn't have to be dark."
+    },
+    {
+      "fp": "tbd92n",
+      "i": 185,
+      "from": 49418,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "A deep question is simply any question that asks for a value, a belief, or a feeling rather than a verifiable fact."
+    },
+    {
+      "fp": "l9maqd",
+      "i": 186,
+      "from": 49673,
+      "subject": "school",
+      "entities": [],
+      "concept": "school",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "school, 1982"
+      },
+      "antidote": {
+        "concept": "school",
+        "set": null,
+        "cast": []
+      },
+      "_said": "Instead of asking Kevin, where did you go to college, which is a fact, bucket one,"
+    },
+    {
+      "fp": "12xqmc",
+      "i": 187,
+      "from": 49843,
+      "subject": "school",
+      "entities": [],
+      "concept": "school",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "school, 1982"
+      },
+      "antidote": {
+        "concept": "school",
+        "set": null,
+        "cast": []
+      },
+      "_said": "you ask, \"What was the best part of your college experience?\" or \"What's the best part of your job right now?\" You are asking Kevin to evaluate his life and share his internal land"
+    },
+    {
+      "fp": "47dmyn",
+      "i": 188,
+      "from": 50165,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "That is a deep question. It bypasses the resume and it directly asks, \"What's this really about? Who are you really behind the spreadsheet?\" Okay, so we're asking deep questions an"
+    },
+    {
+      "fp": "1nvynkg",
+      "i": 189,
+      "from": 50482,
+      "subject": "gift",
+      "entities": [],
+      "concept": "gift",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "gift, wait for their turn to very true, 1982"
+      },
+      "antidote": {
+        "concept": "gift",
+        "cast": []
+      },
+      "_said": "offering reciprocal vulnerability. But how do we prove to the other person in real time that we are actually absorbing what they're giving us because sometimes people just wait for"
+    },
+    {
+      "fp": "jgmrd",
+      "i": 190,
+      "from": 50825,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "This brings us to a conversational technique that I have to admit sounds a bit like a Jedi mind trick. Let's drop into another incredibly high stakes Let's do it. We are with Felix"
+    },
+    {
+      "fp": "j2gu4x",
+      "i": 191,
+      "from": 51185,
+      "subject": "ledge",
+      "entities": [],
+      "concept": "ledge",
+      "place": "street",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "ledge, sitting in a conference room with a group of hi, street, 1982"
+      },
+      "antidote": {
+        "concept": "ledge",
+        "set": "street",
+        "cast": []
+      },
+      "_said": "He talks armed bank robbers down from the ledge. But right now, he is sitting in a conference room with a group of highly skeptical arms crossed academic scientists who want to kno"
+    },
+    {
+      "fp": "1ndk1f1",
+      "i": 192,
+      "from": 51478,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": "kitchen",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, kitchen, 1982"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": "kitchen",
+        "cast": []
+      },
+      "_said": "They think he's just a slick talker. Tough crowd. So, he turns to a woman in the room, a psychology professor, who' briefly mentioned she was a single mom."
+    },
+    {
+      "fp": "vad0la",
+      "i": 193,
+      "from": 51701,
+      "subject": "gift",
+      "entities": [],
+      "concept": "gift",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "gift, 1982"
+      },
+      "antidote": {
+        "concept": "gift",
+        "cast": []
+      },
+      "_said": "And he asks her a seemingly random but very deep question. What advice would you give to someone going through a divorce?"
+    },
+    {
+      "fp": "1xlg3ew",
+      "i": 194,
+      "from": 51953,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "standing in front of all her colleagues suddenly, 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Now this woman standing in front of all her colleagues suddenly starts opening up deeply. She talks about the pain of her separation, the loneliness, the fear for her kids."
+    },
+    {
+      "fp": "yqrujb",
+      "i": 195,
+      "from": 52219,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "And then what does he do? After a few moments, Sigala gently interrupts her,"
+    },
+    {
+      "fp": "jg065",
+      "i": 196,
+      "from": 52368,
+      "subject": "shield",
+      "entities": [],
+      "concept": "shield",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "shield, 1982"
+      },
+      "antidote": {
+        "concept": "shield",
+        "cast": []
+      },
+      "_said": "not to be rude, but to prove his point to the room. He points out that in less than an hour, using one specific technique, he had created an environment so profoundly safe, she was"
+    },
+    {
+      "fp": "1om9r4h",
+      "i": 197,
+      "from": 52706,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": "cafe",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone, cafe, 1982"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": "cafe",
+        "cast": []
+      },
+      "_said": "to share her most intimate life details with co-workers. And the specific mechanical tool he used is called looping. Looping. I want to understand exactly how this works. Break dow"
+    },
+    {
+      "fp": "iimom8",
+      "i": 198,
+      "from": 53102,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "First, you ask a question, ideally a deep one, that asks for a value or a feeling. Second, you listen, and then you summarize back to the person what you just heard them say, but y"
+    },
+    {
+      "fp": "1drlbr1",
+      "i": 199,
+      "from": 53417,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "You distill their point. And third, and this is the absolute most critical, non-negotiable step. You ask a variation of the question,"
+    },
+    {
+      "fp": "qsjflm",
+      "i": 200,
+      "from": 53659,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "did I get that right? Did I get that right? Yes. Proving that you are listening is what actually changes the chemistry of the other person."
+    },
+    {
+      "fp": "1iu40zy",
+      "i": 201,
+      "from": 53870,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Sigali used this in the most extreme circumstances imaginable. He once negotiated with a man who had suffered a psychological break and barricaded himself in a room. And he wasn't "
+    },
+    {
+      "fp": "d0374e",
+      "i": 202,
+      "from": 54185,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "He was barricaded with six highly venomous cobras, 19 rattlesnakes, and a massive iguana. That is literally a nightmare scenario."
+    },
+    {
+      "fp": "18jcdcj",
+      "i": 203,
+      "from": 54431,
+      "subject": "game",
+      "entities": [],
+      "concept": "game",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "game, 1982"
+      },
+      "antidote": {
+        "concept": "game",
+        "set": null,
+        "cast": []
+      },
+      "_said": "[laughter] Indiana Jones's worst fear. Exactly. And the SWAT team is outside ready to breach. But Sagala didn't go in screaming about the penal code or demanding surrender."
+    },
+    {
+      "fp": "1531e17",
+      "i": 204,
+      "from": 54746,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "He started looping. He asked the man about the snakes. And when the man talked about how misunderstood the animals were, how beautiful they were, Sagala looped his understanding. H"
+    },
+    {
+      "fp": "1hyl6w1",
+      "i": 205,
+      "from": 55080,
+      "subject": "shield",
+      "entities": [],
+      "concept": "shield",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "shield, 1982"
+      },
+      "antidote": {
+        "concept": "shield",
+        "cast": []
+      },
+      "_said": "from the perspective of the snakes and the man who loved them. He proved he was listening and he asked, \"Did I understand that correctly? You're trying to protect them.\" And becaus"
+    },
+    {
+      "fp": "n6xszn",
+      "i": 206,
+      "from": 55418,
+      "subject": "work",
+      "entities": [],
+      "concept": "work",
+      "place": "office",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "work, office, 1982"
+      },
+      "antidote": {
+        "concept": "work",
+        "set": "office",
+        "cast": []
+      },
+      "_said": "No shots fired, no snakes Okay, I have to throw a massive flag on the play here because conceptually, I get it."
+    },
+    {
+      "fp": "agy8nr",
+      "i": 207,
+      "from": 55649,
+      "subject": "medical",
+      "entities": [],
+      "concept": "medical",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "medical, 1982"
+      },
+      "antidote": {
+        "concept": "medical",
+        "set": null,
+        "cast": []
+      },
+      "_said": "But in practice, looping sounds exactly like that incredibly annoying robotic therapy technique from 1990s"
+    },
+    {
+      "fp": "1x32tmv",
+      "i": 208,
+      "from": 55846,
+      "subject": "medical",
+      "entities": [],
+      "concept": "medical",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "medical, 1982"
+      },
+      "antidote": {
+        "concept": "medical",
+        "set": null,
+        "cast": []
+      },
+      "_said": "couples counseling. the therapy speak. Yes. You know, when someone puts on a soft voice and says, \"So what I hear you saying is that you are angry.\" It feels so condescending, so m"
+    },
+    {
+      "fp": "1dm0jlp",
+      "i": 209,
+      "from": 56225,
+      "subject": "home",
+      "entities": [],
+      "concept": "home",
+      "place": "kitchen",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "home, kitchen, 1982"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": "kitchen",
+        "cast": []
+      },
+      "_said": "If my partner does that to me during a heated fight in the kitchen, it makes me want to punch a hole in the drywall. It doesn't feel empathetic."
+    },
+    {
+      "fp": "2adomv",
+      "i": 210,
+      "from": 56422,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "It feels like they are managing me. And you are entirely 100%"
+    },
+    {
+      "fp": "1gwermc",
+      "i": 211,
+      "from": 56582,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "justified in feeling that way. Because if looping is done as a script, if it's deployed as a tactic without genuine curiosity,"
+    },
+    {
+      "fp": "1po6ecw",
+      "i": 212,
+      "from": 56832,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "it is terrible. It feels like a cheap parlor trick. But true looping, the kind Sigal does, relies entirely on the genuine execution of that third step. Did I get that right?"
+    },
+    {
+      "fp": "1ob22pw",
+      "i": 213,
+      "from": 57113,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "The check for accuracy. When you ask that, and you mean it, you are forcing yourself to be profoundly humble."
+    },
+    {
+      "fp": "2n817v",
+      "i": 214,
+      "from": 57314,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "You are handing the power dynamic entirely over to the other person and explicitly allowing them to correct you. It is an act of intellectual surrender."
+    },
+    {
+      "fp": "14a25vc",
+      "i": 215,
+      "from": 57566,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "If you say, \"So, what I hear you saying is you're mad because I didn't wash the dishes. Did I get that right?\" And they say, \"No, I'm not mad about the dishes."
+    },
+    {
+      "fp": "k84dbd",
+      "i": 216,
+      "from": 57768,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "I'm mad because you promised you would do it and you broke your promise.\" You have to accept that massive correction. You can't argue with it. True looping is the ultimate tool to "
+    },
+    {
+      "fp": "1ucjgjb",
+      "i": 217,
+      "from": 58102,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "It proves you care more about getting it right than being right. Wow. Okay. That distinction between paritting and surrendering changes everything."
+    },
+    {
+      "fp": "11so0fg",
+      "i": 218,
+      "from": 58318,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "So when you surrender that control, when you truly listen and allow yourself to be corrected, something physical actually happens in the room."
+    },
+    {
+      "fp": "pzaei7",
+      "i": 219,
+      "from": 58529,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "And this is where the science in Doohig's book gets incredibly cool. Let's step inside Bose Sver's neuroscience lab at Dartmouth."
+    },
+    {
+      "fp": "f620x2",
+      "i": 220,
+      "from": 58750,
+      "subject": "laptopMockup",
+      "entities": [],
+      "concept": "laptopMockup",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "laptop mockup, standing in a dark observation room looking at g, 1982"
+      },
+      "antidote": {
+        "concept": "laptopMockup",
+        "set": null,
+        "cast": []
+      },
+      "_said": "This study is fascinating. You're standing in a dark observation room looking at glowing computer screens showing live fMRI"
+    },
+    {
+      "fp": "p9jpmg",
+      "i": 221,
+      "from": 58992,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "watching a series of confusing, 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "brain scans of a group of people in the next room. They're watching a series of confusing, ambiguous movie clips together."
+    },
+    {
+      "fp": "e5tyca",
+      "i": 222,
+      "from": 59203,
+      "subject": "water",
+      "entities": [],
+      "concept": "water",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "water, 1982"
+      },
+      "antidote": {
+        "concept": "water",
+        "set": null,
+        "cast": []
+      },
+      "_said": "At first, the brain waves on the monitors are a complete mess. They look like chaotic mismatched scribbles. Everyone is processing the movie differently, right?"
+    },
+    {
+      "fp": "1ckpr37",
+      "i": 223,
+      "from": 59450,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "There is absolutely no cohesion. Isolated islands of processing. But then a specific type of person enters the group and starts talking with them about the clips."
+    },
+    {
+      "fp": "1hlg4y5",
+      "i": 224,
+      "from": 59729,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": "cafe",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone, cafe, 1982"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": "cafe",
+        "cast": []
+      },
+      "_said": "Sever calls this type of person a high centrality participant. And almost like magic, as this person starts interacting with the group, the brain waves on the monitors literally be"
+    },
+    {
+      "fp": "10fj86x",
+      "i": 225,
+      "from": 60029,
+      "subject": "game",
+      "entities": [],
+      "concept": "game",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "game, 1982"
+      },
+      "antidote": {
+        "concept": "game",
+        "set": null,
+        "cast": []
+      },
+      "_said": "the jagged lines start to match the frequency and amplitude of the others. This is the biological phenomenon known as neural entrainment."
+    },
+    {
+      "fp": "1oobjzv",
+      "i": 226,
+      "from": 60245,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "When people truly connect, their brains literally align. It's not a poetic metaphor. It is a measurable physiological state."
+    },
+    {
+      "fp": "4r7l4o",
+      "i": 227,
+      "from": 60466,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "fall in the exact same regions at the exact, 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "The blood oxygen levels in their brains rise and fall in the exact same regions at the exact same time. Their pupils dilate in tandem."
+    },
+    {
+      "fp": "nr7qbm",
+      "i": 228,
+      "from": 60710,
+      "subject": "game",
+      "entities": [],
+      "concept": "game",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "game, 1982"
+      },
+      "antidote": {
+        "concept": "game",
+        "set": null,
+        "cast": []
+      },
+      "_said": "Their pulse rates match. That is incredible. and you feel that physical prickle on the back of your neck during an amazing conversation or when a whole theater gasps at the exact s"
+    },
+    {
+      "fp": "1x28gu0",
+      "i": 229,
+      "from": 61030,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "That is neural entrainment. It's like a room full of metronomes that start out ticking out of phase but slowly inevitably"
+    },
+    {
+      "fp": "rk75eo",
+      "i": 230,
+      "from": 61253,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "force each other to tick in absolute perfect unison. And what's wild to me is how the high centrality participant achieves this synchronization."
+    },
+    {
+      "fp": "aui74t",
+      "i": 231,
+      "from": 61510,
+      "subject": "water",
+      "entities": [],
+      "concept": "water",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "water, 1982"
+      },
+      "antidote": {
+        "concept": "water",
+        "set": null,
+        "cast": []
+      },
+      "_said": "It's not the alpha personality. The super communicator who aligns the group's brain wave is actually the one who listens the most and dominates the conversation the They are the ex"
+    },
+    {
+      "fp": "1n3mqto",
+      "i": 232,
+      "from": 61860,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "leave a visible footprint on the conversation, 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Exactly. They barely leave a visible footprint on the conversation. When severs pulled the group members afterward and asked who the leader was, they rarely realized"
+    },
+    {
+      "fp": "1g4g0t1",
+      "i": 233,
+      "from": 62141,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "how much this quiet, unassuming person had swayed the group's consensus."
+    },
+    {
+      "fp": "epvu0d",
+      "i": 234,
+      "from": 62297,
+      "subject": "game",
+      "entities": [],
+      "concept": "game",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "game, 1982"
+      },
+      "antidote": {
+        "concept": "game",
+        "set": null,
+        "cast": []
+      },
+      "_said": "What these super communicators do is gently nudge others to hear one another. They match tones. They validate emotions."
+    },
+    {
+      "fp": "197f8zk",
+      "i": 235,
+      "from": 62506,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "They ask deep questions. And they loop. Like, wait, John, you just said you felt the character was lying. Sarah, does that line up with how you saw it? Yes. They're conducting the "
+    },
+    {
+      "fp": "12uorr1",
+      "i": 236,
+      "from": 62801,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "not playing a solo. Wait, but if our brains just sync up automatically like a Wi-Fi signal searching for a router? It begs a philosophical question."
+    },
+    {
+      "fp": "1wla2jy",
+      "i": 237,
+      "from": 63041,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Are we just biological automatons? Does anything we choose to say even matter if our pupils and pulse rates are just going to biologically entrain on Q anyway?"
+    },
+    {
+      "fp": "1ivma7v",
+      "i": 238,
+      "from": 63266,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Mhm. Where's the agency in communication? You're flipping the causality. The biology is the result of the behavior, not the initial cause. The neural entrainment only happens becau"
+    },
+    {
+      "fp": "12kzl5r",
+      "i": 239,
+      "from": 63648,
+      "subject": "game",
+      "entities": [],
+      "concept": "game",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "game, 1982"
+      },
+      "antidote": {
+        "concept": "game",
+        "set": null,
+        "cast": []
+      },
+      "_said": "choices to match tones, ask deep questions, and validate feelings. It requires immense cognitive effort. The sinking is the reward for doing the hard work of communication."
+    },
+    {
+      "fp": "18zokq3",
+      "i": 240,
+      "from": 63994,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "wait into, 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Their brains sink because they have finally agreed on the answer to what's this really about. Okay, we've covered the practical bucket and we've explored the emotional bucket. Now "
+    },
+    {
+      "fp": "wmvhe5",
+      "i": 241,
+      "from": 64306,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "the most complex, most volatile bucket of all, the social conversation, the who are we This is where things get really tricky."
+    },
+    {
+      "fp": "1j1r4ip",
+      "i": 242,
+      "from": 64522,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "sitting in a modern glasswalled conference room, 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Imagine you were sitting in a modern glasswalled conference room. A high stakes project has just failed. A male executive gets deeply frustrated, raises his voice, slams his hand o"
+    },
+    {
+      "fp": "zcx17p",
+      "i": 243,
+      "from": 64853,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "anger. The room subtly nods. the unconscious bias kicks in and they view him as a strong, passionate leader taking charge of a crisis. Now imagine a female executive expresses"
+    },
+    {
+      "fp": "zneep0",
+      "i": 244,
+      "from": 65172,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "the exact same anger using the exact same words at the exact same The reaction is completely different. The room recoils. They exchange glances."
+    },
+    {
+      "fp": "1nca9qt",
+      "i": 245,
+      "from": 65438,
+      "subject": "law",
+      "entities": [],
+      "concept": "law",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "law, 1982"
+      },
+      "antidote": {
+        "concept": "law",
+        "set": null,
+        "cast": []
+      },
+      "_said": "They judge her as overly emotional, erratic, and lacking professional This is the social conversation operating invisibly right beneath the surface."
+    },
+    {
+      "fp": "20uoon",
+      "i": 246,
+      "from": 65710,
+      "subject": "school",
+      "entities": [],
+      "concept": "school",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "school, 1982"
+      },
+      "antidote": {
+        "concept": "school",
+        "set": null,
+        "cast": []
+      },
+      "_said": "Social identities hijack our interactions constantly. The double standards of society, whether they're based on race, gender, class, or political affiliation,"
+    },
+    {
+      "fp": "1f01fqv",
+      "i": 247,
+      "from": 66034,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "dictate who is allowed to be vulnerable, who is allowed to be angry, whose expertise is assumed."
+    },
+    {
+      "fp": "9u6lfl",
+      "i": 248,
+      "from": 66216,
+      "subject": "target",
+      "entities": [],
+      "concept": "target",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "target, leave at the door, 1982"
+      },
+      "antidote": {
+        "concept": "target",
+        "cast": []
+      },
+      "_said": "It is the invisible lens through which we interpret every single word a person It's the heavy baggage we physically cannot leave at the door, no matter how much we claim to be obje"
+    },
+    {
+      "fp": "uj6zui",
+      "i": 249,
+      "from": 66530,
+      "subject": "mask",
+      "entities": [],
+      "concept": "mask",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "mask, leave politics out, 1982"
+      },
+      "antidote": {
+        "concept": "mask",
+        "cast": []
+      },
+      "_said": "And the greatest mistake we make is trying to pretend the baggage doesn't exist. We strive for colorblindness or we say, \"Let's leave politics out of this.\" But look at studies on"
+    },
+    {
+      "fp": "1epxk0k",
+      "i": 250,
+      "from": 66790,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "highly polarized environments. If you put people with wildly different views on, say, gun control in a room and tell them to just look past your differences and find common ground,"
+    },
+    {
+      "fp": "b5qbah",
+      "i": 251,
+      "from": 67126,
+      "subject": "rocketLaunch",
+      "entities": [],
+      "concept": "rocketLaunch",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "rocket launch, 1982"
+      },
+      "antidote": {
+        "concept": "rocketLaunch",
+        "set": null,
+        "cast": []
+      },
+      "_said": "catastrophically fails. They end up screaming at each other. But researchers found a key to unlocking this."
+    },
+    {
+      "fp": "dd14ib",
+      "i": 252,
+      "from": 67303,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "when they force the opponents to acknowledge their social differences out loud right at the start. When one says, \"I am a gun owner from a rural town where hunting is our culture,\""
+    },
+    {
+      "fp": "11tqxoi",
+      "i": 253,
+      "from": 67632,
+      "subject": "mask",
+      "entities": [],
+      "concept": "mask",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "mask, 1982"
+      },
+      "antidote": {
+        "concept": "mask",
+        "cast": []
+      },
+      "_said": "densely populated city traumatized by gun violence,\" the dynamic entirely changes. Acknowledging social differences, putting the baggage on the table, is infinitely better than pre"
+    },
+    {
+      "fp": "1ehqj9p",
+      "i": 254,
+      "from": 67963,
+      "subject": "target",
+      "entities": [],
+      "concept": "target",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "target, 1982"
+      },
+      "antidote": {
+        "concept": "target",
+        "cast": []
+      },
+      "_said": "But I have to ask, especially in today's climate, if we constantly focus on our differences, on our intersecting social identities, doesn't that just divide us further? Shouldn't t"
+    },
+    {
+      "fp": "12598zp",
+      "i": 255,
+      "from": 68316,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "be to transcend identity? Shouldn't we just strive to treat each other as blank slate human It's a beautiful thought, but the reality is you cannot transcend a reality that you ref"
+    },
+    {
+      "fp": "qmwaga",
+      "i": 256,
+      "from": 68650,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "walk through the world, 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Ignoring a person's social reality, the lived experience that shapes how they walk through the world, means you are having a conversation with a fiction."
+    },
+    {
+      "fp": "184x0kx",
+      "i": 257,
+      "from": 68885,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "sitting in front of you, 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "You are talking to a projection of your own making, not the real complex person sitting in front of you. When identity is in the room, and it is always in the room, the"
+    },
+    {
+      "fp": "12nxx3h",
+      "i": 258,
+      "from": 69206,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "answer to what's this really about is always who are we to each If you ignore who they are, you are fundamentally in the wrong conversation. Exactly. Which brings me to a massive"
+    },
+    {
+      "fp": "lqum2j",
+      "i": 259,
+      "from": 69538,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "overarching critique of this entire framework. We spent this deep dive breaking down Doohig's theories. But I have to be incredibly honest with you."
+    },
+    {
+      "fp": "3cmmfu",
+      "i": 260,
+      "from": 69775,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "If we are breaking human communication down into these sterile types and buckets, if we are deploying 36 question surveys like psychological algorithms and using FBI looping techni"
+    },
+    {
+      "fp": "14292ne",
+      "i": 261,
+      "from": 70116,
+      "subject": "puppeteer",
+      "entities": [],
+      "concept": "puppeteer",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "puppeteer, 1982"
+      },
+      "antidote": {
+        "concept": "puppeteer",
+        "cast": []
+      },
+      "_said": "we just turning empathy into manipulation? That is the big question. Are we just teaching sociopaths, salespeople, and politicians"
+    },
+    {
+      "fp": "zz83tj",
+      "i": 262,
+      "from": 70332,
+      "subject": "dollarExchange",
+      "entities": [],
+      "concept": "dollarExchange",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "dollar exchange, 1982"
+      },
+      "antidote": {
+        "concept": "dollarExchange",
+        "set": null,
+        "cast": []
+      },
+      "_said": "how to mimic human connections so they can sell us more things or win our votes or recruit us into spy agencies?"
+    },
+    {
+      "fp": "1b4899u",
+      "i": 263,
+      "from": 70519,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Is this just a dark arts manual for fake charm? It is a profoundly valid, terrifying concern. And if you view these tools merely as"
+    },
+    {
+      "fp": "1m5houb",
+      "i": 264,
+      "from": 70793,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "hacks to extract value from other people, then yes, it is deeply manipulative. But here's why I firmly argue they are not just hacks for sociopaths."
+    },
+    {
+      "fp": "vb7150",
+      "i": 265,
+      "from": 71062,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "First, as we discussed with the fMRI scans, you cannot fake neural entrainment. The physiological connection relies on a foundation of genuine curiosity. Your autonomic nervous sys"
+    },
+    {
+      "fp": "1tzm57v",
+      "i": 266,
+      "from": 71386,
+      "subject": "mirror",
+      "entities": [],
+      "concept": "mirror",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "mirror, 1982"
+      },
+      "antidote": {
+        "concept": "mirror",
+        "set": null,
+        "cast": []
+      },
+      "_said": "you if you are faking it. The other person's mirror neurons will detect the inongruity because it's biological. Exactly. Furthermore, we have to ask the chicken or egg question. Do"
+    },
+    {
+      "fp": "1ht8rus",
+      "i": 267,
+      "from": 71729,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "merely describe what naturally warm empathetic people already do And what's the answer? Does the tool make the craftsman or does the craftsman use the tool?"
+    },
+    {
+      "fp": "70hw96",
+      "i": 268,
+      "from": 71974,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "The beautiful truth is that it's both. Practicing the mechanics of attention actually rewires your brain. This is neuroplasticity in action."
+    },
+    {
+      "fp": "rstvf3",
+      "i": 269,
+      "from": 72238,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "By forcing yourself to ask deep questions instead of superficial ones, by forcing yourself to loop and humbly ask, \"Did I get that You are actively suppressing your own ego."
+    },
+    {
+      "fp": "c840uj",
+      "i": 270,
+      "from": 72552,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "You are manually overriding your selfish desire to dominate the conversation. You are practicing the rigid discipline of empathy. And over time, acting empathetic"
+    },
+    {
+      "fp": "iivuwt",
+      "i": 271,
+      "from": 72830,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "literally makes you a more empathetic Yes, the pathways thicken. You aren't mimicking a super communicator. You are doing the reps in the gym to become one because connection at th"
+    },
+    {
+      "fp": "1ik6mil",
+      "i": 272,
+      "from": 73142,
+      "subject": "gift",
+      "entities": [],
+      "concept": "gift",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "gift, 1982"
+      },
+      "antidote": {
+        "concept": "gift",
+        "cast": []
+      },
+      "_said": "day is not a magical gift of charisma. It is the relentless daily discipline of"
+    },
+    {
+      "fp": "tjmsgl",
+      "i": 273,
+      "from": 73342,
+      "subject": "law",
+      "entities": [],
+      "concept": "law",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "law, holding court with a brilliant monologue, 1982"
+      },
+      "antidote": {
+        "concept": "law",
+        "set": null,
+        "cast": []
+      },
+      "_said": "The super commmunicator is rarely the slickest talker in the room. They aren't the ones holding court with a brilliant monologue. They are the person who treats a conversation not "
+    },
+    {
+      "fp": "kw72ry",
+      "i": 274,
+      "from": 73658,
+      "subject": "target",
+      "entities": [],
+      "concept": "target",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "target, 1982"
+      },
+      "antidote": {
+        "concept": "target",
+        "cast": []
+      },
+      "_said": "They are the ones who relentlessly pause the tape, step back from the noise and ask themselves, what's this really about? And that attention, that deliberate focus"
+    },
+    {
+      "fp": "1ycrfw1",
+      "i": 275,
+      "from": 73918,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "leave you, 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "can be practiced by anyone starting today. So to wrap up this deep dive, I want to leave you, the listener, with something heavy to chew on, something to take into your week."
+    },
+    {
+      "fp": "6rzql5",
+      "i": 276,
+      "from": 74213,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": "cafe",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone, standing over drop bags in a rainy entryway stop, cafe, 1982"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": "cafe",
+        "cast": []
+      },
+      "_said": "Next time you find yourself wildly frustrated in a conversation with someone you love, like our couple in the opening scene, arguing over an HR email while standing over drop bags "
+    },
+    {
+      "fp": "1dn9vzp",
+      "i": 277,
+      "from": 74546,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Just stop talking. Bite your tongue, swallow your brilliant, practical solution, and look closely at their eyes. Ask yourself, are they actually trying to solve a problem right now"
+    },
+    {
+      "fp": "188456m",
+      "i": 278,
+      "from": 74887,
+      "subject": "heart",
+      "entities": [],
+      "concept": "heart",
+      "place": "cafe",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "heart, cafe, 1982"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": "cafe",
+        "cast": []
+      },
+      "_said": "Or are they just desperately begging to be seen? What if the absolute greatest act of love isn't fixing their life, but simply pulling up a chair and joining them in the conversati"
+    },
+    {
+      "fp": "19n4vzc",
+      "i": 279,
+      "from": 75202,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "having? That is the ultimate quiet negotiation, and it's one we can all with a little discipline get better at."
+    },
+    {
+      "fp": "16cn81h",
+      "i": 280,
+      "from": 75415,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1982"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Thank you so much for joining us on this deep dive. Take that question with you everywhere you go today. What's this really about? We'll see you next time."
+    }
+  ]
+}

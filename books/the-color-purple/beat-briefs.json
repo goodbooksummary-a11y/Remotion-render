@@ -1,0 +1,6839 @@
+{
+  "slug": "the-color-purple",
+  "authored": false,
+  "briefs": [
+    {
+      "fp": "okhlz3",
+      "i": 0,
+      "from": 0,
+      "subject": "Celie and Walker",
+      "entities": [
+        "celie",
+        "walker"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Celie and Walker, 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "celie",
+          "walker"
+        ]
+      },
+      "_said": "Celie's first two words are dear God and Alice Walker spends the entire book proving that this particular god has to die before Celie can actually live right out of the gate. That "
+    },
+    {
+      "fp": "11q3h9x",
+      "i": 1,
+      "from": 422,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "entire masterpiece spins on. You know Yeah. Completely."
+    },
+    {
+      "fp": "19093sv",
+      "i": 2,
+      "from": 504,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "reading a plea for help, 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Completely. Because you look at those two words on the very first page and your immediate instinct is to think, \"Oh, I'm reading a plea for help.\" Right."
+    },
+    {
+      "fp": "9khbrh",
+      "i": 3,
+      "from": 700,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "war, reading is the opening salvo of a theological w, 1800"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "Right. A desperate cry into the dark. Exactly. But what you're actually reading is the opening salvo of a theological war. It really is. It's a And that is exactly the argument we'"
+    },
+    {
+      "fp": "1jrabhl",
+      "i": 4,
+      "from": 1135,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Alice Walker's The Color Purple, but uh we"
+    },
+    {
+      "fp": "49d6jk",
+      "i": 5,
+      "from": 1231,
+      "subject": "school",
+      "entities": [],
+      "concept": "school",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "school, 1800"
+      },
+      "antidote": {
+        "concept": "school",
+        "set": null,
+        "cast": []
+      },
+      "_said": "we are not looking at it the way it's usually taught in high school lit classes. Oh, definitely not. Or how it's, you know, summarized in pop culture, right? because it's so often "
+    },
+    {
+      "fp": "1nvlffh",
+      "i": 6,
+      "from": 1483,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "as this survival story, like a harrowing tale about a black woman in the rural south escaping an incredibly abusive man, which I mean absolutely it is that"
+    },
+    {
+      "fp": "1jaqupo",
+      "i": 7,
+      "from": 1749,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "that on a literal level. Yes, 100%. But fundamentally, it's not just that. It is this profound"
+    },
+    {
+      "fp": "1rinnux",
+      "i": 8,
+      "from": 1932,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "earthshattering conversion story, a spiritual overhaul. Really? Exactly. We are going to argue today that"
+    },
+    {
+      "fp": "1rjv18i",
+      "i": 9,
+      "from": 2136,
+      "subject": "heart",
+      "entities": [],
+      "concept": "heart",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "heart, 1800"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": null,
+        "cast": []
+      },
+      "_said": "that Celie's true liberation is quite literally a change of address. I love that framing. a change of Yeah. And I mean that in the"
+    },
+    {
+      "fp": "1q56los",
+      "i": 10,
+      "from": 2376,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "notes, writing her letters to and what she, 1800"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": []
+      },
+      "_said": "the very specific sense of who she is writing her letters to and what she actually"
+    },
+    {
+      "fp": "bhioxe",
+      "i": 11,
+      "from": 2486,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "actually conceives God to be, she has to make this agonizing"
+    },
+    {
+      "fp": "17ssxch",
+      "i": 12,
+      "from": 2606,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "agonizing revolutionary move from a distant punishing patriarch in the sky down to the living, breathing natural world right in front of her. And to"
+    },
+    {
+      "fp": "1hg4a8u",
+      "i": 13,
+      "from": 2861,
+      "subject": "Walker",
+      "entities": [
+        "walker"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Walker, 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "walker"
+        ]
+      },
+      "_said": "to really understand how Walker pulls this off, we have to um ground ourselves in the actual machinery of the text for a second. We are examining an episttolary novel, right? For a"
+    },
+    {
+      "fp": "q8ytb6",
+      "i": 14,
+      "from": 3187,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "notes, 1800"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": []
+      },
+      "_said": "term since English 101, that means a story told entirely through letters or diary entries. Exactly."
+    },
+    {
+      "fp": "164c17u",
+      "i": 15,
+      "from": 3331,
+      "subject": "Walker",
+      "entities": [
+        "walker"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Walker, 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "walker"
+        ]
+      },
+      "_said": "Exactly. Yeah. But Walker isn't just using these letters as some clever narrative gimmick to get us from point A to point B."
+    },
+    {
+      "fp": "inue1m",
+      "i": 16,
+      "from": 3516,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "B. She's using the episttolary format as a theological engine. A theological engine. Let's unpack that for everyone listening."
+    },
+    {
+      "fp": "squttd",
+      "i": 17,
+      "from": 3717,
+      "subject": "Celie",
+      "entities": [
+        "celie"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Celie, 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "celie"
+        ]
+      },
+      "_said": "listening. Yeah. So, we are following Celie, a young black woman born into a just horrific,"
+    },
+    {
+      "fp": "1vrqdxc",
+      "i": 18,
+      "from": 3905,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "horrific, suffocating circumstances in the rural Jim"
+    },
+    {
+      "fp": "12ecae1",
+      "i": 19,
+      "from": 4005,
+      "subject": "Celie and Netti — family",
+      "entities": [
+        "celie",
+        "netti"
+      ],
+      "concept": "family",
+      "place": "kitchen",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Celie and Netti, kitchen, 1800"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": "kitchen",
+        "cast": [
+          "celie",
+          "netti"
+        ]
+      },
+      "_said": "Jim Crow South. And her only initial lifeline to sanity and love is her younger sister Netti. And as Celie endures"
+    },
+    {
+      "fp": "mropf1",
+      "i": 20,
+      "from": 4252,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": "kitchen",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, kitchen, 1800"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": "kitchen",
+        "cast": []
+      },
+      "_said": "endures unimaginable abuse, first from the man she believes is her father, Fonso, and later from the man she's literally sold to, Mr. Blank, whose first"
+    },
+    {
+      "fp": "1kjfuj3",
+      "i": 21,
+      "from": 4512,
+      "subject": "Albert",
+      "entities": [
+        "albert"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Albert, 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "albert"
+        ]
+      },
+      "_said": "first name is Albert Ree. The readers are invited to witness the internal architecture of her mind. We're basically eavesdroppers on her That's exactly what we are."
+    },
+    {
+      "fp": "xfi51h",
+      "i": 22,
+      "from": 4754,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "are. And we're challenged to listen incredibly closely to how Seely's internal narrative, you know, her spiritual vocabulary shifts and mutates, especially when she encounters the "
+    },
+    {
+      "fp": "10dkj9u",
+      "i": 23,
+      "from": 5037,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "singer Chug Avery, which is such a massive turning point. But I want to spend some real time on that episttolary concept first because it is so vital."
+    },
+    {
+      "fp": "tl3uqc",
+      "i": 24,
+      "from": 5237,
+      "subject": "Celie",
+      "entities": [
+        "celie"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Celie, 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "celie"
+        ]
+      },
+      "_said": "vital. Let's drop right into the harrowing opening of this text to see where this form actually comes from. It is one of the darkest origins of a narrative voice in modern literatu"
+    },
+    {
+      "fp": "umrccf",
+      "i": 25,
+      "from": 5678,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "old. She's cornered by her abuser, Fonso."
+    },
+    {
+      "fp": "1lp3ft6",
+      "i": 26,
+      "from": 5774,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "And he issues this threat that is meant to put a total terrifying gag order on her, right? He leans in and he says, and this is a direct quote, \"You better not never tell nobody bu"
+    },
+    {
+      "fp": "1f5x1d2",
+      "i": 27,
+      "from": 6081,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "God. It'd kill your mammy.\" If you pause and dissect the psychology of that moment, what's fascinating here is the sheer profound irony of that specific command. The irony is"
+    },
+    {
+      "fp": "k1yr1k",
+      "i": 28,
+      "from": 6391,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "is just staggering. It really is. Fonso's threat is explicitly designed to impose a total crushing silence. He is isolating her completely,"
+    },
+    {
+      "fp": "5qcq6k",
+      "i": 29,
+      "from": 6633,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": "kitchen",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, kitchen, 1800"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": "kitchen",
+        "cast": []
+      },
+      "_said": "completely, weaponizing her profound love for her mother against her. He's basically saying, if you speak, you become the murderer of the person you love most. Exactly. It"
+    },
+    {
+      "fp": "shsp8e",
+      "i": 30,
+      "from": 6895,
+      "subject": "gift",
+      "entities": [],
+      "concept": "gift",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "gift, 1800"
+      },
+      "antidote": {
+        "concept": "gift",
+        "cast": []
+      },
+      "_said": "It is a brilliant evil trap. But in doing so, in giving her that one tiny, seemingly harmless loophole, nobody"
+    },
+    {
+      "fp": "1d64740",
+      "i": 31,
+      "from": 7094,
+      "subject": "Celie — notes",
+      "entities": [
+        "celie"
+      ],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Celie, 1800"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": [
+          "celie"
+        ]
+      },
+      "_said": "nobody but God, he accidentally hands Celie the very tool of her eventual It's wild to think about. Her diary prayer format is literally born from The form of the novel itself is a"
+    },
+    {
+      "fp": "172tnu4",
+      "i": 32,
+      "from": 7428,
+      "subject": "grave",
+      "entities": [],
+      "concept": "grave",
+      "place": "forest",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "grave, forest, 1800"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": "forest",
+        "cast": []
+      },
+      "_said": "a direct product of this abusive gag order. He thinks he's burying her alive in a psychological grave."
+    },
+    {
+      "fp": "lpeawj",
+      "i": 33,
+      "from": 7574,
+      "subject": "grave",
+      "entities": [],
+      "concept": "grave",
+      "place": "forest",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "grave, forest, 1800"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": "forest",
+        "cast": []
+      },
+      "_said": "grave. Right. He thinks he is burying her in a void, but he actually just handed her a or a pen in this case. A pen. Yes. And you see the raw bleeding edge of this immediately in t"
+    },
+    {
+      "fp": "l193ae",
+      "i": 34,
+      "from": 7932,
+      "subject": "Celie — family",
+      "entities": [
+        "celie"
+      ],
+      "concept": "family",
+      "place": "kitchen",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Celie, kitchen, 1800"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": "kitchen",
+        "cast": [
+          "celie"
+        ]
+      },
+      "_said": "text. There's a scene shortly after where Celie's mother actually does die. And it's awful. She dies screaming and cursing at Celie, blaming her, which is just"
+    },
+    {
+      "fp": "c980oc",
+      "i": 35,
+      "from": 8208,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "just an unbearable layer of psychological torture."
+    },
+    {
+      "fp": "14qfd3n",
+      "i": 36,
+      "from": 8282,
+      "subject": "Celie — tree",
+      "entities": [
+        "celie"
+      ],
+      "concept": "tree",
+      "place": "forest",
+      "confidence": 0.85,
+      "vox": {
+        "shot": "Celie, forest, 1800"
+      },
+      "antidote": {
+        "concept": "tree",
+        "set": "forest",
+        "cast": [
+          "celie"
+        ]
+      },
+      "_said": "torture. And then Fonso takes away Celie's second baby, a boy. Celie already believes Fonso murdered her first baby out in the woods. So in the wake of this absolute"
+    },
+    {
+      "fp": "51iuyw",
+      "i": 37,
+      "from": 8546,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "notes, 1800"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": []
+      },
+      "_said": "absolute devastation, what does she do? She goes to her letters. She goes to the only place she can. Yeah. She writes, \"Kill this one too if you can.\" It is just"
+    },
+    {
+      "fp": "ai2267",
+      "i": 38,
+      "from": 8776,
+      "subject": "photo",
+      "entities": [],
+      "concept": "photo",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "photo, 1800"
+      },
+      "antidote": {
+        "concept": "photo",
+        "set": null,
+        "cast": []
+      },
+      "_said": "just devastating. The letters instantly become this raw, unflinching ledger of survival. If we connect this to the broader psychological picture of trauma, it's crucial"
+    },
+    {
+      "fp": "1agw00d",
+      "i": 39,
+      "from": 9079,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "notes, writing that line down, 1800"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": []
+      },
+      "_said": "crucial to recognize the massive shift that happens in the act of writing that line down. Tell me more about that."
+    },
+    {
+      "fp": "xyf22",
+      "i": 40,
+      "from": 9228,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "notes, writing the sentence, 1800"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": []
+      },
+      "_said": "that. We'll look at the syntax. Kill this one, too, if you can. Look at the emotional distance she is forced to create just to survive writing the sentence. That is not the languag"
+    },
+    {
+      "fp": "1hqcazo",
+      "i": 41,
+      "from": 9640,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "completely surrendered her mind. Right? It's something else entirely. It is the language of a witness. A witness"
+    },
+    {
+      "fp": "1n2exyq",
+      "i": 42,
+      "from": 9811,
+      "subject": "lightbulb",
+      "entities": [],
+      "concept": "lightbulb",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "lightbulb, 1800"
+      },
+      "antidote": {
+        "concept": "lightbulb",
+        "cast": []
+      },
+      "_said": "witness who's recording a crime. Okay. I see the power in that. But let me push back a little on this idea of the letters being a tool"
+    },
+    {
+      "fp": "1c58fli",
+      "i": 43,
+      "from": 9984,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "notes, writing as a trauma coping mechanism? i, 1800"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": []
+      },
+      "_said": "tool of liberation right out of the gate. Sure. Go ahead. Because if you think about it realistically, isn't she just writing as a trauma coping mechanism? I"
+    },
+    {
+      "fp": "cvith3",
+      "i": 44,
+      "from": 10245,
+      "subject": "Celie — notes",
+      "entities": [
+        "celie"
+      ],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Celie, read it, 1800"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": [
+          "celie"
+        ]
+      },
+      "_said": "I mean, therapists today tell people to journal just to process unmanageable pain. They do. Yeah. So, if Celie truly believes nobody on earth is ever going to read it, if she's"
+    },
+    {
+      "fp": "1y43c23",
+      "i": 45,
+      "from": 10531,
+      "subject": "shield",
+      "entities": [],
+      "concept": "shield",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "shield, 1800"
+      },
+      "antidote": {
+        "concept": "shield",
+        "cast": []
+      },
+      "_said": "she's just screaming into a void, is it really anything more than a psychological safety valve to keep her from completely losing her mind? It's a"
+    },
+    {
+      "fp": "11xsmaj",
+      "i": 46,
+      "from": 10742,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "a very understandable way to look at it. Yeah. And certainly on a neurological level, it acts as a pressure valve. But I have to argue it is far more than just a coping"
+    },
+    {
+      "fp": "owvf2u",
+      "i": 47,
+      "from": 11001,
+      "subject": "law",
+      "entities": [],
+      "concept": "law",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "law, 1800"
+      },
+      "antidote": {
+        "concept": "law",
+        "set": null,
+        "cast": []
+      },
+      "_said": "coping mechanism. It is absolutely testimony. Yes. I mean that in both the strict legal sense and the deepest spiritual sense of the word."
+    },
+    {
+      "fp": "9xb1f6",
+      "i": 48,
+      "from": 11311,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Think about the environment she is in. Fonso controls the physical He controls everything."
+    },
+    {
+      "fp": "7hr838",
+      "i": 49,
+      "from": 11493,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "reading these letters, 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "everything. He dictates where she goes, what she eats, what happens to her body, who she is allowed to look at, her physical sovereignty is zero. But even if she believes that only"
+    },
+    {
+      "fp": "1qnyt4m",
+      "i": 50,
+      "from": 11899,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "discuss, her conception of God at this point is deeply problematic."
+    },
+    {
+      "fp": "km4p15",
+      "i": 51,
+      "from": 11983,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "problematic. She's nonetheless creating an indestructible record of her existence. She is documenting the crimes. Exactly. Her abuser can control"
+    },
+    {
+      "fp": "2pij3q",
+      "i": 52,
+      "from": 12225,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "notes, writing it down, 1800"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": []
+      },
+      "_said": "control her physical environment, but he cannot touch this ledger. By the sheer act of writing it down, she proves to herself that she exists, that the abuse"
+    },
+    {
+      "fp": "1wyq4if",
+      "i": 53,
+      "from": 12477,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "abuse happened, and that she has an interior life, a mind that is entirely independent of his control. In a world that insists she is nothing, the letters are her daily"
+    },
+    {
+      "fp": "pmbc7b",
+      "i": 54,
+      "from": 12751,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "daily undeniable proof that she is something. That is an incredibly powerful framing."
+    },
+    {
+      "fp": "18j6gwg",
+      "i": 55,
+      "from": 12869,
+      "subject": "road",
+      "entities": [],
+      "concept": "road",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "road, 1800"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": null,
+        "cast": []
+      },
+      "_said": "framing. It's like she is building a secret room inside her own mind that he doesn't have the key to. That's a great way to put it. Her journey to freedom begins right here in this"
+    },
+    {
+      "fp": "10dz178",
+      "i": 56,
+      "from": 13240,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "address. Even if that address feels like a complete and utter Exactly. But this brings us to the crux"
+    },
+    {
+      "fp": "1f9etjs",
+      "i": 57,
+      "from": 13411,
+      "subject": "Celie and Walker",
+      "entities": [
+        "celie",
+        "walker"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Celie and Walker, 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "celie",
+          "walker"
+        ]
+      },
+      "_said": "crux of the theological dilemma Walker is setting up. We have to look incredibly closely at who exactly Celie believes"
+    },
+    {
+      "fp": "11z06h4",
+      "i": 58,
+      "from": 13634,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "believes she's addressing because the who changes everything. It changes the entire trajectory of her spiritual survival. Oh, absolutely. And here is where the text gets really sub"
+    },
+    {
+      "fp": "5n3u6s",
+      "i": 59,
+      "from": 13944,
+      "subject": "Celie and Walker — lightbulb",
+      "entities": [
+        "celie",
+        "walker"
+      ],
+      "concept": "lightbulb",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Celie and Walker, leave celie's idea of god as some vague abstr, 1800"
+      },
+      "antidote": {
+        "concept": "lightbulb",
+        "cast": [
+          "celie",
+          "walker"
+        ]
+      },
+      "_said": "Alice Walker doesn't leave Celie's idea of God as some vague abstract concept of light or goodness. No, she doesn't. She is very very specific about who Celie thinks is"
+    },
+    {
+      "fp": "o0la7w",
+      "i": 60,
+      "from": 14287,
+      "subject": "Celie",
+      "entities": [
+        "celie"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Celie, 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "celie"
+        ]
+      },
+      "_said": "is on the receiving end of these letters. Let's look at the scene where Celie is an adult."
+    },
+    {
+      "fp": "1rjsdyr",
+      "i": 61,
+      "from": 14402,
+      "subject": "Albert — home",
+      "entities": [
+        "albert"
+      ],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Albert, 1800"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": [
+          "albert"
+        ]
+      },
+      "_said": "adult. She's married off to Albert now. She's living in his house, raising his kids, taking his just relentless misery, right? And she is having this incredibly deep probing"
+    },
+    {
+      "fp": "j6x6uj",
+      "i": 62,
+      "from": 14692,
+      "subject": "Shug — home",
+      "entities": [
+        "shug"
+      ],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Shug, 1800"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": [
+          "shug"
+        ]
+      },
+      "_said": "probing conversation with Shug Avery, the blues singer, who has completely upended the dynamic of the house. And Shug asks her what God looks"
+    },
+    {
+      "fp": "1atav16",
+      "i": 63,
+      "from": 14901,
+      "subject": "Celie",
+      "entities": [
+        "celie"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Celie, 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "celie"
+        ]
+      },
+      "_said": "looks And Sila's answer is just so telling. Celie gives us her exact literal physical description. She says, \"God is a big and old and tall and"
+    },
+    {
+      "fp": "woy964",
+      "i": 64,
+      "from": 15156,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "and gray bearded and white man.\" She even detailed it further. She says, \"He has bluish gray eyes, white lashes. He wears long white robes and he goes barefoot. That specificity is"
+    },
+    {
+      "fp": "re1k97",
+      "i": 65,
+      "from": 15501,
+      "subject": "Celie and Walker",
+      "entities": [
+        "celie",
+        "walker"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Celie and Walker, 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "celie",
+          "walker"
+        ]
+      },
+      "_said": "everything. Walker is delivering a searing unapologetic indictment of the theology Celie has An indictment of the system itself. Exactly."
+    },
+    {
+      "fp": "9sgg9f",
+      "i": 66,
+      "from": 15768,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Exactly. Think about the implications of this image."
+    },
+    {
+      "fp": "2at0qq",
+      "i": 67,
+      "from": 15833,
+      "subject": "Celie and Walker",
+      "entities": [
+        "celie",
+        "walker"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Celie and Walker, 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "celie",
+          "walker"
+        ]
+      },
+      "_said": "image. Walker is pointing out that the divinity Celie has been taught to worship is shaped exactly physically and demographically like the very men who were crushing her on earth. "
+    },
+    {
+      "fp": "1s2xylc",
+      "i": 68,
+      "from": 16190,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "poor, abused black woman in the rural south, why in the world would a white male patriarchal god listen to you?"
+    },
+    {
+      "fp": "r8rmis",
+      "i": 69,
+      "from": 16396,
+      "subject": "chains",
+      "entities": [],
+      "concept": "chains",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "chains, 1800"
+      },
+      "antidote": {
+        "concept": "chains",
+        "cast": []
+      },
+      "_said": "you? What investment does that god have in your liberation? None at all. The utter grinding tragedy of Cele's early life is that her prayers to this specific image"
+    },
+    {
+      "fp": "1pvx9q2",
+      "i": 70,
+      "from": 16634,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "image of God get her absolutely nowhere. He's a deaf to her. And he's deaf to her because structurally he is designed to be."
+    },
+    {
+      "fp": "e1hfrk",
+      "i": 71,
+      "from": 16855,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "run the oppressive, 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "be. He's not just deaf. He's actively aligned with her oppressors. Think about the hierarchy here. If God is a white man and white men run the oppressive, violent, racist society s"
+    },
+    {
+      "fp": "io3ntb",
+      "i": 72,
+      "from": 17275,
+      "subject": "Albert",
+      "entities": [
+        "albert"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Albert, 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "albert"
+        ]
+      },
+      "_said": "Fonso and Albert are replicating that patriarchal domination in their own homes to claw back some sense of power."
+    },
+    {
+      "fp": "1yewv9h",
+      "i": 73,
+      "from": 17453,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "power. Right. The trickle down effect of Exactly. Then this white god is just the ultimate CEO of the very system"
+    },
+    {
+      "fp": "1lqk4k7",
+      "i": 74,
+      "from": 17661,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "system destroying her. It's like a tenant praying to the landlord who is actively evicting them. You're begging the architect of your misery for mercy. That landlord analogy is per"
+    },
+    {
+      "fp": "y786b7",
+      "i": 75,
+      "from": 17966,
+      "subject": "Walker",
+      "entities": [
+        "walker"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Walker, 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "walker"
+        ]
+      },
+      "_said": "perfect. And Walker reinforces this systemic theological trap brilliantly through a second concrete example in the book Nettie's letters"
+    },
+    {
+      "fp": "115btaa",
+      "i": 76,
+      "from": 18170,
+      "subject": "Celie and Nettie",
+      "entities": [
+        "celie",
+        "nettie"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Celie and Nettie, 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "celie",
+          "nettie"
+        ]
+      },
+      "_said": "letters from Africa. Let's talk about Nettie's letters. We have to remember that while Celie is trapped in rural Georgia, Nettie has gone to Africa as a missionary."
+    },
+    {
+      "fp": "9n34wa",
+      "i": 77,
+      "from": 18396,
+      "subject": "Netti",
+      "entities": [
+        "netti"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Netti, reading history, 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "netti"
+        ]
+      },
+      "_said": "missionary. And Netti is out there in the world reading history, reading the Bible in a completely new She's getting a totally different She really is."
+    },
+    {
+      "fp": "vzy5ef",
+      "i": 78,
+      "from": 18641,
+      "subject": "Celie and Netti — notes",
+      "entities": [
+        "celie",
+        "netti"
+      ],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Celie and Netti, writes back to celie about how the pictures, 1800"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": [
+          "celie",
+          "netti"
+        ]
+      },
+      "_said": "is. And Netti realizes the ultimate theological trick that was played on them back in America. She writes back to Celie about how the pictures"
+    },
+    {
+      "fp": "1i3utxf",
+      "i": 79,
+      "from": 18912,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "pictures in the Bible, you know, the physical illustrations they were handed in church completely fooled them. The blonde Jesus pictures. Exactly. She explains that white people li"
+    },
+    {
+      "fp": "1ye1d7h",
+      "i": 80,
+      "from": 19303,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "text of the Bible itself says Jesus had hair like lamb's wool, right? But the images"
+    },
+    {
+      "fp": "w1g7vu",
+      "i": 81,
+      "from": 19456,
+      "subject": "school",
+      "entities": [],
+      "concept": "school",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "school, 1800"
+      },
+      "antidote": {
+        "concept": "school",
+        "set": null,
+        "cast": []
+      },
+      "_said": "images they were forcefed in Sunday school showed a white man with flowing straight hair. The visual"
+    },
+    {
+      "fp": "xkc08v",
+      "i": 82,
+      "from": 19608,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "visual subjugation was systematic, intentional, and brutally effective. It was designed to make enslaved and oppressed people literally worship the image of their"
+    },
+    {
+      "fp": "1p3151i",
+      "i": 83,
+      "from": 19896,
+      "subject": "Celie",
+      "entities": [
+        "celie"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Celie, 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "celie"
+        ]
+      },
+      "_said": "their It's a complete psychological takeover. If you control the image of the divine, you control the boundaries of the It's exactly what it is. But I want to explore how Celie act"
+    },
+    {
+      "fp": "1b8svf4",
+      "i": 84,
+      "from": 20203,
+      "subject": "Shug",
+      "entities": [
+        "shug"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Shug, 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "shug"
+        ]
+      },
+      "_said": "realization. Because when she finally has this profound conversation with Shug and the cognitive dissonance becomes too much,"
+    },
+    {
+      "fp": "qkijb5",
+      "i": 85,
+      "from": 20395,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "notes, 1800"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": []
+      },
+      "_said": "much, she realizes this old white god isn't listening, has never listened, and probably doesn't even like And she says very clearly, \"I don't write"
+    },
+    {
+      "fp": "nnbdzw",
+      "i": 86,
+      "from": 20623,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "notes, write to god no more, 1800"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": []
+      },
+      "_said": "write to God no more.\" So I have to ask from a reader's perspective, is she just losing her faith entirely here? That do you mean? Like"
+    },
+    {
+      "fp": "hszwtb",
+      "i": 87,
+      "from": 20868,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Like are we witnessing a woman breaking under the trauma and making a clean bitter break into pure That is the most"
+    },
+    {
+      "fp": "ut77c6",
+      "i": 88,
+      "from": 21098,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "most common misinterpretation of that scene. people assume it's a descendant to But no, she isn't losing faith."
+    },
+    {
+      "fp": "1e15wfw",
+      "i": 89,
+      "from": 21293,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "faith. She's doing something much braver. She is discarding a weaponized faith. A weaponized faith. That's a great It's a crucial vital"
+    },
+    {
+      "fp": "1ar7hri",
+      "i": 90,
+      "from": 21566,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "vital distinction for anyone going through any kind of religious deconstruction. She isn't saying there is no divine reality."
+    },
+    {
+      "fp": "110d3e4",
+      "i": 91,
+      "from": 21773,
+      "subject": "crash",
+      "entities": [],
+      "concept": "crash",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "crash, 1800"
+      },
+      "antidote": {
+        "concept": "crash",
+        "set": null,
+        "cast": []
+      },
+      "_said": "She is saying that the specific avatar of the divine she was handed is a She has to clear out the old to make room for the new. Yes, she has to abandon their god to eventually clea"
+    },
+    {
+      "fp": "fw43hw",
+      "i": 92,
+      "from": 22147,
+      "subject": "crash",
+      "entities": [],
+      "concept": "crash",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "crash, 1800"
+      },
+      "antidote": {
+        "concept": "crash",
+        "set": null,
+        "cast": []
+      },
+      "_said": "smashed. It's not a destruction border bitterness. It is a necessary holy"
+    },
+    {
+      "fp": "1fkwtwt",
+      "i": 93,
+      "from": 22253,
+      "subject": "chains",
+      "entities": [],
+      "concept": "chains",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "chains, 1800"
+      },
+      "antidote": {
+        "concept": "chains",
+        "cast": []
+      },
+      "_said": "holy destruction. You cannot build a theology of liberation on a foundation of subjugation. She realizes the address on the envelope was wrong the whole time. She was mailing her d"
+    },
+    {
+      "fp": "ju1t1m",
+      "i": 94,
+      "from": 22579,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "deepest, most vulnerable pain to the headquarters of her abusers. That old white"
+    },
+    {
+      "fp": "65l6pw",
+      "i": 95,
+      "from": 22737,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "white patriarchal god has to die for her change of address to truly mean anything. It is the only way she can survive spiritually. And"
+    },
+    {
+      "fp": "l0iiej",
+      "i": 96,
+      "from": 22980,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "And that profound internal realization, that smashing of the idol, perfectly sets the stage for the literal physical pivot of the entire novel, the exact moment"
+    },
+    {
+      "fp": "uj6ggy",
+      "i": 97,
+      "from": 23277,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "hold in your hands, 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "moment the theological shift becomes a tangible reality you can hold in your hands. Which brings us to the stolen letters. I mean, if there"
+    },
+    {
+      "fp": "1cm83ha",
+      "i": 98,
+      "from": 23462,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "there is a cinematic hinge to this entire story, this is it. It's such a tense scene. It really is. I"
+    },
+    {
+      "fp": "1jiao9t",
+      "i": 99,
+      "from": 23652,
+      "subject": "Shug",
+      "entities": [
+        "shug"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Shug, 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "shug"
+        ]
+      },
+      "_said": "I want you listening to just put yourself right in the middle of this room. You can almost feel the physical heat, the humidity of the moment. Shug"
+    },
+    {
+      "fp": "1xuecoe",
+      "i": 100,
+      "from": 23892,
+      "subject": "Shug — home",
+      "entities": [
+        "shug"
+      ],
+      "concept": "home",
+      "place": "kitchen",
+      "confidence": 1,
+      "vox": {
+        "shot": "Shug, kitchen, 1800"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": "kitchen",
+        "cast": [
+          "shug"
+        ]
+      },
+      "_said": "Shug and Celia are alone in the house. They have heated the stove. They've put the"
+    },
+    {
+      "fp": "1qglxax",
+      "i": 101,
+      "from": 23990,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "holding envelopes over the spout, 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "the heavy kettle on. The steam is rising. The air is thick with steam and quiet anticipation. and they are carefully, meticulously holding envelopes over the spout, steaming open N"
+    },
+    {
+      "fp": "vupz3c",
+      "i": 102,
+      "from": 24336,
+      "subject": "Albert — grave",
+      "entities": [
+        "albert"
+      ],
+      "concept": "grave",
+      "place": "forest",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Albert, forest, 1800"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": "forest",
+        "cast": [
+          "albert"
+        ]
+      },
+      "_said": "Nettie's hidden letters. Letters that Albert has kept buried deep inside his locked trunk, hiding"
+    },
+    {
+      "fp": "1vwfrn9",
+      "i": 103,
+      "from": 24482,
+      "subject": "Walker — magnifier",
+      "entities": [
+        "walker"
+      ],
+      "concept": "magnifier",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Walker, 1800"
+      },
+      "antidote": {
+        "concept": "magnifier",
+        "cast": [
+          "walker"
+        ]
+      },
+      "_said": "hiding them underneath his tobacco and his nasty picture postcards for years. The sensory details Walker uses there, the steam, the hidden trunk,"
+    },
+    {
+      "fp": "1yf83cm",
+      "i": 104,
+      "from": 24727,
+      "subject": "heart",
+      "entities": [],
+      "concept": "heart",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "heart, 1800"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": null,
+        "cast": []
+      },
+      "_said": "trunk, the juxtaposition of Nettie's pure love hidden beneath Albert's vile postcards is just a breathtaking scene. It's so visceral"
+    },
+    {
+      "fp": "zp1te4",
+      "i": 105,
+      "from": 24948,
+      "subject": "Celie",
+      "entities": [
+        "celie"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Celie, 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "celie"
+        ]
+      },
+      "_said": "visceral and the implications for Celie's reality are staggering. This is the moment Celie learns she was never ever truly alone in the universe. Think about the profound isolation"
+    },
+    {
+      "fp": "12ibng0",
+      "i": 106,
+      "from": 25209,
+      "subject": "Albert",
+      "entities": [
+        "albert"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Albert, 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "albert"
+        ]
+      },
+      "_said": "isolation Albert imposed on her. His ultimate abuse wasn't just physical violence. It was geographical and emotional quarantine."
+    },
+    {
+      "fp": "qonyuf",
+      "i": 107,
+      "from": 25418,
+      "subject": "heart",
+      "entities": [],
+      "concept": "heart",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "heart, 1800"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": null,
+        "cast": []
+      },
+      "_said": "quarantine. He was hoarding her access to love. Hoarding her access to love. Wow. You wanted a complete monopoly on her reality so that she would believe he was the only thing she "
+    },
+    {
+      "fp": "1apjnj2",
+      "i": 108,
+      "from": 25673,
+      "subject": "heart",
+      "entities": [],
+      "concept": "heart",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "heart, 1800"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": null,
+        "cast": []
+      },
+      "_said": "But the discovery of these letters shatters that monopoly instantly. It proves that sisterhood, not romance, not a savior husband, is what cracks this story wide"
+    },
+    {
+      "fp": "1w5dygx",
+      "i": 109,
+      "from": 25951,
+      "subject": "Celie",
+      "entities": [
+        "celie"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Celie, 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "celie"
+        ]
+      },
+      "_said": "wide The physical evidence of the outside world that spills out of that trunk is so stark and overwhelming for someone who has barely left her farm. She's just taking it all in. Ce"
+    },
+    {
+      "fp": "zuyd1",
+      "i": 110,
+      "from": 26253,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "these stamps on the envelopes. Stamps with the little fat queen of England."
+    },
+    {
+      "fp": "168ygb7",
+      "i": 111,
+      "from": 26378,
+      "subject": "Celie",
+      "entities": [
+        "celie"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Celie, 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "celie"
+        ]
+      },
+      "_said": "England. Stamps with exotic peanuts and rubber trees. Celie doesn't even have the geographical context to know where Africa is. No,"
+    },
+    {
+      "fp": "l2l0w0",
+      "i": 112,
+      "from": 26606,
+      "subject": "road",
+      "entities": [],
+      "concept": "road",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "road, 1800"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": null,
+        "cast": []
+      },
+      "_said": "No, she doesn't know. She doesn't know where England is on a map, but what she knows instantly and profoundly in her bones is that she is loved."
+    },
+    {
+      "fp": "p3uitp",
+      "i": 113,
+      "from": 26829,
+      "subject": "Nettie",
+      "entities": [
+        "nettie"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Nettie, 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "nettie"
+        ]
+      },
+      "_said": "loved. Nettie is alive, and Nettie loves her. The world is vastly larger than Albert's cruel little farm. And in that vast world, someone is thinking about her."
+    },
+    {
+      "fp": "2fbv7q",
+      "i": 114,
+      "from": 27132,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "her. What's absolutely fascinating here is the underlying psychology of Albert's cruelty, because it reveals"
+    },
+    {
+      "fp": "1ewj7nw",
+      "i": 115,
+      "from": 27314,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "reveals the mechanics of patriarchal control. I'm so glad you brought him up here because I keep getting stuck on the sheer logistics of his cruelty."
+    },
+    {
+      "fp": "1mle08e",
+      "i": 116,
+      "from": 27504,
+      "subject": "Albert",
+      "entities": [
+        "albert"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Albert, 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "albert"
+        ]
+      },
+      "_said": "cruelty. Let's really interrogate this. Let's do it. If Albert hated her so much, if he wanted"
+    },
+    {
+      "fp": "16v91x3",
+      "i": 117,
+      "from": 27640,
+      "subject": "fire",
+      "entities": [],
+      "concept": "fire",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "fire, 1800"
+      },
+      "antidote": {
+        "concept": "fire",
+        "cast": []
+      },
+      "_said": "wanted to isolate her completely, if he was just this cartoonishly evil villain, why in the world didn't he just burn the letters the second they arrive?"
+    },
+    {
+      "fp": "ralrsd",
+      "i": 118,
+      "from": 27905,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "arrive? that's the big question, 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "arrive? That's the big question. Why keep the physical evidence of his own crime in a trunk at the foot of his bed for years? It's one"
+    },
+    {
+      "fp": "a1fzt9",
+      "i": 119,
+      "from": 28128,
+      "subject": "magnifier",
+      "entities": [],
+      "concept": "magnifier",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "magnifier, 1800"
+      },
+      "antidote": {
+        "concept": "magnifier",
+        "cast": []
+      },
+      "_said": "one of Walker's most brilliant psychological details because it shows that Albert's actions aren't just about pure"
+    },
+    {
+      "fp": "1rzlkjl",
+      "i": 120,
+      "from": 28332,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "pure unthinking malice. It's about ownership and possession. Oh, ownership. We have to remember the history."
+    },
+    {
+      "fp": "y14e82",
+      "i": 121,
+      "from": 28528,
+      "subject": "Celie and Albert and Netti",
+      "entities": [
+        "celie",
+        "albert",
+        "netti"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Celie and Albert, 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "celie",
+          "albert",
+          "netti"
+        ]
+      },
+      "_said": "Albert originally wanted to marry Netti, not Celie. Netti rejected him and he ended up with Celie, right? He settled. Exactly. He couldn't destroy those letters because they were a"
+    },
+    {
+      "fp": "64kye",
+      "i": 122,
+      "from": 28845,
+      "subject": "Nettie",
+      "entities": [
+        "nettie"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Nettie, 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "nettie"
+        ]
+      },
+      "_said": "physical piece of Nettie. He wanted to own Nettie's words, her thoughts, her essence."
+    },
+    {
+      "fp": "wqtj1h",
+      "i": 123,
+      "from": 28987,
+      "subject": "Celie",
+      "entities": [
+        "celie"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Celie, 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "celie"
+        ]
+      },
+      "_said": "essence. And simultaneously, by hiding them from Celie, he wanted to completely own Celie's reality. So, it's about control on two fronts. Yes."
+    },
+    {
+      "fp": "1dua42p",
+      "i": 124,
+      "from": 29232,
+      "subject": "fire",
+      "entities": [],
+      "concept": "fire",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "fire, 1800"
+      },
+      "antidote": {
+        "concept": "fire",
+        "cast": []
+      },
+      "_said": "Yes. Keeping the letters gave him an ongoing sense of power. Burning them would mean letting go of that power. It would mean the letters were gone and his control over the"
+    },
+    {
+      "fp": "jgx2a1",
+      "i": 125,
+      "from": 29486,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "sitting on them like a dragon hoarding a pile o, 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "the flow of information was finalized. He kept them because abusers hoard power even when it's just ink on He was sitting on them like a dragon hoarding a pile of gold he can't eve"
+    },
+    {
+      "fp": "6k9olv",
+      "i": 126,
+      "from": 29805,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "spend. Just keeping the warmth away from the people who need it."
+    },
+    {
+      "fp": "14yotta",
+      "i": 127,
+      "from": 29875,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "it. That's a perfect analogy. But his arrogance was his downfall because he miscalculated. He didn't account for"
+    },
+    {
+      "fp": "1k6gu0w",
+      "i": 128,
+      "from": 30065,
+      "subject": "Shug",
+      "entities": [
+        "shug"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Shug, 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "shug"
+        ]
+      },
+      "_said": "Shug Avery, a woman who does not respect the boundaries of his locked trunks or his petty authority. Shuge does not care about his rules. Not at all. And"
+    },
+    {
+      "fp": "16gblrx",
+      "i": 129,
+      "from": 30312,
+      "subject": "lightbulb",
+      "entities": [],
+      "concept": "lightbulb",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "lightbulb, 1800"
+      },
+      "antidote": {
+        "concept": "lightbulb",
+        "cast": []
+      },
+      "_said": "And because Shuge initiates this discovery, Sel's letters finally get a new life-saving address. This is"
+    },
+    {
+      "fp": "1irtx29",
+      "i": 130,
+      "from": 30506,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "is the ultimate turning point of her psychological survival. For the first time in her life, she stops sending her heart into the void. She has a"
+    },
+    {
+      "fp": "1w7xumt",
+      "i": 131,
+      "from": 30722,
+      "subject": "Nettie — notes",
+      "entities": [
+        "nettie"
+      ],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Nettie, write to the old white god, 1800"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": [
+          "nettie"
+        ]
+      },
+      "_said": "a real destination now. Yes. She doesn't write to the old white god. She picks up her pen and she writes, \"Dear Nettie,\" the address changes from a silent,"
+    },
+    {
+      "fp": "1rxbifw",
+      "i": 132,
+      "from": 31005,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": "kitchen",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, kitchen, 1800"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": "kitchen",
+        "cast": []
+      },
+      "_said": "silent, oppressive, imaginary deity to a living, loving, tangible sister. It is the absolute beginning of"
+    },
+    {
+      "fp": "1nf0qea",
+      "i": 133,
+      "from": 31219,
+      "subject": "Walker — road",
+      "entities": [
+        "walker"
+      ],
+      "concept": "road",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Walker, 1800"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": null,
+        "cast": [
+          "walker"
+        ]
+      },
+      "_said": "of her resurrection. It's beautiful. It is. But Walker is a master of realism, and she is very careful not to make this journey toward finding one's voice seem easy, magical, or wi"
+    },
+    {
+      "fp": "kjvei0",
+      "i": 134,
+      "from": 31565,
+      "subject": "Celie — magnifier",
+      "entities": [
+        "celie"
+      ],
+      "concept": "magnifier",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Celie, 1800"
+      },
+      "antidote": {
+        "concept": "magnifier",
+        "cast": [
+          "celie"
+        ]
+      },
+      "_said": "real world consequences. To truly understand the stakes of Celie finding her voice, we have to examine someone in the narrative who never lost hers."
+    },
+    {
+      "fp": "syvg3j",
+      "i": 135,
+      "from": 31855,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "sit up straighter in your chair, 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Oh, Sofia. Just hearing her name makes you sit up straighter in your chair. She is"
+    },
+    {
+      "fp": "2pnqr7",
+      "i": 136,
+      "from": 31968,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "is an absolute force of nature. But we really have to talk about the brutal cost of her defiance. We really do. Let's drop into one of the most tense, pivotal scenes in the entire "
+    },
+    {
+      "fp": "5s8wpj",
+      "i": 137,
+      "from": 32371,
+      "subject": "road",
+      "entities": [],
+      "concept": "road",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "road, 1800"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": null,
+        "cast": []
+      },
+      "_said": "wife, Miss Millie, is driving by. She"
+    },
+    {
+      "fp": "ptbx43",
+      "i": 138,
+      "from": 32453,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "sees Sofia's children and she thinks they are cute, but in that deeply"
+    },
+    {
+      "fp": "escbfq",
+      "i": 139,
+      "from": 32575,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "deeply condescending, proprietary way white people in the Jim Crow South viewed black children."
+    },
+    {
+      "fp": "7dg4jo",
+      "i": 140,
+      "from": 32728,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "children. Right. That incredibly toxic Exactly. She leans out and asks Sofia to be her maid. And Sofia, who answers to no one, delivers this flat,"
+    },
+    {
+      "fp": "11t6gs0",
+      "i": 141,
+      "from": 33007,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "flat, unyielding, unapologetic response. Hell It's such an iconic moment. It is. The mayor steps in, infuriated by a black woman sassing white woman in public and slaps"
+    },
+    {
+      "fp": "1rhjg8h",
+      "i": 142,
+      "from": 33309,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "slaps Sofia. And Sofia, without a microsecond of hesitation, knocks the mayor flat to the ground. If we pull back and connect this visceral moment to the broader thematic"
+    },
+    {
+      "fp": "1omsxw4",
+      "i": 143,
+      "from": 33561,
+      "subject": "Walker",
+      "entities": [
+        "walker"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Walker, 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "walker"
+        ]
+      },
+      "_said": "thematic architecture of the book, Walker is doing something vital and deeply subversive here. How so? She is flatly"
+    },
+    {
+      "fp": "2mrsm2",
+      "i": 144,
+      "from": 33756,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "flatly refusing to make black women's refusal cheap or easy. In a lesser novel, a more Hollywood style story,"
+    },
+    {
+      "fp": "1gv7tkq",
+      "i": 145,
+      "from": 33948,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "walks away victorious while the music swells, 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "story, Sofia punches the racist mayor, delivers a witty oneliner, and walks away victorious while the music swells. Right. The typical action movie hero Exactly."
+    },
+    {
+      "fp": "lvw89y",
+      "i": 146,
+      "from": 34238,
+      "subject": "Walker",
+      "entities": [
+        "walker"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Walker, 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "walker"
+        ]
+      },
+      "_said": "Exactly. But Walker roots this narrative firmly in the brutal, unforgiving historical reality of the Jim Crow South. She"
+    },
+    {
+      "fp": "p4a2jq",
+      "i": 147,
+      "from": 34437,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "She sets Sofia's loud, physical, unapologetic resistance in direct, stark contrast to Celie's long, agonizing They are"
+    },
+    {
+      "fp": "18z5cb7",
+      "i": 148,
+      "from": 34704,
+      "subject": "Celie",
+      "entities": [
+        "celie"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Celie, 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "celie"
+        ]
+      },
+      "_said": "are total opposites in that regard. Yes. And she is showing us the readers exactly why Celie has been silent all these years."
+    },
+    {
+      "fp": "1scoil7",
+      "i": 149,
+      "from": 34893,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "years. Because in this specific society at this specific time, open defiance costs you your actual life. The fallout is immediate and it is catastrophic. And it doesn't just ripple"
+    },
+    {
+      "fp": "y4okvo",
+      "i": 150,
+      "from": 35179,
+      "subject": "Squeak",
+      "entities": [
+        "squeak"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Squeak, 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "squeak"
+        ]
+      },
+      "_said": "ripple through Sofia's life. It infects the entire community. It doesn't just cost Yeah. It spreads. We see a second equally devastating example with Squeak or Mary Agnes. To try a"
+    },
+    {
+      "fp": "1puih7h",
+      "i": 151,
+      "from": 35479,
+      "subject": "Squeak — grave",
+      "entities": [
+        "squeak"
+      ],
+      "concept": "grave",
+      "place": "forest",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Squeak, forest, 1800"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": "forest",
+        "cast": [
+          "squeak"
+        ]
+      },
+      "_said": "and save Sofia from being lynched or beaten to death in jail, Squeak is forced to go to the white warden, who is actually, horrific as it is, her own uncle, to plead"
+    },
+    {
+      "fp": "3mt0fo",
+      "i": 152,
+      "from": 35717,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "plead for Sofia's release. That scene is so hard to read. It is agonizing. She goes in there seeking a sliver of justice,"
+    },
+    {
+      "fp": "z7gh8u",
+      "i": 153,
+      "from": 35923,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "justice, attempting to utilize her proximity to whiteness, and she comes back brutally assaulted. She pays the terrible physical tax for Sofia's hell no. Exactly. The violence of t"
+    },
+    {
+      "fp": "cbr1cu",
+      "i": 154,
+      "from": 36293,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "and indiscriminate. It demands a blood price for any assertion of black So, here is the"
+    },
+    {
+      "fp": "1amrdnr",
+      "i": 155,
+      "from": 36480,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "the really uncomfortable question we have to ask about Sofia's character arc. I look at the devastation that follows that single interaction and I have to wonder,"
+    },
+    {
+      "fp": "1ptn4xs",
+      "i": 156,
+      "from": 36744,
+      "subject": "Walker — trophy",
+      "entities": [
+        "walker"
+      ],
+      "concept": "trophy",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Walker, 1800"
+      },
+      "antidote": {
+        "concept": "trophy",
+        "cast": [
+          "walker"
+        ]
+      },
+      "_said": "is Sofia's hell no actually a victory of the human spirit? Or is Walker quietly suggesting it was a catastrophic strategic mistake? That's a heavy question."
+    },
+    {
+      "fp": "131smp9",
+      "i": 157,
+      "from": 37020,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "question. Because for that one moment of pride, she literally loses 12 years of her life. That is the agonizing tragic tension at the very heart of Sofia's"
+    },
+    {
+      "fp": "akk61s",
+      "i": 158,
+      "from": 37253,
+      "subject": "trophy",
+      "entities": [],
+      "concept": "trophy",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "trophy, 1800"
+      },
+      "antidote": {
+        "concept": "trophy",
+        "cast": []
+      },
+      "_said": "Sofia's character. I would argue it is a tragic It's a tragic necessity. Yes, it is absolutely unequivocally a victory of spirit. She refuses fundamentally"
+    },
+    {
+      "fp": "pvr2xu",
+      "i": 159,
+      "from": 37517,
+      "subject": "Walker",
+      "entities": [
+        "walker"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Walker, 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "walker"
+        ]
+      },
+      "_said": "to surrender her dignity to the system designed to strip it from her. But Walker forces us to look at the The receipt is steep."
+    },
+    {
+      "fp": "11x2diz",
+      "i": 160,
+      "from": 37706,
+      "subject": "grave",
+      "entities": [],
+      "concept": "grave",
+      "place": "forest",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "grave, forest, 1800"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": "forest",
+        "cast": []
+      },
+      "_said": "steep. It's impossibly steep. That spiritual victory earns her 12 years of literal hell. She is locked in a prison laundry, her body breaking down, dying fast"
+    },
+    {
+      "fp": "rav5g6",
+      "i": 161,
+      "from": 38025,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "fast from the merciless labor and the physical abuse. And then, as a twisted form of parole, she is effectively enslaved"
+    },
+    {
+      "fp": "8srshl",
+      "i": 162,
+      "from": 38237,
+      "subject": "home",
+      "entities": [],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "home, 1800"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": []
+      },
+      "_said": "in the mayor's house, forced to raise the very children of the woman she originally defied while her own children grow up without her. It's just sickeningly cruel."
+    },
+    {
+      "fp": "1jlrgpj",
+      "i": 163,
+      "from": 38510,
+      "subject": "Walker",
+      "entities": [
+        "walker"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Walker, 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "walker"
+        ]
+      },
+      "_said": "cruel. Walker does not romanticize resistance. She doesn't sugarcoat it. She shows the catastrophic flesh and bloodb blood price tag attached to a black woman demanding her own bas"
+    },
+    {
+      "fp": "1vlh70g",
+      "i": 164,
+      "from": 38817,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "a white supremacist world. It's sobering. Sofia changed her address to the world from expected"
+    },
+    {
+      "fp": "1hc925e",
+      "i": 165,
+      "from": 38964,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "expected subservience to outright defiance. And the world mobilized every resource it had to crush her for it. It's a stark, terrifying warning to It really is."
+    },
+    {
+      "fp": "1d5sep8",
+      "i": 166,
+      "from": 39221,
+      "subject": "Celie",
+      "entities": [
+        "celie"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Celie, 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "celie"
+        ]
+      },
+      "_said": "It shows Celie and you, the reader, that finding your voice isn't just a matter of self-esteem or confidence. It is a highly dangerous survival strategy. You have to know how and w"
+    },
+    {
+      "fp": "1811eax",
+      "i": 167,
+      "from": 39600,
+      "subject": "Celie",
+      "entities": [
+        "celie"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Celie, 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "celie"
+        ]
+      },
+      "_said": "actual theological turning point of the book. The moment Celie learns a new vocabulary for her spirit. And it happens in a field with"
+    },
+    {
+      "fp": "2vi0ew",
+      "i": 168,
+      "from": 39835,
+      "subject": "Walker and Shug",
+      "entities": [
+        "walker",
+        "shug"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Walker and Shug, 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "walker",
+          "shug"
+        ]
+      },
+      "_said": "with Shug Avery. This is the moment Alice Walker explicitly"
+    },
+    {
+      "fp": "3n8lxi",
+      "i": 169,
+      "from": 39931,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "explicitly prepared us for in the real world. If you recall the preface of the book,"
+    },
+    {
+      "fp": "12py1pi",
+      "i": 170,
+      "from": 40063,
+      "subject": "Walker — notes",
+      "entities": [
+        "walker"
+      ],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Walker, 1800"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": [
+          "walker"
+        ]
+      },
+      "_said": "book, Walker wrote it to clarify to readers that this is at its core a theological work."
+    },
+    {
+      "fp": "12lkmla",
+      "i": 171,
+      "from": 40214,
+      "subject": "road",
+      "entities": [],
+      "concept": "road",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "road, 1800"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": null,
+        "cast": []
+      },
+      "_said": "work. Right? She stated she was examining the difficult journey from the religious meaning dogmatic institutionalized captivity back to the spiritual. [snorts] And"
+    },
+    {
+      "fp": "1un8ut6",
+      "i": 172,
+      "from": 40488,
+      "subject": "Shug — road",
+      "entities": [
+        "shug"
+      ],
+      "concept": "road",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Shug, 1800"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": null,
+        "cast": [
+          "shug"
+        ]
+      },
+      "_said": "And Shug Avery is the brilliant unorthodox theologian guiding that massive journey. Let's set the scene for this conversion because it doesn't happen in a church. It doesn't happen"
+    },
+    {
+      "fp": "15ut634",
+      "i": 173,
+      "from": 40797,
+      "subject": "Celie and Shug",
+      "entities": [
+        "celie",
+        "shug"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Celie and Shug, 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "celie",
+          "shug"
+        ]
+      },
+      "_said": "here. None. They are out in the yard surrounded by nature. Shug is leaning back in her chair soaking in the sun looking as Celie beautifully describes her like a big rose."
+    },
+    {
+      "fp": "1k841ve",
+      "i": 174,
+      "from": 41085,
+      "subject": "Shug",
+      "entities": [
+        "shug"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Shug, 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "shug"
+        ]
+      },
+      "_said": "rose. Such a great image. And in this incredibly relaxed, natural setting, Shug delivers the absolute thematic core of the text. She says, \"I think it pisses"
+    },
+    {
+      "fp": "6a7qzo",
+      "i": 175,
+      "from": 41359,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "walk by the color purple in a field somewher, 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "pisses God off if you walk by the color purple in a field somewhere and don't notice it.\" What is so completely"
+    },
+    {
+      "fp": "1byhkd4",
+      "i": 176,
+      "from": 41505,
+      "subject": "Shug",
+      "entities": [
+        "shug"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Shug, 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "shug"
+        ]
+      },
+      "_said": "completely fascinating here is the radical reframing of the divine. With one sentence, Shug is taking the old punishing white male God who demands silent"
+    },
+    {
+      "fp": "18n9lml",
+      "i": 177,
+      "from": 41788,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "silent suffering and dismantling him She just tears it all down. She replaces him with an it."
+    },
+    {
+      "fp": "1x1j08u",
+      "i": 178,
+      "from": 41935,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "it. She says, \"God is everything that is or ever was or ever will be.\" This is the true conversion scene of the book."
+    },
+    {
+      "fp": "1dzw0qe",
+      "i": 179,
+      "from": 42122,
+      "subject": "Celie",
+      "entities": [
+        "celie"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Celie, 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "celie"
+        ]
+      },
+      "_said": "book. Celie is being gently but firmly invited to step out of a theology based entirely on fear, sin, and punishment and step into a theology"
+    },
+    {
+      "fp": "a1kgts",
+      "i": 180,
+      "from": 42362,
+      "subject": "Celie",
+      "entities": [
+        "celie"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Celie, 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "celie"
+        ]
+      },
+      "_said": "theology of awe, connection, and It's a theology of pleasure and attention, which is so foreign to Celie."
+    },
+    {
+      "fp": "1hzq71w",
+      "i": 181,
+      "from": 42540,
+      "subject": "Celie and Shug",
+      "entities": [
+        "celie",
+        "shug"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Celie and Shug, 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "celie",
+          "shug"
+        ]
+      },
+      "_said": "Celie. Shug tells Celie that God actually loves Yes. She points to the world around them and says that trees do everything they possibly can to get our attention except literally p"
+    },
+    {
+      "fp": "16lfvy9",
+      "i": 182,
+      "from": 42861,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "and that God is always trying to please us back with little surprises. It's such a joyous way to look at the The color purple itself is just"
+    },
+    {
+      "fp": "jh6tr5",
+      "i": 183,
+      "from": 43073,
+      "subject": "gift",
+      "entities": [],
+      "concept": "gift",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "gift, 1800"
+      },
+      "antidote": {
+        "concept": "gift",
+        "cast": []
+      },
+      "_said": "a gratuitous gift of beauty. It's such a radical whiplash shift from a god who demands you endure abuse silently to a god who demands your joyous active"
+    },
+    {
+      "fp": "whccw9",
+      "i": 184,
+      "from": 43363,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "active participation in the beauty of the It is deeply, profoundly radical. And notice what it does structurally."
+    },
+    {
+      "fp": "1vmfi65",
+      "i": 185,
+      "from": 43574,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "structurally. It desenters humanity. And specifically, it desenters male authority. What do you mean? Well, if God is the color purple, if God is the rustling of the trees and the "
+    },
+    {
+      "fp": "zad8tu",
+      "i": 186,
+      "from": 43925,
+      "subject": "work",
+      "entities": [],
+      "concept": "work",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "work, sitting on a throne handing down edicts to men, 1800"
+      },
+      "antidote": {
+        "concept": "work",
+        "set": null,
+        "cast": []
+      },
+      "_said": "then God is not a hierarchical boss sitting on a throne handing down edicts to men who then hand them down to women. Oh, that makes total sense."
+    },
+    {
+      "fp": "110cssk",
+      "i": 187,
+      "from": 44150,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "sense. God is a shared, vibrating, living reality that every single organism has equal, unmediated"
+    },
+    {
+      "fp": "1f043ia",
+      "i": 188,
+      "from": 44361,
+      "subject": "Celie — heart",
+      "entities": [
+        "celie"
+      ],
+      "concept": "heart",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Celie, 1800"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": null,
+        "cast": [
+          "celie"
+        ]
+      },
+      "_said": "unmediated access to. M no one can gate the color purple. No one can gate the color purple. I love that. But I want to put myself in the shoes of a traditional reader for a second "
+    },
+    {
+      "fp": "179efgr",
+      "i": 189,
+      "from": 44712,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "She does. Yeah. Celie's immediate reaction is actually fear. She says this sounds like blasphemy. And honestly, if you"
+    },
+    {
+      "fp": "r5mote",
+      "i": 190,
+      "from": 44892,
+      "subject": "Shug",
+      "entities": [
+        "shug"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Shug, 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "shug"
+        ]
+      },
+      "_said": "you look at Shug's lifestyle, isn't this just Shug preaching a highly convenient hedonistic pagan worldview? Is she"
+    },
+    {
+      "fp": "14mi6nc",
+      "i": 191,
+      "from": 45093,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "she just dressing up do whatever feels good in spiritual language to justify her own choices? I can completely see why a reader, especially one coming"
+    },
+    {
+      "fp": "1gil9kj",
+      "i": 192,
+      "from": 45319,
+      "subject": "Shug — shield",
+      "entities": [
+        "shug"
+      ],
+      "concept": "shield",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Shug, read it that way, 1800"
+      },
+      "antidote": {
+        "concept": "shield",
+        "cast": [
+          "shug"
+        ]
+      },
+      "_said": "coming from a traditional Orthodox background, might read it that way. But I passionately disagree with that reduction. Okay, defend Shug for us."
+    },
+    {
+      "fp": "pdrem4",
+      "i": 193,
+      "from": 45561,
+      "subject": "Walker",
+      "entities": [
+        "walker"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Walker, 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "walker"
+        ]
+      },
+      "_said": "us. It's not mere hedonism, which implies a selfish pursuit of fleeting pleasure at the expense of others. It is exactly what Walker outlined in her preface."
+    },
+    {
+      "fp": "1iu4nmd",
+      "i": 194,
+      "from": 45852,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "She describes the grueling evolution from being a spiritual captive to realizing that you like nature itself are a radiant expression of the divine. So it's about seeing the divine"
+    },
+    {
+      "fp": "1nbq3s0",
+      "i": 195,
+      "from": 46202,
+      "subject": "Shug",
+      "entities": [
+        "shug"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Shug, 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "shug"
+        ]
+      },
+      "_said": "Exactly. Shug isn't saying ignore morality and do whatever you want. Shug is saying that true deep morality is rooted"
+    },
+    {
+      "fp": "h3y42y",
+      "i": 196,
+      "from": 46377,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "rooted in recognizing the inherent sacredness of the living world around you which crucially includes yourself to hate yourself to allow someone to beat you to endure abuse silentl"
+    },
+    {
+      "fp": "17rf2a9",
+      "i": 197,
+      "from": 46721,
+      "subject": "lightbulb",
+      "entities": [],
+      "concept": "lightbulb",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "lightbulb, 1800"
+      },
+      "antidote": {
+        "concept": "lightbulb",
+        "cast": []
+      },
+      "_said": "the real blasphemy in Shug's theology because it denies and degrades the divine spark that lives within you. Wow. So to unpack the magnitude of this shift,"
+    },
+    {
+      "fp": "1a4p0fl",
+      "i": 198,
+      "from": 46982,
+      "subject": "Celie",
+      "entities": [
+        "celie"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Celie, 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "celie"
+        ]
+      },
+      "_said": "shift, Celie is no longer addressing the ceiling, hoping a distant white man in the sky will eventually take pity on her after she dies."
+    },
+    {
+      "fp": "tuhpbc",
+      "i": 199,
+      "from": 47153,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "dies. No, she's done with that. She is addressing the color purple. She's addressing the dirt, the trees, the air. Her address is now to the entire"
+    },
+    {
+      "fp": "g82y3k",
+      "i": 200,
+      "from": 47373,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "entire vibrating universe. She realizes she is a necessary part of it, not a victim"
+    },
+    {
+      "fp": "3w17eo",
+      "i": 201,
+      "from": 47529,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "victim subjugated by it. It's an And that brings us inevitably to the moment she finally weaponizes this new theology. The moment of her great"
+    },
+    {
+      "fp": "19cm4w",
+      "i": 202,
+      "from": 47827,
+      "subject": "road",
+      "entities": [],
+      "concept": "road",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "road, 1800"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": null,
+        "cast": []
+      },
+      "_said": "great the confrontation on the porch. This is the climax of Cele's internal journey finally made external and audible. The tension in the scene is explosive."
+    },
+    {
+      "fp": "9f7x08",
+      "i": 203,
+      "from": 48074,
+      "subject": "Albert",
+      "entities": [
+        "albert"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Albert, sitting out on the porch, 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "albert"
+        ]
+      },
+      "_said": "explosive. They're all sitting out on the porch. Albert predictably pushes her too far. He insults her, tries"
+    },
+    {
+      "fp": "isu5og",
+      "i": 204,
+      "from": 48264,
+      "subject": "Celie",
+      "entities": [
+        "celie"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Celie, 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "celie"
+        ]
+      },
+      "_said": "tries to belittle her in front of the others, and he actually springs towards Celie to physically strike her, relying on his old method to reassert his physical"
+    },
+    {
+      "fp": "kqmszf",
+      "i": 205,
+      "from": 48499,
+      "subject": "Celie — notes",
+      "entities": [
+        "celie"
+      ],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Celie, stands her ground, 1800"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": [
+          "celie"
+        ]
+      },
+      "_said": "physical dominance. But something is different this time. Suddenly, the text notes that a dust devil flies up in the yard. Celie stands her ground. And she speaks, but she doesn't "
+    },
+    {
+      "fp": "1t6rsnr",
+      "i": 206,
+      "from": 48792,
+      "subject": "Celie",
+      "entities": [
+        "celie"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Celie, 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "celie"
+        ]
+      },
+      "_said": "the old shrinking Celie. She speaks of this cosmic, terrifying, ancient authority. She looks at him and says, \"I'm poor. I'm black. I may be ugly and can't cook, but I'm here.\" If "
+    },
+    {
+      "fp": "1sn7ri8",
+      "i": 207,
+      "from": 49164,
+      "subject": "Shug — game",
+      "entities": [
+        "shug"
+      ],
+      "concept": "game",
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Shug, 1800"
+      },
+      "antidote": {
+        "concept": "game",
+        "set": null,
+        "cast": [
+          "shug"
+        ]
+      },
+      "_said": "just learned from Shug in the Field, we realize"
+    },
+    {
+      "fp": "petrb6",
+      "i": 208,
+      "from": 49226,
+      "subject": "Celie — heart",
+      "entities": [
+        "celie"
+      ],
+      "concept": "heart",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Celie, leaving a bad marriage, 1800"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": null,
+        "cast": [
+          "celie"
+        ]
+      },
+      "_said": "realize the magnitude of what Celie is doing. She isn't just leaving a bad marriage. She isn't just walking away from a man. No, she is placing a massive"
+    },
+    {
+      "fp": "x9509x",
+      "i": 209,
+      "from": 49476,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "massive metaphysical boundary on him. When she looks him in the eye and tells him, \"Anything you do to me already done to you.\" She is practically applying her new theology of univ"
+    },
+    {
+      "fp": "1pe1t7w",
+      "i": 210,
+      "from": 49785,
+      "subject": "shield",
+      "entities": [],
+      "concept": "shield",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "shield, 1800"
+      },
+      "antidote": {
+        "concept": "shield",
+        "cast": []
+      },
+      "_said": "It's spiritual self-defense. Yes. She is stripping him of his power over her reality. not by hitting him but by stating"
+    },
+    {
+      "fp": "hqnmss",
+      "i": 211,
+      "from": 50016,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "stating an immovable spiritual law. She is telling him he cannot harm her without damning his own soul because they are woven into the same fabric of the it."
+    },
+    {
+      "fp": "1c95e4q",
+      "i": 212,
+      "from": 50292,
+      "subject": "Shug",
+      "entities": [
+        "shug"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Shug, sitting right there in the background witnessin, 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "shug"
+        ]
+      },
+      "_said": "it. It's chilling in the best way. And Shug is sitting right there in the background witnessing this theological birth just chanting"
+    },
+    {
+      "fp": "1216ur7",
+      "i": 213,
+      "from": 50465,
+      "subject": "Shug and Albert — heart",
+      "entities": [
+        "shug",
+        "albert"
+      ],
+      "concept": "heart",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Shug and Albert, 1800"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": null,
+        "cast": [
+          "shug",
+          "albert"
+        ]
+      },
+      "_said": "chanting amen. Amen. Like a choir validating a sermon. I love Shug in that scene. And Albert is physically stopped in his tracks. He doesn't hit her. He is halted not by a knife, n"
+    },
+    {
+      "fp": "1t3qcls",
+      "i": 214,
+      "from": 50863,
+      "subject": "Celie",
+      "entities": [
+        "celie"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Celie, reads almost like, 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "celie"
+        ]
+      },
+      "_said": "sheer undeniable force of Celie finally realizing and vocalizing her own divine worth. It reads almost like"
+    },
+    {
+      "fp": "1xai0oz",
+      "i": 215,
+      "from": 51053,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "like a supernatural event, which actually brings up a really fascinating point of interpretation for how we"
+    },
+    {
+      "fp": "17xiy8v",
+      "i": 216,
+      "from": 51206,
+      "subject": "Celie and Walker — notes",
+      "entities": [
+        "celie",
+        "walker"
+      ],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Celie and Walker, read walker's stylistic choices exactly, 1800"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": [
+          "celie",
+          "walker"
+        ]
+      },
+      "_said": "we read Walker's stylistic choices Exactly. Let's look at the literal text because Walker writes the dirt say right when Celie"
+    },
+    {
+      "fp": "qoy3eg",
+      "i": 217,
+      "from": 51420,
+      "subject": "Celie and Albert",
+      "entities": [
+        "celie",
+        "albert"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Celie and Albert, 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "celie",
+          "albert"
+        ]
+      },
+      "_said": "Celie delivers that curse to Albert. I've always debated this. Did the dust devil actually speak?"
+    },
+    {
+      "fp": "e1qmt3",
+      "i": 218,
+      "from": 51581,
+      "subject": "Albert — storm",
+      "entities": [
+        "albert"
+      ],
+      "concept": "storm",
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Albert, whispering to albert?, 1800"
+      },
+      "antidote": {
+        "concept": "storm",
+        "set": null,
+        "cast": [
+          "albert"
+        ]
+      },
+      "_said": "speak? Right? Like, is it literal magic? Yeah. Is the wind literally whispering to Albert?"
+    },
+    {
+      "fp": "2jcnfy",
+      "i": 219,
+      "from": 51732,
+      "subject": "Walker and Albert",
+      "entities": [
+        "walker",
+        "albert"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Walker and Albert, 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "walker",
+          "albert"
+        ]
+      },
+      "_said": "Albert? Is Alice Walker injecting literal magical realism into a book that has up to this point been brutally physically"
+    },
+    {
+      "fp": "1mk9usc",
+      "i": 220,
+      "from": 51984,
+      "subject": "heart",
+      "entities": [],
+      "concept": "heart",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "heart, 1800"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": null,
+        "cast": []
+      },
+      "_said": "physically realistic? It's a debate scholars love to have, but ultimately, I argue it doesn't matter if it's literal magic like a fantasy novel or a moment of incredibly"
+    },
+    {
+      "fp": "14xv672",
+      "i": 221,
+      "from": 52265,
+      "subject": "Celie",
+      "entities": [
+        "celie"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Celie, 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "celie"
+        ]
+      },
+      "_said": "incredibly deep psychological integration where Celie perceives the world differently. The result is the same. The emotional and narrative effect is exactly the same. Celie has fin"
+    },
+    {
+      "fp": "1bfwv6s",
+      "i": 222,
+      "from": 52653,
+      "subject": "Shug",
+      "entities": [
+        "shug"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Shug, 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "shug"
+        ]
+      },
+      "_said": "it that Shug described. She isn't just speaking"
+    },
+    {
+      "fp": "lw3rt3",
+      "i": 223,
+      "from": 52723,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "speaking for Celia, the abused wife, anymore. She is speaking for the universe. She is channeling the earth itself. She has channeled the immovable authority of the natural world t"
+    },
+    {
+      "fp": "17yb6ge",
+      "i": 224,
+      "from": 53126,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "from a silenced, shrinking victim who begged a void for mercy to a woman who can definitively loudly say to"
+    },
+    {
+      "fp": "wi27tc",
+      "i": 225,
+      "from": 53321,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "to her oppressor in the world, \"I am here.\" She's taking up space. She claims"
+    },
+    {
+      "fp": "1kaji7n",
+      "i": 226,
+      "from": 53472,
+      "subject": "Walker — lightbulb",
+      "entities": [
+        "walker"
+      ],
+      "concept": "lightbulb",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Walker, 1800"
+      },
+      "antidote": {
+        "concept": "lightbulb",
+        "cast": [
+          "walker"
+        ]
+      },
+      "_said": "claims her coordinates on the Earth. But, and this is why Alice Walker is a genius. She is far too smart a writer to let the story end on a purely"
+    },
+    {
+      "fp": "1w3vwes",
+      "i": 227,
+      "from": 53724,
+      "subject": "trophy",
+      "entities": [],
+      "concept": "trophy",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "trophy, 1800"
+      },
+      "antidote": {
+        "concept": "trophy",
+        "cast": []
+      },
+      "_said": "purely spiritual metaphorical victory. You can't eat a You certainly can't. You can't live in a theology. Which leads us to our next major. claim"
+    },
+    {
+      "fp": "1hbdmw",
+      "i": 228,
+      "from": 53966,
+      "subject": "chains",
+      "entities": [],
+      "concept": "chains",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "chains, 1800"
+      },
+      "antidote": {
+        "concept": "chains",
+        "cast": []
+      },
+      "_said": "claim freedom has a ledger. This is a crucial deeply"
+    },
+    {
+      "fp": "rm7hzx",
+      "i": 229,
+      "from": 54065,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "deeply pragmatic element that elevates the novel from a purely internal"
+    },
+    {
+      "fp": "n5pc3b",
+      "i": 230,
+      "from": 54194,
+      "subject": "Walker — chains",
+      "entities": [
+        "walker"
+      ],
+      "concept": "chains",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Walker, 1800"
+      },
+      "antidote": {
+        "concept": "chains",
+        "cast": [
+          "walker"
+        ]
+      },
+      "_said": "internal philosophical narrative to a grounded socioeconomic one. Walker understands intimately that spiritual liberation is utterly hollow if it isn't backed by material liberatio"
+    },
+    {
+      "fp": "1pi3zqv",
+      "i": 231,
+      "from": 54494,
+      "subject": "home",
+      "entities": [],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "home, 1800"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": []
+      },
+      "_said": "liberation. Enter Miss Celie's folks. I love this transition so much. We drop into a scene inside the house much later."
+    },
+    {
+      "fp": "5mtk5h",
+      "i": 232,
+      "from": 54669,
+      "subject": "Celie",
+      "entities": [
+        "celie"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Celie, 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "celie"
+        ]
+      },
+      "_said": "later. Celie is doing what she has done her entire life. She is sewing, but the context is completely shifted. Now she's sewing for herself by her own design."
+    },
+    {
+      "fp": "1x39sjz",
+      "i": 233,
+      "from": 54914,
+      "subject": "Celie and Squeak",
+      "entities": [
+        "celie",
+        "squeak"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Celie and Squeak, 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "celie",
+          "squeak"
+        ]
+      },
+      "_said": "design. Squeak comes in and tries on a pair of pants Celie just made. And they aren't just utilitarian rags. They are art. They are the color of a sunset orang-ish with a little gr"
+    },
+    {
+      "fp": "jm5gvy",
+      "i": 234,
+      "from": 55216,
+      "subject": "Squeak",
+      "entities": [
+        "squeak"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Squeak, 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "squeak"
+        ]
+      },
+      "_said": "fleck. And Squeak looks amazing in them. Squeak comes out wearing them and she looks so incredibly fine that Grady looks like he could just eat her up."
+    },
+    {
+      "fp": "188w6c5",
+      "i": 235,
+      "from": 55461,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "up. It's vital to notice the profound transition happening here with the needle and thread. For decades, sewing was a chore, a marker"
+    },
+    {
+      "fp": "nlkd4z",
+      "i": 236,
+      "from": 55701,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "marker of Celie's forced domestic servitude. It was forced labor. Exactly. She swed what she was told to sew to maintain the household of the man who beat her. Now, that exact same"
+    },
+    {
+      "fp": "l2911p",
+      "i": 237,
+      "from": 56045,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "skill is transformed into an act of creation, expression, and crucially, commerce."
+    },
+    {
+      "fp": "i4hedh",
+      "i": 238,
+      "from": 56203,
+      "subject": "coin",
+      "entities": [],
+      "concept": "coin",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "coin, 1800"
+      },
+      "antidote": {
+        "concept": "coin",
+        "cast": []
+      },
+      "_said": "commerce. Miss Celie's folks pants isn't just a cute hobby. No, it turns her labor into an independent income, a renewed identity, and eventually a generational"
+    },
+    {
+      "fp": "7lrpfm",
+      "i": 239,
+      "from": 56498,
+      "subject": "Shug",
+      "entities": [
+        "shug"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Shug, 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "shug"
+        ]
+      },
+      "_said": "And Shug, playing her role beautifully again, is the ultimate catalyst here. Shug isn't just a spiritual guru floating on a cloud. She is a deeply"
+    },
+    {
+      "fp": "1gew78z",
+      "i": 240,
+      "from": 56736,
+      "subject": "Celie",
+      "entities": [
+        "celie"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Celie, 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "celie"
+        ]
+      },
+      "_said": "deeply practical, savvy business partner. She knows how the world works. She looks at these pants and tells Celie they are going to put ads in the paper. They are going to raise th"
+    },
+    {
+      "fp": "14bmcp3",
+      "i": 241,
+      "from": 57088,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "notch because the work is good. and they're going to clear out the dining room and turn it into a working"
+    },
+    {
+      "fp": "1326ihe",
+      "i": 242,
+      "from": 57252,
+      "subject": "Celie",
+      "entities": [
+        "celie"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Celie, watch celie evolve from being treated as free, 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "celie"
+        ]
+      },
+      "_said": "working Over a few chapters, you literally watch Celie evolve from being treated as free, disposable, invisible labor to the owner"
+    },
+    {
+      "fp": "hd0qfl",
+      "i": 243,
+      "from": 57494,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "owner of a manufacturing business. This specific arc is deeply, inextricably tied to the history of black women's labor in America, moving from"
+    },
+    {
+      "fp": "peg7i9",
+      "i": 244,
+      "from": 57765,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "war, 1800"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "from the exploitation of slavery and sharecropping into the fierce battle for economic autonomy. It's a huge economic shift for her. I hear you"
+    },
+    {
+      "fp": "xko9kf",
+      "i": 245,
+      "from": 58003,
+      "subject": "chains",
+      "entities": [],
+      "concept": "chains",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "chains, 1800"
+      },
+      "antidote": {
+        "concept": "chains",
+        "cast": []
+      },
+      "_said": "you on the empowerment aspects, but let me push on the economics here just to be critical. Go for it. Are we really just saying that capitalism is the ultimate freedom in this stor"
+    },
+    {
+      "fp": "1m5f4rb",
+      "i": 246,
+      "from": 58260,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "run a small business to be spiritually free, 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "story? Is Walker's grand conclusion that you just need to start an LLC, pull yourself up by your bootstraps, and run a small business to be spiritually free because that feels a li"
+    },
+    {
+      "fp": "w3bd4k",
+      "i": 247,
+      "from": 58536,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "reading because it's a trap many moderators fal, 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "hollow compared to the theology we just I want to strongly correct that reading because it's a trap many moderators fall into. It is absolutely not"
+    },
+    {
+      "fp": "1m74lyg",
+      "i": 248,
+      "from": 58814,
+      "subject": "target",
+      "entities": [],
+      "concept": "target",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "target, 1800"
+      },
+      "antidote": {
+        "concept": "target",
+        "cast": []
+      },
+      "_said": "not an endorsement of capitalism in the macro exploitative sense. It is a laser focus on the ownership of one's own labor. So it's about bodily autonomy Yes."
+    },
+    {
+      "fp": "fn710f",
+      "i": 249,
+      "from": 59143,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Yes. Look at Sel's life. For her first 14 years, Fonso stole her labor. For the next several decades,"
+    },
+    {
+      "fp": "xtb04s",
+      "i": 250,
+      "from": 59323,
+      "subject": "Albert",
+      "entities": [
+        "albert"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Albert, 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "albert"
+        ]
+      },
+      "_said": "decades, Albert stole her labor. They extracted her physical work from sunrise to sunset without compensation, without gratitude, as if they literally owned"
+    },
+    {
+      "fp": "3dh8w",
+      "i": 251,
+      "from": 59577,
+      "subject": "fire",
+      "entities": [],
+      "concept": "fire",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "fire, 1800"
+      },
+      "antidote": {
+        "concept": "fire",
+        "cast": []
+      },
+      "_said": "owned the calories she burned. They owned her time. Designing, making, and selling those pants is the very first time"
+    },
+    {
+      "fp": "15z3qmf",
+      "i": 252,
+      "from": 59774,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "time in Celie's entire existence that she owns the fruits of her own hands. She gets to decide what her time is worth. It is about bodily"
+    },
+    {
+      "fp": "1jd4tft",
+      "i": 253,
+      "from": 59976,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "bodily sovereignty, not just profit margins. Her change"
+    },
+    {
+      "fp": "1jaokzo",
+      "i": 254,
+      "from": 60050,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "change of address is now literal and physical. She has her own physical space, her own dining room factory, her own domain."
+    },
+    {
+      "fp": "kziqrc",
+      "i": 255,
+      "from": 60230,
+      "subject": "home",
+      "entities": [],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "home, 1800"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": []
+      },
+      "_said": "domain. Eventually, she inherits a house. She has money she earned in her own pocket. She's secure. She is materially secure. She has built a fortress. But just as in real life,"
+    },
+    {
+      "fp": "pirdux",
+      "i": 256,
+      "from": 60535,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "life, right when you think the hero has won, right"
+    },
+    {
+      "fp": "ontvzw",
+      "i": 257,
+      "from": 60607,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "right when the fortress is secure, the universe tests this shiny new theology in the most devastating,"
+    },
+    {
+      "fp": "m935nt",
+      "i": 258,
+      "from": 60775,
+      "subject": "Celie",
+      "entities": [
+        "celie"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Celie, 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "celie"
+        ]
+      },
+      "_said": "devastating, heartbreaking way possible. This is the moment that proves the incredible depth and maturity of Walker's vision. She absolutely does not let Celie off easy. She tests"
+    },
+    {
+      "fp": "vxywq9",
+      "i": 259,
+      "from": 61058,
+      "subject": "Celie — home",
+      "entities": [
+        "celie"
+      ],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Celie, sitting alone in this big, 1800"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": [
+          "celie"
+        ]
+      },
+      "_said": "tests the foundation of the house Celie just built. We find Celie sitting alone in this big, quiet house she has inherited. And a telegram arrives. It is from the"
+    },
+    {
+      "fp": "1lv78jl",
+      "i": 260,
+      "from": 61332,
+      "subject": "shield",
+      "entities": [],
+      "concept": "shield",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "shield, 1800"
+      },
+      "antidote": {
+        "concept": "shield",
+        "cast": []
+      },
+      "_said": "the US Department of Defense. It's the most sterile, cold, bureaucratic delivery of absolute horror you can imagine. The telegram says"
+    },
+    {
+      "fp": "2yikl4",
+      "i": 261,
+      "from": 61576,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "says that Netti's ship was sunk by German mines off the coast of Gibralar."
+    },
+    {
+      "fp": "ve3xdz",
+      "i": 262,
+      "from": 61704,
+      "subject": "Celie and Nettie and Netti — notes",
+      "entities": [
+        "celie",
+        "nettie",
+        "netti"
+      ],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Celie and Nettie, writing and sending to netti for years are retu, 1800"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": [
+          "celie",
+          "nettie",
+          "netti"
+        ]
+      },
+      "_said": "Gibralar. The government believes Nettie and everyone traveling with her has drowned at sea. It's just a gut punch. And at the exact same time, as if the universe is twisting the k"
+    },
+    {
+      "fp": "1ayv44i",
+      "i": 263,
+      "from": 62124,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "in a bundle, stamped unopened and undeliverable. This drops us into a heavy, crushing,"
+    },
+    {
+      "fp": "1r4twm8",
+      "i": 264,
+      "from": 62313,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "crushing, suffocating emotional reality. Think of what this means for her address. This is the ultimate, grueling test of her newly built theology"
+    },
+    {
+      "fp": "oyy3go",
+      "i": 265,
+      "from": 62570,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "theology of connection. Because the connection has supposedly been severed. Exactly. Just as she finds"
+    },
+    {
+      "fp": "1ao25fu",
+      "i": 266,
+      "from": 62707,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": "kitchen",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, kitchen, 1800"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": "kitchen",
+        "cast": []
+      },
+      "_said": "finds her spiritual grounding in the world, just as she achieves material independence, the universe seemingly rips her sister, her true north, the very person she changed her addr"
+    },
+    {
+      "fp": "jrsu8m",
+      "i": 267,
+      "from": 63069,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "notes, 1800"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": []
+      },
+      "_said": "away. And Celie's reaction is agonizingly quiet. She writes, \"Being alive begin to seem like an awful strain. It's a devastating"
+    },
+    {
+      "fp": "4p0qr1",
+      "i": 268,
+      "from": 63295,
+      "subject": "Celie — grave",
+      "entities": [
+        "celie"
+      ],
+      "concept": "grave",
+      "place": "forest",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Celie, forest, 1800"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": "forest",
+        "cast": [
+          "celie"
+        ]
+      },
+      "_said": "devastating juxtaposition of life and death.\" Because think about what Celie was literally doing when she"
+    },
+    {
+      "fp": "9rhxpp",
+      "i": 269,
+      "from": 63439,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "sitting there trying to design a new pair of pa, 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "she got that telegram. She was sitting there trying to design a new pair of pants specifically for pregnant women. Oh wow. She was literally engaging in an act of creation,"
+    },
+    {
+      "fp": "6dg2lw",
+      "i": 270,
+      "from": 63689,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "creation, designing something to accommodate new life coming into the world. And suddenly the very thought of new life makes her want to weep."
+    },
+    {
+      "fp": "1j82a7c",
+      "i": 271,
+      "from": 63881,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "weep. The impulse to create is slammed right up against this sudden senseless massive loss of life. It is the classic dark night of the soul. The moment where every belief system i"
+    },
+    {
+      "fp": "8m4bdw",
+      "i": 272,
+      "from": 64171,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "put into the crucible. I have to be honest, as a reader, this always feels like an incredibly bleak place to take the narrative right at the finish It's tough. I know."
+    },
+    {
+      "fp": "z3ct1m",
+      "i": 273,
+      "from": 64413,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "know. Doesn't this completely undermine her whole spiritual awakening? If she does all this work to find this beautiful, interconnected new god"
+    },
+    {
+      "fp": "8mku4a",
+      "i": 274,
+      "from": 64656,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": "kitchen",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, kitchen, 1800"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": "kitchen",
+        "cast": []
+      },
+      "_said": "god in The Color Purple, and then that same universe just violently drowns her innocent sister in a war, doesn't that just prove the universe is just"
+    },
+    {
+      "fp": "109qadv",
+      "i": 275,
+      "from": 64896,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "just as cruel, random, and unfeilling as the old white man in the sky? It's a totally understandable reaction to feel betrayed by the narrative there. But I would argue that it abs"
+    },
+    {
+      "fp": "cvr3jh",
+      "i": 276,
+      "from": 65232,
+      "subject": "Celie",
+      "entities": [
+        "celie"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Celie, 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "celie"
+        ]
+      },
+      "_said": "does not undermine the awakening. It actually solidifies it in reality. Oh, so you have to notice what Celie does in"
+    },
+    {
+      "fp": "q55p8a",
+      "i": 277,
+      "from": 65417,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "notes, fall back to her knees and start writing, 1800"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": []
+      },
+      "_said": "in this suffocating moment of absolute despair. She does not regress. She doesn't fall back to her knees and start writing, \"Dear God,\" to the old white man in the sky,"
+    },
+    {
+      "fp": "1qesizc",
+      "i": 278,
+      "from": 65673,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "notes, 1800"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": []
+      },
+      "_said": "sky, begging for an That's true. She picks up her pen and she writes, \"Dear"
+    },
+    {
+      "fp": "1yq62zq",
+      "i": 279,
+      "from": 65791,
+      "subject": "Nettie — heart",
+      "entities": [
+        "nettie"
+      ],
+      "concept": "heart",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Nettie, 1800"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": null,
+        "cast": [
+          "nettie"
+        ]
+      },
+      "_said": "\"Dear Nettie,\" she speaks her profound unending love directly into the void. Her faith in"
+    },
+    {
+      "fp": "17loks9",
+      "i": 280,
+      "from": 65981,
+      "subject": "grave",
+      "entities": [],
+      "concept": "grave",
+      "place": "forest",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "grave, forest, 1800"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": "forest",
+        "cast": []
+      },
+      "_said": "in their connection survives even the imminent apparent reality of death. She continues to address the person she loves, maintaining"
+    },
+    {
+      "fp": "lnpein",
+      "i": 281,
+      "from": 66230,
+      "subject": "heart",
+      "entities": [],
+      "concept": "heart",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "heart, 1800"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": null,
+        "cast": []
+      },
+      "_said": "maintaining that spiritual tether, even when cold logic tells her no one is listening on the other side. That is profound. It's the ultimate act of defiance against the void. Her a"
+    },
+    {
+      "fp": "1d5hxph",
+      "i": 282,
+      "from": 66609,
+      "subject": "heart",
+      "entities": [],
+      "concept": "heart",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "heart, 1800"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": null,
+        "cast": []
+      },
+      "_said": "when she believes the envelope will never be She has learned how to love the universe even when the universe breaks her heart. And speaking of broken people, we have to talk about "
+    },
+    {
+      "fp": "fbcgft",
+      "i": 283,
+      "from": 66873,
+      "subject": "Walker",
+      "entities": [
+        "walker"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Walker, 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "walker"
+        ]
+      },
+      "_said": "the most controversial narrative choice Walker makes in the final act of this book. We have to"
+    },
+    {
+      "fp": "1c5o6ey",
+      "i": 284,
+      "from": 67008,
+      "subject": "Walker and Albert",
+      "entities": [
+        "walker",
+        "albert"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Walker and Albert, 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "walker",
+          "albert"
+        ]
+      },
+      "_said": "to talk about Albert. Oh, Albert. This is where Walker takes her biggest philosophical risk. Claim number seven, the abuser gets a human ending. It is a choice that challenges the "
+    },
+    {
+      "fp": "12lr2bd",
+      "i": 285,
+      "from": 67363,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "challenges Celles. It really does. Let's paint the"
+    },
+    {
+      "fp": "z6agou",
+      "i": 286,
+      "from": 67449,
+      "subject": "Albert",
+      "entities": [
+        "albert"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Albert, sitting on the porch with her? albert, 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "albert"
+        ]
+      },
+      "_said": "the picture. It's the end of the book. Sy is back on the land. And who is sitting on the porch with her? Albert, but it's not the Albert with the whip."
+    },
+    {
+      "fp": "xx47nc",
+      "i": 287,
+      "from": 67704,
+      "subject": "Celie — funnelTrap",
+      "entities": [
+        "celie"
+      ],
+      "concept": "funnelTrap",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Celie, sitting on the porch beside celie, 1800"
+      },
+      "antidote": {
+        "concept": "funnelTrap",
+        "cast": [
+          "celie"
+        ]
+      },
+      "_said": "whip. It's an older, broken, stripped down man. A completely different version of him. He is sitting on the porch beside Celie, and he is doing the one thing"
+    },
+    {
+      "fp": "pu8wn5",
+      "i": 288,
+      "from": 67980,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "thing he mocked her for her entire life. He is sewing. They are sewing together. and he is finally for the first time in his miserable life asking real genuine questions about the "
+    },
+    {
+      "fp": "a1fu6a",
+      "i": 289,
+      "from": 68381,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "world. He's asking why things are the way they To understand the mechanics of"
+    },
+    {
+      "fp": "1l2qw1j",
+      "i": 290,
+      "from": 68498,
+      "subject": "Walker — water",
+      "entities": [
+        "walker"
+      ],
+      "concept": "water",
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Walker, 1800"
+      },
+      "antidote": {
+        "concept": "water",
+        "set": null,
+        "cast": [
+          "walker"
+        ]
+      },
+      "_said": "of this redemption, we have to look at what Walker did him. She didn't just wave a magic wand and make him nice, right? It wasn't unearned in that sense. She systematically strippe"
+    },
+    {
+      "fp": "g8aw54",
+      "i": 291,
+      "from": 68772,
+      "subject": "Celie and Shug — ledge",
+      "entities": [
+        "celie",
+        "shug"
+      ],
+      "concept": "ledge",
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Celie and Shug, 1800"
+      },
+      "antidote": {
+        "concept": "ledge",
+        "set": null,
+        "cast": [
+          "celie",
+          "shug"
+        ]
+      },
+      "_said": "piece of patriarchal armor he wore. He lost Shug. He lost Celie. He lost his dominance. His farm fell apart. He was reduced to nothing. And only in that absolute"
+    },
+    {
+      "fp": "1iuheof",
+      "i": 292,
+      "from": 69005,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "sit still, 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "absolute emptiness, when the performance of dominance was no longer possible, could a fragile, decent human being start to emerge. He learns to sit still. He learns to create rathe"
+    },
+    {
+      "fp": "1p9jhl8",
+      "i": 293,
+      "from": 69276,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "rather than destroy. I'll be honest, this is the part of the book that always makes me bristle. I have to play the role of the angry reader here."
+    },
+    {
+      "fp": "9dy1d6",
+      "i": 294,
+      "from": 69485,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": "kitchen",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, sit quietly on that porch, kitchen, 1800"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": "kitchen",
+        "cast": []
+      },
+      "_said": "here. Please do. After everything he did, the physical beatings, the psychological torture, hoarding the letters, hiding her sister, does he really deserve to sit quietly on that p"
+    },
+    {
+      "fp": "1inmitj",
+      "i": 295,
+      "from": 69804,
+      "subject": "gift",
+      "entities": [],
+      "concept": "gift",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "gift, 1800"
+      },
+      "antidote": {
+        "concept": "gift",
+        "cast": []
+      },
+      "_said": "in the sunshine? Doesn't giving him a peaceful ending soften the very brutality"
+    },
+    {
+      "fp": "efydek",
+      "i": 296,
+      "from": 69957,
+      "subject": "Walker",
+      "entities": [
+        "walker"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Walker, 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "walker"
+        ]
+      },
+      "_said": "brutality Walker spent 200 pages It is the most frequent and valid criticism of the novel's ending. But I think we have to reframe what his presence on the porch actually means."
+    },
+    {
+      "fp": "1ly11yw",
+      "i": 297,
+      "from": 70250,
+      "subject": "Albert",
+      "entities": [
+        "albert"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Albert, 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "albert"
+        ]
+      },
+      "_said": "means. Okay, reframe it for me. It is not about what Albert deserves."
+    },
+    {
+      "fp": "p3dup8",
+      "i": 298,
+      "from": 70344,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "deserves. Grace, by definition, is unearned. It is about Walker's radical claim that human beings are capable of profound change if the toxic systems that built them are dismantled"
+    },
+    {
+      "fp": "1utpxit",
+      "i": 299,
+      "from": 70721,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "on Celie's Uhhuh. On her term. She does not owe him forgiveness, and she never formally grants"
+    },
+    {
+      "fp": "qh86pj",
+      "i": 300,
+      "from": 70872,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "grants him absolution. She simply allows him to exist in her space because she is now powerful enough that he is no longer a threat. Her peace is so massive, so secure that"
+    },
+    {
+      "fp": "18pvhun",
+      "i": 301,
+      "from": 71155,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "sitting side by side, 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "that it can accommodate even his brokenness. She isn't serving him. They are sitting side by side."
+    },
+    {
+      "fp": "ogfzqv",
+      "i": 302,
+      "from": 71313,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "side. It's forgiveness as a byproduct of her own immense power, not an obligation of her subjugation. Which leads us beautifully to the final beat, the final claim of the book, the"
+    },
+    {
+      "fp": "lvkrbr",
+      "i": 303,
+      "from": 71685,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "notes, 1800"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": []
+      },
+      "_said": "This is the culmination of everything we've talked about today. It is the theological victory loop. We look at the very last letter in the book and look at who"
+    },
+    {
+      "fp": "1o6fk2e",
+      "i": 304,
+      "from": 71885,
+      "subject": "Netti — notes",
+      "entities": [
+        "netti"
+      ],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Netti, write to the old white god, 1800"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": [
+          "netti"
+        ]
+      },
+      "_said": "who she addresses it to. She doesn't write to the old white god. She doesn't even just write to Netti anymore."
+    },
+    {
+      "fp": "1k2cnmi",
+      "i": 305,
+      "from": 72002,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "notes, 1800"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": []
+      },
+      "_said": "anymore. That's so expansive. The salutation is the most expansive, breathtaking sentence she writes. Dear God, dear stars, dear trees, dear sky, dear peoples,"
+    },
+    {
+      "fp": "13awvny",
+      "i": 306,
+      "from": 72292,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "dear everything, dear God. It is the ultimate expansion of the soul. Celie's god has widened from one punishing distant white man to the entire vibrating"
+    },
+    {
+      "fp": "1k19msc",
+      "i": 307,
+      "from": 72600,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "vibrating circumference of all She includes everything."
+    },
+    {
+      "fp": "1doalkd",
+      "i": 308,
+      "from": 72684,
+      "subject": "star",
+      "entities": [],
+      "concept": "star",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "star, 1800"
+      },
+      "antidote": {
+        "concept": "star",
+        "set": null,
+        "cast": []
+      },
+      "_said": "everything. She has integrated the stars, the trees and humanity into a single unified She"
+    },
+    {
+      "fp": "1hcxfiw",
+      "i": 309,
+      "from": 72859,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "She is speaking to the universe and she knows she is a vital part of it. And what happens when you speak to the universe like that? The universe answers."
+    },
+    {
+      "fp": "gigjab",
+      "i": 310,
+      "from": 73072,
+      "subject": "Nettie — heart",
+      "entities": [
+        "nettie"
+      ],
+      "concept": "heart",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Nettie, holding this expansive love, 1800"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": null,
+        "cast": [
+          "nettie"
+        ]
+      },
+      "_said": "answers. Because in this final scene, while she's holding this expansive love, a car pulls up and Nettie, older, graying but alive, walks back through the door."
+    },
+    {
+      "fp": "6nplhv",
+      "i": 311,
+      "from": 73370,
+      "subject": "game",
+      "entities": [],
+      "concept": "game",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "game, 1800"
+      },
+      "antidote": {
+        "concept": "game",
+        "set": null,
+        "cast": []
+      },
+      "_said": "door. The physical reunion matches the spiritual one. The circle is completely Now, as deeply, overwhelmingly moving as this structure is, as satisfying as that reunion is on a vis"
+    },
+    {
+      "fp": "107rwt6",
+      "i": 312,
+      "from": 73771,
+      "subject": "magnifier",
+      "entities": [],
+      "concept": "magnifier",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "magnifier, 1800"
+      },
+      "antidote": {
+        "concept": "magnifier",
+        "cast": []
+      },
+      "_said": "examine a significant counterpoint. We have to look critically"
+    },
+    {
+      "fp": "16e3wx3",
+      "i": 313,
+      "from": 73838,
+      "subject": "Walker",
+      "entities": [
+        "walker"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Walker, 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "walker"
+        ]
+      },
+      "_said": "critically at how Walker lands this plane, right? We need to raise one honest structural criticism that readers often push back on."
+    },
+    {
+      "fp": "1a6h4q5",
+      "i": 314,
+      "from": 74021,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "on. We've built up this profound theological awakening, but we have to ask, is this ending too neat? It does wrap up very cleanly."
+    },
+    {
+      "fp": "v16q7x",
+      "i": 315,
+      "from": 74237,
+      "subject": "Albert and Nettie",
+      "entities": [
+        "albert",
+        "nettie"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Albert and Nettie, 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "albert",
+          "nettie"
+        ]
+      },
+      "_said": "cleanly. Think about it. Albert is magically redeemed and pacified. Nettie survives a literal shipwreck and returns right on Q."
+    },
+    {
+      "fp": "9db8io",
+      "i": 316,
+      "from": 74479,
+      "subject": "Celie and Walker — home",
+      "entities": [
+        "celie",
+        "walker"
+      ],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Celie and Walker, 1800"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": [
+          "celie",
+          "walker"
+        ]
+      },
+      "_said": "Q. Celie is suddenly a prosperous business owner with a big house. Does the book truly earn this level of fairy tale happiness? Or does Walker betray the brutal realism of the firs"
+    },
+    {
+      "fp": "yb65db",
+      "i": 317,
+      "from": 74827,
+      "subject": "gift",
+      "entities": [],
+      "concept": "gift",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "gift, 1800"
+      },
+      "antidote": {
+        "concept": "gift",
+        "cast": []
+      },
+      "_said": "give us a Hollywood ending? Are the men outside of Albert's late shift drawn a bit too flatly as"
+    },
+    {
+      "fp": "1vtixrg",
+      "i": 318,
+      "from": 75014,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "as pure villains just to make the arc work? It is an incredibly fair critique when you lay out the plot points of the final act, the inheritance, the survival"
+    },
+    {
+      "fp": "1iydf2r",
+      "i": 319,
+      "from": 75257,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "read the ending not strictly as literal grit, 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "survival of the shipwreck, the abuser's reform. It strains credul. It brushes up against fable. However, I would argue that we have to read the ending not strictly as literal gritt"
+    },
+    {
+      "fp": "11m9phn",
+      "i": 320,
+      "from": 75588,
+      "subject": "Walker — chains",
+      "entities": [
+        "walker"
+      ],
+      "concept": "chains",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Walker, 1800"
+      },
+      "antidote": {
+        "concept": "chains",
+        "cast": [
+          "walker"
+        ]
+      },
+      "_said": "Yeah, Walker is showing us what the architecture of full liberation looks The architecture of liberation. She has taken us through the hell of reality and"
+    },
+    {
+      "fp": "oj28qe",
+      "i": 321,
+      "from": 75813,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "and she is concluding with the heaven of possibility. She is arguing that if you change your spiritual address, if you reclaim your labor, if you"
+    },
+    {
+      "fp": "jzodsv",
+      "i": 322,
+      "from": 76041,
+      "subject": "gift",
+      "entities": [],
+      "concept": "gift",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "gift, 1800"
+      },
+      "antidote": {
+        "concept": "gift",
+        "cast": []
+      },
+      "_said": "you build sisterhood, this is the wholeness that is possible. The neatness of the ending is Walker's gift to"
+    },
+    {
+      "fp": "1mp4gog",
+      "i": 323,
+      "from": 76265,
+      "subject": "home",
+      "entities": [],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "home, 1800"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": []
+      },
+      "_said": "to a character who was denied every comfort in her actual life. So, let's bring this all the way home and look at the blueprint we've just uncovered. We started this deep dive"
+    },
+    {
+      "fp": "1dbcwt",
+      "i": 324,
+      "from": 76562,
+      "subject": "road",
+      "entities": [],
+      "concept": "road",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "road, 1800"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": null,
+        "cast": []
+      },
+      "_said": "dive by claiming this was a conversion story wearing a survival story's clothes. And I think we've traced exactly how that engine The letters map the"
+    },
+    {
+      "fp": "1mjmtg",
+      "i": 325,
+      "from": 76795,
+      "subject": "road",
+      "entities": [],
+      "concept": "road",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "road, 1800"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": null,
+        "cast": []
+      },
+      "_said": "the exact coordinates of her soul's journey. This was never ever just the story of a woman escaping a man. It is"
+    },
+    {
+      "fp": "nviqtc",
+      "i": 326,
+      "from": 77004,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "is the magnificent story of a woman who completely changed who she was talking from beginning to end. She started out as a terrified 14-year-old"
+    },
+    {
+      "fp": "15gsdko",
+      "i": 327,
+      "from": 77246,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "notes, writing to avoid, 1800"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": []
+      },
+      "_said": "14-year-old writing to avoid, praying to a god made in the exact image of the men who beat her. She changed her address to her sister, pouring her love into a connection she wasn't"
+    },
+    {
+      "fp": "1n3m3e5",
+      "i": 328,
+      "from": 77541,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "sure had survived a world And in doing the grueling work of changing that address, she found that God was never the old white man in the No,"
+    },
+    {
+      "fp": "s4iocl",
+      "i": 329,
+      "from": 77791,
+      "subject": "star",
+      "entities": [],
+      "concept": "star",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "star, standing on the porch finally saying, 1800"
+      },
+      "antidote": {
+        "concept": "star",
+        "set": null,
+        "cast": []
+      },
+      "_said": "No, God was the purple in the field. God was the trees. God was the stars. And ultimately, God was her own voice standing on the porch finally saying, \"I'm here.\" And if we take"
+    },
+    {
+      "fp": "1v57tcu",
+      "i": 330,
+      "from": 78146,
+      "subject": "tree",
+      "entities": [],
+      "concept": "tree",
+      "place": "forest",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "tree, leaves you with something incredibly powerful, forest, 1800"
+      },
+      "antidote": {
+        "concept": "tree",
+        "set": "forest",
+        "cast": []
+      },
+      "_said": "take this profound theological shift and apply it to our own lives outside the pages of the novel, it leaves you with something incredibly powerful to consider."
+    },
+    {
+      "fp": "1hr3ogp",
+      "i": 331,
+      "from": 78410,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "notes, write today, 1800"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": []
+      },
+      "_said": "consider. What's that? Think about the letters you write today, the texts you send, the journals you keep, the digital"
+    },
+    {
+      "fp": "fzzde4",
+      "i": 332,
+      "from": 78571,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "notes, leave behind, 1800"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": []
+      },
+      "_said": "digital footprints you leave behind, the internal monologue running in your head. Who is the audience? Who are you performing for exactly? How does the invisible audience you are w"
+    },
+    {
+      "fp": "1fqb5k2",
+      "i": 333,
+      "from": 79012,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "constantly performing for an audience that diminishes you,"
+    },
+    {
+      "fp": "6fgjb6",
+      "i": 334,
+      "from": 79089,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "you, or a worldview that demands your silence, you will inevitably shrink to fit that But what if you changed it? If you changed who"
+    },
+    {
+      "fp": "1ucnl8n",
+      "i": 335,
+      "from": 79301,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "you were performing for, who you were talking to, would it change who you fundamentally are? It's a question worth asking the very next time you put a pen to paper or fingers"
+    },
+    {
+      "fp": "ox14cw",
+      "i": 336,
+      "from": 79557,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1800"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "fingers to a keyboard? Until next time, keep diving deep into the things you"
+    }
+  ]
+}

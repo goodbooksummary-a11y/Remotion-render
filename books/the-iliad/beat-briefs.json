@@ -1,0 +1,5641 @@
+{
+  "slug": "the-iliad",
+  "authored": false,
+  "briefs": [
+    {
+      "fp": "1ehydkz",
+      "i": 0,
+      "from": 0,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, sitting in his tent refusing to fight because h, 1930"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "The most famous warrior in human history spends like threearters of the Western world's first epic sitting in his tent refusing to fight because he realized the prize was a lie. Ri"
+    },
+    {
+      "fp": "cg2lut",
+      "i": 1,
+      "from": 427,
+      "subject": "Iliad",
+      "entities": [
+        "iliad"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Iliad, 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "iliad"
+        ]
+      },
+      "_said": "the popular conception we have of this myth. The Iliad is not a triumphant Bronze Age"
+    },
+    {
+      "fp": "152cyrs",
+      "i": 2,
+      "from": 600,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, 1930"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "Age war chronicle celebrating slaughter. Yeah, not at all. It's actually fundamentally an anti-war tragedy, brilliantly disguised as a heroic epic. What the text proves is that the"
+    },
+    {
+      "fp": "dxj9dl",
+      "i": 3,
+      "from": 984,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "in this relentless pursuit of immortal glory turns human beings"
+    },
+    {
+      "fp": "u1hgge",
+      "i": 4,
+      "from": 1087,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, weep together over, 1930"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "beings into disposable Wow. Into commodities. Exactly. It argues that true moral stature isn't achieved out on the battlefield like driving a spear through your enemy's chest. It's"
+    },
+    {
+      "fp": "1hd7ge1",
+      "i": 5,
+      "from": 1493,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "over their shared mortality. You might think you have a handle on this story, right? You've heard"
+    },
+    {
+      "fp": "1nj51r",
+      "i": 6,
+      "from": 1593,
+      "subject": "Achilles",
+      "entities": [
+        "achilles"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Achilles, 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "achilles"
+        ]
+      },
+      "_said": "heard the cultural shortorthhand for it. Oh, sure. The Trojan horse, the golden apple, Achilles heel. Exactly. But this deep dive is going to look at the exact cost of the ancient "
+    },
+    {
+      "fp": "147kw6r",
+      "i": 7,
+      "from": 1888,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "world's most dangerous exchange rate. We're pulling heavily from Emily Wilson's"
+    },
+    {
+      "fp": "t36sp9",
+      "i": 8,
+      "from": 2011,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Wilson's monumental translation and uh her rigorous analysis of Homer's text to really ground us here. Her insights are just incredible for They really are. So, to set the stage fo"
+    },
+    {
+      "fp": "1y3khcm",
+      "i": 9,
+      "from": 2405,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "is the final grueling year of"
+    },
+    {
+      "fp": "1ba2yhb",
+      "i": 10,
+      "from": 2467,
+      "subject": "Agamemnon — city",
+      "entities": [
+        "agamemnon"
+      ],
+      "concept": "city",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Agamemnon, 1930"
+      },
+      "antidote": {
+        "concept": "city",
+        "set": null,
+        "cast": [
+          "agamemnon"
+        ]
+      },
+      "_said": "of a 10-year siege. 10 years on a beach, right? The walled city of Troy or Ilios is on the absolute brink of starvation and collapse. And outside those walls, you have Agamemnon,"
+    },
+    {
+      "fp": "21jk3u",
+      "i": 11,
+      "from": 2793,
+      "subject": "Achilles and Agamemnon",
+      "entities": [
+        "achilles",
+        "agamemnon"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Achilles and Agamemnon, 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "achilles",
+          "agamemnon"
+        ]
+      },
+      "_said": "Agamemnon, the incredibly powerful Mcinian warlord leading the fractured Greek coalition. And you have Achilles. Yes, Achilles, the short-lived semi-"
+    },
+    {
+      "fp": "1w1wtbj",
+      "i": 12,
+      "from": 3024,
+      "subject": "Hector",
+      "entities": [
+        "hector"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Hector, 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "hector"
+        ]
+      },
+      "_said": "semi- divine killing machine who serves as their absolute greatest asset. And then looking down from the battlements, you have Hector,"
+    },
+    {
+      "fp": "i42kpr",
+      "i": 13,
+      "from": 3221,
+      "subject": "Hector — city",
+      "entities": [
+        "hector"
+      ],
+      "concept": "city",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Hector, hold a doomed city together, 1930"
+      },
+      "antidote": {
+        "concept": "city",
+        "set": null,
+        "cast": [
+          "hector"
+        ]
+      },
+      "_said": "Hector, the Trojan prince, desperately trying to hold a doomed city together. And the prize they're all bleeding for, the thing driving all this boils down"
+    },
+    {
+      "fp": "8083n6",
+      "i": 14,
+      "from": 3427,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "down to two Greek concepts, right? Claos and Timmy, right? And before we go any further, we really need to understand that those aren't just like abstract feelings of pride. They a"
+    },
+    {
+      "fp": "158ov1i",
+      "i": 15,
+      "from": 3713,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "are the entire operating system of this world. That's a crucial distinction."
+    },
+    {
+      "fp": "1en3esw",
+      "i": 16,
+      "from": 3823,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "distinction. We usually translate Cleos as immortal glory, but in"
+    },
+    {
+      "fp": "1gjpewi",
+      "i": 17,
+      "from": 3945,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "in an 8th century B.CE pre-iterate society, Cleos literally translates to what is heard aloud. What is heard Yeah, it's the song. When you die in this era, your soul doesn't"
+    },
+    {
+      "fp": "10uhvd8",
+      "i": 18,
+      "from": 4322,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "doesn't go to some glorious Valhalla. It goes to a dark, miserable, literally"
+    },
+    {
+      "fp": "16kdd1e",
+      "i": 19,
+      "from": 4432,
+      "subject": "grave",
+      "entities": [],
+      "concept": "grave",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "grave, 1930"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": null,
+        "cast": []
+      },
+      "_said": "literally squeaking existence in the underworld. Squeaking like bats. Exactly like bats. Homer says they squeak and gibber. The only way you survive death is if the poets sing your"
+    },
+    {
+      "fp": "1aauenl",
+      "i": 20,
+      "from": 4773,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "is your literal survival mechanism. Wow. Okay. And Thai, which we casually translate as honor, is"
+    },
+    {
+      "fp": "1c2zx4q",
+      "i": 21,
+      "from": 4963,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "is the physical material proof that you deserve that song. is the armor you strip from a corpse, the beautiful captive women you enslave,"
+    },
+    {
+      "fp": "1dhjpsi",
+      "i": 22,
+      "from": 5177,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "enslave, the massive bronze tripods you were awarded. I think we really need to emphasize the physical weight of time here. A bronze tripod isn't, you know,"
+    },
+    {
+      "fp": "vt8l1w",
+      "i": 23,
+      "from": 5390,
+      "subject": "trophy",
+      "entities": [],
+      "concept": "trophy",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "trophy, 1930"
+      },
+      "antidote": {
+        "concept": "trophy",
+        "cast": []
+      },
+      "_said": "know, a shiny plastic trophy you put on a mantle, right? Not at all."
+    },
+    {
+      "fp": "pnbjde",
+      "i": 24,
+      "from": 5496,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "all. In the Bronze Age, gathering the copper and tin, smelting it, casting a massive cauldron that required an astronomical amount of human labor and specialized skill. When you ge"
+    },
+    {
+      "fp": "j6s04v",
+      "i": 25,
+      "from": 5906,
+      "subject": "coin",
+      "entities": [],
+      "concept": "coin",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "coin, 1930"
+      },
+      "antidote": {
+        "concept": "coin",
+        "cast": []
+      },
+      "_said": "stored, concentrated societal wealth. It"
+    },
+    {
+      "fp": "185ndct",
+      "i": 26,
+      "from": 5990,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "It is physical capital. It really is. And that brings us right into the suffocating, tense reality of the very first scene in book one. The Greek camp isn't just tired."
+    },
+    {
+      "fp": "12sgoc1",
+      "i": 27,
+      "from": 6295,
+      "subject": "grave",
+      "entities": [],
+      "concept": "grave",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "grave, 1930"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": null,
+        "cast": []
+      },
+      "_said": "tired. They are being actively decimated by a Yeah, it's brutal. Dogs, mules, and men are dying in heaps, and the pers are burning night and day. It's"
+    },
+    {
+      "fp": "u796c3",
+      "i": 28,
+      "from": 6547,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "It's an incredibly visceral opening. Homer just drops us right into the collateral damage of terrible leadership because why is this plague happening? Exactly."
+    },
+    {
+      "fp": "1slp98z",
+      "i": 29,
+      "from": 6840,
+      "subject": "Agamemnon — storm",
+      "entities": [
+        "agamemnon"
+      ],
+      "concept": "storm",
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Agamemnon, 1930"
+      },
+      "antidote": {
+        "concept": "storm",
+        "set": null,
+        "cast": [
+          "agamemnon"
+        ]
+      },
+      "_said": "Exactly. Agamemnon, the commander-in-chief, arrogantly disrespected a priest of Apollo. And now the god is raining down invisible arrows of disease on the camp. The prophets"
+    },
+    {
+      "fp": "1linr6q",
+      "i": 30,
+      "from": 7097,
+      "subject": "Agamemnon — family",
+      "entities": [
+        "agamemnon"
+      ],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Agamemnon, 1930"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": [
+          "agamemnon"
+        ]
+      },
+      "_said": "prophets finally corner Agamemnon and force him to return his own captive woman, Cressis, to her father to stop the slaughter of his men."
+    },
+    {
+      "fp": "wsonvk",
+      "i": 31,
+      "from": 7303,
+      "subject": "Agamemnon",
+      "entities": [
+        "agamemnon"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Agamemnon, 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "agamemnon"
+        ]
+      },
+      "_said": "men. And Agamemnon is furious about this. Oh, he's enraged. He feels his time,"
+    },
+    {
+      "fp": "7y7amg",
+      "i": 32,
+      "from": 7502,
+      "subject": "Achilles",
+      "entities": [
+        "achilles"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Achilles, 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "achilles"
+        ]
+      },
+      "_said": "time, his physical bank account of honor is being drained. So he violently pulls rank. He looks directly at Achilles, the man doing all the actual frontline killing"
+    },
+    {
+      "fp": "14p3jj6",
+      "i": 33,
+      "from": 7785,
+      "subject": "Achilles",
+      "entities": [
+        "achilles"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Achilles, standing there, 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "achilles"
+        ]
+      },
+      "_said": "killing and demands Achilles captive woman, Brrisace, as a replacement. If you put yourself in that scene, the volatility is terrifying. Achilles is standing there, the blood is ro"
+    },
+    {
+      "fp": "tc6w7t",
+      "i": 34,
+      "from": 8169,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, 1930"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "draws his massive bronze sword. He's ready to kill him. He is a fraction of a second away from murdering the supreme commander of the Greek army in front"
+    },
+    {
+      "fp": "ex3lsg",
+      "i": 35,
+      "from": 8393,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "front of the entire ruling council. The text tells us that the goddess Athena has to swoop down invisible to everyone else"
+    },
+    {
+      "fp": "6utu0s",
+      "i": 36,
+      "from": 8601,
+      "subject": "Achilles",
+      "entities": [
+        "achilles"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Achilles, 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "achilles"
+        ]
+      },
+      "_said": "else and physically grab Achilles by his golden hair to violently yank him back from striking the fatal blow. Which is such an intense image."
+    },
+    {
+      "fp": "r7vzgu",
+      "i": 37,
+      "from": 8825,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "image. The physical intervention of the goddess highlights how close the entire social order comes to collapsing in that split second."
+    },
+    {
+      "fp": "1moy76v",
+      "i": 38,
+      "from": 8995,
+      "subject": "Agamemnon",
+      "entities": [
+        "agamemnon"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Agamemnon, 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "agamemnon"
+        ]
+      },
+      "_said": "second. When Agamemnon demands Bris, he isn't just hurling a petty insult in their economy. Taking Bris is the equivalent"
+    },
+    {
+      "fp": "1s4rafp",
+      "i": 39,
+      "from": 9235,
+      "subject": "Achilles",
+      "entities": [
+        "achilles"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Achilles, 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "achilles"
+        ]
+      },
+      "_said": "equivalent of bankrupting Achilles identity. Achilles is the greatest fighter taking the greatest risks. And yet"
+    },
+    {
+      "fp": "1d8xb0f",
+      "i": 40,
+      "from": 9427,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "yet his literal tangible worth is being seized by a man who stays safely behind the front lines. Okay. But I struggle to see this as anything more than"
+    },
+    {
+      "fp": "1jwhcf6",
+      "i": 41,
+      "from": 9665,
+      "subject": "target",
+      "entities": [],
+      "concept": "target",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "target, 1930"
+      },
+      "antidote": {
+        "concept": "target",
+        "cast": []
+      },
+      "_said": "than a massive petulent tantrum over a piece of stolen property. How do you mean? I mean, if I'm looking at this through an objective modern lens, millions of lives are at stake. T"
+    },
+    {
+      "fp": "rz3fii",
+      "i": 42,
+      "from": 10044,
+      "subject": "Achilles — war",
+      "entities": [
+        "achilles"
+      ],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Achilles, 1930"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": [
+          "achilles"
+        ]
+      },
+      "_said": "years, and Achilles retreats to his tent, refusing to fight, essentially letting his own comrades get slaughtered because his boss took his prize. it feels shockingly petty for the"
+    },
+    {
+      "fp": "7jjx8e",
+      "i": 43,
+      "from": 10413,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "is the most common modern reaction for sure. But it projects this like post-Enlightenment view of individualism onto"
+    },
+    {
+      "fp": "10bf01j",
+      "i": 44,
+      "from": 10610,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "onto an ancient honorbound society. You have to view it through the physics of their universe. Okay, lay out the physics for me. In this society, that property is the only thing th"
+    },
+    {
+      "fp": "175msru",
+      "i": 45,
+      "from": 10913,
+      "subject": "Achilles — grave",
+      "entities": [
+        "achilles"
+      ],
+      "concept": "grave",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Achilles, 1930"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": null,
+        "cast": [
+          "achilles"
+        ]
+      },
+      "_said": "makes the terrifying risk of violent death meaningful. Achilles has a prophecy hanging over his head. He knows for an absolute fact that if he stays at Troy, he will die young. Rig"
+    },
+    {
+      "fp": "1y5gneh",
+      "i": 46,
+      "from": 11421,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "is massive visible honor."
+    },
+    {
+      "fp": "lnyesj",
+      "i": 47,
+      "from": 11489,
+      "subject": "Achilles and Agamemnon — grave",
+      "entities": [
+        "achilles",
+        "agamemnon"
+      ],
+      "concept": "grave",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Achilles and Agamemnon, 1930"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": null,
+        "cast": [
+          "achilles",
+          "agamemnon"
+        ]
+      },
+      "_said": "honor. When Agamemnon takes Briees, he is effectively telling Achilles that his life, his sacrifices, and his inevitable early death"
+    },
+    {
+      "fp": "jdlmjl",
+      "i": 48,
+      "from": 11724,
+      "subject": "grave",
+      "entities": [],
+      "concept": "grave",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "grave, standing there holding heavy rocks, 1930"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": null,
+        "cast": []
+      },
+      "_said": "death are entirely worthless. I see. It's like a gold miner realizing the gold standard has just collapsed. That's a perfect way to put it. He's standing there holding heavy rocks,"
+    },
+    {
+      "fp": "p5zimz",
+      "i": 49,
+      "from": 12134,
+      "subject": "Achilles — crack",
+      "entities": [
+        "achilles"
+      ],
+      "concept": "crack",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Achilles, 1930"
+      },
+      "antidote": {
+        "concept": "crack",
+        "cast": [
+          "achilles"
+        ]
+      },
+      "_said": "This is the first massive crack in the economics of Yes, Achilles uncovers the fundamental flaw"
+    },
+    {
+      "fp": "4k7eeu",
+      "i": 50,
+      "from": 12305,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, 1930"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "flaw in the Mcinian war machine. The currency you are trading your life for is entirely controlled by corrupt leaders who can seize your assets whenever they feel politically insec"
+    },
+    {
+      "fp": "bk7kkj",
+      "i": 51,
+      "from": 12640,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "notice the language Homer uses to describe the plague that sets all this in motion. It's called a banquet for the birds and dogs. A banquet. Yeah, that phrasing is"
+    },
+    {
+      "fp": "18lpf3t",
+      "i": 52,
+      "from": 12938,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "is a complete horrifying inversion of the heroic ideal."
+    },
+    {
+      "fp": "i67f12",
+      "i": 53,
+      "from": 13051,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, 1930"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "ideal. Normally warriors fight to earn the spoils and they celebrate with a grand banquet. here because of the selfishness at the top of the hierarchy."
+    },
+    {
+      "fp": "1ey6l0e",
+      "i": 54,
+      "from": 13312,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "carrying birds, 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "hierarchy. The soldiers themselves become the spoils. They become the meat for the carrying birds. The social contract is completely broken. Wow."
+    },
+    {
+      "fp": "tjujmh",
+      "i": 55,
+      "from": 13536,
+      "subject": "Achilles — war",
+      "entities": [
+        "achilles"
+      ],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Achilles, 1930"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": [
+          "achilles"
+        ]
+      },
+      "_said": "Wow. So Achilles realizes his own side is commodifying him. But you know, when we look across the battlefield at the Trojans, we see that this toxic system isn't just a Greek probl"
+    },
+    {
+      "fp": "zkdc2c",
+      "i": 56,
+      "from": 13949,
+      "subject": "Hector",
+      "entities": [
+        "hector"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Hector, 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "hector"
+        ]
+      },
+      "_said": "there's this incredibly intimate cinematic moment with Hector that proves just how deeply the armor"
+    },
+    {
+      "fp": "68vs2d",
+      "i": 57,
+      "from": 14109,
+      "subject": "Hector — war",
+      "entities": [
+        "hector"
+      ],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Hector, 1930"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": [
+          "hector"
+        ]
+      },
+      "_said": "armor of war alienates a man from his own This is the scaring gate, right? Exactly. Hector has just come back"
+    },
+    {
+      "fp": "jjabl3",
+      "i": 58,
+      "from": 14285,
+      "subject": "water",
+      "entities": [],
+      "concept": "water",
+      "place": "shore",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "water, shore, 1930"
+      },
+      "antidote": {
+        "concept": "water",
+        "set": "shore",
+        "cast": []
+      },
+      "_said": "back from the blood soaked plane. He's covered in the dust and gore of battle. He goes to the massive sea and gates of Troy and he meets his wife and a nurse"
+    },
+    {
+      "fp": "2pqz1g",
+      "i": 59,
+      "from": 14551,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, carrying their infant son, 1930"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": []
+      },
+      "_said": "nurse who is carrying their infant son, Estanex. It's a really rare quiet moment. It"
+    },
+    {
+      "fp": "1fooiv2",
+      "i": 60,
+      "from": 14709,
+      "subject": "Hector — family",
+      "entities": [
+        "hector"
+      ],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Hector, reaches out to hug his and the baby screams, 1930"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": [
+          "hector"
+        ]
+      },
+      "_said": "It is. Hector reaches out to hug his and the baby screams. He rides back into the nurse's arms, absolutely terrified of his own father. Because of the nodding, heavy horsehair plum"
+    },
+    {
+      "fp": "tohts5",
+      "i": 61,
+      "from": 15081,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, 1930"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": []
+      },
+      "_said": "Hector's bronze helmet. The baby doesn't see a father. He sees"
+    },
+    {
+      "fp": "1qu9ozi",
+      "i": 62,
+      "from": 15209,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, 1930"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": []
+      },
+      "_said": "sees a faceless monster of war. It's heartbreaking. It is. And for a brief, fleeting second, the parents laugh. It's"
+    },
+    {
+      "fp": "1cg35kk",
+      "i": 63,
+      "from": 15412,
+      "subject": "Hector — family",
+      "entities": [
+        "hector"
+      ],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Hector, hold his son, 1930"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": [
+          "hector"
+        ]
+      },
+      "_said": "It's a deeply human domestic moment. Hector takes off the helmet, lays it on the dust, and finally he can hold his son. When you realize what that scene is actually doing structura"
+    },
+    {
+      "fp": "ohtyqq",
+      "i": 64,
+      "from": 15794,
+      "subject": "Hector — shield",
+      "entities": [
+        "hector"
+      ],
+      "concept": "shield",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Hector, 1930"
+      },
+      "antidote": {
+        "concept": "shield",
+        "cast": [
+          "hector"
+        ]
+      },
+      "_said": "The very machinery Hector puts on to defend his home is exactly what turns him into an unrecognizable terror to his own child. It is the visual physical proof of his alienation. To"
+    },
+    {
+      "fp": "l44wow",
+      "i": 65,
+      "from": 16130,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, 1930"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": []
+      },
+      "_said": "do the violence necessary to protect his family, he has to become a creature that has absolutely no place inside a family. That's so true. And and"
+    },
+    {
+      "fp": "10f5jw7",
+      "i": 66,
+      "from": 16348,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "and Dram recognizes this tragedy immediately. Her plea to him in this scene is completely desperate. She reminds him"
+    },
+    {
+      "fp": "1h5jp3a",
+      "i": 67,
+      "from": 16538,
+      "subject": "Achilles — family",
+      "entities": [
+        "achilles"
+      ],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Achilles, 1930"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": [
+          "achilles"
+        ]
+      },
+      "_said": "him of the brutal reality of their world. She literally has no one else because of Achilles, right? Achilles killed her father and all seven of her brothers in"
+    },
+    {
+      "fp": "wl0y5d",
+      "i": 68,
+      "from": 16797,
+      "subject": "Hector — family",
+      "entities": [
+        "hector"
+      ],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Hector, 1930"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": [
+          "hector"
+        ]
+      },
+      "_said": "in a single afternoon. Her mother is dead. She says to Hector, \"You are my father and my mother. You are my brother and the vigorous man whose bed I share.\" She begs him to stay"
+    },
+    {
+      "fp": "s7bl21",
+      "i": 69,
+      "from": 17162,
+      "subject": "Achilles — war",
+      "entities": [
+        "achilles"
+      ],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Achilles, 1930"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": [
+          "achilles"
+        ]
+      },
+      "_said": "stay on the defensive wall. She begs him to direct the troops from safety and not go back out to the open plane where Achilles is waiting. Now wait, help me square this with Hector"
+    },
+    {
+      "fp": "epmgls",
+      "i": 70,
+      "from": 17436,
+      "subject": "Hector — family",
+      "entities": [
+        "hector"
+      ],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Hector, read is that hector is the ultimate noble fa, 1930"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": [
+          "hector"
+        ]
+      },
+      "_said": "Hector's reputation. The traditional read is that Hector is the ultimate noble family man. He goes back out there"
+    },
+    {
+      "fp": "1iul4wn",
+      "i": 71,
+      "from": 17623,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, 1930"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "there to fight against impossible odds specifically for them,"
+    },
+    {
+      "fp": "1jqalbn",
+      "i": 72,
+      "from": 17738,
+      "subject": "heart",
+      "entities": [],
+      "concept": "heart",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "heart, 1930"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": null,
+        "cast": []
+      },
+      "_said": "them, you know, to try and stop that future from happening. It's supposed to be a sacrifice of love. He is framed that way culturally, I know, right? But you have to look closely a"
+    },
+    {
+      "fp": "1714mxi",
+      "i": 73,
+      "from": 17973,
+      "subject": "Hector — city",
+      "entities": [
+        "hector"
+      ],
+      "concept": "city",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Hector, 1930"
+      },
+      "antidote": {
+        "concept": "city",
+        "set": null,
+        "cast": [
+          "hector"
+        ]
+      },
+      "_said": "at the exact words Hector uses to reply to Andromech here. Okay. What does he say? He doesn't say, \"I have to go back out there because it's the only tactical way to save the city."
+    },
+    {
+      "fp": "tmyidj",
+      "i": 74,
+      "from": 18254,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "He is devastatingly honest. He explicitly admits that he knows Trey will fall. He knows his brothers will die in the dirt. So, he knows it's hopeless. Yes."
+    },
+    {
+      "fp": "65jqkg",
+      "i": 75,
+      "from": 18540,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "carry water from a foreign spring, 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Yes. He tells Andromeake that he knows she will be dragged away in tears to be a slave in Greece, forced to weave at another woman's loan and carry water from a foreign spring. He "
+    },
+    {
+      "fp": "q029eg",
+      "i": 76,
+      "from": 18840,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "sees the apocalyptic future with perfect clarity. And yet, he still goes out. And yet he refuses to stay on the wall. Why? Because in his own words,"
+    },
+    {
+      "fp": "40cjnm",
+      "i": 77,
+      "from": 19092,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, 1930"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "words, he feels overwhelming shame in front of the Trojan women in their trailing dresses and the Trojan men if you were to shrink back from war like a coward. Wait. Wait. So he is"
+    },
+    {
+      "fp": "1cgiqm0",
+      "i": 78,
+      "from": 19399,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, 1930"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "prioritizing his personal reputation over her actual physical safety. Exactly. He's essentially saying, \"I would rather be dead and famous than alive and face the social awkwardnes"
+    },
+    {
+      "fp": "13fgtl1",
+      "i": 79,
+      "from": 19730,
+      "subject": "grave",
+      "entities": [],
+      "concept": "grave",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "grave, 1930"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": null,
+        "cast": []
+      },
+      "_said": "if my death guarantees that you, the woman I love, become a slave.\" That is the terrifying grip of the heroic code. He loves his wife, undoubtedly, but he does not love her enough "
+    },
+    {
+      "fp": "grqnj7",
+      "i": 80,
+      "from": 20097,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "puts the helmet back on. He willingly steps back into the role of the monster. He's unbelievable."
+    },
+    {
+      "fp": "1bwdhx8",
+      "i": 81,
+      "from": 20244,
+      "subject": "Hector — grave",
+      "entities": [
+        "hector"
+      ],
+      "concept": "grave",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Hector, 1930"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": null,
+        "cast": [
+          "hector"
+        ]
+      },
+      "_said": "unbelievable. He explicitly states he hopes he is dead and buried beneath the earth before he has to hear her screaming as she is dragged away. He isolates himself from the very pe"
+    },
+    {
+      "fp": "1hkz9xm",
+      "i": 82,
+      "from": 20635,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, 1930"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": []
+      },
+      "_said": "family's inevitable ruin and enslavement for his"
+    },
+    {
+      "fp": "1hihpvb",
+      "i": 83,
+      "from": 20716,
+      "subject": "city",
+      "entities": [],
+      "concept": "city",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "city, 1930"
+      },
+      "antidote": {
+        "concept": "city",
+        "set": null,
+        "cast": []
+      },
+      "_said": "his own personal song of glory. He knows the math. He knows the city is doomed. And he makes the trade anyway. It's"
+    },
+    {
+      "fp": "xyyey6",
+      "i": 84,
+      "from": 20918,
+      "subject": "shield",
+      "entities": [],
+      "concept": "shield",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "shield, 1930"
+      },
+      "antidote": {
+        "concept": "shield",
+        "cast": []
+      },
+      "_said": "It's a chilling realization that the dread of public shame is infinitely stronger than the instinct to protect. It really is. And which perfectly contrasts with what"
+    },
+    {
+      "fp": "1b34h5q",
+      "i": 85,
+      "from": 21213,
+      "subject": "Achilles and Hector",
+      "entities": [
+        "achilles",
+        "hector"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Achilles and Hector, 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "achilles",
+          "hector"
+        ]
+      },
+      "_said": "what is happening simultaneously back in the Greek camp in book nine. While Hector is choosing the armor and the glory, Achilles is in his tent doing the exact opposite. Right. Bec"
+    },
+    {
+      "fp": "19ux2bl",
+      "i": 86,
+      "from": 21559,
+      "subject": "Achilles and Agamemnon",
+      "entities": [
+        "achilles",
+        "agamemnon"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Achilles and Agamemnon, 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "achilles",
+          "agamemnon"
+        ]
+      },
+      "_said": "terribly for the Greeks without Achilles. They are getting slaughtered. Yeah. Agamemnon is bleeding"
+    },
+    {
+      "fp": "i1zei4",
+      "i": 87,
+      "from": 21676,
+      "subject": "Achilles",
+      "entities": [
+        "achilles"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Achilles, 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "achilles"
+        ]
+      },
+      "_said": "bleeding out metaphorically speaking and he's desperate. So he sends an embassy to Achilles tent in the middle of the"
+    },
+    {
+      "fp": "1piipm3",
+      "i": 88,
+      "from": 21833,
+      "subject": "puppeteer",
+      "entities": [],
+      "concept": "puppeteer",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "puppeteer, 1930"
+      },
+      "antidote": {
+        "concept": "puppeteer",
+        "cast": []
+      },
+      "_said": "the He sends his heavy hitters. Exactly. He sends Odysius, who is the master of rhetoric and manipulation, and Phoenix, who"
+    },
+    {
+      "fp": "ire0bl",
+      "i": 89,
+      "from": 22051,
+      "subject": "Achilles",
+      "entities": [
+        "achilles"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Achilles, 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "achilles"
+        ]
+      },
+      "_said": "who was Achilles beloved tutor. And when they walk in, they find Achilles not polishing his armor, not strategizing, but playing a"
+    },
+    {
+      "fp": "1xv9x8",
+      "i": 90,
+      "from": 22308,
+      "subject": "coin",
+      "entities": [],
+      "concept": "coin",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "coin, 1930"
+      },
+      "antidote": {
+        "concept": "coin",
+        "cast": []
+      },
+      "_said": "a beautiful silverbarbed liar singing songs of old heroes. And Odysius steps up and offers an absurd, staggering mountain of wealth to buy"
+    },
+    {
+      "fp": "y6q7xt",
+      "i": 91,
+      "from": 22588,
+      "subject": "Achilles — coin",
+      "entities": [
+        "achilles"
+      ],
+      "concept": "coin",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Achilles, 1930"
+      },
+      "antidote": {
+        "concept": "coin",
+        "cast": [
+          "achilles"
+        ]
+      },
+      "_said": "buy Achilles loyalty back. The inventory list is like a perfect snapshot of my genian wealth. give us the list. Okay,"
+    },
+    {
+      "fp": "1absqgs",
+      "i": 92,
+      "from": 22790,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Okay, so it's seven unblenmished tripods, 10 talents of gold,"
+    },
+    {
+      "fp": "xmmcdx",
+      "i": 93,
+      "from": 22908,
+      "subject": "trophy",
+      "entities": [],
+      "concept": "trophy",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "trophy, 1930"
+      },
+      "antidote": {
+        "concept": "trophy",
+        "cast": []
+      },
+      "_said": "gold, 20 gleaming cauldrons, 12 prize-winning raceh horses, seven captive women from Lesbos, and the return of Brazen swears a great oath he never slept with, right? He swears it. "
+    },
+    {
+      "fp": "1imlip9",
+      "i": 94,
+      "from": 23248,
+      "subject": "Achilles — trophy",
+      "entities": [
+        "achilles"
+      ],
+      "concept": "trophy",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Achilles, 1930"
+      },
+      "antidote": {
+        "concept": "trophy",
+        "cast": [
+          "achilles"
+        ]
+      },
+      "_said": "He even promises Achilles one of his own daughters in marriage once they conquer Troy along with seven rich populated cities as a dowy. Odysius essentially backs"
+    },
+    {
+      "fp": "smfgmg",
+      "i": 95,
+      "from": 23503,
+      "subject": "trophy",
+      "entities": [],
+      "concept": "trophy",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "trophy, 1930"
+      },
+      "antidote": {
+        "concept": "trophy",
+        "cast": []
+      },
+      "_said": "backs up a Brinks truck of Tami to the tent flap. In the old system, in the economics of glory, this is the ultimate victory."
+    },
+    {
+      "fp": "1fqs8ub",
+      "i": 96,
+      "from": 23724,
+      "subject": "Achilles — trophy",
+      "entities": [
+        "achilles"
+      ],
+      "concept": "trophy",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Achilles, 1930"
+      },
+      "antidote": {
+        "concept": "trophy",
+        "cast": [
+          "achilles"
+        ]
+      },
+      "_said": "victory. Achilles won the strike. He broke the commander-in-chief. And now he's being offered more physical honor than any man But Achilles vehemently, furiously rejects it all. He"
+    },
+    {
+      "fp": "i4k5wc",
+      "i": 97,
+      "from": 24067,
+      "subject": "grave",
+      "entities": [],
+      "concept": "grave",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "grave, 1930"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": null,
+        "cast": []
+      },
+      "_said": "dismantles the entire philosophical premise of the offer. He tells Odysius, \"Cowards and heroes have the exact same reward. Do everything or nothing. Death still comes. This is the"
+    },
+    {
+      "fp": "1jrgfsq",
+      "i": 98,
+      "from": 24362,
+      "subject": "Achilles",
+      "entities": [
+        "achilles"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Achilles, 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "achilles"
+        ]
+      },
+      "_said": "the moment Achilles truly unplugs from the societal matrix. He sees the code behind the world and he realizes the entire system is a lethal It's a lethal scam. Yeah. If"
+    },
+    {
+      "fp": "6b7kp6",
+      "i": 99,
+      "from": 24665,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "If the ultimate destination is exactly the same, the dark,"
+    },
+    {
+      "fp": "1v1e7dv",
+      "i": 100,
+      "from": 24751,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "dark, miserable underworld, whether you hide in a ditch or lead the charge, what is the point of the shiny bronze cauldrons? He brings up"
+    },
+    {
+      "fp": "10bj6t4",
+      "i": 101,
+      "from": 24984,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "up this profound almost childlike analogy about the fence of teeth that completely reshapes how"
+    },
+    {
+      "fp": "1hdkfn1",
+      "i": 102,
+      "from": 25166,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "how we view ancient warfare. Emily Wilson's"
+    },
+    {
+      "fp": "1z0bh8q",
+      "i": 103,
+      "from": 25255,
+      "subject": "Achilles — heart",
+      "entities": [
+        "achilles"
+      ],
+      "concept": "heart",
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Achilles, 1930"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": null,
+        "cast": [
+          "achilles"
+        ]
+      },
+      "_said": "Wilson's translation captures the raw existential dread of this passage I love this part. Achilles says, \"You can raid fine cattle"
+    },
+    {
+      "fp": "14elknf",
+      "i": 104,
+      "from": 25497,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "cattle or well-fed sheep, and you can trade to get tripods and horses, but human life does not come back again after it passes through the fence of teeth. No trade or rustling can "
+    },
+    {
+      "fp": "x7kncs",
+      "i": 105,
+      "from": 25833,
+      "subject": "sword",
+      "entities": [],
+      "concept": "sword",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "sword, 1930"
+      },
+      "antidote": {
+        "concept": "sword",
+        "cast": []
+      },
+      "_said": "understand the ancient Greek concept of the soul here, the psyche. It literally translates to breath. When a warrior dies, the"
+    },
+    {
+      "fp": "1s5hbv8",
+      "i": 106,
+      "from": 26030,
+      "subject": "Achilles",
+      "entities": [
+        "achilles"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Achilles, 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "achilles"
+        ]
+      },
+      "_said": "the text constantly described the psyche flying out of the mouth past the teeth. Past the fence of teeth. Exactly. Achilles, who"
+    },
+    {
+      "fp": "bqii5o",
+      "i": 107,
+      "from": 26234,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "who is an incredibly experienced looter and raider, knows the exact market value of everything in the Mediterranean. But he has suddenly realized that the market value of a human b"
+    },
+    {
+      "fp": "x55hdj",
+      "i": 108,
+      "from": 26532,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "breath is fundamentally incomparable to objects. A human life"
+    },
+    {
+      "fp": "ghfemq",
+      "i": 109,
+      "from": 26633,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "is entirely nonfgeible. Yes, you can steal a horseback. You can raid a neighboring town for more gold. But once"
+    },
+    {
+      "fp": "asb5my",
+      "i": 110,
+      "from": 26870,
+      "subject": "Achilles",
+      "entities": [
+        "achilles"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Achilles, 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "achilles"
+        ]
+      },
+      "_said": "once that final breath escapes past the flimsy little fence of your teeth, all the bronze tripods in the world cannot buy it back. Okay, I have to admit, part of me wonders if Achi"
+    },
+    {
+      "fp": "n05g5h",
+      "i": 111,
+      "from": 27259,
+      "subject": "Agamemnon",
+      "entities": [
+        "agamemnon"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Agamemnon, holding out for even more leverage, 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "agamemnon"
+        ]
+      },
+      "_said": "guy. He knows Agamemnon is desperate. The Greek ships are practically in view of the Trojan torches. Is it possible he's just holding out for even more leverage, trying to complete"
+    },
+    {
+      "fp": "1cd9yxy",
+      "i": 112,
+      "from": 27535,
+      "subject": "Agamemnon — wallet",
+      "entities": [
+        "agamemnon"
+      ],
+      "concept": "wallet",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Agamemnon, 1930"
+      },
+      "antidote": {
+        "concept": "wallet",
+        "cast": [
+          "agamemnon"
+        ]
+      },
+      "_said": "completely humiliate Agamemnon before he sweeps in to save the day? If it were just Odicius in the tent, you could argue it's"
+    },
+    {
+      "fp": "16gdy0e",
+      "i": 113,
+      "from": 27710,
+      "subject": "Achilles — family",
+      "entities": [
+        "achilles"
+      ],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Achilles, 1930"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": [
+          "achilles"
+        ]
+      },
+      "_said": "it's a negotiation tactic. But Achilles is talking to Phoenix, his surrogate father. The emotional pitch of"
+    },
+    {
+      "fp": "glplzk",
+      "i": 114,
+      "from": 27902,
+      "subject": "coin",
+      "entities": [],
+      "concept": "coin",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "coin, 1930"
+      },
+      "antidote": {
+        "concept": "coin",
+        "cast": []
+      },
+      "_said": "of his language transcends haggling. You think it's deeper? Much deeper. He is having a complete onlogical crisis. He is questioning the very nature of being. the wealth doesn't ma"
+    },
+    {
+      "fp": "1nnu00y",
+      "i": 115,
+      "from": 28317,
+      "subject": "grave",
+      "entities": [],
+      "concept": "grave",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "grave, 1930"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": null,
+        "cast": []
+      },
+      "_said": "is just a cultural lie designed to trick young men into dying for the political and economic benefit of older men. He explicitly says that not"
+    },
+    {
+      "fp": "jyonkg",
+      "i": 116,
+      "from": 28555,
+      "subject": "Agamemnon — home",
+      "entities": [
+        "agamemnon"
+      ],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Agamemnon, 1930"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": [
+          "agamemnon"
+        ]
+      },
+      "_said": "not even if Agamemnon gave him gifts as numerous as the sand and the dust would he change his mind. He threatens to launch his ships and sail home to Fifia the very next morning. S"
+    },
+    {
+      "fp": "1y2e5r",
+      "i": 117,
+      "from": 28872,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "glory are fully exposed here as a zero someum tragedy. You trade the only irreplaceable thing you have, your life, for songs sung by people who didn't have to die. But the terrible"
+    },
+    {
+      "fp": "kcu7ga",
+      "i": 118,
+      "from": 29268,
+      "subject": "Achilles",
+      "entities": [
+        "achilles"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Achilles, 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "achilles"
+        ]
+      },
+      "_said": "no alternative framework for a hero to exist in. Right? What else is he going to do? Achilles"
+    },
+    {
+      "fp": "1s9uwpy",
+      "i": 119,
+      "from": 29407,
+      "subject": "Achilles — war",
+      "entities": [
+        "achilles"
+      ],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Achilles, leaves him trapped in this paralyzing liinal s, 1930"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": [
+          "achilles"
+        ]
+      },
+      "_said": "Achilles is utterly isolated. He can't go back to the battle, but his identity won't let him just be a farmer back in which leaves him trapped in this paralyzing liinal space. And "
+    },
+    {
+      "fp": "prdidw",
+      "i": 120,
+      "from": 29757,
+      "subject": "Achilles",
+      "entities": [
+        "achilles"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Achilles, 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "achilles"
+        ]
+      },
+      "_said": "sets up the catastrophic events that follow in book 16. Because while Achilles is"
+    },
+    {
+      "fp": "5cd0vn",
+      "i": 121,
+      "from": 29882,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, 1930"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "is having a philosophical awakening, the physical reality of the war crashes into his right?"
+    },
+    {
+      "fp": "3c2xzw",
+      "i": 122,
+      "from": 30045,
+      "subject": "fire",
+      "entities": [],
+      "concept": "fire",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "fire, 1930"
+      },
+      "antidote": {
+        "concept": "fire",
+        "cast": []
+      },
+      "_said": "right? The Trojans finally breach the Greek defensive wall. They are literally setting fire"
+    },
+    {
+      "fp": "1xou800",
+      "i": 123,
+      "from": 30192,
+      "subject": "fire",
+      "entities": [],
+      "concept": "fire",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "fire, 1930"
+      },
+      "antidote": {
+        "concept": "fire",
+        "cast": []
+      },
+      "_said": "fire to the Greek ships. If those ships burn, no one goes home. Every single Greek soldier dies on that It's the ultimate crisis point. And Petroas, Achilles's"
+    },
+    {
+      "fp": "zy1pi7",
+      "i": 124,
+      "from": 30468,
+      "subject": "grave",
+      "entities": [],
+      "concept": "grave",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "grave, weeping with pity for their dying comrades, 1930"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": null,
+        "cast": []
+      },
+      "_said": "Achilles's dearest friend and companion, comes to him weeping with pity for their dying comrades."
+    },
+    {
+      "fp": "1ghg4fw",
+      "i": 125,
+      "from": 30633,
+      "subject": "Achilles — family",
+      "entities": [
+        "achilles"
+      ],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Achilles, weeping over a slaughter to a little girl tuggi, 1930"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": [
+          "achilles"
+        ]
+      },
+      "_said": "comrades. And Achilles initial reaction is incredibly jarring. He actually mocks He does. He compares this hardened warrior weeping over a slaughter to a little girl tugging her mo"
+    },
+    {
+      "fp": "1002st9",
+      "i": 126,
+      "from": 31029,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "up. But Petroas pushes through the mockery. He"
+    },
+    {
+      "fp": "15jrfcl",
+      "i": 127,
+      "from": 31111,
+      "subject": "Achilles — war",
+      "entities": [
+        "achilles"
+      ],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Achilles, 1930"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": [
+          "achilles"
+        ]
+      },
+      "_said": "He knows Achilles won't fight. So he begs to wear Achilles divine armor and lead their elite troops, the Mervdons, into battle just to scare the Trojans, away from the"
+    },
+    {
+      "fp": "rfd27c",
+      "i": 128,
+      "from": 31375,
+      "subject": "Achilles and Petroles — road",
+      "entities": [
+        "achilles",
+        "petroles"
+      ],
+      "concept": "road",
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Achilles and Petroles, 1930"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": null,
+        "cast": [
+          "achilles",
+          "petroles"
+        ]
+      },
+      "_said": "the And Achilles yields to this. He gives Petroles his own armor, but with a strict fatal condition. He says, \"Drive them from the ships. Save the fleet, but do not pursue them acr"
+    },
+    {
+      "fp": "htff9z",
+      "i": 129,
+      "from": 31785,
+      "subject": "Achilles — war",
+      "entities": [
+        "achilles"
+      ],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Achilles, 1930"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": [
+          "achilles"
+        ]
+      },
+      "_said": "glory.\" But you cannot outsource war. You cannot outsource moral responsibility. Achilles is trying to thread an impossible hypocritical needle here. He wants to keep his personal "
+    },
+    {
+      "fp": "1enz6v7",
+      "i": 130,
+      "from": 32064,
+      "subject": "Agamemnon — fire",
+      "entities": [
+        "agamemnon"
+      ],
+      "concept": "fire",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Agamemnon, 1930"
+      },
+      "antidote": {
+        "concept": "fire",
+        "cast": [
+          "agamemnon"
+        ]
+      },
+      "_said": "going to punish Agamemnon and preserve his own pride. But he also wants to save his friends from being burned alive. Right. By trying to have it both ways, by delegating"
+    },
+    {
+      "fp": "1ne0lhu",
+      "i": 131,
+      "from": 32313,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "delegating his marshall identity to someone else, he signs"
+    },
+    {
+      "fp": "1otah8o",
+      "i": 132,
+      "from": 32390,
+      "subject": "grave",
+      "entities": [],
+      "concept": "grave",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "grave, 1930"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": null,
+        "cast": []
+      },
+      "_said": "signs Petroles' death warrant. The Greeks had a concept for this role, the therap,"
+    },
+    {
+      "fp": "1qy2sbk",
+      "i": 133,
+      "from": 32563,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "therap, a ritual substitute or second self."
+    },
+    {
+      "fp": "177zuxm",
+      "i": 134,
+      "from": 32637,
+      "subject": "Petroles — grave",
+      "entities": [
+        "petroles"
+      ],
+      "concept": "grave",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Petroles, 1930"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": null,
+        "cast": [
+          "petroles"
+        ]
+      },
+      "_said": "self. Petroles is going out as the proxy for But the moment of Petroles' death is chillingly specific, and it reveals the flaw in this substitution."
+    },
+    {
+      "fp": "13322rt",
+      "i": 135,
+      "from": 32923,
+      "subject": "Petroles — war",
+      "entities": [
+        "petroles"
+      ],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Petroles, 1930"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": [
+          "petroles"
+        ]
+      },
+      "_said": "Petroles pushes too far, intoxicated by the success of the armor and the bloodlust of the charge. But it isn't just a human warrior that defeats him. It takes divine intervention. "
+    },
+    {
+      "fp": "upwi2n",
+      "i": 136,
+      "from": 33405,
+      "subject": "Petroles",
+      "entities": [
+        "petroles"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Petroles, 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "petroles"
+        ]
+      },
+      "_said": "mist, and strikes Petroles flat on the back with his immortal hand."
+    },
+    {
+      "fp": "8c27pv",
+      "i": 137,
+      "from": 33501,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "hand. The physical description of this unarming is horrific. The blow from Apollo is so hard it knocks"
+    },
+    {
+      "fp": "1k8g1vj",
+      "i": 138,
+      "from": 33660,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "knocks the borrowed helmet off Petroles' head. It rolls in the dust."
+    },
+    {
+      "fp": "ax4axc",
+      "i": 139,
+      "from": 33763,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "dust. The heavy wooden spear completely shatters in his hand. Just shatters. Yeah. The breastplate"
+    },
+    {
+      "fp": "smgibq",
+      "i": 140,
+      "from": 33936,
+      "subject": "Achilles",
+      "entities": [
+        "achilles"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Achilles, 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "achilles"
+        ]
+      },
+      "_said": "breastplate is magically unfassened. He is systematically stripped of the borrowed identity of Achilles. Left stunned, naked, and defenseless before a"
+    },
+    {
+      "fp": "1ake8lu",
+      "i": 141,
+      "from": 34185,
+      "subject": "Hector — war",
+      "entities": [
+        "hector"
+      ],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Hector, 1930"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": [
+          "hector"
+        ]
+      },
+      "_said": "a minor Trojan soldier spears him in the back. And finally, Hector steps up and finishes him off with the spear to the gut. It's brutal. But wait, doesn't the blame"
+    },
+    {
+      "fp": "1pox6sl",
+      "i": 142,
+      "from": 34430,
+      "subject": "Achilles — shield",
+      "entities": [
+        "achilles"
+      ],
+      "concept": "shield",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Achilles, fall squarely on petetrois here? why do you, 1930"
+      },
+      "antidote": {
+        "concept": "shield",
+        "cast": [
+          "achilles"
+        ]
+      },
+      "_said": "blame fall squarely on Petetrois here? Why do you say that? Achilles gave him explicit, clear instructions to turn back after the ships were safe. Petroas got glory hungry. He diso"
+    },
+    {
+      "fp": "12004iu",
+      "i": 143,
+      "from": 34793,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "any military tribunal. This is Petetro's fault for breaking the chain of command. On a purely tactical level, yes, Petroas disobeyed. But look at the systemic moral"
+    },
+    {
+      "fp": "1x2jpke",
+      "i": 144,
+      "from": 35088,
+      "subject": "Achilles",
+      "entities": [
+        "achilles"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Achilles, 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "achilles"
+        ]
+      },
+      "_said": "moral flaw Achilles created. Achilles sent the man who loved him into"
+    },
+    {
+      "fp": "1e4e48d",
+      "i": 145,
+      "from": 35215,
+      "subject": "Achilles — war",
+      "entities": [
+        "achilles"
+      ],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Achilles, 1930"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": [
+          "achilles"
+        ]
+      },
+      "_said": "into a literal slaughterhouse wearing a massive target on his back. The armor. The armor of Achilles is a magnet for every Trojan weapon. Achilles wanted the glory"
+    },
+    {
+      "fp": "1gtlqog",
+      "i": 146,
+      "from": 35472,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "glory of the rescue without shouldering the physical risk. The moral universe of the poem punishes"
+    },
+    {
+      "fp": "1tfelhx",
+      "i": 147,
+      "from": 35618,
+      "subject": "shield",
+      "entities": [],
+      "concept": "shield",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "shield, 1930"
+      },
+      "antidote": {
+        "concept": "shield",
+        "cast": []
+      },
+      "_said": "punishes that delegation brutally. You cannot send someone else to die in your place and expect to remain untouched. It's impossible. Achilles's attempt to protect his own pride wh"
+    },
+    {
+      "fp": "9z2j1o",
+      "i": 148,
+      "from": 35966,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, 1930"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "mints an unbearable currency of grief. He thought he could outsmart the market of war, but he ends up paying with the only thing he actually valued."
+    },
+    {
+      "fp": "1gstjin",
+      "i": 149,
+      "from": 36192,
+      "subject": "Achilles and Hector",
+      "entities": [
+        "achilles",
+        "hector"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Achilles and Hector, 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "achilles",
+          "hector"
+        ]
+      },
+      "_said": "valued. When Hector kills Petroas, he's essentially killing the human, vulnerable, compassionate part of Achilles. Petroas dies specifically because he felt empathy"
+    },
+    {
+      "fp": "172j9s8",
+      "i": 150,
+      "from": 36497,
+      "subject": "Achilles — grave",
+      "entities": [
+        "achilles"
+      ],
+      "concept": "grave",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Achilles, 1930"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": null,
+        "cast": [
+          "achilles"
+        ]
+      },
+      "_said": "for the burning Greeks. An empathy Achilles suppressed. Wow. And the news of Petrlas's death completely shatters Achilles. He pours black ashes over his head. He tears his own hair"
+    },
+    {
+      "fp": "s0rj0z",
+      "i": 151,
+      "from": 36933,
+      "subject": "water",
+      "entities": [],
+      "concept": "water",
+      "place": "shore",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "water, shore, 1930"
+      },
+      "antidote": {
+        "concept": "water",
+        "set": "shore",
+        "cast": []
+      },
+      "_said": "the sea goddess Fetus, hears his cries from the bottom of the ocean and comes to him. She hears him from the bottom of the Yeah. And"
+    },
+    {
+      "fp": "1pqd6xo",
+      "i": 152,
+      "from": 37111,
+      "subject": "Achilles and Hector",
+      "entities": [
+        "achilles",
+        "hector"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Achilles and Hector, 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "achilles",
+          "hector"
+        ]
+      },
+      "_said": "And because Hector stripped Achilles's original armor from Petetro's corpse, Achilles needs new gear to take his revenge. So Thetus"
+    },
+    {
+      "fp": "1desrny",
+      "i": 153,
+      "from": 37325,
+      "subject": "fire",
+      "entities": [],
+      "concept": "fire",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "fire, 1930"
+      },
+      "antidote": {
+        "concept": "fire",
+        "cast": []
+      },
+      "_said": "goes to Mount Olympus to the forge of Aphasis, the god of fire and craftsmanship. Aistas is a fascinating figure in Greek mythology. He's"
+    },
+    {
+      "fp": "xbbgye",
+      "i": 154,
+      "from": 37550,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "walks with a limp, 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "He's the only Olympian who physically labors and he's the only one who is physically disabled. He walks with a limp. He is a creator god who understands pain and struggle. Right."
+    },
+    {
+      "fp": "28m1l8",
+      "i": 155,
+      "from": 37824,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Right. Histas sets 20 pairs of magical bellows to roaring and he hammers out"
+    },
+    {
+      "fp": "12dnqol",
+      "i": 156,
+      "from": 37987,
+      "subject": "shield",
+      "entities": [],
+      "concept": "shield",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "shield, 1930"
+      },
+      "antidote": {
+        "concept": "shield",
+        "cast": []
+      },
+      "_said": "out a massive five layered shield of bronze,"
+    },
+    {
+      "fp": "1q9zloo",
+      "i": 157,
+      "from": 38066,
+      "subject": "zap",
+      "entities": [],
+      "concept": "zap",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "zap, 1930"
+      },
+      "antidote": {
+        "concept": "zap",
+        "set": null,
+        "cast": []
+      },
+      "_said": "bronze, tin, gold, and silver. And here is where the pacing of the epic does something incredible. In book 18, Homer completely stops the narrative momentum of"
+    },
+    {
+      "fp": "1hylg2n",
+      "i": 158,
+      "from": 38359,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, 1930"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "of this brutal highstakes war to spend over a hundred lines just describing in microscopic detail what is moving on the surface of this shield. It's a massive pause. It is."
+    },
+    {
+      "fp": "j5e54g",
+      "i": 159,
+      "from": 38707,
+      "subject": "city",
+      "entities": [],
+      "concept": "city",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "city, 1930"
+      },
+      "antidote": {
+        "concept": "city",
+        "set": null,
+        "cast": []
+      },
+      "_said": "is. It's a technique called echphracis. A vivid description of a work of art. We see a city at peace with brides being led through the streets by torch light young men whirling in "
+    },
+    {
+      "fp": "1j4kmg6",
+      "i": 160,
+      "from": 39014,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "elders are peacefully settling a dispute over a"
+    },
+    {
+      "fp": "fy2avp",
+      "i": 161,
+      "from": 39077,
+      "subject": "grave",
+      "entities": [],
+      "concept": "grave",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "grave, 1930"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": null,
+        "cast": []
+      },
+      "_said": "murder through rhetoric instead of All on the shield. All on the shield. Then right beside it, we see a city besieged by armies, ambushes, and death. We see plowing, harvesting,"
+    },
+    {
+      "fp": "tqercx",
+      "i": 162,
+      "from": 39415,
+      "subject": "water",
+      "entities": [],
+      "concept": "water",
+      "place": "shore",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "water, shore, 1930"
+      },
+      "antidote": {
+        "concept": "water",
+        "set": "shore",
+        "cast": []
+      },
+      "_said": "harvesting, a vineyard dripping with grapes. The entire thing is encircled by the great boundary making river ocean. This shield isn't just a cool piece of magical armor. It"
+    },
+    {
+      "fp": "5kxj4f",
+      "i": 163,
+      "from": 39734,
+      "subject": "Achilles",
+      "entities": [
+        "achilles"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Achilles, 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "achilles"
+        ]
+      },
+      "_said": "It is a cinematic encapsulation of the entire human experience. It is the whole world in balance. By putting this on, Achilles is literally strapping"
+    },
+    {
+      "fp": "11klv0a",
+      "i": 164,
+      "from": 39993,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "strapping the weight of civilization to his chest. That's a beautiful image. But more tragically, it highlights the exact things. weddings, harvests,"
+    },
+    {
+      "fp": "1b59g97",
+      "i": 165,
+      "from": 40224,
+      "subject": "grave",
+      "entities": [],
+      "concept": "grave",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "grave, reading a bit though, 1930"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": null,
+        "cast": []
+      },
+      "_said": "harvests, peaceful resolution of conflict, dancing that his impending death will permanently lock him out of. I have to challenge this reading a bit though. Isn't Homer just abidin"
+    },
+    {
+      "fp": "1ks7ffy",
+      "i": 166,
+      "from": 40500,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "by the poetic conventions of his time? Penny mean well extending descriptions of shiny armor,"
+    },
+    {
+      "fp": "1x52y0l",
+      "i": 167,
+      "from": 40637,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, 1930"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "armor, these massive efrastic pauses. They were standard crowd-pleasers for an archaic audience that loved to hear about immense wealth and craftsmanship. Are we maybe projecting m"
+    },
+    {
+      "fp": "175mefg",
+      "i": 168,
+      "from": 41018,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "essentially just a purely aesthetic choice to hype up the final That's"
+    },
+    {
+      "fp": "14fhfar",
+      "i": 169,
+      "from": 41121,
+      "subject": "coin",
+      "entities": [],
+      "concept": "coin",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "coin, 1930"
+      },
+      "antidote": {
+        "concept": "coin",
+        "cast": []
+      },
+      "_said": "That's a very fair historical caution. The archaic audience absolutely loved a catalog of wealth. You're right. But look at"
+    },
+    {
+      "fp": "1p2fvvg",
+      "i": 170,
+      "from": 41301,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, 1930"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": []
+      },
+      "_said": "at the dramatic irony woven into the scene. Okay, lay it out. Thetus, his mother, asks for this shield. She knows her son is Minthios, short-lived. She knows absolutely that if he "
+    },
+    {
+      "fp": "1k61idc",
+      "i": 171,
+      "from": 41645,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, 1930"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "battle to avenge Petroas, he will die at Troy. Yet she goes and brings in the very instrument of his"
+    },
+    {
+      "fp": "1xrmfij",
+      "i": 172,
+      "from": 41827,
+      "subject": "grave",
+      "entities": [],
+      "concept": "grave",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "grave, 1930"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": null,
+        "cast": []
+      },
+      "_said": "his own glorious guaranteed death. Oh wow. When she drops the clashing armor in front of him, his own Merurmadon soldiers can't even look at it. They tremble and turn away, terrifi"
+    },
+    {
+      "fp": "10k5qs4",
+      "i": 173,
+      "from": 42122,
+      "subject": "Achilles — fire",
+      "entities": [
+        "achilles"
+      ],
+      "concept": "fire",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Achilles, 1930"
+      },
+      "antidote": {
+        "concept": "fire",
+        "cast": [
+          "achilles"
+        ]
+      },
+      "_said": "by its divine power. But Achilles, his eyes shine like blazing fire. His heart is"
+    },
+    {
+      "fp": "f7qeay",
+      "i": 174,
+      "from": 42278,
+      "subject": "Achilles — grave",
+      "entities": [
+        "achilles"
+      ],
+      "concept": "grave",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Achilles, carry a literal portrait, 1930"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": null,
+        "cast": [
+          "achilles"
+        ]
+      },
+      "_said": "is full of intolerable grief. But he embraces the weapon. He wants it. Ephesus, a creator god, makes a microcosm of life. But he gives it to Achilles, who is about to become the ul"
+    },
+    {
+      "fp": "bq7bbr",
+      "i": 175,
+      "from": 42679,
+      "subject": "photo",
+      "entities": [],
+      "concept": "photo",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "photo, 1930"
+      },
+      "antidote": {
+        "concept": "photo",
+        "set": null,
+        "cast": []
+      },
+      "_said": "portrait of the beautiful enduring life he is abandoning in order to commit the ultimate act of destruction. It"
+    },
+    {
+      "fp": "eqddoe",
+      "i": 176,
+      "from": 42842,
+      "subject": "mirror",
+      "entities": [],
+      "concept": "mirror",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "mirror, 1930"
+      },
+      "antidote": {
+        "concept": "mirror",
+        "set": null,
+        "cast": []
+      },
+      "_said": "It is a mirror showing him everything he will never have. It is the heaviest, most beautiful audit of the zero someum tragedy of the heroic code. He is wearing what he is losing. A"
+    },
+    {
+      "fp": "1s7p5vi",
+      "i": 177,
+      "from": 43238,
+      "subject": "Achilles — war",
+      "entities": [
+        "achilles"
+      ],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Achilles, 1930"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": [
+          "achilles"
+        ]
+      },
+      "_said": "shred of his remaining humanity. Achilles returns to the battle and it is no longer a war. It is an extermination. He is operating on a level"
+    },
+    {
+      "fp": "1o2czcr",
+      "i": 178,
+      "from": 43495,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "level of pure unadulterated nihilism. He splits"
+    },
+    {
+      "fp": "1txfsue",
+      "i": 179,
+      "from": 43591,
+      "subject": "water",
+      "entities": [],
+      "concept": "water",
+      "place": "shore",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "water, shore, 1930"
+      },
+      "antidote": {
+        "concept": "water",
+        "set": "shore",
+        "cast": []
+      },
+      "_said": "splits the retreating Trojan forces, driving half of them toward the city and the other half into the deep eddying currents of the river's commander. The river itself. Yeah. He lea"
+    },
+    {
+      "fp": "3jd60d",
+      "i": 180,
+      "from": 43879,
+      "subject": "water",
+      "entities": [],
+      "concept": "water",
+      "place": "shore",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "water, runs red with blood, shore, 1930"
+      },
+      "antidote": {
+        "concept": "water",
+        "set": "shore",
+        "cast": []
+      },
+      "_said": "only his sword, hacking and slashing until the water literally runs red with blood. He kills so many people that the river itself,"
+    },
+    {
+      "fp": "1driro6",
+      "i": 181,
+      "from": 44097,
+      "subject": "water",
+      "entities": [],
+      "concept": "water",
+      "place": "shore",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "water, shore, 1930"
+      },
+      "antidote": {
+        "concept": "water",
+        "set": "shore",
+        "cast": []
+      },
+      "_said": "itself, the ancient divine spirit of the river, rises up, takes human form, and begs him to stop because his waters are choked with corpses. The river can't even flow into the sea "
+    },
+    {
+      "fp": "214krn",
+      "i": 182,
+      "from": 44388,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "It's a massive violation of ancient purity laws. Exactly. Rivers"
+    },
+    {
+      "fp": "1m7cyjo",
+      "i": 183,
+      "from": 44505,
+      "subject": "Achilles — water",
+      "entities": [
+        "achilles"
+      ],
+      "concept": "water",
+      "place": "shore",
+      "confidence": 1,
+      "vox": {
+        "shot": "Achilles, shore, 1930"
+      },
+      "antidote": {
+        "concept": "water",
+        "set": "shore",
+        "cast": [
+          "achilles"
+        ]
+      },
+      "_said": "Rivers were sacred, life-giving boundaries, and Achilles is polluting it with mass death. Achilles refuses to stop, and he actually fights the river god. He is nearly drowned by ma"
+    },
+    {
+      "fp": "g13v6m",
+      "i": 184,
+      "from": 44949,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "of this apocalyptic violence funnels down to one single terrifying point in book 22,"
+    },
+    {
+      "fp": "1cqf6ru",
+      "i": 185,
+      "from": 45096,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "22, the nightmare chase around the walls of Troy. Hector's locked out. He chose his honor back in book six. He stayed outside the walls and now he is trapped."
+    },
+    {
+      "fp": "3wj721",
+      "i": 186,
+      "from": 45357,
+      "subject": "Achilles",
+      "entities": [
+        "achilles"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Achilles, 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "achilles"
+        ]
+      },
+      "_said": "trapped. Achilles chases him. Homer describes it with"
+    },
+    {
+      "fp": "t8u117",
+      "i": 187,
+      "from": 45451,
+      "subject": "Hector",
+      "entities": [
+        "hector"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Hector, run around the massive walls of troy three, 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "hector"
+        ]
+      },
+      "_said": "with this haunting psychological accuracy, saying it's like a dream. Like a dream. Yeah. As in a dream, you never catch, you never get away. They run around the massive walls of Tr"
+    },
+    {
+      "fp": "jt5hec",
+      "i": 188,
+      "from": 45821,
+      "subject": "Achilles — family",
+      "entities": [
+        "achilles"
+      ],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Achilles, 1930"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": [
+          "achilles"
+        ]
+      },
+      "_said": "tricked by the goddess Athena, who disguises herself as his brother. And Achilles drives"
+    },
+    {
+      "fp": "7e05a4",
+      "i": 189,
+      "from": 45926,
+      "subject": "Achilles and Hector — grave",
+      "entities": [
+        "achilles",
+        "hector"
+      ],
+      "concept": "grave",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Achilles and Hector, 1930"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": null,
+        "cast": [
+          "achilles",
+          "hector"
+        ]
+      },
+      "_said": "drives his spear through Hector's neck, specifically avoiding the windpipe so Hector can still speak his dying words. But the killing isn't enough. The vengeance doesn't satisfy th"
+    },
+    {
+      "fp": "1po3tqy",
+      "i": 190,
+      "from": 46281,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Hector's ankles. He threads oxide straps through the open wounds, ties them to his chariot, and whips his immortal horses. It's so dark."
+    },
+    {
+      "fp": "1o0t7lj",
+      "i": 191,
+      "from": 46500,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "dark. He drags Hector's naked, bleeding body through the dust. The dead man's dark hair sweeping the ground right in front of Hector's"
+    },
+    {
+      "fp": "ncs1yu",
+      "i": 192,
+      "from": 46706,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, watching from the wall, 1930"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": []
+      },
+      "_said": "Hector's screaming parents watching from the wall. This isn't a triumphant victory lap. It is"
+    },
+    {
+      "fp": "1ifuehl",
+      "i": 193,
+      "from": 46841,
+      "subject": "Achilles",
+      "entities": [
+        "achilles"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Achilles, 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "achilles"
+        ]
+      },
+      "_said": "is a complete catastrophic psychological collapse. Achilles has abandoned his humanity entirely. He doesn't"
+    },
+    {
+      "fp": "e89gwo",
+      "i": 194,
+      "from": 47045,
+      "subject": "Achilles and Hector — family",
+      "entities": [
+        "achilles",
+        "hector"
+      ],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Achilles and Hector, 1930"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": [
+          "achilles",
+          "hector"
+        ]
+      },
+      "_said": "doesn't want military victory. He wants total annihilation. Right before he strikes the fatal blow. Hector begs for his body to be returned to his parents for burial. Achilles"
+    },
+    {
+      "fp": "1igkcyi",
+      "i": 195,
+      "from": 47342,
+      "subject": "Achilles and Hector",
+      "entities": [
+        "achilles",
+        "hector"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Achilles and Hector, 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "achilles",
+          "hector"
+        ]
+      },
+      "_said": "Achilles tells Hector that he wishes he could hack off Hector's flesh and eat it raw. He has become a predator. He has devolved"
+    },
+    {
+      "fp": "1kwd0s8",
+      "i": 196,
+      "from": 47541,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "devolved from a philosophical thinker into a beast. And you know, the text leading up to this is shockingly graphic, too. We're talking about marrow bursting from vertebrae,"
+    },
+    {
+      "fp": "1oye7u6",
+      "i": 197,
+      "from": 47772,
+      "subject": "Achilles",
+      "entities": [
+        "achilles"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Achilles, 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "achilles"
+        ]
+      },
+      "_said": "vertebrae, endrails clutched in hands, eyes popping out of skulls. Achilles lethal hands are constantly described as drenched in gore. He flatly rejects all ransom, all humanity, a"
+    },
+    {
+      "fp": "cgx0i0",
+      "i": 198,
+      "from": 48127,
+      "subject": "Hector",
+      "entities": [
+        "hector"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Hector, 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "hector"
+        ]
+      },
+      "_said": "wait, doesn't Hector deserve it? You could argue Hector killed Petetrois."
+    },
+    {
+      "fp": "2h1841",
+      "i": 199,
+      "from": 48223,
+      "subject": "Achilles",
+      "entities": [
+        "achilles"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Achilles, 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "achilles"
+        ]
+      },
+      "_said": "Petetrois. This is justified payback. That's what you'd think, right? We came for the hero getting payback. But notice how incredibly hollow the payback actually is. Achilles drags"
+    },
+    {
+      "fp": "atgh67",
+      "i": 200,
+      "from": 48535,
+      "subject": "Petroles — war",
+      "entities": [
+        "petroles"
+      ],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Petroles, leaving it face down in the dirt, 1930"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": [
+          "petroles"
+        ]
+      },
+      "_said": "after day around Petetro's tomb, leaving it face down in the dirt. He mutilates his enemy. And yet, every morning he wakes up and Petroles is still dead. Still dead. The violence"
+    },
+    {
+      "fp": "1s0b1j4",
+      "i": 201,
+      "from": 48847,
+      "subject": "Achilles",
+      "entities": [
+        "achilles"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Achilles, 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "achilles"
+        ]
+      },
+      "_said": "violence doesn't heal Achilles grief. It doesn't balance the scales. It just degrades his own soul Even"
+    },
+    {
+      "fp": "1ibeclq",
+      "i": 202,
+      "from": 49039,
+      "subject": "Achilles",
+      "entities": [
+        "achilles"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Achilles, 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "achilles"
+        ]
+      },
+      "_said": "Even the Olympian gods look down in pity and disgust because Achilles"
+    },
+    {
+      "fp": "1a7sxnv",
+      "i": 203,
+      "from": 49161,
+      "subject": "Achilles and Hector",
+      "entities": [
+        "achilles",
+        "hector"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Achilles and Hector, 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "achilles",
+          "hector"
+        ]
+      },
+      "_said": "Achilles is no longer hurting Hector. Hector's dead, feeling nothing. Achilles"
+    },
+    {
+      "fp": "ulfjqz",
+      "i": 204,
+      "from": 49267,
+      "subject": "Achilles",
+      "entities": [
+        "achilles"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Achilles, 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "achilles"
+        ]
+      },
+      "_said": "Achilles is only dishonoring himself. The currency of revenge buys him absolutely nothing but his own dehumanization. He is stuck in an endless spinning loop of violence that provi"
+    },
+    {
+      "fp": "1et9dq1",
+      "i": 205,
+      "from": 49646,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "the most jarring structural transition in the entire epic. We go"
+    },
+    {
+      "fp": "bduelj",
+      "i": 206,
+      "from": 49749,
+      "subject": "water",
+      "entities": [],
+      "concept": "water",
+      "place": "shore",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "water, shore, 1930"
+      },
+      "antidote": {
+        "concept": "water",
+        "set": "shore",
+        "cast": []
+      },
+      "_said": "go from the apocalyptic slaughter, the river of blood, the dragging of the corpse directly into a track and field meet. It is deeply disorienting for a modern reader. We are in boo"
+    },
+    {
+      "fp": "1gkwayo",
+      "i": 207,
+      "from": 50097,
+      "subject": "grave",
+      "entities": [],
+      "concept": "grave",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "grave, 1930"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": null,
+        "cast": []
+      },
+      "_said": "The Greek troops gather. They mourn Petrolis. They finally build his massive funeral p and burn his body along with"
+    },
+    {
+      "fp": "syiklh",
+      "i": 208,
+      "from": 50311,
+      "subject": "Achilles — coin",
+      "entities": [
+        "achilles"
+      ],
+      "concept": "coin",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Achilles, 1930"
+      },
+      "antidote": {
+        "concept": "coin",
+        "cast": [
+          "achilles"
+        ]
+      },
+      "_said": "with 12 Trojan captives. Achilles slaughters like which is horrifying, right? And then suddenly Achilles is organizing a chariot race, a boxing match, a wrestling match, a foot rac"
+    },
+    {
+      "fp": "6058bq",
+      "i": 209,
+      "from": 50810,
+      "subject": "star",
+      "entities": [],
+      "concept": "star",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "star, 1930"
+      },
+      "antidote": {
+        "concept": "star",
+        "set": null,
+        "cast": []
+      },
+      "_said": "tripods, the shining cauldrons, the horses, the mules, massive lumps of iron, and distributes them as prizes"
+    },
+    {
+      "fp": "1g3ihdu",
+      "i": 210,
+      "from": 51007,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, reading this the first time and thinking, 1930"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "prizes to the Greek competitors. I remember reading this the first time and thinking, \"What is happening?\" It feels bizarre. Yeah. They just paused a brutal decade long war while H"
+    },
+    {
+      "fp": "fady5g",
+      "i": 211,
+      "from": 51293,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Hector's mangled body is literally lying in the dirt nearby to"
+    },
+    {
+      "fp": "1v1artr",
+      "i": 212,
+      "from": 51386,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, hold the ancient olympics, 1930"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "to hold the ancient Olympics. It feels like an incredibly inappropriate tonal shift. It feels bizarre to us for sure, but it is psychologically and sociologically essential for the"
+    },
+    {
+      "fp": "1f9xys9",
+      "i": 213,
+      "from": 51765,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "of their entire command structure, a society needs a decompression chamber."
+    },
+    {
+      "fp": "1jlhad4",
+      "i": 214,
+      "from": 51888,
+      "subject": "grave",
+      "entities": [],
+      "concept": "grave",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "grave, 1930"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": null,
+        "cast": []
+      },
+      "_said": "chamber. A decompression chamber. Yeah. The funeral games take the hyperco competitive, lethal, chaotic energy of the battlefield and translate it back into rulebound, non-lethal,"
+    },
+    {
+      "fp": "1r0d3gl",
+      "i": 215,
+      "from": 52233,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "non-lethal, structured community building. It's a way to reintegrate"
+    },
+    {
+      "fp": "rjb0uq",
+      "i": 216,
+      "from": 52334,
+      "subject": "Achilles — grave",
+      "entities": [
+        "achilles"
+      ],
+      "concept": "grave",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Achilles, 1930"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": null,
+        "cast": [
+          "achilles"
+        ]
+      },
+      "_said": "reintegrate these traumatized killers back into a social hierarchy without anyone actually dying. In this moment, Achilles is acting as the arbiter, the referee. We actually"
+    },
+    {
+      "fp": "118z18c",
+      "i": 217,
+      "from": 52625,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, 1930"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "actually see fights almost break out during the chariot"
+    },
+    {
+      "fp": "1mlajix",
+      "i": 218,
+      "from": 52689,
+      "subject": "Achilles",
+      "entities": [
+        "achilles"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Achilles, 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "achilles"
+        ]
+      },
+      "_said": "chariot race and Antilocus and Menaaus get into a furious dispute over a foul, but Achilles acts as the peacemaker. He diffuses it. He smooths over the arguments. He redistributes "
+    },
+    {
+      "fp": "fzn7g9",
+      "i": 219,
+      "from": 53004,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "prizes so everyone feels honored. He is actively demonstrating how to be the good, generous king"
+    },
+    {
+      "fp": "pl9j6l",
+      "i": 220,
+      "from": 53155,
+      "subject": "Achilles and Agamemnon",
+      "entities": [
+        "achilles",
+        "agamemnon"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Achilles and Agamemnon, 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "achilles",
+          "agamemnon"
+        ]
+      },
+      "_said": "king that Agamemnon spectacularly failed to be in book one. By handing out these massive prizes, Achilles is voluntarily re-entering the social economy, the system of Tame, that he"
+    },
+    {
+      "fp": "1evjz6d",
+      "i": 221,
+      "from": 53551,
+      "subject": "coin",
+      "entities": [],
+      "concept": "coin",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "coin, 1930"
+      },
+      "antidote": {
+        "concept": "coin",
+        "cast": []
+      },
+      "_said": "But the crucial heartbreaking difference is that this time he isn't hoarding the wealth for his own glory. He's giving it away. He is giving it away to honor his dead friend. Iron,"
+    },
+    {
+      "fp": "xjd8xm",
+      "i": 222,
+      "from": 53844,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "which was incredibly rare and valuable for tools and weapons"
+    },
+    {
+      "fp": "1rpsvm1",
+      "i": 223,
+      "from": 53933,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "weapons in the Bronze Age, is given away freely. He's emptying his own bank account to heal the community. They are slowly transitioning away from the mindless slaughter. They are "
+    },
+    {
+      "fp": "vcnpqm",
+      "i": 224,
+      "from": 54283,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "grief collectively through ritual instead of just inflicting it outward on others. It's the"
+    },
+    {
+      "fp": "4tc2eh",
+      "i": 225,
+      "from": 54420,
+      "subject": "Achilles",
+      "entities": [
+        "achilles"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Achilles, 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "achilles"
+        ]
+      },
+      "_said": "the first tenative step Achilles takes back toward being a human being, which perfectly prepares him for the ultimate test of his returning humanity in the final book of the epic, "
+    },
+    {
+      "fp": "1dxu3jr",
+      "i": 226,
+      "from": 54873,
+      "subject": "Achilles",
+      "entities": [
+        "achilles"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Achilles, 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "achilles"
+        ]
+      },
+      "_said": "doors to Achilles tent open. King Prime of Troy, an old broken man,"
+    },
+    {
+      "fp": "78fw1g",
+      "i": 227,
+      "from": 55005,
+      "subject": "Achilles — war",
+      "entities": [
+        "achilles"
+      ],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Achilles, walked right into the enemy camp, 1930"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": [
+          "achilles"
+        ]
+      },
+      "_said": "man, has miraculously slipped through the enemy lines, guided by the god Hermes. Just walked right into the enemy camp. He walks right up to Achilles, the man who has slaughtered h"
+    },
+    {
+      "fp": "13tggo7",
+      "i": 228,
+      "from": 55279,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, reaches out, 1930"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": []
+      },
+      "_said": "who is currently keeping his favorite son's body rotting in the dirt. Pry drops to his knees. He reaches out."
+    },
+    {
+      "fp": "15dxpib",
+      "i": 229,
+      "from": 55454,
+      "subject": "Achilles — heart",
+      "entities": [
+        "achilles"
+      ],
+      "concept": "heart",
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Achilles, 1930"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": null,
+        "cast": [
+          "achilles"
+        ]
+      },
+      "_said": "out. He takes Achilles hands and he kisses them. The text says he kissed the terrible man-killing hands that had slaughtered many of his sons. It is an image"
+    },
+    {
+      "fp": "1k2va2z",
+      "i": 230,
+      "from": 55704,
+      "subject": "Achilles — family",
+      "entities": [
+        "achilles"
+      ],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Achilles, 1930"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": [
+          "achilles"
+        ]
+      },
+      "_said": "image of unimaginable humility and courage. Pry looks up at Achilles and asks him to remember his own aging father, Pelus,"
+    },
+    {
+      "fp": "10ia0sh",
+      "i": 231,
+      "from": 55929,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, waiting back home in greece, 1930"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": []
+      },
+      "_said": "Pelus, waiting back home in Greece. Pelus, who is watching the horizon, hoping his son will return,"
+    },
+    {
+      "fp": "160r8qb",
+      "i": 232,
+      "from": 56093,
+      "subject": "Achilles",
+      "entities": [
+        "achilles"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Achilles, 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "achilles"
+        ]
+      },
+      "_said": "even though Achilles knows he never Prim says, \"I have endured what no mortal on earth has done. I have brought to my lips the hands of the man who killed my child.\" This is"
+    },
+    {
+      "fp": "rs4kwp",
+      "i": 233,
+      "from": 56400,
+      "subject": "grave",
+      "entities": [],
+      "concept": "grave",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "grave, 1930"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": null,
+        "cast": []
+      },
+      "_said": "is the true climax of the epic. It isn't a final boss battle. It isn't a duel to the death. Is a moment"
+    },
+    {
+      "fp": "18fsds",
+      "i": 234,
+      "from": 56553,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "moment of radical impossible empathy. These two men who have every structural, political,"
+    },
+    {
+      "fp": "1lxq9pf",
+      "i": 235,
+      "from": 56733,
+      "subject": "Achilles and Hector and Petroles — family",
+      "entities": [
+        "achilles",
+        "hector",
+        "petroles"
+      ],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Achilles and Hector, sit in the dark tent and weep together, 1930"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": [
+          "achilles",
+          "hector",
+          "petroles"
+        ]
+      },
+      "_said": "political, and personal reason to tear each other's throats out, sit in the dark tent and weep together. Pry weeps for Hector. Achilles weeps for his own father and for Petroles. A"
+    },
+    {
+      "fp": "odtvoh",
+      "i": 236,
+      "from": 57028,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "shares this incredible philosophical parable with Pryam, the pearl of the two jars of Zeus. Oh, the two jars. Yeah. He says that on the floor of Zeus's palace there are two large u"
+    },
+    {
+      "fp": "1tovgby",
+      "i": 237,
+      "from": 57326,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "urns. One contains unmixed suffering. The other contains a mixture of blessings and pain. He says, \"If Zeus"
+    },
+    {
+      "fp": "13zhy5y",
+      "i": 238,
+      "from": 57501,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Zeus gives you unmixed suffering, you are driven across the earth, a starving pariah, respected by no one. But if you look at the mixture, your life is sometimes bad and sometimes "
+    },
+    {
+      "fp": "1wwkl4g",
+      "i": 239,
+      "from": 57849,
+      "subject": "shield",
+      "entities": [],
+      "concept": "shield",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "shield, 1930"
+      },
+      "antidote": {
+        "concept": "shield",
+        "cast": []
+      },
+      "_said": "makes a crucial point. Only the immortal gods get pure blessings. Only the gods get to be completely safe from pain."
+    },
+    {
+      "fp": "aw1r97",
+      "i": 240,
+      "from": 58061,
+      "subject": "Achilles",
+      "entities": [
+        "achilles"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Achilles, 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "achilles"
+        ]
+      },
+      "_said": "pain. Achilles realizes in that quiet moment that he and Pry, despite being on opposite sides of"
+    },
+    {
+      "fp": "1ga3qas",
+      "i": 241,
+      "from": 58233,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, 1930"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "of a brutal decadel long war, are both drinking from that exact same mixed jar"
+    },
+    {
+      "fp": "1mtusja",
+      "i": 242,
+      "from": 58375,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "jar of mortal tragedy. He recognizes that the old Trojan king's pain"
+    },
+    {
+      "fp": "1dhbhrm",
+      "i": 243,
+      "from": 58505,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, 1930"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "is identical chemically and spiritually to his own. But we have to be careful not to sanitize this. Does this mean everything is forgiven? Right? Do they just hug and call it off? "
+    },
+    {
+      "fp": "633lij",
+      "i": 244,
+      "from": 58814,
+      "subject": "Achilles — war",
+      "entities": [
+        "achilles"
+      ],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Achilles, 1930"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": [
+          "achilles"
+        ]
+      },
+      "_said": "That's the most tragic reality of all. No. Empathy is not a magic wand that fixes history. The war is not over. Achilles agrees"
+    },
+    {
+      "fp": "a1cr5g",
+      "i": 245,
+      "from": 59061,
+      "subject": "Hector — grave",
+      "entities": [
+        "hector"
+      ],
+      "concept": "grave",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Hector, hold a funeral for hector, 1930"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": null,
+        "cast": [
+          "hector"
+        ]
+      },
+      "_said": "agrees to a 12-day truce so Pri can safely hold a funeral for Hector. But both men know"
+    },
+    {
+      "fp": "119zxa",
+      "i": 246,
+      "from": 59229,
+      "subject": "fire",
+      "entities": [],
+      "concept": "fire",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "fire, 1930"
+      },
+      "antidote": {
+        "concept": "fire",
+        "cast": []
+      },
+      "_said": "know with absolute crushing certainty that on the 13th day, the slaughter will resume. The war goes on. Troy will still burn to the ground. The women will still"
+    },
+    {
+      "fp": "zb5ibh",
+      "i": 247,
+      "from": 59486,
+      "subject": "Achilles — war",
+      "entities": [
+        "achilles"
+      ],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Achilles, 1930"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": [
+          "achilles"
+        ]
+      },
+      "_said": "still be enslaved. Achilles will still die with an arrow in his heel. The machinery of war is too massive to stop. But for"
+    },
+    {
+      "fp": "kkrk68",
+      "i": 248,
+      "from": 59712,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "for one fleeting transcendent moment in the dark, they step completely outside their socially constructed roles as Greek conqueror and Trojan victim. And they recognize each other "
+    },
+    {
+      "fp": "olx4b8",
+      "i": 249,
+      "from": 60055,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "is the ultimate realization that the only true universal currency we have to offer each other"
+    },
+    {
+      "fp": "13l7ijz",
+      "i": 250,
+      "from": 60206,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "other is the currency of grief. It transcends the economics of glory entirely. The armor, the tripods, the reputation. None of it matters in that tent. I know I have to bring up"
+    },
+    {
+      "fp": "lu6mny",
+      "i": 251,
+      "from": 60506,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "sitting here calling, 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "up a massive honest criticism of this whole interpretation. we've been building. We are sitting here calling"
+    },
+    {
+      "fp": "1tjg8hl",
+      "i": 252,
+      "from": 60638,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, 1930"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "calling this an anti-war tragedy, a deep meditation on the futility of violence and human empathy. But if we are brutally honest about the text, Homer spends thousands of lines lin"
+    },
+    {
+      "fp": "1tz86k9",
+      "i": 253,
+      "from": 60948,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "graphic, almost fetishistic anatomical slaughter. We are talking about spears going through navls, bowels spilling on the ground, swords sharing off ears,"
+    },
+    {
+      "fp": "1rnivqf",
+      "i": 254,
+      "from": 61183,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "ears, brains splattering inside bronze helmets. The sheer volume of biological destruction is staggering. It is a lot of blood. Plus, the gods, the supposed moral arbiters of the u"
+    },
+    {
+      "fp": "1p0edpu",
+      "i": 255,
+      "from": 61550,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "like trivial evening entertainment. Zeus and Hera literally negotiate the destruction"
+    },
+    {
+      "fp": "1dljwb8",
+      "i": 256,
+      "from": 61713,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "destruction of real flourishing cities like Sparta and Myani and Troy as"
+    },
+    {
+      "fp": "12yawy4",
+      "i": 257,
+      "from": 61836,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "as a petty marital compromise. Doesn't this text at its core fundamentally glorify the thrill of violence and render human suffering completely meaningless?"
+    },
+    {
+      "fp": "l26g8u",
+      "i": 258,
+      "from": 62095,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "meaningless? It's a vital unavoidable question and"
+    },
+    {
+      "fp": "1k4g0w8",
+      "i": 259,
+      "from": 62150,
+      "subject": "Iliad — war",
+      "entities": [
+        "iliad"
+      ],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Iliad, reading of the iliad has to address it head, 1930"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": [
+          "iliad"
+        ]
+      },
+      "_said": "and any serious reading of the Iliad has to address it head on. The violence is mesmerizing. The pacing of the battles,"
+    },
+    {
+      "fp": "13kzd3j",
+      "i": 260,
+      "from": 62330,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, 1930"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "battles, the sheer kinetic energy of the chariots, the clash of bronze. It is designed to be thrilling. It's meant to make the"
+    },
+    {
+      "fp": "14iaug5",
+      "i": 261,
+      "from": 62515,
+      "subject": "game",
+      "entities": [],
+      "concept": "game",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "game, 1930"
+      },
+      "antidote": {
+        "concept": "game",
+        "set": null,
+        "cast": []
+      },
+      "_said": "the listener's heart race. It definitely works. And the gods do treat it as a game. But that contrast is exactly the point the poem is making."
+    },
+    {
+      "fp": "plolkw",
+      "i": 262,
+      "from": 62743,
+      "subject": "game",
+      "entities": [],
+      "concept": "game",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "game, 1930"
+      },
+      "antidote": {
+        "concept": "game",
+        "set": null,
+        "cast": []
+      },
+      "_said": "making. The gods are immortal. They have no skin in the game. They don't bleed. They don't die."
+    },
+    {
+      "fp": "695i14",
+      "i": 263,
+      "from": 62858,
+      "subject": "grave",
+      "entities": [],
+      "concept": "grave",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "grave, 1930"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": null,
+        "cast": []
+      },
+      "_said": "die. They don't lose children permanently. They can just watch. They can treat death as a spectacle because for them there is always a next time, always another city to watch burn."
+    },
+    {
+      "fp": "1ocuhzn",
+      "i": 264,
+      "from": 63249,
+      "subject": "magnifier",
+      "entities": [],
+      "concept": "magnifier",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "magnifier, 1930"
+      },
+      "antidote": {
+        "concept": "magnifier",
+        "cast": []
+      },
+      "_said": "gruesome, biologically precise detail, the stakes are absolute. A spear through the liver means the end of the universe. Wow. By making us feel"
+    },
+    {
+      "fp": "1k1gwe4",
+      "i": 265,
+      "from": 63509,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "feel the intoxicating adrenalinefueled thrill of violence alongside the gods, the poem ensures that"
+    },
+    {
+      "fp": "awx15a",
+      "i": 266,
+      "from": 63681,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "that the ultimate crushing emptiness of that violence hits us even harder when the high inevitably wears off. We feel the rush of the slaughter so we can feel"
+    },
+    {
+      "fp": "1fpcjzv",
+      "i": 267,
+      "from": 63945,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "feel the devastating hollow hangover of the That framing completely changes the impact of the ending. Think about how"
+    },
+    {
+      "fp": "u5ol9i",
+      "i": 268,
+      "from": 64142,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, 1930"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "how this massive 24book epic about a legendary war actually concludes. It brings this entire analysis, this audit of the heroic code to its final ledger. It doesn't end with the Tr"
+    },
+    {
+      "fp": "f1iosd",
+      "i": 269,
+      "from": 64598,
+      "subject": "Agamemnon — grave",
+      "entities": [
+        "agamemnon"
+      ],
+      "concept": "grave",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Agamemnon, standing triumphantly over prime's it ends with, 1930"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": null,
+        "cast": [
+          "agamemnon"
+        ]
+      },
+      "_said": "Troy or Agamemnon standing triumphantly over Prime's It ends with a funeral, the enemy's funeral. The very last line of the poem focuses entirely on the grief of the people we"
+    },
+    {
+      "fp": "1dn6uhp",
+      "i": 270,
+      "from": 64874,
+      "subject": "Hector — grave",
+      "entities": [
+        "hector"
+      ],
+      "concept": "grave",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Hector, 1930"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": null,
+        "cast": [
+          "hector"
+        ]
+      },
+      "_said": "we were supposedly rooting against. The Greeks have faded into the background. The final words are simply, \"And so they buried Hector, breaker of horses.\" That is"
+    },
+    {
+      "fp": "125v3vu",
+      "i": 271,
+      "from": 65136,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "is the ultimate subversive act of this poem. In Homer's"
+    },
+    {
+      "fp": "dacoqq",
+      "i": 272,
+      "from": 65210,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Homer's world, after all the blood, all the speeches, all the hoarded bronze and stolen women,"
+    },
+    {
+      "fp": "jzllhr",
+      "i": 273,
+      "from": 65366,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, 1930"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "women, the final highest summit of human heroism is not killing your enemy. It is mourning him. The entire heroic code,"
+    },
+    {
+      "fp": "xxeo52",
+      "i": 274,
+      "from": 65577,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "leaving only the bedrock of our shared, 1930"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "code, the relentless economics of glory is completely dismantled, leaving only the bedrock of our shared,"
+    },
+    {
+      "fp": "pfp0k4",
+      "i": 275,
+      "from": 65736,
+      "subject": "trophy",
+      "entities": [],
+      "concept": "trophy",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "trophy, 1930"
+      },
+      "antidote": {
+        "concept": "trophy",
+        "cast": []
+      },
+      "_said": "shared, fragile humanity. The prize was a lie, and the only truth left was the grief they shared. Next time you hear someone talking about pursuing"
+    },
+    {
+      "fp": "1r8bi7p",
+      "i": 276,
+      "from": 65969,
+      "subject": "trophy",
+      "entities": [],
+      "concept": "trophy",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "trophy, leaving a legacy at all costs, 1930"
+      },
+      "antidote": {
+        "concept": "trophy",
+        "cast": []
+      },
+      "_said": "pursuing immortal glory or leaving a legacy at all costs, ask yourself, are they trading away their own humanity to get it? And what happens when they finally realize the prize is "
+    }
+  ]
+}

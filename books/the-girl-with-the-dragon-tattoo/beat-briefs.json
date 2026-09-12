@@ -1,0 +1,5166 @@
+{
+  "slug": "the-girl-with-the-dragon-tattoo",
+  "authored": false,
+  "briefs": [
+    {
+      "fp": "1xxtgum",
+      "i": 0,
+      "from": 0,
+      "subject": "home",
+      "entities": [],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "home, 1966"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": []
+      },
+      "_said": "Picture this. You're alone in this uh this drafty, totally silent guest house on a remote Swedish island. It's the dead of winter. And you are just staring at a wall, right? Just s"
+    },
+    {
+      "fp": "1ohdq2f",
+      "i": 1,
+      "from": 446,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "years of amateur photographs. All of them taken on"
+    },
+    {
+      "fp": "16mm721",
+      "i": 2,
+      "from": 518,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "on a single day, a parade, you know, clowns, kids"
+    },
+    {
+      "fp": "twjcd6",
+      "i": 3,
+      "from": 636,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "kids with balloons, crowds on the pavement, and you've been staring at these faces for days,"
+    },
+    {
+      "fp": "h2kkkc",
+      "i": 4,
+      "from": 756,
+      "subject": "road",
+      "entities": [],
+      "concept": "road",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "road, 1966"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": null,
+        "cast": []
+      },
+      "_said": "days, driving yourself crazy. Exactly. And then right mid thought the tension just snaps. You realize that in one sequence"
+    },
+    {
+      "fp": "1j97d86",
+      "i": 5,
+      "from": 993,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "sequence of photographs spanning just I mean just a few minutes there is one face that changes expression. It's such a chilling moment. It really is."
+    },
+    {
+      "fp": "iv6dse",
+      "i": 6,
+      "from": 1224,
+      "subject": "Harriet",
+      "entities": [
+        "harriet"
+      ],
+      "concept": null,
+      "place": "street",
+      "confidence": 0.85,
+      "vox": {
+        "shot": "Harriet, street, 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": "street",
+        "cast": [
+          "harriet"
+        ]
+      },
+      "_said": "is. It's a 16-year-old girl, Harriet, and she'sn't looking at the parade. She's looking across the street. Her face is just frozen"
+    },
+    {
+      "fp": "1wisxx8",
+      "i": 7,
+      "from": 1399,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "sitting in a drawer for four decades, 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "frozen in absolute terror. She sees her killer. Yeah. And the thing is the photographs were always there sitting in a drawer for four decades. No dramatic greetings, no introductio"
+    },
+    {
+      "fp": "15yyrdx",
+      "i": 8,
+      "from": 1718,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "waiting for someone to look at it, 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "just the sudden chilling realization that the truth was documented the entire time just waiting for someone to actually look at it. It is a phenomenal image honestly and I"
+    },
+    {
+      "fp": "1980gfn",
+      "i": 9,
+      "from": 2001,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "I think it perfectly encapsulates the true nature of what we are unpacking today. The truth didn't require some, you know,"
+    },
+    {
+      "fp": "1o6j13v",
+      "i": 10,
+      "from": 2188,
+      "subject": "target",
+      "entities": [],
+      "concept": "target",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "target, 1966"
+      },
+      "antidote": {
+        "concept": "target",
+        "cast": []
+      },
+      "_said": "know, dramatic confession under a spotlight. It just required an observer willing to put the mundane pieces together. Welcome to this deep dive. Today, our mission is to completely"
+    },
+    {
+      "fp": "17clcq3",
+      "i": 11,
+      "from": 2493,
+      "subject": "Tattoo",
+      "entities": [
+        "tattoo"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Tattoo, 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "tattoo"
+        ]
+      },
+      "_said": "completely dissect Ste Larson's The Girl with a Dragon Tattoo,"
+    },
+    {
+      "fp": "c442wg",
+      "i": 12,
+      "from": 2611,
+      "subject": "Tattoo — magnifier",
+      "entities": [
+        "tattoo"
+      ],
+      "concept": "magnifier",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Tattoo, 1966"
+      },
+      "antidote": {
+        "concept": "magnifier",
+        "cast": [
+          "tattoo"
+        ]
+      },
+      "_said": "Tattoo, relying entirely on the original text excerpts as our foundation. But, uh, let me set expectations for you right out of the gate. We are not doing a standard plot summary t"
+    },
+    {
+      "fp": "1i5nldg",
+      "i": 13,
+      "from": 3062,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "retelling a Scandinavian thriller. We are really looking"
+    },
+    {
+      "fp": "18tv21u",
+      "i": 14,
+      "from": 3137,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "at the underlying architecture that actually makes the narrative function. So, let's lay out our core argument for this deep dive. Everyone from critics to casual readers calls thi"
+    },
+    {
+      "fp": "guug9l",
+      "i": 15,
+      "from": 3518,
+      "subject": "Harriet",
+      "entities": [
+        "harriet"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Harriet, 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "harriet"
+        ]
+      },
+      "_said": "about who killed Harriet Vaner, the teenage who vanished without a trace in 1966. But I am going to argue that calling it a mystery is a massive decoy. It's the"
+    },
+    {
+      "fp": "15w0a6q",
+      "i": 16,
+      "from": 3789,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "the ultimate misdirection. I mean, the real engine of this book, the true"
+    },
+    {
+      "fp": "1gbqn48",
+      "i": 17,
+      "from": 3936,
+      "subject": "road",
+      "entities": [],
+      "concept": "road",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "road, 1966"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": null,
+        "cast": []
+      },
+      "_said": "true driving force behind every single turning point is archives. archives like filing cabinets. Exactly like filing cabinets. Every breakthrough in the narrative comes"
+    },
+    {
+      "fp": "8bdxu7",
+      "i": 18,
+      "from": 4229,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "read together, 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "comes from someone digging through records that were never meant to be read together. We have to remember"
+    },
+    {
+      "fp": "1o9qjrl",
+      "i": 19,
+      "from": 4365,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "notes, write a novel where the detective's primary w, 1966"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": []
+      },
+      "_said": "remember that Steve Larson himself was an investigative journalist. So, he didn't write a novel where the detective's primary weapon is a revolver or even forensic science"
+    },
+    {
+      "fp": "y6jvhl",
+      "i": 20,
+      "from": 4663,
+      "subject": "photo",
+      "entities": [],
+      "concept": "photo",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "photo, 1966"
+      },
+      "antidote": {
+        "concept": "photo",
+        "set": null,
+        "cast": []
+      },
+      "_said": "science in the traditional DNA swab sense. The weapon is a database. It's a photo album. It's a corporate filing. It is a social services report. Okay. Okay, that makes sense. So, "
+    },
+    {
+      "fp": "1euzx6a",
+      "i": 21,
+      "from": 4985,
+      "subject": "Tattoo",
+      "entities": [
+        "tattoo"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Tattoo, 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "tattoo"
+        ]
+      },
+      "_said": "with the Dragon Tattoo is fundamentally a novel about what happens when someone actually bothers to open"
+    },
+    {
+      "fp": "kna5od",
+      "i": 22,
+      "from": 5138,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "open the filing cabinet. Yeah, think about the villains for a second."
+    },
+    {
+      "fp": "i260u7",
+      "i": 23,
+      "from": 5232,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "second. Every monster in this book survives for decades. Not because they"
+    },
+    {
+      "fp": "1x4ivqy",
+      "i": 24,
+      "from": 5359,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "they are criminal masterminds, not by being impossibly clever, but simply by trusting that no one will ever bother to connect the paperwork. Yeah, the book makes a"
+    },
+    {
+      "fp": "1tmab3u",
+      "i": 25,
+      "from": 5611,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "a brilliant sustained argument that the most dangerous act in a corrupt society is not physical violence. It's research. Research as a disruptive, even violent act"
+    },
+    {
+      "fp": "1253ufb",
+      "i": 26,
+      "from": 5978,
+      "subject": "heart",
+      "entities": [],
+      "concept": "heart",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "heart, 1966"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": null,
+        "cast": []
+      },
+      "_said": "act against corruption. I love that. So, to understand"
+    },
+    {
+      "fp": "9q6f23",
+      "i": 27,
+      "from": 6086,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "understand how Larson builds that specific argument, let's set the board and look at the primary actors navigating this uh this world of Let's start"
+    },
+    {
+      "fp": "1lslofm",
+      "i": 28,
+      "from": 6336,
+      "subject": "Michael",
+      "entities": [
+        "michael"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Michael, 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "michael"
+        ]
+      },
+      "_said": "start with Michael Blomkvist. He's our primary lens, right? that he's an investigative journalist who is currently disgraced, right? He just lost a massive, highly publicized liel "
+    },
+    {
+      "fp": "msgs0t",
+      "i": 29,
+      "from": 6645,
+      "subject": "law",
+      "entities": [],
+      "concept": "law",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "law, 1966"
+      },
+      "antidote": {
+        "concept": "law",
+        "set": null,
+        "cast": []
+      },
+      "_said": "industrialist named Hans Eric Wennerström. And Blomkvist has been sentenced to three months in jail and hit with 150,000 croner in damages, which is devastating for him. Totally. A"
+    },
+    {
+      "fp": "1b7m6r8",
+      "i": 30,
+      "from": 7080,
+      "subject": "work",
+      "entities": [],
+      "concept": "work",
+      "place": "office",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "work, office, 1966"
+      },
+      "antidote": {
+        "concept": "work",
+        "set": "office",
+        "cast": []
+      },
+      "_said": "vital piece of character architecture, by the way. It speaks directly to our thesis about observation. He earned that nickname when he was 23, working his first summer job as a jou"
+    },
+    {
+      "fp": "1v2bz1g",
+      "i": 31,
+      "from": 7325,
+      "subject": "crack",
+      "entities": [],
+      "concept": "crack",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "crack, 1966"
+      },
+      "antidote": {
+        "concept": "crack",
+        "cast": []
+      },
+      "_said": "journalist. He accidentally cracked a case involving a gang of bank robbers, which the papers called the Bear Gang. And he didn't solve it by chasing them down in a stolen car or a"
+    },
+    {
+      "fp": "1bq30bp",
+      "i": 32,
+      "from": 7754,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "robbery, and remembered seeing four heavily built guys playing badmint at a nearby cabin. Just playing badminton. Yeah. And he noticed they had"
+    },
+    {
+      "fp": "1nc4ohj",
+      "i": 33,
+      "from": 8006,
+      "subject": "road",
+      "entities": [],
+      "concept": "road",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "road, watched them, 1966"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": null,
+        "cast": []
+      },
+      "_said": "had this intense almost military focus. He just watched them. Later, he saw them return from a drive, saw one"
+    },
+    {
+      "fp": "mrocza",
+      "i": 34,
+      "from": 8210,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "one of them hastily cover something in the trunk of a Volvo, and recognize the shape"
+    },
+    {
+      "fp": "hth474",
+      "i": 35,
+      "from": 8335,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "notes, writing a tongue-in-cheek piece, 1966"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": []
+      },
+      "_said": "shape of an AK-4 rifle from his own military days. He simply observed, categorized the information, and called the police. So, an older columnist ended up writing a tongue-in-cheek"
+    },
+    {
+      "fp": "1flb9vb",
+      "i": 36,
+      "from": 8712,
+      "subject": "photo",
+      "entities": [],
+      "concept": "photo",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "photo, 1966"
+      },
+      "antidote": {
+        "concept": "photo",
+        "set": null,
+        "cast": []
+      },
+      "_said": "after Astred Lindrren's famous boy detective, and ran a goofy photo"
+    },
+    {
+      "fp": "4ejqtg",
+      "i": 37,
+      "from": 8841,
+      "subject": "Michael — photo",
+      "entities": [
+        "michael"
+      ],
+      "concept": "photo",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Michael, 1966"
+      },
+      "antidote": {
+        "concept": "photo",
+        "set": null,
+        "cast": [
+          "michael"
+        ]
+      },
+      "_said": "photo of Michael pointing his finger. Right. And Michael hates the nickname because it trivializes his analytical mind. It reduces rigorous observation to a children's game. But th"
+    },
+    {
+      "fp": "fy97lj",
+      "i": 38,
+      "from": 9237,
+      "subject": "Henrik",
+      "entities": [
+        "henrik"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Henrik, 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "henrik"
+        ]
+      },
+      "_said": "exactly what attracts Henrik Vanger. Let's bring Henrik in. Henrik is"
+    },
+    {
+      "fp": "ft3xtq",
+      "i": 39,
+      "from": 9333,
+      "subject": "Michael — family",
+      "entities": [
+        "michael"
+      ],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Michael, 1966"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": [
+          "michael"
+        ]
+      },
+      "_said": "is the 82-year-old former CEO of the Vander Corporation. He hires Blancfist under the guise of commissioning a family history. But that's a front. A total front. The real propositi"
+    },
+    {
+      "fp": "1qjxxzv",
+      "i": 40,
+      "from": 9736,
+      "subject": "Harriet",
+      "entities": [
+        "harriet"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Harriet, 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "harriet"
+        ]
+      },
+      "_said": "happened to his great niece Harriet who vanished in 1966."
+    },
+    {
+      "fp": "bpmcuh",
+      "i": 41,
+      "from": 9847,
+      "subject": "Michael and Henrik",
+      "entities": [
+        "michael",
+        "henrik"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Michael and Henrik, 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "michael",
+          "henrik"
+        ]
+      },
+      "_said": "And the incentive Henrik offers is impossible for Michael to refuse. Because if Michael solves this, Henrik promises to hand over the documentary evidence needed to completely dest"
+    },
+    {
+      "fp": "12adhqf",
+      "i": 42,
+      "from": 10200,
+      "subject": "Harriet — work",
+      "entities": [
+        "harriet"
+      ],
+      "concept": "work",
+      "place": "office",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Harriet, office, 1966"
+      },
+      "antidote": {
+        "concept": "work",
+        "set": "office",
+        "cast": [
+          "harriet"
+        ]
+      },
+      "_said": "who just ruined Michael's career. And we have to establish the parameters of this locked room. The setting is Hab Island. The logistics are meticulous. Harriet disappeared"
+    },
+    {
+      "fp": "1fwrlwr",
+      "i": 43,
+      "from": 10495,
+      "subject": "law",
+      "entities": [],
+      "concept": "law",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "law, 1966"
+      },
+      "antidote": {
+        "concept": "law",
+        "set": null,
+        "cast": []
+      },
+      "_said": "disappeared on September 25th, Right. And according to the police logs"
+    },
+    {
+      "fp": "1gzu70l",
+      "i": 44,
+      "from": 10615,
+      "subject": "Harriet",
+      "entities": [
+        "harriet"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Harriet, 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "harriet"
+        ]
+      },
+      "_said": "logs and Inspector Gustaf Moral's records, Harriet returned to the island at 2.5 p.m. Moments later, an oil tanker overturned on the only"
+    },
+    {
+      "fp": "2kd6kl",
+      "i": 45,
+      "from": 10865,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "bridge connecting Hedibbe Island to the mainland. It completely sealed the island off. The text is very specific here. At 11:35"
+    },
+    {
+      "fp": "9nbmjy",
+      "i": 46,
+      "from": 11066,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "11:35 the next morning, the bridge was still blocked. Transport was strictly by boat. No cars could get on or off. It's"
+    },
+    {
+      "fp": "1tsv5yj",
+      "i": 47,
+      "from": 11236,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, 1966"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": []
+      },
+      "_said": "It's the perfect closed circle puzzle. It really is. And into this closed circle, Larsson drops our wild cards. First, you have the Venger family itself, a sprawling dynasty"
+    },
+    {
+      "fp": "1wvk4k9",
+      "i": 48,
+      "from": 11546,
+      "subject": "dominoCascade",
+      "entities": [],
+      "concept": "dominoCascade",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "domino cascade, 1966"
+      },
+      "antidote": {
+        "concept": "dominoCascade",
+        "cast": []
+      },
+      "_said": "dynasty of wealthy industrialists living in a compound on this island, many of whom harbor incredibly dark hidden pasts. And second, you"
+    },
+    {
+      "fp": "iw5aiz",
+      "i": 49,
+      "from": 11765,
+      "subject": "Elizabeth",
+      "entities": [
+        "elizabeth"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Elizabeth, 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "elizabeth"
+        ]
+      },
+      "_said": "you have Elizabeth Salander, a 24year-old ward of the state, a woman with a photographic memory and just"
+    },
+    {
+      "fp": "z4bf4a",
+      "i": 50,
+      "from": 11971,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "just peerless hacking skills. But um let me stop you there, though. I want to challenge the premise slightly. You're framing this as a story about archives, but if the bridge is bl"
+    },
+    {
+      "fp": "baxv4x",
+      "i": 51,
+      "from": 12365,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "just a simple physical impossibility? Why does Henrik's"
+    },
+    {
+      "fp": "dbm78o",
+      "i": 52,
+      "from": 12458,
+      "subject": "Henrik",
+      "entities": [
+        "henrik"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Henrik, 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "henrik"
+        ]
+      },
+      "_said": "Henrik's obsession have to be about archival logic? It seems like basic physics to me. That's a fair question. The physical impossibility is the starting point. Yes. But Henrik"
+    },
+    {
+      "fp": "1ksfasi",
+      "i": 53,
+      "from": 12720,
+      "subject": "Henrik — law",
+      "entities": [
+        "henrik"
+      ],
+      "concept": "law",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Henrik, 1966"
+      },
+      "antidote": {
+        "concept": "law",
+        "set": null,
+        "cast": [
+          "henrik"
+        ]
+      },
+      "_said": "Henrik and Inspector Morell didn't just look at the bridge. They checked every single name of every person on the island that afternoon. They accounted for everyone. Like a massive"
+    },
+    {
+      "fp": "1ulwa9i",
+      "i": 54,
+      "from": 13113,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "50 volunteers from the orientering club dragging the waters. None of the people on the island could"
+    },
+    {
+      "fp": "1hgf4qi",
+      "i": 55,
+      "from": 13267,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "could have physically removed a body unseen. Yet, the physical body is gone. Okay, I see where"
+    },
+    {
+      "fp": "1v7pcjs",
+      "i": 56,
+      "from": 13413,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "where you're going. Physics dictates the body has to be there. Right. Physics says the mass remains, but the archives, the alibis, the search grids, the witness statements say no o"
+    },
+    {
+      "fp": "12n0jtz",
+      "i": 57,
+      "from": 13735,
+      "subject": "game",
+      "entities": [],
+      "concept": "game",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "game, 1966"
+      },
+      "antidote": {
+        "concept": "game",
+        "set": null,
+        "cast": []
+      },
+      "_said": "The physical space of the island and the documentary space of the investigation simply do not match up. In a closed system, things don't just vanish without a trace. There should b"
+    },
+    {
+      "fp": "dti44l",
+      "i": 58,
+      "from": 14109,
+      "subject": "dominoCascade",
+      "entities": [],
+      "concept": "dominoCascade",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "domino cascade, 1966"
+      },
+      "antidote": {
+        "concept": "dominoCascade",
+        "cast": []
+      },
+      "_said": "born from the physical disappearance. It's born from the administrative void. And that void is compounded by this incredibly cruel psychological torture"
+    },
+    {
+      "fp": "1g4lo6h",
+      "i": 59,
+      "from": 14323,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "torture device Larsson introduces, which is the annual arrival of a pressed flower on Henriett's birthday."
+    },
+    {
+      "fp": "4jldkl",
+      "i": 60,
+      "from": 14486,
+      "subject": "storm",
+      "entities": [],
+      "concept": "storm",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "storm, 1966"
+      },
+      "antidote": {
+        "concept": "storm",
+        "set": null,
+        "cast": []
+      },
+      "_said": "birthday. The Leptusperum Rubinette, desert snow, a plant native to the Australian bush. Why does"
+    },
+    {
+      "fp": "1efa3nc",
+      "i": 61,
+      "from": 14659,
+      "subject": "Henrik",
+      "entities": [
+        "henrik"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Henrik, 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "henrik"
+        ]
+      },
+      "_said": "does that specific flower matter so much to the thesis? It's just a taunt, right? I mean, a creepy one, but still. It is a taunt. But look at how it taunts him. Henrik"
+    },
+    {
+      "fp": "1d6vlad",
+      "i": 62,
+      "from": 14911,
+      "subject": "Henrik",
+      "entities": [
+        "henrik"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Henrik, 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "henrik"
+        ]
+      },
+      "_said": "Henrik calls Inspector Morell every year when it arrives. They go through this agonizing ritual. Postmark, usually Stockholm, handwriting, upright capitals, but it yields absolutel"
+    },
+    {
+      "fp": "1kvoqg7",
+      "i": 63,
+      "from": 15321,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "botist from Absal explains in the text, there is no registry to look it up in. There"
+    },
+    {
+      "fp": "wn9qjj",
+      "i": 64,
+      "from": 15461,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "are no licenses required to cultivate it. A handful of enthusiasts could have traded seeds anywhere in Europe or the antipities. It is a mystery born entirely from a lack of record"
+    },
+    {
+      "fp": "42q9x",
+      "i": 65,
+      "from": 15775,
+      "subject": "Henrik",
+      "entities": [
+        "henrik"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Henrik, 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "henrik"
+        ]
+      },
+      "_said": "That's a brilliant contrast because Henrik is a titan of industry. He ran a massive"
+    },
+    {
+      "fp": "bg0hjq",
+      "i": 66,
+      "from": 15909,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "massive global corporation where every single staple, every shipment of steel, every crona is documented, logged, and audited. Yet his entire life is derailed by a flower that exis"
+    },
+    {
+      "fp": "1qf3p21",
+      "i": 67,
+      "from": 16281,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "that left zero administrative trace. Exactly. He is convinced a"
+    },
+    {
+      "fp": "g9itb2",
+      "i": 68,
+      "from": 16392,
+      "subject": "Harriet — family",
+      "entities": [
+        "harriet"
+      ],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Harriet, 1966"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": [
+          "harriet"
+        ]
+      },
+      "_said": "a family member murdered Harriet because the island was physically cut off, but he spent 40 years unable to prove it because the documentation offers no solution. It's an archival "
+    },
+    {
+      "fp": "1yilzc0",
+      "i": 69,
+      "from": 16701,
+      "subject": "Michael",
+      "entities": [
+        "michael"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Michael, 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "michael"
+        ]
+      },
+      "_said": "how does Michael Blomkvist break the paradox? He doesn't do it by interviewing people. I mean, memory is flawed,"
+    },
+    {
+      "fp": "12ifrg8",
+      "i": 70,
+      "from": 16891,
+      "subject": "coffee",
+      "entities": [],
+      "concept": "coffee",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "coffee, 1966"
+      },
+      "antidote": {
+        "concept": "coffee",
+        "set": null,
+        "cast": []
+      },
+      "_said": "flawed, especially after 40 years. a human being might lie or they might just misremember what they had for breakfast in 1966."
+    },
+    {
+      "fp": "1p6dmxv",
+      "i": 71,
+      "from": 17112,
+      "subject": "Michael — photo",
+      "entities": [
+        "michael"
+      ],
+      "concept": "photo",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Michael, 1966"
+      },
+      "antidote": {
+        "concept": "photo",
+        "set": null,
+        "cast": [
+          "michael"
+        ]
+      },
+      "_said": "Michael breaks it through a photograph, but let's dig into how he does this because it isn't just, you know, finding a clue on the ground,"
+    },
+    {
+      "fp": "175w55j",
+      "i": 72,
+      "from": 17299,
+      "subject": "Michael and Henrik — law",
+      "entities": [
+        "michael",
+        "henrik"
+      ],
+      "concept": "law",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Michael and Henrik, 1966"
+      },
+      "antidote": {
+        "concept": "law",
+        "set": null,
+        "cast": [
+          "michael",
+          "henrik"
+        ]
+      },
+      "_said": "ground, right? Michael realizes that for 40 years, Henrik and the police have been looking at"
+    },
+    {
+      "fp": "af8giv",
+      "i": 73,
+      "from": 17443,
+      "subject": "law",
+      "entities": [],
+      "concept": "law",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "law, 1966"
+      },
+      "antidote": {
+        "concept": "law",
+        "set": null,
+        "cast": []
+      },
+      "_said": "at the wrong archive. They were obsessed with the pictures of the accident on the bridge, the overturned because that was the spectacle. That's where the police tape was. Yes."
+    },
+    {
+      "fp": "b28z8a",
+      "i": 74,
+      "from": 17716,
+      "subject": "Michael",
+      "entities": [
+        "michael"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Michael, 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "michael"
+        ]
+      },
+      "_said": "Yes. But Michael realizes the chain of events didn't start at the bridge. It started hours earlier in Hadistad, the town on the mainland during the Children's"
+    },
+    {
+      "fp": "odmjs0",
+      "i": 75,
+      "from": 17973,
+      "subject": "Michael and Harriet",
+      "entities": [
+        "michael",
+        "harriet"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Michael and Harriet, 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "michael",
+          "harriet"
+        ]
+      },
+      "_said": "Children's Day parade. Harriet saw something at that parade that frightened her so much she abandoned her friends and went straight back to the island. So, Michael essentially buil"
+    },
+    {
+      "fp": "27vs7a",
+      "i": 76,
+      "from": 18316,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "a local photographer named Nyl who had taken about 180 pictures that day, right? Nyl had taken a sequence of 18 shots from a second floor window of Sunstrom's"
+    },
+    {
+      "fp": "1mvptoz",
+      "i": 77,
+      "from": 18607,
+      "subject": "Michael — home",
+      "entities": [
+        "michael"
+      ],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Michael, 1966"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": [
+          "michael"
+        ]
+      },
+      "_said": "Sunstrom's habeddasherie looking down at the parade and Michael scans these negatives into his eyebook. He spends hours alone in the guest house"
+    },
+    {
+      "fp": "1ss0pfn",
+      "i": 78,
+      "from": 18837,
+      "subject": "home",
+      "entities": [],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "home, 1966"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": []
+      },
+      "_said": "house just importing data and then he begins to manipulate it. He performs"
+    },
+    {
+      "fp": "10vfw3f",
+      "i": 79,
+      "from": 18974,
+      "subject": "Harriet — notes",
+      "entities": [
+        "harriet"
+      ],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Harriet, watching the parade, 1966"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": [
+          "harriet"
+        ]
+      },
+      "_said": "performs a forensic analysis of the images. He notes that Harriet and her friends are in the frame for a sequence of photos covering about 5 minutes. In the early pictures, they ar"
+    },
+    {
+      "fp": "19p3oxv",
+      "i": 80,
+      "from": 19325,
+      "subject": "Michael and Harriet — target",
+      "entities": [
+        "michael",
+        "harriet"
+      ],
+      "concept": "target",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Michael and Harriet, 1966"
+      },
+      "antidote": {
+        "concept": "target",
+        "cast": [
+          "michael",
+          "harriet"
+        ]
+      },
+      "_said": "parade. But Michael isolates Harriet. He crops the top half of the images to focus entirely on her face. Think about"
+    },
+    {
+      "fp": "glqiem",
+      "i": 81,
+      "from": 19507,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "about the mechanics of what he's doing here. He is creating"
+    },
+    {
+      "fp": "3vog4p",
+      "i": 82,
+      "from": 19584,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "creating a primitive 3D digital render out of 2D historical He watches"
+    },
+    {
+      "fp": "8ecwr0",
+      "i": 83,
+      "from": 19761,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "watches her expression change frame by frame fr, 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "watches her expression change frame by frame from a relaxed smile to absolute shock. He literally maps out the crossroads on a"
+    },
+    {
+      "fp": "1d8d8wd",
+      "i": 84,
+      "from": 19980,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "a piece of paper to triangulate her line of sight. He figures out the exact angle she was looking at. He sees a blurry figure in"
+    },
+    {
+      "fp": "15t6iff",
+      "i": 85,
+      "from": 20165,
+      "subject": "Harriet — photo",
+      "entities": [
+        "harriet"
+      ],
+      "concept": "photo",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Harriet, standing behind the crowd looking straight into, 1966"
+      },
+      "antidote": {
+        "concept": "photo",
+        "set": null,
+        "cast": [
+          "harriet"
+        ]
+      },
+      "_said": "a wind cheater standing behind the crowd looking straight into the camera, which means looking straight at Harriet. But"
+    },
+    {
+      "fp": "z7ho2o",
+      "i": 86,
+      "from": 20321,
+      "subject": "Michael",
+      "entities": [
+        "michael"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Michael, 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "michael"
+        ]
+      },
+      "_said": "But the archives Nihilin created is It gives Michael the reaction, but not the stimulus. He needs the reverse angle. He needs to stand"
+    },
+    {
+      "fp": "o8txkf",
+      "i": 87,
+      "from": 20594,
+      "subject": "Harriet",
+      "entities": [
+        "harriet"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Harriet, stand where harriet was standing, 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "harriet"
+        ]
+      },
+      "_said": "stand where Harriet was standing, visually speaking, and see what she saw. And how does he find that reverse angle? He doesn't guess. He doesn't"
+    },
+    {
+      "fp": "19nzdg7",
+      "i": 88,
+      "from": 20805,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "doesn't go interrogate a suspect. He searches for more records. He scrutinizes the sequence of photos again"
+    },
+    {
+      "fp": "1vm8nd9",
+      "i": 89,
+      "from": 20990,
+      "subject": "photo",
+      "entities": [],
+      "concept": "photo",
+      "place": "street",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "photo, street, 1966"
+      },
+      "antidote": {
+        "concept": "photo",
+        "set": "street",
+        "cast": []
+      },
+      "_said": "again and spots something tiny. A woman in the crowd across the street had raised a camera to her face at the exact second."
+    },
+    {
+      "fp": "cvxhmt",
+      "i": 90,
+      "from": 21192,
+      "subject": "Michael and Harriet",
+      "entities": [
+        "michael",
+        "harriet"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Michael and Harriet, 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "michael",
+          "harriet"
+        ]
+      },
+      "_said": "second. Harriet looked terrified, which sets Michael on a paper trail, and he has to identify a completely random woman"
+    },
+    {
+      "fp": "8q6xft",
+      "i": 91,
+      "from": 21362,
+      "subject": "photo",
+      "entities": [],
+      "concept": "photo",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "photo, 1966"
+      },
+      "antidote": {
+        "concept": "photo",
+        "set": null,
+        "cast": []
+      },
+      "_said": "woman from a 40-year-old photograph, which seems impossible, but it turns out to be a honeymoon couple from a town called Nora. They"
+    },
+    {
+      "fp": "1j9a0j6",
+      "i": 92,
+      "from": 21549,
+      "subject": "Michael — shield",
+      "entities": [
+        "michael"
+      ],
+      "concept": "shield",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Michael, sitting in a safe deposit box at a handles bank, 1966"
+      },
+      "antidote": {
+        "concept": "shield",
+        "cast": [
+          "michael"
+        ]
+      },
+      "_said": "They were just passing through Hastad. Michael tracks down the woman who is now elderly. He gets access to her negative, which incredibly has been sitting in a safe deposit box at "
+    },
+    {
+      "fp": "4smbnb",
+      "i": 93,
+      "from": 21905,
+      "subject": "puppeteer",
+      "entities": [],
+      "concept": "puppeteer",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "puppeteer, 1966"
+      },
+      "antidote": {
+        "concept": "puppeteer",
+        "cast": []
+      },
+      "_said": "see the profound implication here for our thesis? The killer wasn't a mastermind who perfectly erased his tracks. The violent act of murder was successfully covered up for decades "
+    },
+    {
+      "fp": "1sm6jk",
+      "i": 94,
+      "from": 22272,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "scattered across different disconnected Nylan's"
+    },
+    {
+      "fp": "4f6p6q",
+      "i": 95,
+      "from": 22351,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Nylan's professional album in one town and a tourist's shoe box in a bank vault in another. Yes, the killer hid in plain sight. It was only the patient, rigorous act"
+    },
+    {
+      "fp": "1fb3mqs",
+      "i": 96,
+      "from": 22670,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "act of archival reconstruction, forcing these distinct files to speak to one another that exposed him."
+    },
+    {
+      "fp": "d8urml",
+      "i": 97,
+      "from": 22843,
+      "subject": "photo",
+      "entities": [],
+      "concept": "photo",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "photo, 1966"
+      },
+      "antidote": {
+        "concept": "photo",
+        "set": null,
+        "cast": []
+      },
+      "_said": "him. The documents catch the killer by a camera no one thought to check, operated by a tourist who had no idea what she was photographing. It's just wild. But the photographs"
+    },
+    {
+      "fp": "adf8ul",
+      "i": 98,
+      "from": 23073,
+      "subject": "Michael and Harriet — notes",
+      "entities": [
+        "michael",
+        "harriet"
+      ],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Michael and Harriet, sitting in a completely different archi, 1966"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": [
+          "michael",
+          "harriet"
+        ]
+      },
+      "_said": "photographs only give Michael half the story. He knows who Harriet was looking at in the crowd, but he still doesn't know why she was looking at him with such terror. Right? that m"
+    },
+    {
+      "fp": "61mv4w",
+      "i": 99,
+      "from": 23462,
+      "subject": "Michael",
+      "entities": [
+        "michael"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Michael, 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "michael"
+        ]
+      },
+      "_said": "is where Larsson violently pivots the narrative. Up until this point, we the readers and Michael believe we are investigating"
+    },
+    {
+      "fp": "1uq193e",
+      "i": 100,
+      "from": 23678,
+      "subject": "Michael — notes",
+      "entities": [
+        "michael"
+      ],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Michael, 1966"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": [
+          "michael"
+        ]
+      },
+      "_said": "investigating a single tragic disappearance, the missing Aerys, but the diary reveals a much wider, much darker scope. Imagine you're Michael, right?"
+    },
+    {
+      "fp": "16ua2kl",
+      "i": 101,
+      "from": 23933,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "right? You're flipping through Harriet's Day planner from 1966. On one page, there's a list of five names and numbers."
+    },
+    {
+      "fp": "1lplsty",
+      "i": 102,
+      "from": 24127,
+      "subject": "law",
+      "entities": [],
+      "concept": "law",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "law, 1966"
+      },
+      "antidote": {
+        "concept": "law",
+        "set": null,
+        "cast": []
+      },
+      "_said": "numbers. Magda 32016, Sarah 32109, RJ 3011, RL 30 on my 20, Warie 3208. And for years, the police,"
+    },
+    {
+      "fp": "1rbad5g",
+      "i": 103,
+      "from": 24521,
+      "subject": "Henrik — notes",
+      "entities": [
+        "henrik"
+      ],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Henrik, 1966"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": [
+          "henrik"
+        ]
+      },
+      "_said": "police, Inspector Morel Henrik, they all assumed these were phone And why wouldn't they? In the context of a teenager's diary, a name next"
+    },
+    {
+      "fp": "i2whqy",
+      "i": 104,
+      "from": 24736,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "next to a five-digit number looks exactly like a phone book. It gets a contextual bias. When you look at an archive, you interpret it based on what you expect it to be. So true. An"
+    },
+    {
+      "fp": "1qkm3y4",
+      "i": 105,
+      "from": 24986,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, 1966"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": []
+      },
+      "_said": "it takes an outsider perspective to break that bias. Michael's teenage daughter is visiting and she casually points out that the numbers don't look like phone numbers at all. The s"
+    },
+    {
+      "fp": "1i08w7f",
+      "i": 106,
+      "from": 25238,
+      "subject": "Michael",
+      "entities": [
+        "michael"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Michael, runs to harriet's, 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "michael"
+        ]
+      },
+      "_said": "They look like scripture references, chapter and verse, which completely shifts everything. Yeah. Michael runs to Harriet's"
+    },
+    {
+      "fp": "8my8xu",
+      "i": 107,
+      "from": 25382,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Harriet's room, grabs her Bible, and realizes the horrifying truth. You aren't looking at a phone book. You're looking at a butcher's menu. The numbers are chapters and verses"
+    },
+    {
+      "fp": "ctrmzu",
+      "i": 108,
+      "from": 25600,
+      "subject": "Michael and Sweden — notes",
+      "entities": [
+        "michael",
+        "sweden"
+      ],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Michael and Sweden, 1966"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": [
+          "michael",
+          "sweden"
+        ]
+      },
+      "_said": "verses in Leviticus, the third book of the Penetuk. Michael cross references the initials and names from the diary with police archives of unsolved murders across Sweden. The align"
+    },
+    {
+      "fp": "dgvr5y",
+      "i": 109,
+      "from": 25975,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "stands for rebecca jacobson, 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "stands for Rebecca Jacobson. Her murder aligns"
+    },
+    {
+      "fp": "42v388",
+      "i": 110,
+      "from": 26052,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "aligns with Leviticus 1.12, a verse detailing burnt Oh man. Rebecca was killed in an explosion."
+    },
+    {
+      "fp": "1y115ks",
+      "i": 111,
+      "from": 26248,
+      "subject": "Michael",
+      "entities": [
+        "michael"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Michael, walk you through the horror of the next one, 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "michael"
+        ]
+      },
+      "_said": "explosion. Her murder masked by a bombing raid. But the methodology was fundamentally about Let me walk you through the horror of the next one just so you really feel the weight of"
+    },
+    {
+      "fp": "1su48dj",
+      "i": 112,
+      "from": 26534,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "uncovering. Magda. Her full name was Magda Levisa Shoberg. She aligns with Leviticus 20.1. The translation Larsson provides in the text reads, \"If"
+    },
+    {
+      "fp": "19x9d70",
+      "i": 113,
+      "from": 26793,
+      "subject": "grave",
+      "entities": [],
+      "concept": "grave",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "grave, 1966"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": null,
+        "cast": []
+      },
+      "_said": "\"If a woman approaches any beast and lies with it, you shall kill the woman and the beast. They shall be put to death. Their blood is upon them.\" It's just so dark. Magda was a far"
+    },
+    {
+      "fp": "yjfqld",
+      "i": 114,
+      "from": 27040,
+      "subject": "grave",
+      "entities": [],
+      "concept": "grave",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "grave, 1966"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": null,
+        "cast": []
+      },
+      "_said": "farmer's wife. She was murdered in a barn, tied up in a horse stall, and a cow in the stall was also stabbed to death. Then there's RL, which is Rakolund, aligned"
+    },
+    {
+      "fp": "74j9av",
+      "i": 115,
+      "from": 27305,
+      "subject": "grave",
+      "entities": [],
+      "concept": "grave",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "grave, 1966"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": null,
+        "cast": []
+      },
+      "_said": "aligned with Leviticus 20.27, 27 which mandates death by stoning. Mari aligns"
+    },
+    {
+      "fp": "xyh0x4",
+      "i": 116,
+      "from": 27446,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "aligns with Leviticus 20.1. The realization here operates on two levels. First, the killer was weaponizing scripture using the Bible as"
+    },
+    {
+      "fp": "sg45gd",
+      "i": 117,
+      "from": 27703,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "as an instruction manual for serial murder. But the second realization is crucial to our thesis about research."
+    },
+    {
+      "fp": "1jrn11e",
+      "i": 118,
+      "from": 27885,
+      "subject": "Harriet",
+      "entities": [
+        "harriet"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Harriet, running for her life, 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "harriet"
+        ]
+      },
+      "_said": "research. 16-year-old Harriet Vaner wasn't just a victim running for her life. She was an She was doing her own archival research. She had noticed"
+    },
+    {
+      "fp": "yf1u25",
+      "i": 119,
+      "from": 28137,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, 1966"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": []
+      },
+      "_said": "noticed the horrific behavior in her family. She sought out religious texts, not for spiritual comfort, but to decode the madness. She cracked the She connected"
+    },
+    {
+      "fp": "1xprbg6",
+      "i": 120,
+      "from": 28435,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "connected the horrific, seemingly random deaths of these women across the country to the biblical verses. She figured it out before she disappeared."
+    },
+    {
+      "fp": "1fv1ysl",
+      "i": 121,
+      "from": 28658,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "disappeared. The mystery fundamentally shifts from a single missing girl to a multi-deade serial murder pattern hidden in scripture."
+    },
+    {
+      "fp": "os4bit",
+      "i": 122,
+      "from": 28879,
+      "subject": "Michael",
+      "entities": [
+        "michael"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Michael, reading the bible, 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "michael"
+        ]
+      },
+      "_said": "scripture. And Michael solves it by reading the Bible. He strips it of its religious context and reads it as a forensic cipher. He treats the Bible as a database of murder methodol"
+    },
+    {
+      "fp": "13a9keu",
+      "i": 123,
+      "from": 29184,
+      "subject": "Michael — law",
+      "entities": [
+        "michael"
+      ],
+      "concept": "law",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Michael, reading old diaries, 1966"
+      },
+      "antidote": {
+        "concept": "law",
+        "set": null,
+        "cast": [
+          "michael"
+        ]
+      },
+      "_said": "Okay. So, if Michael Blomkvist represents the analog researcher spending hours scanning negatives, reading old diaries, pulling dusty police files from cardboard boxes,"
+    },
+    {
+      "fp": "qn9omu",
+      "i": 124,
+      "from": 29419,
+      "subject": "Elizabeth — door",
+      "entities": [
+        "elizabeth"
+      ],
+      "concept": "door",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Elizabeth, 1966"
+      },
+      "antidote": {
+        "concept": "door",
+        "cast": [
+          "elizabeth"
+        ]
+      },
+      "_said": "boxes, then Elizabeth Solander represents the ultimate digital evolution of that concept. Definitely. Let's talk about Elizabeth. She is the ultimate reader of our time. She doesn'"
+    },
+    {
+      "fp": "ovfbi6",
+      "i": 125,
+      "from": 29757,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "She doesn't charm secretaries into handing over files. She breaks into hard drives."
+    },
+    {
+      "fp": "44vdbx",
+      "i": 126,
+      "from": 29892,
+      "subject": "Michael",
+      "entities": [
+        "michael"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Michael, 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "michael"
+        ]
+      },
+      "_said": "drives. Before Michael even meets her, she's introduced to the reader through a background check she performs on him for Milton"
+    },
+    {
+      "fp": "edu3u8",
+      "i": 127,
+      "from": 30084,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "written down, 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Milton security. That Milton security report is a masterclass in modern surveillance. It demonstrates rather terrifyingly just how much of a person's life is already written down, "
+    },
+    {
+      "fp": "en3bki",
+      "i": 128,
+      "from": 30436,
+      "subject": "Michael",
+      "entities": [
+        "michael"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Michael, reads people the way a forensic accountant re, 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "michael"
+        ]
+      },
+      "_said": "doesn't need to follow Michael in a car. She doesn't need to wiretap his phone. She accesses databases, bank records, tax filings, credit card histories. She reads people the way a"
+    },
+    {
+      "fp": "12kv5ej",
+      "i": 129,
+      "from": 30859,
+      "subject": "Michael and Elizabeth",
+      "entities": [
+        "michael",
+        "elizabeth"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Michael and Elizabeth, 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "michael",
+          "elizabeth"
+        ]
+      },
+      "_said": "Elizabeth's methodology is challenged. Because when Michael brings her in to help identify the other murdered women on Harriet's list, Elizabeth faces a unique problem. Right. The "
+    },
+    {
+      "fp": "f1prk",
+      "i": 130,
+      "from": 31308,
+      "subject": "key",
+      "entities": [],
+      "concept": "key",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "key, 1966"
+      },
+      "antidote": {
+        "concept": "key",
+        "set": null,
+        "cast": []
+      },
+      "_said": "number, the Swedish equivalent of a social security number. With that, she can unlock any digital door. But here she has to find dead women based on incredibly vague data from"
+    },
+    {
+      "fp": "153hcvj",
+      "i": 131,
+      "from": 31627,
+      "subject": "law",
+      "entities": [],
+      "concept": "law",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "law, 1966"
+      },
+      "antidote": {
+        "concept": "law",
+        "set": null,
+        "cast": []
+      },
+      "_said": "from the 1950s and60s. Those files aren't digitized in neat modern police So she has to adapt her archival"
+    },
+    {
+      "fp": "at85lh",
+      "i": 132,
+      "from": 31872,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "archival skills. She can't search for a person. She has to search for an event. She uses search engines and keyword queries. She takes"
+    },
+    {
+      "fp": "1d30wov",
+      "i": 133,
+      "from": 32085,
+      "subject": "game",
+      "entities": [],
+      "concept": "game",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "game, 1966"
+      },
+      "antidote": {
+        "concept": "game",
+        "set": null,
+        "cast": []
+      },
+      "_said": "takes the specific grotesque methodologies outlined in the Leviticus verses and matches them to digitized archives of old regional newspapers"
+    },
+    {
+      "fp": "1mga6e7",
+      "i": 134,
+      "from": 32321,
+      "subject": "law",
+      "entities": [],
+      "concept": "law",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "law, 1966"
+      },
+      "antidote": {
+        "concept": "law",
+        "set": null,
+        "cast": []
+      },
+      "_said": "and unsolved police plotters. She types in combinations of words like murder, barn, animal, or stoning, unsolved,"
+    },
+    {
+      "fp": "su4rtv",
+      "i": 135,
+      "from": 32529,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "notes, 1966"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": []
+      },
+      "_said": "unsolved, cross-referencing them against the names and initials from the diary. It's a trail of purely digital breadcrumbs."
+    },
+    {
+      "fp": "azzqpf",
+      "i": 136,
+      "from": 32714,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "breadcrumbs. She finds Lisa Schoberg in an old digitized magazine article from a publication"
+    },
+    {
+      "fp": "d6j7y3",
+      "i": 137,
+      "from": 32848,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "publication called Verm Limculter. She pieces the entire serial"
+    },
+    {
+      "fp": "fx2cfa",
+      "i": 138,
+      "from": 32954,
+      "subject": "gift",
+      "entities": [],
+      "concept": "gift",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "gift, leaving her computer screen, 1966"
+      },
+      "antidote": {
+        "concept": "gift",
+        "cast": []
+      },
+      "_said": "serial killer timeline together without ever leaving her computer screen. It's amazing. She proves that in the modern world, if you know how to query the archive, if you know the r"
+    },
+    {
+      "fp": "s933wa",
+      "i": 139,
+      "from": 33302,
+      "subject": "heart",
+      "entities": [],
+      "concept": "heart",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "heart, 1966"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": null,
+        "cast": []
+      },
+      "_said": "Elizabeth's relationship with documentation isn't just theoretical or professional."
+    },
+    {
+      "fp": "1sqtt0j",
+      "i": 140,
+      "from": 33420,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "professional. It is intensely personal, and it governs how she navigates"
+    },
+    {
+      "fp": "19g9amr",
+      "i": 141,
+      "from": 33511,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "navigates a profoundly hostile Which brings us to the darkest, arguably"
+    },
+    {
+      "fp": "1uc3gd7",
+      "i": 142,
+      "from": 33691,
+      "subject": "law",
+      "entities": [],
+      "concept": "law",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "law, 1966"
+      },
+      "antidote": {
+        "concept": "law",
+        "set": null,
+        "cast": []
+      },
+      "_said": "arguably most crucial thematic moment in the text, her conflict with her legal guardian, Niels Berman. This is a difficult part of the story, but we really"
+    },
+    {
+      "fp": "1ytjavz",
+      "i": 143,
+      "from": 33955,
+      "subject": "Elizabeth — law",
+      "entities": [
+        "elizabeth"
+      ],
+      "concept": "law",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Elizabeth, 1966"
+      },
+      "antidote": {
+        "concept": "law",
+        "set": null,
+        "cast": [
+          "elizabeth"
+        ]
+      },
+      "_said": "really cannot understand Elizabeth or Larsson's thesis without it. Elizabeth is a ward of the state. Because of her turbulent past, her financial independence is controlled by a le"
+    },
+    {
+      "fp": "1higmkl",
+      "i": 144,
+      "from": 34298,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "a lawyer named Niels Burman. And Burman is a predator. He recognizes that she is trapped by the"
+    },
+    {
+      "fp": "1cmfdmr",
+      "i": 145,
+      "from": 34454,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "notes, 1966"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": []
+      },
+      "_said": "the state's paperwork. He uses her financial dependence, specifically her request for her own money to buy a new computer as leverage to sexually assault her. In legal terms, as th"
+    },
+    {
+      "fp": "1256xme",
+      "i": 146,
+      "from": 34759,
+      "subject": "Elizabeth — notes",
+      "entities": [
+        "elizabeth"
+      ],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Elizabeth, 1966"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": [
+          "elizabeth"
+        ]
+      },
+      "_said": "notes, it's sexual molestation and exploitation of a dependent. But for Elizabeth, it is a raw display of systemic force. He recognizes that she is entirely at the mercy of his dis"
+    },
+    {
+      "fp": "fo3hb9",
+      "i": 147,
+      "from": 35047,
+      "subject": "chains",
+      "entities": [],
+      "concept": "chains",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "chains, 1966"
+      },
+      "antidote": {
+        "concept": "chains",
+        "cast": []
+      },
+      "_said": "system, the state apparatus that assigned him to protect her, has completely failed. Now, let's look at how she reacts because it's defining. Her retaliation is not to try and esca"
+    },
+    {
+      "fp": "169cs5i",
+      "i": 148,
+      "from": 35330,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "running away, 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "system by running away. She doesn't go to the right? And why? because she knows her word as"
+    },
+    {
+      "fp": "clgbx6",
+      "i": 149,
+      "from": 35481,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "as a troubled documented ward of the state means absolutely nothing against a respected lawyer."
+    },
+    {
+      "fp": "65onw3",
+      "i": 150,
+      "from": 35657,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, 1966"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "lawyer. The system archives would just classify her as a hysterical liar. Her file says she is unstable. His file says he is a pillar of the community. So her weapon of choice is d"
+    },
+    {
+      "fp": "1t3qbuo",
+      "i": 151,
+      "from": 36043,
+      "subject": "home",
+      "entities": [],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "home, 1966"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": []
+      },
+      "_said": "breathtakingly calculated cold response. When she returns to his apartment knowing what he intends to do, she hides a camera in her rucks sack. She films the horrific rape. Mhm. Sh"
+    },
+    {
+      "fp": "112ddzz",
+      "i": 152,
+      "from": 36374,
+      "subject": "target",
+      "entities": [],
+      "concept": "target",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "target, 1966"
+      },
+      "antidote": {
+        "concept": "target",
+        "cast": []
+      },
+      "_said": "incontrovertible, objective digital record of his crime. She gets the file and then she turns the table. She ambushes"
+    },
+    {
+      "fp": "1k5ompp",
+      "i": 153,
+      "from": 36540,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "ambushes him, paralyzes him with a stun gun, and handcuffs him to his own bed. She explicitly tells him, \"I have taken control.\" But she doesn't just threaten him with a DVD. She t"
+    },
+    {
+      "fp": "1hhfzf2",
+      "i": 154,
+      "from": 36871,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "to a primal physical extreme. Yeah. She uses"
+    },
+    {
+      "fp": "s7wozu",
+      "i": 155,
+      "from": 36945,
+      "subject": "Tattoo",
+      "entities": [
+        "tattoo"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Tattoo, 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "tattoo"
+        ]
+      },
+      "_said": "uses a tattoo needle. She tattoos a confession onto his stomach. I am a sadist pig, a pervert, and a rapist. This is perhaps the"
+    },
+    {
+      "fp": "ht25gi",
+      "i": 156,
+      "from": 37168,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "the most profound manifestation of Lson's thesis in the entire novel."
+    },
+    {
+      "fp": "19c62c6",
+      "i": 157,
+      "from": 37296,
+      "subject": "Elizabeth",
+      "entities": [
+        "elizabeth"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Elizabeth, 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "elizabeth"
+        ]
+      },
+      "_said": "novel. Elizabeth turns Bure's physical body into an archive. I want you to really visualize that the"
+    },
+    {
+      "fp": "c86yq5",
+      "i": 158,
+      "from": 37471,
+      "subject": "Elizabeth — grave",
+      "entities": [
+        "elizabeth"
+      ],
+      "concept": "grave",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Elizabeth, 1966"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": null,
+        "cast": [
+          "elizabeth"
+        ]
+      },
+      "_said": "the system uses paper files to trap Elizabeth. So, Elizabeth uses Bure's own skin to trap him. She understands better than anyone that digital files can be deleted. Paperwork can b"
+    },
+    {
+      "fp": "12yk0ng",
+      "i": 159,
+      "from": 37824,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "by a corrupt bureaucracy. But by carving the truth into his flesh, she creates"
+    },
+    {
+      "fp": "1uyi4o9",
+      "i": 160,
+      "from": 37961,
+      "subject": "mirror",
+      "entities": [],
+      "concept": "mirror",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "mirror, 1966"
+      },
+      "antidote": {
+        "concept": "mirror",
+        "set": null,
+        "cast": []
+      },
+      "_said": "creates a permanent record that he cannot erase, delete, or hide from himself. He has to see it every time he takes off his shirt, every time he looks in a mirror. It's intense. It"
+    },
+    {
+      "fp": "1srdk5o",
+      "i": 161,
+      "from": 38321,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "the ultimate unerasable permanent file to ensure"
+    },
+    {
+      "fp": "1hvd9co",
+      "i": 162,
+      "from": 38412,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "ensure his compliance forever. She forces the abuser to wear his own criminal record. It's a brutal reclamation of power achieved entirely through the permanence of a record. Now,"
+    },
+    {
+      "fp": "1o8ci75",
+      "i": 163,
+      "from": 38702,
+      "subject": "Michael — work",
+      "entities": [
+        "michael"
+      ],
+      "concept": "work",
+      "place": "office",
+      "confidence": 0.85,
+      "vox": {
+        "shot": "Michael, office, 1966"
+      },
+      "antidote": {
+        "concept": "work",
+        "set": "office",
+        "cast": [
+          "michael"
+        ]
+      },
+      "_said": "Now, if Gearman represents an individual utilizing the secrecy of his office to abuse power, Larson scales that concept up immensely. When Michael looks at the Vanger"
+    },
+    {
+      "fp": "103iz9m",
+      "i": 164,
+      "from": 38940,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, 1966"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": []
+      },
+      "_said": "Vanger family, let's examine the Vanger family tree because this is where the societal critique really takes hold."
+    },
+    {
+      "fp": "gbnrr6",
+      "i": 165,
+      "from": 39105,
+      "subject": "Michael",
+      "entities": [
+        "michael"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Michael, 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "michael"
+        ]
+      },
+      "_said": "hold. To investigate Harriet's disappearance, Michael realizes he has to understand the soil she grew in. The Vanger clan is massive, spanning back centuries. It's so extensive and"
+    },
+    {
+      "fp": "1x5x9eu",
+      "i": 166,
+      "from": 39487,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, 1966"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": []
+      },
+      "_said": "to create a relational database in his eyebook just to keep the suspects straight. He gives each family member their own document file,"
+    },
+    {
+      "fp": "1c4wicw",
+      "i": 167,
+      "from": 39660,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, 1966"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": []
+      },
+      "_said": "file, cross- referencing their locations, their alibis, and their And as he fills those files, a history of profound darkness emerges. Henrik's father was a cold, unloving man. But"
+    },
+    {
+      "fp": "10vy24v",
+      "i": 168,
+      "from": 40077,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Henrik's brothers. And here, um, we need to be clear for you listening. We are impartially reporting"
+    },
+    {
+      "fp": "j01i29",
+      "i": 169,
+      "from": 40228,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "written in larsson's source text, 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "reporting the political affiliations of these fictional characters exactly as they are written in Larsson's source text. We are not taking sides or endorsing these historical ideol"
+    },
+    {
+      "fp": "1s4o6d5",
+      "i": 170,
+      "from": 40505,
+      "subject": "Michael — family",
+      "entities": [
+        "michael"
+      ],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Michael, reading the files michael uncovers, 1966"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": [
+          "michael"
+        ]
+      },
+      "_said": "reading the files Michael uncovers. Exactly. According to Henrik's account in the text, his eldest brother, Richard, was a fanatical nationalist and anti-semite who joined"
+    },
+    {
+      "fp": "1iif2wb",
+      "i": 171,
+      "from": 40785,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, 1966"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": []
+      },
+      "_said": "joined the Swedish National Socialist Freedom League in 1924. Another brother, Harold, was"
+    },
+    {
+      "fp": "2k1kz7",
+      "i": 172,
+      "from": 40958,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "notes, 1966"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": []
+      },
+      "_said": "was an active committed Nazi who wrote a book advocating for eugenics. specifically the sterilization and euthanization of minorities and the disabled. And a third brother, Greor, "
+    },
+    {
+      "fp": "13greho",
+      "i": 173,
+      "from": 41270,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "belonged to a crackpot extremist sect called"
+    },
+    {
+      "fp": "k9pc7",
+      "i": 174,
+      "from": 41337,
+      "subject": "Michael",
+      "entities": [
+        "michael"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Michael, 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "michael"
+        ]
+      },
+      "_said": "called the Nordic National Party in the '50s. So, Michael is looking at this database, and it's basically a roster of Swedish fascism. But what does this actually mean for the narr"
+    },
+    {
+      "fp": "1w2by3b",
+      "i": 175,
+      "from": 41700,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, 1966"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": []
+      },
+      "_said": "how dynastic generational wealth creates a filing system of silence. [snorts] The family is rife with these dark ideologies. You have Martin's"
+    },
+    {
+      "fp": "w33ncr",
+      "i": 176,
+      "from": 41961,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, 1966"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": []
+      },
+      "_said": "Martin's superficial hospitality, Cecilia's evasion, Isabella's outright cruelty, but it's all kept within the family compound"
+    },
+    {
+      "fp": "7q5ra5",
+      "i": 177,
+      "from": 42153,
+      "subject": "dominoCascade",
+      "entities": [],
+      "concept": "dominoCascade",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "domino cascade, 1966"
+      },
+      "antidote": {
+        "concept": "dominoCascade",
+        "cast": []
+      },
+      "_said": "compound at Etaby. The corporate structure, the sheer weight of their economic power in the region completely protects them from the scrutiny that would expose them. Exactly. It sh"
+    },
+    {
+      "fp": "ytzs62",
+      "i": 178,
+      "from": 42429,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, 1966"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": []
+      },
+      "_said": "shows that generational wealth allows a family to inherit"
+    },
+    {
+      "fp": "1pp1idd",
+      "i": 179,
+      "from": 42506,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "inherit the previous generation's sins and secrets right along with their stock portfolios. The bigotry, the abuse, the cruelty, all passed down, shielded"
+    },
+    {
+      "fp": "2qzh7g",
+      "i": 180,
+      "from": 42770,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, 1966"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": []
+      },
+      "_said": "shielded by the Vander Corporation's boardroom doors. The family tree is an archive of toxicity. And because they own the town, no one from the outside is allowed to audit it. That"
+    },
+    {
+      "fp": "i2fkac",
+      "i": 181,
+      "from": 43068,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "concept of the wealthy being shielded from audit leads us directly to the climax of the book, the"
+    },
+    {
+      "fp": "7go8w7",
+      "i": 182,
+      "from": 43212,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "the most horrifying revelation of the text, Martin's basement. This is where everything converges. I want to spend some real time here because this sequence is where Larson's"
+    },
+    {
+      "fp": "a83ijg",
+      "i": 183,
+      "from": 43452,
+      "subject": "Michael — grave",
+      "entities": [
+        "michael"
+      ],
+      "concept": "grave",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Michael, 1966"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": null,
+        "cast": [
+          "michael"
+        ]
+      },
+      "_said": "Larson's argument about archives moves from theoretical to life or death. Michael puts the pieces of the puzzle together. He identifies the serial killer. He goes"
+    },
+    {
+      "fp": "bxajsf",
+      "i": 184,
+      "from": 43740,
+      "subject": "Martin — home",
+      "entities": [
+        "martin"
+      ],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Martin, 1966"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": [
+          "martin"
+        ]
+      },
+      "_said": "goes to Martin Verger's house. Martin is the current CEO of the Vanka Corporation, Hendrickk's nephew. He has presented himself the entire novel as a modern, sophisticated, reasona"
+    },
+    {
+      "fp": "1jx1qfq",
+      "i": 185,
+      "from": 44066,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "reasonable, even friendly Swedish businessman. But"
+    },
+    {
+      "fp": "48gsxi",
+      "i": 186,
+      "from": 44131,
+      "subject": "Michael — chains",
+      "entities": [
+        "michael"
+      ],
+      "concept": "chains",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Michael, 1966"
+      },
+      "antidote": {
+        "concept": "chains",
+        "cast": [
+          "michael"
+        ]
+      },
+      "_said": "But when Michael gets too close, Merin drops the masks. He traps Michael. He pulls a gun, handcuffs him, kicks him brutally, and chains him by the neck to a metal eyelet in the flo"
+    },
+    {
+      "fp": "gz53r5",
+      "i": 187,
+      "from": 44477,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "specially constructed soundproofed basement beneath his modern Scandinavian And this room is"
+    },
+    {
+      "fp": "tgb5n6",
+      "i": 188,
+      "from": 44640,
+      "subject": "Michael and Martin — chains",
+      "entities": [
+        "michael",
+        "martin"
+      ],
+      "concept": "chains",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Michael and Martin, 1966"
+      },
+      "antidote": {
+        "concept": "chains",
+        "cast": [
+          "michael",
+          "martin"
+        ]
+      },
+      "_said": "is just a nightmare. Hang on, back up, though. He's chained to the floor and Martin just confesses. Why doesn't he just kill Michael She has confessed, but you have to understand w"
+    },
+    {
+      "fp": "ij3002",
+      "i": 189,
+      "from": 44968,
+      "subject": "lightbulb",
+      "entities": [],
+      "concept": "lightbulb",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "lightbulb, 1966"
+      },
+      "antidote": {
+        "concept": "lightbulb",
+        "cast": []
+      },
+      "_said": "It's not the cliche villain monologue where he wants to boast about his genius. He confesses because he is utterly secure in the system."
+    },
+    {
+      "fp": "kwdk3j",
+      "i": 190,
+      "from": 45221,
+      "subject": "Michael — chains",
+      "entities": [
+        "michael"
+      ],
+      "concept": "chains",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Michael, 1966"
+      },
+      "antidote": {
+        "concept": "chains",
+        "cast": [
+          "michael"
+        ]
+      },
+      "_said": "As Michael is chained to the floor, the true horror of the novel is bare. And the horror isn't just"
+    },
+    {
+      "fp": "ts7h4b",
+      "i": 191,
+      "from": 45393,
+      "subject": "Martin — family",
+      "entities": [
+        "martin"
+      ],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Martin, 1966"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": [
+          "martin"
+        ]
+      },
+      "_said": "just the physical violence, although the instruments of torture in that room are terrifying. Right? The true horror is systemic. Martin and his father got freed before him"
+    },
+    {
+      "fp": "bf66yp",
+      "i": 192,
+      "from": 45660,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "him have been killing women for decades. Workingclass women, cleaners, farmers wives, prostitutes, women"
+    },
+    {
+      "fp": "1rg5tuy",
+      "i": 193,
+      "from": 45811,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "women who are socially vulnerable. But how how does a man"
+    },
+    {
+      "fp": "10yp8kf",
+      "i": 194,
+      "from": 45912,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, 1966"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": []
+      },
+      "_said": "man or a father-son duo kill for 30 or 40 years without ever being caught? He kept going"
+    },
+    {
+      "fp": "covtd8",
+      "i": 195,
+      "from": 46053,
+      "subject": "Michael and Martin and Sweden",
+      "entities": [
+        "michael",
+        "martin",
+        "sweden"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Michael and Martin, 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "michael",
+          "martin",
+          "sweden"
+        ]
+      },
+      "_said": "going because corporate Sweden looked the other way. Martin explains to Michael that wealthy men's basements don't get inspected. He relied entirely on the systemic failure of"
+    },
+    {
+      "fp": "161fdrd",
+      "i": 196,
+      "from": 46348,
+      "subject": "Martin — law",
+      "entities": [
+        "martin"
+      ],
+      "concept": "law",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Martin, 1966"
+      },
+      "antidote": {
+        "concept": "law",
+        "set": null,
+        "cast": [
+          "martin"
+        ]
+      },
+      "_said": "of different provincial police departments to cross reference their paperwork. That is the key. Martin survived because"
+    },
+    {
+      "fp": "kutp8b",
+      "i": 197,
+      "from": 46538,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "because the archives remained siloed. A murdered farmer's wife"
+    },
+    {
+      "fp": "sttq0a",
+      "i": 198,
+      "from": 46637,
+      "subject": "law",
+      "entities": [],
+      "concept": "law",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "law, 1966"
+      },
+      "antidote": {
+        "concept": "law",
+        "set": null,
+        "cast": []
+      },
+      "_said": "wife in Carlstead, a dead cleaner in Lansona. These provincial police departments didn't share data. They didn't look for patterns outside"
+    },
+    {
+      "fp": "1cddgkk",
+      "i": 199,
+      "from": 46869,
+      "subject": "Martin and Sweden",
+      "entities": [
+        "martin",
+        "sweden"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Martin and Sweden, 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "martin",
+          "sweden"
+        ]
+      },
+      "_said": "outside their immediate jurisdiction. No, they didn't. Martin trusted that the filing cabinets of Sweden would never speak to each other."
+    },
+    {
+      "fp": "1jx1d6w",
+      "i": 200,
+      "from": 47068,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "read a cold case file from another county, 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "other. The systems bureaucratic inefficiency was his He assumed correctly for decades that a detective in one county would never care enough to read a cold case file from another c"
+    },
+    {
+      "fp": "d861qz",
+      "i": 201,
+      "from": 47481,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "nobody researches anything outside their own immediate purview. But"
+    },
+    {
+      "fp": "1gwa2o8",
+      "i": 202,
+      "from": 47587,
+      "subject": "law",
+      "entities": [],
+      "concept": "law",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "law, 1966"
+      },
+      "antidote": {
+        "concept": "law",
+        "set": null,
+        "cast": []
+      },
+      "_said": "But let me play devil's advocate here. If he was so secure, how is he finally defeated? It wasn't the police who caught him. No, he is defeated by his own hubris and by the"
+    },
+    {
+      "fp": "130xowm",
+      "i": 203,
+      "from": 47901,
+      "subject": "Michael and Martin — shield",
+      "entities": [
+        "michael",
+        "martin"
+      ],
+      "concept": "shield",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Michael and Martin, 1966"
+      },
+      "antidote": {
+        "concept": "shield",
+        "cast": [
+          "michael",
+          "martin"
+        ]
+      },
+      "_said": "the very archives he thought would protect him in the basement. Martin tells Michael he wasn't on the island"
+    },
+    {
+      "fp": "1ngu79d",
+      "i": 204,
+      "from": 48069,
+      "subject": "Harriet",
+      "entities": [
+        "harriet"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Harriet, 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "harriet"
+        ]
+      },
+      "_said": "island when Harriet disappeared. He lies to Michael's face, claiming he was away. And this"
+    },
+    {
+      "fp": "11sar6z",
+      "i": 205,
+      "from": 48221,
+      "subject": "Michael — war",
+      "entities": [
+        "michael"
+      ],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Michael, 1966"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": [
+          "michael"
+        ]
+      },
+      "_said": "is where Michael throws it back in his face. Michael is chained by the neck, bleeding, but he has the ultimate weapon, information. Michael says, \"You lied. You were in Hadistad at"
+    },
+    {
+      "fp": "72xu3q",
+      "i": 206,
+      "from": 48552,
+      "subject": "Harriet and Martin — shield",
+      "entities": [
+        "harriet",
+        "martin"
+      ],
+      "concept": "shield",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Harriet and Martin, 1966"
+      },
+      "antidote": {
+        "concept": "shield",
+        "cast": [
+          "harriet",
+          "martin"
+        ]
+      },
+      "_said": "Children's Day parade. You were photographed there looking at Harriet.\" It's a brilliant culminating moment. Martin thought he was safe because there were no living witnesses who d"
+    },
+    {
+      "fp": "1gbzbpo",
+      "i": 207,
+      "from": 48871,
+      "subject": "photo",
+      "entities": [],
+      "concept": "photo",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "photo, sitting in a cardboard box for 40 years, 1966"
+      },
+      "antidote": {
+        "concept": "photo",
+        "set": null,
+        "cast": []
+      },
+      "_said": "by a random photograph sitting in a cardboard box for 40 years. The documents caught him. His wealth couldn't bribe a photograph and his CEO"
+    },
+    {
+      "fp": "1sxcx9t",
+      "i": 208,
+      "from": 49108,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "CEO status couldn't intimidate a digital scanner."
+    },
+    {
+      "fp": "1924xzl",
+      "i": 209,
+      "from": 49195,
+      "subject": "coin",
+      "entities": [],
+      "concept": "coin",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "coin, 1966"
+      },
+      "antidote": {
+        "concept": "coin",
+        "cast": []
+      },
+      "_said": "scanner. Rigorous research breached the fortress that his money and privilege had built. It's an incredible realization. But Larsson doesn't stop there. He takes"
+    },
+    {
+      "fp": "v3w8e8",
+      "i": 210,
+      "from": 49425,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "takes this exact same methodology and applies it to a completely different kind of crime to close out the book. Because while Martin's"
+    },
+    {
+      "fp": "llcrzi",
+      "i": 211,
+      "from": 49615,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Martin's crimes were physical and visceral, Hans"
+    },
+    {
+      "fp": "80jlvr",
+      "i": 212,
+      "from": 49687,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Hans Eric Winterstrom's crimes are financial, yet they are dismantled using the exact same archival weapons. Let's remember the inciting incident of the whole novel."
+    },
+    {
+      "fp": "1486dd",
+      "i": 213,
+      "from": 49963,
+      "subject": "Michael — law",
+      "entities": [
+        "michael"
+      ],
+      "concept": "law",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Michael, 1966"
+      },
+      "antidote": {
+        "concept": "law",
+        "set": null,
+        "cast": [
+          "michael"
+        ]
+      },
+      "_said": "novel. Michael was sued for liel by Wnerstrom and Michael went to prison because he published an expose without sufficient documentary evidence to back it up. He knew Wennerström w"
+    },
+    {
+      "fp": "r6w2kp",
+      "i": 214,
+      "from": 50345,
+      "subject": "Elizabeth — law",
+      "entities": [
+        "elizabeth"
+      ],
+      "concept": "law",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Elizabeth, 1966"
+      },
+      "antidote": {
+        "concept": "law",
+        "set": null,
+        "cast": [
+          "elizabeth"
+        ]
+      },
+      "_said": "court. Enter Elizabeth Solander. How does a 24year-old hacker take down"
+    },
+    {
+      "fp": "gpmuom",
+      "i": 215,
+      "from": 50479,
+      "subject": "lightbulb",
+      "entities": [],
+      "concept": "lightbulb",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "lightbulb, 1966"
+      },
+      "antidote": {
+        "concept": "lightbulb",
+        "cast": []
+      },
+      "_said": "down a billionaire financial criminal? She doesn't go undercover at his high society parties. She doesn't try to interrogate his associates or flip an informant. She hacks his life"
+    },
+    {
+      "fp": "bo1g76",
+      "i": 216,
+      "from": 50844,
+      "subject": "lightbulb",
+      "entities": [],
+      "concept": "lightbulb",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "lightbulb, 1966"
+      },
+      "antidote": {
+        "concept": "lightbulb",
+        "cast": []
+      },
+      "_said": "invented by her hacker friend Plague. She physically breaks into Wedstrom's"
+    },
+    {
+      "fp": "pp6bgu",
+      "i": 217,
+      "from": 50933,
+      "subject": "home",
+      "entities": [],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "home, 1966"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": []
+      },
+      "_said": "Wedstrom's apartment, attaches it to his broadband cable, and essentially mirrors his entire hard drive back to her own computer. She sits"
+    },
+    {
+      "fp": "uwruul",
+      "i": 218,
+      "from": 51134,
+      "subject": "home",
+      "entities": [],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "home, sits in her apartment drinking coffee and re, 1966"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": []
+      },
+      "_said": "sits in her apartment drinking coffee and reads the labyrinth of his global I love how we can visualize this. Instead of a peeling onion, think of Wennerström's"
+    },
+    {
+      "fp": "e3pei",
+      "i": 219,
+      "from": 51405,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Wennerström's finances like a digital matriarch doll. You open the outermost doll, a trading company"
+    },
+    {
+      "fp": "oxb3rv",
+      "i": 220,
+      "from": 51581,
+      "subject": "work",
+      "entities": [],
+      "concept": "work",
+      "place": "office",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "work, office, 1966"
+      },
+      "antidote": {
+        "concept": "work",
+        "set": "office",
+        "cast": []
+      },
+      "_said": "company in Stockholm. Inside is a post office box in Jibralar. You open that and it's a dormant company in Santiago. Inside that is an account at Chase Manhattan"
+    },
+    {
+      "fp": "17j44l2",
+      "i": 221,
+      "from": 51864,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Manhattan in New York. And the innermost doll is completely empty. It's just a routing number pointing to a bank in the Cayman's. It's"
+    },
+    {
+      "fp": "1h3cyuq",
+      "i": 222,
+      "from": 52063,
+      "subject": "Elizabeth",
+      "entities": [
+        "elizabeth"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Elizabeth, 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "elizabeth"
+        ]
+      },
+      "_said": "It's a massive encrypted convoluted web of shell companies designed specifically to be impenetrable to auditors. But Elizabeth solves"
+    },
+    {
+      "fp": "3gc2fb",
+      "i": 223,
+      "from": 52303,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "reads the records, 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "solves this massive geopolitical financial crime the exact same way she solved the serial murders in the Vanger case. She reads the records"
+    },
+    {
+      "fp": "11plz96",
+      "i": 224,
+      "from": 52536,
+      "subject": "Michael — notes",
+      "entities": [
+        "michael"
+      ],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Michael, write about, 1966"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": [
+          "michael"
+        ]
+      },
+      "_said": "records that were hidden in plain sight, or at least hidden behind firewalls. She doesn't just expose him to the press for Michael to write about. She actively drains his accounts."
+    },
+    {
+      "fp": "vmdtqr",
+      "i": 225,
+      "from": 52903,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "own set of untraceable digital dolls. She"
+    },
+    {
+      "fp": "184q2ne",
+      "i": 226,
+      "from": 52965,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "She lets the paperwork, the digital ones and zeros, completely convict and destroy the man. It is the ultimate validation of Larson's thesis. The"
+    },
+    {
+      "fp": "1qhlzgm",
+      "i": 227,
+      "from": 53186,
+      "subject": "law",
+      "entities": [],
+      "concept": "law",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "law, 1966"
+      },
+      "antidote": {
+        "concept": "law",
+        "set": null,
+        "cast": []
+      },
+      "_said": "The most dangerous weapon against a corrupt billionaire isn't a gun. It isn't a bomb. And it isn't even the police. It is a researcher with unrestricted access to their filing cabi"
+    },
+    {
+      "fp": "184d1uk",
+      "i": 228,
+      "from": 53558,
+      "subject": "Martin — shield",
+      "entities": [
+        "martin"
+      ],
+      "concept": "shield",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Martin, 1966"
+      },
+      "antidote": {
+        "concept": "shield",
+        "cast": [
+          "martin"
+        ]
+      },
+      "_said": "much like Martin Vanker's safety, was entirely dependent on his archives remaining secret. Once they were read, his power evaporated instantly. It's"
+    },
+    {
+      "fp": "f6bxu6",
+      "i": 229,
+      "from": 53815,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "It's an incredibly satisfying conclusion. But, you know, as with any deep dive, we have to look"
+    },
+    {
+      "fp": "ma4ln",
+      "i": 230,
+      "from": 53945,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "look at the whole picture objectively. We need to introduce a counterpoint. Based on the sources we've analyzed today, there is an honest criticism of how this world is Yes. When w"
+    },
+    {
+      "fp": "h5oczd",
+      "i": 231,
+      "from": 54307,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "built a world defined entirely by archives, files, and the control of information. A"
+    },
+    {
+      "fp": "1ex07f",
+      "i": 232,
+      "from": 54436,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "A stark pattern emerges regarding how women are portrayed within that narrative structure. Exactly. Based purely on the text provided, it seems like the women in Larsson's world ex"
+    },
+    {
+      "fp": "1ijmnwj",
+      "i": 233,
+      "from": 54871,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "erased, victimized entities. They are reduced to literal files"
+    },
+    {
+      "fp": "1nhz94w",
+      "i": 234,
+      "from": 54979,
+      "subject": "law",
+      "entities": [],
+      "concept": "law",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "law, 1966"
+      },
+      "antidote": {
+        "concept": "law",
+        "set": null,
+        "cast": []
+      },
+      "_said": "files in forgotten police boxes. Magda, Rebecca, Rackle, they're dead, silenced, and exist only as gruesome data points"
+    },
+    {
+      "fp": "119i9yt",
+      "i": 235,
+      "from": 55207,
+      "subject": "Michael and Elizabeth",
+      "entities": [
+        "michael",
+        "elizabeth"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Michael and Elizabeth, 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "michael",
+          "elizabeth"
+        ]
+      },
+      "_said": "points for Michael and Elizabeth to discover. Yeah. And even Elizabeth herself during the horrific assault by Berman is temporarily forced into this category of the powerless victi"
+    },
+    {
+      "fp": "1lcl5zn",
+      "i": 236,
+      "from": 55528,
+      "subject": "Elizabeth — funnelTrap",
+      "entities": [
+        "elizabeth"
+      ],
+      "concept": "funnelTrap",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Elizabeth, 1966"
+      },
+      "antidote": {
+        "concept": "funnelTrap",
+        "cast": [
+          "elizabeth"
+        ]
+      },
+      "_said": "mercy of a corrupt bureaucratic system. Right? And then on the absolute other end of the spectrum, women become these omnisient, almost mythical avengers who seize total ruthless c"
+    },
+    {
+      "fp": "gvewek",
+      "i": 237,
+      "from": 55908,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "inscribes her vengeance onto Berman's body and hacks her way to global financial supremacy. Or Erica Burgerer, who manages the press and controls the flow of information"
+    },
+    {
+      "fp": "179l84i",
+      "i": 238,
+      "from": 56136,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "information at Millennium Magazine with an iron fist. The critique here is that in this corporate"
+    },
+    {
+      "fp": "cgfcow",
+      "i": 239,
+      "from": 56268,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "corporate archival landscape Larsson paints, women are either brutalized into becoming cold case files or they must become hyper competent,"
+    },
+    {
+      "fp": "hhe6in",
+      "i": 240,
+      "from": 56517,
+      "subject": "funnelTrap",
+      "entities": [],
+      "concept": "funnelTrap",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "funnel trap, 1966"
+      },
+      "antidote": {
+        "concept": "funnelTrap",
+        "cast": []
+      },
+      "_said": "competent, ruthless manipulators of the archive to survive and exact justice. The middle spectrum of ordinary complex female existence seems somewhat absent in"
+    },
+    {
+      "fp": "1sty4mg",
+      "i": 241,
+      "from": 56817,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "in the overarching plot mechanics defined by these It's a very valid observation and it highlights just how extreme the stakes are in this novel's universe. So, let's pull all"
+    },
+    {
+      "fp": "mwak3e",
+      "i": 242,
+      "from": 57120,
+      "subject": "road",
+      "entities": [],
+      "concept": "road",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "road, 1966"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": null,
+        "cast": []
+      },
+      "_said": "all of this together and summarize the journey we've been on. The Girl"
+    },
+    {
+      "fp": "pkftcv",
+      "i": 243,
+      "from": 57230,
+      "subject": "Tattoo",
+      "entities": [
+        "tattoo"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Tattoo, 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "tattoo"
+        ]
+      },
+      "_said": "Girl with the Dragon Tattoo is a brilliant slight of hand. It tricks you into thinking you are settling in for a cozy classic locked room mystery on"
+    },
+    {
+      "fp": "gi4t0p",
+      "i": 244,
+      "from": 57468,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "reading is a manifesto on the power of it, 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "on a snowy Swedish island. But what you are actually reading is a manifesto on the power of It is a story that argues that violence and corruption thrive in the dark dusty spaces b"
+    },
+    {
+      "fp": "1vt01k2",
+      "i": 245,
+      "from": 57801,
+      "subject": "Martin",
+      "entities": [
+        "martin"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Martin, 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "martin"
+        ]
+      },
+      "_said": "cabinets. The villains Martin Vanker, Niels Purman, Hans Eric Winterstrom all operate"
+    },
+    {
+      "fp": "naxiib",
+      "i": 246,
+      "from": 57938,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "operate on the fundamental assumption that systems will fail. They trust that jurisdictions won't talk to each other, that databases"
+    },
+    {
+      "fp": "1vrh5lu",
+      "i": 247,
+      "from": 58101,
+      "subject": "hourglass",
+      "entities": [],
+      "concept": "hourglass",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "hourglass, read the fine but why should you care? you d, 1966"
+      },
+      "antidote": {
+        "concept": "hourglass",
+        "set": null,
+        "cast": []
+      },
+      "_said": "databases will remain siloed, and that nobody will ever have the patience to read the fine But why should you care? You don't live on Habib Island. You aren't"
+    },
+    {
+      "fp": "17iya1c",
+      "i": 248,
+      "from": 58317,
+      "subject": "water",
+      "entities": [],
+      "concept": "water",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "water, 1966"
+      },
+      "antidote": {
+        "concept": "water",
+        "set": null,
+        "cast": []
+      },
+      "_said": "aren't a disgraced Swedish journalist. But we do live in an era of infinite information overload. We are drowning in data every single day. And what this story proves is that true "
+    },
+    {
+      "fp": "xbv2rv",
+      "i": 249,
+      "from": 58677,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "lie in simply possessing the data."
+    },
+    {
+      "fp": "1kj5m95",
+      "i": 250,
+      "from": 58733,
+      "subject": "Henrik",
+      "entities": [
+        "henrik"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Henrik, 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "henrik"
+        ]
+      },
+      "_said": "data. Henrik Banker possessed those parade photos for 40 years and got absolutely nowhere. exactly nowhere. Power lies in the willingness to look closely, to cross reference, and t"
+    },
+    {
+      "fp": "z16my2",
+      "i": 251,
+      "from": 59210,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "sitting right there in plain, 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "in some dramatic secret vault. It's usually sitting right there in plain"
+    },
+    {
+      "fp": "1qycx8z",
+      "i": 252,
+      "from": 59308,
+      "subject": "home",
+      "entities": [],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "home, waiting for someone to ask the right question, 1966"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": []
+      },
+      "_said": "plain sight, scattered across different formats, just waiting for someone to ask the right question and run the right search query. Which brings us right back to where we started, "
+    },
+    {
+      "fp": "2soqn8",
+      "i": 253,
+      "from": 59681,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "your own digital footprint today. the databases, the tax filings, the location tracking on your phone, the background checks, your surftories."
+    },
+    {
+      "fp": "1m47wnx",
+      "i": 254,
+      "from": 59904,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "sit down at her laptop and read the filing, 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "If Liz Beth Cylinder were to sit down at her laptop and read the filing cabinet of your life right now, what story would your paperwork tell about you? Are we"
+    },
+    {
+      "fp": "1yi2u2m",
+      "i": 255,
+      "from": 60170,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "waiting to be, 1966"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "we all just archives waiting to be"
+    }
+  ]
+}

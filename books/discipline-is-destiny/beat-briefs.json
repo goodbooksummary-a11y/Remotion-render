@@ -1,0 +1,6803 @@
+{
+  "slug": "discipline-is-destiny",
+  "authored": false,
+  "briefs": [
+    {
+      "fp": "xn075",
+      "i": 0,
+      "from": 0,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "For 14 straight years, a man shows up with broken fingers and a spine that aches"
+    },
+    {
+      "fp": "oc7xef",
+      "i": 1,
+      "from": 153,
+      "subject": "Never — phone",
+      "entities": [
+        "never"
+      ],
+      "concept": "phone",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Never, 1981"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": null,
+        "cast": [
+          "never"
+        ]
+      },
+      "_said": "aches every morning. 2,130 games, never one missed. They called"
+    },
+    {
+      "fp": "1f2avvs",
+      "i": 2,
+      "from": 309,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone, 1981"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": null,
+        "cast": []
+      },
+      "_said": "called Luke Garri the iron horse. He wasn't the most gifted Yankee alive. He just refused ever not to show up. Yeah. And that that exact image"
+    },
+    {
+      "fp": "74s8pc",
+      "i": 3,
+      "from": 590,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "image of Garri, you know, just grinding it out day after day, it brings us right to the heart of this massive societal misunderstanding we have,"
+    },
+    {
+      "fp": "bvvr5b",
+      "i": 4,
+      "from": 823,
+      "subject": "Discipline — chains",
+      "entities": [
+        "discipline"
+      ],
+      "concept": "chains",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Discipline, holds themselves to a relentlessly strict sta, 1981"
+      },
+      "antidote": {
+        "concept": "chains",
+        "cast": [
+          "discipline"
+        ]
+      },
+      "_said": "have, right? Because we look at a life like Garrick's or or really anyone who holds themselves to a relentlessly strict standard and we immediately classify it as a cage. We think,"
+    },
+    {
+      "fp": "1yn2l1i",
+      "i": 5,
+      "from": 1248,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "form of self-inflicted deprivation. Like these people are somehow missing out on the actual joy of life."
+    },
+    {
+      "fp": "i9ktx0",
+      "i": 6,
+      "from": 1399,
+      "subject": "Selfdiscipline — chains",
+      "entities": [
+        "selfdiscipline"
+      ],
+      "concept": "chains",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Selfdiscipline, 1981"
+      },
+      "antidote": {
+        "concept": "chains",
+        "cast": [
+          "selfdiscipline"
+        ]
+      },
+      "_said": "life. But the underlying reality completely flips that Self-discipline isn't a cage at all. No, it's not."
+    },
+    {
+      "fp": "b9yrl",
+      "i": 7,
+      "from": 1574,
+      "subject": "Selfdiscipline — alarmClock",
+      "entities": [
+        "selfdiscipline"
+      ],
+      "concept": "alarmClock",
+      "place": "bedroom",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Selfdiscipline, bedroom, 1981"
+      },
+      "antidote": {
+        "concept": "alarmClock",
+        "set": "bedroom",
+        "cast": [
+          "selfdiscipline"
+        ]
+      },
+      "_said": "not. Self-discipline is freedom. It's the undisiplined person who is completely owned. Mhm. I mean, they are a literal slave to their own appetites, their their shifting moods, the"
+    },
+    {
+      "fp": "17u7ogp",
+      "i": 8,
+      "from": 1888,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone, 1981"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": null,
+        "cast": []
+      },
+      "_said": "clock, the endless scroll on their phone. Oh, man. The endless scroll. We all know that feeling, right? It's only"
+    },
+    {
+      "fp": "4f1uo9",
+      "i": 9,
+      "from": 2073,
+      "subject": "chains",
+      "entities": [],
+      "concept": "chains",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "chains, holding the key, 1981"
+      },
+      "antidote": {
+        "concept": "chains",
+        "cast": []
+      },
+      "_said": "only the disciplined person who actually owns themselves. Because by building the cage yourself, you are the one holding the key. Like, if you don't construct your"
+    },
+    {
+      "fp": "v2rrzm",
+      "i": 10,
+      "from": 2318,
+      "subject": "chains",
+      "entities": [],
+      "concept": "chains",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "chains, 1981"
+      },
+      "antidote": {
+        "concept": "chains",
+        "cast": []
+      },
+      "_said": "your own parameters, your biology, your unexamined impulses, the whole external world, they will simply build a cage for"
+    },
+    {
+      "fp": "19w8543",
+      "i": 11,
+      "from": 2520,
+      "subject": "alarmClock",
+      "entities": [],
+      "concept": "alarmClock",
+      "place": "bedroom",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "alarm clock, bedroom, 1981"
+      },
+      "antidote": {
+        "concept": "alarmClock",
+        "set": "bedroom",
+        "cast": []
+      },
+      "_said": "for you. They'll do it for you and you won't even realize you're trapped. Exactly. I mean, think about your own mornings. When the alarm goes off in the pitch dark and it's freezin"
+    },
+    {
+      "fp": "krual3",
+      "i": 12,
+      "from": 2839,
+      "subject": "alarmClock",
+      "entities": [],
+      "concept": "alarmClock",
+      "place": "bedroom",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "alarm clock, bedroom, 1981"
+      },
+      "antidote": {
+        "concept": "alarmClock",
+        "set": "bedroom",
+        "cast": []
+      },
+      "_said": "charge? That's the real test. Is it the conscious version of you that set the alarm the night before because you have like actual goals you want to hit or is it the"
+    },
+    {
+      "fp": "1pkxob9",
+      "i": 13,
+      "from": 3113,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "walk into because simply, 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "warm blankets? Usually the blankets, right? But that daily choice that that momentary completely private struggle it physically builds the future we walk into because simply"
+    },
+    {
+      "fp": "o0mhbe",
+      "i": 14,
+      "from": 3446,
+      "subject": "Discipline",
+      "entities": [
+        "discipline"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Discipline, 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "discipline"
+        ]
+      },
+      "_said": "simply put discipline is And Lou Gerri is the absolute perfect embodiment of that daily choice just"
+    },
+    {
+      "fp": "1vz318s",
+      "i": 15,
+      "from": 3676,
+      "subject": "game",
+      "entities": [],
+      "concept": "game",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "game, 1981"
+      },
+      "antidote": {
+        "concept": "game",
+        "set": null,
+        "cast": []
+      },
+      "_said": "just compounding over decades. Like the 2030 consecutive game streak is so famous it's almost mythical."
+    },
+    {
+      "fp": "1ohpbe0",
+      "i": 16,
+      "from": 3861,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "mythical. Right. Yeah. It's just a number on a page to most people now. But the sheer staggering physical reality of the feet gets totally lost in that mythology. I mean, back"
+    },
+    {
+      "fp": "k4paeo",
+      "i": 17,
+      "from": 4159,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "back in the 1920s and 30s, the regular season was 152 games."
+    },
+    {
+      "fp": "asi8rg",
+      "i": 18,
+      "from": 4289,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "games. Garrick played from April to October for 17 years almost entirely without a single day of rest, which is insane."
+    },
+    {
+      "fp": "e2yv2q",
+      "i": 19,
+      "from": 4521,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "insane. Performing at the absolute highest level of professional sports. And and keep in mind, this wasn't modern baseball, right? No charter jets. No charter jets,"
+    },
+    {
+      "fp": "nrwmad",
+      "i": 20,
+      "from": 4757,
+      "subject": "road",
+      "entities": [],
+      "concept": "road",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "road, 1981"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": null,
+        "cast": []
+      },
+      "_said": "jets, no hyperbaric chambers, no sport scientists monitoring his, you know, player load. They were traveling hundreds of thousands of miles on hot,"
+    },
+    {
+      "fp": "aorz0v",
+      "i": 21,
+      "from": 5001,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "hot, rattling trains, bumping around on terrible buses. Exactly. And he played through severe fevers. He played through blinding He suffered from lago, too, which is severe lower b"
+    },
+    {
+      "fp": "buqutl",
+      "i": 22,
+      "from": 5388,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "stand up out of a chair, 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "who has ever tweaked their lumbar spine knows it is an accomplishment just to like stand up out of a chair, let alone torque your entire body to swing a heavy ashwood bat against a"
+    },
+    {
+      "fp": "1xz2klz",
+      "i": 23,
+      "from": 5688,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "fastball. It's agonizing just thinking about it."
+    },
+    {
+      "fp": "1ffju5s",
+      "i": 24,
+      "from": 5755,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "it. The mechanics of hitting a baseball require this explosive rotational force from the core and the lower back. Doing that"
+    },
+    {
+      "fp": "1611pwi",
+      "i": 25,
+      "from": 5978,
+      "subject": "work",
+      "entities": [],
+      "concept": "work",
+      "place": "office",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "work, office, 1981"
+      },
+      "antidote": {
+        "concept": "work",
+        "set": "office",
+        "cast": []
+      },
+      "_said": "that with Lombago day after day is I mean it's almost incomprehensible. And the medical records we actually have on him are genuinely shocking. Oh yeah. The hands. Yes. At one poin"
+    },
+    {
+      "fp": "ho9oe7",
+      "i": 26,
+      "from": 6338,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "x-rays of Gerri's hands just to figure out why he was experiencing some stiffness. And they were stunned to find at least 17 fully"
+    },
+    {
+      "fp": "n48it",
+      "i": 27,
+      "from": 6583,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "fully healed fractures. Wait, like 17 separate breaks? 17"
+    },
+    {
+      "fp": "yxfxfq",
+      "i": 28,
+      "from": 6696,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "17 separate fractures that had just healed on their own. He literally broke nearly every finger on his hands over the years."
+    },
+    {
+      "fp": "1ojpug3",
+      "i": 29,
+      "from": 6892,
+      "subject": "Never — game",
+      "entities": [
+        "never"
+      ],
+      "concept": "game",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Never, 1981"
+      },
+      "antidote": {
+        "concept": "game",
+        "set": null,
+        "cast": [
+          "never"
+        ]
+      },
+      "_said": "years. Never told the manager. Never took a day off. Just let the bones fuse back together. Just let them fuse while he kept taking the field. I mean, he would just tape the broken"
+    },
+    {
+      "fp": "17h53y0",
+      "i": 30,
+      "from": 7293,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "that one specific incident that perfectly captures this"
+    },
+    {
+      "fp": "6cs01d",
+      "i": 31,
+      "from": 7370,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "this whole mindset. [snorts] He was at the plate and a wild pitch hit him directly in the head. Oh, this story is crazy,"
+    },
+    {
+      "fp": "ptwn3z",
+      "i": 32,
+      "from": 7565,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "crazy, right? Because this was an era long before batting helmets. The impact was so violent it knocked him completely unconscious. He just lay in the dirt for 5 minutes."
+    },
+    {
+      "fp": "by55ja",
+      "i": 33,
+      "from": 7843,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "minutes. Everyone thought he was dead or at least done for the year. Right. The immediate assumption from everyone in the stadium was that his season or you know at least his month"
+    },
+    {
+      "fp": "1dofpqk",
+      "i": 34,
+      "from": 8181,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "head was swollen so severely from the trauma that his own fitted cap wouldn't even go on his head. It didn't fit. So what does he do? He borrows"
+    },
+    {
+      "fp": "1fy0l7u",
+      "i": 35,
+      "from": 8462,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "walks up to the plate with a massive, 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "borrows Babe Ruth's larger hat, walks up to the plate with a massive"
+    },
+    {
+      "fp": "1hphbwe",
+      "i": 36,
+      "from": 8580,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "massive concussion and hits three Three triples with a concussion. It feels like this deeply bluecollar mindset applied to a highly"
+    },
+    {
+      "fp": "1o3fc9v",
+      "i": 37,
+      "from": 8853,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "highly glamorous Yeah, that's exactly what it is. He wasn't out there acting like a celebrity or some baseball god. He operated with the mentality of like a factory worker clocking"
+    },
+    {
+      "fp": "1u3frxf",
+      "i": 38,
+      "from": 9201,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, 1981"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": []
+      },
+      "_said": "because of his background. Yeah. He was a first generation American, the only one of four children in his family to survive infancy. He grew up in genuine poverty, like wearing kha"
+    },
+    {
+      "fp": "spwni",
+      "i": 39,
+      "from": 9518,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, 1981"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": []
+      },
+      "_said": "brutal New York winters without a coat because his family simply couldn't afford one. He learned at a cellular level that dependability was completely"
+    },
+    {
+      "fp": "1olaqoy",
+      "i": 40,
+      "from": 9729,
+      "subject": "work",
+      "entities": [],
+      "concept": "work",
+      "place": "office",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "work, office, 1981"
+      },
+      "antidote": {
+        "concept": "work",
+        "set": "office",
+        "cast": []
+      },
+      "_said": "completely non-negotiable. You do the job. You do the job. And Garrick's own framing of his life gives us this great window into"
+    },
+    {
+      "fp": "1o3hz7l",
+      "i": 41,
+      "from": 9948,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "into the psychology of this. He once famously remarked, uh, I am a slave to baseball. Which sounds intense, right? Out of context. A modern listener hears that and thinks, \"Wow, th"
+    },
+    {
+      "fp": "9smg3m",
+      "i": 42,
+      "from": 10291,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "tragic or oppressive.\" But the crucial distinction here is that he was a willing slave. He chose it. He intentionally chose his master. And because he chose his master"
+    },
+    {
+      "fp": "ms2d0z",
+      "i": 43,
+      "from": 10584,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "master and respected the grueling demands of the work, he"
+    },
+    {
+      "fp": "1twlvm1",
+      "i": 44,
+      "from": 10668,
+      "subject": "butterfly",
+      "entities": [],
+      "concept": "butterfly",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "butterfly, 1981"
+      },
+      "antidote": {
+        "concept": "butterfly",
+        "set": null,
+        "cast": []
+      },
+      "_said": "he insulated himself from the chaos and the vices that absolutely destroyed the careers of so many of his"
+    },
+    {
+      "fp": "qa440i",
+      "i": 45,
+      "from": 10867,
+      "subject": "Discipline and Never",
+      "entities": [
+        "discipline",
+        "never"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Discipline and Never, 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "discipline",
+          "never"
+        ]
+      },
+      "_said": "his Yeah. Because discipline is rarely the grand cinematic gesture we see in movies. It never is. It's the grueling, deeply unsexy act of showing up on the ordinary"
+    },
+    {
+      "fp": "1r9uj5x",
+      "i": 46,
+      "from": 11153,
+      "subject": "storm",
+      "entities": [],
+      "concept": "storm",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "storm, 1981"
+      },
+      "antidote": {
+        "concept": "storm",
+        "set": null,
+        "cast": []
+      },
+      "_said": "ordinary unwatched rainy Tuesday when you least feel like And he had to make that choice early"
+    },
+    {
+      "fp": "106plth",
+      "i": 47,
+      "from": 11296,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "early on. There's this brilliant story from his minor league days that really highlights this."
+    },
+    {
+      "fp": "lfgees",
+      "i": 48,
+      "from": 11397,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "this. Garrick was in a slump feeling the pressure and he went out with some teammates and got incredibly drunk as minor leaguers do. As they do. But surprisingly, he went out the n"
+    },
+    {
+      "fp": "1qvj9yx",
+      "i": 49,
+      "from": 11776,
+      "subject": "game",
+      "entities": [],
+      "concept": "game",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "game, 1981"
+      },
+      "antidote": {
+        "concept": "game",
+        "set": null,
+        "cast": []
+      },
+      "_said": "played a brilliant game. Like he found that the residual effects of the alcohol actually turned"
+    },
+    {
+      "fp": "k8kasa",
+      "i": 50,
+      "from": 11928,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "turned off his overthinking. Oh, it quieted his brain. Exactly. The hangover"
+    },
+    {
+      "fp": "a1spq3",
+      "i": 51,
+      "from": 12038,
+      "subject": "game",
+      "entities": [],
+      "concept": "game",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "game, 1981"
+      },
+      "antidote": {
+        "concept": "game",
+        "set": null,
+        "cast": []
+      },
+      "_said": "hangover suppressed his anxiety, but its seasoned coach recognized the exact"
+    },
+    {
+      "fp": "m4hx68",
+      "i": 52,
+      "from": 12189,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "exact pathology of what was happening there. He saw the trap. He pulled the young Garrick aside and gave him the severe warning about the long-term poison of shortcuts. The"
+    },
+    {
+      "fp": "14i13uk",
+      "i": 53,
+      "from": 12460,
+      "subject": "game",
+      "entities": [],
+      "concept": "game",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "game, 1981"
+      },
+      "antidote": {
+        "concept": "game",
+        "set": null,
+        "cast": []
+      },
+      "_said": "The coach explained the mechanism, like relying on a chemical release or the dulling effect of a hangover, it might work to bypass anxiety for a single afternoon, but treating a sy"
+    },
+    {
+      "fp": "1pjr2g0",
+      "i": 54,
+      "from": 12837,
+      "subject": "work",
+      "entities": [],
+      "concept": "work",
+      "place": "office",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "work, office, 1981"
+      },
+      "antidote": {
+        "concept": "work",
+        "set": "office",
+        "cast": []
+      },
+      "_said": "destroy his foundational skills and his entire career. And Garri actually listened. He processed that warning and dropped the habit instantly. He made a conscious,"
+    },
+    {
+      "fp": "zushe4",
+      "i": 55,
+      "from": 13082,
+      "subject": "funnelTrap",
+      "entities": [],
+      "concept": "funnelTrap",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "funnel trap, 1981"
+      },
+      "antidote": {
+        "concept": "funnelTrap",
+        "cast": []
+      },
+      "_said": "conscious, disciplined choice to prioritize his deep long-term ambition of being a great ball player over the momentary relief of a shortcut because"
+    },
+    {
+      "fp": "1qwblzs",
+      "i": 56,
+      "from": 13293,
+      "subject": "chains",
+      "entities": [],
+      "concept": "chains",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "chains, 1981"
+      },
+      "antidote": {
+        "concept": "chains",
+        "cast": []
+      },
+      "_said": "because he recognized that the hangover cure was a track. It's false freedom. Totally false. The alcohol gave him a temporary release from his anxiety, but it would have eventually"
+    },
+    {
+      "fp": "1udiqli",
+      "i": 57,
+      "from": 13565,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "demanded ownership of his But but wait, here's the tension in Garri story that I keep bumping up"
+    },
+    {
+      "fp": "1rllqz7",
+      "i": 58,
+      "from": 13761,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "up Okay, what is it? If you are stubbornly playing with 17 broken fingers and stepping into the batter's box with a severe concussion, at what point does that level of grind actual"
+    },
+    {
+      "fp": "1pp78je",
+      "i": 59,
+      "from": 14124,
+      "subject": "Discipline",
+      "entities": [
+        "discipline"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Discipline, 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "discipline"
+        ]
+      },
+      "_said": "you? That's a great question. Like, is there a point where extreme discipline curdles into just stubborn ego where you become"
+    },
+    {
+      "fp": "xtzrpv",
+      "i": 60,
+      "from": 14349,
+      "subject": "game",
+      "entities": [],
+      "concept": "game",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "game, 1981"
+      },
+      "antidote": {
+        "concept": "game",
+        "set": null,
+        "cast": []
+      },
+      "_said": "become a liability to the team just to keep your own personal streak alive? It's the perfect question and the"
+    },
+    {
+      "fp": "5ewgr0",
+      "i": 61,
+      "from": 14527,
+      "subject": "Discipline and Never — work",
+      "entities": [
+        "discipline",
+        "never"
+      ],
+      "concept": "work",
+      "place": "office",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Discipline and Never, office, 1981"
+      },
+      "antidote": {
+        "concept": "work",
+        "set": "office",
+        "cast": [
+          "discipline",
+          "never"
+        ]
+      },
+      "_said": "the end of Garri's career answers it flawlessly because his discipline was never rooted in vanity. If we jump forward to 1939, Garri is suffering from the early stages of ALS, whic"
+    },
+    {
+      "fp": "9h6urp",
+      "i": 62,
+      "from": 14877,
+      "subject": "medical",
+      "entities": [],
+      "concept": "medical",
+      "place": "hospital",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "medical, hospital, 1981"
+      },
+      "antidote": {
+        "concept": "medical",
+        "set": "hospital",
+        "cast": []
+      },
+      "_said": "horrific degenerative neurological disease. It is. And though he hasn't received the official medical diagnosis yet, his motor skills are actively failing."
+    },
+    {
+      "fp": "1k9xzo1",
+      "i": 63,
+      "from": 15132,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "failing. He's struggling with basic tasks like just pulling on his uniform pants in the locker room. His swing is losing all its"
+    },
+    {
+      "fp": "1q86rg",
+      "i": 64,
+      "from": 15321,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "its but he's still playing. He's still playing because he is the iron horse,"
+    },
+    {
+      "fp": "u387l",
+      "i": 65,
+      "from": 15439,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "horse, right? He's gutting it out, trying to find a way to contribute. But then on this ordinary day"
+    },
+    {
+      "fp": "14dyqyn",
+      "i": 66,
+      "from": 15585,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "day in May, he fielded a routine ground ball at first It was a play he had made thousands upon"
+    },
+    {
+      "fp": "ry9fle",
+      "i": 67,
+      "from": 15787,
+      "subject": "alarmClock",
+      "entities": [],
+      "concept": "alarmClock",
+      "place": "bedroom",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "alarm clock, bedroom, 1981"
+      },
+      "antidote": {
+        "concept": "alarmClock",
+        "set": "bedroom",
+        "cast": []
+      },
+      "_said": "upon thousands of times in his sleep. Right. When he finally recorded the out, his teammates"
+    },
+    {
+      "fp": "8yii0c",
+      "i": 68,
+      "from": 15945,
+      "subject": "home",
+      "entities": [],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "home, walk-off home run, 1981"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": []
+      },
+      "_said": "teammates celebrated the play with this massive, overwhelming enthusiasm, treating it like he had just hit a walk-off home run"
+    },
+    {
+      "fp": "1pecti3",
+      "i": 69,
+      "from": 16152,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "run in the world series, 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "run in the World Series. Oh man,"
+    },
+    {
+      "fp": "2map92",
+      "i": 70,
+      "from": 16207,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "man, they were cheering out of pity. That is the ultimate insult to a fierce And in that exact moment, the illusion"
+    },
+    {
+      "fp": "1810zkt",
+      "i": 71,
+      "from": 16430,
+      "subject": "crack",
+      "entities": [],
+      "concept": "crack",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "crack, 1981"
+      },
+      "antidote": {
+        "concept": "crack",
+        "cast": []
+      },
+      "_said": "illusion shattered for him. He saw the objective truth of his physical decline."
+    },
+    {
+      "fp": "2a6qhf",
+      "i": 72,
+      "from": 16569,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone, holding the team back, 1981"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": null,
+        "cast": []
+      },
+      "_said": "decline. He realized that his failing body was now actively holding the team back. And he didn't wait to be called into the manager's office. He didn't make them fire him. No, he d"
+    },
+    {
+      "fp": "1649mu1",
+      "i": 73,
+      "from": 16951,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "to his manager, Joe McCarthy, and just said, \"I guess the time has come."
+    },
+    {
+      "fp": "19kjbe9",
+      "i": 74,
+      "from": 17076,
+      "subject": "game",
+      "entities": [],
+      "concept": "game",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "game, 1981"
+      },
+      "antidote": {
+        "concept": "game",
+        "set": null,
+        "cast": []
+      },
+      "_said": "come. Put Babape Dog Grin in.\" His ultimate master was always the team. Not his legendary streak, and certainly not his pride. He"
+    },
+    {
+      "fp": "19b3a5f",
+      "i": 75,
+      "from": 17301,
+      "subject": "Discipline",
+      "entities": [
+        "discipline"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Discipline, walk away when it was the right thing to do, 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "discipline"
+        ]
+      },
+      "_said": "He had the staggering discipline to endure two decades of physical pain. But he possessed the even rarer, heartbreaking discipline to walk away when it was the right thing to do."
+    },
+    {
+      "fp": "grbypl",
+      "i": 76,
+      "from": 17596,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "do. Because the strength to stop is sometimes vastly more demanding than the strength to keep going. And I think that transition perfectly sets up the broader"
+    },
+    {
+      "fp": "184rkp",
+      "i": 77,
+      "from": 17846,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "broader philosophical framework we're exploring here. Garri chose to be a willing slave to baseball so he wouldn't be a slave to his"
+    },
+    {
+      "fp": "1d7tyw2",
+      "i": 78,
+      "from": 18062,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "his own fleeting impulses or his own fears. That"
+    },
+    {
+      "fp": "1imyga1",
+      "i": 79,
+      "from": 18153,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, 1981"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "That internal battle of choosing your master is arguably the oldest fight in human Oh, without a doubt. We can trace this exact internal tension all the way back to"
+    },
+    {
+      "fp": "15vgfn6",
+      "i": 80,
+      "from": 18439,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "to the Roman Empire. We see it playing out in the mind of the most powerful man on the planet at the"
+    },
+    {
+      "fp": "k8ahz7",
+      "i": 81,
+      "from": 18581,
+      "subject": "Marcus — coin",
+      "entities": [
+        "marcus"
+      ],
+      "concept": "coin",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Marcus, 1981"
+      },
+      "antidote": {
+        "concept": "coin",
+        "cast": [
+          "marcus"
+        ]
+      },
+      "_said": "the time, Marcus Aurelius. Marcus Aurelius. This was an emperor with absolute unchecked power. He possessed infinite wealth."
+    },
+    {
+      "fp": "1ycg7hr",
+      "i": 82,
+      "from": 18763,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, 1981"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "wealth. He commanded He could do literally whatever he wanted. He had the ability to have literally anyone else do his work, fight his battles, or manage his empire for him."
+    },
+    {
+      "fp": "ugabx6",
+      "i": 83,
+      "from": 19075,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "notes, 1981"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": []
+      },
+      "_said": "him. Yet through his private journal, which we now know"
+    },
+    {
+      "fp": "soy0uj",
+      "i": 84,
+      "from": 19171,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "know as meditations, we have direct access to his internal monologue. We can read his"
+    },
+    {
+      "fp": "2m4sb1",
+      "i": 85,
+      "from": 19344,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "his personal unguarded thoughts as he tries to drag himself out of a warm bed before dawn. I have to say it is incredibly comforting to know that the emperor of Rome struggled with"
+    },
+    {
+      "fp": "wdy8gi",
+      "i": 86,
+      "from": 19706,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "do on a Tuesday morning in November. It's so relatable."
+    },
+    {
+      "fp": "1s7pqg7",
+      "i": 87,
+      "from": 19788,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "notes, writes down his own rationalizations like, 1981"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": []
+      },
+      "_said": "relatable. He's literally arguing with himself under the covers. He writes down his own rationalizations like, \"Is this what I was created for? To huddle under the blankets and sta"
+    },
+    {
+      "fp": "88vz0s",
+      "i": 88,
+      "from": 20068,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "aggressively challenges his own lethargy. He directs his mind to observe the natural world around him. He tells himself to look at the plants, the birds, the ants, the spiders, the"
+    },
+    {
+      "fp": "1rmqatd",
+      "i": 89,
+      "from": 20371,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "thing, right? All going about their individual task, putting the world in order, doing exactly what they were designed by nature to do. And then he turns"
+    },
+    {
+      "fp": "1hg6umx",
+      "i": 90,
+      "from": 20563,
+      "subject": "work",
+      "entities": [],
+      "concept": "work",
+      "place": "office",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "work, office, 1981"
+      },
+      "antidote": {
+        "concept": "work",
+        "set": "office",
+        "cast": []
+      },
+      "_said": "turns the question on himself and asks, \"And you're not willing to do your job as a human being.\" Yeah. The core insight"
+    },
+    {
+      "fp": "1i26oqp",
+      "i": 91,
+      "from": 20774,
+      "subject": "Marcus",
+      "entities": [
+        "marcus"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Marcus, 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "marcus"
+        ]
+      },
+      "_said": "insight Marcus is wrestling with is that the person who cannot say no to the immediate comfort of a warm bed isn't actually free. They are owned by the bed."
+    },
+    {
+      "fp": "qftwj9",
+      "i": 92,
+      "from": 21026,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone, 1981"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": null,
+        "cast": []
+      },
+      "_said": "bed. Wow. Yeah. The person who cannot resist looking at their phone the second it buzzes is owned by a piece of glass and The person who cannot control their temper is owned by who"
+    },
+    {
+      "fp": "23r1kq",
+      "i": 93,
+      "from": 21372,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "arrives when you establish yourself as your own, 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "them. True unassalable autonomy only arrives when you establish yourself as your own master."
+    },
+    {
+      "fp": "i9q41s",
+      "i": 94,
+      "from": 21523,
+      "subject": "Marcus — war",
+      "entities": [
+        "marcus"
+      ],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Marcus, 1981"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": [
+          "marcus"
+        ]
+      },
+      "_said": "master. Right. So Marcus was fighting the biological pull of warmth and rest, but but what happens when your biology is actively aggressively fighting you back? Like a chemical"
+    },
+    {
+      "fp": "1qp3paj",
+      "i": 95,
+      "from": 21806,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "chemical dependency. Exactly. When it's not just comfort, but a deeply ingrained addiction. Look at Dwight D. D. Oh, this"
+    },
+    {
+      "fp": "1qse4hj",
+      "i": 96,
+      "from": 22001,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "this is a phenomenal example. The man had a 38-year fourpack a day smoking habit. He was deeply chemically addicted to nicotine. Then he gets appointed supreme commander"
+    },
+    {
+      "fp": "arwh49",
+      "i": 97,
+      "from": 22303,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, 1981"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "commander of the Allied forces in World War II. Just a little bit of pressure, just a tiny bit. He is suddenly thrust into a position where"
+    },
+    {
+      "fp": "11l0v1s",
+      "i": 98,
+      "from": 22507,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, 1981"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "where he is commanding an army of 3 million men, coordinating a global war effort, and making decisions that will literally dictate the fate of the free world. Yeah. And faced with"
+    },
+    {
+      "fp": "1szp139",
+      "i": 99,
+      "from": 22857,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "monumental responsibility, he gives himself a direct unequivocal order to quit smoking."
+    },
+    {
+      "fp": "q2vnv",
+      "i": 100,
+      "from": 23021,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "smoking. Cold turkey. And the psychology of how he executed that is so fascinating. He told his aid, \"The only way to stop is to stop. There was no tapering off. No nicotine patche"
+    },
+    {
+      "fp": "1sxahzg",
+      "i": 101,
+      "from": 23385,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, 1981"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "patches, no rationalizing that well the stress of the war justified the habit. He just stopped. The mechanism at play here is this profound shift in identity."
+    },
+    {
+      "fp": "zqggj5",
+      "i": 102,
+      "from": 23659,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "identity. He recognized that a man tasked with commanding the free world cannot allow himself"
+    },
+    {
+      "fp": "1ndr6f5",
+      "i": 103,
+      "from": 23786,
+      "subject": "tree",
+      "entities": [],
+      "concept": "tree",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "tree, 1981"
+      },
+      "antidote": {
+        "concept": "tree",
+        "set": null,
+        "cast": []
+      },
+      "_said": "himself to be commanded by a cylinder of dried leaves. It just highlights the ultimate paradox of this entire concept."
+    },
+    {
+      "fp": "p0azw5",
+      "i": 104,
+      "from": 23959,
+      "subject": "chains",
+      "entities": [],
+      "concept": "chains",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "chains, walk out into actual durable freedom, 1981"
+      },
+      "antidote": {
+        "concept": "chains",
+        "cast": []
+      },
+      "_said": "concept. Locking yourself in a rigid, unyielding cage of your own rules is exactly what presides you the keys to walk out into actual durable freedom."
+    },
+    {
+      "fp": "ls2byj",
+      "i": 105,
+      "from": 24175,
+      "subject": "Discipline — chains",
+      "entities": [
+        "discipline"
+      ],
+      "concept": "chains",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Discipline, 1981"
+      },
+      "antidote": {
+        "concept": "chains",
+        "cast": [
+          "discipline"
+        ]
+      },
+      "_said": "freedom. Because if you don't build the If you don't build the cage of discipline for yourself, your nicotine addiction builds it. Your desire for the warm blanket builds it."
+    },
+    {
+      "fp": "11s52nu",
+      "i": 106,
+      "from": 24458,
+      "subject": "codeWindow",
+      "entities": [],
+      "concept": "codeWindow",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "code window, 1981"
+      },
+      "antidote": {
+        "concept": "codeWindow",
+        "set": null,
+        "cast": []
+      },
+      "_said": "it. The algorithm on your social media feed builds it. And because Eisenhower exerted that absolute level of bodily control, he proved to himself that he could trust his own direct"
+    },
+    {
+      "fp": "jnby49",
+      "i": 107,
+      "from": 24845,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "eventually the United States without being compromised by his own impulses. He conquered the geopolitical world, but only because he conquered his own biology first."
+    },
+    {
+      "fp": "a56om9",
+      "i": 108,
+      "from": 25147,
+      "subject": "Discipline",
+      "entities": [
+        "discipline"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Discipline, 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "discipline"
+        ]
+      },
+      "_said": "first. Discipline is destiny. To master the mind, the schedule, and ultimately your destiny, you have to start at the foundational level. You have to start"
+    },
+    {
+      "fp": "duuho6",
+      "i": 109,
+      "from": 25396,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "start with the physical vessel. You have to, you simply cannot command a high performing mind if it is housed in a body that you refuse to command."
+    },
+    {
+      "fp": "1383658",
+      "i": 110,
+      "from": 25588,
+      "subject": "alarmClock",
+      "entities": [],
+      "concept": "alarmClock",
+      "place": "bedroom",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "alarm clock, bedroom, 1981"
+      },
+      "antidote": {
+        "concept": "alarmClock",
+        "set": "bedroom",
+        "cast": []
+      },
+      "_said": "command. The material frames this as the first domain, the body. The cold water of a morning shower, the early alarm clock, the plate of food pushed away when you were still slight"
+    },
+    {
+      "fp": "t8wuq5",
+      "i": 111,
+      "from": 25953,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "acts of self- flagagillation or Right? It's not about suffering just to No, they are the practice fields for life's bigger, much"
+    },
+    {
+      "fp": "nkrfyj",
+      "i": 112,
+      "from": 26167,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, 1981"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "much more consequential battles. If you can win the battle over your own physical comfort in the trivial moments, you build"
+    },
+    {
+      "fp": "1fp8ure",
+      "i": 113,
+      "from": 26354,
+      "subject": "work",
+      "entities": [],
+      "concept": "work",
+      "place": "office",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "work, office, 1981"
+      },
+      "antidote": {
+        "concept": "work",
+        "set": "office",
+        "cast": []
+      },
+      "_said": "build the neurological pathways required to win when the stakes are massive. Tony Morrison's early career is a complete masterclass in commanding the physical schedule to secure"
+    },
+    {
+      "fp": "z3smwj",
+      "i": 114,
+      "from": 26630,
+      "subject": "trophy",
+      "entities": [],
+      "concept": "trophy",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "trophy, 1981"
+      },
+      "antidote": {
+        "concept": "trophy",
+        "cast": []
+      },
+      "_said": "secure intellectual Oh, her routine was legendary. Back in 1965, long before she won the Nobel Prize, before she was a household name, she"
+    },
+    {
+      "fp": "dv88d7",
+      "i": 115,
+      "from": 26889,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, 1981"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": []
+      },
+      "_said": "she was a 34year-old single mother of two young boys. She was working full-time as a senior editor for Random House in New York. She was busy. She was completely"
+    },
+    {
+      "fp": "xbt3f8",
+      "i": 116,
+      "from": 27120,
+      "subject": "alarmClock",
+      "entities": [],
+      "concept": "alarmClock",
+      "place": "bedroom",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "alarm clock, bedroom, 1981"
+      },
+      "antidote": {
+        "concept": "alarmClock",
+        "set": "bedroom",
+        "cast": []
+      },
+      "_said": "completely tapped out in terms of time and energy. Her solution was to wake up in the pitch dark. She famously said"
+    },
+    {
+      "fp": "163jlxm",
+      "i": 117,
+      "from": 27300,
+      "subject": "star",
+      "entities": [],
+      "concept": "star",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "star, 1981"
+      },
+      "antidote": {
+        "concept": "star",
+        "set": null,
+        "cast": []
+      },
+      "_said": "said that the morning light was her signal. Her goal wasn't just to be awake in the light. It was about"
+    },
+    {
+      "fp": "r29e36",
+      "i": 118,
+      "from": 27422,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "notes, 1981"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": []
+      },
+      "_said": "about being present at her desk before the sun arrived, before anyone else beated her. Exactly. She wrote her"
+    },
+    {
+      "fp": "1aoee6t",
+      "i": 119,
+      "from": 27585,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "her early novels before her kids could even utter the word mama before the massive pile"
+    },
+    {
+      "fp": "1p73vkq",
+      "i": 120,
+      "from": 27715,
+      "subject": "work",
+      "entities": [],
+      "concept": "work",
+      "place": "office",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "work, office, 1981"
+      },
+      "antidote": {
+        "concept": "work",
+        "set": "office",
+        "cast": []
+      },
+      "_said": "pile of demanding manuscripts from her day job required her critical attention. And in that incredibly narrow early morning window, she engineered a state of complete freedom."
+    },
+    {
+      "fp": "4s0me",
+      "i": 121,
+      "from": 28044,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "There's a fascinating neurological principle at work here. Actually,"
+    },
+    {
+      "fp": "1xtta1y",
+      "i": 122,
+      "from": 28156,
+      "subject": "wallet",
+      "entities": [],
+      "concept": "wallet",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "wallet, 1981"
+      },
+      "antidote": {
+        "concept": "wallet",
+        "cast": []
+      },
+      "_said": "Actually, the neuroscientist Lisa Feldman Barrett describes the brain as regulating a body A body budget. Okay."
+    },
+    {
+      "fp": "o0qrxv",
+      "i": 123,
+      "from": 28358,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Okay. Yeah. Think of it like a bank account. Every time you make a decision, filter out"
+    },
+    {
+      "fp": "1yldace",
+      "i": 124,
+      "from": 28473,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "out a distraction, suppress an emotion, or process external stimuli, you are spending"
+    },
+    {
+      "fp": "12jpgkz",
+      "i": 125,
+      "from": 28620,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "spending metabolic currency. You are physically depleting glucose in the prefrontal cortex, which is why you feel so drained after a day of just answering emails."
+    },
+    {
+      "fp": "1oit5iz",
+      "i": 126,
+      "from": 28876,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "wait until the end of a grueling day to do, 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "emails. Exactly. If you wait until the end of a grueling day to do"
+    },
+    {
+      "fp": "covqlv",
+      "i": 127,
+      "from": 28977,
+      "subject": "wallet",
+      "entities": [],
+      "concept": "wallet",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "wallet, 1981"
+      },
+      "antidote": {
+        "concept": "wallet",
+        "cast": []
+      },
+      "_said": "do your most important work after making thousands of micro decisions, your body budget is entirely bankrupt. Your brain simply does not have the resources to resist the impulse to"
+    },
+    {
+      "fp": "16p50h1",
+      "i": 128,
+      "from": 29282,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "rest. So Morrison has bypassed that entirely. She intuitively understood this science long before it was named. She knew she wasn't particularly sharp"
+    },
+    {
+      "fp": "1wqd756",
+      "i": 129,
+      "from": 29505,
+      "subject": "chains",
+      "entities": [],
+      "concept": "chains",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "chains, 1981"
+      },
+      "antidote": {
+        "concept": "chains",
+        "cast": []
+      },
+      "_said": "sharp or creative after the sun went down. She secured her intellectual freedom by aggressively securing her morning. It's"
+    },
+    {
+      "fp": "1w2bpkn",
+      "i": 130,
+      "from": 29688,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "notes, 1981"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": []
+      },
+      "_said": "It's so interesting because we tend to romanticize writing and and really"
+    },
+    {
+      "fp": "1a1g69j",
+      "i": 131,
+      "from": 29798,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "really creative work in general as this ethereal mystical act of inspired Oh, totally."
+    },
+    {
+      "fp": "1igm94k",
+      "i": 132,
+      "from": 30002,
+      "subject": "coffee",
+      "entities": [],
+      "concept": "coffee",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "coffee, waiting by the window with a cup of coffee for, 1981"
+      },
+      "antidote": {
+        "concept": "coffee",
+        "set": null,
+        "cast": []
+      },
+      "_said": "totally. The tortured artist, right? We picture the writer waiting by the window with a cup of coffee for the muse to strike."
+    },
+    {
+      "fp": "1da0c77",
+      "i": 133,
+      "from": 30177,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "notes, write the american masterpiece, 1981"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": []
+      },
+      "_said": "strike. But Morrison treated the creation of literature like farming. Yes. You get up in the dark to milk the cows, or in her case, to write the American masterpiece. You don't wai"
+    },
+    {
+      "fp": "1h64ie8",
+      "i": 134,
+      "from": 30564,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "a.m. through sheer physical You corner it. Exactly."
+    },
+    {
+      "fp": "4jmone",
+      "i": 135,
+      "from": 30679,
+      "subject": "alarmClock",
+      "entities": [],
+      "concept": "alarmClock",
+      "place": "bedroom",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "alarm clock, bedroom, 1981"
+      },
+      "antidote": {
+        "concept": "alarmClock",
+        "set": "bedroom",
+        "cast": []
+      },
+      "_said": "Exactly. And mastering the physical domain isn't just about when you wake up. It's about what you demand of your physical form itself. Theore"
+    },
+    {
+      "fp": "1xkugxl",
+      "i": 136,
+      "from": 30890,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Theore Roosevelt is one of the most extreme examples of Roosevelt's physical transformation is just legendary. He was born with severe terrifying asthma,"
+    },
+    {
+      "fp": "1u0g6hp",
+      "i": 137,
+      "from": 31145,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "leaving him gasping for air, 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "asthma, like life-threatening asthma. Right. As a child, his lungs would rebel at the slightest stress or physical exertion, leaving him gasping for air, often feeling like"
+    },
+    {
+      "fp": "x3nybg",
+      "i": 138,
+      "from": 31411,
+      "subject": "shield",
+      "entities": [],
+      "concept": "shield",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "shield, 1981"
+      },
+      "antidote": {
+        "concept": "shield",
+        "cast": []
+      },
+      "_said": "like he was suffocating. The medical advice of the era was to accept a sedentary, highly protected, quiet life. Just stay indoors and read. That"
+    },
+    {
+      "fp": "1sbm916",
+      "i": 139,
+      "from": 31701,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, 1981"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": []
+      },
+      "_said": "That was the prescription. Instead, at the urging of his father, he chose to aggressively combat"
+    },
+    {
+      "fp": "l8amsn",
+      "i": 140,
+      "from": 31865,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone, 1981"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": null,
+        "cast": []
+      },
+      "_said": "his physical limitations. He embraced what he famously called"
+    },
+    {
+      "fp": "10q59jd",
+      "i": 141,
+      "from": 31968,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone, 1981"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": null,
+        "cast": []
+      },
+      "_said": "called the strenuous life. He built a gymnasium on the porch of his home. He boxed relentlessly. He hiked rugged terrain. He intentionally took freezing swims"
+    },
+    {
+      "fp": "a9k1g9",
+      "i": 142,
+      "from": 32244,
+      "subject": "water",
+      "entities": [],
+      "concept": "water",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "water, 1981"
+      },
+      "antidote": {
+        "concept": "water",
+        "set": null,
+        "cast": []
+      },
+      "_said": "swims in the Ptoac River. Just forcing his body to adapt. He viewed his weak body not as a"
+    },
+    {
+      "fp": "12x4dkm",
+      "i": 143,
+      "from": 32431,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "a life sentence, but as clay that he was personally responsible for molding. And even during his time as president"
+    },
+    {
+      "fp": "ggc1ef",
+      "i": 144,
+      "from": 32621,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "of the United States, managing the affairs of a rapidly expanding global power, he consistently prioritized getting a couple of hours of intense physical exercise in"
+    },
+    {
+      "fp": "13kllff",
+      "i": 145,
+      "from": 32913,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "sit with that for a second, 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "in the afternoons. Let's sit with that for a second. A couple of hours of exercise while running the country every day. We"
+    },
+    {
+      "fp": "54agj0",
+      "i": 146,
+      "from": 33084,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "We all tell ourselves we are too busy to go for a 20-minute jog and the president is blocking out two hours for judo and No excuses. And the contrast between"
+    },
+    {
+      "fp": "v9kwnm",
+      "i": 147,
+      "from": 33319,
+      "subject": "trophy",
+      "entities": [],
+      "concept": "trophy",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "trophy, 1981"
+      },
+      "antidote": {
+        "concept": "trophy",
+        "cast": []
+      },
+      "_said": "between Roosevelt's mastery of his physical vessel and those who surrender to their appetites is incredibly stark. Look"
+    },
+    {
+      "fp": "7di53q",
+      "i": 148,
+      "from": 33492,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Look at the British monarchy during a similar era. Look at King George IV. Oh, King George IV serves as the tragic, grotesque counter example"
+    },
+    {
+      "fp": "1gnugy9",
+      "i": 149,
+      "from": 33763,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "example to Roosevelt. He had access to the finest resources in the world, yet he was completely enslaved by his appetites."
+    },
+    {
+      "fp": "1b04qe0",
+      "i": 150,
+      "from": 33965,
+      "subject": "food",
+      "entities": [],
+      "concept": "food",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "food, 1981"
+      },
+      "antidote": {
+        "concept": "food",
+        "set": null,
+        "cast": []
+      },
+      "_said": "appetites. He's the guy who ate the pigeons, right? Yes. His documented daily breakfast consisted of two whole pigeons, three large steaks, a near full bottle of wine, and a glass "
+    },
+    {
+      "fp": "1d3wci0",
+      "i": 151,
+      "from": 34301,
+      "subject": "alarmClock",
+      "entities": [],
+      "concept": "alarmClock",
+      "place": "bedroom",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "alarm clock, bedroom, 1981"
+      },
+      "antidote": {
+        "concept": "alarmClock",
+        "set": "bedroom",
+        "cast": []
+      },
+      "_said": "brandy for breakfast. For breakfast, he ate and drank with such relentless, unexamined gluttony that he eventually became so morbidly obese he couldn't even sleep lying down in a b"
+    },
+    {
+      "fp": "bzogdg",
+      "i": 152,
+      "from": 34608,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "breathe. Right. The sheer weight of his own chest would esphyxiate him if he lay flat. His"
+    },
+    {
+      "fp": "11wmaoj",
+      "i": 153,
+      "from": 34737,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "His attendants literally had to manufacture a physical stamp for his royal signature because his lethargy was so profound he lacked the physical energy to sign state That is incred"
+    },
+    {
+      "fp": "vj6vgo",
+      "i": 154,
+      "from": 35177,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "next to Lou Gerri. Babe Ruth was arguably the most naturally talented baseball player to ever live, but"
+    },
+    {
+      "fp": "zthj8e",
+      "i": 155,
+      "from": 35352,
+      "subject": "heart",
+      "entities": [],
+      "concept": "heart",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "heart, 1981"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": null,
+        "cast": []
+      },
+      "_said": "but his relationship with his own body was catastrophic."
+    },
+    {
+      "fp": "1p9mrio",
+      "i": 156,
+      "from": 35419,
+      "subject": "food",
+      "entities": [],
+      "concept": "food",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "food, 1981"
+      },
+      "antidote": {
+        "concept": "food",
+        "set": null,
+        "cast": []
+      },
+      "_said": "catastrophic. Complete opposite of Garig. Ruth's idea of a balanced breakfast was a pint of whiskey mixed with ginger ale followed by massive portions of steaks, eggs,"
+    },
+    {
+      "fp": "1bonfb0",
+      "i": 157,
+      "from": 35685,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "eggs, and potatoes. There is a famous incident where he ate so many hot dogs and drank so many sodas in a"
+    },
+    {
+      "fp": "7e613q",
+      "i": 158,
+      "from": 35863,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "a single afternoon between games that he suffered severe"
+    },
+    {
+      "fp": "a3al1d",
+      "i": 159,
+      "from": 35964,
+      "subject": "medical",
+      "entities": [],
+      "concept": "medical",
+      "place": "hospital",
+      "confidence": 0.6,
+      "vox": {
+        "shot": "medical, hospital, 1981"
+      },
+      "antidote": {
+        "concept": "medical",
+        "set": "hospital",
+        "cast": []
+      },
+      "_said": "severe intestinal distress and had to be rushed to the hospital. Yeah. The press famously dubbed it the bellyak herd round the world. It's funny, but it's also tragic."
+    },
+    {
+      "fp": "hkyqzf",
+      "i": 160,
+      "from": 36240,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "tragic. Later in life, when his body began to fail him rapidly, he actually confided in Garrick, telling him, \"Don't be a sap. Keep in condition. I made a lot of mistakes. Later, I"
+    },
+    {
+      "fp": "q2qqla",
+      "i": 161,
+      "from": 36554,
+      "subject": "target",
+      "entities": [],
+      "concept": "target",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "target, 1981"
+      },
+      "antidote": {
+        "concept": "target",
+        "cast": []
+      },
+      "_said": "mistakes.\" And Ruth's confession highlights a crucial philosophical point that the Stoics focus on heavily. We have this massive"
+    },
+    {
+      "fp": "pdahnd",
+      "i": 162,
+      "from": 36758,
+      "subject": "Selfdiscipline",
+      "entities": [
+        "selfdiscipline"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Selfdiscipline, 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "selfdiscipline"
+        ]
+      },
+      "_said": "massive misconception that self-discipline is a puritanical rejection of pleasure, that it's just about being a monk, right?"
+    },
+    {
+      "fp": "1al8bkc",
+      "i": 163,
+      "from": 36950,
+      "subject": "Discipline and Selfdiscipline",
+      "entities": [
+        "discipline",
+        "selfdiscipline"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Discipline and Selfdiscipline, 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "discipline",
+          "selfdiscipline"
+        ]
+      },
+      "_said": "right? We think discipline is about making yourself miserable. But the reality is the exact opposite. Self-discipline is actually the only reliable mechanism to sustain pleasure ov"
+    },
+    {
+      "fp": "14aikyx",
+      "i": 164,
+      "from": 37250,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "lifetime. Wow. Yeah. Babe Ruth's unbridled excess didn't bring him lasting joy. It cut his historical greatness short and brought him years of physical misery and premature decline"
+    },
+    {
+      "fp": "1cgchej",
+      "i": 165,
+      "from": 37579,
+      "subject": "grave",
+      "entities": [],
+      "concept": "grave",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "grave, 1981"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": null,
+        "cast": []
+      },
+      "_said": "King George's gluttony didn't make him a happy king. It led to humiliation and an agonizing early grave."
+    },
+    {
+      "fp": "vmmdqb",
+      "i": 166,
+      "from": 37785,
+      "subject": "grave",
+      "entities": [],
+      "concept": "grave",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "grave, 1981"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": null,
+        "cast": []
+      },
+      "_said": "grave. But Theodore Roosevelt's grueling, difficult physical routines gave him"
+    },
+    {
+      "fp": "m57vak",
+      "i": 167,
+      "from": 37920,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "him a vibrant, deeply satisfying, and highly effective life because he could actually use his body. Exactly. The ancient stoic philosopher"
+    },
+    {
+      "fp": "13harpv",
+      "i": 168,
+      "from": 38172,
+      "subject": "alarmClock",
+      "entities": [],
+      "concept": "alarmClock",
+      "place": "bedroom",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "alarm clock, bedroom, 1981"
+      },
+      "antidote": {
+        "concept": "alarmClock",
+        "set": "bedroom",
+        "cast": []
+      },
+      "_said": "philosopher Misonius Rufus taught his students to intentionally expose themselves to cold, to hunger, and to sleep on hard beds. The purpose wasn't to suffer for the sake of suffer"
+    },
+    {
+      "fp": "uvpjnu",
+      "i": 169,
+      "from": 38522,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "that it becomes strengthened, resilient, and ready to execute any task the mind demands of it"
+    },
+    {
+      "fp": "7yed5k",
+      "i": 170,
+      "from": 38652,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "it without complaining. But mastering the physical vessel, you know, getting up early, controlling our appetites, training the body to endure discomfort, that is only the foundatio"
+    },
+    {
+      "fp": "1bdc2k9",
+      "i": 171,
+      "from": 38930,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "one. Because once you establish command over your physical form, you face a much more complex challenge. You have to control your psychological and emotional reactions to an unpred"
+    },
+    {
+      "fp": "rojqiv",
+      "i": 172,
+      "from": 39271,
+      "subject": "Discipline — rocketLaunch",
+      "entities": [
+        "discipline"
+      ],
+      "concept": "rocketLaunch",
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Discipline, 1981"
+      },
+      "antidote": {
+        "concept": "rocketLaunch",
+        "set": null,
+        "cast": [
+          "discipline"
+        ]
+      },
+      "_said": "physical discipline must scale up into the inner domain, the temperament."
+    },
+    {
+      "fp": "ewpkby",
+      "i": 173,
+      "from": 39408,
+      "subject": "storm",
+      "entities": [],
+      "concept": "storm",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "storm, 1981"
+      },
+      "antidote": {
+        "concept": "storm",
+        "set": null,
+        "cast": []
+      },
+      "_said": "temperament. Enduring a freezing shower is one thing. Maintaining total emotional equilibrium when the world is literally screaming at you is entirely different. Totally different "
+    },
+    {
+      "fp": "1542cft",
+      "i": 174,
+      "from": 39847,
+      "subject": "trophy",
+      "entities": [],
+      "concept": "trophy",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "trophy, 1981"
+      },
+      "antidote": {
+        "concept": "trophy",
+        "cast": []
+      },
+      "_said": "mastery than Queen Elizabeth II. She reigned for seven decades with a deeply"
+    },
+    {
+      "fp": "15l92mu",
+      "i": 175,
+      "from": 39996,
+      "subject": "Never",
+      "entities": [
+        "never"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Never, 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "never"
+        ]
+      },
+      "_said": "deeply internalized core philosophy of never complaining, never explaining, which sounds simple, but when you actually look"
+    },
+    {
+      "fp": "w0b2bc",
+      "i": 176,
+      "from": 40197,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "look at the historical record of what she endured physically and emotionally in public, it is Oh, her poise was unreal."
+    },
+    {
+      "fp": "1h8hot0",
+      "i": 177,
+      "from": 40389,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "walked through a violent, 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "unreal. In 1964, she visited Quebec during a period of intense political unrest. She calmly and serenely walked through a violent, screaming anti- monarchy riot. The crowds were fu"
+    },
+    {
+      "fp": "1vvuyvg",
+      "i": 178,
+      "from": 40838,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Then in 1981, she was riding a horse during the Trooping"
+    },
+    {
+      "fp": "cjw3it",
+      "i": 179,
+      "from": 40917,
+      "subject": "work",
+      "entities": [],
+      "concept": "work",
+      "place": "office",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "work, office, 1981"
+      },
+      "antidote": {
+        "concept": "work",
+        "set": "office",
+        "cast": []
+      },
+      "_said": "Trooping the Color parade. A man rushed from the crowd, pointed a gun directly at her, and fired six shots. Yes. Point blank. Point blank. Now, they turned out to be blanks, but"
+    },
+    {
+      "fp": "1lpxt4z",
+      "i": 180,
+      "from": 41229,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "but in the moment, it sounded and looked exactly like an assassination. And"
+    },
+    {
+      "fp": "iuaniv",
+      "i": 181,
+      "from": 41364,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "And the physiological response to gunfire, like the massive dump of adrenaline, the amydala hijacking the brain to trigger panic and flight that is almost"
+    },
+    {
+      "fp": "14ng1ww",
+      "i": 182,
+      "from": 41633,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "almost impossible to Biology demands that you flinch. Yet, she barely flinched. She simply patted her horse to calm the animal, adjusted her posture, and kept riding."
+    },
+    {
+      "fp": "12qtic6",
+      "i": 183,
+      "from": 41911,
+      "subject": "home",
+      "entities": [],
+      "concept": "home",
+      "place": "bedroom",
+      "confidence": 0.6,
+      "vox": {
+        "shot": "home, standing there, bedroom, 1981"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": "bedroom",
+        "cast": []
+      },
+      "_said": "riding. We're superhuman. And then in 1982, she woke up in the sanctity of her own private bedroom to find a deranged intruder standing there"
+    },
+    {
+      "fp": "zkvwsn",
+      "i": 184,
+      "from": 42144,
+      "subject": "alarmClock",
+      "entities": [],
+      "concept": "alarmClock",
+      "place": "bedroom",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "alarm clock, bedroom, 1981"
+      },
+      "antidote": {
+        "concept": "alarmClock",
+        "set": "bedroom",
+        "cast": []
+      },
+      "_said": "there bleeding profusely from a broken window. Can you even imagine waking up to that? I would lose my mind. But she doesn't scream. She doesn't dive under the bed in a panic. She "
+    },
+    {
+      "fp": "1xvrrps",
+      "i": 185,
+      "from": 42473,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "politely entertains the man in calm conversation for 10 minutes until security finally arrives. And the"
+    },
+    {
+      "fp": "o7scj5",
+      "i": 186,
+      "from": 42636,
+      "subject": "Never",
+      "entities": [
+        "never"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Never, 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "never"
+        ]
+      },
+      "_said": "the physical manifestation of her temperament is fascinating. AIDS, who worked closely with her for decades, noted that she was literally never seen sweating in public."
+    },
+    {
+      "fp": "1p4q944",
+      "i": 187,
+      "from": 42893,
+      "subject": "Never",
+      "entities": [
+        "never"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Never, 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "never"
+        ]
+      },
+      "_said": "public. Never sweating. Never. Her biology didn't process heat well, and the heavy ceremonial clothing was sweltering. But her absolute poise,"
+    },
+    {
+      "fp": "mfn9bc",
+      "i": 188,
+      "from": 43164,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "poise, her manufactured equinimity somehow masked the intense physical strain of her grueling schedule. I mean, consider the sheer volume"
+    },
+    {
+      "fp": "y4qj3i",
+      "i": 189,
+      "from": 43392,
+      "subject": "water",
+      "entities": [],
+      "concept": "water",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "water, 1981"
+      },
+      "antidote": {
+        "concept": "water",
+        "set": null,
+        "cast": []
+      },
+      "_said": "volume of her engagements. She traveled more than a million nautical miles by sea over her reign. That's absurd. She personally met and conversed with over 4 million people. And in"
+    },
+    {
+      "fp": "1mhdnkv",
+      "i": 190,
+      "from": 43692,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "waiting for a slip up, 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "decades of relentless public appearances under the constant glare of cameras waiting for a slip up, she was only ever"
+    },
+    {
+      "fp": "19n33s6",
+      "i": 191,
+      "from": 43872,
+      "subject": "alarmClock",
+      "entities": [],
+      "concept": "alarmClock",
+      "place": "bedroom",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "alarm clock, falling asleep exactly once at an incredibly dr, bedroom, 1981"
+      },
+      "antidote": {
+        "concept": "alarmClock",
+        "set": "bedroom",
+        "cast": []
+      },
+      "_said": "ever seen falling asleep exactly once at an incredibly dry lecture about magnets in 2004."
+    },
+    {
+      "fp": "1oj7r6",
+      "i": 192,
+      "from": 44042,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "2004. Magnets. Well, you can't blame her for that one. Fair enough. But in our current digital ecosystem, the ultimate currency is the instant We are incentivized to post"
+    },
+    {
+      "fp": "1tkalo3",
+      "i": 193,
+      "from": 44308,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "post our unfiltered emotional responses to every perceived slight, every political development, every piece of pop culture. We value venting."
+    },
+    {
+      "fp": "qfvg2j",
+      "i": 194,
+      "from": 44570,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "venting. It's all about expressing your truth right? But her superpower was the exact opposite, restraint. She wielded silence like a highly"
+    },
+    {
+      "fp": "1cxj5qq",
+      "i": 195,
+      "from": 44825,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, shouting the loudest, 1981"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "highly calibrated weapon. We often think the ultimate flex is having the microphone and shouting the loudest. But the queen's life proves that the ultimate flex"
+    },
+    {
+      "fp": "uuwnkz",
+      "i": 196,
+      "from": 45062,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "flex is possessing the power to speak, knowing everyone is desperate to hear what you have to say, and consciously choosing to hold your"
+    },
+    {
+      "fp": "15wew7x",
+      "i": 197,
+      "from": 45266,
+      "subject": "fire",
+      "entities": [],
+      "concept": "fire",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "fire, 1981"
+      },
+      "antidote": {
+        "concept": "fire",
+        "cast": []
+      },
+      "_said": "your fire. Because the hardest repetition you will ever do in the gym of life is the sentence you actively choose not to say. Oh, that's good."
+    },
+    {
+      "fp": "ed6anc",
+      "i": 198,
+      "from": 45468,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "good. It's true. Every single day, the queen received highly classified dispatches in her red box. She was briefed on every major crisis, scandal,"
+    },
+    {
+      "fp": "zvkc58",
+      "i": 199,
+      "from": 45720,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "scandal, and geopolitical threat in the United Kingdom and across the globe."
+    },
+    {
+      "fp": "vpa60o",
+      "i": 200,
+      "from": 45825,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "globe. She conferred weekly with 12 different prime ministers and met with 14 US presidents. She possessed"
+    },
+    {
+      "fp": "1vvd93l",
+      "i": 201,
+      "from": 46010,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "possessed more confidential information than almost anyone on earth. Choose all the secrets. All of them. Yet"
+    },
+    {
+      "fp": "1o7ipnj",
+      "i": 202,
+      "from": 46154,
+      "subject": "Discipline and Never",
+      "entities": [
+        "discipline",
+        "never"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Discipline and Never, 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "discipline",
+          "never"
+        ]
+      },
+      "_said": "Yet she maintained the profound unyielding discipline to never overtly act on her personal impulses, to never leak her"
+    },
+    {
+      "fp": "1kdeo5n",
+      "i": 203,
+      "from": 46346,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "her private political opinions to the press. Her immense power was rooted in her quietness."
+    },
+    {
+      "fp": "1rm5to",
+      "i": 204,
+      "from": 46517,
+      "subject": "heart",
+      "entities": [],
+      "concept": "heart",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "heart, 1981"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": null,
+        "cast": []
+      },
+      "_said": "Within the palace, they refer to this as the better not philosophy. Better not. I love that not overstep your constitutional role."
+    },
+    {
+      "fp": "1mtyuq5",
+      "i": 205,
+      "from": 46771,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "role. Better not rush to judgment. Better not speak in anger. That kind of ironclad emotional restraint is the dividing line between individuals who are merely"
+    },
+    {
+      "fp": "1qje77a",
+      "i": 206,
+      "from": 47057,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "merely talented and those who become truly historic because raw talent frankly is quite common. We"
+    },
+    {
+      "fp": "bhf33c",
+      "i": 207,
+      "from": 47248,
+      "subject": "Discipline — funnelMetrics",
+      "entities": [
+        "discipline"
+      ],
+      "concept": "funnelMetrics",
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Discipline, 1981"
+      },
+      "antidote": {
+        "concept": "funnelMetrics",
+        "set": null,
+        "cast": [
+          "discipline"
+        ]
+      },
+      "_said": "We see talented people flame out constantly every day. But this level of internal discipline is vanishingly rare. It is and it leads to the classic tragedy of human history."
+    },
+    {
+      "fp": "hndmuh",
+      "i": 208,
+      "from": 47606,
+      "subject": "gift",
+      "entities": [],
+      "concept": "gift",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "gift, 1981"
+      },
+      "antidote": {
+        "concept": "gift",
+        "cast": []
+      },
+      "_said": "The brilliant prodigy who squanders their immense gift while the steady,"
+    },
+    {
+      "fp": "aixmsq",
+      "i": 209,
+      "from": 47726,
+      "subject": "lightbulb",
+      "entities": [],
+      "concept": "lightbulb",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "lightbulb, 1981"
+      },
+      "antidote": {
+        "concept": "lightbulb",
+        "cast": []
+      },
+      "_said": "steady, unspectacular, highly disciplined person slowly laps the genius over the course of a lifetime. The tortoise and the hair basically. Exactly. If we examine the"
+    },
+    {
+      "fp": "lv2bwt",
+      "i": 210,
+      "from": 47997,
+      "subject": "road",
+      "entities": [],
+      "concept": "road",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "road, 1981"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": null,
+        "cast": []
+      },
+      "_said": "the great conquerors of history, men who reshape the map of the world, we consistently see an abundance of talent paired with a fatal lack of temperament."
+    },
+    {
+      "fp": "9q757j",
+      "i": 211,
+      "from": 48233,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "notes, 1981"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": []
+      },
+      "_said": "temperament. Napoleon Bonapart is the quintessential example of this exact failure. And ironically, he understood the danger when he was young. As a youth, he wrote an essay where "
+    },
+    {
+      "fp": "12daxr6",
+      "i": 212,
+      "from": 48477,
+      "subject": "medical",
+      "entities": [],
+      "concept": "medical",
+      "place": "hospital",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "medical, hospital, 1981"
+      },
+      "antidote": {
+        "concept": "medical",
+        "set": "hospital",
+        "cast": []
+      },
+      "_said": "explicitly diagnosed ambition as a violent and unthinking fever that ceases only when life ceases."
+    },
+    {
+      "fp": "1kn5h63",
+      "i": 213,
+      "from": 48650,
+      "subject": "medical",
+      "entities": [],
+      "concept": "medical",
+      "place": "hospital",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "medical, hospital, 1981"
+      },
+      "antidote": {
+        "concept": "medical",
+        "set": "hospital",
+        "cast": []
+      },
+      "_said": "ceases. He recognized the pathology of the conqueror perfectly. He diagnosed the disease perfectly and then succumbed to it completely."
+    },
+    {
+      "fp": "otowy4",
+      "i": 214,
+      "from": 48866,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Years later, when he was emperor, his incredibly shrewd foreign minister, Taland, dug up that exact youthful essay."
+    },
+    {
+      "fp": "a73c00",
+      "i": 215,
+      "from": 49104,
+      "subject": "mirror",
+      "entities": [],
+      "concept": "mirror",
+      "place": "bedroom",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "mirror, holding up a mirror to his relentless, bedroom, 1981"
+      },
+      "antidote": {
+        "concept": "mirror",
+        "set": "bedroom",
+        "cast": []
+      },
+      "_said": "essay. Taloran handed it to Napoleon, essentially holding up a mirror to his relentless, exhausting campaigns across Europe, warning him that his ambition was becoming a fever. And"
+    },
+    {
+      "fp": "1my3bgh",
+      "i": 216,
+      "from": 49411,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone, 1981"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": null,
+        "cast": []
+      },
+      "_said": "And what did Napoleon do? He violently threw the essay into the fire. He called his younger, wiser self ridiculous. And then unable to temper his need for conquest, he marched his "
+    },
+    {
+      "fp": "1nncxjl",
+      "i": 217,
+      "from": 49754,
+      "subject": "grave",
+      "entities": [],
+      "concept": "grave",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "grave, 1981"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": null,
+        "cast": []
+      },
+      "_said": "catastrophe of Russia, destroyed a generation of young European men and ultimately died alone in exile on a barren rock in the middle"
+    },
+    {
+      "fp": "zl7u0p",
+      "i": 218,
+      "from": 49975,
+      "subject": "water",
+      "entities": [],
+      "concept": "water",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "water, 1981"
+      },
+      "antidote": {
+        "concept": "water",
+        "set": null,
+        "cast": []
+      },
+      "_said": "middle of the Atlantic Ocean. It's crazy. And we see the exact same pathology in Alexander the Great. Here is a man"
+    },
+    {
+      "fp": "ha11zl",
+      "i": 219,
+      "from": 50143,
+      "subject": "trophy",
+      "entities": [],
+      "concept": "trophy",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "trophy, weeping openly because he had no more worlds le, 1981"
+      },
+      "antidote": {
+        "concept": "trophy",
+        "cast": []
+      },
+      "_said": "man who conquered the known world and yet history records him weeping openly because he had no more worlds left to conquer. It wasn't enough. The Roman poet Juvenile observed that "
+    },
+    {
+      "fp": "1vhqdd2",
+      "i": 220,
+      "from": 50476,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "satisfy Alexander's ego. But in the end, a standardized wooden coffin was perfectly"
+    },
+    {
+      "fp": "1czjpcn",
+      "i": 221,
+      "from": 50618,
+      "subject": "trophy",
+      "entities": [],
+      "concept": "trophy",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "trophy, 1981"
+      },
+      "antidote": {
+        "concept": "trophy",
+        "cast": []
+      },
+      "_said": "perfectly sufficient. That is a brutal observation, but it's so true. We put ambition on magazine covers. We celebrate the hustle. We tell people to conquer their industries. But w"
+    },
+    {
+      "fp": "29e6y6",
+      "i": 222,
+      "from": 50937,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "closely at Alexander and Napoleon, their ambition sounds indistinguishable from a"
+    },
+    {
+      "fp": "4pqjat",
+      "i": 223,
+      "from": 51055,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "a chemical dependency. Alexander wasn't a god. He was an addict desperately looking for his next fix of geography. And the stoic philosopher"
+    },
+    {
+      "fp": "1ozj9fi",
+      "i": 224,
+      "from": 51305,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "philosopher Senica analyzed this exact dynamic 2,000 years ago. He warned that while a brilliant general might command massive armies, it is the ambition that commands the The ambi"
+    },
+    {
+      "fp": "1d5v8aw",
+      "i": 225,
+      "from": 51722,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "unpack how unchecked ambition functions neurologically, it operates precisely like a dopamine"
+    },
+    {
+      "fp": "1wsx5rz",
+      "i": 226,
+      "from": 51871,
+      "subject": "trophy",
+      "entities": [],
+      "concept": "trophy",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "trophy, 1981"
+      },
+      "antidote": {
+        "concept": "trophy",
+        "cast": []
+      },
+      "_said": "dopamine addiction. The brain's reward center becomes desensitized to success. The territory you conquer today provides a brief hit of dopamine, but tomorrow that"
+    },
+    {
+      "fp": "j3vu93",
+      "i": 227,
+      "from": 52147,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "that same territory feels inadequate. You need a bigger dose. You need a bigger conquest just to achieve the same feeling. People"
+    },
+    {
+      "fp": "q7mgnq",
+      "i": 228,
+      "from": 52346,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, 1981"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "People like Alexander and Napoleon were completely enslaved by their own expanding appetites. They could conquer millions of enemy soldiers, but they lacked the"
+    },
+    {
+      "fp": "1ic8nju",
+      "i": 229,
+      "from": 52601,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, 1981"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "basic emotional tools to conquer their own desires. They were immensely powerful on the battlefield but fundamentally powerless in their own minds because they lacked the freedom t"
+    },
+    {
+      "fp": "2mpwvb",
+      "i": 230,
+      "from": 52963,
+      "subject": "Edison",
+      "entities": [
+        "edison"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Edison, 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "edison"
+        ]
+      },
+      "_said": "Right? Contrast their fiery destructive brilliance with the approach of an innovator like Thomas Edison."
+    },
+    {
+      "fp": "xu5zi4",
+      "i": 231,
+      "from": 53121,
+      "subject": "Edison — lightbulb",
+      "entities": [
+        "edison"
+      ],
+      "concept": "lightbulb",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Edison, 1981"
+      },
+      "antidote": {
+        "concept": "lightbulb",
+        "cast": [
+          "edison"
+        ]
+      },
+      "_said": "Edison. Oh, Edison is such a great counterpoint. Edison is fascinating because he flat out rejected the mythology of the lone genius. He openly admitted he wasn't the smartest man "
+    },
+    {
+      "fp": "1p89rlt",
+      "i": 232,
+      "from": 53474,
+      "subject": "lightbulb",
+      "entities": [],
+      "concept": "lightbulb",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "lightbulb, running thousands, 1981"
+      },
+      "antidote": {
+        "concept": "lightbulb",
+        "cast": []
+      },
+      "_said": "sudden lightning bolt flashes of divine inspiration. He said that the genius is simply the person who hangs around the laboratory day and night meticulously running thousands of"
+    },
+    {
+      "fp": "1dxov0c",
+      "i": 233,
+      "from": 53769,
+      "subject": "lightbulb",
+      "entities": [],
+      "concept": "lightbulb",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "lightbulb, 1981"
+      },
+      "antidote": {
+        "concept": "lightbulb",
+        "cast": []
+      },
+      "_said": "of failed experiments so that when the lucky breakthrough inevitably happens, they are physically in the room to catch it. Just clocking in. He didn't rely"
+    },
+    {
+      "fp": "v9wucw",
+      "i": 234,
+      "from": 53968,
+      "subject": "Discipline",
+      "entities": [
+        "discipline"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Discipline, 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "discipline"
+        ]
+      },
+      "_said": "rely on brilliance. He relied on the discipline of clocking in."
+    },
+    {
+      "fp": "1qqpad7",
+      "i": 235,
+      "from": 54062,
+      "subject": "dominoCascade",
+      "entities": [],
+      "concept": "dominoCascade",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "domino cascade, 1981"
+      },
+      "antidote": {
+        "concept": "dominoCascade",
+        "cast": []
+      },
+      "_said": "in. Edison's massive historical impact was rooted in the compounding power"
+    },
+    {
+      "fp": "bq62ws",
+      "i": 236,
+      "from": 54204,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "power of consistency. It's the highly underrated, decidedly unglamorous power of simply putting your physical body in the chair and doing the work day after day without"
+    },
+    {
+      "fp": "t1tp8i",
+      "i": 237,
+      "from": 54535,
+      "subject": "trophy",
+      "entities": [],
+      "concept": "trophy",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "trophy, 1981"
+      },
+      "antidote": {
+        "concept": "trophy",
+        "cast": []
+      },
+      "_said": "without requiring the emotional high of an immediate victory. It strikes me though that there's"
+    },
+    {
+      "fp": "9o8e50",
+      "i": 238,
+      "from": 54672,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "there's a terrifying flip side to this. How so? Well, we've praised the grind."
+    },
+    {
+      "fp": "1gpinih",
+      "i": 239,
+      "from": 54808,
+      "subject": "Discipline and Edison",
+      "entities": [
+        "discipline",
+        "edison"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Discipline and Edison, 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "discipline",
+          "edison"
+        ]
+      },
+      "_said": "grind. We've praised the relentless discipline of Edison and Garri. But if I am so rigidly disciplined that I force myself to work 16 hours a day, ignore my health, and grind until"
+    },
+    {
+      "fp": "2njfet",
+      "i": 240,
+      "from": 55082,
+      "subject": "Discipline",
+      "entities": [
+        "discipline"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Discipline, fall apart, 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "discipline"
+        ]
+      },
+      "_said": "until my relationships fall apart, I'm not truly free anymore. My routine has taken over. Can discipline itself become a disease? You have just identified the sharp edge of the bla"
+    },
+    {
+      "fp": "172pfaa",
+      "i": 241,
+      "from": 55428,
+      "subject": "Discipline",
+      "entities": [
+        "discipline"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Discipline, 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "discipline"
+        ]
+      },
+      "_said": "warning about discipline's dark twin. Discipline, when pushed to absolute excess, without"
+    },
+    {
+      "fp": "1xn8gfb",
+      "i": 242,
+      "from": 55555,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "without the counterbalance of wisdom, metastasizes into toxic perfectionism and relentless self-punishment. The trait that originally lingered you becomes the very thing that destr"
+    },
+    {
+      "fp": "1oe5d04",
+      "i": 243,
+      "from": 55828,
+      "subject": "Discipline — subway",
+      "entities": [
+        "discipline"
+      ],
+      "concept": "subway",
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Discipline, 1981"
+      },
+      "antidote": {
+        "concept": "subway",
+        "set": null,
+        "cast": [
+          "discipline"
+        ]
+      },
+      "_said": "you. Exactly. The servant becomes the tyrant. If you literally cannot stop working, you don't actually possess discipline. Your routine possesses you. You are no longer driving the"
+    },
+    {
+      "fp": "doskyz",
+      "i": 244,
+      "from": 56215,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "trapped on the Productivity Express, unable to find the brake pedal. And if you lack the ability to rest, you are not"
+    },
+    {
+      "fp": "18hfsr9",
+      "i": 245,
+      "from": 56381,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "sitting on the couch, 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "not a disciplined person. You are just as out of control, just as enslaved as the laziest person sitting on the couch. You are being driven by"
+    },
+    {
+      "fp": "5jevyf",
+      "i": 246,
+      "from": 56640,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "by a psychological compulsion, not by conscious rational choice. It's just a different kind of addiction."
+    },
+    {
+      "fp": "ut83hs",
+      "i": 247,
+      "from": 56791,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "addiction. Right? The great German writer Ga issued a profound warning about this state of mind. He"
+    },
+    {
+      "fp": "1b9sl1a",
+      "i": 248,
+      "from": 56968,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "notes, 1981"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": []
+      },
+      "_said": "He wrote, \"Absolute activity of whatever kind ultimately leads to bankruptcy. You bankrupt your physical body, you bankrupt your emotional reserves, and you bankrupt your joy.\" We "
+    },
+    {
+      "fp": "gy8rlu",
+      "i": 249,
+      "from": 57305,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "modern application of Githro's warning and the concept of load management in professional sports. Look at"
+    },
+    {
+      "fp": "rb3zch",
+      "i": 250,
+      "from": 57441,
+      "subject": "game",
+      "entities": [],
+      "concept": "game",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "game, 1981"
+      },
+      "antidote": {
+        "concept": "game",
+        "set": null,
+        "cast": []
+      },
+      "_said": "at Greg Papovic, the legendary coach of the San Antonio Spurs. Oh, he completely changed the game with this. [snorts] He completely"
+    },
+    {
+      "fp": "1ki92l0",
+      "i": 251,
+      "from": 57633,
+      "subject": "star",
+      "entities": [],
+      "concept": "star",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "star, 1981"
+      },
+      "antidote": {
+        "concept": "star",
+        "set": null,
+        "cast": []
+      },
+      "_said": "completely revolutionized the NBA by aggressively resting his aging star players during the grueling regular season. He would routinely bench his best guys, often facing massive pu"
+    },
+    {
+      "fp": "ge73dl",
+      "i": 252,
+      "from": 57965,
+      "subject": "work",
+      "entities": [],
+      "concept": "work",
+      "place": "office",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "work, office, 1981"
+      },
+      "antidote": {
+        "concept": "work",
+        "set": "office",
+        "cast": []
+      },
+      "_said": "public backlash from angry fans who bought tickets and enduring heavy financial fines from the league office, which took a ton of conviction."
+    },
+    {
+      "fp": "12xr1xa",
+      "i": 253,
+      "from": 58188,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "conviction. But Papovic understood the math of human biology. He knew that physical burnout and catastrophic injuries are vastly more expensive to a franchise's ultimate goals than"
+    },
+    {
+      "fp": "1tte2k",
+      "i": 254,
+      "from": 58500,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "off in February. Sometimes the significantly harder choice, the choice that requires vastly more emotional restraint"
+    },
+    {
+      "fp": "oan7v",
+      "i": 255,
+      "from": 58692,
+      "subject": "Discipline",
+      "entities": [
+        "discipline"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Discipline, sit down and and we can even circle back, 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "discipline"
+        ]
+      },
+      "_said": "restraint and discipline is the choice to sit down and And we can even circle back to Lou Garri to see this principle in action. The ultimate iron horse, the man who"
+    },
+    {
+      "fp": "1etfq0x",
+      "i": 256,
+      "from": 58936,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "who played Tulio's 130 games with broken bones, is also the ultimate example of load because he benched himself. As we discussed, he benched himself"
+    },
+    {
+      "fp": "7umdu9",
+      "i": 257,
+      "from": 59176,
+      "subject": "Discipline",
+      "entities": [
+        "discipline"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Discipline, 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "discipline"
+        ]
+      },
+      "_said": "himself in 1939. His discipline wasn't blindly tethered to the streak."
+    },
+    {
+      "fp": "y4l0f7",
+      "i": 258,
+      "from": 59333,
+      "subject": "Discipline",
+      "entities": [
+        "discipline"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Discipline, walk away when he knew his failing body, 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "discipline"
+        ]
+      },
+      "_said": "streak. His discipline included the profound, heartbreaking restraint required to walk away when he knew his failing body was becoming a detriment to the people around him. He didn"
+    },
+    {
+      "fp": "17lr0gg",
+      "i": 259,
+      "from": 59604,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "allow the mythological streak to become his tyrant. He managed his own load, even when it meant accepting the end of his identity as a baseball player."
+    },
+    {
+      "fp": "zllxlg",
+      "i": 260,
+      "from": 59817,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "sit on the bench before we snap?, 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "player. Finding that exact balance point feels incredibly precarious, though. How do we navigate the space between being the iron horse who pushes through the pain and knowing when"
+    },
+    {
+      "fp": "1fshzx2",
+      "i": 261,
+      "from": 60153,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "snap? Leaning too far toward indulgence makes"
+    },
+    {
+      "fp": "6ocwy7",
+      "i": 262,
+      "from": 60213,
+      "subject": "Discipline",
+      "entities": [
+        "discipline"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Discipline, 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "discipline"
+        ]
+      },
+      "_said": "makes us King George IV, but leaning too far toward discipline makes us a brittle,"
+    },
+    {
+      "fp": "1mco3qs",
+      "i": 263,
+      "from": 60348,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "brittle, exhausted shell. To navigate that tension, the material points us back to the ancient philosophical concept of the golden mean."
+    },
+    {
+      "fp": "x7qb3l",
+      "i": 264,
+      "from": 60573,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "mean. Aristotle argued that virtue isn't simply a state of being. It is a practical craft like woodworking or something, right?"
+    },
+    {
+      "fp": "djutqw",
+      "i": 265,
+      "from": 60789,
+      "subject": "home",
+      "entities": [],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "home, 1981"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": []
+      },
+      "_said": "right? It is something you practice and refine much like building a house or learning to play the harp. But the absolute key to mastering the craft of a virtuous life"
+    },
+    {
+      "fp": "1re5otd",
+      "i": 266,
+      "from": 61041,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "life is temperance. It is the ability to consistently find the middle path between two extreme poles. The ancients used the metaphor"
+    },
+    {
+      "fp": "1js6ovu",
+      "i": 267,
+      "from": 61303,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "metaphor of the charioteer to explain this. And the mechanics of that metaphor are perfect. If you are racing a chariot, you don't just whip the horses continuously to go as fast a"
+    },
+    {
+      "fp": "127ysng",
+      "i": 268,
+      "from": 61617,
+      "subject": "crash",
+      "entities": [],
+      "concept": "crash",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "crash, 1981"
+      },
+      "antidote": {
+        "concept": "crash",
+        "set": null,
+        "cast": []
+      },
+      "_said": "physically possible. No, you'd crash immediately, right? The horses will sprint blindly. You will lose control of the steering, and you will violently crash"
+    },
+    {
+      "fp": "1k0l5x",
+      "i": 269,
+      "from": 61833,
+      "subject": "game",
+      "entities": [],
+      "concept": "game",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "game, 1981"
+      },
+      "antidote": {
+        "concept": "game",
+        "set": null,
+        "cast": []
+      },
+      "_said": "crash the chariot around the very first hairpin turn. To win a long race, you have to actively manage the team of animals. You balance the light touch and the heavy touch on the re"
+    },
+    {
+      "fp": "w2p17y",
+      "i": 270,
+      "from": 62145,
+      "subject": "wallet",
+      "entities": [],
+      "concept": "wallet",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "wallet, 1981"
+      },
+      "antidote": {
+        "concept": "wallet",
+        "cast": []
+      },
+      "_said": "horses, conserving their energy, saving that explosive burst of speed for the final stretch when it actually dictates the outcome of the race. It is about learning to temper your o"
+    },
+    {
+      "fp": "d8gjia",
+      "i": 271,
+      "from": 62452,
+      "subject": "Marcus — family",
+      "entities": [
+        "marcus"
+      ],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Marcus, 1981"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": [
+          "marcus"
+        ]
+      },
+      "_said": "Emperor Antonyinus Pius who was the adoptive father of Marcus Aurelius and deeply influenced the boy who would become"
+    },
+    {
+      "fp": "13k4d19",
+      "i": 272,
+      "from": 62618,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "become the philosopher king lived by a specific guiding principle. Unrestrained moderation."
+    },
+    {
+      "fp": "2qj9wi",
+      "i": 273,
+      "from": 62796,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "moderation. Unrestrained moderation. That sounds like an oxymoron. It does, but it's brilliant. You must be aggressively committed to balance. You have to learn how to be a good"
+    },
+    {
+      "fp": "1o23ppa",
+      "i": 274,
+      "from": 63067,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "good friend to yourself. There's a beautiful, deeply humanizing story from antiquity about this stoic"
+    },
+    {
+      "fp": "qddivw",
+      "i": 275,
+      "from": 63252,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "walking through the busy streets, 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "stoic philosopher Cleanth. He was walking through the busy streets"
+    },
+    {
+      "fp": "3nhgza",
+      "i": 276,
+      "from": 63345,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "walking alone, 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "streets of Athens one day and he observed a man walking alone, viciously berating himself out loud over some perceived personal failure."
+    },
+    {
+      "fp": "1aebkz",
+      "i": 277,
+      "from": 63583,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "failure. We've all been that guy. We really have. But Cleanthy stopped the man, looked him in the eye, and gently reminded him, \"Remember, you're not talking to a bad man.\""
+    },
+    {
+      "fp": "13excek",
+      "i": 278,
+      "from": 63871,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "man.\" Wow. That reframes the internal monologue completely. Because if you whip the horses until they snap, the race is over. If you"
+    },
+    {
+      "fp": "5whjog",
+      "i": 279,
+      "from": 64075,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "you demand absolute perfection from yourself and punish every misstep with internal abuse, you will eventually break your own spirit. If you want to go the distance in life, you ha"
+    },
+    {
+      "fp": "vnn0z4",
+      "i": 280,
+      "from": 64389,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "balanced, temperate ruler survives and thrives over decades. A brittle, uncompromising aesthetic tortures himself and eventually snaps under the weight of his"
+    },
+    {
+      "fp": "1pp2my0",
+      "i": 281,
+      "from": 64627,
+      "subject": "Discipline",
+      "entities": [
+        "discipline"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Discipline, 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "discipline"
+        ]
+      },
+      "_said": "his own unrealistic rules. Discipline is destiny, but only if you actually survive the ride."
+    },
+    {
+      "fp": "1l2sbr8",
+      "i": 282,
+      "from": 64812,
+      "subject": "Discipline",
+      "entities": [
+        "discipline"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Discipline, hold the high standard, 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "discipline"
+        ]
+      },
+      "_said": "ride. We discipline ourselves to build ourselves up, not to tear ourselves down. That is exactly what a good friend does. We hold the high standard."
+    },
+    {
+      "fp": "1jefzki",
+      "i": 283,
+      "from": 65006,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "standard. We demand the effort. But we also allow for the biological"
+    },
+    {
+      "fp": "gweqwe",
+      "i": 284,
+      "from": 65107,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "sit in a very real, 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "biological and psychological fact that we are flawed human beings navigating a difficult world. I want to pause here though and sit in a very real"
+    },
+    {
+      "fp": "can56y",
+      "i": 285,
+      "from": 65378,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "real uncomfortable tension that we need to acknowledge. Let's do it."
+    },
+    {
+      "fp": "1vss3p2",
+      "i": 286,
+      "from": 65469,
+      "subject": "funnelTrap",
+      "entities": [],
+      "concept": "funnelTrap",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "funnel trap, sit here and talk about the emperor of rome, 1981"
+      },
+      "antidote": {
+        "concept": "funnelTrap",
+        "cast": []
+      },
+      "_said": "it. It's easy for us to sit here and talk about the emperor of Rome and the golden mean. But let's be ruthlessly honest about how this concept lands in the modern world. Is this wh"
+    },
+    {
+      "fp": "aggqgq",
+      "i": 287,
+      "from": 65789,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "and be disciplined ideology actually just a luxury for the rich? It's a fair criticism because to a lot of people telling someone who is struggling to just be"
+    },
+    {
+      "fp": "jppj41",
+      "i": 288,
+      "from": 66074,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "be more disciplined sounds incredibly privileged, thin, and remarkably like toxic tonedeaf grind culture"
+    },
+    {
+      "fp": "5fnk1c",
+      "i": 289,
+      "from": 66295,
+      "subject": "alarmClock",
+      "entities": [],
+      "concept": "alarmClock",
+      "place": "bedroom",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "alarm clock, write in your gratitude journal when you have, bedroom, 1981"
+      },
+      "antidote": {
+        "concept": "alarmClock",
+        "set": "bedroom",
+        "cast": []
+      },
+      "_said": "culture moralizing. It is super easy to wake up at 4:00 a.m., take a plunge in your custom ice bath, and write in your gratitude journal when you have a live nanny, a personal chef"
+    },
+    {
+      "fp": "jpv8yd",
+      "i": 290,
+      "from": 66657,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "fund insulating you from consequence. But what about a single parent who is working three different minimum wage shifts just to keep"
+    },
+    {
+      "fp": "1el2adl",
+      "i": 291,
+      "from": 66869,
+      "subject": "wallet",
+      "entities": [],
+      "concept": "wallet",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "wallet, reads like a slap in the face, 1981"
+      },
+      "antidote": {
+        "concept": "wallet",
+        "cast": []
+      },
+      "_said": "keep the electricity on? Telling that exhausted parent to do more, want less, reads like a slap in the face. Their body budget"
+    },
+    {
+      "fp": "akxuf9",
+      "i": 292,
+      "from": 67121,
+      "subject": "wallet",
+      "entities": [],
+      "concept": "wallet",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "wallet, 1981"
+      },
+      "antidote": {
+        "concept": "wallet",
+        "cast": []
+      },
+      "_said": "isn't depleted because they lack stoic character. their budget is massively overdrawn by a brutal,"
+    },
+    {
+      "fp": "1k3vc4b",
+      "i": 293,
+      "from": 67272,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone, 1981"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": null,
+        "cast": []
+      },
+      "_said": "brutal, unforgiving society. That is a deeply valid essential critique of the entire self-improvement space. And to its credit, the text itself wrestles openly with this exact tens"
+    },
+    {
+      "fp": "1r31vtp",
+      "i": 294,
+      "from": 67637,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "fully acknowledges that willpower is a strictly depletable biological resource. we discussed"
+    },
+    {
+      "fp": "11380z9",
+      "i": 295,
+      "from": 67790,
+      "subject": "wallet",
+      "entities": [],
+      "concept": "wallet",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "wallet, 1981"
+      },
+      "antidote": {
+        "concept": "wallet",
+        "cast": []
+      },
+      "_said": "discussed Lisa Feldman Barrett's body budget earlier. If you are physically and financially bankrupt because you are working multiple grueling shifts, constantly worrying about ren"
+    },
+    {
+      "fp": "12xp8fs",
+      "i": 296,
+      "from": 68064,
+      "subject": "food",
+      "entities": [],
+      "concept": "food",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "food, 1981"
+      },
+      "antidote": {
+        "concept": "food",
+        "set": null,
+        "cast": []
+      },
+      "_said": "rent, and navigating failing public transit, your prefrontal cortex is exhausted. You literally don't have the energy to choose the salad over the fast food. Your brain literally l"
+    },
+    {
+      "fp": "9fclco",
+      "i": 297,
+      "from": 68354,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "glucose required to make optimal disciplined choices at the end of the day."
+    },
+    {
+      "fp": "1z0o1ej",
+      "i": 298,
+      "from": 68472,
+      "subject": "food",
+      "entities": [],
+      "concept": "food",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "food, stands for hungry, 1981"
+      },
+      "antidote": {
+        "concept": "food",
+        "set": null,
+        "cast": []
+      },
+      "_said": "day. The addiction recovery community uses a very practical acronym, HLD. Stands for hungry, angry, lonely, tired."
+    },
+    {
+      "fp": "ux45vw",
+      "i": 299,
+      "from": 68707,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "tired. Right? [snorts] They teach that when a person is in any of those four states, they are neurologically most vulnerable to making a destructive decision or relapsing."
+    },
+    {
+      "fp": "nnlg4r",
+      "i": 300,
+      "from": 68971,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "relapsing. Systemic inequity and deep poverty essentially ensure that disadvantaged populations are disproportionately permanently kept in a state of age all Exactly. So standing o"
+    },
+    {
+      "fp": "1b9pkvg",
+      "i": 301,
+      "from": 69266,
+      "subject": "Discipline",
+      "entities": [
+        "discipline"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Discipline, 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "discipline"
+        ]
+      },
+      "_said": "a stage and preaching stoic discipline and cold showers to someone trapped in systemic poverty feels not just tonedeaf but actively insulting. It places the moral burden of a broke"
+    },
+    {
+      "fp": "1gfbn0m",
+      "i": 302,
+      "from": 69554,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "entirely on the shoulders of the victim. It absolutely can feel that way and it is often weaponized exactly like that. But here is the tragic, deeply unfair yet brutal reality that"
+    },
+    {
+      "fp": "124hbqv",
+      "i": 303,
+      "from": 69830,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "that the material forces us to confront. Systemic inequity means that those who start"
+    },
+    {
+      "fp": "jywbqc",
+      "i": 304,
+      "from": 69965,
+      "subject": "Discipline — car",
+      "entities": [
+        "discipline"
+      ],
+      "concept": "car",
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Discipline, 1981"
+      },
+      "antidote": {
+        "concept": "car",
+        "set": null,
+        "cast": [
+          "discipline"
+        ]
+      },
+      "_said": "start with a disadvantage actually have significantly less margin for error than the privileged, which is incredibly unfair. It is the rich kid who lacks discipline, who parties to"
+    },
+    {
+      "fp": "111ct68",
+      "i": 305,
+      "from": 70293,
+      "subject": "Discipline — family",
+      "entities": [
+        "discipline"
+      ],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Discipline, 1981"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": [
+          "discipline"
+        ]
+      },
+      "_said": "out by his parents' wealth, goes to a nice rehab facility, and gets a job at his uncle's firm. He survives his lack of discipline."
+    },
+    {
+      "fp": "vorsab",
+      "i": 306,
+      "from": 70526,
+      "subject": "Discipline — chains",
+      "entities": [
+        "discipline"
+      ],
+      "concept": "chains",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Discipline, 1981"
+      },
+      "antidote": {
+        "concept": "chains",
+        "cast": [
+          "discipline"
+        ]
+      },
+      "_said": "discipline. The disadvantaged kid from a poor zip code who makes the exact same undisciplined mistake ends up with a felony conviction goes to prison and his life is fundamentally "
+    },
+    {
+      "fp": "w50nhr",
+      "i": 307,
+      "from": 70843,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "destroys everything. The brutal truth is that the marginalized are forced by an unfair society to be exponentially"
+    },
+    {
+      "fp": "n1xux0",
+      "i": 308,
+      "from": 71016,
+      "subject": "Discipline",
+      "entities": [
+        "discipline"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Discipline, 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "discipline"
+        ]
+      },
+      "_said": "exponentially more disciplined just to survive. Discipline is not a magical cure all for systemic inequality. It will not instantly fix a broken rigged system. But the total"
+    },
+    {
+      "fp": "1ojwz4r",
+      "i": 309,
+      "from": 71347,
+      "subject": "Discipline — shield",
+      "entities": [
+        "discipline"
+      ],
+      "concept": "shield",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Discipline, 1981"
+      },
+      "antidote": {
+        "concept": "shield",
+        "cast": [
+          "discipline"
+        ]
+      },
+      "_said": "total lack of discipline, especially for the marginalized who have no safety net, will absolutely invariably"
+    },
+    {
+      "fp": "tyjlod",
+      "i": 310,
+      "from": 71491,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "sit with, 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "invariably guarantee ruin. Man, that is a heavy, incredibly sobering reality to sit with. The margin for error is just fundamentally different based on where you start. The virtue "
+    },
+    {
+      "fp": "185vbq6",
+      "i": 311,
+      "from": 71781,
+      "subject": "wallet",
+      "entities": [],
+      "concept": "wallet",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "wallet, 1981"
+      },
+      "antidote": {
+        "concept": "wallet",
+        "cast": []
+      },
+      "_said": "to save yourself is the very thing you have to grip the tightest precisely when the entire world is actively working against you. It is the heaviest truth in the book. And when a p"
+    },
+    {
+      "fp": "maypxu",
+      "i": 312,
+      "from": 72062,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "successfully navigates that brutal reality, when they manage their exhausted body and their tax mind"
+    },
+    {
+      "fp": "156p8od",
+      "i": 313,
+      "from": 72211,
+      "subject": "Discipline — phone",
+      "entities": [
+        "discipline"
+      ],
+      "concept": "phone",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Discipline, 1981"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": null,
+        "cast": [
+          "discipline"
+        ]
+      },
+      "_said": "mind against overwhelming odds, discipline scales up into something almost sacred. This brings us to the highest, most profound tier of the concept, the soul or what the text calls"
+    },
+    {
+      "fp": "t56a0u",
+      "i": 314,
+      "from": 72532,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone, 1981"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": null,
+        "cast": []
+      },
+      "_said": "calls the magisterial This is the culmination of everything. This is where personal internal self-mastery scales"
+    },
+    {
+      "fp": "oj7xr8",
+      "i": 315,
+      "from": 72727,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "scales outward into magnanimity, into civic duty, and into a life of service that extends far beyond your own ego."
+    },
+    {
+      "fp": "ie4i3w",
+      "i": 316,
+      "from": 72921,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "ego. Consider the historical weight of George Washington. After successfully vanquishing the British Empire,"
+    },
+    {
+      "fp": "3apdqb",
+      "i": 317,
+      "from": 73094,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Empire, Washington stood as the most beloved and powerful man in the Americas. He held the entire continent as his spoils of He won. He had the absolute loyalty and backing"
+    },
+    {
+      "fp": "482eje",
+      "i": 318,
+      "from": 73361,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, 1981"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": []
+      },
+      "_said": "backing of the Continental Army. He easily could have allowed himself to be crowned king. He could have established a monarchy and ensured his family ruled"
+    },
+    {
+      "fp": "16ulznp",
+      "i": 319,
+      "from": 73541,
+      "subject": "game",
+      "entities": [],
+      "concept": "game",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "game, 1981"
+      },
+      "antidote": {
+        "concept": "game",
+        "set": null,
+        "cast": []
+      },
+      "_said": "ruled North America for centuries. It's the historical equivalent of Washington playing the ultimate geopolitical video game, defeating the final boss, being offered"
+    },
+    {
+      "fp": "1hncy0x",
+      "i": 320,
+      "from": 73800,
+      "subject": "codeWindow",
+      "entities": [],
+      "concept": "codeWindow",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "code window, 1981"
+      },
+      "antidote": {
+        "concept": "codeWindow",
+        "set": null,
+        "cast": []
+      },
+      "_said": "offered the developer cheat codes to rule the server with absolute power forever, and"
+    },
+    {
+      "fp": "16txnc0",
+      "i": 321,
+      "from": 73937,
+      "subject": "tree",
+      "entities": [],
+      "concept": "tree",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "tree, leaves the room, 1981"
+      },
+      "antidote": {
+        "concept": "tree",
+        "set": null,
+        "cast": []
+      },
+      "_said": "he just unplugs the console, leaves the room, and goes back to his farm. He formally handed in his military commission and his sword"
+    },
+    {
+      "fp": "whrivl",
+      "i": 322,
+      "from": 74165,
+      "subject": "sword",
+      "entities": [],
+      "concept": "sword",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "sword, 1981"
+      },
+      "antidote": {
+        "concept": "sword",
+        "cast": []
+      },
+      "_said": "sword to Congress. When King George III of England heard a rumor that Washington planned to surrender his power, the king famously remarked, \"If he does that, he will be the greate"
+    },
+    {
+      "fp": "4hvni0",
+      "i": 323,
+      "from": 74512,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "world.\" Washington achieved that greatness because he understood the poison of power that Napoleon ignored."
+    },
+    {
+      "fp": "1hbulcn",
+      "i": 324,
+      "from": 74690,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "ignored. Washington knew the history of the Roman Republic. He consciously modeled himself after Cynthanatus, the legendary"
+    },
+    {
+      "fp": "69b4kp",
+      "i": 325,
+      "from": 74875,
+      "subject": "trophy",
+      "entities": [],
+      "concept": "trophy",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "trophy, 1981"
+      },
+      "antidote": {
+        "concept": "trophy",
+        "cast": []
+      },
+      "_said": "legendary Roman statesman who was given absolute dictatorial power to save the republic from invasion, achieved the military victory, and then immediately and willingly gave up"
+    },
+    {
+      "fp": "11t2ybs",
+      "i": 326,
+      "from": 75144,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "up his absolute power to return to his modest plow. He gave it all back."
+    },
+    {
+      "fp": "k4rfa6",
+      "i": 327,
+      "from": 75269,
+      "subject": "Discipline — summit",
+      "entities": [
+        "discipline"
+      ],
+      "concept": "summit",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Discipline, 1981"
+      },
+      "antidote": {
+        "concept": "summit",
+        "cast": [
+          "discipline"
+        ]
+      },
+      "_said": "back. Washington demonstrated the ultimate pinnacle form of discipline."
+    },
+    {
+      "fp": "up2ejy",
+      "i": 328,
+      "from": 75401,
+      "subject": "Discipline — gift",
+      "entities": [
+        "discipline"
+      ],
+      "concept": "gift",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Discipline, 1981"
+      },
+      "antidote": {
+        "concept": "gift",
+        "cast": [
+          "discipline"
+        ]
+      },
+      "_said": "discipline. Having the military and political power to do whatever you want, to enrich yourself infinitely and consciously choosing to give that power away for the greater good of "
+    },
+    {
+      "fp": "1fts9rg",
+      "i": 329,
+      "from": 75837,
+      "subject": "rocketLaunch",
+      "entities": [],
+      "concept": "rocketLaunch",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "rocket launch, 1981"
+      },
+      "antidote": {
+        "concept": "rocketLaunch",
+        "set": null,
+        "cast": []
+      },
+      "_said": "contrast to Washington in the story of Dove Charnie, the founder"
+    },
+    {
+      "fp": "qf8p9r",
+      "i": 330,
+      "from": 75929,
+      "subject": "rocketLaunch",
+      "entities": [],
+      "concept": "rocketLaunch",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "rocket launch, 1981"
+      },
+      "antidote": {
+        "concept": "rocketLaunch",
+        "set": null,
+        "cast": []
+      },
+      "_said": "founder of American Apparel. Oh, this story is wild. Charnie built this massive globally recognized company on the back of incredibly progressive ethical branding and fair labor pr"
+    },
+    {
+      "fp": "1ksozwv",
+      "i": 331,
+      "from": 76248,
+      "subject": "Discipline — coin",
+      "entities": [
+        "discipline"
+      ],
+      "concept": "coin",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Discipline, 1981"
+      },
+      "antidote": {
+        "concept": "coin",
+        "cast": [
+          "discipline"
+        ]
+      },
+      "_said": "in Los Angeles. He was a visionary, but as massive success and wealth arrived, he lacked the internal discipline to manage it. He was entirely consumed by his"
+    },
+    {
+      "fp": "143dxu8",
+      "i": 332,
+      "from": 76533,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "his own temptations. He ruled the company like a tyrant, refusing to share power or delegate, surrounding himself with yesmen. Yes, he intentionally"
+    },
+    {
+      "fp": "tfeypg",
+      "i": 333,
+      "from": 76773,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "intentionally surrounded himself with compliant lackeyis instead of competent, strong willed operators who could check his worst impulses. And when his erratic,"
+    },
+    {
+      "fp": "vn19sl",
+      "i": 334,
+      "from": 76997,
+      "subject": "wallet",
+      "entities": [],
+      "concept": "wallet",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "wallet, 1981"
+      },
+      "antidote": {
+        "concept": "wallet",
+        "cast": []
+      },
+      "_said": "erratic, in tempmperate behavior finally forced the company's board of directors to act to save the brand, they offered Charnie an incredibly generous"
+    },
+    {
+      "fp": "1qg11m4",
+      "i": 335,
+      "from": 77220,
+      "subject": "coin",
+      "entities": [],
+      "concept": "coin",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "coin, walk away, 1981"
+      },
+      "antidote": {
+        "concept": "coin",
+        "cast": []
+      },
+      "_said": "generous golden parachute. Just take the money and walk away, right? They told him to resign as CEO, step back into a lucrative role as a creative consultant, keep his massive stoc"
+    },
+    {
+      "fp": "11tvjeu",
+      "i": 336,
+      "from": 77532,
+      "subject": "coin",
+      "entities": [],
+      "concept": "coin",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "coin, 1981"
+      },
+      "antidote": {
+        "concept": "coin",
+        "cast": []
+      },
+      "_said": "take a guaranteed million-doll a year salary. All he had to do was surrender the control he was But his ego was so massive,"
+    },
+    {
+      "fp": "pa2ov2",
+      "i": 337,
+      "from": 77810,
+      "subject": "Discipline — rocketLaunch",
+      "entities": [
+        "discipline"
+      ],
+      "concept": "rocketLaunch",
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Discipline, 1981"
+      },
+      "antidote": {
+        "concept": "rocketLaunch",
+        "set": null,
+        "cast": [
+          "discipline"
+        ]
+      },
+      "_said": "massive, his discipline so non-existent that he couldn't stomach the idea of anyone else having authority over the empire he So what did he do? He chose to launch a scorched earth "
+    },
+    {
+      "fp": "1exdq4b",
+      "i": 338,
+      "from": 78156,
+      "subject": "Discipline",
+      "entities": [
+        "discipline"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Discipline, 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "discipline"
+        ]
+      },
+      "_said": "ultimately destroyed his own company rather than exhibit the discipline to step back."
+    },
+    {
+      "fp": "kov8yw",
+      "i": 339,
+      "from": 78283,
+      "subject": "fire",
+      "entities": [],
+      "concept": "fire",
+      "place": "office",
+      "confidence": 0.6,
+      "vox": {
+        "shot": "fire, walking away from a continent versus charnie bu, office, 1981"
+      },
+      "antidote": {
+        "concept": "fire",
+        "set": "office",
+        "cast": []
+      },
+      "_said": "back. Washington walking away from a continent versus Charnie burning down a t-shirt company because he couldn't share the boardroom. It proves that the history of the world is mos"
+    },
+    {
+      "fp": "18i99oo",
+      "i": 340,
+      "from": 78607,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "by the acquisition of power. Power doesn't automatically corrupt you."
+    },
+    {
+      "fp": "1qe4s5t",
+      "i": 341,
+      "from": 78703,
+      "subject": "Discipline",
+      "entities": [
+        "discipline"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Discipline, 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "discipline"
+        ]
+      },
+      "_said": "you. Power reveals your baseline level of discipline. Whatever you repeatedly do, whatever choices you make in the dark eventually"
+    },
+    {
+      "fp": "1v8kko6",
+      "i": 342,
+      "from": 78892,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "eventually hardens into who you are when the spotlight turns on."
+    },
+    {
+      "fp": "w9vi8",
+      "i": 343,
+      "from": 78986,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "on. That realization is the ultimate takeaway of all this material. We have to completely reframe our definition."
+    },
+    {
+      "fp": "pkt1o4",
+      "i": 344,
+      "from": 79195,
+      "subject": "Discipline and Never",
+      "entities": [
+        "discipline",
+        "never"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Discipline and Never, 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "discipline",
+          "never"
+        ]
+      },
+      "_said": "definition. Discipline was never about deprivation. It was never about punishing yourself or missing out on the genuine joys of a well-lived life. It is the exact opposite. It is t"
+    },
+    {
+      "fp": "1n29xq7",
+      "i": 345,
+      "from": 79529,
+      "subject": "chains",
+      "entities": [],
+      "concept": "chains",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "chains, 1981"
+      },
+      "antidote": {
+        "concept": "chains",
+        "cast": []
+      },
+      "_said": "literal non-negotiable price of freedom. The modern world is engineered to constantly try to own you."
+    },
+    {
+      "fp": "2735ck",
+      "i": 346,
+      "from": 79706,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "you. Yeah, it really is. Tries to own you through algorithms specifically coded to steal"
+    },
+    {
+      "fp": "hf9hds",
+      "i": 347,
+      "from": 79826,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "steal your attention through manufactured political outrage designed to hijack your amydala, through an endless cheap buffet of sugary appetites, and through sheer grinding economi"
+    },
+    {
+      "fp": "1a8adgs",
+      "i": 348,
+      "from": 80109,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "economic exhaustion. The self that you can command, the mind and body that you exert ownership over is the only thing in"
+    },
+    {
+      "fp": "1e6rn3v",
+      "i": 349,
+      "from": 80280,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "in this universe you will ever truly own. If you refuse to rule yourself, I promise you someone or something else will gladly step in and do it for you."
+    },
+    {
+      "fp": "6jpaby",
+      "i": 350,
+      "from": 80512,
+      "subject": "Discipline",
+      "entities": [
+        "discipline"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Discipline, 1981"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "discipline"
+        ]
+      },
+      "_said": "you. Because in the end, discipline is destiny."
+    }
+  ]
+}

@@ -1,0 +1,3492 @@
+{
+  "slug": "little-women",
+  "authored": false,
+  "briefs": [
+    {
+      "fp": "9b9k6",
+      "i": 0,
+      "from": 0,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1868"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "The first line of the most beloved book about sisters isn't about"
+    },
+    {
+      "fp": "13lq1ju",
+      "i": 1,
+      "from": 113,
+      "subject": "heart",
+      "entities": [],
+      "concept": "heart",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "heart, 1868"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": null,
+        "cast": []
+      },
+      "_said": "love. It's uh it's about money. Christmas won't be Christmas without any Exactly. And we've spent"
+    },
+    {
+      "fp": "1enohed",
+      "i": 2,
+      "from": 331,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1868"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "150 years treating this book like a cozy holiday sweater. Just completely ignoring the fact that it opens with a teenager doing"
+    },
+    {
+      "fp": "1dv47eu",
+      "i": 3,
+      "from": 580,
+      "subject": "home",
+      "entities": [],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "home, 1868"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": []
+      },
+      "_said": "doing this frustrated, bitter financial audit of her living room. Yeah. Okay. Let's unpack this because when you look closely at the historical analysis"
+    },
+    {
+      "fp": "5zcp8h",
+      "i": 4,
+      "from": 813,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, 1868"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "analysis um Louisa May Alcott's personal letters and like modern feminist economic critiques, you realize Little Women is actually a quiet war. It really"
+    },
+    {
+      "fp": "18uyg81",
+      "i": 5,
+      "from": 1053,
+      "subject": "Alcott — notes",
+      "entities": [
+        "alcott"
+      ],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Alcott, 1868"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": [
+          "alcott"
+        ]
+      },
+      "_said": "really is. It's a war between the book Alcott was paid to write, which was essentially this sanitized moral guide for girls, And the book she couldn't help writing a portrait of a "
+    },
+    {
+      "fp": "1yrpwx7",
+      "i": 6,
+      "from": 1370,
+      "subject": "Joe — coin",
+      "entities": [
+        "joe"
+      ],
+      "concept": "coin",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Joe, 1868"
+      },
+      "antidote": {
+        "concept": "coin",
+        "cast": [
+          "joe"
+        ]
+      },
+      "_said": "woman who wants work, money, and freedom way more than she wants a husband. Yeah. So Joe March isn't just a quirky tomboy. She is literature's first modern career woman"
+    },
+    {
+      "fp": "gueoy9",
+      "i": 7,
+      "from": 1629,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1868"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "woman smuggled directly inside a Christmas story. Smuggled is like the perfect word for it. The whole novel"
+    },
+    {
+      "fp": "rnsk1g",
+      "i": 8,
+      "from": 1826,
+      "subject": "heart",
+      "entities": [],
+      "concept": "heart",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "heart, read that ledger, 1868"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": null,
+        "cast": []
+      },
+      "_said": "novel operates on this hidden ledger. So our mission today is to read that ledger. We're going to look past the fireside chats and the holiday cheer to uncover what I like to call "
+    },
+    {
+      "fp": "1qxfogn",
+      "i": 9,
+      "from": 2153,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1868"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "phrase. Yeah, we're tracking the actual literal price tag on being a good woman in the 19th century. And to do that, I mean, we have to completely reset"
+    },
+    {
+      "fp": "1eqfbca",
+      "i": 10,
+      "from": 2400,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, 1868"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": []
+      },
+      "_said": "reset our understanding of the setup, right? People tend to think of the March family as this quaint"
+    },
+    {
+      "fp": "16imi49",
+      "i": 11,
+      "from": 2573,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1868"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "quaint historical idealized Very cozy, right? But they aren't quaint. They are in an economic freefall. Yeah. They are the gentile poor, which is this very specific,"
+    },
+    {
+      "fp": "sr3k6",
+      "i": 12,
+      "from": 2880,
+      "subject": "school",
+      "entities": [],
+      "concept": "school",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "school, 1868"
+      },
+      "antidote": {
+        "concept": "school",
+        "set": null,
+        "cast": []
+      },
+      "_said": "specific, agonizing social class in the 1860s. They have the"
+    },
+    {
+      "fp": "152csws",
+      "i": 13,
+      "from": 3000,
+      "subject": "school",
+      "entities": [],
+      "concept": "school",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "school, 1868"
+      },
+      "antidote": {
+        "concept": "school",
+        "set": null,
+        "cast": []
+      },
+      "_said": "the social expectations, you know, the education, the pedigree of the upper class, but absolutely none of the bank accounts. Zero."
+    },
+    {
+      "fp": "1th9eys",
+      "i": 14,
+      "from": 3180,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1868"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Zero. Let's look at the players we're dealing with here. You've got Meg, the eldest. She actually remembers when they were rich. She does before the collapse. And now"
+    },
+    {
+      "fp": "czbium",
+      "i": 15,
+      "from": 3425,
+      "subject": "Joe — family",
+      "entities": [
+        "joe"
+      ],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Joe, 1868"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": [
+          "joe"
+        ]
+      },
+      "_said": "she's a disgruntled governness trying to pretend she isn't essentially a servant. Then there's Joe, the 15-year-old force of nature who explicitly tells everyone she wants to be th"
+    },
+    {
+      "fp": "1006vu7",
+      "i": 16,
+      "from": 3713,
+      "subject": "Beth and Amy — family",
+      "entities": [
+        "beth",
+        "amy"
+      ],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Beth and Amy, 1868"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": [
+          "beth",
+          "amy"
+        ]
+      },
+      "_said": "family, Beth, the deeply shy homebound peacemaker. And Amy, the youngest, who is obsessed with status, art, and the exact"
+    },
+    {
+      "fp": "11u0vm8",
+      "i": 17,
+      "from": 3943,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, 1868"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": []
+      },
+      "_said": "exact aristocratic shape of her nose. And the context framing all four of them is really crucial here. Their father lost his property trying to help a friend out of a debt, right? "
+    },
+    {
+      "fp": "uz9bfb",
+      "i": 18,
+      "from": 4272,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, 1868"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": []
+      },
+      "_said": "a terrible financial decision. And now he's away at the Civil War serving as a chaplain. So you have these four girls and their mother left to survive in a society that expects the"
+    },
+    {
+      "fp": "n48t3p",
+      "i": 19,
+      "from": 4598,
+      "subject": "law",
+      "entities": [],
+      "concept": "law",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "law, 1868"
+      },
+      "antidote": {
+        "concept": "law",
+        "set": null,
+        "cast": []
+      },
+      "_said": "perfectly virtuous, perfectly refined, generous, while actively denying them any real legal"
+    },
+    {
+      "fp": "8sceef",
+      "i": 20,
+      "from": 4788,
+      "subject": "law",
+      "entities": [],
+      "concept": "law",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "law, 1868"
+      },
+      "antidote": {
+        "concept": "law",
+        "set": null,
+        "cast": []
+      },
+      "_said": "legal or professional means to survive without marrying a man. Which brings us to the first massive"
+    },
+    {
+      "fp": "18dxvuv",
+      "i": 21,
+      "from": 4949,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1868"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "massive realization here. Poverty is the engine of this story. Yes, it's not just a painted backdrop."
+    },
+    {
+      "fp": "1k3hard",
+      "i": 22,
+      "from": 5105,
+      "subject": "fire",
+      "entities": [],
+      "concept": "fire",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "fire, 1868"
+      },
+      "antidote": {
+        "concept": "fire",
+        "cast": []
+      },
+      "_said": "backdrop. Drop yourself right into chapter 1. It's twilight. The fire light is flickering on a faded carpet and really plain worn out furniture."
+    },
+    {
+      "fp": "1xdhe43",
+      "i": 23,
+      "from": 5352,
+      "subject": "Joe",
+      "entities": [
+        "joe"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Joe, 1868"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "joe"
+        ]
+      },
+      "_said": "Yeah. Joe is lying flat on the rug, examining the worn heels of her shoes in this gentlemanly manner, and she is just grumbling about"
+    },
+    {
+      "fp": "hytv3v",
+      "i": 24,
+      "from": 5618,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1868"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "about the fundamental injustice of having nothing. What's fascinating there is how that poverty drives every single plot point. Nearly every moral lesson these girls supposedly lea"
+    },
+    {
+      "fp": "1ddhcsp",
+      "i": 25,
+      "from": 5937,
+      "subject": "coin",
+      "entities": [],
+      "concept": "coin",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "coin, falling apart at the seams, 1868"
+      },
+      "antidote": {
+        "concept": "coin",
+        "cast": []
+      },
+      "_said": "is at its core a lesson about money. Oh, absolutely. It's about gifts they can't afford to buy, clothes that are falling apart at the seams, and just the sheer grinding"
+    },
+    {
+      "fp": "s3mhap",
+      "i": 26,
+      "from": 6197,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1868"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "grinding frustration of being poor but having to look respectable to the Like Meg attending the"
+    },
+    {
+      "fp": "mns230",
+      "i": 27,
+      "from": 6365,
+      "subject": "Alcott",
+      "entities": [
+        "alcott"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Alcott, 1868"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "alcott"
+        ]
+      },
+      "_said": "wealthy Moffets Oh, Vanity Fair. Yes. She goes to this estate, which Alcott literally calls Vanity Fair, referencing the classic allegory for a place of shallow"
+    },
+    {
+      "fp": "17g6m1",
+      "i": 28,
+      "from": 6648,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1868"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "shallow materialistic pursuits. Me gets there and feels utterly destitute in her mended, outdated, taratan dress."
+    },
+    {
+      "fp": "1qo3zy0",
+      "i": 29,
+      "from": 6864,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1868"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "dress. Yeah. And she quickly realizes that this high society she desperately wants to be part of, they only value her once they literally squeeze her into a tight corset and put he"
+    },
+    {
+      "fp": "2gxeii",
+      "i": 30,
+      "from": 7212,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1868"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "a doll, painting her face and parading her around. And she allows it because the economic and social pressure to fit in is just"
+    },
+    {
+      "fp": "1xrw9ln",
+      "i": 31,
+      "from": 7428,
+      "subject": "school",
+      "entities": [],
+      "concept": "school",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "school, 1868"
+      },
+      "antidote": {
+        "concept": "school",
+        "set": null,
+        "cast": []
+      },
+      "_said": "just so immense. The lesson she takes away isn't just the Sunday school moral that vanity is bad. It's that the wealthy world is"
+    },
+    {
+      "fp": "1vrxy5z",
+      "i": 32,
+      "from": 7661,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1868"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "is a transaction. She sees firsthand that high society is a marketplace where young women are the goods on display. Wow."
+    },
+    {
+      "fp": "1crgctw",
+      "i": 33,
+      "from": 7915,
+      "subject": "coin",
+      "entities": [],
+      "concept": "coin",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "coin, 1868"
+      },
+      "antidote": {
+        "concept": "coin",
+        "cast": []
+      },
+      "_said": "Wow. Yeah. And if you don't have the currency of wealth, you have to offer the currency of your physical appearance. Let me play devil's advocate for a second, though."
+    },
+    {
+      "fp": "b19xmj",
+      "i": 34,
+      "from": 8124,
+      "subject": "coin",
+      "entities": [],
+      "concept": "coin",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "coin, reading say that lacking money is what builds t, 1868"
+      },
+      "antidote": {
+        "concept": "coin",
+        "cast": []
+      },
+      "_said": "though. Doesn't the traditional reading say that lacking money is what builds the character of the March girls, right? The noble"
+    },
+    {
+      "fp": "hqhuu4",
+      "i": 35,
+      "from": 8323,
+      "subject": "coin",
+      "entities": [],
+      "concept": "coin",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "coin, 1868"
+      },
+      "antidote": {
+        "concept": "coin",
+        "cast": []
+      },
+      "_said": "noble poor. Yeah. That the lack of wealth is what makes them so noble and close-knit compared to the rich, lonely kids like Lorie? I mean, that's the mythology"
+    },
+    {
+      "fp": "oiowlx",
+      "i": 36,
+      "from": 8556,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1868"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "mythology Alcott's publishers wanted, sure, but if you actually look at the text, they are naturally noble. They are incredibly bitter about"
+    },
+    {
+      "fp": "hzmn76",
+      "i": 37,
+      "from": 8776,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1868"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "about their situation. Meg explicitly complains it's a dreadful, unjust world."
+    },
+    {
+      "fp": "18ybijn",
+      "i": 38,
+      "from": 8937,
+      "subject": "Joe",
+      "entities": [
+        "joe"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Joe, sitting around singing hymns about how blessed, 1868"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "joe"
+        ]
+      },
+      "_said": "world. Joe literally calls their daily life a grind. A grind. Yeah, she says that they aren't sitting around singing hymns about how blessed they are to be poor. They"
+    },
+    {
+      "fp": "flp7wp",
+      "i": 39,
+      "from": 9177,
+      "subject": "Joe",
+      "entities": [
+        "joe"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Joe, 1868"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "joe"
+        ]
+      },
+      "_said": "They are frustrated, angry teenagers who feel cheated. Oh, true. Joe even says it's bad enough being a girl, but being a poor one is worse. Exactly. They aren't naturally saints. T"
+    },
+    {
+      "fp": "9wtcp1",
+      "i": 40,
+      "from": 9518,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1868"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "out the economics of goodness. You know, trying to find out what it costs them daily just to be perceived"
+    },
+    {
+      "fp": "n4culo",
+      "i": 41,
+      "from": 9679,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1868"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "perceived as respectable. Exactly. And if goodness isn't a natural state for them, we have to look at how they achieve it."
+    },
+    {
+      "fp": "b7d9ch",
+      "i": 42,
+      "from": 9866,
+      "subject": "Marmy",
+      "entities": [
+        "marmy"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Marmy, 1868"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "marmy"
+        ]
+      },
+      "_said": "it. Because it is a performance imposed on Oh, okay. Flashback to when they were younger, a scene Marmy brings up. She physically tied peace bags,"
+    },
+    {
+      "fp": "1pbzlu",
+      "i": 43,
+      "from": 10200,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1868"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "literal heavy bags of fabric, and scrap onto"
+    },
+    {
+      "fp": "1u9xlmc",
+      "i": 44,
+      "from": 10296,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, 1868"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": []
+      },
+      "_said": "onto her daughter's backs so they could play Pilgrim's For those who might"
+    },
+    {
+      "fp": "142rdyc",
+      "i": 45,
+      "from": 10406,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1868"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "might not know, Pilgrim's Progress was this wildly popular 17th century Christian allegory where a guy literally trudges through swamps and mountains with a massive burden on his b"
+    },
+    {
+      "fp": "5tw6ls",
+      "i": 46,
+      "from": 10716,
+      "subject": "Marmy",
+      "entities": [
+        "marmy"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Marmy, 1868"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "marmy"
+        ]
+      },
+      "_said": "heaven. So Marmy is literally strapping physical baggage to her children. She is. They had to trudge from the dark cellar representing the"
+    },
+    {
+      "fp": "t37ed5",
+      "i": 47,
+      "from": 10913,
+      "subject": "ledge",
+      "entities": [],
+      "concept": "ledge",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "ledge, 1868"
+      },
+      "antidote": {
+        "concept": "ledge",
+        "set": null,
+        "cast": []
+      },
+      "_said": "city of destruction all the way up to the roof representing the celestial city. That is so intense for a kids game, right?"
+    },
+    {
+      "fp": "1unpzn5",
+      "i": 48,
+      "from": 11131,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, 1868"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": []
+      },
+      "_said": "right? Virtue is not an innate biological trait of the March girls. It is a role- playinging game. It is a grueling physical assignment handed down by their mother to train them fo"
+    },
+    {
+      "fp": "hul27a",
+      "i": 49,
+      "from": 11541,
+      "subject": "game",
+      "entities": [],
+      "concept": "game",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "game, carry burdens without complaining, 1868"
+      },
+      "antidote": {
+        "concept": "game",
+        "set": null,
+        "cast": []
+      },
+      "_said": "they carry burdens without complaining. And you see exactly what happens when they stop playing the game."
+    },
+    {
+      "fp": "8hogme",
+      "i": 50,
+      "from": 11693,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1868"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "In the experiments chapter, the girls decide, you know what? We're taking a week off. The best chapter."
+    },
+    {
+      "fp": "1mpr2rw",
+      "i": 51,
+      "from": 11829,
+      "subject": "Joe — butterfly",
+      "entities": [
+        "joe"
+      ],
+      "concept": "butterfly",
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Joe, 1868"
+      },
+      "antidote": {
+        "concept": "butterfly",
+        "set": null,
+        "cast": [
+          "joe"
+        ]
+      },
+      "_said": "chapter. You're going to stop performing this endless goodness, and the household completely collapses into chaos. It ends with Joe serving these scorched omelets and bitter boiled"
+    },
+    {
+      "fp": "znq87i",
+      "i": 52,
+      "from": 12177,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1868"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "tea to unexpected guests. It's a total disaster. It proves that goodness isn't a state of being."
+    },
+    {
+      "fp": "1r7pb50",
+      "i": 53,
+      "from": 12355,
+      "subject": "home",
+      "entities": [],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "home, 1868"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": []
+      },
+      "_said": "being. It's manual labor. It is unpaid domestic labor. Mhm. And the moment the labor stops, the illusion of the happy good home just I"
+    },
+    {
+      "fp": "5w632m",
+      "i": 54,
+      "from": 12643,
+      "subject": "Marmy — home",
+      "entities": [
+        "marmy"
+      ],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Marmy, 1868"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": [
+          "marmy"
+        ]
+      },
+      "_said": "I always thought Marmy was just naturally saintly, though. She's the moral compass of the whole era. She never seems to break character, so surely someone in this house is just inh"
+    },
+    {
+      "fp": "1642npa",
+      "i": 55,
+      "from": 12912,
+      "subject": "Joe and Amy",
+      "entities": [
+        "joe",
+        "amy"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Joe and Amy, falls through the ice and nearly drowns, 1868"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "joe",
+          "amy"
+        ]
+      },
+      "_said": "remember Marmy's shocking confession to Joe after Amy falls through the ice and nearly drowns. Joe is terrified by her own furious temper."
+    },
+    {
+      "fp": "17v9k2i",
+      "i": 56,
+      "from": 13159,
+      "subject": "Marmy — compass",
+      "entities": [
+        "marmy"
+      ],
+      "concept": "compass",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Marmy, 1868"
+      },
+      "antidote": {
+        "concept": "compass",
+        "cast": [
+          "marmy"
+        ]
+      },
+      "_said": "temper. And Marmy, the ultimate unflapable moral compass, says, \"I am angry nearly every day of my life.\""
+    },
+    {
+      "fp": "1w5am3f",
+      "i": 57,
+      "from": 13349,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1868"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "life.\" Listeners today talk constantly about emotional labor and burnout."
+    },
+    {
+      "fp": "1up5yy2",
+      "i": 58,
+      "from": 13495,
+      "subject": "Alcott and Marmy — family",
+      "entities": [
+        "alcott",
+        "marmy"
+      ],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Alcott and Marmy, 1868"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": [
+          "alcott",
+          "marmy"
+        ]
+      },
+      "_said": "burnout. What Alcott is showing us here is that the idealized 19th century nuclear family structure was built on that exact burnout Marmy is masking her rage to keep the"
+    },
+    {
+      "fp": "1lm4ym5",
+      "i": 59,
+      "from": 13805,
+      "subject": "Marmy — family",
+      "entities": [
+        "marmy"
+      ],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Marmy, 1868"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": [
+          "marmy"
+        ]
+      },
+      "_said": "family functioning. It completely reframes her character. Even Marmy is just performing. She has just gotten better at hiding the effort. She has to actively"
+    },
+    {
+      "fp": "1mkpof4",
+      "i": 60,
+      "from": 14078,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1868"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "actively wrestle her anger into submission every single day because an angry poor woman"
+    },
+    {
+      "fp": "1ws7n16",
+      "i": 61,
+      "from": 14232,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, 1868"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": []
+      },
+      "_said": "woman in the 1860s has no social safety net. Our calm is a survival mechanism. So even the saintly mother is proving that the economics of goodness require this constant"
+    },
+    {
+      "fp": "15rpxfx",
+      "i": 62,
+      "from": 14515,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1868"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "constant exhausting daily labor. And if goodness requires unpaid emotional labor, we have to look at what happens when these girls actually try to enter the paid public labor marke"
+    },
+    {
+      "fp": "5z3hpp",
+      "i": 63,
+      "from": 14786,
+      "subject": "wallet",
+      "entities": [],
+      "concept": "wallet",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "wallet, sitting around a parlor waiting for rich husban, 1868"
+      },
+      "antidote": {
+        "concept": "wallet",
+        "cast": []
+      },
+      "_said": "market because the little women earn. This is not a story of passive maidens sitting around a parlor waiting for rich husbands to save them. Absolutely"
+    },
+    {
+      "fp": "1944c4a",
+      "i": 64,
+      "from": 14995,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, arrives from washington saying their father, 1868"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": []
+      },
+      "_said": "Absolutely not. Think about chapter 15. The terrifying telegram arrives from Washington saying their father is deathly ill."
+    },
+    {
+      "fp": "1blo82",
+      "i": 65,
+      "from": 15201,
+      "subject": "Joe — home",
+      "entities": [
+        "joe"
+      ],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Joe, 1868"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": [
+          "joe"
+        ]
+      },
+      "_said": "ill. Joe rushes into the house, tears off her bonnet, and reveals this violently shorn head. She has cut off her beautiful chestnut mane, which the book constantly reminds us is he"
+    },
+    {
+      "fp": "56awxe",
+      "i": 66,
+      "from": 15679,
+      "subject": "Marmy",
+      "entities": [
+        "marmy"
+      ],
+      "concept": null,
+      "place": "hospital",
+      "confidence": 0.85,
+      "vox": {
+        "shot": "Marmy, hospital, 1868"
+      },
+      "antidote": {
+        "concept": null,
+        "set": "hospital",
+        "cast": [
+          "marmy"
+        ]
+      },
+      "_said": "to send Marmy to the hospital. It's a breathtaking moment. And we have to understand the mechanism of what's happening here. In the 1860s, there was a massive market for human hair"
+    },
+    {
+      "fp": "15etrv6",
+      "i": 67,
+      "from": 16058,
+      "subject": "Joe",
+      "entities": [
+        "joe"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Joe, 1868"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "joe"
+        ]
+      },
+      "_said": "women. Joe goes to a barber, negotiates a price, and sells her own body parts."
+    },
+    {
+      "fp": "4008xf",
+      "i": 68,
+      "from": 16193,
+      "subject": "Amy — school",
+      "entities": [
+        "amy"
+      ],
+      "concept": "school",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Amy, 1868"
+      },
+      "antidote": {
+        "concept": "school",
+        "set": null,
+        "cast": [
+          "amy"
+        ]
+      },
+      "_said": "parts. Female labor, the literal selling of the female body, is the only thing keeping this family afloat in a crisis. And that earning mentality scaled all the way down to the you"
+    },
+    {
+      "fp": "kape2o",
+      "i": 69,
+      "from": 16485,
+      "subject": "Amy — school",
+      "entities": [
+        "amy"
+      ],
+      "concept": "school",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Amy, 1868"
+      },
+      "antidote": {
+        "concept": "school",
+        "set": null,
+        "cast": [
+          "amy"
+        ]
+      },
+      "_said": "school trading pickled limes. Love lime. Pickled limes were a real cheap snack imported from the West Indies that kids went crazy for back then. It sounds like a cute childhood thi"
+    },
+    {
+      "fp": "q7mwun",
+      "i": 70,
+      "from": 16860,
+      "subject": "funnelTrap",
+      "entities": [],
+      "concept": "funnelTrap",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "funnel trap, 1868"
+      },
+      "antidote": {
+        "concept": "funnelTrap",
+        "cast": []
+      },
+      "_said": "ruthless. She's managing debts, trading favors, and building social capital with these It's"
+    },
+    {
+      "fp": "o1idl7",
+      "i": 71,
+      "from": 17016,
+      "subject": "law",
+      "entities": [],
+      "concept": "law",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "law, 1868"
+      },
+      "antidote": {
+        "concept": "law",
+        "set": null,
+        "cast": []
+      },
+      "_said": "It's essentially 19th century networking. She's acting like a modern PR manager, realizing that in a world where she has no legal"
+    },
+    {
+      "fp": "lhbpql",
+      "i": 72,
+      "from": 17217,
+      "subject": "law",
+      "entities": [],
+      "concept": "law",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "law, 1868"
+      },
+      "antidote": {
+        "concept": "law",
+        "set": null,
+        "cast": []
+      },
+      "_said": "legal financial power. Social leverage is the only currency she can actually control. Let me stop you there, though. We are talking so much about"
+    },
+    {
+      "fp": "l9drc8",
+      "i": 73,
+      "from": 17445,
+      "subject": "Beth — home",
+      "entities": [
+        "beth"
+      ],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Beth, 1868"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": [
+          "beth"
+        ]
+      },
+      "_said": "about their independent hustle, but what about Mr. Lawrence, the rich neighbor? He literally gives Beth a He does. He sends over ice cream and hot house flowers. He"
+    },
+    {
+      "fp": "1plazu8",
+      "i": 74,
+      "from": 17762,
+      "subject": "wallet",
+      "entities": [],
+      "concept": "wallet",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "wallet, 1868"
+      },
+      "antidote": {
+        "concept": "wallet",
+        "cast": []
+      },
+      "_said": "He gives Meg a silk dress. They absolutely have a wealthy male benefactor swooping in to save the day They"
+    },
+    {
+      "fp": "1vllmax",
+      "i": 75,
+      "from": 18002,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1868"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "They do have a benefactor, but the text is obsessed with how they feel about that dynamic. Notice how they deeply resent needing it."
+    },
+    {
+      "fp": "vllv7r",
+      "i": 76,
+      "from": 18199,
+      "subject": "Joe — coin",
+      "entities": [
+        "joe"
+      ],
+      "concept": "coin",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Joe, 1868"
+      },
+      "antidote": {
+        "concept": "coin",
+        "cast": [
+          "joe"
+        ]
+      },
+      "_said": "it. Joe explicitly states she sold her hair because she hates borrowing money. She didn't want to ask March and she certainly didn't want to ask"
+    },
+    {
+      "fp": "1ueigdm",
+      "i": 77,
+      "from": 18429,
+      "subject": "coin",
+      "entities": [],
+      "concept": "coin",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "coin, 1868"
+      },
+      "antidote": {
+        "concept": "coin",
+        "cast": []
+      },
+      "_said": "ask Mr. Lawrence. They crave their own capital, not his Oh, because charity makes them indebted. If you take the rich man's money, you owe him your compliance. Precisely. They want"
+    },
+    {
+      "fp": "1vj6fkd",
+      "i": 78,
+      "from": 18816,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1868"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "fiercely determined to pay their own price of goodness rather than being bought by the patriarchy next door. But"
+    },
+    {
+      "fp": "ni5n5s",
+      "i": 79,
+      "from": 18981,
+      "subject": "Beth — family",
+      "entities": [
+        "beth"
+      ],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Beth, 1868"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": [
+          "beth"
+        ]
+      },
+      "_said": "But what happens to the sister who refuses to hustle? Which brings us to Oh, Beth. Beth is the impossible ideal"
+    },
+    {
+      "fp": "wnbj9o",
+      "i": 80,
+      "from": 19231,
+      "subject": "Beth",
+      "entities": [
+        "beth"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Beth, 1868"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "beth"
+        ]
+      },
+      "_said": "ideal that Elcott actually has to kill. The tragedy of Beth is arguably the most misunderstood part of a novel."
+    },
+    {
+      "fp": "dxouhu",
+      "i": 81,
+      "from": 19406,
+      "subject": "Beth — storm",
+      "entities": [
+        "beth"
+      ],
+      "concept": "storm",
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Beth, 1868"
+      },
+      "antidote": {
+        "concept": "storm",
+        "set": null,
+        "cast": [
+          "beth"
+        ]
+      },
+      "_said": "novel. Picture Beth quietly creeping upstairs in the freezing cold. She's clutching a camper bottle trying to hide her red eyes. She has just returned from"
+    },
+    {
+      "fp": "1pgyl40",
+      "i": 82,
+      "from": 19656,
+      "subject": "Joe — home",
+      "entities": [
+        "joe"
+      ],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Joe, 1868"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": [
+          "joe"
+        ]
+      },
+      "_said": "from the impoverished Hmel home where she was nursing their sick children because Me and Joe were too absorbed in their own busy lives to go."
+    },
+    {
+      "fp": "mj3w7p",
+      "i": 83,
+      "from": 19848,
+      "subject": "Beth — grave",
+      "entities": [
+        "beth"
+      ],
+      "concept": "grave",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Beth, carrying the trauma of the hummel baby, 1868"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": null,
+        "cast": [
+          "beth"
+        ]
+      },
+      "_said": "go. Yeah. And she's carrying the trauma of the Hummel baby literally dying in her arms. Beth is the sister who never wants anything for herself. She is the embodiment"
+    },
+    {
+      "fp": "1ie2v39",
+      "i": 84,
+      "from": 20136,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1868"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "embodiment of the Victorian angel in the Right. That poem. Yeah. that famous poem from the era that dictated women should be perfectly passive,"
+    },
+    {
+      "fp": "1vkfirq",
+      "i": 85,
+      "from": 20354,
+      "subject": "home",
+      "entities": [],
+      "concept": "home",
+      "place": "hospital",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "home, hospital, 1868"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": "hospital",
+        "cast": []
+      },
+      "_said": "passive, selfless spiritual centers of the home who expect nothing in return. You see it in her toys. She sets up a hospital in the closet for outcast dolls."
+    },
+    {
+      "fp": "1k9rjwz",
+      "i": 86,
+      "from": 20601,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1868"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "dolls. One is missing a head. Another has no arms or legs. She devotes herself exclusively to broken things that can offer her absolutely nothing. She is a black hole"
+    },
+    {
+      "fp": "l3zr1r",
+      "i": 87,
+      "from": 20916,
+      "subject": "grave",
+      "entities": [],
+      "concept": "grave",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "grave, 1868"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": null,
+        "cast": []
+      },
+      "_said": "hole of selflessness. And her death is the true cost of that pure selflessness. I hear that, but couldn't we just say she's a tragic victim of the era's poor medical care? Like, it"
+    },
+    {
+      "fp": "gowivn",
+      "i": 88,
+      "from": 21268,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1868"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Yeah, it's the Victorian era. Characters die of scarlet fever constantly in these books. Plus,"
+    },
+    {
+      "fp": "1hg9bv3",
+      "i": 89,
+      "from": 21420,
+      "subject": "Beth and Alcott — grave",
+      "entities": [
+        "beth",
+        "alcott"
+      ],
+      "concept": "grave",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Beth and Alcott, 1868"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": null,
+        "cast": [
+          "beth",
+          "alcott"
+        ]
+      },
+      "_said": "Plus, Alcott based Beth on her real life sister Lizzy, who actually died. Isn't this just a sentimental On the surface, that's"
+    },
+    {
+      "fp": "a2s39n",
+      "i": 90,
+      "from": 21655,
+      "subject": "Alcott",
+      "entities": [
+        "alcott"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Alcott, 1868"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "alcott"
+        ]
+      },
+      "_said": "that's what Alcott gives the reader. But from an architectural standpoint, in the novel's economic thesis, Alcott had to kill her."
+    },
+    {
+      "fp": "1wbs94i",
+      "i": 91,
+      "from": 21854,
+      "subject": "Beth",
+      "entities": [
+        "beth"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Beth, 1868"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "beth"
+        ]
+      },
+      "_said": "her. Think about the logic of the world she's built. If Beth survives to adulthood, it proves that a woman can be purely 100% selfless and still survive in this harsh"
+    },
+    {
+      "fp": "xn8kge",
+      "i": 92,
+      "from": 22135,
+      "subject": "Beth",
+      "entities": [
+        "beth"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Beth, 1868"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "beth"
+        ]
+      },
+      "_said": "harsh economic reality. A but she can't. She absolutely cannot. A woman who gives everything away and demands nothing will be literally bled dry by the world. Beth is, as the sayin"
+    },
+    {
+      "fp": "fjngkf",
+      "i": 93,
+      "from": 22557,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1868"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "living in the 19th century requires a selfishness"
+    },
+    {
+      "fp": "18zt4o4",
+      "i": 94,
+      "from": 22639,
+      "subject": "Beth — grave",
+      "entities": [
+        "beth"
+      ],
+      "concept": "grave",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Beth, 1868"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": null,
+        "cast": [
+          "beth"
+        ]
+      },
+      "_said": "selfishness that Beth refuses to possess. So her death isn't just a tearjerker, it's an indictment. Death is the ultimate price tag on being perfectly good. If you refuse"
+    },
+    {
+      "fp": "1c2wn5d",
+      "i": 95,
+      "from": 22910,
+      "subject": "Amy — family",
+      "entities": [
+        "amy"
+      ],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Amy, 1868"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": [
+          "amy"
+        ]
+      },
+      "_said": "refuse to participate in the economics of survival, you die. Exactly. And the sister who understands Beth's fate better than anyone else is Amy."
+    },
+    {
+      "fp": "1lo7d5e",
+      "i": 96,
+      "from": 23162,
+      "subject": "Amy — family",
+      "entities": [
+        "amy"
+      ],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Amy, sitting in the gloomy imposing rooms, 1868"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": [
+          "amy"
+        ]
+      },
+      "_said": "Amy. Here's where it gets really interesting because Amy is the most misread sister in the entire book. We have to look at the scene where she's sitting in the gloomy imposing room"
+    },
+    {
+      "fp": "og9mxm",
+      "i": 97,
+      "from": 23441,
+      "subject": "home",
+      "entities": [],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "home, 1868"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": []
+      },
+      "_said": "of Aunt March's house. She's dipping her pen in ink, very carefully drafting her last will in testament, misspelling it, of Testament with an eye,"
+    },
+    {
+      "fp": "s084cf",
+      "i": 98,
+      "from": 23673,
+      "subject": "Amy — family",
+      "entities": [
+        "amy"
+      ],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Amy, sitting alone planning her readers historically, 1868"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": [
+          "amy"
+        ]
+      },
+      "_said": "eye, right? Bequeeaving her cut curls and her few little trinkets to her family. She is a child sitting alone planning her Readers historically hate Amy. They despise her. They hat"
+    },
+    {
+      "fp": "fbky71",
+      "i": 99,
+      "from": 24005,
+      "subject": "Joe — fire",
+      "entities": [
+        "joe"
+      ],
+      "concept": "fire",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Joe, 1868"
+      },
+      "antidote": {
+        "concept": "fire",
+        "cast": [
+          "joe"
+        ]
+      },
+      "_said": "burns Joe's manuscript. She marries Lorie, the boy everyone wanted Joe to marry, and she gets to sail off to Europe and live an opulent life. But if you look closely, the novel qui"
+    },
+    {
+      "fp": "fz8729",
+      "i": 100,
+      "from": 24328,
+      "subject": "heart",
+      "entities": [],
+      "concept": "heart",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "heart, reads the marriage market entirely as a game, 1868"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": null,
+        "cast": []
+      },
+      "_said": "rewards her pragmatism. Oh, totally. Emmy reads the marriage market entirely as a game of economics. She totally does."
+    },
+    {
+      "fp": "2y42i2",
+      "i": 101,
+      "from": 24501,
+      "subject": "Amy",
+      "entities": [
+        "amy"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Amy, 1868"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "amy"
+        ]
+      },
+      "_said": "does. Remember when Aunt March gives Amy the turquoise ring? Amy doesn't just wear it because she's vain. She explicitly says she uses it as a physical"
+    },
+    {
+      "fp": "1q6deio",
+      "i": 102,
+      "from": 24744,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1868"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "physical psychological reminder to suppress her own selfishness, which is incredible, right? She gamifies morality. She knows"
+    },
+    {
+      "fp": "4z3a1j",
+      "i": 103,
+      "from": 24941,
+      "subject": "puppeteer",
+      "entities": [],
+      "concept": "puppeteer",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "puppeteer, holds the purse strings, 1868"
+      },
+      "antidote": {
+        "concept": "puppeteer",
+        "cast": []
+      },
+      "_said": "knows Aunt Marge holds the purse strings, so she performs the exact version of the good niece required to secure her She understands the laws of cover."
+    },
+    {
+      "fp": "9mnkwt",
+      "i": 104,
+      "from": 25171,
+      "subject": "Amy — heart",
+      "entities": [
+        "amy"
+      ],
+      "concept": "heart",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Amy, 1868"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": null,
+        "cast": [
+          "amy"
+        ]
+      },
+      "_said": "cover. In the 19th century, a woman's legal rights and property were subsumed by her husband upon marriage. Amy knows she is entering a high stakes"
+    },
+    {
+      "fp": "1uh0cxv",
+      "i": 105,
+      "from": 25392,
+      "subject": "Amy — fire",
+      "entities": [
+        "amy"
+      ],
+      "concept": "fire",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Amy, 1868"
+      },
+      "antidote": {
+        "concept": "fire",
+        "cast": [
+          "amy"
+        ]
+      },
+      "_said": "stakes legal contract, not a fairy tale. To get the capital to survive, she has to perform the goodness You cannot defend destroying a book, though. I know readers who still haven'"
+    },
+    {
+      "fp": "1cu5nim",
+      "i": 106,
+      "from": 25745,
+      "subject": "fire",
+      "entities": [],
+      "concept": "fire",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "fire, 1868"
+      },
+      "antidote": {
+        "concept": "fire",
+        "cast": []
+      },
+      "_said": "burning Joe's manuscript. Breaking a toy is one thing, but destroying a writer's work, that's just pure evil spite."
+    },
+    {
+      "fp": "lr7pi9",
+      "i": 107,
+      "from": 25941,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1868"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "spite. It was spiteful, yes, but let's look at the mechanism of what she actually did. This isn't like deleting a word document No."
+    },
+    {
+      "fp": "2lhppc",
+      "i": 108,
+      "from": 26124,
+      "subject": "book",
+      "entities": [],
+      "concept": "book",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "book, 1868"
+      },
+      "antidote": {
+        "concept": "book",
+        "set": null,
+        "cast": []
+      },
+      "_said": "No. Before typewriters, before cloud backups, copying a manuscript took hundreds of hours of manual labor by candle light. So it was an irreoverable destruction of Exactly. It was "
+    },
+    {
+      "fp": "1xoac2",
+      "i": 109,
+      "from": 26462,
+      "subject": "Amy — book",
+      "entities": [
+        "amy"
+      ],
+      "concept": "book",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Amy, 1868"
+      },
+      "antidote": {
+        "concept": "book",
+        "set": null,
+        "cast": [
+          "amy"
+        ]
+      },
+      "_said": "strike. Amy didn't just throw a tantrum and break a teacup. She destroyed Joe's capital. That manuscript"
+    },
+    {
+      "fp": "kokmey",
+      "i": 110,
+      "from": 26625,
+      "subject": "Joe and Amy — book",
+      "entities": [
+        "joe",
+        "amy"
+      ],
+      "concept": "book",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Joe and Amy, 1868"
+      },
+      "antidote": {
+        "concept": "book",
+        "set": null,
+        "cast": [
+          "joe",
+          "amy"
+        ]
+      },
+      "_said": "manuscript was Joe's potential earnings. Why did Amy do it? Because Joe had denied Amy social capital by refusing to take her to the theater with Lorie. Wow. Amy"
+    },
+    {
+      "fp": "1r92eai",
+      "i": 111,
+      "from": 26892,
+      "subject": "Amy — coin",
+      "entities": [
+        "amy"
+      ],
+      "concept": "coin",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Amy, 1868"
+      },
+      "antidote": {
+        "concept": "coin",
+        "cast": [
+          "amy"
+        ]
+      },
+      "_said": "Amy understood exactly where Joe's wealth lay and she leveled it to balance the scales. That is ruthless. But it makes perfect sense in this framework. Amy refuses to play by the l"
+    },
+    {
+      "fp": "i5gkb0",
+      "i": 112,
+      "from": 27261,
+      "subject": "Beth and Amy — gift",
+      "entities": [
+        "beth",
+        "amy"
+      ],
+      "concept": "gift",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Beth and Amy, 1868"
+      },
+      "antidote": {
+        "concept": "gift",
+        "cast": [
+          "beth",
+          "amy"
+        ]
+      },
+      "_said": "goodness. If Beth is what happens when you give everything away and demand nothing, Amy is what happens"
+    },
+    {
+      "fp": "fubl8c",
+      "i": 113,
+      "from": 27379,
+      "subject": "Joe and Amy and Lori",
+      "entities": [
+        "joe",
+        "amy",
+        "lori"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Joe and Amy, 1868"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "joe",
+          "amy",
+          "lori"
+        ]
+      },
+      "_said": "happens when you understand the market and demand your Which brings us to the climax of the entire economic subtext, which is Joe refusing Lori. If Amy accepts the market, Joe utte"
+    },
+    {
+      "fp": "wpfanb",
+      "i": 114,
+      "from": 27736,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1868"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "The great subversion. Okay, set the scene. It's a beautiful rolling green hill."
+    },
+    {
+      "fp": "12zzj28",
+      "i": 115,
+      "from": 27883,
+      "subject": "Joe",
+      "entities": [
+        "joe"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Joe, 1868"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "joe"
+        ]
+      },
+      "_said": "hill. The tension in the air is incredibly thick. Joe looks"
+    },
+    {
+      "fp": "1d49qi1",
+      "i": 116,
+      "from": 27984,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1868"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "looks at the wealthy, handsome boy next door. The boy every single reader since 1868 has been begging her to marry."
+    },
+    {
+      "fp": "vdv3eg",
+      "i": 117,
+      "from": 28197,
+      "subject": "heart",
+      "entities": [],
+      "concept": "heart",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "heart, 1868"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": null,
+        "cast": []
+      },
+      "_said": "marry. They're begging. Still, yeah. He is offering her love, enormous wealth, and a life of total ease. And she looks at him and tells him She turns"
+    },
+    {
+      "fp": "1kcefax",
+      "i": 118,
+      "from": 28464,
+      "subject": "heart",
+      "entities": [],
+      "concept": "heart",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "heart, 1868"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": null,
+        "cast": []
+      },
+      "_said": "turns down the romance every reader craves because she refuses to be absorbed into a man's world. She wants"
+    },
+    {
+      "fp": "4kj8fo",
+      "i": 119,
+      "from": 28644,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, 1868"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": []
+      },
+      "_said": "wants a Garrett and a pen more than she wants a rich husband. She is terrified of marriage as an institution. Look at her furious reaction earlier when John Brooks steals Meg's glo"
+    },
+    {
+      "fp": "bqlrst",
+      "i": 120,
+      "from": 28932,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, 1868"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": []
+      },
+      "_said": "mother it's a dreadful state of things. And she hates it. She says she wants to wear flat irons on her head to stop growing up. She views marriage not as a romantic culmination, bu"
+    },
+    {
+      "fp": "qck1dp",
+      "i": 121,
+      "from": 29200,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1868"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "theft of the sisterhood and a theft of her own But readers still argue she made a mistake. They say"
+    },
+    {
+      "fp": "8pgrfp",
+      "i": 122,
+      "from": 29376,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "notes, 1868"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": []
+      },
+      "_said": "say Lorie was rich. He wouldn't have controlled her. He loved her for her wildness. He would have let her write."
+    },
+    {
+      "fp": "uu44qr",
+      "i": 123,
+      "from": 29558,
+      "subject": "Lori — notes",
+      "entities": [
+        "lori"
+      ],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Lori, 1868"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": [
+          "lori"
+        ]
+      },
+      "_said": "write. Right. If she marries Lori, she never has to worry about money again. She could just sit in a mansion and write novels all day. It seems like the perfect solution to her pov"
+    },
+    {
+      "fp": "13jwfc3",
+      "i": 124,
+      "from": 29825,
+      "subject": "coin",
+      "entities": [],
+      "concept": "coin",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "coin, 1868"
+      },
+      "antidote": {
+        "concept": "coin",
+        "cast": []
+      },
+      "_said": "poverty. But Lor's wealth comes with a societal cage, no matter how much he loves her. We have to look at what being the wife of a prominent wealthy man actually entailed in"
+    },
+    {
+      "fp": "e0nh0h",
+      "i": 125,
+      "from": 30125,
+      "subject": "Joe",
+      "entities": [
+        "joe"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Joe, 1868"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "joe"
+        ]
+      },
+      "_said": "in the 19th century. It's not a free pass. Not at all. Early on, Joe tells him, \"I like adventures. I'm going to find some. To become"
+    },
+    {
+      "fp": "1iltlm3",
+      "i": 126,
+      "from": 30365,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1868"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Mrs. Theodore Lawrence is the absolute end of the adventure. It's the golden handcuffs."
+    },
+    {
+      "fp": "1858v81",
+      "i": 127,
+      "from": 30511,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "notes, leaving calling cards, 1868"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": []
+      },
+      "_said": "handcuffs. Precisely. She would become a society hostess. Her days would be filled with managing servants, leaving calling cards, hosting dinners for investors. Her writing would b"
+    },
+    {
+      "fp": "1on2rgh",
+      "i": 128,
+      "from": 30847,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1868"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "not a profession. She would be putting on that tight corset and silk dress from Vanity Fair So, refusing"
+    },
+    {
+      "fp": "1weugjk",
+      "i": 129,
+      "from": 31029,
+      "subject": "Joe and Lori — coin",
+      "entities": [
+        "joe",
+        "lori"
+      ],
+      "concept": "coin",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Joe and Lori, 1868"
+      },
+      "antidote": {
+        "concept": "coin",
+        "cast": [
+          "joe",
+          "lori"
+        ]
+      },
+      "_said": "refusing Lori is Joe absolutely refusing to sell out her goodness for cash. She won't make the trade. But then she does make a trade. And this is where the tragedy"
+    },
+    {
+      "fp": "14p5arq",
+      "i": 130,
+      "from": 31317,
+      "subject": "work",
+      "entities": [],
+      "concept": "work",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "work, 1868"
+      },
+      "antidote": {
+        "concept": "work",
+        "set": null,
+        "cast": []
+      },
+      "_said": "tragedy of literature's first career woman really hits. Let's look at Professor Bear. Oh, this scene breaks my heart."
+    },
+    {
+      "fp": "f41h2g",
+      "i": 131,
+      "from": 31488,
+      "subject": "Joe — home",
+      "entities": [
+        "joe"
+      ],
+      "concept": "home",
+      "place": "bedroom",
+      "confidence": 1,
+      "vox": {
+        "shot": "Joe, bedroom, 1868"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": "bedroom",
+        "cast": [
+          "joe"
+        ]
+      },
+      "_said": "heart. It's tough. Joe is in her room in New York staring into the fire. She is taking her lucrative, sensational stories, the ones that were actually paying the bills, keeping"
+    },
+    {
+      "fp": "u6zqpv",
+      "i": 132,
+      "from": 31797,
+      "subject": "home",
+      "entities": [],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "home, 1868"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": []
+      },
+      "_said": "keeping her independent, sending money back home, and she is throwing them into the flames. Yep. She burns them because"
+    },
+    {
+      "fp": "1jasdgk",
+      "i": 133,
+      "from": 32016,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1868"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "because Professor Bear, the older German scholar she respects, convinces her they aren't A man talks her out of her most"
+    },
+    {
+      "fp": "1tvcs7b",
+      "i": 134,
+      "from": 32227,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1868"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "most profitable market. it exactly mirrors Alcott's real life. We have to remember"
+    },
+    {
+      "fp": "1a71jsi",
+      "i": 135,
+      "from": 32400,
+      "subject": "Alcott — notes",
+      "entities": [
+        "alcott"
+      ],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Alcott, 1868"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": [
+          "alcott"
+        ]
+      },
+      "_said": "remember that Louisa May Alcott secretly wrote anonymous, bloody,"
+    },
+    {
+      "fp": "1nmxt4g",
+      "i": 136,
+      "from": 32501,
+      "subject": "Joe — notes",
+      "entities": [
+        "joe"
+      ],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Joe, writing a play, 1868"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": [
+          "joe"
+        ]
+      },
+      "_said": "bloody, thrilling pot boilers, so-called sensation fiction to pay her family's debts. She wrote about murder, drug addiction, revenge. She knew exactly what she was doing, and Joe "
+    },
+    {
+      "fp": "1xuvzae",
+      "i": 137,
+      "from": 32930,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1868"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "play called The Witch's Curse. She loved it. She was so into the fake poison, the russet boots,"
+    },
+    {
+      "fp": "1p3tjwj",
+      "i": 138,
+      "from": 33088,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1868"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "boots, the sensational drama. She loved the grit and the melodrama. It was her natural voice."
+    },
+    {
+      "fp": "hmvy15",
+      "i": 139,
+      "from": 33259,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1868"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "voice. And Bear makes her suppress that true profitable voice in exchange for sanitized morality. And we have to ask, at what cost?"
+    },
+    {
+      "fp": "1brkmut",
+      "i": 140,
+      "from": 33511,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "read bear as a positive mentor, 1868"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "cost? Let me push back on Bear being the bad guy here, though. I always read Bear as a positive mentor."
+    },
+    {
+      "fp": "1hdoy3r",
+      "i": 141,
+      "from": 33653,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "notes, write from the heart instead of chasing cheap, 1868"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": []
+      },
+      "_said": "mentor. He's the one who tells her to write from the heart instead of chasing cheap thrills. Doesn't he make"
+    },
+    {
+      "fp": "h945uc",
+      "i": 142,
+      "from": 33797,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "notes, writes the story about her family that actuall, 1868"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": []
+      },
+      "_said": "her a better, deeper writer? That's when she writes the story about her family that actually gets"
+    },
+    {
+      "fp": "nemlv6",
+      "i": 143,
+      "from": 33926,
+      "subject": "trophy",
+      "entities": [],
+      "concept": "trophy",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "trophy, 1868"
+      },
+      "antidote": {
+        "concept": "trophy",
+        "cast": []
+      },
+      "_said": "gets Morally, aesthetically, maybe. The book definitely frames it as a moral victory for her soul. But economically, no. He completely neuters her earning power in the"
+    },
+    {
+      "fp": "98dhc9",
+      "i": 144,
+      "from": 34262,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1868"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "the name of respectability. She goes from being a self-sustaining commercial writer"
+    },
+    {
+      "fp": "5u6gx9",
+      "i": 145,
+      "from": 34385,
+      "subject": "Amy — fire",
+      "entities": [
+        "amy"
+      ],
+      "concept": "fire",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Amy, 1868"
+      },
+      "antidote": {
+        "concept": "fire",
+        "cast": [
+          "amy"
+        ]
+      },
+      "_said": "writer dominating the sensation market to a struggling artist who needs to be Wow. So the price of being a good woman here is literally burning your own capital. Just like Amy"
+    },
+    {
+      "fp": "o8zdey",
+      "i": 146,
+      "from": 34670,
+      "subject": "Joe and Amy — fire",
+      "entities": [
+        "joe",
+        "amy"
+      ],
+      "concept": "fire",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Joe and Amy, 1868"
+      },
+      "antidote": {
+        "concept": "fire",
+        "cast": [
+          "joe",
+          "amy"
+        ]
+      },
+      "_said": "Amy burned Joe's manuscript to punish her, now Joe is burning her own work to appease the"
+    },
+    {
+      "fp": "kjl1n1",
+      "i": 147,
+      "from": 34807,
+      "subject": "heart",
+      "entities": [],
+      "concept": "heart",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "heart, 1868"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": null,
+        "cast": []
+      },
+      "_said": "the moral sensibilities of a man, which culminates in the ending of the The marriage to bear,"
+    },
+    {
+      "fp": "1f2rz92",
+      "i": 148,
+      "from": 34970,
+      "subject": "Joe and Alcott",
+      "entities": [
+        "joe",
+        "alcott"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Joe and Alcott, sitting at her desk in conquered massachusetts, 1868"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "joe",
+          "alcott"
+        ]
+      },
+      "_said": "bear, right? Picture Louisa May Alcott sitting at her desk in conquered Massachusetts. She is getting flooded with fan mail from girls demanding she marry Joe"
+    },
+    {
+      "fp": "u527h0",
+      "i": 149,
+      "from": 35265,
+      "subject": "Joe — heart",
+      "entities": [
+        "joe"
+      ],
+      "concept": "heart",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Joe, 1868"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": null,
+        "cast": [
+          "joe"
+        ]
+      },
+      "_said": "Joe off to Lorie. The pressure is immense, unbearable pressure. And she's so frustrated by the public demanding a standard romance that she deliberately marries Joe off to the olde"
+    },
+    {
+      "fp": "nsfrjg",
+      "i": 150,
+      "from": 35637,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1868"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "poor Professor Bear purely despite the The happy ending is"
+    },
+    {
+      "fp": "1x1jqdj",
+      "i": 151,
+      "from": 35781,
+      "subject": "Joe",
+      "entities": [
+        "joe"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Joe, 1868"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "joe"
+        ]
+      },
+      "_said": "is a negotiated defeat. It's not a wish granted. Because in chapter 1, what does Joe say? I can't get"
+    },
+    {
+      "fp": "ymedry",
+      "i": 152,
+      "from": 35940,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, 1868"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "get over my disappointment in not being a boy. She wants to fight in the war. She tells me she hates the idea of growing up to be Miss March. She never wanted to be a wife at all. "
+    },
+    {
+      "fp": "n49nd",
+      "i": 153,
+      "from": 36259,
+      "subject": "heart",
+      "entities": [],
+      "concept": "heart",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "heart, 1868"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": null,
+        "cast": []
+      },
+      "_said": "just a cynical, spiteful joke on the reader? It certainly feels like a punishment sometimes, like you want a wedding,"
+    },
+    {
+      "fp": "1bpsvwp",
+      "i": 154,
+      "from": 36429,
+      "subject": "heart",
+      "entities": [],
+      "concept": "heart",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "heart, 1868"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": null,
+        "cast": []
+      },
+      "_said": "wedding, fine. Here's a weird one. It's not a joke. It's a compromise. We have to understand the publishing mandates of the 1860s. The publisher and the audience simply wouldn't bu"
+    },
+    {
+      "fp": "7j6xup",
+      "i": 155,
+      "from": 36739,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1868"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "wealthy independent spinster. It was culturally unacceptable."
+    },
+    {
+      "fp": "lxnr2s",
+      "i": 156,
+      "from": 36830,
+      "subject": "heart",
+      "entities": [],
+      "concept": "heart",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "heart, 1868"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": null,
+        "cast": []
+      },
+      "_said": "unacceptable. Spinsters didn't sell books. Wow. Yeah. She had to give them a marriage to get the second half of the book published. So she gave them the most subversive one she cou"
+    },
+    {
+      "fp": "su8ex7",
+      "i": 157,
+      "from": 37130,
+      "subject": "school",
+      "entities": [],
+      "concept": "school",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "school, runs a school with him as a partner, 1868"
+      },
+      "antidote": {
+        "concept": "school",
+        "set": null,
+        "cast": []
+      },
+      "_said": "away with. Right. Because she doesn't marry a wealthy patriarch. She marries an older poor immigrant and instead of becoming a society wife, she inherits a house and runs a school "
+    },
+    {
+      "fp": "wecyrq",
+      "i": 158,
+      "from": 37468,
+      "subject": "heart",
+      "entities": [],
+      "concept": "heart",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "heart, 1868"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": null,
+        "cast": []
+      },
+      "_said": "Exactly. It's the ultimate concession to the economics of goodness. She pays the toll marriage to exist in the literary"
+    },
+    {
+      "fp": "1imddky",
+      "i": 159,
+      "from": 37665,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1868"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "literary marketplace, but she negotiates the Okay, I have to stop and ask a larger question here. Are we being too cynical? How so? Are we overstating this subversive reading?"
+    },
+    {
+      "fp": "l610ir",
+      "i": 160,
+      "from": 37975,
+      "subject": "Alcott",
+      "entities": [
+        "alcott"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Alcott, reading? because alcott genuinely believed in d, 1868"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "alcott"
+        ]
+      },
+      "_said": "reading? Because Alcott genuinely believed in duty. She genuinely believed in domestic warmth. The tenderness in this book isn't only"
+    },
+    {
+      "fp": "oky82",
+      "i": 161,
+      "from": 38179,
+      "subject": "heart",
+      "entities": [],
+      "concept": "heart",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "heart, 1868"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": null,
+        "cast": []
+      },
+      "_said": "only a Trojan horse. Look at Marm's real love for the girls or the pure unironic joy when"
+    },
+    {
+      "fp": "22tla3",
+      "i": 162,
+      "from": 38354,
+      "subject": "home",
+      "entities": [],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "home, read him as, 1868"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": []
+      },
+      "_said": "when Mr. March comes home from the war and praises their moral growth. That's true. And furthermore, Bear isn't just a punishment. You can read him as a"
+    },
+    {
+      "fp": "1jcfbcd",
+      "i": 163,
+      "from": 38565,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1868"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "a true intellectual equal who challenges Joe's mind in ways a society boy like Lorie never could. That is a very fair The warmth is real."
+    },
+    {
+      "fp": "1k1qaft",
+      "i": 164,
+      "from": 38844,
+      "subject": "Alcott — family",
+      "entities": [
+        "alcott"
+      ],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Alcott, 1868"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": [
+          "alcott"
+        ]
+      },
+      "_said": "real. Alcott deeply loved her family and that affection bleeds into the pages. But the warmth is the sugar."
+    },
+    {
+      "fp": "xh1elk",
+      "i": 165,
+      "from": 39050,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "read it, 1868"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "sugar. It's the sugar that makes the economic medicine go down. If the book was just a cold, cynical ledger of debts and societal traps, no one would have read it,"
+    },
+    {
+      "fp": "1sp2d2h",
+      "i": 166,
+      "from": 39321,
+      "subject": "Alcott — lightbulb",
+      "entities": [
+        "alcott"
+      ],
+      "concept": "lightbulb",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Alcott, 1868"
+      },
+      "antidote": {
+        "concept": "lightbulb",
+        "cast": [
+          "alcott"
+        ]
+      },
+      "_said": "it, right? It'd be too depressing. The genius of Alcott is that she wrapped a radical treatise on female financial"
+    },
+    {
+      "fp": "16t1r1b",
+      "i": 167,
+      "from": 39485,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1868"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "financial independence in the coziest Christmas sweater she could knit. So, what does this all mean? It means we need to reframe the entire legacy of the book."
+    },
+    {
+      "fp": "16c4eu0",
+      "i": 168,
+      "from": 39744,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1868"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "book. Little Women endures not because it is a cozy fireside holiday tale, but because it is brutally, unflinchingly honest about the cost of being good. It shows"
+    },
+    {
+      "fp": "i9waes",
+      "i": 169,
+      "from": 40020,
+      "subject": "coin",
+      "entities": [],
+      "concept": "coin",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "coin, 1868"
+      },
+      "antidote": {
+        "concept": "coin",
+        "cast": []
+      },
+      "_said": "shows the receipts. It shows the physical toll, the emotional burnout, and the literal dollars and cents required to survive as a virtuous woman. And the ultimate irony, every"
+    },
+    {
+      "fp": "6cx3hn",
+      "i": 170,
+      "from": 40279,
+      "subject": "Joe and Lori",
+      "entities": [
+        "joe",
+        "lori"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Joe and Lori, 1868"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "joe",
+          "lori"
+        ]
+      },
+      "_said": "every generation of readers that gets angry at the ending, every single reader who closes the book and still wishes Joe had married the rich handsome Lori, is only proving"
+    },
+    {
+      "fp": "1nuaq65",
+      "i": 171,
+      "from": 40507,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1868"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "proving Alcott's point. We are still a century and a half later demanding exactly what the 19th century world demanded of"
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "slug": "good-energy",
+  "world": {
+    "era": "2017–2017",
+    "approxYear": 2017,
+    "setting": "",
+    "register": "",
+    "forbid": []
+  },
+  "cast": {
+    "insulin": {
+      "name": "Insulin",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 2
+    }
+  },
+  "places": {
+    "hospital": {
+      "set": "hospital",
+      "look": "",
+      "mentions": 3
+    },
+    "office": {
+      "set": "office",
+      "look": "",
+      "mentions": 3
+    }
+  },
+  "objects": [
+    {
+      "concept": "food",
+      "mentions": 39,
+      "why": ""
+    },
+    {
+      "concept": "medical",
+      "mentions": 24,
+      "why": ""
+    },
+    {
+      "concept": "phone",
+      "mentions": 20,
+      "why": ""
+    },
+    {
+      "concept": "alarmClock",
+      "mentions": 12,
+      "why": ""
+    },
+    {
+      "concept": "target",
+      "mentions": 9,
+      "why": ""
+    },
+    {
+      "concept": "home",
+      "mentions": 5,
+      "why": ""
+    },
+    {
+      "concept": "school",
+      "mentions": 5,
+      "why": ""
+    },
+    {
+      "concept": "work",
+      "mentions": 5,
+      "why": ""
+    },
+    {
+      "concept": "laptopMockup",
+      "mentions": 5,
+      "why": ""
+    },
+    {
+      "concept": "storm",
+      "mentions": 5,
+      "why": ""
+    },
+    {
+      "concept": "coin",
+      "mentions": 5,
+      "why": ""
+    },
+    {
+      "concept": "coffee",
+      "mentions": 4,
+      "why": ""
+    }
+  ],
+  "spine": [
+    {
+      "act": "setup",
+      "fromFrame": 0,
+      "claim": ""
+    },
+    {
+      "act": "development",
+      "fromFrame": 18504,
+      "claim": ""
+    },
+    {
+      "act": "turn",
+      "fromFrame": 34531,
+      "claim": ""
+    },
+    {
+      "act": "consequence",
+      "fromFrame": 51905,
+      "claim": ""
+    },
+    {
+      "act": "close",
+      "fromFrame": 68251,
+      "claim": ""
+    }
+  ],
+  "authored": false
+}

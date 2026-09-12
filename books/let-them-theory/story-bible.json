@@ -1,0 +1,128 @@
+{
+  "slug": "let-them-theory",
+  "world": {
+    "era": "contemporary",
+    "approxYear": 1995,
+    "setting": "",
+    "register": "",
+    "forbid": []
+  },
+  "cast": {
+    "mel": {
+      "name": "Mel",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 2
+    },
+    "which": {
+      "name": "Which",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 2
+    }
+  },
+  "places": {
+    "cafe": {
+      "set": "cafe",
+      "look": "",
+      "mentions": 1
+    },
+    "street": {
+      "set": "street",
+      "look": "",
+      "mentions": 1
+    }
+  },
+  "objects": [
+    {
+      "concept": "family",
+      "mentions": 17,
+      "why": ""
+    },
+    {
+      "concept": "war",
+      "mentions": 7,
+      "why": ""
+    },
+    {
+      "concept": "heart",
+      "mentions": 7,
+      "why": ""
+    },
+    {
+      "concept": "school",
+      "mentions": 5,
+      "why": ""
+    },
+    {
+      "concept": "storm",
+      "mentions": 5,
+      "why": ""
+    },
+    {
+      "concept": "phone",
+      "mentions": 5,
+      "why": ""
+    },
+    {
+      "concept": "food",
+      "mentions": 4,
+      "why": ""
+    },
+    {
+      "concept": "fire",
+      "mentions": 3,
+      "why": ""
+    },
+    {
+      "concept": "wallet",
+      "mentions": 3,
+      "why": ""
+    },
+    {
+      "concept": "shield",
+      "mentions": 3,
+      "why": ""
+    },
+    {
+      "concept": "law",
+      "mentions": 3,
+      "why": ""
+    },
+    {
+      "concept": "home",
+      "mentions": 3,
+      "why": ""
+    }
+  ],
+  "spine": [
+    {
+      "act": "setup",
+      "fromFrame": 15,
+      "claim": ""
+    },
+    {
+      "act": "development",
+      "fromFrame": 7241,
+      "claim": ""
+    },
+    {
+      "act": "turn",
+      "fromFrame": 13709,
+      "claim": ""
+    },
+    {
+      "act": "consequence",
+      "fromFrame": 19352,
+      "claim": ""
+    },
+    {
+      "act": "close",
+      "fromFrame": 25301,
+      "claim": ""
+    }
+  ],
+  "authored": false
+}

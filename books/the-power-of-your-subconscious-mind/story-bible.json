@@ -1,0 +1,137 @@
+{
+  "slug": "the-power-of-your-subconscious-mind",
+  "world": {
+    "era": "pre-modern",
+    "approxYear": 0,
+    "setting": "",
+    "register": "",
+    "forbid": [
+      "phone",
+      "codeWindow",
+      "laptopMockup",
+      "rocketLaunch",
+      "funnelMetrics",
+      "dollarExchange",
+      "subway",
+      "car",
+      "alarmClock",
+      "medical"
+    ]
+  },
+  "cast": {
+    "murphy": {
+      "name": "Murphy",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 4
+    }
+  },
+  "places": {
+    "street": {
+      "set": "street",
+      "look": "",
+      "mentions": 2
+    },
+    "bedroom": {
+      "set": "bedroom",
+      "look": "",
+      "mentions": 1
+    },
+    "kitchen": {
+      "set": "kitchen",
+      "look": "",
+      "mentions": 1
+    }
+  },
+  "objects": [
+    {
+      "concept": "shadowSelf",
+      "mentions": 50,
+      "why": ""
+    },
+    {
+      "concept": "alarmClock",
+      "mentions": 25,
+      "why": ""
+    },
+    {
+      "concept": "codeWindow",
+      "mentions": 16,
+      "why": ""
+    },
+    {
+      "concept": "car",
+      "mentions": 14,
+      "why": ""
+    },
+    {
+      "concept": "work",
+      "mentions": 13,
+      "why": ""
+    },
+    {
+      "concept": "war",
+      "mentions": 11,
+      "why": ""
+    },
+    {
+      "concept": "phone",
+      "mentions": 10,
+      "why": ""
+    },
+    {
+      "concept": "storm",
+      "mentions": 10,
+      "why": ""
+    },
+    {
+      "concept": "gift",
+      "mentions": 9,
+      "why": ""
+    },
+    {
+      "concept": "coin",
+      "mentions": 8,
+      "why": ""
+    },
+    {
+      "concept": "shield",
+      "mentions": 8,
+      "why": ""
+    },
+    {
+      "concept": "home",
+      "mentions": 8,
+      "why": ""
+    }
+  ],
+  "spine": [
+    {
+      "act": "setup",
+      "fromFrame": 5,
+      "claim": ""
+    },
+    {
+      "act": "development",
+      "fromFrame": 16913,
+      "claim": ""
+    },
+    {
+      "act": "turn",
+      "fromFrame": 34349,
+      "claim": ""
+    },
+    {
+      "act": "consequence",
+      "fromFrame": 52634,
+      "claim": ""
+    },
+    {
+      "act": "close",
+      "fromFrame": 69482,
+      "claim": ""
+    }
+  ],
+  "authored": false
+}

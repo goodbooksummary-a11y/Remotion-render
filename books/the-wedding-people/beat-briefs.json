@@ -1,0 +1,2452 @@
+{
+  "slug": "the-wedding-people",
+  "authored": false,
+  "briefs": [
+    {
+      "fp": "gla4hw",
+      "i": 0,
+      "from": 2,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "She books the nicest room of her life to end it. And the first person she tells is the bride. Yeah. I mean, it is just such a vivid setup. It's this 19th century luxury hotel in Ne"
+    },
+    {
+      "fp": "1neok0k",
+      "i": 1,
+      "from": 338,
+      "subject": "crash",
+      "entities": [],
+      "concept": "crash",
+      "place": "highway",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "crash, standing there, highway, 1991"
+      },
+      "antidote": {
+        "concept": "crash",
+        "set": "highway",
+        "cast": []
+      },
+      "_said": "Right. And the bride is literally bleeding in a heavy brass elevator and our protagonist just standing there, you know, with a bottle of cat painkillers in her purse. It's wild. Yo"
+    },
+    {
+      "fp": "1crvxkf",
+      "i": 2,
+      "from": 874,
+      "subject": "Which — phone",
+      "entities": [
+        "which"
+      ],
+      "concept": "phone",
+      "place": "cafe",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Which, cafe, 1991"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": "cafe",
+        "cast": [
+          "which"
+        ]
+      },
+      "_said": "private, super dark plan and the most aggressively public celebration human beings throw. Oh, totally. A wedding is just chaos. Welcome to the deep dive you guys. Today we are unpa"
+    },
+    {
+      "fp": "1vya0l7",
+      "i": 3,
+      "from": 1334,
+      "subject": "heart",
+      "entities": [],
+      "concept": "heart",
+      "place": "cafe",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "heart, cafe, 1991"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": "cafe",
+        "cast": []
+      },
+      "_said": "It really is. And our mission for this conversation is to completely unpack what happens when those two opposing forces just slam into each other. We're going to be looking at this"
+    },
+    {
+      "fp": "pfihpa",
+      "i": 4,
+      "from": 1826,
+      "subject": "Phoebe",
+      "entities": [
+        "phoebe"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Phoebe, 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "phoebe"
+        ]
+      },
+      "_said": "Yeah. Going perfectly. Exactly. It is a completely manufactured, curated reality. And Phoebe, our protagonist, is the one woman who has entirely quit performing. She's just done. C"
+    },
+    {
+      "fp": "1g9394a",
+      "i": 5,
+      "from": 2172,
+      "subject": "Phoebe",
+      "entities": [
+        "phoebe"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Phoebe, 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "phoebe"
+        ]
+      },
+      "_said": "So, we are going to be tracking a very specific thesis here. Phoebe isn't saved by suddenly discovering some grand philosophical reason to live, right? She is saved by finding peop"
+    },
+    {
+      "fp": "4on8a2",
+      "i": 6,
+      "from": 2666,
+      "subject": "Which — heart",
+      "entities": [
+        "which"
+      ],
+      "concept": "heart",
+      "place": "cafe",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Which, cafe, 1991"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": "cafe",
+        "cast": [
+          "which"
+        ]
+      },
+      "_said": "No, it's the exhaustion. Yes. The sheer exhaustion of having to perform a happy life. And throughout this discussion, you just need to keep one core phrase in mind, which is the we"
+    },
+    {
+      "fp": "1cjjy67",
+      "i": 7,
+      "from": 3050,
+      "subject": "gift",
+      "entities": [],
+      "concept": "gift",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "gift, 1991"
+      },
+      "antidote": {
+        "concept": "gift",
+        "cast": []
+      },
+      "_said": "They represent everyone still actively, desperately performing a life juxtaposed against the one guest who simply stopped. So, let's drop right into the moment that performance act"
+    },
+    {
+      "fp": "1y4ukbv",
+      "i": 8,
+      "from": 3588,
+      "subject": "Phoebe and Leela and Which — shield",
+      "entities": [
+        "phoebe",
+        "leela",
+        "which"
+      ],
+      "concept": "shield",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Phoebe and Leela, 1991"
+      },
+      "antidote": {
+        "concept": "shield",
+        "cast": [
+          "phoebe",
+          "leela",
+          "which"
+        ]
+      },
+      "_said": "Phoebe is inside, the doors are closing, and suddenly Leela, who we quickly learn is the bride, forces her hand between these ancient wooden doors to stop them, which is a terrible"
+    },
+    {
+      "fp": "q4k27h",
+      "i": 9,
+      "from": 4013,
+      "subject": "Phoebe",
+      "entities": [
+        "phoebe"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Phoebe, 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "phoebe"
+        ]
+      },
+      "_said": "The doors just crush her hand, slicing her knuckles open. It's just an incredibly visceral opening to their dynamic. I mean, the bride is bleeding onto her own hand. And Phoebe jus"
+    },
+    {
+      "fp": "n56uaq",
+      "i": 10,
+      "from": 4402,
+      "subject": "Phoebe — family",
+      "entities": [
+        "phoebe"
+      ],
+      "concept": "family",
+      "place": "kitchen",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Phoebe, kitchen, 1991"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": "kitchen",
+        "cast": [
+          "phoebe"
+        ]
+      },
+      "_said": "And the bride, who is like desperately trying to maintain this air of total command despite bleeding in an elevator, demands to know whose family Phoebe belongs to. She has to cate"
+    },
+    {
+      "fp": "p203tm",
+      "i": 11,
+      "from": 4750,
+      "subject": "Phoebe",
+      "entities": [
+        "phoebe"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Phoebe, 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "phoebe"
+        ]
+      },
+      "_said": "Exactly. like, \"Are you with the groom's side or mine?\" And Phoebe just looked at her and says completely calmly with zero dramatic flare. She just goes, \"I'm here to kill Oh, wow."
+    },
+    {
+      "fp": "fwj394",
+      "i": 12,
+      "from": 5287,
+      "subject": "mask",
+      "entities": [],
+      "concept": "mask",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "mask, hold a secret that heavy, 1991"
+      },
+      "antidote": {
+        "concept": "mask",
+        "cast": []
+      },
+      "_said": "You really think so? Oh, absolutely. It is the moment the pressure valve releases. I mean, when you hold a secret that heavy, the cognitive load of pretending everything is fine is"
+    },
+    {
+      "fp": "149nhh0",
+      "i": 13,
+      "from": 5635,
+      "subject": "wallet",
+      "entities": [],
+      "concept": "wallet",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "wallet, walk away either, 1991"
+      },
+      "antidote": {
+        "concept": "wallet",
+        "cast": []
+      },
+      "_said": "releasing it to someone who has no emotional investment in your survival. It's just liberating. And she doesn't just drop the bomb and walk away either. She brings out these highly"
+    },
+    {
+      "fp": "1r2xbix",
+      "i": 14,
+      "from": 6043,
+      "subject": "Phoebe and Which — phone",
+      "entities": [
+        "phoebe",
+        "which"
+      ],
+      "concept": "phone",
+      "place": "cafe",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Phoebe and Which, cafe, 1991"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": "cafe",
+        "cast": [
+          "phoebe",
+          "which"
+        ]
+      },
+      "_said": "The CD. Yeah. Phoebe pulls out her ancient discman from her purse along with a CD called Sachs for Lovers, which is hilarious. It is. And she calmly explains to this horrified blee"
+    },
+    {
+      "fp": "yzqhae",
+      "i": 15,
+      "from": 6576,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "going to use her dead cat's tunaflavored painkillers. And she even says she is ensuring it will entirely bloodless because she refuses to make the hotel staff clean up a mess."
+    },
+    {
+      "fp": "144qb3y",
+      "i": 16,
+      "from": 6907,
+      "subject": "Which",
+      "entities": [
+        "which"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Which, holding on to her tidiness, 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "which"
+        ]
+      },
+      "_said": "Which is so telling, right? Notice how she is holding on to her tidiness. Like her identity as a good, considerate woman persists even in her plan for That's true. She's managing t"
+    },
+    {
+      "fp": "1x8k453",
+      "i": 17,
+      "from": 7435,
+      "subject": "Phoebe",
+      "entities": [
+        "phoebe"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Phoebe, read this scene, 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "phoebe"
+        ]
+      },
+      "_said": "Well, when I read this scene, I didn't see it as a grand release of a pressure valve at all. The bride is being incredibly annoying, right? Demanding to know her lineage. Yeah, she"
+    },
+    {
+      "fp": "1m8ktgb",
+      "i": 18,
+      "from": 7958,
+      "subject": "magnifier",
+      "entities": [],
+      "concept": "magnifier",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "magnifier, leave her alone so she could get back, 1991"
+      },
+      "antidote": {
+        "concept": "magnifier",
+        "cast": []
+      },
+      "_said": "Yeah. like she just wanted this entitled woman to leave her alone so she could get back to her plan. It wasn't a cry for help. Okay, I see what you mean. But look closer at the pow"
+    },
+    {
+      "fp": "4dem8x",
+      "i": 19,
+      "from": 8316,
+      "subject": "Phoebe — heart",
+      "entities": [
+        "phoebe"
+      ],
+      "concept": "heart",
+      "place": "cafe",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Phoebe, cafe, 1991"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": "cafe",
+        "cast": [
+          "phoebe"
+        ]
+      },
+      "_said": "She explicitly claims this is my wedding As if that gives her eminent domain over the entire hotel, the elevator, and everyone in it. Phoebe weaponized the ultimate truth to reclai"
+    },
+    {
+      "fp": "7dwh1r",
+      "i": 20,
+      "from": 8808,
+      "subject": "heart",
+      "entities": [],
+      "concept": "heart",
+      "place": "cafe",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "heart, cafe, 1991"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": "cafe",
+        "cast": []
+      },
+      "_said": "She was asserting her reality against a completely manufactured one. She is using the heaviest, most unvarnished truth to shatter the bride's illusion of total control. Oh, that's "
+    },
+    {
+      "fp": "1n1745b",
+      "i": 21,
+      "from": 9396,
+      "subject": "butterfly",
+      "entities": [],
+      "concept": "butterfly",
+      "place": "horizon",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "butterfly, leaves her head, horizon, 1991"
+      },
+      "antidote": {
+        "concept": "butterfly",
+        "set": "horizon",
+        "cast": []
+      },
+      "_said": "world. The plan loses its grip because the second it leaves her head, the physics of the situation change Right. The heavy unsayable thing forces a reaction and introduces chaos in"
+    },
+    {
+      "fp": "141c8ej",
+      "i": 22,
+      "from": 9833,
+      "subject": "Phoebe",
+      "entities": [
+        "phoebe"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Phoebe, 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "phoebe"
+        ]
+      },
+      "_said": "And that environment Espec builds is a concentrated performance machine. To understand the gravity of Phoebe dropping out of the social contract, we kind of have to look at what ev"
+    },
+    {
+      "fp": "1vryh4x",
+      "i": 23,
+      "from": 10193,
+      "subject": "Phoebe and Which — phone",
+      "entities": [
+        "phoebe",
+        "which"
+      ],
+      "concept": "phone",
+      "place": "cafe",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Phoebe and Which, standing in line and phoebe is just observing ri, cafe, 1991"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": "cafe",
+        "cast": [
+          "phoebe",
+          "which"
+        ]
+      },
+      "_said": "Definitely. And the lobby check-in line gives us the perfect window into this. We have these two bridesmaids standing in line and Phoebe is just observing right? We'll call them wh"
+    },
+    {
+      "fp": "ewzq07",
+      "i": 24,
+      "from": 10618,
+      "subject": "heart",
+      "entities": [],
+      "concept": "heart",
+      "place": "cafe",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "heart, whispering about kylie jenner, cafe, 1991"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": "cafe",
+        "cast": []
+      },
+      "_said": "I love that. They really act as the Greek chorus of this wedding. They totally do. They are the absolute perfect archetype of modern wedding attendees. They start off whispering ab"
+    },
+    {
+      "fp": "7h7yup",
+      "i": 25,
+      "from": 10973,
+      "subject": "medical",
+      "entities": [],
+      "concept": "medical",
+      "place": "hospital",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "medical, hospital, 1991"
+      },
+      "antidote": {
+        "concept": "medical",
+        "set": "hospital",
+        "cast": []
+      },
+      "_said": "And then they effortlessly slide into this hyperanalytical, self-deprecating therapy speak like Hibbun mentions that after 5 years of therapy, she understands she's quote unquote b"
+    },
+    {
+      "fp": "1mjlzrc",
+      "i": 26,
+      "from": 11424,
+      "subject": "Leela — school",
+      "entities": [
+        "leela"
+      ],
+      "concept": "school",
+      "place": "classroom",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Leela, arrives in the lobby, classroom, 1991"
+      },
+      "antidote": {
+        "concept": "school",
+        "set": "classroom",
+        "cast": [
+          "leela"
+        ]
+      },
+      "_said": "And Neck Pillow responds that she hasn't fully smiled since high school. So sad. But it looks like vulnerability on the surface, right? But it's actually just another heavily curat"
+    },
+    {
+      "fp": "88eut7",
+      "i": 27,
+      "from": 12026,
+      "subject": "Leela and Which",
+      "entities": [
+        "leela",
+        "which"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Leela and Which, 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "leela",
+          "which"
+        ]
+      },
+      "_said": "Like a switch flips. Yes. Leela asks how their flights were. They look her dead in the eye and lie. They say the flights were uneventful, which is so far from the truth. Completely"
+    },
+    {
+      "fp": "i8gy11",
+      "i": 28,
+      "from": 12562,
+      "subject": "heart",
+      "entities": [],
+      "concept": "heart",
+      "place": "cafe",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "heart, cafe, 1991"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": "cafe",
+        "cast": []
+      },
+      "_said": "All to protect the bride's feelings. And we all do this, right? We all audition the happy version of ourselves for public consumption. A wedding is just a concentrated, highstakes,"
+    },
+    {
+      "fp": "94k4h0",
+      "i": 29,
+      "from": 13001,
+      "subject": "crash",
+      "entities": [],
+      "concept": "crash",
+      "place": "highway",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "crash, highway, 1991"
+      },
+      "antidote": {
+        "concept": "crash",
+        "set": "highway",
+        "cast": []
+      },
+      "_said": "We agree to a social contract where the truth is secondary to the aesthetics of the event. The bride cannot handle the reality of a near plane crash on her wedding week. So, her fr"
+    },
+    {
+      "fp": "an0ibn",
+      "i": 30,
+      "from": 13546,
+      "subject": "Leela — family",
+      "entities": [
+        "leela"
+      ],
+      "concept": "family",
+      "place": "kitchen",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Leela, kitchen, 1991"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": "kitchen",
+        "cast": [
+          "leela"
+        ]
+      },
+      "_said": "Think about Patricia, the mother of the bride. Oh, Patricia. She gets up to give her reception speech and she is performing the dual role of the grieving widow and the proud mother"
+    },
+    {
+      "fp": "tbcucl",
+      "i": 31,
+      "from": 14107,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "an abstract art piece to Gary the groom. Right. And how does she pitch it? Not by talking about the juxaposition of cubism or the tension of whites space. No, she pitches it as fit"
+    },
+    {
+      "fp": "homtgl",
+      "i": 32,
+      "from": 14573,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": "kitchen",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, watching all of this unfold, kitchen, 1991"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": "kitchen",
+        "cast": []
+      },
+      "_said": "Huge laughs. But it's Patricia controlling the narrative, right? She's controlling the story of her family, her daughter, and even her late husband's legacy. She is wrapping grief "
+    },
+    {
+      "fp": "dlxeyx",
+      "i": 33,
+      "from": 15149,
+      "subject": "Phoebe — road",
+      "entities": [
+        "phoebe"
+      ],
+      "concept": "road",
+      "place": "highway",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Phoebe, highway, 1991"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": "highway",
+        "cast": [
+          "phoebe"
+        ]
+      },
+      "_said": "spinning stories, it feels deeply You think so? Yeah, I do. It's like an architectural facade hiding structural rot. It's exactly the kind of fakeness that drove Phoebe to want to "
+    },
+    {
+      "fp": "ge8036",
+      "i": 34,
+      "from": 15614,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "reading from a script, 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "I hear that because you can't connect with anyone if everyone is just reading from a script. Well, it feels restrictive certainly, but consider that the performance is actually a n"
+    },
+    {
+      "fp": "pry6ni",
+      "i": 35,
+      "from": 16044,
+      "subject": "Phoebe — phone",
+      "entities": [
+        "phoebe"
+      ],
+      "concept": "phone",
+      "place": "cafe",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Phoebe, cafe, 1991"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": "cafe",
+        "cast": [
+          "phoebe"
+        ]
+      },
+      "_said": "Yeah. I mean, the text isn't purely mocking these people. Even Phoebe used to do this. She reflects on how she used to practice her listening face for faculty meetings. Oh, that's "
+    },
+    {
+      "fp": "1qjil8z",
+      "i": 36,
+      "from": 16524,
+      "subject": "crash",
+      "entities": [],
+      "concept": "crash",
+      "place": "highway",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "crash, highway, 1991"
+      },
+      "antidote": {
+        "concept": "crash",
+        "set": "highway",
+        "cast": []
+      },
+      "_said": "The performance is the social contract. It's how we function without collapsing under the weight of our own or everyone else's internal darkness. Like if the bridesmaids tell the b"
+    },
+    {
+      "fp": "14eo3i6",
+      "i": 37,
+      "from": 16944,
+      "subject": "Phoebe — heart",
+      "entities": [
+        "phoebe"
+      ],
+      "concept": "heart",
+      "place": "cafe",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Phoebe, cafe, 1991"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": "cafe",
+        "cast": [
+          "phoebe"
+        ]
+      },
+      "_said": "Okay, that is a really good point. But Phoebe is the only one who is officially resigned from that social contract right now. She's not participating anymore. And that makes her a "
+    },
+    {
+      "fp": "1ghboy6",
+      "i": 38,
+      "from": 17390,
+      "subject": "Which — phone",
+      "entities": [
+        "which"
+      ],
+      "concept": "phone",
+      "place": "cafe",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Which, cafe, 1991"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": "cafe",
+        "cast": [
+          "which"
+        ]
+      },
+      "_said": "Which brings us to one of the most compelling counterintuitive dynamics in the entire text. Yes. Let's get into this. On the surface, the bride who is micromanaging her $50,000 rec"
+    },
+    {
+      "fp": "18asrnr",
+      "i": 39,
+      "from": 17866,
+      "subject": "Phoebe and Leela — ledge",
+      "entities": [
+        "phoebe",
+        "leela"
+      ],
+      "concept": "ledge",
+      "place": "street",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Phoebe and Leela, street, 1991"
+      },
+      "antidote": {
+        "concept": "ledge",
+        "set": "street",
+        "cast": [
+          "phoebe",
+          "leela"
+        ]
+      },
+      "_said": "They really do. But in reality, they're the exact same person. Okay, let's drop into Phoebe's hotel room for a moment to see this play Phoebe is just having a cigarette on her balc"
+    },
+    {
+      "fp": "v4kpte",
+      "i": 40,
+      "from": 18415,
+      "subject": "Leela — family",
+      "entities": [
+        "leela"
+      ],
+      "concept": "family",
+      "place": "kitchen",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Leela, kitchen, 1991"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": "kitchen",
+        "cast": [
+          "leela"
+        ]
+      },
+      "_said": "Total control freak in that moment. Yeah. Leela starts screaming that she spent $50,000 of her dead father's money just on tonight's reception. The entire bridal facade just shatte"
+    },
+    {
+      "fp": "9bt2c4",
+      "i": 41,
+      "from": 18766,
+      "subject": "Phoebe and Leela",
+      "entities": [
+        "phoebe",
+        "leela"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Phoebe and Leela, 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "phoebe",
+          "leela"
+        ]
+      },
+      "_said": "It's gone. There are just two women screaming at each other. Leela screams, \"Get out.\" Phoebe screams back. Leela yells, \"Just die.\" And Phoebe yells, \"I will.\" It's such an incred"
+    },
+    {
+      "fp": "avco10",
+      "i": 42,
+      "from": 19118,
+      "subject": "Phoebe and Leela and Which",
+      "entities": [
+        "phoebe",
+        "leela",
+        "which"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Phoebe and Leela, 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "phoebe",
+          "leela",
+          "which"
+        ]
+      },
+      "_said": "I mean, the woman who controls everything, Leela, and the woman who is abandoning everything, Phoebe, are mirrors reflecting the exact same core fear, which is what?"
+    },
+    {
+      "fp": "1ambizh",
+      "i": 43,
+      "from": 19488,
+      "subject": "Leela",
+      "entities": [
+        "leela"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Leela, 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "leela"
+        ]
+      },
+      "_said": "They are both utterly terrified that the life they've built is a lie. Oh, man. You see the fear so clearly a bit later down on the patio. Yes, that scene. Leela completely abandons"
+    },
+    {
+      "fp": "1kjlvys",
+      "i": 44,
+      "from": 19886,
+      "subject": "Phoebe",
+      "entities": [
+        "phoebe"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Phoebe, 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "phoebe"
+        ]
+      },
+      "_said": "She gets incredibly vulnerable with Phoebe. This woman she was literally just screaming at and confesses, \"I don't want to not marry Gary. I don't want to be alone.\" It's this trag"
+    },
+    {
+      "fp": "f9psmi",
+      "i": 45,
+      "from": 20239,
+      "subject": "Phoebe and Leela — home",
+      "entities": [
+        "phoebe",
+        "leela"
+      ],
+      "concept": "home",
+      "place": "room",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Phoebe and Leela, walked out of her house in st, room, 1991"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": "room",
+        "cast": [
+          "phoebe",
+          "leela"
+        ]
+      },
+      "_said": "And you compare that to Phoe's unabandonment of her life. Phoebe walked out of her house in St. Louis without even wiping the toast crumbs off the counter. Just left it all. Yeah. "
+    },
+    {
+      "fp": "bm2rdf",
+      "i": 46,
+      "from": 20856,
+      "subject": "Phoebe and Leela — heart",
+      "entities": [
+        "phoebe",
+        "leela"
+      ],
+      "concept": "heart",
+      "place": "cafe",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Phoebe and Leela, cafe, 1991"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": "cafe",
+        "cast": [
+          "phoebe",
+          "leela"
+        ]
+      },
+      "_said": "She thinks if she gets the napkins right, the marriage will work. Phoebe tries to erase her terror completely by checking out of existence. I have to say though, I'm struggling to "
+    },
+    {
+      "fp": "crfazn",
+      "i": 47,
+      "from": 21209,
+      "subject": "Phoebe and Leela — heart",
+      "entities": [
+        "phoebe",
+        "leela"
+      ],
+      "concept": "heart",
+      "place": "cafe",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Phoebe and Leela, cafe, 1991"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": "cafe",
+        "cast": [
+          "phoebe",
+          "leela"
+        ]
+      },
+      "_said": "Why is that? She's screaming about a $50,000 party while Phoebe is fighting for her literal life. Isn't Leela just being a total brat? Like, it feels unearned to elevate a bride's "
+    },
+    {
+      "fp": "phl14d",
+      "i": 48,
+      "from": 21677,
+      "subject": "Phoebe and Leela — magnifier",
+      "entities": [
+        "phoebe",
+        "leela"
+      ],
+      "concept": "magnifier",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Phoebe and Leela, 1991"
+      },
+      "antidote": {
+        "concept": "magnifier",
+        "cast": [
+          "phoebe",
+          "leela"
+        ]
+      },
+      "_said": "It definitely looks that way on the surface, but look closer at what Leela is actually doing and who Phoebe used to be. Leela is exactly who Phoebe was 10 years ago. Yeah. You thin"
+    },
+    {
+      "fp": "17ezabk",
+      "i": 49,
+      "from": 22018,
+      "subject": "Phoebe — phone",
+      "entities": [
+        "phoebe"
+      ],
+      "concept": "phone",
+      "place": "cafe",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Phoebe, cafe, 1991"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": "cafe",
+        "cast": [
+          "phoebe"
+        ]
+      },
+      "_said": "Oh, absolutely. Phoebe admits that she used to be terrified of taking up space. She was a woman who would apologize to her students via email if a lecture ran 3 minutes long. Oh, r"
+    },
+    {
+      "fp": "1yp6llo",
+      "i": 50,
+      "from": 22514,
+      "subject": "Leela — coin",
+      "entities": [
+        "leela"
+      ],
+      "concept": "coin",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Leela, 1991"
+      },
+      "antidote": {
+        "concept": "coin",
+        "cast": [
+          "leela"
+        ]
+      },
+      "_said": "Leela is doing the exact same thing right now, just with more money and much louder volume. That's fascinating. They are the same woman at different stages of grief and compliance."
+    },
+    {
+      "fp": "1g9rwf4",
+      "i": 51,
+      "from": 23078,
+      "subject": "crash",
+      "entities": [],
+      "concept": "crash",
+      "place": "highway",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "crash, highway, 1991"
+      },
+      "antidote": {
+        "concept": "crash",
+        "set": "highway",
+        "cast": []
+      },
+      "_said": "because the ultimate dropout finally collides with the leader of the wedding And this collision highlights something deeply counterintuitive about human relationships, a phenomenon"
+    },
+    {
+      "fp": "z35nhg",
+      "i": 52,
+      "from": 23434,
+      "subject": "Phoebe and Leela — storm",
+      "entities": [
+        "phoebe",
+        "leela"
+      ],
+      "concept": "storm",
+      "place": "sky",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Phoebe and Leela, sky, 1991"
+      },
+      "antidote": {
+        "concept": "storm",
+        "set": "sky",
+        "cast": [
+          "phoebe",
+          "leela"
+        ]
+      },
+      "_said": "I love this concept because right after that intense screaming match where Leela tells Phoebe to just die, Leila turns to storm out and go down to her $50,000 reception, but Phoebe"
+    },
+    {
+      "fp": "1qflti3",
+      "i": 53,
+      "from": 23988,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": "kitchen",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, kitchen, 1991"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": "kitchen",
+        "cast": []
+      },
+      "_said": "but the psychological implications are The bride's face just falls. She realizes that she has been walking around interacting with her own bridal party, her family, and no one, not"
+    },
+    {
+      "fp": "vovzb7",
+      "i": 54,
+      "from": 24504,
+      "subject": "food",
+      "entities": [],
+      "concept": "food",
+      "place": "kitchen",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "food, kitchen, 1991"
+      },
+      "antidote": {
+        "concept": "food",
+        "set": "kitchen",
+        "cast": []
+      },
+      "_said": "Intimacy over time accumulates polite lies. We say we're fine when we are breaking down. We ignore the food in the teeth because we don't want to cause a ripple of embarrassment. W"
+    },
+    {
+      "fp": "5jtx8b",
+      "i": 55,
+      "from": 25063,
+      "subject": "heart",
+      "entities": [],
+      "concept": "heart",
+      "place": "cafe",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "heart, cafe, 1991"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": "cafe",
+        "cast": []
+      },
+      "_said": "Precisely. Strangers, on the other hand, get the unedited, brutal truth because there is no accumulated history to You see, this contrasted so sharply with Phoebe's marriage to her"
+    },
+    {
+      "fp": "xi10v8",
+      "i": 56,
+      "from": 25608,
+      "subject": "Phoebe — funnelTrap",
+      "entities": [
+        "phoebe"
+      ],
+      "concept": "funnelTrap",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Phoebe, 1991"
+      },
+      "antidote": {
+        "concept": "funnelTrap",
+        "cast": [
+          "phoebe"
+        ]
+      },
+      "_said": "with her friend Mia, Phoebe couldn't even yell at him. She just froze. She was so conditioned to be the good wife, she actually flinched at his tenderness during the breakup. They "
+    },
+    {
+      "fp": "1pbdril",
+      "i": 57,
+      "from": 26165,
+      "subject": "Phoebe — home",
+      "entities": [
+        "phoebe"
+      ],
+      "concept": "home",
+      "place": "room",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Phoebe, room, 1991"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": "room",
+        "cast": [
+          "phoebe"
+        ]
+      },
+      "_said": "never said. I mean, she couldn't scream at her husband who betrayed her and completely upended her life. But she can scream at a bride she met 3 hours ago. It just breaks my heart."
+    },
+    {
+      "fp": "1u9y19",
+      "i": 58,
+      "from": 26741,
+      "subject": "heart",
+      "entities": [],
+      "concept": "heart",
+      "place": "cafe",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "heart, cafe, 1991"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": "cafe",
+        "cast": []
+      },
+      "_said": "It is sad, but I don't think it's a tragedy. I think it's just human nature. Really? You don't think it's tragic? No. Because intimacy naturally breeds polite lies to protect the r"
+    },
+    {
+      "fp": "2oxow2",
+      "i": 59,
+      "from": 27089,
+      "subject": "crack",
+      "entities": [],
+      "concept": "crack",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "crack, walk away, 1991"
+      },
+      "antidote": {
+        "concept": "crack",
+        "cast": []
+      },
+      "_said": "If you tell a stranger her dress is ugly, you just walk away. True. If you scream at your husband, your entire foundation cracks. You can only scream, \"Get out!\" at a stranger or t"
+    },
+    {
+      "fp": "zgh92m",
+      "i": 60,
+      "from": 27542,
+      "subject": "Leela — family",
+      "entities": [
+        "leela"
+      ],
+      "concept": "family",
+      "place": "kitchen",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Leela, walk around with food in her teeth at her ow, kitchen, 1991"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": "kitchen",
+        "cast": [
+          "leela"
+        ]
+      },
+      "_said": "Your husband does. Oh, wow. So, Leela realizes in that moment by the mirror that the wedding people will send her heart emojis when her dad dies and they will let her walk around w"
+    },
+    {
+      "fp": "qs7h3a",
+      "i": 61,
+      "from": 28030,
+      "subject": "Phoebe",
+      "entities": [
+        "phoebe"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Phoebe, 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "phoebe"
+        ]
+      },
+      "_said": "Phoebe has nothing left to lose. And the reason she has nothing left to lose is tied directly to what she was doing before she got to the hotel. We have to look at the unlived Yes,"
+    },
+    {
+      "fp": "6jwv2d",
+      "i": 62,
+      "from": 28531,
+      "subject": "Phoebe — phone",
+      "entities": [
+        "phoebe"
+      ],
+      "concept": "phone",
+      "place": "cafe",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Phoebe, sitting in her academic office on a zoom call d, cafe, 1991"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": "cafe",
+        "cast": [
+          "phoebe"
+        ]
+      },
+      "_said": "It really is. Phoebe is sitting in her academic office on a Zoom call during the pandemic. She is teaching to a sea of black boxes, these muted, faceless We all been there, right?"
+    },
+    {
+      "fp": "1s0d1qg",
+      "i": 63,
+      "from": 28886,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": "cafe",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone, writing an academic book on janeire, cafe, 1991"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": "cafe",
+        "cast": []
+      },
+      "_said": "And she is repeatedly asking the screen, \"What is literature?\" She asks it over and over until she realizes she doesn't know the answer herself anymore. She is completely paralyzed"
+    },
+    {
+      "fp": "11i5jwp",
+      "i": 64,
+      "from": 29446,
+      "subject": "ledge",
+      "entities": [],
+      "concept": "ledge",
+      "place": "street",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "ledge, falling the real despair here isn't just a chem, street, 1991"
+      },
+      "antidote": {
+        "concept": "ledge",
+        "set": "street",
+        "cast": []
+      },
+      "_said": "is completely falling The real despair here isn't just a chemical sadness. It's the realization that she has been a reader of her life instead of its writer. Well, that's a great w"
+    },
+    {
+      "fp": "f9drf1",
+      "i": 65,
+      "from": 29909,
+      "subject": "heart",
+      "entities": [],
+      "concept": "heart",
+      "place": "cafe",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "heart, cafe, 1991"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": "cafe",
+        "cast": []
+      },
+      "_said": "Think about the tragedy of that. She analyzed how fictional women lived while she herself stopped living. You see it in her marriage, too. She described herself as the perpetual sh"
+    },
+    {
+      "fp": "9q0nrj",
+      "i": 66,
+      "from": 30451,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": "kitchen",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, reading victorian novels, kitchen, 1991"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": "kitchen",
+        "cast": []
+      },
+      "_said": "She avoided choices at all costs. And this goes all the way back to her childhood. She grew up with a deeply depressed father, reading Victorian novels, not for fun, but to learn h"
+    },
+    {
+      "fp": "icfgle",
+      "i": 67,
+      "from": 30878,
+      "subject": "Which — home",
+      "entities": [
+        "which"
+      ],
+      "concept": "home",
+      "place": "room",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Which, reading as a child in a lonely home, room, 1991"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": "room",
+        "cast": [
+          "which"
+        ]
+      },
+      "_said": "Which is so heartbreaking because reading as a child in a lonely home, that usually sounds like a beautiful escape, right? A survival tool. We tend to view children who read voraci"
+    },
+    {
+      "fp": "13dip5b",
+      "i": 68,
+      "from": 31327,
+      "subject": "chains",
+      "entities": [],
+      "concept": "chains",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "chains, 1991"
+      },
+      "antidote": {
+        "concept": "chains",
+        "cast": []
+      },
+      "_said": "Wait, I have to interrupt that thought. Go for it. I don't think it was an escape at all. I think it was her cage. her cage. Yeah. She didn't read for joy. It wasn't about getting "
+    },
+    {
+      "fp": "bzqg0t",
+      "i": 69,
+      "from": 31764,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": "library",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "notes, writing a book about a novel she was bored by j, library, 1991"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": "library",
+        "cast": []
+      },
+      "_said": "She said she wanted to learn how to have a life where problems resolve in a single chapter. And the absolute kicker, she admits that Janeire actually bored her in the end. Oh, I fo"
+    },
+    {
+      "fp": "xac2wp",
+      "i": 70,
+      "from": 32306,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "She is like a museum curator who suddenly realizes she has spent her entire life polishing the glass cases without ever stepping outside to see the real world. She trapped herself "
+    },
+    {
+      "fp": "1bdzunn",
+      "i": 71,
+      "from": 32705,
+      "subject": "heart",
+      "entities": [],
+      "concept": "heart",
+      "place": "cafe",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "heart, cafe, 1991"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": "cafe",
+        "cast": []
+      },
+      "_said": "And that is why her arrival at the Cornwall Inn is so significant because she stops reading. When she gets out of that cap, she finally stops reading. She starts acting. She is for"
+    },
+    {
+      "fp": "r5oqir",
+      "i": 72,
+      "from": 33163,
+      "subject": "Which — food",
+      "entities": [
+        "which"
+      ],
+      "concept": "food",
+      "place": "kitchen",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Which, kitchen, 1991"
+      },
+      "antidote": {
+        "concept": "food",
+        "set": "kitchen",
+        "cast": [
+          "which"
+        ]
+      },
+      "_said": "Once she is in that narrative, something unexpected happens. We start to see that the argument for staying alive isn't what we usually think it is. Not at all. Which brings us to t"
+    },
+    {
+      "fp": "10tbg77",
+      "i": 73,
+      "from": 33622,
+      "subject": "Leela and Which — heart",
+      "entities": [
+        "leela",
+        "which"
+      ],
+      "concept": "heart",
+      "place": "cafe",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Leela and Which, cafe, 1991"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": "cafe",
+        "cast": [
+          "leela",
+          "which"
+        ]
+      },
+      "_said": "It is such a brilliantly absurd scene. Leela is insensed. She insists that this $22 squash toast is a total scam and that it's the next generation of avocado toast, which is also a"
+    },
+    {
+      "fp": "1ceyyc6",
+      "i": 74,
+      "from": 34236,
+      "subject": "Phoebe — grave",
+      "entities": [
+        "phoebe"
+      ],
+      "concept": "grave",
+      "place": "forest",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Phoebe, forest, 1991"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": "forest",
+        "cast": [
+          "phoebe"
+        ]
+      },
+      "_said": "banter, Phoebe simply takes a bite of the toast. She ignores the price tag, ignores the debate, and just genuinely enjoys the taste of the Because when you are in the depths of cli"
+    },
+    {
+      "fp": "1tbu7ir",
+      "i": 75,
+      "from": 34668,
+      "subject": "storm",
+      "entities": [],
+      "concept": "storm",
+      "place": "sky",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "storm, sky, 1991"
+      },
+      "antidote": {
+        "concept": "storm",
+        "set": "sky",
+        "cast": []
+      },
+      "_said": "You aren't saved by logic or a debate about the meaning of life because the intellect is the very thing that is broken. You are talked out of it by a genuinely good Good afternoon."
+    },
+    {
+      "fp": "1owzlu",
+      "i": 76,
+      "from": 35158,
+      "subject": "codeWindow",
+      "entities": [],
+      "concept": "codeWindow",
+      "place": "workstation",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "code window, run a complex diagnostic program to fix, workstation, 1991"
+      },
+      "antidote": {
+        "concept": "codeWindow",
+        "set": "workstation",
+        "cast": []
+      },
+      "_said": "It's like when your laptop completely freezes. You don't try to run a complex diagnostic program to fix the software. The software is the problem, You just hold down the power butt"
+    },
+    {
+      "fp": "1iqh9kx",
+      "i": 77,
+      "from": 35491,
+      "subject": "Phoebe and Leela — grave",
+      "entities": [
+        "phoebe",
+        "leela"
+      ],
+      "concept": "grave",
+      "place": "forest",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Phoebe and Leela, forest, 1991"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": "forest",
+        "cast": [
+          "phoebe",
+          "leela"
+        ]
+      },
+      "_said": "We see this sematic reset happen again with the laughter fit on the floor of the hotel Oh, the laughter fit. Phoebe and Leela are lying there and Leela is talking about her dying f"
+    },
+    {
+      "fp": "1wpxe9d",
+      "i": 78,
+      "from": 35822,
+      "subject": "Phoebe — family",
+      "entities": [
+        "phoebe"
+      ],
+      "concept": "family",
+      "place": "kitchen",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Phoebe, shouting herbal completely nonsensical, kitchen, 1991"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": "kitchen",
+        "cast": [
+          "phoebe"
+        ]
+      },
+      "_said": "She tells Phoebe that her father's literal last words on earth were this long dramatic pause followed by him shouting herbal Completely nonsensical. And they start laughing."
+    },
+    {
+      "fp": "dhm6bn",
+      "i": 79,
+      "from": 36161,
+      "subject": "Phoebe",
+      "entities": [
+        "phoebe"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Phoebe, 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "phoebe"
+        ]
+      },
+      "_said": "They laugh so intensely and for so long that Phoebe actually feels physically high. She can't breathe. Yeah. Her nervous system completely resets in that moment. The physical convu"
+    },
+    {
+      "fp": "sgyqab",
+      "i": 80,
+      "from": 36586,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "I want to pause on this mechanism If we say a piece of squash toast and a good laugh are the cures for suicide, doesn't that feel dismissive of clinical How so? Well, a good snack "
+    },
+    {
+      "fp": "1oll8dk",
+      "i": 81,
+      "from": 36989,
+      "subject": "medical",
+      "entities": [],
+      "concept": "medical",
+      "place": "hospital",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "medical, hospital, 1991"
+      },
+      "antidote": {
+        "concept": "medical",
+        "set": "hospital",
+        "cast": []
+      },
+      "_said": "It risks trivializing a very serious medical condition by suggesting a spa day is all you need. I don't think the book is saying toast cures depression, though. What is it saying, "
+    },
+    {
+      "fp": "1bybt7v",
+      "i": 82,
+      "from": 37344,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": "kitchen",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, kitchen, 1991"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": "kitchen",
+        "cast": []
+      },
+      "_said": "When the big reasons to live your marriage, your career, your family, your 10-year manuscript, when all of those large structural pillars collapse and fail you, the only things lef"
+    },
+    {
+      "fp": "1uyq7nb",
+      "i": 83,
+      "from": 37742,
+      "subject": "Phoebe",
+      "entities": [
+        "phoebe"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Phoebe, 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "phoebe"
+        ]
+      },
+      "_said": "The micro tethers. Yes. The taste of salt, the sound of a joke, the physical reality of your own That makes sense. It's the micro tethers. In that moment of laughter on the floor, "
+    },
+    {
+      "fp": "1x7b19d",
+      "i": 84,
+      "from": 38153,
+      "subject": "Which — heart",
+      "entities": [
+        "which"
+      ],
+      "concept": "heart",
+      "place": "cafe",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Which, arrives exactly when she had sworn it was all r, cafe, 1991"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": "cafe",
+        "cast": [
+          "which"
+        ]
+      },
+      "_said": "So she's just a body fully present enjoying a moment alongside the wedding people. And being fully present allows her to actually notice what is happening around her, which leads t"
+    },
+    {
+      "fp": "1nitg13",
+      "i": 85,
+      "from": 38626,
+      "subject": "book",
+      "entities": [],
+      "concept": "book",
+      "place": "library",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "book, walks over, library, 1991"
+      },
+      "antidote": {
+        "concept": "book",
+        "set": "library",
+        "cast": []
+      },
+      "_said": "Because connection is dangerous for her. Now, let's set the scene with Pauline, the hyperdiligent front desk She's so funny. Pauline has meticulously arranged these decorative book"
+    },
+    {
+      "fp": "hibozt",
+      "i": 86,
+      "from": 39192,
+      "subject": "Phoebe",
+      "entities": [
+        "phoebe"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Phoebe, holds up his fist to phoebe and whispers, 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "phoebe"
+        ]
+      },
+      "_said": "Expectations around so the spine faces A tiny act of rebellion. And he holds up his fist to Phoebe and whispers, \"Free the books.\" And Phoebe laughs. She is genuinely startled by h"
+    },
+    {
+      "fp": "p65788",
+      "i": 87,
+      "from": 39754,
+      "subject": "grave",
+      "entities": [],
+      "concept": "grave",
+      "place": "forest",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "grave, forest, 1991"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": "forest",
+        "cast": []
+      },
+      "_said": "It's terrifying because she had safely locked her heart away after Matt betrayed her. Exactly. She was choosing death over risking that pain again. The fear here is moving from the"
+    },
+    {
+      "fp": "o30rdd",
+      "i": 88,
+      "from": 40291,
+      "subject": "Phoebe and Leela — heart",
+      "entities": [
+        "phoebe",
+        "leela"
+      ],
+      "concept": "heart",
+      "place": "cafe",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Phoebe and Leela, cafe, 1991"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": "cafe",
+        "cast": [
+          "phoebe",
+          "leela"
+        ]
+      },
+      "_said": "love of the And it gets incredibly messy. Just look at the rehearsal dinner. Leela in her signature brutal honesty flat out tells Phoebe that Gary is hitting on her. It's so awkwar"
+    },
+    {
+      "fp": "1jdvr3o",
+      "i": 89,
+      "from": 40745,
+      "subject": "Phoebe and Leela — rocketLaunch",
+      "entities": [
+        "phoebe",
+        "leela"
+      ],
+      "concept": "rocketLaunch",
+      "place": "startupGarage",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Phoebe and Leela, reading this part to be honest because phoebe i, startupGarage, 1991"
+      },
+      "antidote": {
+        "concept": "rocketLaunch",
+        "set": "startupGarage",
+        "cast": [
+          "phoebe",
+          "leela"
+        ]
+      },
+      "_said": "Leela notes that Phoebe is suicidal but adds in a lovable way. It is so entirely unvarnished. I found myself really conflicted reading this part to be honest because Phoebe is bond"
+    },
+    {
+      "fp": "3iyjmm",
+      "i": 90,
+      "from": 41302,
+      "subject": "wallet",
+      "entities": [],
+      "concept": "wallet",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "wallet, 1991"
+      },
+      "antidote": {
+        "concept": "wallet",
+        "cast": []
+      },
+      "_said": "It feels like a massive violation of the very friendship that is supposedly saving her life. It's definitely uncomfortable. I won't deny that. But look at the function of that mess"
+    },
+    {
+      "fp": "cm03s8",
+      "i": 91,
+      "from": 41767,
+      "subject": "hourglass",
+      "entities": [],
+      "concept": "hourglass",
+      "place": "room",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "hourglass, watching gary's hands, room, 1991"
+      },
+      "antidote": {
+        "concept": "hourglass",
+        "set": "room",
+        "cast": []
+      },
+      "_said": "Messiness, inappropriate feelings, overlapping loyalties. These are the cure to her paralysis. Oh, I see. She admits she likes watching Gary's hands. She likes his lack of urgency."
+    },
+    {
+      "fp": "1rscpl7",
+      "i": 92,
+      "from": 42149,
+      "subject": "heart",
+      "entities": [],
+      "concept": "heart",
+      "place": "cafe",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "heart, cafe, 1991"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": "cafe",
+        "cast": []
+      },
+      "_said": "It's real. And real life is messy. That's true. The wedding people are supposed to stick to their heavily rehearsed scripts. The bride marries the groom. The guests clap. Everyone "
+    },
+    {
+      "fp": "uz66qr",
+      "i": 93,
+      "from": 42487,
+      "subject": "Phoebe",
+      "entities": [
+        "phoebe"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Phoebe, 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "phoebe"
+        ]
+      },
+      "_said": "But the suicidal guests and the groom are completely rewriting the script in real time. And reinvention, as it turns out, isn't a makeover montage. Let's talk about the emerald sil"
+    },
+    {
+      "fp": "ds9bk0",
+      "i": 94,
+      "from": 43092,
+      "subject": "Phoebe and Leela — grave",
+      "entities": [
+        "phoebe",
+        "leela"
+      ],
+      "concept": "grave",
+      "place": "forest",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Phoebe and Leela, forest, 1991"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": "forest",
+        "cast": [
+          "phoebe",
+          "leela"
+        ]
+      },
+      "_said": "it to be the dress she died in. It was her corpse But now it's the day of the wedding. Leela has had the hotel staff launder it for Phoebe. It shimmers and by total coincidence, it"
+    },
+    {
+      "fp": "i012q0",
+      "i": 95,
+      "from": 43646,
+      "subject": "crash",
+      "entities": [],
+      "concept": "crash",
+      "place": "highway",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "crash, highway, 1991"
+      },
+      "antidote": {
+        "concept": "crash",
+        "set": "highway",
+        "cast": []
+      },
+      "_said": "I mean, staying alive isn't a magical makeover where you suddenly become a brand new shiny person who loves Not at all. Staying alive is just giving yourself quiet permission to st"
+    },
+    {
+      "fp": "1b9yxcz",
+      "i": 96,
+      "from": 44083,
+      "subject": "Phoebe and Leela",
+      "entities": [
+        "phoebe",
+        "leela"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Phoebe and Leela, running the faucet, 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "phoebe",
+          "leela"
+        ]
+      },
+      "_said": "The same dress, the same hotel. We see this quiet shift in her behavior. There's this moment where Phoebe is staying up late on the floor of Jim's Jim is the bride's uncle, right? "
+    },
+    {
+      "fp": "137sh3r",
+      "i": 97,
+      "from": 44582,
+      "subject": "Phoebe — dollarExchange",
+      "entities": [
+        "phoebe"
+      ],
+      "concept": "dollarExchange",
+      "place": "pitchStage",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Phoebe, pitchStage, 1991"
+      },
+      "antidote": {
+        "concept": "dollarExchange",
+        "set": "pitchStage",
+        "cast": [
+          "phoebe"
+        ]
+      },
+      "_said": "And while she's lying there under the bed, Phoebe finds a folded up credit card from 1991. And instead of ignoring it, her curiosity is peaked. She starts wondering about the story"
+    },
+    {
+      "fp": "7oyhaw",
+      "i": 98,
+      "from": 44978,
+      "subject": "Phoebe — lightbulb",
+      "entities": [
+        "phoebe"
+      ],
+      "concept": "lightbulb",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Phoebe, 1991"
+      },
+      "antidote": {
+        "concept": "lightbulb",
+        "cast": [
+          "phoebe"
+        ]
+      },
+      "_said": "But let me push back on the idea that this is some triumphant resolution. Okay, push back. You could easily argue that Phoebe has just assimilated. She put on the matching green dr"
+    },
+    {
+      "fp": "1ya3884",
+      "i": 99,
+      "from": 45324,
+      "subject": "heart",
+      "entities": [],
+      "concept": "heart",
+      "place": "cafe",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "heart, standing at the altar, cafe, 1991"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": "cafe",
+        "cast": []
+      },
+      "_said": "She's standing at the altar. Has she just become one of the wedding people? You think she just Well, has she just learned to perform normal again, just with a different cast of cha"
+    },
+    {
+      "fp": "yzuz3p",
+      "i": 100,
+      "from": 45720,
+      "subject": "compass",
+      "entities": [],
+      "concept": "compass",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "compass, standing at the altar wearing the dress she sele, 1991"
+      },
+      "antidote": {
+        "concept": "compass",
+        "cast": []
+      },
+      "_said": "She hasn't become normal. She is literally standing at the altar wearing the dress she selected to die Okay, that's fair. She hasn't changed her identity or magically erased her pa"
+    },
+    {
+      "fp": "1piq8ah",
+      "i": 101,
+      "from": 46154,
+      "subject": "storm",
+      "entities": [],
+      "concept": "storm",
+      "place": "sky",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "storm, stands next to the wedding people not as a per, sky, 1991"
+      },
+      "antidote": {
+        "concept": "storm",
+        "set": "sky",
+        "cast": []
+      },
+      "_said": "She is bringing all of her darkness, her history, and her weirdness right up to the altar. So, she stands next to the wedding people not as a performer, but as the only truly hones"
+    },
+    {
+      "fp": "uaplw8",
+      "i": 102,
+      "from": 46704,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": "cafe",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone, cafe, 1991"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": "cafe",
+        "cast": []
+      },
+      "_said": "the room. We have to look at the counterpoint to this whole narrative. Right. The fantasy element. Is this entire premise just a comforting It's a vital question to ask of the text"
+    },
+    {
+      "fp": "1tjfx21",
+      "i": 103,
+      "from": 47107,
+      "subject": "heart",
+      "entities": [],
+      "concept": "heart",
+      "place": "cafe",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "heart, cafe, 1991"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": "cafe",
+        "cast": []
+      },
+      "_said": "You have a wealthy, beautiful bride who effectively adopts a suicidal middle-aged stranger into a luxury $836 a night Newport wedding."
+    },
+    {
+      "fp": "1yexw9n",
+      "i": 104,
+      "from": 47494,
+      "subject": "coin",
+      "entities": [],
+      "concept": "coin",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "coin, 1991"
+      },
+      "antidote": {
+        "concept": "coin",
+        "cast": []
+      },
+      "_said": "It's a lot of money. They drink expensive wine. They wear silk. They have spa days. The book definitely risks making clinical despair look like it can be cured by a beautiful all e"
+    },
+    {
+      "fp": "s6lpte",
+      "i": 105,
+      "from": 47966,
+      "subject": "Which — star",
+      "entities": [
+        "which"
+      ],
+      "concept": "star",
+      "place": "sky",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Which, sky, 1991"
+      },
+      "antidote": {
+        "concept": "star",
+        "set": "sky",
+        "cast": [
+          "which"
+        ]
+      },
+      "_said": "I mean, is the cure to suicidal ideiation really just radical honesty plus a gorgeous five-star vacation? It feels a little cheap when you apply it to the real world. Most people d"
+    },
+    {
+      "fp": "1yq6ktn",
+      "i": 106,
+      "from": 48547,
+      "subject": "crash",
+      "entities": [],
+      "concept": "crash",
+      "place": "highway",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "crash, highway, 1991"
+      },
+      "antidote": {
+        "concept": "crash",
+        "set": "highway",
+        "cast": []
+      },
+      "_said": "The extreme luxury isn't the cure. It's an allegorical setting. It operates as a deliberate pressure cooker. The wealth and the isolation of the hotel force the collision of extrem"
+    },
+    {
+      "fp": "9xjmns",
+      "i": 107,
+      "from": 49123,
+      "subject": "coin",
+      "entities": [],
+      "concept": "coin",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "coin, 1991"
+      },
+      "antidote": {
+        "concept": "coin",
+        "cast": []
+      },
+      "_said": "is just the stage Yes, exactly. It highlights how absurd the performance is. Because if $50,000 and a custom jazz band can't make you tell the truth, what will? The unvarnished hon"
+    },
+    {
+      "fp": "nvl7c5",
+      "i": 108,
+      "from": 49608,
+      "subject": "Which",
+      "entities": [
+        "which"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Which, 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "which"
+        ]
+      },
+      "_said": "Which brings us to the final payoff. Really, the real reframe of this entire deep dive. The central claim of this story is much smaller and therefore much truer than the cliche tha"
+    },
+    {
+      "fp": "dnvx0y",
+      "i": 109,
+      "from": 49968,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": "cafe",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone, leaves you for a woman who bakes patriotic pie, cafe, 1991"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": "cafe",
+        "cast": []
+      },
+      "_said": "Sometimes it's a zoom screen of black boxes or a husband who leaves you for a woman who bakes patriotic pies on Instagram. The reframe is this. You don't have to want your whole li"
+    },
+    {
+      "fp": "jq9us4",
+      "i": 110,
+      "from": 50513,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "performance and just be honest for five minutes can be enough to buy you one more day. And one more day stacked upon another is how anyone stays alive. It all comes back to who we "
+    },
+    {
+      "fp": "uqhbav",
+      "i": 111,
+      "from": 50914,
+      "subject": "Which — home",
+      "entities": [
+        "which"
+      ],
+      "concept": "home",
+      "place": "room",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Which, leaves us with a final provocative thought for, room, 1991"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": "room",
+        "cast": [
+          "which"
+        ]
+      },
+      "_said": "Which leaves us with a final provocative thought for you to carry into your week. Yeah, you at home. This book forces us to consider who in our own lives gets the unedited version "
+    },
+    {
+      "fp": "1vmxd5s",
+      "i": 112,
+      "from": 51266,
+      "subject": "shield",
+      "entities": [],
+      "concept": "shield",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "shield, 1991"
+      },
+      "antidote": {
+        "concept": "shield",
+        "cast": []
+      },
+      "_said": "Honestly, it really is because if we only feel safe giving our true messy, desparing selves to strangers in hotel elevators or random people we meet on a trip, what does that say a"
+    },
+    {
+      "fp": "1kyldsp",
+      "i": 113,
+      "from": 51710,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Have we built homes, or have we built stages? Wow. If you've ever been trapped in a state of deep burnout, you know that someone handing you a self-help book or a grand philosophic"
+    },
+    {
+      "fp": "14n83zl",
+      "i": 114,
+      "from": 52066,
+      "subject": "food",
+      "entities": [],
+      "concept": "food",
+      "place": "kitchen",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "food, kitchen, 1991"
+      },
+      "antidote": {
+        "concept": "food",
+        "set": "kitchen",
+        "cast": []
+      },
+      "_said": "Not even a little bit. What actually pierces the bubble is something small and real, a perfect bite of food, a joke that catches you off guard. Think about that the next time you f"
+    },
+    {
+      "fp": "6yr46q",
+      "i": 115,
+      "from": 52490,
+      "subject": "shield",
+      "entities": [],
+      "concept": "shield",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "shield, 1991"
+      },
+      "antidote": {
+        "concept": "shield",
+        "cast": []
+      },
+      "_said": "Who gets the real Such a good question to leave on. Thank you for bringing these incredible insights to the table and joining us for this deep dive. And remember, the next time you"
+    }
+  ]
+}

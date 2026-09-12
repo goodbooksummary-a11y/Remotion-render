@@ -1,6 +1,6 @@
 {
   "slug": "siddhartha",
-  "authored": true,
+  "authored": false,
   "briefs": [
     {
       "fp": "ia49pj",
@@ -1057,20 +1057,18 @@
       "fp": "teavjk",
       "i": 53,
       "from": 13740,
-      "subject": "Siddhartha standing all night before his father",
+      "subject": "",
       "entities": [],
       "concept": null,
       "place": null,
-      "confidence": 0.85,
+      "confidence": 0.3,
       "vox": {
-        "shot": "a young Indian brahmin man with a shaved head and a plain ochre robe standing motionless through the night in a doorway, his father seated behind him, oil lamp, ancient India"
+        "shot": "standing there all night is a demonstration, -500"
       },
       "antidote": {
-        "concept": "home",
-        "set": "room",
-        "cast": [
-          "siddhartha"
-        ]
+        "concept": null,
+        "set": null,
+        "cast": []
       },
       "_said": "It's a masterclass in psychological warfare, honestly. But it's not some petulent teenage rebellion. Standing there all night is a demonstration of absolute internal Yeah, it's int"
     },
@@ -1265,20 +1263,18 @@
       "fp": "1s3zy55",
       "i": 63,
       "from": 16687,
-      "subject": "the Samanas — ascetics in the forest",
+      "subject": "",
       "entities": [],
       "concept": null,
       "place": null,
-      "confidence": 0.85,
+      "confidence": 0.3,
       "vox": {
-        "shot": "emaciated Indian ascetics seated motionless on dry ground among thin trees, ribs showing, matted hair, ancient India"
+        "shot": ", -500"
       },
       "antidote": {
-        "concept": "tree",
-        "set": "forest",
-        "cast": [
-          "siddhartha"
-        ]
+        "concept": null,
+        "set": null,
+        "cast": []
       },
       "_said": "completely different extreme. Oh, a total 180. If the Brahmans were all about ritual and intellectual comfort, the Samanas are all about brutal self-denial. These guys are intense."
     },
@@ -1364,17 +1360,17 @@
       "fp": "1rmwoo5",
       "i": 68,
       "from": 18024,
-      "subject": "starving out every desire of the flesh",
+      "subject": "",
       "entities": [],
       "concept": null,
       "place": null,
-      "confidence": 0.75,
+      "confidence": 0.3,
       "vox": {
-        "shot": "rows of motionless emaciated Indian ascetics in dry forest, no movement, harsh light, ancient India"
+        "shot": ", -500"
       },
       "antidote": {
-        "concept": "tree",
-        "set": "forest",
+        "concept": null,
+        "set": null,
         "cast": []
       },
       "_said": "If you can just become dead to yourself, if you can starve out all the desires of the flesh, then the ultimate part of your being, that atman will finally awake and reveal itself."
@@ -1425,17 +1421,17 @@
       "fp": "1197piv",
       "i": 71,
       "from": 18929,
-      "subject": "Siddhartha projecting himself into a flying heron",
+      "subject": "grave",
       "entities": [],
       "concept": "grave",
       "place": "forest",
-      "confidence": 0.9,
+      "confidence": 0.55,
       "vox": {
-        "shot": "a grey heron in flight low over still brown water at dawn, wings fully extended, ancient India"
+        "shot": "grave, the ascetics' forest, thin trees and dry ground, bodies seated motionless, -500"
       },
       "antidote": {
-        "concept": "water",
-        "set": "shore",
+        "concept": "grave",
+        "set": "forest",
         "cast": []
       },
       "_said": "He projects himself into a flying heron, feeling the hunger of the bird, the flight, the death of the bird. I mean, it sounds like he's achieving these incredible mystical He is ac"
@@ -1505,20 +1501,18 @@
       "fp": "xk4dx8",
       "i": 75,
       "from": 20160,
-      "subject": "worship of the body through pain instead of comfort",
+      "subject": "food",
       "entities": [],
       "concept": "food",
       "place": null,
-      "confidence": 0.75,
+      "confidence": 0.55,
       "vox": {
-        "shot": "a starving Indian ascetic kneeling on stones in harsh sun, arms slack, eyes closed, ancient India"
+        "shot": "food, -500"
       },
       "antidote": {
-        "concept": "tree",
-        "set": "forest",
-        "cast": [
-          "siddhartha"
-        ]
+        "concept": "food",
+        "set": null,
+        "cast": []
       },
       "_said": "Oh, that's fascinating. So instead of worshiping the body through food and comfort, you're worshiping the body through pain and control. But either way, the body is still the absol"
     },
@@ -1658,19 +1652,16 @@
       "fp": "1ub5pkr",
       "i": 82,
       "from": 22236,
-      "subject": "drinking to forget the pain for a few hours",
+      "subject": "chains",
       "entities": [],
       "concept": "chains",
-      "confidence": 0.8,
+      "confidence": 0.55,
       "vox": {
-        "shot": "a shallow clay cup of milky liquid on a low table, half drunk, lamplight, ancient India"
+        "shot": "chains, -500"
       },
       "antidote": {
-        "concept": "food",
-        "set": "room",
-        "cast": [
-          "siddhartha"
-        ]
+        "concept": "chains",
+        "cast": []
       },
       "_said": "coconut milk and finds the exact same temporary escape. He forgets his pain for a few hours. We meditate and forget our pain for a few hours, but we both wake up with a hangover."
     },
@@ -2027,20 +2018,16 @@
       "fp": "zggt58",
       "i": 100,
       "from": 27264,
-      "subject": "Siddhartha refuses the Buddha to his face",
+      "subject": "target",
       "entities": [],
       "concept": "target",
-      "confidence": 0.9,
+      "confidence": 0.55,
       "vox": {
-        "shot": "a young Indian brahmin man with a shaved head bowing to a seated serene teacher in a mango grove and turning to walk away, ancient India"
+        "shot": "target, walk away, -500"
       },
       "antidote": {
-        "concept": "road",
-        "set": "forest",
-        "cast": [
-          "siddhartha",
-          "govinda"
-        ]
+        "concept": "target",
+        "cast": []
       },
       "_said": "He looks at the one man who has actually achieved the goal and says, \"No thanks.\" But he doesn't just walk away. He asks for permission to speak with the Buddha and he presents a d"
     },
@@ -2248,20 +2235,18 @@
       "fp": "1mj920n",
       "i": 111,
       "from": 30178,
-      "subject": "the Buddha explains that his own path cannot be handed over",
+      "subject": "",
       "entities": [],
       "concept": null,
       "place": null,
-      "confidence": 0.85,
+      "confidence": 0.3,
       "vox": {
-        "shot": "a serene seated Indian teacher in saffron speaking to a small circle of monks under a broad tree, ancient India"
+        "shot": ", -500"
       },
       "antidote": {
-        "concept": "tree",
-        "set": "forest",
-        "cast": [
-          "govinda"
-        ]
+        "concept": null,
+        "set": null,
+        "cast": []
       },
       "_said": "And this is the core of it all. He says, \"Look, you achieved this enlightenment through your own search, through your own suffering, through your own thoughts and a solitary, inten"
     },
@@ -2581,20 +2566,18 @@
       "fp": "t2f367",
       "i": 128,
       "from": 34745,
-      "subject": "Siddhartha's psychological awakening in isolation",
+      "subject": "",
       "entities": [],
       "concept": null,
       "place": null,
-      "confidence": 0.8,
+      "confidence": 0.3,
       "vox": {
-        "shot": "a young Indian brahmin man with a shaved head and a plain ochre robe standing alone on an empty road at first light, no one else in frame, ancient India"
+        "shot": "run away from himself he's trying to dissec, -500"
       },
       "antidote": {
-        "concept": "road",
-        "set": "horizon",
-        "cast": [
-          "siddhartha"
-        ]
+        "concept": null,
+        "set": null,
+        "cast": []
       },
       "_said": "And in that isolation, he has this massive awakening. not a spiritual awakening but a psychological one right he realizes he has spent his whole life trying to run away from himsel"
     },
@@ -2602,20 +2585,18 @@
       "fp": "z9mz25",
       "i": 129,
       "from": 35078,
-      "subject": "tearing the ego apart by fasting, and losing the living self",
+      "subject": "",
       "entities": [],
       "concept": null,
       "place": null,
-      "confidence": 0.8,
+      "confidence": 0.3,
       "vox": {
-        "shot": "a gaunt young Indian man's hands cupped empty in his lap, ribs visible, dry forest ground, ancient India"
+        "shot": ", -500"
       },
       "antidote": {
-        "concept": "tree",
-        "set": "forest",
-        "cast": [
-          "siddhartha"
-        ]
+        "concept": null,
+        "set": null,
+        "cast": []
       },
       "_said": "himself to find atman tearing his ego apart through fasting and medication but by doing that he had lost the actual living breathing he erased himself exactly he decides I want to "
     },
@@ -3438,20 +3419,18 @@
       "fp": "1aniwmr",
       "i": 169,
       "from": 45588,
-      "subject": "plunging his hands into the dirt of real life",
+      "subject": "ledge",
       "entities": [],
       "concept": "ledge",
       "place": "street",
-      "confidence": 0.85,
+      "confidence": 0.55,
       "vox": {
-        "shot": "a man's hands pushed into wet dark earth, close, ancient India"
+        "shot": "ledge, the merchant city's streets, awnings, goods stacked in doorways, -500"
       },
       "antidote": {
-        "concept": "tree",
-        "set": "forest",
-        "cast": [
-          "siddhartha"
-        ]
+        "concept": "ledge",
+        "set": "street",
+        "cast": []
       },
       "_said": "It's hard to realize he had to plunge his hands into the dirt of real life. He did. But as we move into the next phase of his life, we see that if you play in the dirt long enough,"
     },
@@ -3459,20 +3438,18 @@
       "fp": "2s7l0g",
       "i": 170,
       "from": 45924,
-      "subject": "decades pass; Kamala is no longer young",
+      "subject": "ledge",
       "entities": [],
       "concept": "ledge",
       "place": "street",
-      "confidence": 0.9,
+      "confidence": 0.55,
       "vox": {
-        "shot": "an aging Indian woman in faded red and gold silk standing in a doorway, grey in her hair, ancient India"
+        "shot": "ledge, the merchant city's streets, awnings, goods stacked in doorways, -500"
       },
       "antidote": {
-        "concept": "hourglass",
-        "set": "room",
-        "cast": [
-          "kamala"
-        ]
+        "concept": "ledge",
+        "set": "street",
+        "cast": []
       },
       "_said": "Yes. The honeymoon phase of the material world never lasts. We jump forward in time. Decades pass. Carta is no longer a young, curious man treating capitalism like a fun game."
     },
@@ -3640,19 +3617,16 @@
       "fp": "1js5b6p",
       "i": 179,
       "from": 48362,
-      "subject": "Siddhartha gambling away thousands of pieces of gold",
+      "subject": "trophy",
       "entities": [],
       "concept": "trophy",
-      "confidence": 0.9,
+      "confidence": 0.55,
       "vox": {
-        "shot": "gold coins scattered across a low table with dice, lamplight, hands reaching in from the dark, ancient India"
+        "shot": "trophy, -500"
       },
       "antidote": {
-        "concept": "coin",
-        "set": "room",
-        "cast": [
-          "siddhartha"
-        ]
+        "concept": "trophy",
+        "cast": []
       },
       "_said": "He gambles recklessly, losing thousands of pieces of gold, winning thousands. He hates himself while he's doing it. But we need to look at why he's doing it, right? What's the unde"
     },
@@ -3772,20 +3746,18 @@
       "fp": "15045r3",
       "i": 186,
       "from": 49798,
-      "subject": "self-hatred, then exploiting people to gamble again",
+      "subject": "food",
       "entities": [],
       "concept": "food",
       "place": null,
-      "confidence": 0.85,
+      "confidence": 0.55,
       "vox": {
-        "shot": "a well-dressed Indian merchant-class man alone at a gambling table at night, gold in front of him, face turned away, ancient India"
+        "shot": "food, -500"
       },
       "antidote": {
-        "concept": "coin",
-        "set": "room",
-        "cast": [
-          "siddhartha"
-        ]
+        "concept": "food",
+        "set": null,
+        "cast": []
       },
       "_said": "He feels a thrill of self-hatred. Then he exploits more people in business to get the money back just so he can gamble it away again. He wakes up in the mornings feeling physically"
     },
@@ -3835,21 +3807,18 @@
       "fp": "1o6lih3",
       "i": 189,
       "from": 50640,
-      "subject": "Siddhartha and Kamala, both older, feeling age arrive",
+      "subject": "grave",
       "entities": [],
       "concept": "grave",
       "place": "forest",
-      "confidence": 0.9,
+      "confidence": 0.55,
       "vox": {
-        "shot": "an aging Indian man and an elegant aging Indian courtesan in red and gold silk seated apart in a pavilion, neither looking at the other, ancient India"
+        "shot": "grave, hold on to something real, the ascetics' forest, thin trees and dry ground, bodies seated motionless, -500"
       },
       "antidote": {
-        "concept": "heart",
-        "set": "room",
-        "cast": [
-          "siddhartha",
-          "kamala"
-        ]
+        "concept": "grave",
+        "set": "forest",
+        "cast": []
       },
       "_said": "They're both much older now. They both sense the impending fear of old age and death. The fleeting nature of their beauty and wealth. They make love with a painful, almost desperat"
     },
@@ -3920,20 +3889,18 @@
       "fp": "1fwsyk6",
       "i": 193,
       "from": 51828,
-      "subject": "Kamala's songbird found dead and thrown into the street",
+      "subject": "",
       "entities": [],
       "concept": null,
       "place": "street",
-      "confidence": 0.95,
+      "confidence": 0.35,
       "vox": {
-        "shot": "an open wicker birdcage and a small dead songbird lying on stone paving, morning light, ancient India"
+        "shot": "the merchant city's streets, awnings, goods stacked in doorways, -500"
       },
       "antidote": {
-        "concept": "grave",
+        "concept": null,
         "set": "street",
-        "cast": [
-          "siddhartha"
-        ]
+        "cast": []
       },
       "_said": "Oh, wow. Wow. He takes the tiny corpse out, weighs it in his hand, and throws it away out into the street. But the moment he throws it away, he is hit with this terrifying apocalyp"
     },
@@ -3941,20 +3908,18 @@
       "fp": "izi5t5",
       "i": 194,
       "from": 52140,
-      "subject": "waking to the realisation that he has thrown away everything of value",
+      "subject": "",
       "entities": [],
       "concept": null,
       "place": null,
-      "confidence": 0.85,
+      "confidence": 0.3,
       "vox": {
-        "shot": "an aging Indian man sitting upright in disarranged bedding before dawn, hands over his face, ancient India"
+        "shot": ", -500"
       },
       "antidote": {
-        "concept": "mirror",
-        "set": "bedroom",
-        "cast": [
-          "siddhartha"
-        ]
+        "concept": null,
+        "set": null,
+        "cast": []
       },
       "_said": "has just thrown away everything of value, everything good and authentic in his own soul. He wakes up overwhelmed by physical and spiritual disgust. The perfume in his hair literall"
     },
@@ -3981,17 +3946,17 @@
       "fp": "1g45kr4",
       "i": 196,
       "from": 52805,
-      "subject": "twenty hollow years spent chasing fleeting pleasure",
+      "subject": "grave",
       "entities": [],
       "concept": "grave",
       "place": "forest",
-      "confidence": 0.8,
+      "confidence": 0.55,
       "vox": {
-        "shot": "an empty richly furnished Indian pavilion, cushions and spilled cups, nobody in it, ancient India"
+        "shot": "grave, the ascetics' forest, thin trees and dry ground, bodies seated motionless, -500"
       },
       "antidote": {
-        "concept": "hourglass",
-        "set": "room",
+        "concept": "grave",
+        "set": "forest",
         "cast": []
       },
       "_said": "He realizes that for 20 years he has lived a life that is entirely hollow, chasing tiny, fleeting pleasures while the true source of his being, that inner voice, dried up and died "
@@ -4240,20 +4205,18 @@
       "fp": "hnhacs",
       "i": 209,
       "from": 56234,
-      "subject": "becoming as weak and foolish as the most ordinary person in the city",
+      "subject": "city",
       "entities": [],
       "concept": "city",
       "place": "street",
-      "confidence": 0.85,
+      "confidence": 0.55,
       "vox": {
-        "shot": "a dishevelled middle-aged Indian man walking among ordinary people in a crowded market street, indistinguishable from them, ancient India"
+        "shot": "city, the merchant city's streets, awnings, goods stacked in doorways, -500"
       },
       "antidote": {
         "concept": "city",
         "set": "street",
-        "cast": [
-          "siddhartha"
-        ]
+        "cast": []
       },
       "_said": "He had to become just as weak, just as foolish, just as desperate as the most ordinary person in the city. You have to hit absolute bottom so that the ego shatters completely."
     },
@@ -4280,17 +4243,15 @@
       "fp": "oi35qh",
       "i": 211,
       "from": 56731,
-      "subject": "",
+      "subject": "crack",
       "entities": [],
-      "concept": null,
-      "place": null,
-      "confidence": 0.3,
+      "concept": "crack",
+      "confidence": 0.55,
       "vox": {
-        "shot": ", -500"
+        "shot": "crack, -500"
       },
       "antidote": {
-        "concept": null,
-        "set": null,
+        "concept": "crack",
         "cast": []
       },
       "_said": "The ego is completely shattered. And in that moment of total emptiness, from the deepest recesses of his soul, a sound bubbles up to his consciousness."
@@ -5869,17 +5830,17 @@
       "fp": "1k8ch5",
       "i": 288,
       "from": 77143,
-      "subject": "the stone that becomes dirt, then a plant",
+      "subject": "",
       "entities": [],
       "concept": null,
       "place": null,
-      "confidence": 0.85,
+      "confidence": 0.3,
       "vox": {
-        "shot": "a river stone half buried in dark earth with a single green shoot beside it, close, ancient India"
+        "shot": ", -500"
       },
       "antidote": {
-        "concept": "tree",
-        "set": "shore",
+        "concept": null,
+        "set": null,
         "cast": []
       },
       "_said": "hiding the truth. I would have said that maybe one day in the cycle of reincarnation, this stone will become dirt, then a plant, then an animal, then a man, and finally a Buddha."
@@ -5926,19 +5887,16 @@
       "fp": "1upbyuj",
       "i": 291,
       "from": 77885,
-      "subject": "the stone, in its hardness and greenness, exactly as it is",
+      "subject": "target",
       "entities": [],
       "concept": "target",
-      "confidence": 0.9,
+      "confidence": 0.55,
       "vox": {
-        "shot": "a single smooth green river stone held in an open palm, shallow depth of field, ancient India"
+        "shot": "target, -500"
       },
       "antidote": {
-        "concept": "water",
-        "set": "shore",
-        "cast": [
-          "siddhartha"
-        ]
+        "concept": "target",
+        "cast": []
       },
       "_said": "Its hardness, its greenness, its physical existence in this exact moment, which is such a radical shift in perspective for anyone raised in a forward-looking goal oriented culture."
     },
@@ -6296,17 +6254,17 @@
       "fp": "p4erak",
       "i": 308,
       "from": 82658,
-      "subject": "the horrific and the beautiful happening at once in the river",
+      "subject": "grave",
       "entities": [],
       "concept": "grave",
       "place": "forest",
-      "confidence": 0.85,
+      "confidence": 0.55,
       "vox": {
-        "shot": "the surface of a wide brown river at dusk, current pulling in several directions at once, ancient India"
+        "shot": "grave, the ascetics' forest, thin trees and dry ground, bodies seated motionless, -500"
       },
       "antidote": {
-        "concept": "water",
-        "set": "shore",
+        "concept": "grave",
+        "set": "forest",
         "cast": []
       },
       "_said": "He sees the horrific and the beautiful all happening simultaneously, all constantly being born and dying. The totality of existence and over all these constantly changing, sufferin"
@@ -6336,21 +6294,18 @@
       "fp": "67qd2c",
       "i": 310,
       "from": 83280,
-      "subject": "wisdom transferred by contact, not by words",
+      "subject": "",
       "entities": [],
       "concept": null,
       "place": null,
-      "confidence": 0.85,
+      "confidence": 0.3,
       "vox": {
-        "shot": "an old Indian ferryman with a white beard and a young man kneeling together at the edge of a river, heads bowed to the water, ancient India"
+        "shot": "read your way to enlightenment, -500"
       },
       "antidote": {
-        "concept": "water",
-        "set": "shore",
-        "cast": [
-          "siddhartha",
-          "vasudeva"
-        ]
+        "concept": null,
+        "set": null,
+        "cast": []
       },
       "_said": "The ultimate transfer of wisdom isn't verbal. It cannot be spoken. It requires physical intimate contact with the world and with each other. You cannot read your way to enlightenme"
     }

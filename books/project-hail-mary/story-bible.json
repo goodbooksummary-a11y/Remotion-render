@@ -1,0 +1,169 @@
+{
+  "slug": "project-hail-mary",
+  "world": {
+    "era": "unspecified",
+    "approxYear": null,
+    "setting": "",
+    "register": "",
+    "forbid": []
+  },
+  "cast": {
+    "grace": {
+      "name": "Grace",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 8
+    },
+    "rocky": {
+      "name": "Rocky",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 2
+    },
+    "earth": {
+      "name": "Earth",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 2
+    },
+    "weir": {
+      "name": "Weir",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 2
+    },
+    "science": {
+      "name": "Science",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 2
+    }
+  },
+  "places": {
+    "hospital": {
+      "set": "hospital",
+      "look": "",
+      "mentions": 1
+    }
+  },
+  "objects": [
+    {
+      "concept": "star",
+      "mentions": 8,
+      "why": ""
+    },
+    {
+      "concept": "wallet",
+      "mentions": 8,
+      "why": ""
+    },
+    {
+      "concept": "lightbulb",
+      "mentions": 6,
+      "why": ""
+    },
+    {
+      "concept": "notes",
+      "mentions": 5,
+      "why": ""
+    },
+    {
+      "concept": "target",
+      "mentions": 5,
+      "why": ""
+    },
+    {
+      "concept": "heart",
+      "mentions": 5,
+      "why": ""
+    },
+    {
+      "concept": "road",
+      "mentions": 5,
+      "why": ""
+    },
+    {
+      "concept": "food",
+      "mentions": 5,
+      "why": ""
+    },
+    {
+      "concept": "phone",
+      "mentions": 4,
+      "why": ""
+    },
+    {
+      "concept": "rocketLaunch",
+      "mentions": 4,
+      "why": ""
+    },
+    {
+      "concept": "alarmClock",
+      "mentions": 3,
+      "why": ""
+    },
+    {
+      "concept": "funnelMetrics",
+      "mentions": 3,
+      "why": ""
+    }
+  ],
+  "spine": [
+    {
+      "act": "The Setup: How \"Project Hail Mary\" Works",
+      "fromFrame": 0,
+      "claim": ""
+    },
+    {
+      "act": "Literally Every Single One Happens",
+      "fromFrame": 4500,
+      "claim": ""
+    },
+    {
+      "act": "Trip Which Made Him Biologically",
+      "fromFrame": 9030,
+      "claim": ""
+    },
+    {
+      "act": "Ship Spinning With A Radius",
+      "fromFrame": 13650,
+      "claim": ""
+    },
+    {
+      "act": "Sharing Astrophase Samples Rocky Isn't",
+      "fromFrame": 18360,
+      "claim": ""
+    },
+    {
+      "act": "Here's The Beautiful Part Neither",
+      "fromFrame": 23220,
+      "claim": ""
+    },
+    {
+      "act": "Hail Mary Within The Hail",
+      "fromFrame": 27750,
+      "claim": ""
+    },
+    {
+      "act": "Human Food To Survive The",
+      "fromFrame": 32490,
+      "claim": ""
+    },
+    {
+      "act": "Idealized There's No Arguing That",
+      "fromFrame": 37230,
+      "claim": ""
+    },
+    {
+      "act": "It's A Haunting Thought But",
+      "fromFrame": 41760,
+      "claim": ""
+    }
+  ],
+  "authored": false
+}

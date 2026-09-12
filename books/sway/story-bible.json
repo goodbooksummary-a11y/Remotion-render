@@ -1,0 +1,163 @@
+{
+  "slug": "sway",
+  "world": {
+    "era": "1713–1977",
+    "approxYear": 1977,
+    "setting": "",
+    "register": "",
+    "forbid": [
+      "phone",
+      "codeWindow",
+      "laptopMockup",
+      "rocketLaunch",
+      "funnelMetrics",
+      "dollarExchange",
+      "subway",
+      "car",
+      "alarmClock",
+      "medical"
+    ]
+  },
+  "cast": {
+    "amy": {
+      "name": "Amy",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 3
+    },
+    "vanzant": {
+      "name": "Vanzant",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 3
+    },
+    "baserman": {
+      "name": "Baserman",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 2
+    },
+    "vanzanton": {
+      "name": "Vanzanton",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 2
+    }
+  },
+  "places": {
+    "hospital": {
+      "set": "hospital",
+      "look": "",
+      "mentions": 3
+    },
+    "street": {
+      "set": "street",
+      "look": "",
+      "mentions": 1
+    },
+    "classroom": {
+      "set": "classroom",
+      "look": "",
+      "mentions": 1
+    },
+    "highway": {
+      "set": "highway",
+      "look": "",
+      "mentions": 1
+    }
+  },
+  "objects": [
+    {
+      "concept": "shield",
+      "mentions": 23,
+      "why": ""
+    },
+    {
+      "concept": "phone",
+      "mentions": 12,
+      "why": ""
+    },
+    {
+      "concept": "family",
+      "mentions": 12,
+      "why": ""
+    },
+    {
+      "concept": "wallet",
+      "mentions": 10,
+      "why": ""
+    },
+    {
+      "concept": "medical",
+      "mentions": 9,
+      "why": ""
+    },
+    {
+      "concept": "coin",
+      "mentions": 8,
+      "why": ""
+    },
+    {
+      "concept": "crash",
+      "mentions": 7,
+      "why": ""
+    },
+    {
+      "concept": "food",
+      "mentions": 7,
+      "why": ""
+    },
+    {
+      "concept": "grave",
+      "mentions": 7,
+      "why": ""
+    },
+    {
+      "concept": "game",
+      "mentions": 6,
+      "why": ""
+    },
+    {
+      "concept": "trophy",
+      "mentions": 6,
+      "why": ""
+    },
+    {
+      "concept": "road",
+      "mentions": 5,
+      "why": ""
+    }
+  ],
+  "spine": [
+    {
+      "act": "setup",
+      "fromFrame": 20,
+      "claim": ""
+    },
+    {
+      "act": "development",
+      "fromFrame": 12903,
+      "claim": ""
+    },
+    {
+      "act": "turn",
+      "fromFrame": 25613,
+      "claim": ""
+    },
+    {
+      "act": "consequence",
+      "fromFrame": 39320,
+      "claim": ""
+    },
+    {
+      "act": "close",
+      "fromFrame": 51627,
+      "claim": ""
+    }
+  ],
+  "authored": false
+}

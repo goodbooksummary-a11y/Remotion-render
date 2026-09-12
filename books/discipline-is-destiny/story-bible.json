@@ -1,0 +1,154 @@
+{
+  "slug": "discipline-is-destiny",
+  "world": {
+    "era": "1939–2030",
+    "approxYear": 1981,
+    "setting": "",
+    "register": "",
+    "forbid": []
+  },
+  "cast": {
+    "discipline": {
+      "name": "Discipline",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 4
+    },
+    "marcus": {
+      "name": "Marcus",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 2
+    },
+    "never": {
+      "name": "Never",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 2
+    },
+    "edison": {
+      "name": "Edison",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 2
+    },
+    "selfdiscipline": {
+      "name": "Selfdiscipline",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 2
+    }
+  },
+  "places": {
+    "hospital": {
+      "set": "hospital",
+      "look": "",
+      "mentions": 1
+    },
+    "bedroom": {
+      "set": "bedroom",
+      "look": "",
+      "mentions": 1
+    },
+    "office": {
+      "set": "office",
+      "look": "",
+      "mentions": 1
+    }
+  },
+  "objects": [
+    {
+      "concept": "war",
+      "mentions": 14,
+      "why": ""
+    },
+    {
+      "concept": "chains",
+      "mentions": 13,
+      "why": ""
+    },
+    {
+      "concept": "game",
+      "mentions": 13,
+      "why": ""
+    },
+    {
+      "concept": "work",
+      "mentions": 13,
+      "why": ""
+    },
+    {
+      "concept": "alarmClock",
+      "mentions": 12,
+      "why": ""
+    },
+    {
+      "concept": "trophy",
+      "mentions": 12,
+      "why": ""
+    },
+    {
+      "concept": "wallet",
+      "mentions": 9,
+      "why": ""
+    },
+    {
+      "concept": "phone",
+      "mentions": 8,
+      "why": ""
+    },
+    {
+      "concept": "notes",
+      "mentions": 8,
+      "why": ""
+    },
+    {
+      "concept": "family",
+      "mentions": 7,
+      "why": ""
+    },
+    {
+      "concept": "storm",
+      "mentions": 6,
+      "why": ""
+    },
+    {
+      "concept": "food",
+      "mentions": 6,
+      "why": ""
+    }
+  ],
+  "spine": [
+    {
+      "act": "setup",
+      "fromFrame": 17,
+      "claim": ""
+    },
+    {
+      "act": "development",
+      "fromFrame": 15269,
+      "claim": ""
+    },
+    {
+      "act": "turn",
+      "fromFrame": 30658,
+      "claim": ""
+    },
+    {
+      "act": "consequence",
+      "fromFrame": 46781,
+      "claim": ""
+    },
+    {
+      "act": "close",
+      "fromFrame": 62854,
+      "claim": ""
+    }
+  ],
+  "authored": false
+}

@@ -1,0 +1,191 @@
+{
+  "slug": "a-gentleman-in-moscow",
+  "world": {
+    "era": "1913–1954",
+    "approxYear": 1922,
+    "setting": "",
+    "register": "",
+    "forbid": [
+      "phone",
+      "codeWindow",
+      "laptopMockup",
+      "rocketLaunch",
+      "funnelMetrics",
+      "dollarExchange",
+      "subway",
+      "car",
+      "alarmClock",
+      "medical"
+    ]
+  },
+  "cast": {
+    "rostov": {
+      "name": "Rostov",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 3
+    },
+    "rosttov": {
+      "name": "Rosttov",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 3
+    },
+    "mishka": {
+      "name": "Mishka",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 2
+    },
+    "nah": {
+      "name": "Nah",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 2
+    },
+    "rostoff": {
+      "name": "Rostoff",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 2
+    },
+    "sophia": {
+      "name": "Sophia",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 2
+    },
+    "vashinsky": {
+      "name": "Vashinsky",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 2
+    },
+    "rosto": {
+      "name": "Rosto",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 2
+    }
+  },
+  "places": {
+    "cafe": {
+      "set": "cafe",
+      "look": "",
+      "mentions": 8
+    },
+    "court": {
+      "set": "court",
+      "look": "",
+      "mentions": 1
+    },
+    "bedroom": {
+      "set": "bedroom",
+      "look": "",
+      "mentions": 1
+    },
+    "street": {
+      "set": "street",
+      "look": "",
+      "mentions": 1
+    }
+  },
+  "objects": [
+    {
+      "concept": "chains",
+      "mentions": 18,
+      "why": ""
+    },
+    {
+      "concept": "phone",
+      "mentions": 8,
+      "why": ""
+    },
+    {
+      "concept": "compass",
+      "mentions": 8,
+      "why": ""
+    },
+    {
+      "concept": "law",
+      "mentions": 7,
+      "why": ""
+    },
+    {
+      "concept": "coin",
+      "mentions": 7,
+      "why": ""
+    },
+    {
+      "concept": "family",
+      "mentions": 7,
+      "why": ""
+    },
+    {
+      "concept": "notes",
+      "mentions": 6,
+      "why": ""
+    },
+    {
+      "concept": "home",
+      "mentions": 6,
+      "why": ""
+    },
+    {
+      "concept": "lightbulb",
+      "mentions": 6,
+      "why": ""
+    },
+    {
+      "concept": "work",
+      "mentions": 5,
+      "why": ""
+    },
+    {
+      "concept": "food",
+      "mentions": 4,
+      "why": ""
+    },
+    {
+      "concept": "game",
+      "mentions": 4,
+      "why": ""
+    }
+  ],
+  "spine": [
+    {
+      "act": "setup",
+      "fromFrame": 2,
+      "claim": ""
+    },
+    {
+      "act": "development",
+      "fromFrame": 11671,
+      "claim": ""
+    },
+    {
+      "act": "turn",
+      "fromFrame": 25531,
+      "claim": ""
+    },
+    {
+      "act": "consequence",
+      "fromFrame": 37661,
+      "claim": ""
+    },
+    {
+      "act": "close",
+      "fromFrame": 51034,
+      "claim": ""
+    }
+  ],
+  "authored": false
+}

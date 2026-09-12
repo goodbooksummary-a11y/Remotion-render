@@ -1,0 +1,4180 @@
+{
+  "slug": "a-gentleman-in-moscow",
+  "authored": false,
+  "briefs": [
+    {
+      "fp": "fkyjn1",
+      "i": 0,
+      "from": 2,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1922"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Here's the wildest thing about this book. The Bolsheviks think they're destroying this man by locking him in a luxury hotel and instead they hand him the only life he was ever gonn"
+    },
+    {
+      "fp": "4pbi95",
+      "i": 1,
+      "from": 329,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1922"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "It is uh it's just the ultimate irony. And honestly, that's exactly why we need to do this deep dive today. Yeah, we have to unpack this because in Armor Tales, a gentleman in Mosc"
+    },
+    {
+      "fp": "bu9vg0",
+      "i": 2,
+      "from": 672,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1922"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "the actual engine of meaning. It's not the obstacle to it, which is what you'd expect, right? You'd think it's a story of Exactly. But it isn't a story of someone flourishing despi"
+    },
+    {
+      "fp": "2iltyz",
+      "i": 3,
+      "from": 967,
+      "subject": "chains",
+      "entities": [],
+      "concept": "chains",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "chains, 1922"
+      },
+      "antidote": {
+        "concept": "chains",
+        "cast": []
+      },
+      "_said": "I mean, he flourishes because of it. Because of the limits. Yes. The physical limits he is subjected to. They force a depth and attention and an intentionality that absolute freedo"
+    },
+    {
+      "fp": "2p7nst",
+      "i": 4,
+      "from": 1315,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1922"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "So, let's build this world for you. It is June 21st, 1922. We are looking at Count Alexander Ilichtoff."
+    },
+    {
+      "fp": "5zq4lo",
+      "i": 5,
+      "from": 1522,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1922"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "And we really need to understand who this guy was before this day, right? Because this is a man who possessed literally everything a human being could possess."
+    },
+    {
+      "fp": "1lx5obz",
+      "i": 6,
+      "from": 1742,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "leave your own exactly, 1922"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "He had these sweeping massive estates like Idle Hour in the Russian countryside. Places so big you could, you know, ride a horse all day and not leave your own Exactly."
+    },
+    {
+      "fp": "1c5mzs2",
+      "i": 7,
+      "from": 2040,
+      "subject": "food",
+      "entities": [],
+      "concept": "food",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "food, 1922"
+      },
+      "antidote": {
+        "concept": "food",
+        "set": null,
+        "cast": []
+      },
+      "_said": "He had Parisian vacations. He existed at the absolute apex of high society, endless travel, bespoke clothing, the best food in Europe. But the revolution has happened."
+    },
+    {
+      "fp": "11cxv76",
+      "i": 8,
+      "from": 2395,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1922"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "The old world has been violently erased. And now he is hauled before the emergency committee of the people's commisseria."
+    },
+    {
+      "fp": "10iz0eh",
+      "i": 9,
+      "from": 2599,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1922"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "And his sentence is incredibly specific, which is really the catalyst for this entire psychological experiment we're talking about. Because he didn't just get shot."
+    },
+    {
+      "fp": "7o2t7t",
+      "i": 10,
+      "from": 2830,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "notes, 1922"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": []
+      },
+      "_said": "No, because he wrote a supposedly revolutionary poem back in 1913. It was called Where Is It Now? And because of that poem, he is spared the firing squad. The Bolshevixs decide he "
+    },
+    {
+      "fp": "18bkjjo",
+      "i": 11,
+      "from": 3180,
+      "subject": "home",
+      "entities": [],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "home, 1922"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": []
+      },
+      "_said": "of revolutionary sympathy in him. So instead of a bullet, he gets permanent house arrest. Sent back to the Metropole Hotel in Yeah. Where he has been living in this grand suite. Ye"
+    },
+    {
+      "fp": "16fq2li",
+      "i": 12,
+      "from": 3506,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1922"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "If he ever steps outside the doors of that hotel, he will be shot dead. Think about the whiplash of that reality for a second. He is a man who previously owned the world, and now h"
+    },
+    {
+      "fp": "1r3kfe7",
+      "i": 13,
+      "from": 3881,
+      "subject": "law",
+      "entities": [],
+      "concept": "law",
+      "place": "court",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "law, court, 1922"
+      },
+      "antidote": {
+        "concept": "law",
+        "set": "court",
+        "cast": []
+      },
+      "_said": "by the revolving doors of a single building. He has a few hundred rooms and a lifetime to spend in them. Let's drop you right into the courtroom where this sentence is handed down."
+    },
+    {
+      "fp": "1szcuac",
+      "i": 14,
+      "from": 4152,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1922"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "It's such a tense scene. It really is. You can practically smell the cheap tobacco and the sweat in the room."
+    },
+    {
+      "fp": "83dnxq",
+      "i": 15,
+      "from": 4361,
+      "subject": "Vashinsky",
+      "entities": [
+        "vashinsky"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Vashinsky, 1922"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "vashinsky"
+        ]
+      },
+      "_said": "The Bolevik officials are glaring down at him from their elevated bench. And prosecutor Vashinsky is there, which is terrifying, right?"
+    },
+    {
+      "fp": "tcyl7l",
+      "i": 16,
+      "from": 4586,
+      "subject": "Vashinsky",
+      "entities": [
+        "vashinsky"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Vashinsky, 1922"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "vashinsky"
+        ]
+      },
+      "_said": "Because historically, Vashinsky was a monster. He's the man who would later orchestrate Stalin's purge trials. Oh, yeah. He is not someone you mess with. And he snears at the count"
+    },
+    {
+      "fp": "1ng8iys",
+      "i": 17,
+      "from": 4939,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "notes, 1922"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": []
+      },
+      "_said": "He explicitly mocks it in the official record. He notes that it is quote festoned with buttons. It's an intimidation tactic."
+    },
+    {
+      "fp": "kyo69s",
+      "i": 18,
+      "from": 5167,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "standing there at an easy 6'3 completely unfazed, 1922"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "It is meant to shrink the prisoner to make him feel But but the count who is standing there at an easy 6'3 completely unfazed looks up at this terrifying tribunal."
+    },
+    {
+      "fp": "1qrhdlp",
+      "i": 19,
+      "from": 5484,
+      "subject": "Vashinsky — game",
+      "entities": [
+        "vashinsky"
+      ],
+      "concept": "game",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Vashinsky, 1922"
+      },
+      "antidote": {
+        "concept": "game",
+        "set": null,
+        "cast": [
+          "vashinsky"
+        ]
+      },
+      "_said": "And he simply offers to duel Vashinsky for the insult on the field of honor. It's an absurd almost comical response to a death panel. It is. But if we dig into the"
+    },
+    {
+      "fp": "buuhg2",
+      "i": 20,
+      "from": 5796,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1922"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "psychology of what's happening here, it reveals a profound truth about power. Right. Because the Bolsheviks expect Exactly."
+    },
+    {
+      "fp": "vwvmt0",
+      "i": 21,
+      "from": 6034,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1922"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "That's the currency of a tribunal like this. They want to crush his spirit to see him beg or at least, you know, to show some fear. But a punishment of deprivation only works if th"
+    },
+    {
+      "fp": "118f9zf",
+      "i": 22,
+      "from": 6403,
+      "subject": "coin",
+      "entities": [],
+      "concept": "coin",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "coin, 1922"
+      },
+      "antidote": {
+        "concept": "coin",
+        "cast": []
+      },
+      "_said": "taking away. Yes. The state assumes he will be absolutely devastated by the loss of his boundless freedom and his vast wealth."
+    },
+    {
+      "fp": "1lywpec",
+      "i": 23,
+      "from": 6619,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1922"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "and you see the complete breakdown of their expectation the second he returns to the hotel is one of the most cinematic moments in the whole book."
+    },
+    {
+      "fp": "vwth2c",
+      "i": 24,
+      "from": 6850,
+      "subject": "Rostov",
+      "entities": [
+        "rostov"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Rostov, walks back across red square and he's flanked, 1922"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "rostov"
+        ]
+      },
+      "_said": "He walks back across Red Square and he's flanked by armed guards with rifles. But look at how Rostov carries himself."
+    },
+    {
+      "fp": "1s9tc08",
+      "i": 25,
+      "from": 7063,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1922"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "He breathes in the cool June air like he's just surfaced from a refreshing He pauses to marvel at the gorgeous blue sky framing the koopas of St. Basil's Cathedral."
+    },
+    {
+      "fp": "3yldxo",
+      "i": 26,
+      "from": 7366,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1922"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "He cheerfully calls out to the blackberry seller, a guy named happily noting that the berries have come in early this year."
+    },
+    {
+      "fp": "1f3pc17",
+      "i": 27,
+      "from": 7572,
+      "subject": "door",
+      "entities": [],
+      "concept": "door",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "door, walks through the grand threshold of the metr, 1922"
+      },
+      "antidote": {
+        "concept": "door",
+        "cast": []
+      },
+      "_said": "Yeah. And then he walks through the grand threshold of the metropole and actually winks at Pavville, the doorman, looking for all the world like a wealthy tourist, just checking in"
+    },
+    {
+      "fp": "zcr7lb",
+      "i": 28,
+      "from": 7896,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "walking to his tomb, 1922"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "The guards are completely baffled. They think they are escorting a dead man walking to his tomb, but the guy is acting like he's on a leisurely afternoon stroll."
+    },
+    {
+      "fp": "ftcua7",
+      "i": 29,
+      "from": 8191,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1922"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Okay, wait. Let me pause you right there because I have to push back on this a little bit. Go for it. When I first read this, my immediate thought was, isn't he just in massive You"
+    },
+    {
+      "fp": "1a5vujw",
+      "i": 30,
+      "from": 8522,
+      "subject": "home",
+      "entities": [],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "home, 1922"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": []
+      },
+      "_said": "it? I mean, he just lost his freedom, his bank accounts, his ancestral home, It's a lot to lose in one afternoon, right?"
+    },
+    {
+      "fp": "1763hry",
+      "i": 31,
+      "from": 8784,
+      "subject": "sword",
+      "entities": [],
+      "concept": "sword",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "sword, reads to me like he's putting on a brave face, 1922"
+      },
+      "antidote": {
+        "concept": "sword",
+        "cast": []
+      },
+      "_said": "So, it reads to me like he's putting on a brave face because he's an aristocrat. And aristocrats are literally trained from birth not to sweat in public."
+    },
+    {
+      "fp": "1ycqamt",
+      "i": 32,
+      "from": 9046,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1922"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "True. bad manners to show distress. But underneath that tailored jacket, he has to be in absolute psychological shock, right?"
+    },
+    {
+      "fp": "1rhv5la",
+      "i": 33,
+      "from": 9329,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "read of the scene to assume he's faking it, 1922"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "He is in denial. It's a very natural read of the scene to assume he's faking it. But if you look closely at the text, Tal is making a much deeper argument here."
+    },
+    {
+      "fp": "fnpzbb",
+      "i": 34,
+      "from": 9569,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1922"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "He is not in denial. He knows exactly what is happening to him, and he knows exactly what the stakes are. So why act like that?"
+    },
+    {
+      "fp": "dopits",
+      "i": 35,
+      "from": 9797,
+      "subject": "mask",
+      "entities": [],
+      "concept": "mask",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "mask, 1922"
+      },
+      "antidote": {
+        "concept": "mask",
+        "cast": []
+      },
+      "_said": "Because his charm in that moment isn't a mask to hide his fear. It's an active A weapon?"
+    },
+    {
+      "fp": "1ef3pzj",
+      "i": 36,
+      "from": 10015,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "notes, 1922"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": []
+      },
+      "_said": "Yeah. Even Ignattov, the presiding official at his trial, notes this phenomenon. Ignat remarks that history shows charm is the final ambition of the leisure class."
+    },
+    {
+      "fp": "1c3w1qu",
+      "i": 37,
+      "from": 10325,
+      "subject": "Rostov — trophy",
+      "entities": [
+        "rostov"
+      ],
+      "concept": "trophy",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Rostov, 1922"
+      },
+      "antidote": {
+        "concept": "trophy",
+        "cast": [
+          "rostov"
+        ]
+      },
+      "_said": "Rostov is actively, consciously refusing to participate in his own destruction. Oh, I see. If he weeps, if he mourns the loss of his estates, he hands the Bolsheviks exactly the ps"
+    },
+    {
+      "fp": "1xxdmd3",
+      "i": 38,
+      "from": 10697,
+      "subject": "food",
+      "entities": [],
+      "concept": "food",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "food, 1922"
+      },
+      "antidote": {
+        "concept": "food",
+        "set": null,
+        "cast": []
+      },
+      "_said": "Exactly. His cheerfulness is an act of supreme calculated defiance. Ah, it's like that old playground dynamic. If a bully steals your lunch money and you cry, the bully wins."
+    },
+    {
+      "fp": "1vdk6vs",
+      "i": 39,
+      "from": 10990,
+      "subject": "coin",
+      "entities": [],
+      "concept": "coin",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "coin, 1922"
+      },
+      "antidote": {
+        "concept": "coin",
+        "cast": []
+      },
+      "_said": "Yep. But if the bully steals your money and you laugh and say you were going on a diet anyway, you completely shortcircuit their power."
+    },
+    {
+      "fp": "e1gp29",
+      "i": 40,
+      "from": 11196,
+      "subject": "game",
+      "entities": [],
+      "concept": "game",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "game, 1922"
+      },
+      "antidote": {
+        "concept": "game",
+        "set": null,
+        "cast": []
+      },
+      "_said": "That is exactly it. It's just like the advice his grandmother gave him when he was a boy. Oh, right. When he lost a game of Yeah. Yeah. He lost the game and threw a massive fit. an"
+    },
+    {
+      "fp": "1cx4k5p",
+      "i": 41,
+      "from": 11542,
+      "subject": "gift",
+      "entities": [],
+      "concept": "gift",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "gift, 1922"
+      },
+      "antidote": {
+        "concept": "gift",
+        "cast": []
+      },
+      "_said": "on earth would you give him the satisfaction?\" That's brilliant. He is denying the Soviet state the satisfaction of his He is rendering their punishment entirely ineffective by rec"
+    },
+    {
+      "fp": "o9sf29",
+      "i": 42,
+      "from": 11916,
+      "subject": "Rosttov",
+      "entities": [
+        "rosttov"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Rosttov, 1922"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "rosttov"
+        ]
+      },
+      "_said": "perspective on what actually which perfectly sets up our thesis for you today. Confinement only destroys you if you let the walls define your spirit. Yes, for Rosttov, these"
+    },
+    {
+      "fp": "153fbg4",
+      "i": 43,
+      "from": 12242,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "walking through the lobby in the sunshine, 1922"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "walls are just the starting line. But you know that defiance is easy when he's just walking through the lobby in the sunshine."
+    },
+    {
+      "fp": "1ashqfd",
+      "i": 44,
+      "from": 12449,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1922"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "The real test of this philosophy is what happens when he actually gets upstairs because the state isn't just taking away the outside world. They are drastically shrinking his insid"
+    },
+    {
+      "fp": "a6ewrk",
+      "i": 45,
+      "from": 12725,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1922"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "He doesn't get to keep his luxurious No, he does not. Picture the Belelfrey on the sixth floor of this massive opulent hotel."
+    },
+    {
+      "fp": "1m7xjl6",
+      "i": 46,
+      "from": 12955,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1922"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "The account is forced out of his sprawling suite 317, which had a grand salon and massive 8ft windows overlooking the square, mind Right."
+    },
+    {
+      "fp": "rlh7vq",
+      "i": 47,
+      "from": 13229,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1922"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "And instead, he's led by a military escort up this hidden ill-lit utility stairwell that turns sharply every five steps."
+    },
+    {
+      "fp": "1b9vsts",
+      "i": 48,
+      "from": 13490,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "stands up, 1922"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "And he is placed in a 100 square foot attic room with a slanting ceiling. It's so cramped, he literally bangs his head on the ceiling when he stands up."
+    },
+    {
+      "fp": "56pf2t",
+      "i": 49,
+      "from": 13759,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "sits on this narrow cast iron bed, 1922"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "The window is the size of a chessboard and he just sits on this narrow cast iron bed, bounces twice, listens to the squeak of the springs and calmly identifies the pitch as It's su"
+    },
+    {
+      "fp": "1c55w2b",
+      "i": 50,
+      "from": 14086,
+      "subject": "magnifier",
+      "entities": [],
+      "concept": "magnifier",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "magnifier, 1922"
+      },
+      "antidote": {
+        "concept": "magnifier",
+        "cast": []
+      },
+      "_said": "a great detail. But think about the mechanics of this space for you. When your world shrinks this dramatically from thousands of acres to 100 square ft, it"
+    },
+    {
+      "fp": "ughjlq",
+      "i": 51,
+      "from": 14402,
+      "subject": "heart",
+      "entities": [],
+      "concept": "heart",
+      "place": "cafe",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "heart, cafe, 1922"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": "cafe",
+        "cast": []
+      },
+      "_said": "forces an entirely new relationship with the material world. This moment is entirely about curation. Every single object must earn its square Exactly."
+    },
+    {
+      "fp": "nbt8e0",
+      "i": 52,
+      "from": 14669,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1922"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "For a man who previously had multiple palaces filled with generations of accumulated stuff, moving into this attic is the very first act of intentional curation in his entire life."
+    },
+    {
+      "fp": "a8n950",
+      "i": 53,
+      "from": 14988,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "watch what makes the cut because he, 1922"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "It's fascinating to watch what actually makes the cut because he is allowed to bring a few things from his old suite. Yeah. He has the bellhops haul up his things and the choices a"
+    },
+    {
+      "fp": "u6v5yc",
+      "i": 54,
+      "from": 15281,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1922"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "He keeps his grandmother's delicate scissors, which are fashioned in the shape of an egret with silver blades for the beak and a golden screw for the eye. He keeps what he calls th"
+    },
+    {
+      "fp": "1evtmql",
+      "i": 55,
+      "from": 15600,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "holding 26 pairs of specialized, 1922"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Oh, the custommade leather case holding 26 pairs of specialized, highly fragile crystal wine glasses. And crucially, he demands the bellhops lug up this massive, heavy desk that"
+    },
+    {
+      "fp": "h9kuf9",
+      "i": 56,
+      "from": 15982,
+      "subject": "Rostoff",
+      "entities": [
+        "rostoff"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Rostoff, 1922"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "rostoff"
+        ]
+      },
+      "_said": "belonged to his godfather, the Grand Duke. The billhops are sweating and complaining that the desk weighs a ton. And Rostoff just calmly tells them, \"A king fortifies himself with "
+    },
+    {
+      "fp": "3g26fr",
+      "i": 57,
+      "from": 16310,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1922"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "gentleman with a desk.\" Okay, but hang on. This is where I struggle with the narrative a bit. What do you mean? Well, a minute ago, we were just talking about how he didn't care ab"
+    },
+    {
+      "fp": "12jz6gj",
+      "i": 58,
+      "from": 16613,
+      "subject": "coin",
+      "entities": [],
+      "concept": "coin",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "coin, 1922"
+      },
+      "antidote": {
+        "concept": "coin",
+        "cast": []
+      },
+      "_said": "Yeah, we said he was totally unattached to his material wealth, but here he is desperately clinging to 52 crystal wine glasses and a desk that, as we later find out, literally has"
+    },
+    {
+      "fp": "1q4bug4",
+      "i": 59,
+      "from": 16944,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1922"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "hollow legs stuffed with gold coins. It does seem contradictory. Isn't that a massive contradiction? How is that mindful of curation?"
+    },
+    {
+      "fp": "104uxtr",
+      "i": 60,
+      "from": 17194,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1922"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "That just sounds like a rich guy frantically hoarding the most expensive loot he could grab before the door locks. I completely see why you'd flag that."
+    },
+    {
+      "fp": "zksl4u",
+      "i": 61,
+      "from": 17422,
+      "subject": "coin",
+      "entities": [],
+      "concept": "coin",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "coin, 1922"
+      },
+      "antidote": {
+        "concept": "coin",
+        "cast": []
+      },
+      "_said": "On the surface, it looks like a desperate grab for wealth, but you have to connect this scene to his childhood fantasy."
+    },
+    {
+      "fp": "19iignx",
+      "i": 62,
+      "from": 17645,
+      "subject": "heart",
+      "entities": [],
+      "concept": "heart",
+      "place": "cafe",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "heart, cafe, 1922"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": "cafe",
+        "cast": []
+      },
+      "_said": "A childhood fantasy. Yeah. Which Towels explicitly outlines for a reason. He doesn't love the attic room because he's clinging to his aristocratic past."
+    },
+    {
+      "fp": "3goets",
+      "i": 63,
+      "from": 17911,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1922"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "He actually loves it because it reminds him of Captain Nemo or submarine, the Oh, wow. I forgot about that connection."
+    },
+    {
+      "fp": "qe467s",
+      "i": 64,
+      "from": 18115,
+      "subject": "Rostoff",
+      "entities": [
+        "rostoff"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Rostoff, 1922"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "rostoff"
+        ]
+      },
+      "_said": "When Rostoff was a little boy, he didn't dream of palaces. He loved the extreme engineered efficiency of steamship cabins and train births."
+    },
+    {
+      "fp": "1r0w6y4",
+      "i": 65,
+      "from": 18370,
+      "subject": "compass",
+      "entities": [],
+      "concept": "compass",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "compass, 1922"
+      },
+      "antidote": {
+        "concept": "compass",
+        "cast": []
+      },
+      "_said": "Right? He was obsessed with tables that folded away into walls, drawers built into the bottom of beds. Inherently, he thrives on the precision of purpose that a small space demands"
+    },
+    {
+      "fp": "eb2ckv",
+      "i": 66,
+      "from": 18698,
+      "subject": "coin",
+      "entities": [],
+      "concept": "coin",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "coin, 1922"
+      },
+      "antidote": {
+        "concept": "coin",
+        "cast": []
+      },
+      "_said": "Now, yes, the gold in the desk is a practical necessity for survival in a changing regime. Obviously, he needs money, but the space itself, he genuinely loves the constraint."
+    },
+    {
+      "fp": "1wkbk2x",
+      "i": 67,
+      "from": 19001,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1922"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "That is a really great pull. I remember that part now. He explicitly thinks as a kid that he would trade a hundred nights in a palace for one single night aboard the Nautilus"
+    },
+    {
+      "fp": "avs4et",
+      "i": 68,
+      "from": 19366,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1922"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "because the palaces were just given to Right. They were inherited. But this small cramped room is something he has to actively master."
+    },
+    {
+      "fp": "1ci9cvx",
+      "i": 69,
+      "from": 19591,
+      "subject": "chains",
+      "entities": [],
+      "concept": "chains",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "chains, 1922"
+      },
+      "antidote": {
+        "concept": "chains",
+        "cast": []
+      },
+      "_said": "Exactly. The wide open estates of his youth were a trap disguised as freedom. They made him aimless."
+    },
+    {
+      "fp": "1arq84c",
+      "i": 70,
+      "from": 19786,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1922"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "He just drifted from room to room, party to party, conversation to conversation. But a 100 square ft room forces He has to decide exactly where the chair goes so"
+    },
+    {
+      "fp": "pi9h0a",
+      "i": 71,
+      "from": 20098,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "read by the tiny chessboard window, 1922"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "he can read by the tiny chessboard window. He has to decide exactly which books matter enough to take up shelf space. The physical confinement acts as the engine of his meaning. It"
+    },
+    {
+      "fp": "x4qdkv",
+      "i": 72,
+      "from": 20402,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1922"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "It's like the walls act as a pressure cooker for his attention. When you can only look at five things, you really look at them. But you know, surviving isn't just about perfectly a"
+    },
+    {
+      "fp": "1f9s2ix",
+      "i": 73,
+      "from": 20700,
+      "subject": "home",
+      "entities": [],
+      "concept": "home",
+      "place": "bedroom",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "home, bedroom, 1922"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": "bedroom",
+        "cast": []
+      },
+      "_said": "You can't spend 40 years in 100 square feet without losing your mind. No, you'd go crazy. The physical space of the Metropole isn't just his room. He has to learn how to exist in t"
+    },
+    {
+      "fp": "f7phzd",
+      "i": 74,
+      "from": 21094,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1922"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "but he only truly discovers the depth of that ecosystem when he meets a 9-year-old girl named Nina Kulakova. Right."
+    },
+    {
+      "fp": "1pwrg1v",
+      "i": 75,
+      "from": 21334,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1922"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Let's take you down into the absolute bowels of the hotel for this It's such a shift in atmosphere. Imagine the sweltering heat of a boiler room. Massive billows of steam"
+    },
+    {
+      "fp": "w6hhhu",
+      "i": 76,
+      "from": 21658,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1922"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "escaping from a concertina of industrial valves. And the count, this towering, perfectly manicured aristocrat, is being led by the hand by a little 9-year-old girl in a bright yell"
+    },
+    {
+      "fp": "77st7x",
+      "i": 77,
+      "from": 22022,
+      "subject": "Nah — heart",
+      "entities": [
+        "nah"
+      ],
+      "concept": "heart",
+      "place": "cafe",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Nah, cafe, 1922"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": "cafe",
+        "cast": [
+          "nah"
+        ]
+      },
+      "_said": "Nah has dragged him down here to show him the furnace because she has empirically determined it is the absolute best place in the entire hotel to burn secret illicit love letters."
+    },
+    {
+      "fp": "axtm27",
+      "i": 78,
+      "from": 22306,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1922"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "And what's really happening under the surface here is a masterclass in human perception. Because constraint breeds curiosity."
+    },
+    {
+      "fp": "aks9jp",
+      "i": 79,
+      "from": 22517,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1922"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "When you are placed inside a bounded world, you don't just stop looking. You are forced to look harder at what is right in front of you."
+    },
+    {
+      "fp": "wwua7v",
+      "i": 80,
+      "from": 22754,
+      "subject": "game",
+      "entities": [],
+      "concept": "game",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "game, 1922"
+      },
+      "antidote": {
+        "concept": "game",
+        "set": null,
+        "cast": []
+      },
+      "_said": "You start seeing the micro details, right? The hidden negative spaces that you would completely ignore if you had the whole city of Moscow to wander around in. It's like playing a "
+    },
+    {
+      "fp": "1re5rxc",
+      "i": 81,
+      "from": 23107,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "walks up and shows you a cheat code that lets, 1922"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "4 years. Oh, that's a perfect analogy. You think you know every NPC, every building, and suddenly a kid walks up and shows you a cheat code that lets you walk through the walls and"
+    },
+    {
+      "fp": "1rhscu0",
+      "i": 82,
+      "from": 23496,
+      "subject": "Nah",
+      "entities": [
+        "nah"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Nah, 1922"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "nah"
+        ]
+      },
+      "_said": "Nah completely blows his mind by revealing the hidden geography of the With her skeleton Pasi, she opens up a world he never knew existed."
+    },
+    {
+      "fp": "13xzsvn",
+      "i": 83,
+      "from": 23770,
+      "subject": "ledge",
+      "entities": [],
+      "concept": "ledge",
+      "place": "street",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "ledge, street, 1922"
+      },
+      "antidote": {
+        "concept": "ledge",
+        "set": "street",
+        "cast": []
+      },
+      "_said": "She shows him the electrical room, buzzing and smelling of sulfur, and points to the exact lever that can plunge the grand ballroom into total darkness."
+    },
+    {
+      "fp": "j070ld",
+      "i": 84,
+      "from": 24022,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1922"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "She takes him into a forgotten room, a cabinet of curiosities just stuffed to the ceiling with left behind Beder guide books."
+    },
+    {
+      "fp": "jzaedi",
+      "i": 85,
+      "from": 24226,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "read novels from the 19th century, 1922"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Abandoned umbrellas, half-read novels from the 19th century. She maps the unseen. Before Nenah, the count thought he knew the hotel."
+    },
+    {
+      "fp": "ls673q",
+      "i": 86,
+      "from": 24470,
+      "subject": "Nah",
+      "entities": [
+        "nah"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Nah, 1922"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "nah"
+        ]
+      },
+      "_said": "He knew the grand lobby, his suite, the fine dining restaurants. He knew the surface. Nah teaches him But wait, let's be realistic for a second here. Uh-oh, here it comes."
+    },
+    {
+      "fp": "1n6y0b9",
+      "i": 87,
+      "from": 24782,
+      "subject": "Nah — family",
+      "entities": [
+        "nah"
+      ],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Nah, 1922"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": [
+          "nah"
+        ]
+      },
+      "_said": "Nah is just a board kid. Her father is a Soviet bureaucrat who essentially parked her in a hotel because he was too busy and didn't want to deal with her."
+    },
+    {
+      "fp": "1330jg1",
+      "i": 88,
+      "from": 25018,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1922"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "That's true. She's literally just playing hide-and-seek to pass the time. Isn't it a bit sad, maybe even a little pathetic that a grown, sophisticated, worldtraveled man has to rel"
+    },
+    {
+      "fp": "59fvuk",
+      "i": 89,
+      "from": 25411,
+      "subject": "lightbulb",
+      "entities": [],
+      "concept": "lightbulb",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "lightbulb, 1922"
+      },
+      "antidote": {
+        "concept": "lightbulb",
+        "cast": []
+      },
+      "_said": "child playing games to find a sense of wonder in his life? I strongly disagree with the idea that it's pathetic. Really, you have to look at what Nenah actually represents in the t"
+    },
+    {
+      "fp": "635ge7",
+      "i": 90,
+      "from": 25742,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, 1922"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": []
+      },
+      "_said": "of the book. She is a master geographer of the confined space. Okay, I'll hear you up. She is also confined by her strict governness, by her father's neglect, by her young age, But"
+    },
+    {
+      "fp": "tgtrr8",
+      "i": 91,
+      "from": 26057,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "notes, writes that in her first weeks, 1922"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": []
+      },
+      "_said": "because she is bounded, her walls don't grow inward to crush her. They grow outward in complexity. Towels writes that in her first weeks, the hotel became the size of two city Then"
+    },
+    {
+      "fp": "1gigsp4",
+      "i": 92,
+      "from": 26378,
+      "subject": "Rosttov",
+      "entities": [
+        "rosttov"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Rosttov, 1922"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "rosttov"
+        ]
+      },
+      "_said": "half of Moscow. Nina teaches Rosttov the most vital lesson of his survival. That even in a locked box, there are infinite dimensions if you simply change your perspective."
+    },
+    {
+      "fp": "1ybhq2k",
+      "i": 93,
+      "from": 26705,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1922"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Wow. Okay. The walls don't grow inward, they grow outward. That is powerful. It really is. She teaches him that the metropole isn't a single static building."
+    },
+    {
+      "fp": "1xp38ym",
+      "i": 94,
+      "from": 27005,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1922"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "It's a layered There's the guest layer, the staff layer, the structural layer. The geometry of his world just completely changed."
+    },
+    {
+      "fp": "ki4hot",
+      "i": 95,
+      "from": 27230,
+      "subject": "key",
+      "entities": [],
+      "concept": "key",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "key, 1922"
+      },
+      "antidote": {
+        "concept": "key",
+        "set": null,
+        "cast": []
+      },
+      "_said": "And that realization is the key to his endurance. Confinement doesn't shrink his world. It expands his awareness of how vast a single building can be if you actually pay attention "
+    },
+    {
+      "fp": "1if560u",
+      "i": 96,
+      "from": 27564,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1922"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "So, he masters the physical space. He maps the hidden hallways. But a meaningful life isn't just about exploring hidden rooms and finding old umbrellas."
+    },
+    {
+      "fp": "18t63lx",
+      "i": 97,
+      "from": 27826,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1922"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "I mean, you can only do that for so long. True. Eventually, you need something to It's about what you do. Yeah. It's about how you spend your waking hours when all your former aris"
+    },
+    {
+      "fp": "owss8z",
+      "i": 98,
+      "from": 28133,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1922"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "What fills the time when the endless parties stop? And that brings us to the most practical application of this constraint, the formation of the triumvirate."
+    },
+    {
+      "fp": "12b1nsh",
+      "i": 99,
+      "from": 28373,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "sits down with the fiery, 1922"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Let's drop into this daily scene. It's 2.15 p.m. every single day. The count sits down with the fiery, temperamental Chef Emile, a man who literally throws knives when"
+    },
+    {
+      "fp": "pu96na",
+      "i": 100,
+      "from": 28711,
+      "subject": "work",
+      "entities": [],
+      "concept": "work",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "work, hold this daily meeting in the obnoxious new, 1922"
+      },
+      "antidote": {
+        "concept": "work",
+        "set": null,
+        "cast": []
+      },
+      "_said": "he's angry, and the perfectly poised, deeply elegant Mantra. Later on in the book, we see them forced to hold this daily meeting in the obnoxious new manager's office. The dead bis"
+    },
+    {
+      "fp": "1ad5jhg",
+      "i": 101,
+      "from": 29038,
+      "subject": "school",
+      "entities": [],
+      "concept": "school",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "school, sitting in a tight little row on these tiny, 1922"
+      },
+      "antidote": {
+        "concept": "school",
+        "set": null,
+        "cast": []
+      },
+      "_said": "The bishop. Yeah. This petty bureaucrat, and they are sitting in a tight little row on these tiny, delicate Louis IV looking exactly like three guilty school boys called into the"
+    },
+    {
+      "fp": "fp0l1r",
+      "i": 102,
+      "from": 29371,
+      "subject": "work",
+      "entities": [],
+      "concept": "work",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "work, 1922"
+      },
+      "antidote": {
+        "concept": "work",
+        "set": null,
+        "cast": []
+      },
+      "_said": "principal's office, and they are fiercely, passionately debating the culinary merits of pork cody and the seasonality of tomatoes. If you're wondering how this applies to the broad"
+    },
+    {
+      "fp": "cstt10",
+      "i": 103,
+      "from": 29726,
+      "subject": "compass",
+      "entities": [],
+      "concept": "compass",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "compass, 1922"
+      },
+      "antidote": {
+        "concept": "compass",
+        "cast": []
+      },
+      "_said": "generated. Purpose is born from routine, not from endless unstructured adventure. Exactly. Confinement created a physical proximity that forced these three entirely different men, "
+    },
+    {
+      "fp": "hj29ym",
+      "i": 104,
+      "from": 30101,
+      "subject": "school",
+      "entities": [],
+      "concept": "school",
+      "place": "cafe",
+      "confidence": 0.6,
+      "vox": {
+        "shot": "school, cafe, 1922"
+      },
+      "antidote": {
+        "concept": "school",
+        "set": "cafe",
+        "cast": []
+      },
+      "_said": "of a chef, and a meticulous working-class manager to interact every single day. Out of that forced routine, out of the constraint of that restaurant, they built an unbreakable alli"
+    },
+    {
+      "fp": "10sr0wh",
+      "i": 105,
+      "from": 30434,
+      "subject": "gift",
+      "entities": [],
+      "concept": "gift",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "gift, arriving late to the bullshoy theater halfway, 1922"
+      },
+      "antidote": {
+        "concept": "gift",
+        "cast": []
+      },
+      "_said": "The contrast between Rosto's past and his present here is just staggering. Think about his youth. In the past, he would boast to his friends about arriving late to the Bullshoy The"
+    },
+    {
+      "fp": "bg6ly0",
+      "i": 106,
+      "from": 30811,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "whispering excuses as he found his seat, 1922"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "through a ballet, whispering excuses as he found his seat, right? Having spent the entire first act just drinking and gossiping at the English club."
+    },
+    {
+      "fp": "w4jdhc",
+      "i": 107,
+      "from": 31039,
+      "subject": "food",
+      "entities": [],
+      "concept": "food",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "food, 1922"
+      },
+      "antidote": {
+        "concept": "food",
+        "set": null,
+        "cast": []
+      },
+      "_said": "It was all about leisure. It was about passively consuming But now he wears a white dinner jacket."
+    },
+    {
+      "fp": "2tq5zj",
+      "i": 108,
+      "from": 31241,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": "cafe",
+      "confidence": 0.35,
+      "vox": {
+        "shot": "cafe, 1922"
+      },
+      "antidote": {
+        "concept": null,
+        "set": "cafe",
+        "cast": []
+      },
+      "_said": "He is a waiter in the Barkski restaurant. He actively serves others. He spends his days fiercely defending the culinary integrity of a dish from Soviet rationing."
+    },
+    {
+      "fp": "1qvt8w0",
+      "i": 109,
+      "from": 31502,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1922"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "He trades a life of passive consumption for a life of active production and Well, hold on. Let me stop you there. What's the issue? I a man of noble blood whose ancestors literally"
+    },
+    {
+      "fp": "iiblsn",
+      "i": 110,
+      "from": 31889,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1922"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "is taking orders and serving soup to party officials. Doesn't that just objectively prove that the Bolevixs won?"
+    },
+    {
+      "fp": "1igyezh",
+      "i": 111,
+      "from": 32107,
+      "subject": "trophy",
+      "entities": [],
+      "concept": "trophy",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "trophy, 1922"
+      },
+      "antidote": {
+        "concept": "trophy",
+        "cast": []
+      },
+      "_said": "I don't think so. They literally took an aristocrat, broke him down, and made him a servant. How can we possibly frame that as a victory for Ros? Because you're equating service wi"
+    },
+    {
+      "fp": "133mmkq",
+      "i": 112,
+      "from": 32460,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1922"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "and they are vastly different How so? I am going to counter that strongly. He isn't a servant in the sense of being broken. He is a master of his domain. think about his life befor"
+    },
+    {
+      "fp": "1bbr313",
+      "i": 113,
+      "from": 32882,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1922"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "His high society was incredibly hollow. It was abstract. He was charming. Yes, but he was fundamentally useless to the world."
+    },
+    {
+      "fp": "jifw58",
+      "i": 114,
+      "from": 33110,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": "cafe",
+      "confidence": 0.35,
+      "vox": {
+        "shot": "cafe, 1922"
+      },
+      "antidote": {
+        "concept": null,
+        "set": "cafe",
+        "cast": []
+      },
+      "_said": "The Bolshevik stripped away all those abstract titles, but down in the Boyarsski restaurant, he finds tangible, deeply meaningful daily collaboration."
+    },
+    {
+      "fp": "1yr7fbj",
+      "i": 115,
+      "from": 33374,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": "cafe",
+      "confidence": 0.35,
+      "vox": {
+        "shot": "cafe, 1922"
+      },
+      "antidote": {
+        "concept": null,
+        "set": "cafe",
+        "cast": []
+      },
+      "_said": "He isn't demeaned by the work. No, he elevates the work. The triumvirate isn't just a restaurant staff meeting. It's a brotherhood. An alliance of excellence that outlasts governme"
+    },
+    {
+      "fp": "1xjm34q",
+      "i": 116,
+      "from": 33703,
+      "subject": "food",
+      "entities": [],
+      "concept": "food",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "food, 1922"
+      },
+      "antidote": {
+        "concept": "food",
+        "set": null,
+        "cast": []
+      },
+      "_said": "I see where you're going. When they meet, they aren't just discussing food. They are preserving culture. They are preserving standards in a world outside the hotel that is rapidly "
+    },
+    {
+      "fp": "1kv3jtg",
+      "i": 117,
+      "from": 34037,
+      "subject": "work",
+      "entities": [],
+      "concept": "work",
+      "place": "cafe",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "work, cafe, 1922"
+      },
+      "antidote": {
+        "concept": "work",
+        "set": "cafe",
+        "cast": []
+      },
+      "_said": "and brutal efficiency. It's like they're guarding a flame. The physical limits of the Boyarski restaurant gave him the only real job and the only real purpose he ever had in his en"
+    },
+    {
+      "fp": "pg0a15",
+      "i": 118,
+      "from": 34368,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": "cafe",
+      "confidence": 0.35,
+      "vox": {
+        "shot": "cafe, 1922"
+      },
+      "antidote": {
+        "concept": null,
+        "set": "cafe",
+        "cast": []
+      },
+      "_said": "The confinement focused his energy. He achieved a flow state in his manual labor that he never found in the drawing rooms of St. Petersburg. But as profound as his work in the rest"
+    },
+    {
+      "fp": "sq6qpz",
+      "i": 119,
+      "from": 34714,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1922"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "the real emotional core of the book, comes years later when the walls close in even Yes, this is where the story shifts gears."
+    },
+    {
+      "fp": "1th8eyp",
+      "i": 120,
+      "from": 34980,
+      "subject": "Nah",
+      "entities": [
+        "nah"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Nah, walks into the grand lobby of the but things, 1922"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "nah"
+        ]
+      },
+      "_said": "Let's move forward in time. It's years later. An older Nah, the same girl in the yellow dress who showed him the boiler room, walks into the grand lobby of the But things have chan"
+    },
+    {
+      "fp": "1vgtq1p",
+      "i": 121,
+      "from": 35328,
+      "subject": "Sophia — family",
+      "entities": [
+        "sophia"
+      ],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Sophia, walks in and drops off her 5-year-old daughte, 1922"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": [
+          "sophia"
+        ]
+      },
+      "_said": "It's the Stalin era now. Her husband has just been arrested by the Soviet state and sent to the goolog. She walks in and drops off her 5-year-old daughter, Sophia. Picture this lit"
+    },
+    {
+      "fp": "rho3dl",
+      "i": 122,
+      "from": 35642,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "sitting silently in a massive highback chair, 1922"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "black hair, pale ivory skinned, sitting silently in a massive highback chair in the lobby. Her feet dangling a few inches from the floor, clutching a small bag."
+    },
+    {
+      "fp": "6dkyg4",
+      "i": 123,
+      "from": 35923,
+      "subject": "Nah",
+      "entities": [
+        "nah"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Nah, 1922"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "nah"
+        ]
+      },
+      "_said": "Nah promises to return as soon as she can figure things out. And then she heads off to the brutal Siberian labor camps of Seavos to follow her husband."
+    },
+    {
+      "fp": "fgj8jn",
+      "i": 124,
+      "from": 36211,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1922"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "And she never comes back. It's a heartbreaking historical reality of that era, but within the hotel, it sets up the core of our entire thesis. Parenthood is the ultimate chosen"
+    },
+    {
+      "fp": "14ji4l7",
+      "i": 125,
+      "from": 36542,
+      "subject": "Rostoff",
+      "entities": [
+        "rostoff"
+      ],
+      "concept": null,
+      "place": "cafe",
+      "confidence": 0.85,
+      "vox": {
+        "shot": "Rostoff, cafe, 1922"
+      },
+      "antidote": {
+        "concept": null,
+        "set": "cafe",
+        "cast": [
+          "rostoff"
+        ]
+      },
+      "_said": "As Rostoff narrows his world even further, from the vastness of Russia to the hotel to the restaurant, and now down to the daily minute-by-minute care of this single, fragile child"
+    },
+    {
+      "fp": "1yukhpz",
+      "i": 126,
+      "from": 36907,
+      "subject": "magnifier",
+      "entities": [],
+      "concept": "magnifier",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "magnifier, 1922"
+      },
+      "antidote": {
+        "concept": "magnifier",
+        "cast": []
+      },
+      "_said": "with meaning. The smaller his physical orbit becomes, the richer his emotional life gets. You really see it in the granular details of his daily routine. It completely This former "
+    },
+    {
+      "fp": "175l13q",
+      "i": 127,
+      "from": 37289,
+      "subject": "storm",
+      "entities": [],
+      "concept": "storm",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "storm, 1922"
+      },
+      "antidote": {
+        "concept": "storm",
+        "set": null,
+        "cast": []
+      },
+      "_said": "snow is now humbly learning about the complex mechanics of sewing machines from Marina, the hotel just so he can help alter Sophia's clothes as she grows."
+    },
+    {
+      "fp": "1qdgrx8",
+      "i": 128,
+      "from": 37541,
+      "subject": "law",
+      "entities": [],
+      "concept": "law",
+      "place": "court",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "law, court, 1922"
+      },
+      "antidote": {
+        "concept": "law",
+        "set": "court",
+        "cast": []
+      },
+      "_said": "He worries intensely, constantly about how Sophia's meat is cut. He is terrified. The secret police or the hotel manager will discover she's living there illegally."
+    },
+    {
+      "fp": "197hn9n",
+      "i": 129,
+      "from": 37831,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "sit by her bed and read, 1922"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "He gives up his free nights, his cherished drinks at the Shollayat's bar with his friends just to sit by her bed and read to her."
+    },
+    {
+      "fp": "yukhaj",
+      "i": 130,
+      "from": 38081,
+      "subject": "lightbulb",
+      "entities": [],
+      "concept": "lightbulb",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "lightbulb, 1922"
+      },
+      "antidote": {
+        "concept": "lightbulb",
+        "cast": []
+      },
+      "_said": "He sacrifices whatever remaining fragments of autonomy he had left for her survival. But wait, let me push back on this idea of chosen confinement. Oh, here we go."
+    },
+    {
+      "fp": "1nx6aa6",
+      "i": 131,
+      "from": 38364,
+      "subject": "Nah",
+      "entities": [
+        "nah"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Nah, 1922"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "nah"
+        ]
+      },
+      "_said": "Because he didn't choose this. What do you mean? Nah showed up out of nowhere, essentially dumped this kid in his lab and disappeared into Siberia. That's true. He was completely b"
+    },
+    {
+      "fp": "1j89l9",
+      "i": 132,
+      "from": 38712,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1922"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "He was forced into this situation just as much as he was forced into the hotel by the I have to push back on that He absolutely had a choice. In fact, the text explicitly"
+    },
+    {
+      "fp": "zacz0a",
+      "i": 133,
+      "from": 39060,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1922"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "asks the reader to consider this exact Okay. Had he weighed all the challenges, his total lack of experience with children, the severe life-threatening danger of hiding a child in "
+    },
+    {
+      "fp": "nyz3vh",
+      "i": 134,
+      "from": 39394,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "sit down and logically think about all of t, 1922"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "under the nose of the secret If he had time to sit down and logically think about all of that exactly, would he have said no?"
+    },
+    {
+      "fp": "1db1nz8",
+      "i": 135,
+      "from": 39607,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1922"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "And the narrator's answer is never. He wouldn't have even attempted to dissuade her. He steps into the role instantly."
+    },
+    {
+      "fp": "netusu",
+      "i": 136,
+      "from": 39802,
+      "subject": "chains",
+      "entities": [],
+      "concept": "chains",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "chains, 1922"
+      },
+      "antidote": {
+        "concept": "chains",
+        "cast": []
+      },
+      "_said": "He fully willingly commits to the ultimate restriction of his freedom. And that commitment is what actually saves his psychological life. It gives him a reason to live that"
+    },
+    {
+      "fp": "mnmyay",
+      "i": 137,
+      "from": 40116,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1922"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "is entirely outside of himself. That's a beautiful way to put it. It's the paradox of parenting, right? Your world physically shrinks to the size of a nursery, but your emotional c"
+    },
+    {
+      "fp": "qcrtvg",
+      "i": 138,
+      "from": 40450,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": "cafe",
+      "confidence": 0.35,
+      "vox": {
+        "shot": "cafe, 1922"
+      },
+      "antidote": {
+        "concept": null,
+        "set": "cafe",
+        "cast": []
+      },
+      "_said": "again, the walls close in tighter from the vast estates to the hotel, from the hotel to the restaurant down to the care of a single child."
+    },
+    {
+      "fp": "1s70gmr",
+      "i": 139,
+      "from": 40690,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1922"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "And that incredible terrifying restriction becomes the absolute engine of his Intell doesn't just let us take Rosttov's word for it."
+    },
+    {
+      "fp": "1b8qujj",
+      "i": 140,
+      "from": 40944,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1922"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "No, he doesn't just show us Rosttoff succeeding in isolation. He provides a brilliant, devastating foil to prove what happens without it."
+    },
+    {
+      "fp": "aecorc",
+      "i": 141,
+      "from": 41174,
+      "subject": "Mishka — home",
+      "entities": [
+        "mishka"
+      ],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Mishka, 1922"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": [
+          "mishka"
+        ]
+      },
+      "_said": "We have to look at his friend Mishka. Oh man, Mishka, this scene is so incredibly tragic. Bring yourself into the frantic, chaotic offices of Gustlith's dad, the state publishing h"
+    },
+    {
+      "fp": "reb8ti",
+      "i": 142,
+      "from": 41479,
+      "subject": "Mishka",
+      "entities": [
+        "mishka"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Mishka, 1922"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "mishka"
+        ]
+      },
+      "_said": "Mishka, who is Rosttov's oldest, dearest friend from their university days, bursts into the editorial meeting."
+    },
+    {
+      "fp": "zacs6m",
+      "i": 143,
+      "from": 41678,
+      "subject": "work",
+      "entities": [],
+      "concept": "work",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "work, 1922"
+      },
+      "antidote": {
+        "concept": "work",
+        "set": null,
+        "cast": []
+      },
+      "_said": "He is completely unhinged. He has hit his breaking point. He starts throwing manuscripts across the room at his boss, Shalomoff. He openly mocks the editors, accusing them of slici"
+    },
+    {
+      "fp": "5ayjzv",
+      "i": 144,
+      "from": 42053,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "shouts that with all this cutting, 1922"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "half to appease Stalin's He shouts that with all this cutting, the future of Russian poetry is the ha coup."
+    },
+    {
+      "fp": "10r1j1l",
+      "i": 145,
+      "from": 42276,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": "street",
+      "confidence": 0.35,
+      "vox": {
+        "shot": "street, 1922"
+      },
+      "antidote": {
+        "concept": null,
+        "set": "street",
+        "cast": []
+      },
+      "_said": "And then he storms out violently slamming every single door on his way down to the street. It is a profound careerending lifeending And it's crucial for understanding the thesis."
+    },
+    {
+      "fp": "mr8c8b",
+      "i": 146,
+      "from": 42624,
+      "subject": "Mishka and Rosto",
+      "entities": [
+        "mishka",
+        "rosto"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Mishka and Rosto, 1922"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "mishka",
+          "rosto"
+        ]
+      },
+      "_said": "Mishka represents the ultimate contrast to Rosto. Mishka is the physically free man. He is living out in the world in the open horizons of Soviet Russia."
+    },
+    {
+      "fp": "17zrprj",
+      "i": 147,
+      "from": 42902,
+      "subject": "home",
+      "entities": [],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "home, 1922"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": []
+      },
+      "_said": "He isn't under house arrest, but he is completely hollowed out, compromised, and ultimately destroyed by the reality of that freedom."
+    },
+    {
+      "fp": "axj9qw",
+      "i": 148,
+      "from": 43111,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1922"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Rostock is the confined man. And yet he remains whole. The hotel didn't just lock Rosttoff in it acted as a fortress. It sheltered him from the ideological meat grinder of the 20th"
+    },
+    {
+      "fp": "b83rht",
+      "i": 149,
+      "from": 43402,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1922"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "And the irony is just overwhelmingly deep when you look at their history. Because we eventually find out that the revolutionary poem, where is it now?"
+    },
+    {
+      "fp": "rqr8bw",
+      "i": 150,
+      "from": 43620,
+      "subject": "Rostov — notes",
+      "entities": [
+        "rostov"
+      ],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Rostov, write it, 1922"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": [
+          "rostov"
+        ]
+      },
+      "_said": "The very poem that saved Rosttoff from the firing squad and got him sentenced to the hotel. Rostov didn't even write it."
+    },
+    {
+      "fp": "30qk4b",
+      "i": 151,
+      "from": 43826,
+      "subject": "Rosttov and Mishka — notes",
+      "entities": [
+        "rosttov",
+        "mishka"
+      ],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Rosttov and Mishka, 1922"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": [
+          "rosttov",
+          "mishka"
+        ]
+      },
+      "_said": "It was Mishka who wrote it back in 1913 at idle hour. Rosttov just took the credit to protect Mishka from the Zsar's secret police because Mishka was a commoner and Rosttov was a c"
+    },
+    {
+      "fp": "1ih3gv4",
+      "i": 152,
+      "from": 44158,
+      "subject": "Mishka — grave",
+      "entities": [
+        "mishka"
+      ],
+      "concept": "grave",
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Mishka, 1922"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": null,
+        "cast": [
+          "mishka"
+        ]
+      },
+      "_said": "So Mishka, the true revolutionary poet, the one who actually believed in the utopian cause, ends up dying broken in the Yava's labor camp, while Rostto, the aristocratic relic of t"
+    },
+    {
+      "fp": "1tv4gxj",
+      "i": 153,
+      "from": 44520,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1922"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "the It's a devastating historical irony, and it speaks to how totalitarian regimes consume their own true believers. But wait, doesn't this make Immortal's core argument a little c"
+    },
+    {
+      "fp": "1mawmix",
+      "i": 154,
+      "from": 44892,
+      "subject": "city",
+      "entities": [],
+      "concept": "city",
+      "place": "street",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "city, street, 1922"
+      },
+      "antidote": {
+        "concept": "city",
+        "set": "street",
+        "cast": []
+      },
+      "_said": "What do you mean by cowardly? Think about it. Is he essentially saying it's better to hide in a luxury hotel, drink fine wine, keep your head down, and ignore the world while your "
+    },
+    {
+      "fp": "6w2sgc",
+      "i": 155,
+      "from": 45226,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "written story just hide and survive? yeah, 1922"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "in the goologs? Is the moral of this beautifully written story just hide and survive? Yeah. Is that the message? No. It is definitely not an argument for cowardice."
+    },
+    {
+      "fp": "141j9tb",
+      "i": 156,
+      "from": 45504,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1922"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "And reducing it to that misses the point entirely. Okay, unpack that. It's a philosophical argument about where the human soul is actually preserved during times of Mishka's devoti"
+    },
+    {
+      "fp": "otnsbn",
+      "i": 157,
+      "from": 45874,
+      "subject": "heart",
+      "entities": [],
+      "concept": "heart",
+      "place": "cafe",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "heart, cafe, 1922"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": "cafe",
+        "cast": []
+      },
+      "_said": "love for literature, his idealism, his belief in a better Russia were broken precisely because he was exposed to a world without moral limits. A world where the state constantly sh"
+    },
+    {
+      "fp": "1f9ol7f",
+      "i": 158,
+      "from": 46222,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1922"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "rules and crushed the individual to serve the collective. Rostov's devotions were preserved exactly because he was insulated by his daily tangible duties."
+    },
+    {
+      "fp": "9ddof4",
+      "i": 159,
+      "from": 46498,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "war, 1922"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "He wasn't out there fighting abstract ideological wars he couldn't win. He was physically cutting a little girl's meat so she wouldn't choke."
+    },
+    {
+      "fp": "1yketrj",
+      "i": 160,
+      "from": 46709,
+      "subject": "Rosttov",
+      "entities": [
+        "rosttov"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Rosttov, 1922"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "rosttov"
+        ]
+      },
+      "_said": "He was making sure the soup was hot. Miso was destroyed by the abstract. Rosttov was saved by the specific. That makes a lot of sense."
+    },
+    {
+      "fp": "3lfule",
+      "i": 161,
+      "from": 46922,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1922"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "You can't fix a broken society, but you can fix a broken seam on a dress. Confinement is what kept Rosto's humanity intact. While the open shifting horizons of Soviet Russia absolu"
+    },
+    {
+      "fp": "1coe8r8",
+      "i": 162,
+      "from": 47275,
+      "subject": "lightbulb",
+      "entities": [],
+      "concept": "lightbulb",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "lightbulb, 1922"
+      },
+      "antidote": {
+        "concept": "lightbulb",
+        "cast": []
+      },
+      "_said": "And we also need to dispel this idea that because he was confined, he was completely cut off from the reality of his country."
+    },
+    {
+      "fp": "1mcayo1",
+      "i": 163,
+      "from": 47510,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1922"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "In fact, he might have seen more of the real Russia than anyone else. Which brings us back down to the grand lobby of the Metropole. Drop into the Shalopa Pinbar on any given night"
+    },
+    {
+      "fp": "1ll1943",
+      "i": 164,
+      "from": 47880,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1922"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Pudgy Webster, who is buying a round of champagne for all the international journalists because he finally managed to sell a fleet of vending machines to a Soviet official. You hav"
+    },
+    {
+      "fp": "2z1b3f",
+      "i": 165,
+      "from": 48254,
+      "subject": "law",
+      "entities": [],
+      "concept": "law",
+      "place": "court",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "law, sitting at tables mapping out agricultural you, court, 1922"
+      },
+      "antidote": {
+        "concept": "law",
+        "set": "court",
+        "cast": []
+      },
+      "_said": "You have earnest consumal youths sitting at tables mapping out agricultural You have secret police eavesdropping in the corners."
+    },
+    {
+      "fp": "ke2rek",
+      "i": 166,
+      "from": 48482,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1922"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "You have jazz musicians. The entire world, the entire scope of the Soviet experiment comes revolving through the doors of this one lobby. And this is a recognized phenomenon in enc"
+    },
+    {
+      "fp": "1xx616r",
+      "i": 167,
+      "from": 48890,
+      "subject": "Rostoff — road",
+      "entities": [
+        "rostoff"
+      ],
+      "concept": "road",
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Rostoff, 1922"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": null,
+        "cast": [
+          "rostoff"
+        ]
+      },
+      "_said": "Rostoff sees more of the shifting reality of Russia from his tiny sixth floor window and from his position on the lobby floor than most average Russians see while traveling the vas"
+    },
+    {
+      "fp": "1egh2rx",
+      "i": 168,
+      "from": 49224,
+      "subject": "Rostov",
+      "entities": [
+        "rostov"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Rostov, 1922"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "rostov"
+        ]
+      },
+      "_said": "The book makes this explicit by contrasting Rostov with Prince Nikolai Petrov. The prince gets what was called a minus6 sentence."
+    },
+    {
+      "fp": "8diw2m",
+      "i": 169,
+      "from": 49493,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1922"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "That means he isn't locked in a building. He can roam absolutely anywhere in the massive expanse of Russia except for the six largest So the prince is physically free in the vast c"
+    },
+    {
+      "fp": "5rdg2w",
+      "i": 170,
+      "from": 49838,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1922"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "But eventually because he is cut off from his culture, from his people, from the intellectual center, his life is completely stripped of connection."
+    },
+    {
+      "fp": "184yo2m",
+      "i": 171,
+      "from": 50059,
+      "subject": "Rosttov",
+      "entities": [
+        "rosttov"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Rosttov, 1922"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "rosttov"
+        ]
+      },
+      "_said": "He ends up arrested and sent to the camps anyway. Rosttov is physically trapped in one building, but he is culturally and spiritually at the very center of the universe."
+    },
+    {
+      "fp": "4mjl11",
+      "i": 172,
+      "from": 50321,
+      "subject": "Rostov",
+      "entities": [
+        "rostov"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Rostov, 1922"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "rostov"
+        ]
+      },
+      "_said": "Exactly. The prince has infinite space, but no center. Rostov has a rigid center, but no space. And the center is what sustains a human Well, wait, let's be critical here."
+    },
+    {
+      "fp": "itu4x3",
+      "i": 173,
+      "from": 50686,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1922"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Ros doesn't really see Russia. He sees a highly curated elite VIP diarama of He's drinking champagne with American businessmen. He doesn't see the horrific famines in the"
+    },
+    {
+      "fp": "g57daj",
+      "i": 174,
+      "from": 51019,
+      "subject": "Mishka",
+      "entities": [
+        "mishka"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Mishka, 1922"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "mishka"
+        ]
+      },
+      "_said": "the Ukraine. He doesn't see the brutal reality of the goologs that Mishka and Nina die in. He's looking at a stage play."
+    },
+    {
+      "fp": "5t66y5",
+      "i": 175,
+      "from": 51216,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1922"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "How can you say he sees the real Russia? Because he sees the exact machinery that causes those tragedies. The machinery. Yeah."
+    },
+    {
+      "fp": "17b8l7p",
+      "i": 176,
+      "from": 51451,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1922"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "He doesn't see the famine, but he sees the ambitious, naive, comes youths mapping out the very agricultural policies that will cause it. He sees the petty bureaucrats like the bish"
+    },
+    {
+      "fp": "e10spc",
+      "i": 177,
+      "from": 51811,
+      "subject": "shield",
+      "entities": [],
+      "concept": "shield",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "shield, 1922"
+      },
+      "antidote": {
+        "concept": "shield",
+        "cast": []
+      },
+      "_said": "consolidating power which is the exact mechanism that sends people to the goolog. He sees the changing of the guard, the subtle shifts in fear. Who is suddenly too afraid to"
+    },
+    {
+      "fp": "4zn7i8",
+      "i": 178,
+      "from": 52130,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "read the you're right, 1922"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "speak to whom? The metropole is a perfect microcosm. The macro is fully terrifyingly visible in the micro if you know how to read the You're right. The walls of the metropol act as"
+    },
+    {
+      "fp": "8i2gih",
+      "i": 179,
+      "from": 52471,
+      "subject": "Rosto — target",
+      "entities": [
+        "rosto"
+      ],
+      "concept": "target",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Rosto, 1922"
+      },
+      "antidote": {
+        "concept": "target",
+        "cast": [
+          "rosto"
+        ]
+      },
+      "_said": "They take the entire chaotic 30-year history of the Soviet Union from Lenin to Stalin to Kruef and focus it into a single comprehensible space that Rosto can actually observe, anal"
+    },
+    {
+      "fp": "6beeht",
+      "i": 180,
+      "from": 52838,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1922"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "eventually, even this perfect microcosm must be left behind. The engine of meaning has a lifespan. Yes, the grand finale."
+    },
+    {
+      "fp": "199rxep",
+      "i": 181,
+      "from": 53045,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1922"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "We are now in 1954. The count executes his final brilliant, deeply calculated move. He slips into room 428 using Nenah's old skeleton pasi from decades ago."
+    },
+    {
+      "fp": "1n5q0bs",
+      "i": 182,
+      "from": 53376,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1922"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "He steals an Italian tourist's flat cap and a pair of simple slacks, stuffing them in a pillowcase. He completely outsmarts the treacherous manager, Lipsky, locking him in a baseme"
+    },
+    {
+      "fp": "13vtrf7",
+      "i": 183,
+      "from": 53719,
+      "subject": "chains",
+      "entities": [],
+      "concept": "chains",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "chains, 1922"
+      },
+      "antidote": {
+        "concept": "chains",
+        "cast": []
+      },
+      "_said": "gunpoint. He orchestrates this incredible ticking clock escape from the hotel. And when you look at the mechanics of this escape, it reveals the final layer of the thesis."
+    },
+    {
+      "fp": "z32uc4",
+      "i": 184,
+      "from": 54005,
+      "subject": "chains",
+      "entities": [],
+      "concept": "chains",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "chains, 1922"
+      },
+      "antidote": {
+        "concept": "chains",
+        "cast": []
+      },
+      "_said": "When he finally breaks out, he doesn't escape back to a grand life of sprawling estates and Parisian He escapes one set of walls only to immediately, voluntarily seek out He escape"
+    },
+    {
+      "fp": "1tqjlwi",
+      "i": 185,
+      "from": 54374,
+      "subject": "Sophia — family",
+      "entities": [
+        "sophia"
+      ],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Sophia, walks through the spinning doors of her hotel, 1922"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": [
+          "sophia"
+        ]
+      },
+      "_said": "The contrast with Sophia is so beautiful here. Sophia, his adopted daughter, defects while on tour in Paris. She literally walks through the spinning doors of her hotel out onto th"
+    },
+    {
+      "fp": "1fbekd0",
+      "i": 186,
+      "from": 54732,
+      "subject": "Rostoff",
+      "entities": [
+        "rostoff"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Rostoff, 1922"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "rostoff"
+        ]
+      },
+      "_said": "as a piano Her life expands to the size of the world. Rostoff, on the other hand, intentionally shrinks his life down to He puts on that stolen, simple news boy caps to blend in."
+    },
+    {
+      "fp": "55im0h",
+      "i": 187,
+      "from": 55046,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1922"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "He vanishes into a quiet, small, anonymous existence in the deep countryside. He embraces an even smaller life."
+    },
+    {
+      "fp": "147v6fe",
+      "i": 188,
+      "from": 55258,
+      "subject": "chains",
+      "entities": [],
+      "concept": "chains",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "chains, 1922"
+      },
+      "antidote": {
+        "concept": "chains",
+        "cast": []
+      },
+      "_said": "But wait, if confinement was so great, if the hotel was this incredible engine of meaning and purpose, why did he escape?"
+    },
+    {
+      "fp": "eyvghw",
+      "i": 189,
+      "from": 55534,
+      "subject": "chains",
+      "entities": [],
+      "concept": "chains",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "chains, 1922"
+      },
+      "antidote": {
+        "concept": "chains",
+        "cast": []
+      },
+      "_said": "That's the big question. Doesn't the very fact that he plots this elaborate, dangerous breakout prove that the hotel was a cage all If he loved the constraint so"
+    },
+    {
+      "fp": "iiu87z",
+      "i": 190,
+      "from": 55848,
+      "subject": "tree",
+      "entities": [],
+      "concept": "tree",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "tree, 1922"
+      },
+      "antidote": {
+        "concept": "tree",
+        "set": null,
+        "cast": []
+      },
+      "_said": "much, he would have just stayed there until he I am going to push back on that hard. You have to look at why he leaves. Why does he leave?"
+    },
+    {
+      "fp": "1dubr2d",
+      "i": 191,
+      "from": 56045,
+      "subject": "chains",
+      "entities": [],
+      "concept": "chains",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "chains, 1922"
+      },
+      "antidote": {
+        "concept": "chains",
+        "cast": []
+      },
+      "_said": "He doesn't escape because he suddenly wakes up and realizes he hates the hotel or because he feels caged and needs to breathe free air."
+    },
+    {
+      "fp": "1x20d0h",
+      "i": 192,
+      "from": 56254,
+      "subject": "Sophia — compass",
+      "entities": [
+        "sophia"
+      ],
+      "concept": "compass",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Sophia, run its course, 1922"
+      },
+      "antidote": {
+        "concept": "compass",
+        "cast": [
+          "sophia"
+        ]
+      },
+      "_said": "He escapes because his purpose there is The engine has run its course. Sophia is grown. She is safe. She is free in Paris."
+    },
+    {
+      "fp": "h194gt",
+      "i": 193,
+      "from": 56484,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, 1922"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": []
+      },
+      "_said": "His duty as a father is And look at what he escapes to. As you just said, not a larger life, but a smaller one. He trades the grand stage of the metropole where everyone knew his n"
+    },
+    {
+      "fp": "lcv9od",
+      "i": 194,
+      "from": 56798,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1922"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "him for total anonymity. He merely transfers from a force constraint to a chosen constraint. Uh, the work was done."
+    },
+    {
+      "fp": "g8ch8u",
+      "i": 195,
+      "from": 57029,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "walk away, 1922"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "The hotel was the scaffolding that built him into the man he needed to be. And once the building is built, you take the scaffolding down. You walk away."
+    },
+    {
+      "fp": "1i2pard",
+      "i": 196,
+      "from": 57259,
+      "subject": "compass",
+      "entities": [],
+      "concept": "compass",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "compass, reach our final conclusion, 1922"
+      },
+      "antidote": {
+        "concept": "compass",
+        "cast": []
+      },
+      "_said": "Exactly. The constraint served its evolutionary purpose. Okay, before we reach our final conclusion, I have to issue a strong, honest critique of the book's entire Go for it."
+    },
+    {
+      "fp": "138u6s7",
+      "i": 197,
+      "from": 57547,
+      "subject": "lightbulb",
+      "entities": [],
+      "concept": "lightbulb",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "lightbulb, sitting here for an hour praising this beautifu, 1922"
+      },
+      "antidote": {
+        "concept": "lightbulb",
+        "cast": []
+      },
+      "_said": "We've been sitting here for an hour praising this beautiful idea that confinement brings meaning, that limits create purpose."
+    },
+    {
+      "fp": "9rd8ps",
+      "i": 198,
+      "from": 57792,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1922"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "But Amortals is romanticizing confinement from a place of absurd, almost comical privilege."
+    },
+    {
+      "fp": "1wouxme",
+      "i": 199,
+      "from": 57991,
+      "subject": "Rostov — lightbulb",
+      "entities": [
+        "rostov"
+      ],
+      "concept": "lightbulb",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Rostov, 1922"
+      },
+      "antidote": {
+        "concept": "lightbulb",
+        "cast": [
+          "rostov"
+        ]
+      },
+      "_said": "Let's be real with you. Rostov is locked in a worldclass luxury hotel. He is eating salt and bokeh prepared by a genius chef. He is drinking from 52 crystal wine He literally has g"
+    },
+    {
+      "fp": "1767jx5",
+      "i": 200,
+      "from": 58385,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1922"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "hidden in the hollow legs of a Louis V6 desk to bribe people with. He has a personal sumeier in the This is not the goolog. This is not solitary confinement."
+    },
+    {
+      "fp": "adiqwi",
+      "i": 201,
+      "from": 58656,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "hold up if you take away the luxury? or is t, 1922"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Does this whole thesis about confinement bringing meaning even hold up if you take away the luxury? Or is this just a cozy fantasy about a rich guy who gets to be a rich guy indoor"
+    },
+    {
+      "fp": "1a6fmmt",
+      "i": 202,
+      "from": 59030,
+      "subject": "lightbulb",
+      "entities": [],
+      "concept": "lightbulb",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "lightbulb, 1922"
+      },
+      "antidote": {
+        "concept": "lightbulb",
+        "cast": []
+      },
+      "_said": "was one a lot of readers have. It is undeniably a very luxurious privileged setting. But I am going to dismantle the idea that the luxury is what actually saves How so? Yes, the se"
+    },
+    {
+      "fp": "1ncxdn5",
+      "i": 203,
+      "from": 59448,
+      "subject": "Rosto",
+      "entities": [
+        "rosto"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Rosto, 1922"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "rosto"
+        ]
+      },
+      "_said": "mechanism Tal is exploring is universal. Okay, think about it logically. Before the revolution, Rosto had exponentially more luxury. He had the whole world."
+    },
+    {
+      "fp": "ofymgj",
+      "i": 204,
+      "from": 59753,
+      "subject": "coin",
+      "entities": [],
+      "concept": "coin",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "coin, 1922"
+      },
+      "antidote": {
+        "concept": "coin",
+        "cast": []
+      },
+      "_said": "He had vast estates, an army of servants, wealth beyond measure. And what was he? He was totally aimless."
+    },
+    {
+      "fp": "slfsbl",
+      "i": 205,
+      "from": 59969,
+      "subject": "wallet",
+      "entities": [],
+      "concept": "wallet",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "wallet, 1922"
+      },
+      "antidote": {
+        "concept": "wallet",
+        "cast": []
+      },
+      "_said": "He was charming. He was polite. But he was fundamentally useless. That's true. He was just drifting through life. He didn't produce The luxury didn't save him in his youth. It almo"
+    },
+    {
+      "fp": "1rimy0s",
+      "i": 206,
+      "from": 60257,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "holds because meaning doesn't come from the g, 1922"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "It was the reduction that saved him in his middle age. The thesis absolutely holds because meaning doesn't come from the gold coins in the desk or the crystal wine glasses."
+    },
+    {
+      "fp": "1hukcw1",
+      "i": 207,
+      "from": 60533,
+      "subject": "home",
+      "entities": [],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "home, 1922"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": []
+      },
+      "_said": "meaning comes from bumping up against a hard limit and having to decide what actually matters within that limit. That psychological truth applies whether the limit is a luxury hote"
+    },
+    {
+      "fp": "i8fioc",
+      "i": 208,
+      "from": 60869,
+      "subject": "work",
+      "entities": [],
+      "concept": "work",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "work, 1922"
+      },
+      "antidote": {
+        "concept": "work",
+        "set": null,
+        "cast": []
+      },
+      "_said": "modern city, a demanding 9-to-five job, or the grueling mundane routine of raising a child."
+    },
+    {
+      "fp": "1o29kpn",
+      "i": 209,
+      "from": 61068,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1922"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "The constraint forces the choice, and the choice creates the meaning. Bumping up against a hard limit and deciding what matters. That is the core of it."
+    },
+    {
+      "fp": "1fu2fi8",
+      "i": 210,
+      "from": 61327,
+      "subject": "chains",
+      "entities": [],
+      "concept": "chains",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "chains, 1922"
+      },
+      "antidote": {
+        "concept": "chains",
+        "cast": []
+      },
+      "_said": "Which brings us to the real revelation of this entire story. The Metropole Hotel was never the cage. Exactly. The real cage was Rostov's life before 1922. The cage was drifting."
+    },
+    {
+      "fp": "kc0abc",
+      "i": 211,
+      "from": 61687,
+      "subject": "chains",
+      "entities": [],
+      "concept": "chains",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "chains, 1922"
+      },
+      "antidote": {
+        "concept": "chains",
+        "cast": []
+      },
+      "_said": "The cage was being aimless, collecting experiences like souvenirs without ever planting roots, without ever committing to anything real."
+    },
+    {
+      "fp": "1cns8it",
+      "i": 212,
+      "from": 61920,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1922"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "The Bullshiks thought they were punishing him. They thought they were locking him away in a dusty attic to rot and be forgotten by history. But they didn't lock him in."
+    },
+    {
+      "fp": "13ld3ek",
+      "i": 213,
+      "from": 62141,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, 1922"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": []
+      },
+      "_said": "and they let him out by violently taking away his boundless, aimless freedom. They handed him the exact constraints he needed to finally become a father, to become a true friend,"
+    },
+    {
+      "fp": "26txx8",
+      "i": 214,
+      "from": 62462,
+      "subject": "chains",
+      "entities": [],
+      "concept": "chains",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "chains, 1922"
+      },
+      "antidote": {
+        "concept": "chains",
+        "cast": []
+      },
+      "_said": "and to become a man of actual enduring substance. Look at your own life right now. Where are you currently fighting against Where are you wishing for total freedom or open horizons"
+    },
+    {
+      "fp": "gty9my",
+      "i": 215,
+      "from": 62798,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "holding up your most meaningful, 1922"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "endless choices? What if those very walls you're trying to tear down are the exact scaffolding holding up your most meaningful"
+    }
+  ]
+}

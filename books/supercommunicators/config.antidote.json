@@ -571,7 +571,8 @@
           "enter": "pop",
           "at": 0
         }
-      ]
+      ],
+      "_subject": "home"
     },
     {
       "id": "scene-06",
@@ -719,7 +720,8 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "phone"
     },
     {
       "id": "scene-08",
@@ -858,7 +860,8 @@
           "enter": "pop",
           "at": 0
         }
-      ]
+      ],
+      "_subject": "phone"
     },
     {
       "id": "scene-10",
@@ -987,7 +990,15 @@
           "action": "talk"
         }
       ],
-      "props": [],
+      "props": [
+        {
+          "type": "phone",
+          "scale": 1,
+          "enter": "pop",
+          "arc": "none",
+          "at": 12
+        }
+      ],
       "texts": [
         {
           "text": "DON'T FIX IT",
@@ -997,7 +1008,8 @@
           "enter": "pop",
           "at": 32
         }
-      ]
+      ],
+      "_subject": "phone"
     },
     {
       "id": "scene-12",
@@ -1053,7 +1065,7 @@
       ],
       "props": [
         {
-          "type": "ripple",
+          "type": "phone",
           "scale": 1,
           "enter": "pop",
           "color": "#D9603C",
@@ -1071,7 +1083,8 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "phone"
     },
     {
       "id": "scene-13",
@@ -1329,7 +1342,7 @@
       ],
       "props": [
         {
-          "type": "orbit",
+          "type": "target",
           "scale": 1,
           "enter": "pop",
           "color": "#D9603C",
@@ -1338,7 +1351,8 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "target"
     },
     {
       "id": "scene-17",
@@ -1531,7 +1545,15 @@
           "action": "talk"
         }
       ],
-      "props": [],
+      "props": [
+        {
+          "type": "gift",
+          "scale": 1,
+          "enter": "pop",
+          "arc": "none",
+          "at": 12
+        }
+      ],
       "texts": [
         {
           "text": "NOT BEING ARTICULATE",
@@ -1541,7 +1563,8 @@
           "enter": "pop",
           "at": 22
         }
-      ]
+      ],
+      "_subject": "gift"
     },
     {
       "id": "scene-20",
@@ -1735,7 +1758,15 @@
           "action": "talk"
         }
       ],
-      "props": [],
+      "props": [
+        {
+          "type": "gift",
+          "scale": 1,
+          "enter": "pop",
+          "arc": "none",
+          "at": 12
+        }
+      ],
       "texts": [
         {
           "text": "A LEARNABLE SKILL",
@@ -1745,7 +1776,8 @@
           "enter": "pop",
           "at": 56
         }
-      ]
+      ],
+      "_subject": "gift"
     },
     {
       "id": "scene-23",
@@ -2002,7 +2034,7 @@
       ],
       "props": [
         {
-          "type": "spotlight",
+          "type": "subway",
           "scale": 1,
           "enter": "pop",
           "color": "#D9603C",
@@ -2020,7 +2052,8 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "subway"
     },
     {
       "id": "scene-27",
@@ -2076,7 +2109,7 @@
       ],
       "props": [
         {
-          "type": "orbit",
+          "type": "home",
           "scale": 1,
           "enter": "pop",
           "color": "#D9603C",
@@ -2085,7 +2118,8 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "home"
     },
     {
       "id": "scene-28",
@@ -2245,7 +2279,8 @@
           "color2": "#1E1E22"
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "home"
     },
     {
       "id": "scene-30",
@@ -2299,7 +2334,15 @@
           "action": "think"
         }
       ],
-      "props": [],
+      "props": [
+        {
+          "type": "target",
+          "scale": 1,
+          "enter": "pop",
+          "arc": "none",
+          "at": 12
+        }
+      ],
       "texts": [
         {
           "text": "THE SPREADSHEET",
@@ -2309,7 +2352,8 @@
           "enter": "pop",
           "at": 172
         }
-      ]
+      ],
+      "_subject": "target"
     },
     {
       "id": "scene-31",
@@ -2383,7 +2427,8 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "phone"
     },
     {
       "id": "scene-32",
@@ -2904,7 +2949,8 @@
           "color2": "#1E1E22"
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "phone"
     },
     {
       "id": "scene-40",
@@ -3040,7 +3086,15 @@
           "action": "slump"
         }
       ],
-      "props": [],
+      "props": [
+        {
+          "type": "game",
+          "scale": 1,
+          "enter": "pop",
+          "arc": "none",
+          "at": 12
+        }
+      ],
       "texts": [
         {
           "text": "ALIGN YOUR FREQUENCY",
@@ -3050,7 +3104,8 @@
           "enter": "pop",
           "at": 164
         }
-      ]
+      ],
+      "_subject": "game"
     },
     {
       "id": "scene-42",
@@ -3536,7 +3591,8 @@
           "enter": "pop",
           "at": 61
         }
-      ]
+      ],
+      "_subject": "phone"
     },
     {
       "id": "scene-49",
@@ -4026,7 +4082,8 @@
           "color2": "#1E1E22"
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "school"
     },
     {
       "id": "scene-56",
@@ -4299,7 +4356,8 @@
           "color2": "#1E1E22"
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "phone"
     },
     {
       "id": "scene-60",
@@ -4320,7 +4378,7 @@
           "rgb(199,197,192)",
           "rgb(182,180,174)"
         ],
-        "set": "none",
+        "set": "cafe",
         "texture": "grain",
         "accent": "#1E1E22",
         "act": "tension",
@@ -4376,7 +4434,7 @@
           "at": 12
         },
         {
-          "type": "maze",
+          "type": "phone",
           "scale": 0.6,
           "enter": "fade",
           "color": "#D9603C",
@@ -4385,7 +4443,8 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "phone"
     },
     {
       "id": "scene-61",
@@ -4534,7 +4593,8 @@
           "enter": "pop",
           "at": 128
         }
-      ]
+      ],
+      "_subject": "phone"
     },
     {
       "id": "scene-63",
@@ -4781,7 +4841,7 @@
       ],
       "props": [
         {
-          "type": "orbit",
+          "type": "target",
           "scale": 1,
           "enter": "pop",
           "color": "#D9603C",
@@ -4790,7 +4850,8 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "target"
     },
     {
       "id": "scene-67",
@@ -5269,7 +5330,8 @@
           "color2": "#1E1E22"
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "phone"
     },
     {
       "id": "scene-74",
@@ -5406,7 +5468,15 @@
           "action": "idle"
         }
       ],
-      "props": [],
+      "props": [
+        {
+          "type": "family",
+          "scale": 1,
+          "enter": "pop",
+          "arc": "none",
+          "at": 12
+        }
+      ],
       "texts": [
         {
           "text": "A FAKE SISTER",
@@ -5416,7 +5486,8 @@
           "enter": "pop",
           "at": 18
         }
-      ]
+      ],
+      "_subject": "family"
     },
     {
       "id": "scene-76",
@@ -5553,7 +5624,15 @@
           "action": "idle"
         }
       ],
-      "props": [],
+      "props": [
+        {
+          "type": "target",
+          "scale": 1,
+          "enter": "pop",
+          "arc": "none",
+          "at": 12
+        }
+      ],
       "texts": [
         {
           "text": "NO REACTION",
@@ -5563,7 +5642,8 @@
           "enter": "pop",
           "at": 22
         }
-      ]
+      ],
+      "_subject": "target"
     },
     {
       "id": "scene-78",
@@ -5832,7 +5912,8 @@
           "enter": "pop",
           "at": 0
         }
-      ]
+      ],
+      "_subject": "school"
     },
     {
       "id": "scene-82",
@@ -5961,7 +6042,15 @@
           "crowd": 10
         }
       ],
-      "props": [],
+      "props": [
+        {
+          "type": "game",
+          "scale": 1,
+          "enter": "pop",
+          "arc": "none",
+          "at": 12
+        }
+      ],
       "texts": [
         {
           "text": "MATCH THE ROOM",
@@ -5971,7 +6060,8 @@
           "enter": "pop",
           "at": 205
         }
-      ]
+      ],
+      "_subject": "game"
     },
     {
       "id": "scene-84",
@@ -6454,7 +6544,7 @@
       ],
       "props": [
         {
-          "type": "spotlight",
+          "type": "gift",
           "scale": 1,
           "enter": "pop",
           "color": "#D9603C",
@@ -6463,7 +6553,8 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "gift"
     },
     {
       "id": "scene-91",
@@ -6520,7 +6611,7 @@
       ],
       "props": [
         {
-          "type": "orbit",
+          "type": "rocketLaunch",
           "scale": 1,
           "enter": "pop",
           "color": "#D9603C",
@@ -6529,7 +6620,8 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "rocketLaunch"
     },
     {
       "id": "scene-92",
@@ -6735,7 +6827,8 @@
           "color2": "#1E1E22"
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "game"
     },
     {
       "id": "scene-95",
@@ -6791,7 +6884,7 @@
       ],
       "props": [
         {
-          "type": "maze",
+          "type": "work",
           "scale": 1,
           "enter": "pop",
           "color": "#D9603C",
@@ -6800,7 +6893,8 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "work"
     },
     {
       "id": "scene-96",
@@ -6843,7 +6937,7 @@
       "characters": [],
       "props": [
         {
-          "type": "ripple",
+          "type": "game",
           "scale": 1,
           "enter": "pop",
           "color": "#D9603C",
@@ -6852,7 +6946,8 @@
           "at": 0
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "game"
     },
     {
       "id": "scene-97",
@@ -6926,7 +7021,8 @@
           "enter": "pop",
           "at": 61
         }
-      ]
+      ],
+      "_subject": "war"
     },
     {
       "id": "scene-98",
@@ -6983,7 +7079,7 @@
       ],
       "props": [
         {
-          "type": "shape",
+          "type": "game",
           "scale": 1,
           "enter": "pop",
           "color": "#D9603C",
@@ -7010,7 +7106,8 @@
           "enter": "pop",
           "at": 82
         }
-      ]
+      ],
+      "_subject": "game"
     },
     {
       "id": "scene-99",
@@ -7290,7 +7387,7 @@
       ],
       "props": [
         {
-          "type": "maze",
+          "type": "game",
           "scale": 1,
           "enter": "pop",
           "color": "#D9603C",
@@ -7308,7 +7405,8 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "game"
     },
     {
       "id": "scene-103",
@@ -7808,7 +7906,8 @@
           "color2": "#1E1E22"
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "school"
     },
     {
       "id": "scene-110",
@@ -7882,7 +7981,8 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "work"
     },
     {
       "id": "scene-111",
@@ -8233,7 +8333,8 @@
           "enter": "pop",
           "at": 89
         }
-      ]
+      ],
+      "_subject": "home"
     },
     {
       "id": "scene-116",
@@ -8373,7 +8474,7 @@
       ],
       "props": [
         {
-          "type": "spotlight",
+          "type": "heart",
           "scale": 1,
           "enter": "pop",
           "color": "#D9603C",
@@ -8382,7 +8483,8 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "heart"
     },
     {
       "id": "scene-118",
@@ -8594,7 +8696,8 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "rocketLaunch"
     },
     {
       "id": "scene-121",
@@ -8745,7 +8848,8 @@
           "enter": "pop",
           "at": 28
         }
-      ]
+      ],
+      "_subject": "rocketLaunch"
     },
     {
       "id": "scene-123",
@@ -8818,7 +8922,8 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "home"
     },
     {
       "id": "scene-124",
@@ -8882,7 +8987,15 @@
           "action": "idle"
         }
       ],
-      "props": [],
+      "props": [
+        {
+          "type": "game",
+          "scale": 1,
+          "enter": "pop",
+          "arc": "none",
+          "at": 12
+        }
+      ],
       "texts": [
         {
           "text": "MATCH THE DISTRESS",
@@ -8892,7 +9005,8 @@
           "enter": "pop",
           "at": 10
         }
-      ]
+      ],
+      "_subject": "game"
     },
     {
       "id": "scene-125",
@@ -9247,7 +9361,8 @@
           "enter": "pop",
           "at": 3
         }
-      ]
+      ],
+      "_subject": "war"
     },
     {
       "id": "scene-130",
@@ -9442,7 +9557,7 @@
       ],
       "props": [
         {
-          "type": "orbit",
+          "type": "war",
           "scale": 1,
           "enter": "pop",
           "color": "#D9603C",
@@ -9451,7 +9566,8 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "war"
     },
     {
       "id": "scene-133",
@@ -9636,7 +9752,8 @@
           "enter": "pop",
           "at": 142
         }
-      ]
+      ],
+      "_subject": "Lawler"
     },
     {
       "id": "scene-136",
@@ -9783,7 +9900,8 @@
           "enter": "pop",
           "at": 22
         }
-      ]
+      ],
+      "_subject": "Lawler — work"
     },
     {
       "id": "scene-138",
@@ -9909,7 +10027,7 @@
       ],
       "props": [
         {
-          "type": "spotlight",
+          "type": "work",
           "scale": 1,
           "enter": "pop",
           "color": "#D9603C",
@@ -9918,7 +10036,8 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "work"
     },
     {
       "id": "scene-140",
@@ -9991,7 +10110,8 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "Lawler"
     },
     {
       "id": "scene-141",
@@ -10221,7 +10341,8 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "Lawler"
     },
     {
       "id": "scene-144",
@@ -10277,7 +10398,7 @@
       ],
       "props": [
         {
-          "type": "orbit",
+          "type": "work",
           "scale": 1,
           "enter": "pop",
           "color": "#D9603C",
@@ -10286,7 +10407,8 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "work"
     },
     {
       "id": "scene-145",
@@ -10342,7 +10464,7 @@
       ],
       "props": [
         {
-          "type": "maze",
+          "type": "target",
           "scale": 0.6,
           "enter": "fade",
           "color": "#D9603C",
@@ -10360,7 +10482,8 @@
           "enter": "pop",
           "at": 25
         }
-      ]
+      ],
+      "_subject": "Lawler — target"
     },
     {
       "id": "scene-146",
@@ -10447,7 +10570,8 @@
           "enter": "pop",
           "at": 22
         }
-      ]
+      ],
+      "_subject": "work"
     },
     {
       "id": "scene-147",
@@ -10820,7 +10944,7 @@
           "at": 12
         },
         {
-          "type": "spotlight",
+          "type": "work",
           "scale": 0.6,
           "enter": "fade",
           "color": "#D9603C",
@@ -10829,7 +10953,8 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "work"
     },
     {
       "id": "scene-152",
@@ -11202,7 +11327,8 @@
           "color2": "#1E1E22"
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "war"
     },
     {
       "id": "scene-157",
@@ -11223,7 +11349,7 @@
           "rgb(242,200,188)",
           "rgb(239,237,230)"
         ],
-        "set": "horizon",
+        "set": "cafe",
         "texture": "grain",
         "accent": "#1E1E22",
         "act": "turn"
@@ -11276,7 +11402,8 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "phone"
     },
     {
       "id": "scene-158",
@@ -11423,7 +11550,8 @@
           "enter": "pop",
           "at": 0
         }
-      ]
+      ],
+      "_subject": "Lawler"
     },
     {
       "id": "scene-160",
@@ -11984,7 +12112,8 @@
           "enter": "pop",
           "at": 25
         }
-      ]
+      ],
+      "_subject": "heart"
     },
     {
       "id": "scene-168",
@@ -12132,7 +12261,8 @@
           "color2": "#1E1E22"
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "family"
     },
     {
       "id": "scene-170",
@@ -12298,7 +12428,8 @@
           "enter": "pop",
           "at": 178
         }
-      ]
+      ],
+      "_subject": "rocketLaunch"
     },
     {
       "id": "scene-172",
@@ -12436,7 +12567,8 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "subway"
     },
     {
       "id": "scene-174",
@@ -12501,7 +12633,8 @@
           "color2": "#1E1E22"
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "subway"
     },
     {
       "id": "scene-175",
@@ -12522,7 +12655,7 @@
           "rgb(243,203,191)",
           "rgb(240,238,232)"
         ],
-        "set": "horizon",
+        "set": "street",
         "texture": "grain",
         "accent": "#1E1E22",
         "act": "turn"
@@ -12557,7 +12690,7 @@
       ],
       "props": [
         {
-          "type": "shape",
+          "type": "subway",
           "scale": 1,
           "enter": "pop",
           "color": "#D9603C",
@@ -12566,7 +12699,8 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "subway"
     },
     {
       "id": "scene-176",
@@ -12825,7 +12959,8 @@
           "enter": "pop",
           "at": 272
         }
-      ]
+      ],
+      "_subject": "gift"
     },
     {
       "id": "scene-180",
@@ -13054,7 +13189,8 @@
           "color2": "#1E1E22"
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "family"
     },
     {
       "id": "scene-183",
@@ -13110,7 +13246,7 @@
       ],
       "props": [
         {
-          "type": "maze",
+          "type": "work",
           "scale": 1,
           "enter": "pop",
           "color": "#D9603C",
@@ -13119,7 +13255,8 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "work"
     },
     {
       "id": "scene-184",
@@ -13332,7 +13469,8 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "school"
     },
     {
       "id": "scene-187",
@@ -13406,7 +13544,8 @@
           "enter": "pop",
           "at": 107
         }
-      ]
+      ],
+      "_subject": "school"
     },
     {
       "id": "scene-188",
@@ -13548,7 +13687,7 @@
       ],
       "props": [
         {
-          "type": "maze",
+          "type": "gift",
           "scale": 1,
           "enter": "pop",
           "color": "#D9603C",
@@ -13566,7 +13705,8 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "gift"
     },
     {
       "id": "scene-190",
@@ -13791,7 +13931,8 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "family"
     },
     {
       "id": "scene-193",
@@ -13847,7 +13988,7 @@
       ],
       "props": [
         {
-          "type": "orbit",
+          "type": "gift",
           "scale": 1,
           "enter": "pop",
           "color": "#D9603C",
@@ -13874,7 +14015,8 @@
           "enter": "pop",
           "at": 25
         }
-      ]
+      ],
+      "_subject": "gift"
     },
     {
       "id": "scene-194",
@@ -14164,7 +14306,8 @@
           "enter": "pop",
           "at": 148
         }
-      ]
+      ],
+      "_subject": "phone"
     },
     {
       "id": "scene-198",
@@ -14611,7 +14754,8 @@
           "color2": "#1E1E22"
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "game"
     },
     {
       "id": "scene-204",
@@ -14849,7 +14993,8 @@
           "enter": "pop",
           "at": 0
         }
-      ]
+      ],
+      "_subject": "work"
     },
     {
       "id": "scene-207",
@@ -15075,7 +15220,8 @@
           "color2": "#1E1E22"
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "home"
     },
     {
       "id": "scene-210",
@@ -16093,7 +16239,8 @@
           "enter": "pop",
           "at": 188
         }
-      ]
+      ],
+      "_subject": "phone"
     },
     {
       "id": "scene-225",
@@ -16147,7 +16294,15 @@
           "action": "talk"
         }
       ],
-      "props": [],
+      "props": [
+        {
+          "type": "game",
+          "scale": 1,
+          "enter": "pop",
+          "arc": "none",
+          "at": 12
+        }
+      ],
       "texts": [
         {
           "text": "NEURAL ENTRAINMENT",
@@ -16157,7 +16312,8 @@
           "enter": "pop",
           "at": 169
         }
-      ]
+      ],
+      "_subject": "game"
     },
     {
       "id": "scene-226",
@@ -16361,7 +16517,8 @@
           "enter": "pop",
           "at": 22
         }
-      ]
+      ],
+      "_subject": "game"
     },
     {
       "id": "scene-229",
@@ -16750,7 +16907,7 @@
       ],
       "props": [
         {
-          "type": "ripple",
+          "type": "game",
           "scale": 1,
           "enter": "pop",
           "color": "#D9603C",
@@ -16759,7 +16916,8 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "game"
     },
     {
       "id": "scene-235",
@@ -17139,7 +17297,8 @@
           "enter": "pop",
           "at": 279
         }
-      ]
+      ],
+      "_subject": "game"
     },
     {
       "id": "scene-240",
@@ -17638,7 +17797,7 @@
       ],
       "props": [
         {
-          "type": "ripple",
+          "type": "school",
           "scale": 0.6,
           "enter": "fade",
           "color": "#D9603C",
@@ -17656,7 +17815,8 @@
           "enter": "pop",
           "at": 22
         }
-      ]
+      ],
+      "_subject": "school"
     },
     {
       "id": "scene-247",
@@ -17773,7 +17933,7 @@
       ],
       "props": [
         {
-          "type": "ripple",
+          "type": "target",
           "scale": 1,
           "enter": "pop",
           "color": "#D9603C",
@@ -17791,7 +17951,8 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "target"
     },
     {
       "id": "scene-249",
@@ -18009,7 +18170,8 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "rocketLaunch"
     },
     {
       "id": "scene-252",
@@ -18235,7 +18397,7 @@
           "at": 12
         },
         {
-          "type": "maze",
+          "type": "target",
           "scale": 0.6,
           "enter": "fade",
           "color": "#D9603C",
@@ -18244,7 +18406,8 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "target"
     },
     {
       "id": "scene-255",
@@ -19490,7 +19653,15 @@
           "action": "talk"
         }
       ],
-      "props": [],
+      "props": [
+        {
+          "type": "gift",
+          "scale": 1,
+          "enter": "pop",
+          "arc": "none",
+          "at": 12
+        }
+      ],
       "texts": [
         {
           "text": "NOT A GIFT",
@@ -19500,7 +19671,8 @@
           "enter": "pop",
           "at": 13
         }
-      ]
+      ],
+      "_subject": "gift"
     },
     {
       "id": "scene-273",
@@ -19636,7 +19808,15 @@
           "action": "idle"
         }
       ],
-      "props": [],
+      "props": [
+        {
+          "type": "target",
+          "scale": 1,
+          "enter": "pop",
+          "arc": "none",
+          "at": 12
+        }
+      ],
       "texts": [
         {
           "text": "WHAT'S THIS REALLY ABOUT?",
@@ -19646,7 +19826,8 @@
           "enter": "pop",
           "at": 133
         }
-      ]
+      ],
+      "_subject": "target"
     },
     {
       "id": "scene-275",
@@ -19776,7 +19957,8 @@
           "color2": "#1E1E22"
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "phone"
     },
     {
       "id": "scene-277",
@@ -19905,7 +20087,15 @@
           "action": "think"
         }
       ],
-      "props": [],
+      "props": [
+        {
+          "type": "heart",
+          "scale": 1,
+          "enter": "pop",
+          "arc": "none",
+          "at": 12
+        }
+      ],
       "texts": [
         {
           "text": "AN ACT OF LOVE",
@@ -19915,7 +20105,8 @@
           "enter": "pop",
           "at": 22
         }
-      ]
+      ],
+      "_subject": "heart"
     },
     {
       "id": "scene-279",

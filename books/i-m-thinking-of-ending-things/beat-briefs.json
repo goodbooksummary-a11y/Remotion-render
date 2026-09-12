@@ -1,0 +1,4629 @@
+{
+  "slug": "i-m-thinking-of-ending-things",
+  "authored": false,
+  "briefs": [
+    {
+      "fp": "57hyac",
+      "i": 0,
+      "from": 0,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "I mean, if you pick up Ian Reed's novel, I'm thinking of ending things. The title tells you exactly what this book is about, but you won't believe it until the very last page. Oh, "
+    },
+    {
+      "fp": "10qtb2f",
+      "i": 1,
+      "from": 448,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "a very specific type of tension. And it isn't until the floor literally"
+    },
+    {
+      "fp": "erfcky",
+      "i": 2,
+      "from": 561,
+      "subject": "Reed",
+      "entities": [
+        "reed"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Reed"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "reed"
+        ]
+      },
+      "_said": "literally collapses beneath you, that you realize the trap was set right there on the cover. Like Reed has built the entire novel to make you misread the word things. Yeah, it is a"
+    },
+    {
+      "fp": "16d0amm",
+      "i": 3,
+      "from": 950,
+      "subject": "puppeteer",
+      "entities": [],
+      "concept": "puppeteer",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "puppeteer"
+      },
+      "antidote": {
+        "concept": "puppeteer",
+        "cast": []
+      },
+      "_said": "brilliant just devastating manipulation of expectations and I think that's exactly where we need to start this deep dive. Because we are not looking at"
+    },
+    {
+      "fp": "tuog5r",
+      "i": 4,
+      "from": 1193,
+      "subject": "codeWindow",
+      "entities": [],
+      "concept": "codeWindow",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "code window"
+      },
+      "antidote": {
+        "concept": "codeWindow",
+        "set": null,
+        "cast": []
+      },
+      "_said": "at a psychological thriller that just happens to feature"
+    },
+    {
+      "fp": "t5ldcr",
+      "i": 5,
+      "from": 1262,
+      "subject": "game",
+      "entities": [],
+      "concept": "game",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "game"
+      },
+      "antidote": {
+        "concept": "game",
+        "set": null,
+        "cast": []
+      },
+      "_said": "feature an unreliable narrator. That is I mean that's the crucial distinction to make right out of the gate because otherwise you're just playing the wrong game. This book is"
+    },
+    {
+      "fp": "qon8z1",
+      "i": 6,
+      "from": 1536,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "notes"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": []
+      },
+      "_said": "is a suicide note disguised as a love story. Yeah. And the true horror of this text is that you, you know, the reader"
+    },
+    {
+      "fp": "1rbgfxx",
+      "i": 7,
+      "from": 1749,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "reader or the listener, you are the"
+    },
+    {
+      "fp": "qyos0",
+      "i": 8,
+      "from": 1805,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "the absolute last person to understand what that title actually means. The narrator isn't unreliable because she's uh"
+    },
+    {
+      "fp": "gxm58c",
+      "i": 9,
+      "from": 2061,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "uh like actively lying to us. She's unreliable because of the very nature of her existence. Okay, let's unpack this because to really get into the architecture of this deep dive, w"
+    },
+    {
+      "fp": "f2cg7h",
+      "i": 10,
+      "from": 2498,
+      "subject": "Jake",
+      "entities": [
+        "jake"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Jake"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "jake"
+        ]
+      },
+      "_said": "right? the surface level. Yeah. If we just look at the surface, we're introduced to Jake and"
+    },
+    {
+      "fp": "156kx36",
+      "i": 11,
+      "from": 2616,
+      "subject": "road",
+      "entities": [],
+      "concept": "road",
+      "place": "highway",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "road, highway"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": "highway",
+        "cast": []
+      },
+      "_said": "and his unnamed girlfriend who serves as our narrator. And they're on a road trip. It's snowy. It's desolate. It's nighttime. Classic thriller setup, right? Very standard. And they"
+    },
+    {
+      "fp": "gdlkz2",
+      "i": 12,
+      "from": 2949,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": "kitchen",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, kitchen"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": "kitchen",
+        "cast": []
+      },
+      "_said": "nowhere to visit Jake's parents on their remote farm. The stakes seem incredibly almost aggressively mundane, honestly. Exactly. It's"
+    },
+    {
+      "fp": "1rnxxlu",
+      "i": 13,
+      "from": 3196,
+      "subject": "heart",
+      "entities": [],
+      "concept": "heart",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "heart"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": null,
+        "cast": []
+      },
+      "_said": "It's just a normal relationship dilemma. The girlfriend is sitting"
+    },
+    {
+      "fp": "1y6p8h5",
+      "i": 14,
+      "from": 3295,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "sitting in the passenger seat constantly thinki"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "sitting in the passenger seat constantly thinking like repeating this phrase like a mantra in her head. I'm thinking of ending And as anyone would, you just assume this means she's"
+    },
+    {
+      "fp": "16uc3l1",
+      "i": 15,
+      "from": 3631,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": "kitchen",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, kitchen"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": "kitchen",
+        "cast": []
+      },
+      "_said": "doubts. She's feeling terribly guilty about meeting the parents when she has, you know, one foot out the door. It's a deeply uncomfortable but totally"
+    },
+    {
+      "fp": "17rpy49",
+      "i": 16,
+      "from": 3837,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "totally recognizable human situation. It is. The setup is designed to be lull you into"
+    },
+    {
+      "fp": "p2lrq5",
+      "i": 17,
+      "from": 3984,
+      "subject": "magnifier",
+      "entities": [],
+      "concept": "magnifier",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "magnifier"
+      },
+      "antidote": {
+        "concept": "magnifier",
+        "cast": []
+      },
+      "_said": "into this false sense of But the mission of our deep dive today is to examine"
+    },
+    {
+      "fp": "1pqumzi",
+      "i": 18,
+      "from": 4171,
+      "subject": "magnifier",
+      "entities": [],
+      "concept": "magnifier",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "magnifier"
+      },
+      "antidote": {
+        "concept": "magnifier",
+        "cast": []
+      },
+      "_said": "examine this unreliable narrator, not as um like a cheap plot device, or"
+    },
+    {
+      "fp": "1ft6jgi",
+      "i": 19,
+      "from": 4322,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "or some last minute twist meant to just shock you so you tweet about it. We need to look at this narrator as The structure of the story itself is the the form itself. Exactly. We'r"
+    },
+    {
+      "fp": "nbs4do",
+      "i": 20,
+      "from": 4697,
+      "subject": "magnifier",
+      "entities": [],
+      "concept": "magnifier",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "magnifier, read like careless continuity errors or surr"
+      },
+      "antidote": {
+        "concept": "magnifier",
+        "cast": []
+      },
+      "_said": "see every single wrong or uh contradictory detail in the source material. And there are a lot of them. So many details that initially read like careless continuity errors or surrea"
+    },
+    {
+      "fp": "14yqdr2",
+      "i": 21,
+      "from": 5028,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "like David Lynch style dream logic. They"
+    },
+    {
+      "fp": "12yztp5",
+      "i": 22,
+      "from": 5100,
+      "subject": "road",
+      "entities": [],
+      "concept": "road",
+      "place": "highway",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "road, highway"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": "highway",
+        "cast": []
+      },
+      "_said": "They are structurally perfectly correct once you realize the road trip never There is no road trip. There is no road trip. And there is no girlfriend. See, here's where it gets rea"
+    },
+    {
+      "fp": "tglv92",
+      "i": 23,
+      "from": 5412,
+      "subject": "Reed — tree",
+      "entities": [
+        "reed"
+      ],
+      "concept": "tree",
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Reed, leaves clues everywhere"
+      },
+      "antidote": {
+        "concept": "tree",
+        "set": null,
+        "cast": [
+          "reed"
+        ]
+      },
+      "_said": "Reed leaves clues everywhere. Like he's scattering them right in front of your eyes, but you absolutely"
+    },
+    {
+      "fp": "d34ud3",
+      "i": 24,
+      "from": 5572,
+      "subject": "home",
+      "entities": [],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "home, standing right"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": []
+      },
+      "_said": "absolutely cannot decode them until you understand the blueprint of the house you're standing Right. You're totally blind to them. Yeah. And once you see the blueprint, you realize"
+    },
+    {
+      "fp": "1w1eq4v",
+      "i": 25,
+      "from": 5889,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "hold still"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "into the first piece of this puzzle. Let's look at the girlfriend who can't hold still. Ah,"
+    },
+    {
+      "fp": "h08d60",
+      "i": 26,
+      "from": 6029,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "sitting in a campus pub"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Ah, the shifting narrator. Yeah. Yeah. So, imagine you're sitting in a campus pub. It's crowded. The music"
+    },
+    {
+      "fp": "1fkr3jr",
+      "i": 27,
+      "from": 6237,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": null,
+        "cast": []
+      },
+      "_said": "music is obnoxiously loud. People are just yelling over it to be heard. It's a very sensory scene. It is. The text gives us this incredible detail about"
+    },
+    {
+      "fp": "11hyurl",
+      "i": 28,
+      "from": 6501,
+      "subject": "Jake — game",
+      "entities": [
+        "jake"
+      ],
+      "concept": "game",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Jake, sitting there with his pub trivia team and they"
+      },
+      "antidote": {
+        "concept": "game",
+        "set": null,
+        "cast": [
+          "jake"
+        ]
+      },
+      "_said": "about the draft beer tasting dusty. Jake is sitting there with his pub trivia team and they are playing under the name IPSetti. Such a weird name for a trivia team, Totally. And we"
+    },
+    {
+      "fp": "1eom6k9",
+      "i": 29,
+      "from": 6849,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "incredibly awkward tentative exchange. The girlfriend decides to break the ice because"
+    },
+    {
+      "fp": "145gkyo",
+      "i": 30,
+      "from": 6998,
+      "subject": "Jake",
+      "entities": [
+        "jake"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Jake, walks up and says"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "jake"
+        ]
+      },
+      "_said": "because she can tell Jake is entirely too shy to do it himself. He's practically paralyzed. Yeah. So, she walks up and says, \"You guys are doing pretty well.\" And they"
+    },
+    {
+      "fp": "1rb7aim",
+      "i": 31,
+      "from": 7221,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "notes"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": []
+      },
+      "_said": "they have this stilted conversation about his team name. And eventually, he slips her his number on a napkin. The note reads, \"If I had your number, we could talk and I'd"
+    },
+    {
+      "fp": "qu65pv",
+      "i": 32,
+      "from": 7519,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "I'd tell you something funny.\" Which is sweet. I mean, it's a me cute. It's totally a me cute, but but here"
+    },
+    {
+      "fp": "qjgsfr",
+      "i": 33,
+      "from": 7680,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": null,
+        "cast": []
+      },
+      "_said": "here is the devastating reality of that scene. In the final pages of the text, the truth actually comes out. This brief"
+    },
+    {
+      "fp": "bwvu87",
+      "i": 34,
+      "from": 7905,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": null,
+        "cast": []
+      },
+      "_said": "brief awkward pub meeting was their only interaction ever. She never even called him. She never called him. As"
+    },
+    {
+      "fp": "1xpcy4j",
+      "i": 35,
+      "from": 8116,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": null,
+        "cast": []
+      },
+      "_said": "As the crumbling narrator eventually admits in the text, she doesn't even know we exist anymore. The girlfriend we have been intimately following for the entire story isn't"
+    },
+    {
+      "fp": "3f605a",
+      "i": 36,
+      "from": 8397,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "isn't an inconsistent character due to sloppy She's being assembled in real time by a mind that never actually knew her. He only imagined a life with her. And when you say assemble"
+    },
+    {
+      "fp": "pbvwex",
+      "i": 37,
+      "from": 8769,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "mean literally cobbled together from contradictory parts. Oh, absolutely. Because as you read, her background just keeps changing. At one point,"
+    },
+    {
+      "fp": "vufkii",
+      "i": 38,
+      "from": 8930,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "read it"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "point, she's studying physics, then it's biology, then suddenly she's a painter, and even her name seems fluid. She's referred to as Lucy, then Louisa, then Lucia. When I first rea"
+    },
+    {
+      "fp": "k6lqvz",
+      "i": 39,
+      "from": 9247,
+      "subject": "alarmClock",
+      "entities": [],
+      "concept": "alarmClock",
+      "place": "bedroom",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "alarm clock, fall asleep at the wheel? right? that's ever, bedroom"
+      },
+      "antidote": {
+        "concept": "alarmClock",
+        "set": "bedroom",
+        "cast": []
+      },
+      "_said": "it, I remember thinking like, did the editor fall asleep at the wheel? Right? That's everyone's"
+    },
+    {
+      "fp": "1q6q5u7",
+      "i": 40,
+      "from": 9362,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "running a simulation in his head"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "everyone's instinct to blame the author. But these aren't continuity errors. They are variables being swamped out by a lonely man running a simulation in his head."
+    },
+    {
+      "fp": "1l70xrd",
+      "i": 41,
+      "from": 9657,
+      "subject": "game",
+      "entities": [],
+      "concept": "game",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "game"
+      },
+      "antidote": {
+        "concept": "game",
+        "set": null,
+        "cast": []
+      },
+      "_said": "He's testing different versions of a life he never got to live. And the clue to all of this is right there in the pub. the trivia team name IPS"
+    },
+    {
+      "fp": "1yhxjzb",
+      "i": 42,
+      "from": 9972,
+      "subject": "Jake — game",
+      "entities": [
+        "jake"
+      ],
+      "concept": "game",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Jake"
+      },
+      "antidote": {
+        "concept": "game",
+        "set": null,
+        "cast": [
+          "jake"
+        ]
+      },
+      "_said": "IPS which Jake explains in the pub comes from the Latin word ips meaning selfhood or oneness he says it creates an identity of oneness because there are many of them on the team bu"
+    },
+    {
+      "fp": "lqdm5e",
+      "i": 43,
+      "from": 10327,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "it's the ultimate glaring clue hidden in plain sight I mean is a philosophical and psychological term that refers to the fundamental sense of being a self right"
+    },
+    {
+      "fp": "1p18gzl",
+      "i": 44,
+      "from": 10593,
+      "subject": "Reed",
+      "entities": [
+        "reed"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Reed"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "reed"
+        ]
+      },
+      "_said": "right the subjective experience of existing as an individual by naming the teams Reed is telling"
+    },
+    {
+      "fp": "14sz8gi",
+      "i": 45,
+      "from": 10759,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "telling us the absolute absolute truth of the novel on page one."
+    },
+    {
+      "fp": "qw29o7",
+      "i": 46,
+      "from": 10845,
+      "subject": "car",
+      "entities": [],
+      "concept": "car",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "car"
+      },
+      "antidote": {
+        "concept": "car",
+        "set": null,
+        "cast": []
+      },
+      "_said": "one. There is only one self in this car. There is only one self in this entire The girlfriend is a projection. She's"
+    },
+    {
+      "fp": "oums1l",
+      "i": 47,
+      "from": 11088,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "notes"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": []
+      },
+      "_said": "She's a phantom birthed from a lonely man's desperate what if. So he just saw a woman in a pub, slipped her a note she never called, and he spent what? Years. Years,"
+    },
+    {
+      "fp": "18z6d77",
+      "i": 48,
+      "from": 11412,
+      "subject": "heart",
+      "entities": [],
+      "concept": "heart",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "heart"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": null,
+        "cast": []
+      },
+      "_said": "Years, perhaps decades, building an entire relationship with her in his mind. She is"
+    },
+    {
+      "fp": "tg6crm",
+      "i": 49,
+      "from": 11577,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "is the literal embodiment of his unlived potential. That is so bleak. When he tells her in the pub that funny is rare, or when he describes her later"
+    },
+    {
+      "fp": "1mdv5ew",
+      "i": 50,
+      "from": 11822,
+      "subject": "mirror",
+      "entities": [],
+      "concept": "mirror",
+      "place": "bedroom",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "mirror, bedroom"
+      },
+      "antidote": {
+        "concept": "mirror",
+        "set": "bedroom",
+        "cast": []
+      },
+      "_said": "later as a compressed Uma Thurman, these aren't compliments he gave to a real woman. These are his own thoughts being bounced off a mirror. He is basically playing chess against hi"
+    },
+    {
+      "fp": "1sor9og",
+      "i": 51,
+      "from": 12093,
+      "subject": "gift",
+      "entities": [],
+      "concept": "gift",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "gift, watching him construct this person"
+      },
+      "antidote": {
+        "concept": "gift",
+        "cast": []
+      },
+      "_said": "like building a sand castle while the tide is coming in. You're watching him construct this person. You're watching him try to pack the wet sand together to give her a solid form. "
+    },
+    {
+      "fp": "hpm0ul",
+      "i": 52,
+      "from": 12441,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "edges just keep washing away. That's a perfect way to describe it. Which brings us right to the setting where"
+    },
+    {
+      "fp": "112cdli",
+      "i": 53,
+      "from": 12573,
+      "subject": "car",
+      "entities": [],
+      "concept": "car",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "car"
+      },
+      "antidote": {
+        "concept": "car",
+        "set": null,
+        "cast": []
+      },
+      "_said": "where this whole psychological theater takes place. The road trip itself. Let's look at this car ride, which when you really peel back the layers, isn't a car ride at all. No, not "
+    },
+    {
+      "fp": "12gj0o6",
+      "i": 54,
+      "from": 12873,
+      "subject": "car",
+      "entities": [],
+      "concept": "car",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "car"
+      },
+      "antidote": {
+        "concept": "car",
+        "set": null,
+        "cast": []
+      },
+      "_said": "It is a perfectly sealed environment. It's a coffin. Right. So, picture the interior of a dark, moving car at night. The heavy snow is falling,"
+    },
+    {
+      "fp": "uycvat",
+      "i": 55,
+      "from": 13120,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "notes"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": []
+      },
+      "_said": "falling, whipping against the headlights in that mesmerizing, almost blinding way. The text specifically notes that the road is vacant, more so than anticipated, which is such"
+    },
+    {
+      "fp": "xm27wj",
+      "i": 56,
+      "from": 13420,
+      "subject": "magnifier",
+      "entities": [],
+      "concept": "magnifier",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "magnifier"
+      },
+      "antidote": {
+        "concept": "magnifier",
+        "cast": []
+      },
+      "_said": "such a subtle but eerie detail. Totally. And the sensory detail here is incredibly specific and deeply unsettling once you know the truth. The girlfriend describes the"
+    },
+    {
+      "fp": "1ojocv3",
+      "i": 57,
+      "from": 13689,
+      "subject": "storm",
+      "entities": [],
+      "concept": "storm",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "storm"
+      },
+      "antidote": {
+        "concept": "storm",
+        "set": null,
+        "cast": []
+      },
+      "_said": "the cold window glass resting against her head. Yes,"
+    },
+    {
+      "fp": "dxjzvc",
+      "i": 58,
+      "from": 13766,
+      "subject": "car",
+      "entities": [],
+      "concept": "car",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "car"
+      },
+      "antidote": {
+        "concept": "car",
+        "set": null,
+        "cast": []
+      },
+      "_said": "Yes, the gentle brain massage, right? She talks about feeling the vibrations of the car's engine humming through the glass, calling it a gentle brain massage. It's hypnotic. It's l"
+    },
+    {
+      "fp": "17w9bh9",
+      "i": 59,
+      "from": 14150,
+      "subject": "Jake",
+      "entities": [
+        "jake"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Jake, reading these sections"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "jake"
+        ]
+      },
+      "_said": "smell of Jake filling this tiny enclosed space. The claustrophobia you feel reading these sections, and"
+    },
+    {
+      "fp": "1fkiz1y",
+      "i": 60,
+      "from": 14328,
+      "subject": "Reed",
+      "entities": [
+        "reed"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Reed"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "reed"
+        ]
+      },
+      "_said": "and it is intensely claustrophobic, is entirely deliberate. Yeah, you feel trapped. You are. Reed traps you in a vehicle with a narrator who is already dead or at"
+    },
+    {
+      "fp": "c7po3r",
+      "i": 61,
+      "from": 14587,
+      "subject": "car",
+      "entities": [],
+      "concept": "car",
+      "place": "highway",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "car, highway"
+      },
+      "antidote": {
+        "concept": "car",
+        "set": "highway",
+        "cast": []
+      },
+      "_said": "at the very least actively dying. You just don't know it yet. The car is not a metal box on a highway. Then what is it? The physical space of the car is a metaphor for Jake's"
+    },
+    {
+      "fp": "7oyal4",
+      "i": 62,
+      "from": 14853,
+      "subject": "grave",
+      "entities": [],
+      "concept": "grave",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "grave"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": null,
+        "cast": []
+      },
+      "_said": "Jake's collapsing consciousness. It is the skull enclosing the dying brain. Now I have to push back a little here just"
+    },
+    {
+      "fp": "nfmwob",
+      "i": 63,
+      "from": 15067,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "just to play devil's advocate. Couldn't"
+    },
+    {
+      "fp": "lqma81",
+      "i": 64,
+      "from": 15141,
+      "subject": "car",
+      "entities": [],
+      "concept": "car",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "car, writing? like a road trip through a blizzard"
+      },
+      "antidote": {
+        "concept": "car",
+        "set": null,
+        "cast": []
+      },
+      "_said": "Couldn't the physical sensations of the car just be really immersive writing? Like a road trip through a blizzard is naturally isolating? Why do"
+    },
+    {
+      "fp": "va4wvv",
+      "i": 65,
+      "from": 15381,
+      "subject": "car",
+      "entities": [],
+      "concept": "car",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "car"
+      },
+      "antidote": {
+        "concept": "car",
+        "set": null,
+        "cast": []
+      },
+      "_said": "do we have to jump straight from snowy car ride to his brain is actively dying? I mean, that's a completely fair question because on a first read, it absolutely just functions as"
+    },
+    {
+      "fp": "65j83o",
+      "i": 66,
+      "from": 15672,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "as excellent moody atmosphere, But you have to look at how the environment behaves. It doesn't behave like weather. It behaves"
+    },
+    {
+      "fp": "17xtu4b",
+      "i": 67,
+      "from": 15871,
+      "subject": "road",
+      "entities": [],
+      "concept": "road",
+      "place": "highway",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "road, highway"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": "highway",
+        "cast": []
+      },
+      "_said": "behaves like neurological decline. Oh wow. Every detail about the road getting worse,"
+    },
+    {
+      "fp": "1m4x2r0",
+      "i": 68,
+      "from": 16013,
+      "subject": "storm",
+      "entities": [],
+      "concept": "storm",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "storm"
+      },
+      "antidote": {
+        "concept": "storm",
+        "set": null,
+        "cast": []
+      },
+      "_said": "worse, the darkness pressing in, the snow becoming a complete white out blizzard,"
+    },
+    {
+      "fp": "1fpazsg",
+      "i": 69,
+      "from": 16130,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "blizzard, the absolute isolation. It is the literal depiction of a mind shutting down. The oxygen is being cut off. Oh, so the outside world is just fading away into blackness. Exa"
+    },
+    {
+      "fp": "1yh060v",
+      "i": 70,
+      "from": 16476,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "And that gentle brain massage she feels against the glass, it takes on a completely different, much darker tone when you realize it's"
+    },
+    {
+      "fp": "1umztpo",
+      "i": 71,
+      "from": 16713,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "it's a physical sensation bleeding through from the real world into the fantasy. Oh my god. What she interprets as the hum of an engine could very well be"
+    },
+    {
+      "fp": "e0szww",
+      "i": 72,
+      "from": 16992,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "be the physical sensation of his body shutting down, the trembling of his"
+    },
+    {
+      "fp": "8xulbr",
+      "i": 73,
+      "from": 17107,
+      "subject": "car",
+      "entities": [],
+      "concept": "car",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "car"
+      },
+      "antidote": {
+        "concept": "car",
+        "set": null,
+        "cast": []
+      },
+      "_said": "his own nervous system failing. That is just wild to think about. It completely changes the text. And if we pull back and look at the behavior within the car, consider"
+    },
+    {
+      "fp": "xq5agp",
+      "i": 74,
+      "from": 17385,
+      "subject": "Jake — coffee",
+      "entities": [
+        "jake"
+      ],
+      "concept": "coffee",
+      "place": "kitchen",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Jake, kitchen"
+      },
+      "antidote": {
+        "concept": "coffee",
+        "set": "kitchen",
+        "cast": [
+          "jake"
+        ]
+      },
+      "_said": "consider how Jake constantly controls the Yeah, he's very rigid. He dictates the volume of the radio. He adjusts the heat. He absolutely refuses to stop for coffee even when the gi"
+    },
+    {
+      "fp": "1rv2k16",
+      "i": 75,
+      "from": 17762,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "notes"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": []
+      },
+      "_said": "trying to maintain control of the fantasy. And as if he stops, the fantasy breaks, but the isolation is profound. As the girlfriend notes, there's not enough traffic"
+    },
+    {
+      "fp": "s4a1qk",
+      "i": 76,
+      "from": 18009,
+      "subject": "funnelMetrics",
+      "entities": [],
+      "concept": "funnelMetrics",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "funnel metrics"
+      },
+      "antidote": {
+        "concept": "funnelMetrics",
+        "set": null,
+        "cast": []
+      },
+      "_said": "traffic to warrant lighting the way. It gets incredibly dark. This isn't"
+    },
+    {
+      "fp": "12vahe3",
+      "i": 77,
+      "from": 18139,
+      "subject": "road",
+      "entities": [],
+      "concept": "road",
+      "place": "highway",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "road, highway"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": "highway",
+        "cast": []
+      },
+      "_said": "isn't just a weather report. You know, the neurons are firing slower. The visual field is narrowing. That makes so much sense. The road trip is the journey of"
+    },
+    {
+      "fp": "vpwfqu",
+      "i": 78,
+      "from": 18398,
+      "subject": "car",
+      "entities": [],
+      "concept": "car",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "car"
+      },
+      "antidote": {
+        "concept": "car",
+        "set": null,
+        "cast": []
+      },
+      "_said": "of his final thoughts stretching out as his brain slowly dies in a completely different stationary location. Man, knowing that makes the interactions in the car"
+    },
+    {
+      "fp": "14ip0pb",
+      "i": 79,
+      "from": 18662,
+      "subject": "car",
+      "entities": [],
+      "concept": "car",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "car"
+      },
+      "antidote": {
+        "concept": "car",
+        "set": null,
+        "cast": []
+      },
+      "_said": "car so incredibly tragic because she's sitting"
+    },
+    {
+      "fp": "1bx41t4",
+      "i": 80,
+      "from": 18727,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "sitting there feeling guilty because she's thin"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "sitting there feeling guilty because she's thinking of ending things. she's agonizing over not wanting to hurt him. And in reality, it's just him alone feeling"
+    },
+    {
+      "fp": "1lf4s3o",
+      "i": 81,
+      "from": 19013,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "feeling the profound guilt and terror of his own impending suicide and mapping"
+    },
+    {
+      "fp": "2i7p2e",
+      "i": 82,
+      "from": 19145,
+      "subject": "car",
+      "entities": [],
+      "concept": "car",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "car, carry them alone"
+      },
+      "antidote": {
+        "concept": "car",
+        "set": null,
+        "cast": []
+      },
+      "_said": "mapping those unbearable emotions onto this fictional woman so he doesn't have to carry them alone. It's a defense mechanism. He's outsourcing his own dread, which leads us to thei"
+    },
+    {
+      "fp": "1s4x7vh",
+      "i": 83,
+      "from": 19528,
+      "subject": "home",
+      "entities": [],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "home"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": []
+      },
+      "_said": "is where memory itself completely fractures. The parents house. Yeah. This is"
+    },
+    {
+      "fp": "1l3owgj",
+      "i": 84,
+      "from": 19646,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "is where the structural integrity of the unreliable narrator begins to visibly warp and buckle. The laws of physics and time basically stop applying. Put yourself"
+    },
+    {
+      "fp": "1sj2pe4",
+      "i": 85,
+      "from": 19920,
+      "subject": "food",
+      "entities": [],
+      "concept": "food",
+      "place": "kitchen",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "food, kitchen"
+      },
+      "antidote": {
+        "concept": "food",
+        "set": "kitchen",
+        "cast": []
+      },
+      "_said": "yourself at that farmhouse dinner table. It is tense. The first thing you notice is the relentless heavy ticking of a"
+    },
+    {
+      "fp": "jpdnp9",
+      "i": 86,
+      "from": 20071,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": "kitchen",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, running out, kitchen"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": "kitchen",
+        "cast": []
+      },
+      "_said": "a tall grandfather clock against the wall. It's just dominating the room. A constant reminder of time running out, right? And then the mother walks in. She's wearing this outofse o"
+    },
+    {
+      "fp": "ti861y",
+      "i": 87,
+      "from": 20368,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "overly formal blue velvet dress with frilly white lace. She is smiling far too widely, just beaming. And she starts talking about her tonitis, mentioning how"
+    },
+    {
+      "fp": "1rjlzza",
+      "i": 88,
+      "from": 20649,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "how she constantly hears whispers, which is terrifying on its own. Totally. But then you start to notice"
+    },
+    {
+      "fp": "6b75bv",
+      "i": 89,
+      "from": 20810,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": "kitchen",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, leaves the room and returns a moment later, kitchen"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": "kitchen",
+        "cast": []
+      },
+      "_said": "notice the visual glitches, like the mother leaves the room and returns a moment later in a completely different colored And no one reacts. No one."
+    },
+    {
+      "fp": "1ohs60s",
+      "i": 90,
+      "from": 21060,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "one. Her missing toenail is suddenly painted red in one moment, and then a scene later, it's covered by a band-aid. Jake's"
+    },
+    {
+      "fp": "1mo5lhs",
+      "i": 91,
+      "from": 21281,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": "kitchen",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, kitchen"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": "kitchen",
+        "cast": []
+      },
+      "_said": "Jake's father has a thin band-aid on his forehead, which inexplicably becomes two band-aids a few scenes later. Right? And a casual reader trained"
+    },
+    {
+      "fp": "1g1kzwn",
+      "i": 92,
+      "from": 21521,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": "kitchen",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, kitchen"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": "kitchen",
+        "cast": []
+      },
+      "_said": "trained by mainstream fiction might chalk this up to sloppy editing. Or if they're feeling generous, they might assume the parents are just eccentric or perhaps dealing with severe"
+    },
+    {
+      "fp": "1luk1rp",
+      "i": 93,
+      "from": 21845,
+      "subject": "Reed — family",
+      "entities": [
+        "reed"
+      ],
+      "concept": "family",
+      "place": "kitchen",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Reed, kitchen"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": "kitchen",
+        "cast": [
+          "reed"
+        ]
+      },
+      "_said": "girlfriend's stressed Sure, that's what I thought at first. But structurally, what Reed is doing is showing you a man cycling through every version of his parents he ever knew. His"
+    },
+    {
+      "fp": "efb6d",
+      "i": 94,
+      "from": 22159,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "firing off disperate memories, overlapping decades into a single localized space. It's exactly like a skipping record. Perfectly said, a skipping record. The"
+    },
+    {
+      "fp": "5py47q",
+      "i": 95,
+      "from": 22433,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": "kitchen",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, kitchen"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": "kitchen",
+        "cast": []
+      },
+      "_said": "mother's shifting dresses represent different decades, different holidays, different moments in time"
+    },
+    {
+      "fp": "3yqj09",
+      "i": 96,
+      "from": 22572,
+      "subject": "Jake — phone",
+      "entities": [
+        "jake"
+      ],
+      "concept": "phone",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Jake"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": null,
+        "cast": [
+          "jake"
+        ]
+      },
+      "_said": "time that Jake remembers. The multiplying band-aids on the father's head are a rapid fire sequence of minor injuries are called totally out of chronological order because the timel"
+    },
+    {
+      "fp": "18v5a62",
+      "i": 97,
+      "from": 22932,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": null,
+        "cast": []
+      },
+      "_said": "evening is a compressed hallucination of a lifetime of memories. The text gives us"
+    },
+    {
+      "fp": "qrp01o",
+      "i": 98,
+      "from": 23066,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "us the ultimate key to this later on when the narrator says, and I quote, \"Jake's"
+    },
+    {
+      "fp": "1j7z3z3",
+      "i": 99,
+      "from": 23179,
+      "subject": "grave",
+      "entities": [],
+      "concept": "grave",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "grave"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": null,
+        "cast": []
+      },
+      "_said": "\"Jake's parents, they died a long time ago, like the hair that we can see already dead.\" This bizarre, deeply"
+    },
+    {
+      "fp": "1f2j6bo",
+      "i": 100,
+      "from": 23395,
+      "subject": "grave",
+      "entities": [],
+      "concept": "grave",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "grave"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": null,
+        "cast": []
+      },
+      "_said": "deeply uncomfortable dinner party is essentially a seance hosted by a dying man for his long deadad parents. It makes that moment so chilling when the mother says she hears whisper"
+    },
+    {
+      "fp": "e1cwfi",
+      "i": 101,
+      "from": 23690,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": "kitchen",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, kitchen"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": "kitchen",
+        "cast": []
+      },
+      "_said": "and the father mentions she has to ask him to repeat himself all the time. Jake's"
+    },
+    {
+      "fp": "1b1o995",
+      "i": 102,
+      "from": 23820,
+      "subject": "Jake — grave",
+      "entities": [
+        "jake"
+      ],
+      "concept": "grave",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Jake, sits there intensely shoveling food into"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": null,
+        "cast": [
+          "jake"
+        ]
+      },
+      "_said": "Jake's parents are dead, but in this hallucination, they're exhibiting the decay of aging, all happening Yes, they are young, middle-aged, and dying all at once. And Jake just sits"
+    },
+    {
+      "fp": "92pzgz",
+      "i": 103,
+      "from": 24268,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "help the girlfriend navigate this bizarre social dynamic because he can't. He's a passenger in his own deteriorating mind. He can summon the memory, but he can't control how"
+    },
+    {
+      "fp": "bdky4z",
+      "i": 104,
+      "from": 24552,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": "kitchen",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, kitchen"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": "kitchen",
+        "cast": []
+      },
+      "_said": "how it behaves anymore. and notice the deeply unsettling game the mother suggests after dinner. She asks the girlfriend to"
+    },
+    {
+      "fp": "3v38ra",
+      "i": 105,
+      "from": 24763,
+      "subject": "Jake",
+      "entities": [
+        "jake"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Jake"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "jake"
+        ]
+      },
+      "_said": "to do Jake to impersonate him. Then Jake does an impersonation of the girlfriend. Oh, that part was so weird. It is. He mimics"
+    },
+    {
+      "fp": "4x9gv8",
+      "i": 106,
+      "from": 24974,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "mimics her perfectly brushing imaginary hair behind his ear, speaking in a"
+    },
+    {
+      "fp": "1gvi26d",
+      "i": 107,
+      "from": 25089,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "a slightly higher pitch. It's startling, precise, and highly unnatural. Why? Because he is her. He isn't impersonating her."
+    },
+    {
+      "fp": "360qq6",
+      "i": 108,
+      "from": 25332,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "her. The boundary between the creator and the creation is dissolving. The firewall is down. The fantasy is losing its cohesion. It's losing cohesion and it's being actively invaded"
+    },
+    {
+      "fp": "260wy4",
+      "i": 109,
+      "from": 25646,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": null,
+        "cast": []
+      },
+      "_said": "all this internal hallucination is happening, something from the outside is trying to break in. And that brings us to the phone calls, the calls from no one. Yeah. This is perhaps "
+    },
+    {
+      "fp": "lxkn4m",
+      "i": 110,
+      "from": 25992,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "deeply unsettling mechanism in the entire architecture of the book. So, picture the girlfriend alone in Jake's"
+    },
+    {
+      "fp": "zalmv2",
+      "i": 111,
+      "from": 26169,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": "bedroom",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "phone, bedroom"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": "bedroom",
+        "cast": []
+      },
+      "_said": "Jake's childhood bedroom. It's pitch Suddenly, her phone starts buzzing. It's vibrating against the wood of the nightstand. She checks the screen and"
+    },
+    {
+      "fp": "p2a746",
+      "i": 112,
+      "from": 26433,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": null,
+        "cast": []
+      },
+      "_said": "and this terrifying realization washes over her. The missed calls she keeps getting are coming from her own number. Such"
+    },
+    {
+      "fp": "1b7ls86",
+      "i": 113,
+      "from": 26635,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": null,
+        "cast": []
+      },
+      "_said": "Such a visceral scare. Yeah. And she finally listens to the voicemail. And the voice on the other end is the scratchy, distorted,"
+    },
+    {
+      "fp": "1ihk6a",
+      "i": 114,
+      "from": 26817,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "distorted, effeminite caller. It says, \"There's only one question to resolve. I'm scared. I feel"
+    },
+    {
+      "fp": "gscljn",
+      "i": 115,
+      "from": 26980,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "feel a little crazy. I'm not lucid. The assumptions are right. I can feel my fear growing. Now is the time for the answer. Just one question. One question to answer. In"
+    },
+    {
+      "fp": "fyy55b",
+      "i": 116,
+      "from": 27245,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": null,
+        "cast": []
+      },
+      "_said": "In a standard thriller, this is the stalker trope, right? The call is coming from inside the house. It's a jump scare. Yeah. But here, the call is coming from inside the head. Thes"
+    },
+    {
+      "fp": "2uwf4w",
+      "i": 117,
+      "from": 27547,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "from the outside world, or rather the last lucid survivaloriented part of Jake's"
+    },
+    {
+      "fp": "fpe9q2",
+      "i": 118,
+      "from": 27713,
+      "subject": "grave",
+      "entities": [],
+      "concept": "grave",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "grave, reach a man who has already initiated the pro"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": null,
+        "cast": []
+      },
+      "_said": "Jake's own physical mind, trying to desperately reach a man who has already initiated the process of dying. Let's really dig into what this means. The ringing phone is the biologic"
+    },
+    {
+      "fp": "awsa7i",
+      "i": 119,
+      "from": 28123,
+      "subject": "alarmClock",
+      "entities": [],
+      "concept": "alarmClock",
+      "place": "bedroom",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "alarm clock, bedroom"
+      },
+      "antidote": {
+        "concept": "alarmClock",
+        "set": "bedroom",
+        "cast": []
+      },
+      "_said": "of Jake's nervous system that hasn't committed to the suicide yet, sounding the alarm. The absolute dread the girlfriend feels when she hears the caller is actually Jake's"
+    },
+    {
+      "fp": "j5ozmd",
+      "i": 120,
+      "from": 28385,
+      "subject": "grave",
+      "entities": [],
+      "concept": "grave",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "grave"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": null,
+        "cast": []
+      },
+      "_said": "Jake's own visceral biological fear of death pushing back against"
+    },
+    {
+      "fp": "1jdv5vf",
+      "i": 121,
+      "from": 28502,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "war"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "against his intellectual decision to It's his body fighting his mind. Exactly. When the caller says, \"I'm scared. I feel a little crazy. I'm not lucid.\" That is"
+    },
+    {
+      "fp": "185g53p",
+      "i": 122,
+      "from": 28771,
+      "subject": "Jake",
+      "entities": [
+        "jake"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Jake"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "jake"
+        ]
+      },
+      "_said": "is the actual physical Jake in the real world, experiencing the immediate terrifying regret or panic that often accompanies the final moments of a suicide. Yeah. And"
+    },
+    {
+      "fp": "q7in5r",
+      "i": 123,
+      "from": 29061,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "And the voice itself described as a man with a distinctly feminine voice, almost as if he was putting on a"
+    },
+    {
+      "fp": "rh3z3v",
+      "i": 124,
+      "from": 29215,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "a flat female intonation, scratchy and distorted. It is Jake's own voice, distorted by the mechanism of his suicide, bleeding into the fantasy he"
+    },
+    {
+      "fp": "gqw5k8",
+      "i": 125,
+      "from": 29515,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": null,
+        "cast": []
+      },
+      "_said": "he is calling himself. He is calling the female projection he created. That's why the caller ID shows her own number because they are the same person. The projection and the projec"
+    },
+    {
+      "fp": "r2gy1x",
+      "i": 126,
+      "from": 29851,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "the one question to answer it is Hamlet's question. To be or not to be, continue or not, to live or to die. That"
+    },
+    {
+      "fp": "mv0f6t",
+      "i": 127,
+      "from": 30081,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "That gave me actual goosebumps when I realized it. And later"
+    },
+    {
+      "fp": "1ppttuo",
+      "i": 128,
+      "from": 30160,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": null,
+        "cast": []
+      },
+      "_said": "later the caller adds to the message. Now, I'm going to say something that will upset you. I know what you look like. I know your feet and hands and your skin. I know your head and"
+    },
+    {
+      "fp": "llnmbw",
+      "i": 129,
+      "from": 30403,
+      "subject": "lightbulb",
+      "entities": [],
+      "concept": "lightbulb",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "lightbulb"
+      },
+      "antidote": {
+        "concept": "lightbulb",
+        "cast": []
+      },
+      "_said": "You shouldn't bite your nails. So intrusive. She is terrified because she does bite her nails. But of course, he knows her. He invented her. The boundaries are just totally breakin"
+    },
+    {
+      "fp": "1ti0afz",
+      "i": 130,
+      "from": 30696,
+      "subject": "Jake — car",
+      "entities": [
+        "jake"
+      ],
+      "concept": "car",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Jake"
+      },
+      "antidote": {
+        "concept": "car",
+        "set": null,
+        "cast": [
+          "jake"
+        ]
+      },
+      "_said": "raises an essential question for you as the listener. If Jake is just a lonely guy hallucinating in his car or his childhood home, why is his mind collapsing? What is"
+    },
+    {
+      "fp": "bv6zvm",
+      "i": 131,
+      "from": 30979,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "is the actual physical reality outside of this fantasy? Where is his physical body while his mind is conjuring"
+    },
+    {
+      "fp": "1jqwe4s",
+      "i": 132,
+      "from": 31190,
+      "subject": "car",
+      "entities": [],
+      "concept": "car",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "car"
+      },
+      "antidote": {
+        "concept": "car",
+        "set": null,
+        "cast": []
+      },
+      "_said": "conjuring this elaborate road trip? Right? Because we know he's not actually in a car. Exactly."
+    },
+    {
+      "fp": "1skd47v",
+      "i": 133,
+      "from": 31317,
+      "subject": "Reed",
+      "entities": [
+        "reed"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Reed"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "reed"
+        ]
+      },
+      "_said": "Exactly. And Reed doesn't hide it from He threads it throughout the entire book in these"
+    },
+    {
+      "fp": "swfbr",
+      "i": 134,
+      "from": 31457,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "these interspersed italicized The janitor. The answer hiding"
+    },
+    {
+      "fp": "1bpu1dc",
+      "i": 135,
+      "from": 31617,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "hiding in absolute plain Throughout the book, there are these short italicized interludes. If you're reading, you can practically hear the mundane gossipy tone of town's"
+    },
+    {
+      "fp": "1jdn644",
+      "i": 136,
+      "from": 31970,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "town's people talking. They are discussing a tragedy."
+    },
+    {
+      "fp": "bwtq6n",
+      "i": 137,
+      "from": 32064,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "tragedy. Like a news report almost. Yeah. They say things like, \"He had keys. He wasn't scheduled to be here, but he had keys.\" I don't think anyone was close with him. He was a lo"
+    },
+    {
+      "fp": "6l1093",
+      "i": 138,
+      "from": 32368,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "supposed to be some revarnishing done during the break? Yes, but that happened right at the start of the holidays. So,"
+    },
+    {
+      "fp": "191x3ik",
+      "i": 139,
+      "from": 32520,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "So, the varnish would have time to dry. The varnish scent can be pretty strong. And readers naturally skim these italicized sections. Oh, I totally did on my first read. We all do."
+    },
+    {
+      "fp": "k5yy4b",
+      "i": 140,
+      "from": 32863,
+      "subject": "car",
+      "entities": [],
+      "concept": "car",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "car"
+      },
+      "antidote": {
+        "concept": "car",
+        "set": null,
+        "cast": []
+      },
+      "_said": "decades of thriller conventions to view these interludes as background noise or just a framing device for the real story. We want to rush back to the couple in the car because that"
+    },
+    {
+      "fp": "lmjnnz",
+      "i": 141,
+      "from": 33233,
+      "subject": "car",
+      "entities": [],
+      "concept": "car",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "car"
+      },
+      "antidote": {
+        "concept": "car",
+        "set": null,
+        "cast": []
+      },
+      "_said": "Reed's brilliant The inverse. The couple in the car is the fiction. The interspersed gossip about the janitor is"
+    },
+    {
+      "fp": "1ubbhap",
+      "i": 142,
+      "from": 33453,
+      "subject": "Jake",
+      "entities": [
+        "jake"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Jake"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "jake"
+        ]
+      },
+      "_said": "is the actual physical reality. Jake is the janitor. That just blows"
+    },
+    {
+      "fp": "90a8rk",
+      "i": 143,
+      "from": 33595,
+      "subject": "book",
+      "entities": [],
+      "concept": "book",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "book, reading a book where the main plot is a daydrea"
+      },
+      "antidote": {
+        "concept": "book",
+        "set": null,
+        "cast": []
+      },
+      "_said": "blows my mind every time I think about it. You're reading a book where the main plot is a daydream and the interludes are the actual plot. The locals are talking about a tragedy at"
+    },
+    {
+      "fp": "11o1py1",
+      "i": 144,
+      "from": 33881,
+      "subject": "school",
+      "entities": [],
+      "concept": "school",
+      "place": "classroom",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "school, classroom"
+      },
+      "antidote": {
+        "concept": "school",
+        "set": "classroom",
+        "cast": []
+      },
+      "_said": "at the school involving a loner who had keys, right? They mentioned he wasn't on anti-depressants, that there were no warning signs, that if you have nothing, you have nothing to l"
+    },
+    {
+      "fp": "7hbvwd",
+      "i": 145,
+      "from": 34145,
+      "subject": "grave",
+      "entities": [],
+      "concept": "grave",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "grave"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": null,
+        "cast": []
+      },
+      "_said": "Jake's suicide at the high school where he works as a custodian. What's deeply tragic here is the sheer invisibility of the man. But even in death, the"
+    },
+    {
+      "fp": "1lb9mnb",
+      "i": 146,
+      "from": 34421,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "town's people talking about him don't really know him. They discuss him in platitudes. He wasn't a rational person. They say he's not like us. They're"
+    },
+    {
+      "fp": "hekc2n",
+      "i": 147,
+      "from": 34639,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "They're just distancing themselves completely."
+    },
+    {
+      "fp": "2vdjib",
+      "i": 148,
+      "from": 34728,
+      "subject": "Jake",
+      "entities": [
+        "jake"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Jake"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "jake"
+        ]
+      },
+      "_said": "completely. They distanced themselves from his profound loneliness. Jake lived a life so isolated, so devoid of meaningful connection that his only refuge was this intricate, deepl"
+    },
+    {
+      "fp": "ufj2ue",
+      "i": 149,
+      "from": 35040,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": null,
+        "cast": []
+      },
+      "_said": "deeply philosophical internal world. He is a brilliant man. The text establishes early on that he is a cruerbalist. Okay, let's define that for a second because it's so important t"
+    },
+    {
+      "fp": "rszn8w",
+      "i": 150,
+      "from": 35436,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "is a designer or afficionado of crossword puzzles. Think about what that means for his"
+    },
+    {
+      "fp": "gs3hzj",
+      "i": 151,
+      "from": 35717,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Clues that need to be solved. He's a man obsessed with structure, with intersecting meanings, with finding the exact right word to fill a blank space. He is an intellect"
+    },
+    {
+      "fp": "qscth2",
+      "i": 152,
+      "from": 35983,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "intellect who debates Yungian psychology and quantum physics in his head. But physically, he is working as a night custodian, quietly mopping up hallways and cleaning up after teen"
+    },
+    {
+      "fp": "15g26a9",
+      "i": 153,
+      "from": 36386,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "between his internal richness and his external lonely reality is what crushed him. He's a cruciferalist who could solve any puzzle except the puzzle of human connection. Which brin"
+    },
+    {
+      "fp": "kk7djv",
+      "i": 154,
+      "from": 36669,
+      "subject": "Jake",
+      "entities": [
+        "jake"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Jake"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "jake"
+        ]
+      },
+      "_said": "a really fascinating dilemma. If Jake is so isolated and if the girlfriend isn't real, where do all"
+    },
+    {
+      "fp": "ns3kcs",
+      "i": 155,
+      "from": 36857,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": null,
+        "cast": []
+      },
+      "_said": "of her intricate thoughts, her memories, her deeply held beliefs come from? How does he fill that internal world? This brings us to what we might call"
+    },
+    {
+      "fp": "1u5b9zu",
+      "i": 156,
+      "from": 37108,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": null,
+        "cast": []
+      },
+      "_said": "call the epistemological crisis of the novel. Epistemology is the branch"
+    },
+    {
+      "fp": "odgtfb",
+      "i": 157,
+      "from": 37253,
+      "subject": "Reed — tree",
+      "entities": [
+        "reed"
+      ],
+      "concept": "tree",
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Reed"
+      },
+      "antidote": {
+        "concept": "tree",
+        "set": null,
+        "cast": [
+          "reed"
+        ]
+      },
+      "_said": "branch of philosophy concerned with knowledge. How we know what we know, what justifies our beliefs, and how we distinguish between truth and falsehood. Reed applies this directly "
+    },
+    {
+      "fp": "7hie1k",
+      "i": 158,
+      "from": 37656,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "scene where the girlfriend shares this incredibly vivid memory of"
+    },
+    {
+      "fp": "8h57qt",
+      "i": 159,
+      "from": 37733,
+      "subject": "Jake — road",
+      "entities": [
+        "jake"
+      ],
+      "concept": "road",
+      "place": "highway",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Jake, highway"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": "highway",
+        "cast": [
+          "jake"
+        ]
+      },
+      "_said": "of her driving instructor, Doug. She is telling Jake this deeply personal story from her past. It's so specific. Very."
+    },
+    {
+      "fp": "r5dg3z",
+      "i": 160,
+      "from": 37956,
+      "subject": "car",
+      "entities": [],
+      "concept": "car",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "car, reads a quote"
+      },
+      "antidote": {
+        "concept": "car",
+        "set": null,
+        "cast": []
+      },
+      "_said": "Very. She remembers the orange cat hair modeling the car seats. She remembers Doug's long, dirty fingernails, describing them like mini surfboards. Doug supposedly opens a book dur"
+    },
+    {
+      "fp": "19zsf9",
+      "i": 161,
+      "from": 38371,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "quote from Carl Young. The meaning of my existence is that life"
+    },
+    {
+      "fp": "11mw95n",
+      "i": 162,
+      "from": 38498,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "life has addressed a question to me. or conversely, I myself am a question which is addressed to the world. She recites this to"
+    },
+    {
+      "fp": "7kym6g",
+      "i": 163,
+      "from": 38717,
+      "subject": "Jake — phone",
+      "entities": [
+        "jake"
+      ],
+      "concept": "phone",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Jake"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": null,
+        "cast": [
+          "jake"
+        ]
+      },
+      "_said": "Jake, claiming Doug gave her the book and she memorized it. But the text later reveals that Jake's"
+    },
+    {
+      "fp": "3r8miw",
+      "i": 164,
+      "from": 38844,
+      "subject": "Jake — magnifier",
+      "entities": [
+        "jake"
+      ],
+      "concept": "magnifier",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Jake, reads constantly"
+      },
+      "antidote": {
+        "concept": "magnifier",
+        "cast": [
+          "jake"
+        ]
+      },
+      "_said": "Jake's own reality is deeply intertwined with these exact details. Jake is the one who reads constantly. Jake is the one who says all memory is fiction and heavily edited. The girl"
+    },
+    {
+      "fp": "116auhb",
+      "i": 165,
+      "from": 39173,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "isn't a real person with a real past. She is a a Frankenstein's"
+    },
+    {
+      "fp": "1m66jg4",
+      "i": 166,
+      "from": 39295,
+      "subject": "Jake — lightbulb",
+      "entities": [
+        "jake"
+      ],
+      "concept": "lightbulb",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Jake"
+      },
+      "antidote": {
+        "concept": "lightbulb",
+        "cast": [
+          "jake"
+        ]
+      },
+      "_said": "Frankenstein's monster of memory. Yes, she is a synthesis of every woman Jake admired from a distance, every philosophical idea he absorbed"
+    },
+    {
+      "fp": "endmxt",
+      "i": 167,
+      "from": 39511,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "reading but never got to discuss and fragments"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "absorbed in his solitary reading but never got to discuss and fragments of his own past. Now, I have to push back here because this was my initial thought when reading it. Isn't it"
+    },
+    {
+      "fp": "1bfm3bz",
+      "i": 168,
+      "from": 39792,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "and adopt each other's phrases? My spouse and I do that all the Sure. Mirroring. Yeah."
+    },
+    {
+      "fp": "ei3tgt",
+      "i": 169,
+      "from": 39905,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Yeah. You spend enough time with someone, you start using their vocabulary. Couldn't it just be a sign of their intimacy? Why does it prove she isn't real? In a normal narrative, y"
+    },
+    {
+      "fp": "ue9yyz",
+      "i": 170,
+      "from": 40164,
+      "subject": "Reed",
+      "entities": [
+        "reed"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Reed"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "reed"
+        ]
+      },
+      "_said": "yes, couples merge their vocabularies, but Reed pushes it past shared intimacy into"
+    },
+    {
+      "fp": "1w6af5z",
+      "i": 171,
+      "from": 40315,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "into total psychological merging. It's not just that she uses his phrases, she possesses knowledge she"
+    },
+    {
+      "fp": "1c6w2xq",
+      "i": 172,
+      "from": 40517,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "couldn't possibly have. By the end of the novel, the pronouns literally blur from I and he into a collective we. Oh, that's true. The pronouns literally She doesn't just share his "
+    },
+    {
+      "fp": "1qftz6h",
+      "i": 173,
+      "from": 40903,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "When she quotes Young or when she recites a famous observation by the"
+    },
+    {
+      "fp": "148uev7",
+      "i": 174,
+      "from": 40992,
+      "subject": "puppeteer",
+      "entities": [],
+      "concept": "puppeteer",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "puppeteer"
+      },
+      "antidote": {
+        "concept": "puppeteer",
+        "cast": []
+      },
+      "_said": "the film critic Pauline Kale about movies that we know they aren't real but they still affect us. She is just a sock puppet for Jake's intellect. It's all just him projecting. She "
+    },
+    {
+      "fp": "xzzntg",
+      "i": 175,
+      "from": 41308,
+      "subject": "Jake — car",
+      "entities": [
+        "jake"
+      ],
+      "concept": "car",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Jake"
+      },
+      "antidote": {
+        "concept": "car",
+        "set": null,
+        "cast": [
+          "jake"
+        ]
+      },
+      "_said": "identity out of media Jake has consumed. She even says earlier in the car is an unspoken idea. Unoriginal maybe I've actually known all along. Nothing she says is original because "
+    },
+    {
+      "fp": "9vpqc2",
+      "i": 176,
+      "from": 41685,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "her own reality against. The Pauline Kale quote is such a mindbender. She says, \"We go see a movie and understand it's not real. We know it's people acting, reciting lines. It stil"
+    },
+    {
+      "fp": "861aij",
+      "i": 177,
+      "from": 42007,
+      "subject": "Reed — phone",
+      "entities": [
+        "reed"
+      ],
+      "concept": "phone",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Reed, reading a fiction constructed by"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": null,
+        "cast": [
+          "reed"
+        ]
+      },
+      "_said": "us.\" Reed plants it like a bomb right in the middle of the text. He really does. He's telling the reader exactly what is happening. You are reading a fiction constructed by"
+    },
+    {
+      "fp": "13329v3",
+      "i": 178,
+      "from": 42271,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "reading the novel while you"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "by a fictional character and yet you are feeling real anxiety for her. He is mocking the very act of reading the novel while you"
+    },
+    {
+      "fp": "1sbin95",
+      "i": 179,
+      "from": 42485,
+      "subject": "Jake",
+      "entities": [
+        "jake"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Jake, reading it"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "jake"
+        ]
+      },
+      "_said": "you are reading it. And just as we experience anxiety reading the book, Jake experiences anxiety running this simulation because the fantasy cannot hold up forever. The real world "
+    },
+    {
+      "fp": "1l3piha",
+      "i": 180,
+      "from": 42849,
+      "subject": "grave",
+      "entities": [],
+      "concept": "grave",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "grave, stand in the middle"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": null,
+        "cast": []
+      },
+      "_said": "physics of his dying brain demand it. Which brings us to the scene where the fantasy violently tears. The ice cream stand in the middle of a"
+    },
+    {
+      "fp": "44d17",
+      "i": 181,
+      "from": 43113,
+      "subject": "Jake — road",
+      "entities": [
+        "jake"
+      ],
+      "concept": "road",
+      "place": "highway",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Jake, highway"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": "highway",
+        "cast": [
+          "jake"
+        ]
+      },
+      "_said": "Picture this. Jake and the girlfriend are driving through a raging, blinding, white out snowstorm. The roads are treacherous. And yet, inexplicably, Jake insists on pulling over at"
+    },
+    {
+      "fp": "js1lvy",
+      "i": 182,
+      "from": 43437,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "at an isolated Dairy Queen, which makes no sense. None. They stop for cold lemonade and ice cream. Inside, there are three"
+    },
+    {
+      "fp": "1sq8e23",
+      "i": 183,
+      "from": 43658,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "three teenage girls working behind the counter. They are giggling, exchanging these highly specific, knowing glances. They"
+    },
+    {
+      "fp": "7wyz7y",
+      "i": 184,
+      "from": 43888,
+      "subject": "Jake",
+      "entities": [
+        "jake"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Jake"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "jake"
+        ]
+      },
+      "_said": "They are treating Jake and the girlfriend exactly like teenagers would treat an unexpected,"
+    },
+    {
+      "fp": "192wdmy",
+      "i": 185,
+      "from": 44030,
+      "subject": "Jake — school",
+      "entities": [
+        "jake"
+      ],
+      "concept": "school",
+      "place": "classroom",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Jake, classroom"
+      },
+      "antidote": {
+        "concept": "school",
+        "set": "classroom",
+        "cast": [
+          "jake"
+        ]
+      },
+      "_said": "unexpected, awkward teacher showing up outside of school. They look at Jake with a mix of pity and Exactly. Then a third girl comes from the back room. She"
+    },
+    {
+      "fp": "1kjr81r",
+      "i": 186,
+      "from": 44316,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "weeping rash on her hands and arms"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "She is frail, incredibly anxious, and has a severe weeping rash on her hands and arms. And she says"
+    },
+    {
+      "fp": "18ykha8",
+      "i": 187,
+      "from": 44496,
+      "subject": "lightbulb",
+      "entities": [],
+      "concept": "lightbulb",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "lightbulb"
+      },
+      "antidote": {
+        "concept": "lightbulb",
+        "cast": []
+      },
+      "_said": "says to the girlfriend, \"Sorry for the smell. They're doing some varnishing in the The girlfriend suddenly recognizes this girl, but feels a deep, confusing sense of shame and has "
+    },
+    {
+      "fp": "1jxnjd8",
+      "i": 188,
+      "from": 44851,
+      "subject": "school",
+      "entities": [],
+      "concept": "school",
+      "place": "classroom",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "school, classroom"
+      },
+      "antidote": {
+        "concept": "school",
+        "set": "classroom",
+        "cast": []
+      },
+      "_said": "the back of a Dairy Queen. It is the highly toxic reality of the janitor's environment at the high school bleeding into the dream. The teenage girls aren't random fast food workers"
+    },
+    {
+      "fp": "4e7raj",
+      "i": 189,
+      "from": 45187,
+      "subject": "Jake — school",
+      "entities": [
+        "jake"
+      ],
+      "concept": "school",
+      "place": "classroom",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Jake, classroom"
+      },
+      "antidote": {
+        "concept": "school",
+        "set": "classroom",
+        "cast": [
+          "jake"
+        ]
+      },
+      "_said": "school where Jake works as a custodian. The way they giggle and exchange glances"
+    },
+    {
+      "fp": "mbxq57",
+      "i": 190,
+      "from": 45295,
+      "subject": "Jake",
+      "entities": [
+        "jake"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Jake"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "jake"
+        ]
+      },
+      "_said": "glances when Jake walks in, it's the exact way teenagers react to this socially awkward, invisible janitor they see every day but don't respect. And the girl with the rash, the gir"
+    },
+    {
+      "fp": "1tmty7o",
+      "i": 191,
+      "from": 45583,
+      "subject": "Jake — school",
+      "entities": [
+        "jake"
+      ],
+      "concept": "school",
+      "place": "classroom",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Jake, classroom"
+      },
+      "antidote": {
+        "concept": "school",
+        "set": "classroom",
+        "cast": [
+          "jake"
+        ]
+      },
+      "_said": "girlfriend recognizes her because Jake recognizes her. She is a real student."
+    },
+    {
+      "fp": "n1e5li",
+      "i": 192,
+      "from": 45710,
+      "subject": "Jake — grave",
+      "entities": [
+        "jake"
+      ],
+      "concept": "grave",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Jake"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": null,
+        "cast": [
+          "jake"
+        ]
+      },
+      "_said": "student. Jake probably cleans up after or sees hiding in the halls. Jake's constructed narrative is failing hard here. His brain is dying. The toxicity of his suicide method is tak"
+    },
+    {
+      "fp": "1yrpsd0",
+      "i": 193,
+      "from": 46116,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "entirely, and physical reality is violently invading the dream. The girlfriend feeling a deep sense of shame and pity for the girl with the rash is just Jake's"
+    },
+    {
+      "fp": "f06m9r",
+      "i": 194,
+      "from": 46361,
+      "subject": "school",
+      "entities": [],
+      "concept": "school",
+      "place": "classroom",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "school, classroom"
+      },
+      "antidote": {
+        "concept": "school",
+        "set": "classroom",
+        "cast": []
+      },
+      "_said": "Jake's own displaced empathy for a student who is suffering just like he is. Precisely. From a logical standpoint, stopping"
+    },
+    {
+      "fp": "1rei2ff",
+      "i": 195,
+      "from": 46569,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "stopping at a Dairy Queen in a blizzard for cold lemonade makes zero sense. It is pure dream logic. But psychologically, it makes perfect sense."
+    },
+    {
+      "fp": "1v48i63",
+      "i": 196,
+      "from": 46802,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "sense. It's a stalling tactic. It is a delay tactic. It is the final way point before"
+    },
+    {
+      "fp": "1hsbkkj",
+      "i": 197,
+      "from": 46934,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "before the inevitable Joke's mind is trying to soothe itself with a cold drink, an innocent memory, a mundane"
+    },
+    {
+      "fp": "18qa8qb",
+      "i": 198,
+      "from": 47157,
+      "subject": "school",
+      "entities": [],
+      "concept": "school",
+      "place": "classroom",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "school, classroom"
+      },
+      "antidote": {
+        "concept": "school",
+        "set": "classroom",
+        "cast": []
+      },
+      "_said": "mundane interaction before confronting the agonizing reality of the high school. The ego is breaking down, and this is its last gasp of self soothing before the end. Which brings u"
+    },
+    {
+      "fp": "4fd8z5",
+      "i": 199,
+      "from": 47541,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "title's double meaning landing at the absolute last possible second. The devastating payoff"
+    },
+    {
+      "fp": "1qmb4jm",
+      "i": 200,
+      "from": 47693,
+      "subject": "school",
+      "entities": [],
+      "concept": "school",
+      "place": "classroom",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "school, classroom"
+      },
+      "antidote": {
+        "concept": "school",
+        "set": "classroom",
+        "cast": []
+      },
+      "_said": "of the entire Imagine the girlfriend wandering the dark, empty halls of the high school. It's pitch black. The lock has been chained on the front door. She's trapped. She wanders i"
+    },
+    {
+      "fp": "1fk3c5i",
+      "i": 201,
+      "from": 48031,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Jake's wet clothes balled up in the shower. The visual is so stark. It is. And then"
+    },
+    {
+      "fp": "igah07",
+      "i": 202,
+      "from": 48192,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "then the physical evidence of what has actually happened in the real world. The blood, the fistfuls of hair scattered on the floor, the wet shoes, the internal voice"
+    },
+    {
+      "fp": "10vlt6h",
+      "i": 203,
+      "from": 48463,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "voice of the narrator definitively shifts here from I to we. It's the ultimate collapse. It's"
+    },
+    {
+      "fp": "mel4wj",
+      "i": 204,
+      "from": 48631,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "It's a terrifying final realization. Jake's shoes in the locker room. He took them off. He put"
+    },
+    {
+      "fp": "1yenlb",
+      "i": 205,
+      "from": 48816,
+      "subject": "Jake",
+      "entities": [
+        "jake"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Jake, reads as"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "jake"
+        ]
+      },
+      "_said": "put on the rubber boots. It was him all along. It was Jake, the man, because he is Jake. We are. For over 200 pages, the phrase, \"I'm thinking of ending things,\" reads as a"
+    },
+    {
+      "fp": "puxu61",
+      "i": 206,
+      "from": 49135,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "a young woman contemplating breaking up with her boyfriend. It operates as"
+    },
+    {
+      "fp": "15td0a",
+      "i": 207,
+      "from": 49255,
+      "subject": "Reed — heart",
+      "entities": [
+        "reed"
+      ],
+      "concept": "heart",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Reed"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": null,
+        "cast": [
+          "reed"
+        ]
+      },
+      "_said": "as a relationship drama wrapped in a thriller aesthetic. Then Reed pulls the entire floor out from under you. It never meant breaking up."
+    },
+    {
+      "fp": "eia8jy",
+      "i": 208,
+      "from": 49528,
+      "subject": "Jake — heart",
+      "entities": [
+        "jake"
+      ],
+      "concept": "heart",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Jake"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": null,
+        "cast": [
+          "jake"
+        ]
+      },
+      "_said": "up. It meant Jake ending his life. The entire novel was a single extended thought, the very last one. The hor like the absolute gut punch of this realization is that you the listen"
+    },
+    {
+      "fp": "cl8iur",
+      "i": 209,
+      "from": 49958,
+      "subject": "grave",
+      "entities": [],
+      "concept": "grave",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "grave, leave him when in reality you were listening"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": null,
+        "cast": []
+      },
+      "_said": "judging his weird parents. You were wondering if she should leave him when in reality you were listening to a man talk himself into dying. You were inside a mind"
+    },
+    {
+      "fp": "ujf3w2",
+      "i": 210,
+      "from": 50155,
+      "subject": "heart",
+      "entities": [],
+      "concept": "heart",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "heart, reading a romance gone wrong"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": null,
+        "cast": []
+      },
+      "_said": "mind that was actively shutting down and you thought you were reading a romance gone wrong. It is"
+    },
+    {
+      "fp": "442dhp",
+      "i": 211,
+      "from": 50270,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "is a masterful subversion. Yeah. But it is exactly here that we must address the counterpoint, the honest criticism that readers and literary critics often lob at this book because"
+    },
+    {
+      "fp": "1nqlgpq",
+      "i": 212,
+      "from": 50623,
+      "subject": "Reed",
+      "entities": [
+        "reed"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Reed, hold your hand"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "reed"
+        ]
+      },
+      "_said": "because Ian Reed commits to radical ambiguity right up to the final punctuation mark. He really does not hold your hand. No, he doesn't. We never get"
+    },
+    {
+      "fp": "11w5mpx",
+      "i": 213,
+      "from": 50885,
+      "subject": "law",
+      "entities": [],
+      "concept": "law",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "law"
+      },
+      "antidote": {
+        "concept": "law",
+        "set": null,
+        "cast": []
+      },
+      "_said": "get a clinical police report explanation of exactly how the suicide happens. Is"
+    },
+    {
+      "fp": "15srhgn",
+      "i": 214,
+      "from": 51012,
+      "subject": "home",
+      "entities": [],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "home"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": []
+      },
+      "_said": "Is it toxic varnish hanging? Is it something else involving the rubber boots in the custodian's closet? Right. We never get confirmation on whether the girlfriend ever existed at a"
+    },
+    {
+      "fp": "1ymafzt",
+      "i": 215,
+      "from": 51379,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "fabricated from a single glance in a pub. This blurring of identities, as a refusal to provide a neat ending, deeply frustrates some readers. They"
+    },
+    {
+      "fp": "13ew8rc",
+      "i": 216,
+      "from": 51609,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "They want the binary explanation, the clear x-ray of the plot that you mentioned at the start of our deep dive. Right. I've seen reviews where people are legitimately furious, like"
+    },
+    {
+      "fp": "3asw0v",
+      "i": 217,
+      "from": 51907,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "\"Does this radical ambiguity make the horror more disturbing, or does it let the book dodge the emotional weight of what it's actually depicting?\" It's a tough question. Like,"
+    },
+    {
+      "fp": "dw25lr",
+      "i": 218,
+      "from": 52135,
+      "subject": "Reed",
+      "entities": [
+        "reed"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Reed"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "reed"
+        ]
+      },
+      "_said": "Like, does Reed use surrealism and dream logic to avoid dealing with the messy, grounded,"
+    },
+    {
+      "fp": "ioxdfw",
+      "i": 219,
+      "from": 52288,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "grounded, devastating reality of a suicide? Is it a copout? It's a highly valid push back. When you tackle a subject as heavy as suicide, readers want a sense of resolution or mora"
+    },
+    {
+      "fp": "1kebbze",
+      "i": 220,
+      "from": 52696,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "is the emotional weight. How so? The confusion the reader feels, the frustration of not knowing what is real and"
+    },
+    {
+      "fp": "1eq01mz",
+      "i": 221,
+      "from": 52867,
+      "subject": "Reed — grave",
+      "entities": [
+        "reed"
+      ],
+      "concept": "grave",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Reed"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": null,
+        "cast": [
+          "reed"
+        ]
+      },
+      "_said": "and what is hallucination perfectly mimics the dissolution of a dying mind. Reed strips away the neat, tidy, often sanitized narratives we usually"
+    },
+    {
+      "fp": "1cr677r",
+      "i": 222,
+      "from": 53116,
+      "subject": "medical",
+      "entities": [],
+      "concept": "medical",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "medical"
+      },
+      "antidote": {
+        "concept": "medical",
+        "set": null,
+        "cast": []
+      },
+      "_said": "usually get around mental health and depression in popular media. He replaces it with a messy, fragmented, terrifying reality of"
+    },
+    {
+      "fp": "v8t3sp",
+      "i": 223,
+      "from": 53335,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "of a consciousness collapsing in on itself. It puts you right in that headsp space. Exactly."
+    },
+    {
+      "fp": "1pqyxk4",
+      "i": 224,
+      "from": 53465,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "When the narrator says in those final pages, \"We're mad at these limits and needs, human limits and fragility.\" You can't be only alone. That is the core truth bleeding through the"
+    },
+    {
+      "fp": "1pvex2x",
+      "i": 225,
+      "from": 53748,
+      "subject": "Jake",
+      "entities": [
+        "jake"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Jake"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "jake"
+        ]
+      },
+      "_said": "ambiguity. Jake couldn't survive being only alone. The ambiguity forces the reader to sit in"
+    },
+    {
+      "fp": "1nvv8i4",
+      "i": 226,
+      "from": 53894,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "in that profound unresolvable loneliness with him. It's not a puzzle"
+    },
+    {
+      "fp": "4xby9h",
+      "i": 227,
+      "from": 54007,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "puzzle to be cleanly solved. It's an experience to be endured. You feel the claustrophobia of his loneliness. You feel the panic of his final moments. Which brings us to the final "
+    },
+    {
+      "fp": "1gqlax1",
+      "i": 228,
+      "from": 54365,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "the reframing thought that changes everything about how you view this story. If we connect everything"
+    },
+    {
+      "fp": "1u93n9h",
+      "i": 229,
+      "from": 54554,
+      "subject": "car",
+      "entities": [],
+      "concept": "car",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "car"
+      },
+      "antidote": {
+        "concept": "car",
+        "set": null,
+        "cast": []
+      },
+      "_said": "everything we've discussed today, the trivia team in the pub, the suffocating car ride, the hallucinations of the aging parents, the terrifying phone calls from his own survival in"
+    },
+    {
+      "fp": "1shbdk7",
+      "i": 230,
+      "from": 54885,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "arrive at a profoundly tragic realization"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "instinct, the invisible janitor sweeping the hall, we arrive at a profoundly tragic realization. Yeah, this was never a horror novel about what"
+    },
+    {
+      "fp": "dkfmw3",
+      "i": 231,
+      "from": 55121,
+      "subject": "Jake — road",
+      "entities": [
+        "jake"
+      ],
+      "concept": "road",
+      "place": "highway",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Jake, highway"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": "highway",
+        "cast": [
+          "jake"
+        ]
+      },
+      "_said": "what is happening to a young woman on a road It's a horror novel about what is happening to Jake. And the most terrifying"
+    },
+    {
+      "fp": "1kzq799",
+      "i": 232,
+      "from": 55279,
+      "subject": "Reed",
+      "entities": [
+        "reed"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Reed"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "reed"
+        ]
+      },
+      "_said": "terrifying thing Ian Reed does is make you spend the entire book looking at the wrong person, which is exactly what everyone in Jake's real life did, too. That is the ultimate trag"
+    },
+    {
+      "fp": "lrnuf2",
+      "i": 233,
+      "from": 55598,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "leaving us alone in the dark with only"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "past the invisible janitor suffering in the background, desperately trying to figure out the pretty girl in the passenger seat. We all looked at the wrong person right up until the"
+    },
+    {
+      "fp": "1nwuz7f",
+      "i": 234,
+      "from": 55936,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "only a single question left to"
+    }
+  ]
+}

@@ -1,0 +1,239 @@
+{
+  "slug": "the-color-purple",
+  "world": {
+    "era": "19th century or earlier",
+    "approxYear": 1800,
+    "setting": "",
+    "register": "",
+    "forbid": [
+      "phone",
+      "codeWindow",
+      "laptopMockup",
+      "rocketLaunch",
+      "funnelMetrics",
+      "dollarExchange",
+      "subway",
+      "car",
+      "alarmClock",
+      "medical"
+    ]
+  },
+  "cast": {
+    "celie": {
+      "name": "Celie",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 19
+    },
+    "walker": {
+      "name": "Walker",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 12
+    },
+    "shug": {
+      "name": "Shug",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 6
+    },
+    "albert": {
+      "name": "Albert",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 4
+    },
+    "squeak": {
+      "name": "Squeak",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 4
+    },
+    "nettie": {
+      "name": "Nettie",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 3
+    },
+    "netti": {
+      "name": "Netti",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 2
+    }
+  },
+  "places": {
+    "forest": {
+      "set": "forest",
+      "look": "",
+      "mentions": 1
+    },
+    "kitchen": {
+      "set": "kitchen",
+      "look": "",
+      "mentions": 1
+    }
+  },
+  "objects": [
+    {
+      "concept": "notes",
+      "mentions": 27,
+      "why": ""
+    },
+    {
+      "concept": "heart",
+      "mentions": 17,
+      "why": ""
+    },
+    {
+      "concept": "chains",
+      "mentions": 10,
+      "why": ""
+    },
+    {
+      "concept": "home",
+      "mentions": 10,
+      "why": ""
+    },
+    {
+      "concept": "phone",
+      "mentions": 9,
+      "why": ""
+    },
+    {
+      "concept": "family",
+      "mentions": 9,
+      "why": ""
+    },
+    {
+      "concept": "road",
+      "mentions": 9,
+      "why": ""
+    },
+    {
+      "concept": "funnelMetrics",
+      "mentions": 6,
+      "why": ""
+    },
+    {
+      "concept": "grave",
+      "mentions": 6,
+      "why": ""
+    },
+    {
+      "concept": "lightbulb",
+      "mentions": 6,
+      "why": ""
+    },
+    {
+      "concept": "gift",
+      "mentions": 5,
+      "why": ""
+    },
+    {
+      "concept": "trophy",
+      "mentions": 5,
+      "why": ""
+    }
+  ],
+  "spine": [
+    {
+      "act": "A Change of Address",
+      "fromFrame": 0,
+      "claim": ""
+    },
+    {
+      "act": "The Gag Order That Backfires",
+      "fromFrame": 5400,
+      "claim": ""
+    },
+    {
+      "act": "The Letters as Testimony",
+      "fromFrame": 9600,
+      "claim": ""
+    },
+    {
+      "act": "A God Who Looks Like the Oppressor",
+      "fromFrame": 13500,
+      "claim": ""
+    },
+    {
+      "act": "Nettie in Africa & the Blonde Jesus",
+      "fromFrame": 18000,
+      "claim": ""
+    },
+    {
+      "act": "Not Atheism — the Old God Must Die",
+      "fromFrame": 21000,
+      "claim": ""
+    },
+    {
+      "act": "The Stolen Letters",
+      "fromFrame": 23400,
+      "claim": ""
+    },
+    {
+      "act": "Why Albert Hid Them",
+      "fromFrame": 27000,
+      "claim": ""
+    },
+    {
+      "act": "Sofia's Hell No",
+      "fromFrame": 31500,
+      "claim": ""
+    },
+    {
+      "act": "The Price of Defiance",
+      "fromFrame": 36000,
+      "claim": ""
+    },
+    {
+      "act": "The Color Purple in the Field",
+      "fromFrame": 39600,
+      "claim": ""
+    },
+    {
+      "act": "\"I'm Here\": The Great Refusal",
+      "fromFrame": 47700,
+      "claim": ""
+    },
+    {
+      "act": "Miss Celie's Folkspants",
+      "fromFrame": 54000,
+      "claim": ""
+    },
+    {
+      "act": "The Telegram",
+      "fromFrame": 60600,
+      "claim": ""
+    },
+    {
+      "act": "Albert on the Porch",
+      "fromFrame": 66600,
+      "claim": ""
+    },
+    {
+      "act": "Dear Everything — Nettie Returns",
+      "fromFrame": 72000,
+      "claim": ""
+    },
+    {
+      "act": "Is the Ending Too Neat?",
+      "fromFrame": 73800,
+      "claim": ""
+    },
+    {
+      "act": "What Address Are You Writing To?",
+      "fromFrame": 76500,
+      "claim": ""
+    }
+  ],
+  "authored": false
+}

@@ -253,7 +253,8 @@
           "enter": "pop",
           "at": 90
         }
-      ]
+      ],
+      "_subject": "Siddhartha"
     },
     {
       "id": "scene-01",
@@ -468,7 +469,7 @@
       ],
       "props": [
         {
-          "type": "orbit",
+          "type": "target",
           "scale": 1,
           "enter": "pop",
           "color": "#DC2626",
@@ -486,7 +487,8 @@
           "enter": "pop",
           "at": 207
         }
-      ]
+      ],
+      "_subject": "Siddhartha — target"
     },
     {
       "id": "scene-04",
@@ -1126,7 +1128,8 @@
           "color2": "#1C1917"
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "Siddhartha — photo"
     },
     {
       "id": "scene-12",
@@ -1208,7 +1211,8 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "family"
     },
     {
       "id": "scene-13",
@@ -1272,7 +1276,15 @@
           "lookAt": "viewer"
         }
       ],
-      "props": [],
+      "props": [
+        {
+          "type": "shadowSelf",
+          "scale": 1,
+          "enter": "pop",
+          "arc": "none",
+          "at": 12
+        }
+      ],
       "texts": [
         {
           "text": "LOYAL BEST FRIEND",
@@ -1282,7 +1294,8 @@
           "enter": "pop",
           "at": 150
         }
-      ]
+      ],
+      "_subject": "Govinda — shadowSelf"
     },
     {
       "id": "scene-14",
@@ -1369,7 +1382,8 @@
           "enter": "pop",
           "at": 205
         }
-      ]
+      ],
+      "_subject": "Siddhartha and Govinda — road"
     },
     {
       "id": "scene-15",
@@ -1437,7 +1451,7 @@
       ],
       "props": [
         {
-          "type": "maze",
+          "type": "tree",
           "scale": 1,
           "enter": "pop",
           "color": "#DC2626",
@@ -1455,7 +1469,8 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "tree"
     },
     {
       "id": "scene-16",
@@ -1701,7 +1716,8 @@
           "color2": "#1C1917"
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "water"
     },
     {
       "id": "scene-19",
@@ -1842,7 +1858,7 @@
       ],
       "props": [
         {
-          "type": "orbit",
+          "type": "road",
           "scale": 1,
           "enter": "pop",
           "color": "#DC2626",
@@ -1869,7 +1885,8 @@
           "enter": "pop",
           "at": 68
         }
-      ]
+      ],
+      "_subject": "road"
     },
     {
       "id": "scene-21",
@@ -2042,7 +2059,8 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "Siddhartha"
     },
     {
       "id": "scene-23",
@@ -2202,7 +2220,8 @@
           "color2": "#1C1917"
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "Govinda — family"
     },
     {
       "id": "scene-25",
@@ -2275,7 +2294,7 @@
       ],
       "props": [
         {
-          "type": "spotlight",
+          "type": "family",
           "scale": 1,
           "enter": "pop",
           "color": "#DC2626",
@@ -2284,7 +2303,8 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "family"
     },
     {
       "id": "scene-26",
@@ -2368,7 +2388,8 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "water"
     },
     {
       "id": "scene-27",
@@ -2698,7 +2719,8 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "Siddhartha"
     },
     {
       "id": "scene-31",
@@ -2851,7 +2873,8 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "family"
     },
     {
       "id": "scene-33",
@@ -3167,7 +3190,8 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "Siddhartha"
     },
     {
       "id": "scene-37",
@@ -3955,7 +3979,8 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "Siddhartha"
     },
     {
       "id": "scene-47",
@@ -4038,7 +4063,8 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "family"
     },
     {
       "id": "scene-48",
@@ -4123,7 +4149,8 @@
           "enter": "pop",
           "at": 161
         }
-      ]
+      ],
+      "_subject": "Siddhartha — family"
     },
     {
       "id": "scene-49",
@@ -4344,7 +4371,8 @@
           "color2": "#1C1917"
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "Siddhartha — family"
     },
     {
       "id": "scene-52",
@@ -4427,7 +4455,8 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "Siddhartha — family"
     },
     {
       "id": "scene-53",
@@ -4596,7 +4625,8 @@
           "color2": "#1C1917"
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "Siddhartha — family"
     },
     {
       "id": "scene-55",
@@ -4664,7 +4694,7 @@
       ],
       "props": [
         {
-          "type": "maze",
+          "type": "family",
           "scale": 1,
           "enter": "pop",
           "color": "#DC2626",
@@ -4682,7 +4712,8 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "Siddhartha — family"
     },
     {
       "id": "scene-56",
@@ -4768,7 +4799,7 @@
           "at": 12
         },
         {
-          "type": "spotlight",
+          "type": "family",
           "scale": 0.6,
           "enter": "fade",
           "color": "#DC2626",
@@ -4786,7 +4817,8 @@
           "enter": "pop",
           "at": 22
         }
-      ]
+      ],
+      "_subject": "Siddhartha — family"
     },
     {
       "id": "scene-57",
@@ -5021,7 +5053,15 @@
           "lookAt": "callout"
         }
       ],
-      "props": [],
+      "props": [
+        {
+          "type": "target",
+          "scale": 1,
+          "enter": "pop",
+          "arc": "none",
+          "at": 12
+        }
+      ],
       "texts": [
         {
           "text": "FOCUS HIS MIND",
@@ -5031,7 +5071,8 @@
           "enter": "pop",
           "at": 59
         }
-      ]
+      ],
+      "_subject": "Siddhartha — target"
     },
     {
       "id": "scene-60",
@@ -5213,7 +5254,8 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "road"
     },
     {
       "id": "scene-62",
@@ -5292,7 +5334,8 @@
           "color2": "#1C1917"
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "Govinda — tree"
     },
     {
       "id": "scene-63",
@@ -5530,7 +5573,8 @@
           "enter": "pop",
           "at": 239
         }
-      ]
+      ],
+      "_subject": "Siddhartha — fire"
     },
     {
       "id": "scene-66",
@@ -5856,7 +5900,8 @@
           "color2": "#1C1917"
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "Siddhartha"
     },
     {
       "id": "scene-70",
@@ -5928,7 +5973,15 @@
           "lookAt": "partner"
         }
       ],
-      "props": [],
+      "props": [
+        {
+          "type": "road",
+          "scale": 1,
+          "enter": "pop",
+          "arc": "none",
+          "at": 12
+        }
+      ],
       "texts": [
         {
           "text": "FEELS HIS BODY",
@@ -5938,7 +5991,8 @@
           "enter": "pop",
           "at": 209
         }
-      ]
+      ],
+      "_subject": "road"
     },
     {
       "id": "scene-71",
@@ -6203,7 +6257,8 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "Siddhartha"
     },
     {
       "id": "scene-74",
@@ -6466,7 +6521,8 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "Siddhartha"
     },
     {
       "id": "scene-77",
@@ -6540,7 +6596,8 @@
           "color2": "#1C1917"
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "tree"
     },
     {
       "id": "scene-78",
@@ -6619,7 +6676,7 @@
           "at": 12
         },
         {
-          "type": "spotlight",
+          "type": "storm",
           "scale": 0.6,
           "enter": "fade",
           "color": "#DC2626",
@@ -6628,7 +6685,8 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "Siddhartha and Govinda — storm"
     },
     {
       "id": "scene-79",
@@ -6779,7 +6837,8 @@
           "enter": "pop",
           "at": 102
         }
-      ]
+      ],
+      "_subject": "Govinda"
     },
     {
       "id": "scene-81",
@@ -6865,7 +6924,8 @@
           "enter": "pop",
           "at": 260
         }
-      ]
+      ],
+      "_subject": "Siddhartha"
     },
     {
       "id": "scene-82",
@@ -7122,7 +7182,8 @@
           "color2": "#1C1917"
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "Siddhartha — trophy"
     },
     {
       "id": "scene-85",
@@ -7389,7 +7450,8 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "Siddhartha"
     },
     {
       "id": "scene-88",
@@ -7556,7 +7618,8 @@
           "enter": "pop",
           "at": 15
         }
-      ]
+      ],
+      "_subject": "road"
     },
     {
       "id": "scene-90",
@@ -7620,7 +7683,8 @@
           "at": 0
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "Siddhartha and Govinda"
     },
     {
       "id": "scene-91",
@@ -7790,7 +7854,8 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "Siddhartha and Govinda"
     },
     {
       "id": "scene-93",
@@ -7945,7 +8010,8 @@
           "color2": "#1C1917"
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "road"
     },
     {
       "id": "scene-95",
@@ -8175,7 +8241,8 @@
           "at": 0
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "Govinda"
     },
     {
       "id": "scene-98",
@@ -8330,7 +8397,8 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "Siddhartha"
     },
     {
       "id": "scene-100",
@@ -8570,7 +8638,8 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "Siddhartha — butterfly"
     },
     {
       "id": "scene-103",
@@ -8667,7 +8736,8 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "Siddhartha"
     },
     {
       "id": "scene-104",
@@ -8825,7 +8895,8 @@
           "enter": "pop",
           "at": 174
         }
-      ]
+      ],
+      "_subject": "Siddhartha"
     },
     {
       "id": "scene-106",
@@ -9231,7 +9302,8 @@
           "enter": "pop",
           "at": 60
         }
-      ]
+      ],
+      "_subject": "Siddhartha — game"
     },
     {
       "id": "scene-111",
@@ -9401,7 +9473,8 @@
           "color2": "#1C1917"
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "tree"
     },
     {
       "id": "scene-113",
@@ -9803,7 +9876,8 @@
           "color2": "#1C1917"
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "Siddhartha"
     },
     {
       "id": "scene-118",
@@ -10044,7 +10118,8 @@
           "enter": "pop",
           "at": 200
         }
-      ]
+      ],
+      "_subject": "water"
     },
     {
       "id": "scene-121",
@@ -10191,7 +10266,15 @@
           "lookAt": "callout"
         }
       ],
-      "props": [],
+      "props": [
+        {
+          "type": "tree",
+          "scale": 1,
+          "enter": "pop",
+          "arc": "none",
+          "at": 12
+        }
+      ],
       "texts": [
         {
           "text": "WORDS INTO RULES",
@@ -10201,7 +10284,8 @@
           "enter": "pop",
           "at": 136
         }
-      ]
+      ],
+      "_subject": "tree"
     },
     {
       "id": "scene-123",
@@ -10278,7 +10362,8 @@
           "color2": "#1C1917"
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "Siddhartha — road"
     },
     {
       "id": "scene-124",
@@ -10606,7 +10691,8 @@
           "enter": "pop",
           "at": 35
         }
-      ]
+      ],
+      "_subject": "Govinda — tree"
     },
     {
       "id": "scene-128",
@@ -10870,7 +10956,8 @@
           "enter": "pop",
           "at": 224
         }
-      ]
+      ],
+      "_subject": "Siddhartha — school"
     },
     {
       "id": "scene-131",
@@ -10943,7 +11030,8 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "water"
     },
     {
       "id": "scene-132",
@@ -11020,7 +11108,8 @@
           "color2": "#1C1917"
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "Siddhartha — city"
     },
     {
       "id": "scene-133",
@@ -11181,7 +11270,7 @@
       ],
       "props": [
         {
-          "type": "spotlight",
+          "type": "tree",
           "scale": 1,
           "enter": "pop",
           "color": "#DC2626",
@@ -11190,7 +11279,8 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "tree"
     },
     {
       "id": "scene-135",
@@ -11360,7 +11450,8 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "water"
     },
     {
       "id": "scene-137",
@@ -11445,7 +11536,8 @@
           "enter": "pop",
           "at": 135
         }
-      ]
+      ],
+      "_subject": "Siddhartha and Kamala"
     },
     {
       "id": "scene-138",
@@ -11748,7 +11840,8 @@
           "color2": "#1C1917"
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "tree"
     },
     {
       "id": "scene-142",
@@ -11813,7 +11906,7 @@
       ],
       "props": [
         {
-          "type": "orbit",
+          "type": "crash",
           "scale": 1,
           "enter": "pop",
           "color": "#DC2626",
@@ -11822,7 +11915,8 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "Siddhartha and Kamala — crash"
     },
     {
       "id": "scene-143",
@@ -12035,7 +12129,8 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "Kamala"
     },
     {
       "id": "scene-146",
@@ -12466,7 +12561,8 @@
           "at": 0
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "Siddhartha"
     },
     {
       "id": "scene-152",
@@ -12543,7 +12639,8 @@
           "color2": "#1C1917"
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "Siddhartha and Kamala and Kamaswami — city"
     },
     {
       "id": "scene-153",
@@ -12638,7 +12735,8 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "Siddhartha"
     },
     {
       "id": "scene-154",
@@ -12789,7 +12887,8 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "Kamaswami"
     },
     {
       "id": "scene-156",
@@ -12866,7 +12965,8 @@
           "color2": "#1C1917"
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "Kamaswami — game"
     },
     {
       "id": "scene-157",
@@ -13034,7 +13134,8 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "Siddhartha and Kamaswami"
     },
     {
       "id": "scene-159",
@@ -13108,7 +13209,8 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "Siddhartha and Kamaswami"
     },
     {
       "id": "scene-160",
@@ -13194,7 +13296,8 @@
           "enter": "pop",
           "at": 205
         }
-      ]
+      ],
+      "_subject": "Siddhartha — heart"
     },
     {
       "id": "scene-161",
@@ -13280,7 +13383,8 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "Siddhartha"
     },
     {
       "id": "scene-162",
@@ -13438,7 +13542,8 @@
           "color2": "#1C1917"
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "Kamala — notes"
     },
     {
       "id": "scene-164",
@@ -13499,7 +13604,7 @@
       ],
       "props": [
         {
-          "type": "ripple",
+          "type": "gift",
           "scale": 1,
           "enter": "pop",
           "color": "#DC2626",
@@ -13508,7 +13613,8 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "Kamala — gift"
     },
     {
       "id": "scene-165",
@@ -13680,7 +13786,8 @@
           "enter": "pop",
           "at": 173
         }
-      ]
+      ],
+      "_subject": "Siddhartha — coin"
     },
     {
       "id": "scene-167",
@@ -14325,7 +14432,7 @@
       ],
       "props": [
         {
-          "type": "maze",
+          "type": "food",
           "scale": 1,
           "enter": "pop",
           "color": "#DC2626",
@@ -14352,7 +14459,8 @@
           "enter": "pop",
           "at": 181
         }
-      ]
+      ],
+      "_subject": "Siddhartha — food"
     },
     {
       "id": "scene-175",
@@ -14673,7 +14781,8 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "Siddhartha"
     },
     {
       "id": "scene-179",
@@ -15137,7 +15246,8 @@
           "enter": "pop",
           "at": 142
         }
-      ]
+      ],
+      "_subject": "Siddhartha — coin"
     },
     {
       "id": "scene-185",
@@ -15398,7 +15508,8 @@
           "enter": "pop",
           "at": 13
         }
-      ]
+      ],
+      "_subject": "family"
     },
     {
       "id": "scene-188",
@@ -15472,7 +15583,8 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "Kamala"
     },
     {
       "id": "scene-189",
@@ -15637,7 +15749,8 @@
           "color2": "#1C1917"
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "tree"
     },
     {
       "id": "scene-191",
@@ -15709,7 +15822,15 @@
           "lookAt": "partner"
         }
       ],
-      "props": [],
+      "props": [
+        {
+          "type": "home",
+          "scale": 1,
+          "enter": "pop",
+          "arc": "none",
+          "at": 12
+        }
+      ],
       "texts": [
         {
           "text": "GOLDEN CAGE",
@@ -15719,7 +15840,8 @@
           "enter": "pop",
           "at": 195
         }
-      ]
+      ],
+      "_subject": "Kamala — home"
     },
     {
       "id": "scene-192",
@@ -15802,7 +15924,8 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "Siddhartha — chains"
     },
     {
       "id": "scene-193",
@@ -16207,7 +16330,8 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "tree"
     },
     {
       "id": "scene-198",
@@ -16280,7 +16404,8 @@
           "color2": "#1C1917"
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "Kamala — water"
     },
     {
       "id": "scene-199",
@@ -16363,7 +16488,8 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "water"
     },
     {
       "id": "scene-200",
@@ -16430,7 +16556,7 @@
       ],
       "props": [
         {
-          "type": "maze",
+          "type": "water",
           "scale": 1,
           "enter": "pop",
           "color": "#DC2626",
@@ -16439,7 +16565,8 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "water"
     },
     {
       "id": "scene-201",
@@ -16534,7 +16661,8 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "Siddhartha"
     },
     {
       "id": "scene-202",
@@ -16936,7 +17064,8 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "Siddhartha"
     },
     {
       "id": "scene-207",
@@ -17196,7 +17325,7 @@
           "rgb(240,163,163)",
           "rgb(248,244,237)"
         ],
-        "set": "none",
+        "set": "shore",
         "texture": "grain",
         "accent": "#1C1917",
         "act": "turn",
@@ -17251,7 +17380,7 @@
       ],
       "props": [
         {
-          "type": "maze",
+          "type": "water",
           "scale": 1,
           "enter": "pop",
           "color": "#DC2626",
@@ -17260,7 +17389,8 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "water"
     },
     {
       "id": "scene-211",
@@ -17589,7 +17719,7 @@
       ],
       "props": [
         {
-          "type": "maze",
+          "type": "water",
           "scale": 1,
           "enter": "pop",
           "color": "#DC2626",
@@ -17607,7 +17737,8 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "water"
     },
     {
       "id": "scene-215",
@@ -17764,7 +17895,8 @@
           "color2": "#1C1917"
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "road"
     },
     {
       "id": "scene-217",
@@ -17919,7 +18051,15 @@
           "lookAt": "partner"
         }
       ],
-      "props": [],
+      "props": [
+        {
+          "type": "water",
+          "scale": 1,
+          "enter": "pop",
+          "arc": "none",
+          "at": 12
+        }
+      ],
       "texts": [
         {
           "text": "RIVER YEARS",
@@ -17929,7 +18069,8 @@
           "enter": "pop",
           "at": 106
         }
-      ]
+      ],
+      "_subject": "Vasudeva — water"
     },
     {
       "id": "scene-219",
@@ -18011,7 +18152,8 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "Siddhartha and Vasudeva"
     },
     {
       "id": "scene-220",
@@ -18084,7 +18226,8 @@
           "color2": "#1C1917"
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "water"
     },
     {
       "id": "scene-221",
@@ -18158,7 +18301,8 @@
           "enter": "pop",
           "at": 147
         }
-      ]
+      ],
+      "_subject": "Siddhartha and Kamala"
     },
     {
       "id": "scene-222",
@@ -18243,7 +18387,7 @@
           "at": 12
         },
         {
-          "type": "spotlight",
+          "type": "tree",
           "scale": 0.6,
           "enter": "fade",
           "color": "#DC2626",
@@ -18252,7 +18396,8 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "tree"
     },
     {
       "id": "scene-223",
@@ -18345,7 +18490,8 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "Siddhartha and Vasudeva — water"
     },
     {
       "id": "scene-224",
@@ -18420,7 +18566,15 @@
           "lookAt": "partner"
         }
       ],
-      "props": [],
+      "props": [
+        {
+          "type": "water",
+          "scale": 1,
+          "enter": "pop",
+          "arc": "none",
+          "at": 12
+        }
+      ],
       "texts": [
         {
           "text": "LEARNS TO WORK",
@@ -18430,7 +18584,8 @@
           "enter": "pop",
           "at": 135
         }
-      ]
+      ],
+      "_subject": "Siddhartha — water"
     },
     {
       "id": "scene-225",
@@ -18505,7 +18660,15 @@
           "lookAt": "partner"
         }
       ],
-      "props": [],
+      "props": [
+        {
+          "type": "water",
+          "scale": 1,
+          "enter": "pop",
+          "arc": "none",
+          "at": 12
+        }
+      ],
       "texts": [
         {
           "text": "LEARN THAT SECRET",
@@ -18515,7 +18678,8 @@
           "enter": "pop",
           "at": 133
         }
-      ]
+      ],
+      "_subject": "Vasudeva — water"
     },
     {
       "id": "scene-226",
@@ -18583,7 +18747,7 @@
       ],
       "props": [
         {
-          "type": "shape",
+          "type": "water",
           "scale": 1,
           "enter": "pop",
           "color": "#DC2626",
@@ -18601,7 +18765,8 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "Siddhartha — water"
     },
     {
       "id": "scene-227",
@@ -18664,7 +18829,15 @@
           "lookAt": "callout"
         }
       ],
-      "props": [],
+      "props": [
+        {
+          "type": "water",
+          "scale": 1,
+          "enter": "pop",
+          "arc": "none",
+          "at": 12
+        }
+      ],
       "texts": [
         {
           "text": "EXACT SAME TIME",
@@ -18674,7 +18847,8 @@
           "enter": "pop",
           "at": 167
         }
-      ]
+      ],
+      "_subject": "water"
     },
     {
       "id": "scene-228",
@@ -18751,7 +18925,8 @@
           "color2": "#1C1917"
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "water"
     },
     {
       "id": "scene-229",
@@ -18852,7 +19027,7 @@
           "rgb(239,154,154)",
           "rgb(248,244,237)"
         ],
-        "set": "none",
+        "set": "shore",
         "texture": "grain",
         "accent": "#1C1917",
         "act": "turn",
@@ -18909,7 +19084,8 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "water"
     },
     {
       "id": "scene-231",
@@ -18980,7 +19156,15 @@
           "lookAt": "partner"
         }
       ],
-      "props": [],
+      "props": [
+        {
+          "type": "water",
+          "scale": 1,
+          "enter": "pop",
+          "arc": "none",
+          "at": 12
+        }
+      ],
       "texts": [
         {
           "text": "OWN LIFE",
@@ -18990,7 +19174,8 @@
           "enter": "pop",
           "at": 44
         }
-      ]
+      ],
+      "_subject": "Siddhartha — water"
     },
     {
       "id": "scene-232",
@@ -19063,7 +19248,8 @@
           "color2": "#1C1917"
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "Siddhartha — tree"
     },
     {
       "id": "scene-233",
@@ -19146,7 +19332,7 @@
           "at": 12
         },
         {
-          "type": "spotlight",
+          "type": "water",
           "scale": 0.6,
           "enter": "fade",
           "color": "#DC2626",
@@ -19155,7 +19341,8 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "Siddhartha — water"
     },
     {
       "id": "scene-234",
@@ -19640,7 +19827,8 @@
           "enter": "pop",
           "at": 75
         }
-      ]
+      ],
+      "_subject": "water"
     },
     {
       "id": "scene-240",
@@ -19726,7 +19914,7 @@
           "at": 12
         },
         {
-          "type": "spotlight",
+          "type": "water",
           "scale": 0.6,
           "enter": "fade",
           "color": "#DC2626",
@@ -19735,7 +19923,8 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "Siddhartha — water"
     },
     {
       "id": "scene-241",
@@ -19907,7 +20096,8 @@
           "color2": "#1C1917"
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "road"
     },
     {
       "id": "scene-243",
@@ -19980,7 +20170,8 @@
           "enter": "pop",
           "at": 94
         }
-      ]
+      ],
+      "_subject": "Kamala — coin"
     },
     {
       "id": "scene-244",
@@ -20065,7 +20256,8 @@
           "enter": "pop",
           "at": 12
         }
-      ]
+      ],
+      "_subject": "Kamala — family"
     },
     {
       "id": "scene-245",
@@ -20148,7 +20340,8 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "Siddhartha"
     },
     {
       "id": "scene-246",
@@ -20247,7 +20440,7 @@
           "rgb(239,196,147)",
           "rgb(247,242,233)"
         ],
-        "set": "none",
+        "set": "forest",
         "texture": "dots",
         "accent": "#1C1917",
         "act": "resolution",
@@ -20298,7 +20491,15 @@
           "lookAt": "partner"
         }
       ],
-      "props": [],
+      "props": [
+        {
+          "type": "tree",
+          "scale": 1,
+          "enter": "pop",
+          "arc": "none",
+          "at": 12
+        }
+      ],
       "texts": [
         {
           "text": "NOT AN EASY KID",
@@ -20308,7 +20509,8 @@
           "enter": "pop",
           "at": 166
         }
-      ]
+      ],
+      "_subject": "Siddhartha — tree"
     },
     {
       "id": "scene-248",
@@ -20376,7 +20578,7 @@
       ],
       "props": [
         {
-          "type": "maze",
+          "type": "family",
           "scale": 0.6,
           "enter": "fade",
           "color": "#DC2626",
@@ -20394,7 +20596,8 @@
           "enter": "pop",
           "at": 140
         }
-      ]
+      ],
+      "_subject": "family"
     },
     {
       "id": "scene-249",
@@ -20554,7 +20757,8 @@
           "color2": "#1C1917"
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "Siddhartha — food"
     },
     {
       "id": "scene-251",
@@ -20800,7 +21004,8 @@
           "enter": "pop",
           "at": 159
         }
-      ]
+      ],
+      "_subject": "Siddhartha and Vasudeva"
     },
     {
       "id": "scene-254",
@@ -21153,7 +21358,8 @@
           "enter": "pop",
           "at": 0
         }
-      ]
+      ],
+      "_subject": "Siddhartha — coin"
     },
     {
       "id": "scene-258",
@@ -21230,7 +21436,8 @@
           "color2": "#1C1917"
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "family"
     },
     {
       "id": "scene-259",
@@ -21371,7 +21578,7 @@
       ],
       "props": [
         {
-          "type": "maze",
+          "type": "family",
           "scale": 1,
           "enter": "pop",
           "color": "#DC2626",
@@ -21380,7 +21587,8 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "Siddhartha and Vasudeva — family"
     },
     {
       "id": "scene-261",
@@ -21454,7 +21662,15 @@
           "lookAt": "partner"
         }
       ],
-      "props": [],
+      "props": [
+        {
+          "type": "family",
+          "scale": 1,
+          "enter": "pop",
+          "arc": "none",
+          "at": 12
+        }
+      ],
       "texts": [
         {
           "text": "BREAK",
@@ -21464,7 +21680,8 @@
           "enter": "pop",
           "at": 157
         }
-      ]
+      ],
+      "_subject": "family"
     },
     {
       "id": "scene-262",
@@ -21524,7 +21741,7 @@
       ],
       "props": [
         {
-          "type": "spotlight",
+          "type": "family",
           "scale": 1,
           "enter": "pop",
           "color": "#DC2626",
@@ -21533,7 +21750,8 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "family"
     },
     {
       "id": "scene-263",
@@ -21608,7 +21826,8 @@
           "color2": "#1C1917"
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "road"
     },
     {
       "id": "scene-264",
@@ -21766,7 +21985,8 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "Siddhartha — road"
     },
     {
       "id": "scene-266",
@@ -21835,7 +22055,8 @@
           "color2": "#1C1917"
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "water"
     },
     {
       "id": "scene-267",
@@ -21860,7 +22081,7 @@
           "rgb(238,193,141)",
           "rgb(247,242,233)"
         ],
-        "set": "none",
+        "set": "forest",
         "texture": "grain",
         "accent": "#1C1917",
         "act": "resolution",
@@ -21914,7 +22135,7 @@
       ],
       "props": [
         {
-          "type": "maze",
+          "type": "tree",
           "scale": 1,
           "enter": "pop",
           "color": "#DC2626",
@@ -21932,7 +22153,8 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "Siddhartha — tree"
     },
     {
       "id": "scene-268",
@@ -22089,7 +22311,8 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "Vasudeva — water"
     },
     {
       "id": "scene-270",
@@ -22164,7 +22387,15 @@
           "lookAt": "partner"
         }
       ],
-      "props": [],
+      "props": [
+        {
+          "type": "water",
+          "scale": 1,
+          "enter": "pop",
+          "arc": "none",
+          "at": 12
+        }
+      ],
       "texts": [
         {
           "text": "OWN FACE",
@@ -22174,7 +22405,8 @@
           "enter": "pop",
           "at": 212
         }
-      ]
+      ],
+      "_subject": "Siddhartha — water"
     },
     {
       "id": "scene-271",
@@ -22251,7 +22483,8 @@
           "color2": "#1C1917"
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "family"
     },
     {
       "id": "scene-272",
@@ -22325,7 +22558,7 @@
       ],
       "props": [
         {
-          "type": "spotlight",
+          "type": "family",
           "scale": 1,
           "enter": "pop",
           "color": "#DC2626",
@@ -22334,7 +22567,8 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "family"
     },
     {
       "id": "scene-273",
@@ -22403,7 +22637,7 @@
       ],
       "props": [
         {
-          "type": "maze",
+          "type": "water",
           "scale": 0.6,
           "enter": "fade",
           "color": "#DC2626",
@@ -22421,7 +22655,8 @@
           "enter": "pop",
           "at": 97
         }
-      ]
+      ],
+      "_subject": "Vasudeva — water"
     },
     {
       "id": "scene-274",
@@ -22570,7 +22805,8 @@
           "color2": "#1C1917"
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "Siddhartha — water"
     },
     {
       "id": "scene-276",
@@ -22810,7 +23046,8 @@
           "enter": "pop",
           "at": 30
         }
-      ]
+      ],
+      "_subject": "family"
     },
     {
       "id": "scene-279",
@@ -22873,7 +23110,8 @@
           "at": 0
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "water"
     },
     {
       "id": "scene-280",
@@ -23056,7 +23294,8 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "Siddhartha and Vasudeva"
     },
     {
       "id": "scene-282",
@@ -23129,7 +23368,15 @@
           "lookAt": "partner"
         }
       ],
-      "props": [],
+      "props": [
+        {
+          "type": "water",
+          "scale": 1,
+          "enter": "pop",
+          "arc": "none",
+          "at": 12
+        }
+      ],
       "texts": [
         {
           "text": "KNOWS HIS JOB",
@@ -23139,7 +23386,8 @@
           "enter": "pop",
           "at": 133
         }
-      ]
+      ],
+      "_subject": "water"
     },
     {
       "id": "scene-283",
@@ -23218,7 +23466,8 @@
           "color2": "#1C1917"
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "tree"
     },
     {
       "id": "scene-284",
@@ -23283,7 +23532,8 @@
           "at": 0
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "Siddhartha and Govinda"
     },
     {
       "id": "scene-285",
@@ -23387,7 +23637,8 @@
           "enter": "pop",
           "at": 270
         }
-      ]
+      ],
+      "_subject": "Siddhartha and Govinda"
     },
     {
       "id": "scene-286",
@@ -23480,7 +23731,8 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "Siddhartha"
     },
     {
       "id": "scene-287",
@@ -23564,7 +23816,8 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "Govinda"
     },
     {
       "id": "scene-288",
@@ -24104,7 +24357,8 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "Siddhartha"
     },
     {
       "id": "scene-295",
@@ -24270,7 +24524,8 @@
           "color2": "#1C1917"
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "Govinda — water"
     },
     {
       "id": "scene-297",
@@ -24345,7 +24600,7 @@
       ],
       "props": [
         {
-          "type": "maze",
+          "type": "heart",
           "scale": 1,
           "enter": "pop",
           "color": "#DC2626",
@@ -24363,7 +24618,8 @@
           "enter": "pop",
           "at": 80
         }
-      ]
+      ],
+      "_subject": "Siddhartha — heart"
     },
     {
       "id": "scene-298",
@@ -24465,7 +24721,8 @@
           "enter": "pop",
           "at": 23
         }
-      ]
+      ],
+      "_subject": "Govinda"
     },
     {
       "id": "scene-299",
@@ -24550,7 +24807,8 @@
           "enter": "pop",
           "at": 72
         }
-      ]
+      ],
+      "_subject": "Siddhartha — heart"
     },
     {
       "id": "scene-300",
@@ -24617,7 +24875,7 @@
       ],
       "props": [
         {
-          "type": "orbit",
+          "type": "road",
           "scale": 1,
           "enter": "pop",
           "color": "#DC2626",
@@ -24635,7 +24893,8 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "Siddhartha — road"
     },
     {
       "id": "scene-301",
@@ -24700,7 +24959,15 @@
           "lookAt": "heldProp"
         }
       ],
-      "props": [],
+      "props": [
+        {
+          "type": "school",
+          "scale": 1,
+          "enter": "pop",
+          "arc": "none",
+          "at": 12
+        }
+      ],
       "texts": [
         {
           "text": "LIVED HUMAN LIFE",
@@ -24710,7 +24977,8 @@
           "enter": "pop",
           "at": 238
         }
-      ]
+      ],
+      "_subject": "school"
     },
     {
       "id": "scene-302",
@@ -24786,7 +25054,8 @@
           "color2": "#1C1917"
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "Govinda"
     },
     {
       "id": "scene-303",
@@ -24879,7 +25148,8 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "Govinda"
     },
     {
       "id": "scene-304",
@@ -24958,7 +25228,7 @@
       ],
       "props": [
         {
-          "type": "maze",
+          "type": "heart",
           "scale": 0.6,
           "enter": "fade",
           "color": "#DC2626",
@@ -24976,7 +25246,8 @@
           "enter": "pop",
           "at": 0
         }
-      ]
+      ],
+      "_subject": "Siddhartha and Govinda — heart"
     },
     {
       "id": "scene-305",
@@ -25058,7 +25329,8 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "Govinda"
     },
     {
       "id": "scene-306",
@@ -25144,7 +25416,8 @@
           "color2": "#1C1917"
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "Govinda — water"
     },
     {
       "id": "scene-307",
@@ -25389,7 +25662,8 @@
           "color2": "#1C1917"
         }
       ],
-      "texts": []
+      "texts": [],
+      "_subject": "Govinda — mask"
     },
     {
       "id": "scene-310",

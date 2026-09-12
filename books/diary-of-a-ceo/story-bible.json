@@ -1,0 +1,145 @@
+{
+  "slug": "diary-of-a-ceo",
+  "world": {
+    "era": "1980–1985",
+    "approxYear": 1985,
+    "setting": "",
+    "register": "",
+    "forbid": []
+  },
+  "cast": {
+    "bartlett": {
+      "name": "Bartlett",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 6
+    },
+    "reagan": {
+      "name": "Reagan",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 2
+    },
+    "discomfort": {
+      "name": "Discomfort",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 2
+    }
+  },
+  "places": {
+    "cafe": {
+      "set": "cafe",
+      "look": "",
+      "mentions": 2
+    },
+    "highway": {
+      "set": "highway",
+      "look": "",
+      "mentions": 1
+    },
+    "street": {
+      "set": "street",
+      "look": "",
+      "mentions": 1
+    },
+    "hospital": {
+      "set": "hospital",
+      "look": "",
+      "mentions": 1
+    }
+  },
+  "objects": [
+    {
+      "concept": "coin",
+      "mentions": 14,
+      "why": ""
+    },
+    {
+      "concept": "road",
+      "mentions": 10,
+      "why": ""
+    },
+    {
+      "concept": "lightbulb",
+      "mentions": 10,
+      "why": ""
+    },
+    {
+      "concept": "dominoCascade",
+      "mentions": 8,
+      "why": ""
+    },
+    {
+      "concept": "shield",
+      "mentions": 8,
+      "why": ""
+    },
+    {
+      "concept": "phone",
+      "mentions": 7,
+      "why": ""
+    },
+    {
+      "concept": "wallet",
+      "mentions": 7,
+      "why": ""
+    },
+    {
+      "concept": "work",
+      "mentions": 6,
+      "why": ""
+    },
+    {
+      "concept": "trophy",
+      "mentions": 5,
+      "why": ""
+    },
+    {
+      "concept": "alarmClock",
+      "mentions": 5,
+      "why": ""
+    },
+    {
+      "concept": "dollarExchange",
+      "mentions": 5,
+      "why": ""
+    },
+    {
+      "concept": "game",
+      "mentions": 5,
+      "why": ""
+    }
+  ],
+  "spine": [
+    {
+      "act": "setup",
+      "fromFrame": 25,
+      "claim": ""
+    },
+    {
+      "act": "development",
+      "fromFrame": 12886,
+      "claim": ""
+    },
+    {
+      "act": "turn",
+      "fromFrame": 28037,
+      "claim": ""
+    },
+    {
+      "act": "consequence",
+      "fromFrame": 40664,
+      "claim": ""
+    },
+    {
+      "act": "close",
+      "fromFrame": 51764,
+      "claim": ""
+    }
+  ],
+  "authored": false
+}

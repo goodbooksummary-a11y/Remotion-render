@@ -1,0 +1,5623 @@
+{
+  "slug": "the-odyssey",
+  "authored": false,
+  "briefs": [
+    {
+      "fp": "td01s6",
+      "i": 0,
+      "from": 0,
+      "subject": "Odysius and Achilles — war",
+      "entities": [
+        "odysius",
+        "achilles"
+      ],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Odysius and Achilles, 1995"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": [
+          "odysius",
+          "achilles"
+        ]
+      },
+      "_said": "In the Iliad, Achilles famously chooses to die young for eternal glory on the battlefield. But uh when Odysius visits the underworld in the Odyssey,"
+    },
+    {
+      "fp": "17hrcdd",
+      "i": 1,
+      "from": 276,
+      "subject": "Achilles",
+      "entities": [
+        "achilles"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Achilles, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "achilles"
+        ]
+      },
+      "_said": "Odyssey, Achilles ghost looks him dead in the eye and says something that just it completely shatters the entire myth of the ancient Right. It really does. He says, \"I'd rather sla"
+    },
+    {
+      "fp": "1vfs8ov",
+      "i": 2,
+      "from": 650,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "dirt poor tenant farmer who scrapes to keep alive, than rule down here over all the breathless It"
+    },
+    {
+      "fp": "158ikxq",
+      "i": 3,
+      "from": 825,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "It is a profoundly shocking moment. Yeah. You you are absolutely right to start there because that single line just tears down everything we assume"
+    },
+    {
+      "fp": "18zj920",
+      "i": 4,
+      "from": 1075,
+      "subject": "Achilles — sword",
+      "entities": [
+        "achilles"
+      ],
+      "concept": "sword",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Achilles, 1995"
+      },
+      "antidote": {
+        "concept": "sword",
+        "cast": [
+          "achilles"
+        ]
+      },
+      "_said": "assume about ancient Greek heroes. Yeah, completely. I mean this is Achilles, the greatest warrior to ever live. The absolute pinnacle of martial virtue. The guy who"
+    },
+    {
+      "fp": "q7xii1",
+      "i": 5,
+      "from": 1303,
+      "subject": "Odysius — codeWindow",
+      "entities": [
+        "odysius"
+      ],
+      "concept": "codeWindow",
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Odysius, 1995"
+      },
+      "antidote": {
+        "concept": "codeWindow",
+        "set": null,
+        "cast": [
+          "odysius"
+        ]
+      },
+      "_said": "who consciously deliberately traded a long peaceful life for immortal fame. Exactly. That was his whole brand. Right. And here he is in the sequel basically telling Odysius that th"
+    },
+    {
+      "fp": "1ox8517",
+      "i": 6,
+      "from": 1692,
+      "subject": "target",
+      "entities": [],
+      "concept": "target",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "target, 1995"
+      },
+      "antidote": {
+        "concept": "target",
+        "cast": []
+      },
+      "_said": "blood soaked suicide mission that defined his existence was a total scam. It's"
+    },
+    {
+      "fp": "ld05fw",
+      "i": 7,
+      "from": 1821,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, 1995"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "It's a complete repudiation of the brute force and battlefield glory we're usually taught to idolize. Okay, so let's unpack this because this completely flips how most of us experi"
+    },
+    {
+      "fp": "1oqsjvb",
+      "i": 8,
+      "from": 2165,
+      "subject": "school",
+      "entities": [],
+      "concept": "school",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "school, 1995"
+      },
+      "antidote": {
+        "concept": "school",
+        "set": null,
+        "cast": []
+      },
+      "_said": "a high school English class just trying to memorize the names of Oh, for sure. Today we are doing a deep dive into"
+    },
+    {
+      "fp": "1cvcg80",
+      "i": 9,
+      "from": 2347,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "into Robert Fagel's acclaimed translation of Homer's The Odyssey. And uh we're leaning heavily on the brilliant introductory analysis by"
+    },
+    {
+      "fp": "1mnek6m",
+      "i": 10,
+      "from": 2611,
+      "subject": "target",
+      "entities": [],
+      "concept": "target",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "target, read this epic not as, 1995"
+      },
+      "antidote": {
+        "concept": "target",
+        "cast": []
+      },
+      "_said": "by the classical scholar Bernard Knox. And our mission for this deep dive is to change the way you look at this book. Yeah. We are going to read this epic not as"
+    },
+    {
+      "fp": "1j5hh03",
+      "i": 11,
+      "from": 2892,
+      "subject": "lightbulb",
+      "entities": [],
+      "concept": "lightbulb",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "lightbulb, 1995"
+      },
+      "antidote": {
+        "concept": "lightbulb",
+        "cast": []
+      },
+      "_said": "as some dusty ancient monster fairy tale, but as the revolutionary invention"
+    },
+    {
+      "fp": "2zzlmj",
+      "i": 12,
+      "from": 3033,
+      "subject": "lightbulb",
+      "entities": [],
+      "concept": "lightbulb",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "lightbulb, 1995"
+      },
+      "antidote": {
+        "concept": "lightbulb",
+        "cast": []
+      },
+      "_said": "invention of human psychological endurance. Exactly. If you look closely at Knox's analysis, he points out that the entire poem is structured around this"
+    },
+    {
+      "fp": "1fknotf",
+      "i": 13,
+      "from": 3254,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone, 1995"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": null,
+        "cast": []
+      },
+      "_said": "this massive underlying tension between two Greek concepts. On one side, you have what the Greeks called B B, right? Yeah. B. That translates to brute force, violence, raw"
+    },
+    {
+      "fp": "1tzj0gi",
+      "i": 14,
+      "from": 3568,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "raw physical power. It's the energy of the Iliad. And on the other side, you have met. Metis"
+    },
+    {
+      "fp": "1nr3kew",
+      "i": 15,
+      "from": 3715,
+      "subject": "Odysius",
+      "entities": [
+        "odysius"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Odysius, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "odysius"
+        ]
+      },
+      "_said": "Metis means cunning intellect. It's craftiness, the ability to twist and turn, to adapt to your environment, and to basically outthink your opponent. And when this story begins, yo"
+    },
+    {
+      "fp": "1etzgw3",
+      "i": 16,
+      "from": 4041,
+      "subject": "road",
+      "entities": [],
+      "concept": "road",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "road, 1995"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": null,
+        "cast": []
+      },
+      "_said": "for 20 years, 10 years fighting at Troy and 10 years wandering just trying to get back, And while he's trapped on"
+    },
+    {
+      "fp": "r0pzk2",
+      "i": 17,
+      "from": 4219,
+      "subject": "home",
+      "entities": [],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "home, read that there, 1995"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": []
+      },
+      "_said": "on this remote island, his home is being actively invaded, but it's not being invaded by an army. I read that there"
+    },
+    {
+      "fp": "1ykcdcg",
+      "i": 18,
+      "from": 4421,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "are 108 predatory, arrogant, aristocratic suitors essentially occupying his estate in Ithaca. Yeah. 108 grown men. They are eating his livestock, drinking"
+    },
+    {
+      "fp": "yzaomb",
+      "i": 19,
+      "from": 4730,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "drinking his wine, and demanding that his wife Penelope marry one of them. It's incredibly dangerous,"
+    },
+    {
+      "fp": "1t5q5d3",
+      "i": 20,
+      "from": 4891,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "dangerous, volatile situation. And it perfectly sets up the central thesis that we're going to explore today."
+    },
+    {
+      "fp": "1mzrlna",
+      "i": 21,
+      "from": 5059,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "today. The Odyssey fundamentally argues that true heroism is not conquering foreign"
+    },
+    {
+      "fp": "hsp0k5",
+      "i": 22,
+      "from": 5181,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "foreign lands through True heroism is mastering Every single monster,"
+    },
+    {
+      "fp": "1okz35q",
+      "i": 23,
+      "from": 5354,
+      "subject": "Odysius — storm",
+      "entities": [
+        "odysius"
+      ],
+      "concept": "storm",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Odysius, 1995"
+      },
+      "antidote": {
+        "concept": "storm",
+        "set": null,
+        "cast": [
+          "odysius"
+        ]
+      },
+      "_said": "monster, every storm, every obstacle Odysius faces is an embodiment of unchecked appetite or raw explosive force. So"
+    },
+    {
+      "fp": "1gtmk0e",
+      "i": 24,
+      "from": 5561,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "So his survival hinges entirely on his ability to suppress his massive ego, to conceal his identity, and to delay gratification. Yeah. It all comes back to"
+    },
+    {
+      "fp": "1e2g56w",
+      "i": 25,
+      "from": 5829,
+      "subject": "road",
+      "entities": [],
+      "concept": "road",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "road, 1995"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": null,
+        "cast": []
+      },
+      "_said": "to this one central idea. And I want you listening to this to keep this in the back of your mind as we go through his journey. True power isn't brute force. It's"
+    },
+    {
+      "fp": "8iymuf",
+      "i": 26,
+      "from": 6081,
+      "subject": "water",
+      "entities": [],
+      "concept": "water",
+      "place": "shore",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "water, shore, 1995"
+      },
+      "antidote": {
+        "concept": "water",
+        "set": "shore",
+        "cast": []
+      },
+      "_said": "It's weaponized Weaponized restraint. It's just the perfect lens for this epic. So to start, we don't actually begin with our famous hero at sea fighting a sea monster. We start at"
+    },
+    {
+      "fp": "s0qemu",
+      "i": 27,
+      "from": 6487,
+      "subject": "home",
+      "entities": [],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "home, 1995"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": []
+      },
+      "_said": "Because to understand the journey, you have to understand what is at stake if he actually makes it back. So, imagine you've been away from your house for"
+    },
+    {
+      "fp": "32q970",
+      "i": 28,
+      "from": 6727,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "for 20 years. And uh let's drop right into the courtyard of Odysius's"
+    },
+    {
+      "fp": "1snm60o",
+      "i": 29,
+      "from": 6864,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Odysius's palace in Ithaca. Yeah. Just listen to the sheer noise of this place. You have these brazen suitors, 108 of"
+    },
+    {
+      "fp": "fwxwcq",
+      "i": 30,
+      "from": 7044,
+      "subject": "home",
+      "entities": [],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "home, 1995"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": []
+      },
+      "_said": "of them, lounging around, skinning goats and singing pigs over roaring fires right in the front yard. They are treating a king's home like"
+    },
+    {
+      "fp": "1653lhx",
+      "i": 31,
+      "from": 7252,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "like a rockus unlimited tavern. And Antinus, who is the absolute worst of them, this incredibly arrogant ring leader, he sees the young prince Tmicus."
+    },
+    {
+      "fp": "7cg9yb",
+      "i": 32,
+      "from": 7509,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone, 1995"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": null,
+        "cast": []
+      },
+      "_said": "Tmicus. And Tinus mockingly saunters up to him, grasps his hand, puts on this false warm smile, and calls him high and mighty, fierce young friend. Oh, it's sickening. He is litera"
+    },
+    {
+      "fp": "1pcz5qr",
+      "i": 33,
+      "from": 7838,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "holding his hand, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "out of his inheritance while holding his hand. It makes your skin crawl when you read it. And what's crucial to understand here is the historical and cultural context of what they'"
+    },
+    {
+      "fp": "1kxxv5l",
+      "i": 34,
+      "from": 8184,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "In the Bronze Age Greek worldview,"
+    },
+    {
+      "fp": "14080r0",
+      "i": 35,
+      "from": 8241,
+      "subject": "home",
+      "entities": [],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "home, 1995"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": []
+      },
+      "_said": "worldview, the biggest threat in life isn't a mythical beast. It's the corruption of your own home. It's the breakdown of family order and specifically the violation of what"
+    },
+    {
+      "fp": "1ox855p",
+      "i": 36,
+      "from": 8536,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone, 1995"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": null,
+        "cast": []
+      },
+      "_said": "what the Greeks called Zenia. Let's break that down for the listener. Zenia is essentially the ancient code of hospitality, right? Yeah. It's hospitality, but it's much heavier tha"
+    },
+    {
+      "fp": "l4lvfg",
+      "i": 37,
+      "from": 8887,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "strict moral obligation imposed on civilized mankind"
+    },
+    {
+      "fp": "12813eq",
+      "i": 38,
+      "from": 9007,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "mankind by Zeus himself. Zeus was actually known by the title Zeus senius, the protector of strangers and guests. You know, in"
+    },
+    {
+      "fp": "1f4lc8q",
+      "i": 39,
+      "from": 9247,
+      "subject": "shield",
+      "entities": [],
+      "concept": "shield",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "shield, 1995"
+      },
+      "antidote": {
+        "concept": "shield",
+        "cast": []
+      },
+      "_said": "in a world without hotels or safe highways, you relied entirely on the kindness of strangers to survive So the rule is like if a stranger comes to your door, you take them in, you "
+    },
+    {
+      "fp": "10uo03w",
+      "i": 40,
+      "from": 9667,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "suitors are a grotesque inversion of this sacred law. They are uninvited guests who are abusing a reluctant host. They're basically"
+    },
+    {
+      "fp": "qq4ehu",
+      "i": 41,
+      "from": 9893,
+      "subject": "home",
+      "entities": [],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "home, 1995"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": []
+      },
+      "_said": "a domestic cancer eating the estate from the inside out. And the only way the house is surviving this cancer"
+    },
+    {
+      "fp": "1wkr6z2",
+      "i": 42,
+      "from": 10065,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, 1995"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "cancer is through Penelopey's Metis, her cunning. She doesn't have an army to kick them out. She"
+    },
+    {
+      "fp": "73k9pp",
+      "i": 43,
+      "from": 10214,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, 1995"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "She can't fight 108 armed men with by, you know, brute No, not at all. So, she uses her mind. She tells the seeders she will finally pick a husband just as soon as she finishes wea"
+    },
+    {
+      "fp": "k2hgyw",
+      "i": 44,
+      "from": 10598,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, 1995"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": []
+      },
+      "_said": "Odysius's elderly father, Leertes. Right, the famous loom trick. She sets up this massive loom in the royal halls. By day, she weaves"
+    },
+    {
+      "fp": "19de1uo",
+      "i": 45,
+      "from": 10850,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "weaves this gorgeous endless yarn. But by night, by the flickering light of torches,"
+    },
+    {
+      "fp": "19d2fyv",
+      "i": 46,
+      "from": 11004,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "torches, she systematically unravels everything she did that day. And she does this for three entire years. Three years of seducing these men with false hope, keeping them at bay p"
+    },
+    {
+      "fp": "10yn9qb",
+      "i": 47,
+      "from": 11270,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "purely through intellectual discipline. It's brilliant. You know, as you're explaining this, it strikes me as a really weird way to start an action epic, though. How so? Well, from"
+    },
+    {
+      "fp": "1uqzaz4",
+      "i": 48,
+      "from": 11513,
+      "subject": "gift",
+      "entities": [],
+      "concept": "gift",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "gift, 1995"
+      },
+      "antidote": {
+        "concept": "gift",
+        "cast": []
+      },
+      "_said": "from a purely narrative standpoint, we get four whole books, like hundreds of pages of just his teenage kid complaining and Penelopey doing a weaving trick. Why give us four books "
+    },
+    {
+      "fp": "xi22oq",
+      "i": 49,
+      "from": 11894,
+      "subject": "Odysius — war",
+      "entities": [
+        "odysius"
+      ],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Odysius, 1995"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": [
+          "odysius"
+        ]
+      },
+      "_said": "showing us Odysius fighting a cyclops right away? It's a great question and actually for a long time early"
+    },
+    {
+      "fp": "vjglkt",
+      "i": 50,
+      "from": 12055,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone, 1995"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": null,
+        "cast": []
+      },
+      "_said": "early classical scholars thought these first four books which they call the telem were a separate kind of boring poem based on by a later lazier editor. Oh really? Yeah."
+    },
+    {
+      "fp": "sw6iuo",
+      "i": 51,
+      "from": 12386,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Yeah. But Bernard Knox argues brilliantly that it is"
+    },
+    {
+      "fp": "njibjp",
+      "i": 52,
+      "from": 12463,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "is a structural master stroke. Yes. It's a coming of age story for Tmicus but more importantly it forces the audience to feel"
+    },
+    {
+      "fp": "128m26i",
+      "i": 53,
+      "from": 12693,
+      "subject": "Odysius and Homer",
+      "entities": [
+        "odysius",
+        "homer"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Odysius and Homer, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "odysius",
+          "homer"
+        ]
+      },
+      "_said": "feel the brutal suffocating reality awaiting Odysius. So we have to live in it first. Exactly. If Homer just drops Adysius on the beaches of Ithaca in book one, you as the reader d"
+    },
+    {
+      "fp": "og3yks",
+      "i": 54,
+      "from": 13156,
+      "subject": "home",
+      "entities": [],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "home, 1995"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": []
+      },
+      "_said": "that a physical homecoming means absolutely nothing if the home is already conquered from within. Ah, so the suitors"
+    },
+    {
+      "fp": "10l6xhh",
+      "i": 55,
+      "from": 13305,
+      "subject": "food",
+      "entities": [],
+      "concept": "food",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "food, 1995"
+      },
+      "antidote": {
+        "concept": "food",
+        "set": null,
+        "cast": []
+      },
+      "_said": "suitors have zero restraint. They want what they want right now, whether it's food, wine, or the queen."
+    },
+    {
+      "fp": "14yd7k1",
+      "i": 56,
+      "from": 13459,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "queen. But Tmicus and Penelopey have to learn to wait, which just proves the point. True authority isn't about striking out impulsively. It's"
+    },
+    {
+      "fp": "h0nk9s",
+      "i": 57,
+      "from": 13696,
+      "subject": "Odysius — home",
+      "entities": [
+        "odysius"
+      ],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Odysius, 1995"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": [
+          "odysius"
+        ]
+      },
+      "_said": "It's that weaponized restraint we're talking about. Precisely. And to understand how Odysius eventually gets out of this mess at home, we have to rewind the clock. We have to under"
+    },
+    {
+      "fp": "19wbd6x",
+      "i": 58,
+      "from": 13982,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "understand the catastrophic mistake he made years earlier that taught him how to weaponize that restraint in the first place. Which brings us to the cave of Polyphimas, the Cyclops"
+    },
+    {
+      "fp": "11swy1j",
+      "i": 59,
+      "from": 14366,
+      "subject": "magnifier",
+      "entities": [],
+      "concept": "magnifier",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "magnifier, 1995"
+      },
+      "antidote": {
+        "concept": "magnifier",
+        "cast": []
+      },
+      "_said": "his own aristocratic pride. Oh, this scene. The sensory details here are just horrifying. Picture"
+    },
+    {
+      "fp": "179n4j4",
+      "i": 60,
+      "from": 14563,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Picture the claustrophobic terror of this cave. It reeks of raw sheep and dung. And then the absolute nightmare, the crunch of human bones as this giant"
+    },
+    {
+      "fp": "1ubj35g",
+      "i": 61,
+      "from": 14834,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "giant oneeyed monster casually grabs two of Odysius's"
+    },
+    {
+      "fp": "1wrau27",
+      "i": 62,
+      "from": 14918,
+      "subject": "Odysius — alarmClock",
+      "entities": [
+        "odysius"
+      ],
+      "concept": "alarmClock",
+      "place": "bedroom",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Odysius, bedroom, 1995"
+      },
+      "antidote": {
+        "concept": "alarmClock",
+        "set": "bedroom",
+        "cast": [
+          "odysius"
+        ]
+      },
+      "_said": "Odysius's men dashes their brains out on the rocks like puppies and just eats them raw and trails flesh and marrow bones. Yeah. He eventually eats six of the And Odysius knows he c"
+    },
+    {
+      "fp": "15bmdit",
+      "i": 63,
+      "from": 15292,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "behind the massive boulder blocking the door, right? He has to outthank him. So, I read that"
+    },
+    {
+      "fp": "1soycza",
+      "i": 64,
+      "from": 15417,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "that he offers Polyphimas a bowl of wine, but it's a very specific kind of Oh, absolutely. It's a vintage"
+    },
+    {
+      "fp": "emc561",
+      "i": 65,
+      "from": 15626,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "vintage so incredibly potent that normally the Greeks would mix 20 parts water to one part wine. 20 to one? Wow. Yeah. It was essentially a concentrate,"
+    },
+    {
+      "fp": "y1c44",
+      "i": 66,
+      "from": 15885,
+      "subject": "Odysius",
+      "entities": [
+        "odysius"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Odysius, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "odysius"
+        ]
+      },
+      "_said": "concentrate, but Odysius gives it to the monster completely unmixed. Pure high octane which gets a giant who has never drank wine before spectacularly drunk. Right. It's"
+    },
+    {
+      "fp": "sx82h5",
+      "i": 67,
+      "from": 16188,
+      "subject": "lightbulb",
+      "entities": [],
+      "concept": "lightbulb",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "lightbulb, 1995"
+      },
+      "antidote": {
+        "concept": "lightbulb",
+        "cast": []
+      },
+      "_said": "It's a brilliant tactical move. But what happens next is the real genius of the scene. The giant, completely inebriated,"
+    },
+    {
+      "fp": "147xv04",
+      "i": 68,
+      "from": 16404,
+      "subject": "Odysius",
+      "entities": [
+        "odysius"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Odysius, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "odysius"
+        ]
+      },
+      "_said": "inebriated, asks Odysius his name. And survival in this moment requires Odysius"
+    },
+    {
+      "fp": "14urun",
+      "i": 69,
+      "from": 16531,
+      "subject": "Odysius",
+      "entities": [
+        "odysius"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Odysius, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "odysius"
+        ]
+      },
+      "_said": "Odysius to do something incredibly unnatural for a Greek hero. He has to shed his ego entirely. Exactly. He looks at the monster and says, \"My name is nobody.\""
+    },
+    {
+      "fp": "1phyv8s",
+      "i": 70,
+      "from": 16766,
+      "subject": "Homer",
+      "entities": [
+        "homer"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Homer, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "homer"
+        ]
+      },
+      "_said": "nobody.\" In ancient Greek, the word is outus. Nobody. That's my name. Yes. And Homer executes"
+    },
+    {
+      "fp": "uwbd2o",
+      "i": 71,
+      "from": 16898,
+      "subject": "Odysius — fire",
+      "entities": [
+        "odysius"
+      ],
+      "concept": "fire",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Odysius, 1995"
+      },
+      "antidote": {
+        "concept": "fire",
+        "cast": [
+          "odysius"
+        ]
+      },
+      "_said": "executes this incredible linguistic trick here. Later that night, Odysius and his men heat a massive wooden steak in the fire and gouge out the Cyclops's"
+    },
+    {
+      "fp": "1di2zxz",
+      "i": 72,
+      "from": 17141,
+      "subject": "alarmClock",
+      "entities": [],
+      "concept": "alarmClock",
+      "place": "bedroom",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "alarm clock, bedroom, 1995"
+      },
+      "antidote": {
+        "concept": "alarmClock",
+        "set": "bedroom",
+        "cast": []
+      },
+      "_said": "Cyclops's single eye. The giant wakes up screaming in agony, yelling for help from the other cyclops who live in neighboring caves. And they gather outside his boulder and ask, \"Po"
+    },
+    {
+      "fp": "po7hcc",
+      "i": 73,
+      "from": 17488,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "force?\" And Polyphimas yells back, \"Nobody's killing me now by fraud and not by force.\" So"
+    },
+    {
+      "fp": "79gxs2",
+      "i": 74,
+      "from": 17654,
+      "subject": "alarmClock",
+      "entities": [],
+      "concept": "alarmClock",
+      "place": "bedroom",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "alarm clock, walk away, bedroom, 1995"
+      },
+      "antidote": {
+        "concept": "alarmClock",
+        "set": "bedroom",
+        "cast": []
+      },
+      "_said": "So the other giants outside just shrug and say, \"Well, if nobody is hurting you, it must be a plague from Zeus. Go back to sleep.\" And they just walk away. They just walk away. Uh,"
+    },
+    {
+      "fp": "1ghjqm7",
+      "i": 75,
+      "from": 17981,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "who's on first routine. How so? In ancient Greek, the phrase they use for not anyone or nobody is mitus. M E T I S, which sounds exactly the same to the ear is meas."
+    },
+    {
+      "fp": "1tg710e",
+      "i": 76,
+      "from": 18348,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "meas. The Greek word for cunning and craft that we talked about earlier. Oh wow. Yeah. So when the giant is screaming that mitus is hurting him on a metal level, he is literally"
+    },
+    {
+      "fp": "sszj1d",
+      "i": 77,
+      "from": 18578,
+      "subject": "Odysius",
+      "entities": [
+        "odysius"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Odysius, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "odysius"
+        ]
+      },
+      "_said": "literally screaming that sunning is hurting him. That is incredible. Odysius uses his complete lack of identity, his suppression of his own self to blind and defeat the brute force"
+    },
+    {
+      "fp": "xr24ae",
+      "i": 78,
+      "from": 18909,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "so he brilliantly hides his identity. But then comes the second part of the sequence, and it is a"
+    },
+    {
+      "fp": "i10dxd",
+      "i": 79,
+      "from": 19063,
+      "subject": "chains",
+      "entities": [],
+      "concept": "chains",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "chains, 1995"
+      },
+      "antidote": {
+        "concept": "chains",
+        "cast": []
+      },
+      "_said": "a massive catastrophic failure on Adysius's part. It really is. They execute this flawless escape. They sneak out of the cave tied to the underbellies of the giant sheep. They make"
+    },
+    {
+      "fp": "1s70n09",
+      "i": 80,
+      "from": 19425,
+      "subject": "lightbulb",
+      "entities": [],
+      "concept": "lightbulb",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "lightbulb, stand the idea, 1995"
+      },
+      "antidote": {
+        "concept": "lightbulb",
+        "cast": []
+      },
+      "_said": "They are rowing away. They are safe, safe and sound. And as the ship is escaping, Odysius's aristocratic pride just boils over. He cannot stand the idea that"
+    },
+    {
+      "fp": "1deqiff",
+      "i": 81,
+      "from": 19725,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "stands up on the deck, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "that this monster won't know exactly who beat him. No, we can't. So, he stands up on the deck, risks his men's lives, and screams"
+    },
+    {
+      "fp": "apjjn",
+      "i": 82,
+      "from": 19946,
+      "subject": "Odysius — water",
+      "entities": [
+        "odysius"
+      ],
+      "concept": "water",
+      "place": "shore",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Odysius, shore, 1995"
+      },
+      "antidote": {
+        "concept": "water",
+        "set": "shore",
+        "cast": [
+          "odysius"
+        ]
+      },
+      "_said": "screams his real name across the water. Odysius, raider of cities. He gouged out your eye. Li's son who makes"
+    },
+    {
+      "fp": "94p23d",
+      "i": 83,
+      "from": 20165,
+      "subject": "home",
+      "entities": [],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "home, 1995"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": []
+      },
+      "_said": "makes his home in Ithaca. It's so frustrating to read. I have to ask, why is he"
+    },
+    {
+      "fp": "pxgvnz",
+      "i": 84,
+      "from": 20301,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "shouting his name and address like, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "he so incredibly stupid here? I mean, if he's the grandmaster of cunning, why does he ruin it all by shouting his name and address like"
+    },
+    {
+      "fp": "m9jdr4",
+      "i": 85,
+      "from": 20488,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "like a pro wrestler cutting a promo? It's a crucial question because it gets to the heart of the psychology of"
+    },
+    {
+      "fp": "uzbq1u",
+      "i": 86,
+      "from": 20647,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "of the ancient hero, To our modern ears, yes, it is phenomenally stupid from"
+    },
+    {
+      "fp": "1kw0ify",
+      "i": 87,
+      "from": 20798,
+      "subject": "sword",
+      "entities": [],
+      "concept": "sword",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "sword, 1995"
+      },
+      "antidote": {
+        "concept": "sword",
+        "cast": []
+      },
+      "_said": "from a survival standpoint. But you have to understand how deeply addictive the heroic ego is. Tell me about it. In the culture of the Iliad, a warrior's entire worth is based"
+    },
+    {
+      "fp": "12nuunw",
+      "i": 88,
+      "from": 21129,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone, 1995"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": null,
+        "cast": []
+      },
+      "_said": "based on a concept called Cleos, which translates to glory and reputation. The Greeks didn't have a concept of a heavenly afterlife where you were rewarded for being good. The only"
+    },
+    {
+      "fp": "k4wodc",
+      "i": 89,
+      "from": 21427,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "way to achieve immortality was for your name to live on in song. So, if nobody knows you did the great deed, you essentially don't exist. It's"
+    },
+    {
+      "fp": "17yfqc1",
+      "i": 90,
+      "from": 21674,
+      "subject": "sword",
+      "entities": [],
+      "concept": "sword",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "sword, 1995"
+      },
+      "antidote": {
+        "concept": "sword",
+        "cast": []
+      },
+      "_said": "It's a biological imperative for the warrior mind to crave recognition."
+    },
+    {
+      "fp": "19e3kya",
+      "i": 91,
+      "from": 21796,
+      "subject": "Odysius and Homer",
+      "entities": [
+        "odysius",
+        "homer"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Odysius and Homer, shouting his name isn't just a plot device, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "odysius",
+          "homer"
+        ]
+      },
+      "_said": "Odysius shouting his name isn't just a plot device. It's Homer showing us the fatal flaw of the traditional hero. Ah, I see. Learning to let that ego go to truly remain nobody when"
+    },
+    {
+      "fp": "688cf",
+      "i": 92,
+      "from": 22185,
+      "subject": "water",
+      "entities": [],
+      "concept": "water",
+      "place": "shore",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "water, shore, 1995"
+      },
+      "antidote": {
+        "concept": "water",
+        "set": "shore",
+        "cast": []
+      },
+      "_said": "is the actual internal odyssey he has to And that failure costs him everything. Because by giving his actual name, he allows the giant to pray to his father, the sea god Poseidon,"
+    },
+    {
+      "fp": "10mpen4",
+      "i": 93,
+      "from": 22502,
+      "subject": "law",
+      "entities": [],
+      "concept": "law",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "law, 1995"
+      },
+      "antidote": {
+        "concept": "law",
+        "set": null,
+        "cast": []
+      },
+      "_said": "Poseidon, using Odicus's full legal identity. Yep."
+    },
+    {
+      "fp": "1j8ousu",
+      "i": 94,
+      "from": 22588,
+      "subject": "home",
+      "entities": [],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "home, shout of pride guarantees a decade, 1995"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": []
+      },
+      "_said": "Yep. Polyphimas curses him to come home late, a broken man with all shipmates lost and to find a world of pain at home. And Poseidon hears it. That single shout of pride guarantees"
+    },
+    {
+      "fp": "1l23em7",
+      "i": 95,
+      "from": 22888,
+      "subject": "road",
+      "entities": [],
+      "concept": "road",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "road, 1995"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": null,
+        "cast": []
+      },
+      "_said": "decade of torturous wandering. He failed a test of his own ego, proving once again that intellect over impulse is the only way to survive. And because of that curse,"
+    },
+    {
+      "fp": "1rtukt6",
+      "i": 96,
+      "from": 23136,
+      "subject": "road",
+      "entities": [],
+      "concept": "road",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "road, 1995"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": null,
+        "cast": []
+      },
+      "_said": "curse, Poseidon blows them completely off the map. But he doesn't just blow them"
+    },
+    {
+      "fp": "1nthmo9",
+      "i": 97,
+      "from": 23265,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "them into literal storms. He blows them"
+    },
+    {
+      "fp": "1lchwrf",
+      "i": 98,
+      "from": 23333,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "them into psychological traps designed to dissolve the human mind itself. Oh, absolutely. Right. So, he survives the cave because he hides his identity. But what happens when"
+    },
+    {
+      "fp": "83ll01",
+      "i": 99,
+      "from": 23594,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "when the environment itself actively tries to erase that identity? Let's talk about the monsters as allegorories for the surrender of human Let's do"
+    },
+    {
+      "fp": "l08y9g",
+      "i": 100,
+      "from": 23873,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "it. Drop yourself into the coast of the lotus eaters. Sounds so peaceful at first, right? Mellow fruit and flowers. But it's insidious. The men take one taste of this honey sweet f"
+    },
+    {
+      "fp": "3tzbj1",
+      "i": 101,
+      "from": 24235,
+      "subject": "home",
+      "entities": [],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "home, 1995"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": []
+      },
+      "_said": "of their journey home dissolves. They just want to graze on the lotus forever. Think about how terrifying that is. It feels like a modern toxic"
+    },
+    {
+      "fp": "1pmqhii",
+      "i": 102,
+      "from": 24446,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone, 1995"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": null,
+        "cast": []
+      },
+      "_said": "toxic social media algorithm. You know, you open your phone at 11 p.m.,"
+    },
+    {
+      "fp": "1wpzx8s",
+      "i": 103,
+      "from": 24545,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, 1995"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": []
+      },
+      "_said": "p.m., you start scrolling, you get this drip feed of dopamine, and suddenly it's 2 a.m. and you've completely forgotten you have a life, a family, or responsibilities. You're just "
+    },
+    {
+      "fp": "14gh6of",
+      "i": 104,
+      "from": 24876,
+      "subject": "Odysius",
+      "entities": [
+        "odysius"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Odysius, weeping men by the hair, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "odysius"
+        ]
+      },
+      "_said": "Odysius physically has to drag his weeping men by the hair, haul them back to the ships, shove them under"
+    },
+    {
+      "fp": "1s2mbdj",
+      "i": 105,
+      "from": 25058,
+      "subject": "codeWindow",
+      "entities": [],
+      "concept": "codeWindow",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "code window, 1995"
+      },
+      "antidote": {
+        "concept": "codeWindow",
+        "set": null,
+        "cast": []
+      },
+      "_said": "under the rowing benches, and lash them fast with rope to get them out of there. The analogy of the algorithm is spoton. What's fascinating here is that"
+    },
+    {
+      "fp": "1t41qyv",
+      "i": 106,
+      "from": 25279,
+      "subject": "water",
+      "entities": [],
+      "concept": "water",
+      "place": "shore",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "water, shore, 1995"
+      },
+      "antidote": {
+        "concept": "water",
+        "set": "shore",
+        "cast": []
+      },
+      "_said": "that the physical threats of the sealike drowning being eaten by Leviathans are almost secondary to"
+    },
+    {
+      "fp": "jtpcl7",
+      "i": 107,
+      "from": 25464,
+      "subject": "water",
+      "entities": [],
+      "concept": "water",
+      "place": "shore",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "water, shore, 1995"
+      },
+      "antidote": {
+        "concept": "water",
+        "set": "shore",
+        "cast": []
+      },
+      "_said": "to the psychological threats. The sea's real danger in the Odyssey isn't death. It's"
+    },
+    {
+      "fp": "1nek7o6",
+      "i": 108,
+      "from": 25625,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "It's the temptation to forget who you are, what your responsibilities are, and where you Surrendering to the lotus is a form"
+    },
+    {
+      "fp": "1fchtt9",
+      "i": 109,
+      "from": 25836,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "form of spiritual suicide. And we see this repeated with"
+    },
+    {
+      "fp": "1hd0bhj",
+      "i": 110,
+      "from": 25915,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "with the Witcher Cersei. She is a beautiful goddess who literally turns Odysius's men into swine."
+    },
+    {
+      "fp": "c2dqqg",
+      "i": 111,
+      "from": 26095,
+      "subject": "food",
+      "entities": [],
+      "concept": "food",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "food, 1995"
+      },
+      "antidote": {
+        "concept": "food",
+        "set": null,
+        "cast": []
+      },
+      "_said": "swine. But pay attention to how she does it. She doesn't use a magic wand to blast them into pigs. she feeds them a heavy meal and they transform into animals"
+    },
+    {
+      "fp": "13441in",
+      "i": 112,
+      "from": 26333,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "animals that perfectly reflect their inner state. They surrender to their base, gluttonous appetites, and the magic"
+    },
+    {
+      "fp": "1nccidv",
+      "i": 113,
+      "from": 26496,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "magic just externalizes what happens when you lose your self-restraint. And the"
+    },
+    {
+      "fp": "ty4j4s",
+      "i": 114,
+      "from": 26623,
+      "subject": "Odysius",
+      "entities": [
+        "odysius"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Odysius, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "odysius"
+        ]
+      },
+      "_said": "the absolute ultimate version of this temptation happens on Calypso's island. Odysius is trapped there for seven years. It"
+    },
+    {
+      "fp": "mb9fjn",
+      "i": 115,
+      "from": 26851,
+      "subject": "Calypso — home",
+      "entities": [
+        "calypso"
+      ],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Calypso, 1995"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": [
+          "calypso"
+        ]
+      },
+      "_said": "It is ageless luxury, nectar and ambrosia. Yeah, total paradise. And Calypso offers him the ultimate prize immortality. She says, \"Stay here. Preside in this house with me. Be my h"
+    },
+    {
+      "fp": "e609kk",
+      "i": 116,
+      "from": 27285,
+      "subject": "Odysius — water",
+      "entities": [
+        "odysius"
+      ],
+      "concept": "water",
+      "place": "shore",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Odysius, sitting on the rocky shore, shore, 1995"
+      },
+      "antidote": {
+        "concept": "water",
+        "set": "shore",
+        "cast": [
+          "odysius"
+        ]
+      },
+      "_said": "how do we find Odysius? He spends his days sitting on the rocky shore, staring out at the barren sea, just weeping for his home. now, wait. I have to play devil's advocate here bec"
+    },
+    {
+      "fp": "v7gx3o",
+      "i": 117,
+      "from": 27638,
+      "subject": "trophy",
+      "entities": [],
+      "concept": "trophy",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "trophy, 1995"
+      },
+      "antidote": {
+        "concept": "trophy",
+        "cast": []
+      },
+      "_said": "prize in Greek mythology. Heracles literally burned himself alive on a py in agony just"
+    },
+    {
+      "fp": "27mlfr",
+      "i": 118,
+      "from": 27828,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "just to achieve immortality and join the gods. That's true. Why on earth would any mortal man turn down living forever as a god with a beautiful nymph in paradise? It sounds It is "
+    },
+    {
+      "fp": "lpifo3",
+      "i": 119,
+      "from": 28200,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "unique in Greek literature. But if we connect this to"
+    },
+    {
+      "fp": "1gxjgic",
+      "i": 120,
+      "from": 28284,
+      "subject": "Homer — photo",
+      "entities": [
+        "homer"
+      ],
+      "concept": "photo",
+      "place": "bedroom",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Homer, bedroom, 1995"
+      },
+      "antidote": {
+        "concept": "photo",
+        "set": "bedroom",
+        "cast": [
+          "homer"
+        ]
+      },
+      "_said": "to the bigger picture of what Homer is saying about the human condition, you start to see the trap. Okay, what's the trap?"
+    },
+    {
+      "fp": "a72ogh",
+      "i": 121,
+      "from": 28449,
+      "subject": "Calypso — family",
+      "entities": [
+        "calypso"
+      ],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Calypso, 1995"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": [
+          "calypso"
+        ]
+      },
+      "_said": "trap? To accept immortality from Calypso is to become her kept pet. It means permanently erasing his identity as a husband to Penelopey, a father to Tmicus, and a king to Ithaca. H"
+    },
+    {
+      "fp": "m5o4r5",
+      "i": 122,
+      "from": 28874,
+      "subject": "Calypso",
+      "entities": [
+        "calypso"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Calypso, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "calypso"
+        ]
+      },
+      "_said": "fact, the name Calypso comes from the ancient Greek word calipto, which means to cover or to conceal. She is literally hiding him from the world,"
+    },
+    {
+      "fp": "tuk9ex",
+      "i": 123,
+      "from": 29116,
+      "subject": "Odysius",
+      "entities": [
+        "odysius"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Odysius, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "odysius"
+        ]
+      },
+      "_said": "world, burying his legacy. By turning her down, Odysius is actively"
+    },
+    {
+      "fp": "1yjqh8n",
+      "i": 124,
+      "from": 29265,
+      "subject": "grave",
+      "entities": [],
+      "concept": "grave",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "grave, 1995"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": null,
+        "cast": []
+      },
+      "_said": "actively choosing human suffering, the pain of aging, and eventual death over divine numbness. He is choosing to be human. So by denying"
+    },
+    {
+      "fp": "jex2ys",
+      "i": 125,
+      "from": 29520,
+      "subject": "chains",
+      "entities": [],
+      "concept": "chains",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "chains, 1995"
+      },
+      "antidote": {
+        "concept": "chains",
+        "cast": []
+      },
+      "_said": "denying the ultimate pleasure, the ultimate escape from reality, he proves that his power is his restraint. He restrains the urge to become a god so he can remain a man. Precisely."
+    },
+    {
+      "fp": "1mmzytp",
+      "i": 126,
+      "from": 29817,
+      "subject": "Odysius",
+      "entities": [
+        "odysius"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Odysius, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "odysius"
+        ]
+      },
+      "_said": "And having rejected false immortality, Odysius is then forced to confront the actual grim reality of what happens when the heroic life ends. He"
+    },
+    {
+      "fp": "1x20w3t",
+      "i": 127,
+      "from": 30053,
+      "subject": "road",
+      "entities": [],
+      "concept": "road",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "road, 1995"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": null,
+        "cast": []
+      },
+      "_said": "has to journey to the land of the dead. The Nekia, the underworld journey. This is where the story completely shatters"
+    },
+    {
+      "fp": "1xtmk0j",
+      "i": 128,
+      "from": 30233,
+      "subject": "magnifier",
+      "entities": [],
+      "concept": "magnifier",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "magnifier, 1995"
+      },
+      "antidote": {
+        "concept": "magnifier",
+        "cast": []
+      },
+      "_said": "shatters the heroic mythology of the past. Oh, completely. The sensory details here are just terrifying. You know, you picture the afterlife in some mythologies as"
+    },
+    {
+      "fp": "2hhht1",
+      "i": 129,
+      "from": 30480,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "as this glorious Valhalla or heavenly kingdom, but here we are on dank,"
+    },
+    {
+      "fp": "1nqjis1",
+      "i": 130,
+      "from": 30655,
+      "subject": "Homer — water",
+      "entities": [
+        "homer"
+      ],
+      "concept": "water",
+      "place": "shore",
+      "confidence": 1,
+      "vox": {
+        "shot": "Homer, shore, 1995"
+      },
+      "antidote": {
+        "concept": "water",
+        "set": "shore",
+        "cast": [
+          "homer"
+        ]
+      },
+      "_said": "dank, mouldering paths past the river of fire at the edge of the world. The atmosphere is just incredibly bleak. The ghosts of the dead don't speak like grand people. Homer describ"
+    },
+    {
+      "fp": "13q6sj6",
+      "i": 131,
+      "from": 30938,
+      "subject": "Odysius",
+      "entities": [
+        "odysius"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Odysius, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "odysius"
+        ]
+      },
+      "_said": "describes them trailing behind Odysius with high, thin cries, fluttering like bats in a dark, haunted cavern."
+    },
+    {
+      "fp": "1c555tf",
+      "i": 132,
+      "from": 31116,
+      "subject": "Odysius — sword",
+      "entities": [
+        "odysius"
+      ],
+      "concept": "sword",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Odysius, sits there gripping his bronze sword over th, 1995"
+      },
+      "antidote": {
+        "concept": "sword",
+        "cast": [
+          "odysius"
+        ]
+      },
+      "_said": "cavern. And Odysius has to dig a trench in the dirt. pour out libations of milk, honey, and wine, and sacrifice black sheep. And then he just sits there gripping his bronze sword o"
+    },
+    {
+      "fp": "jx8vkz",
+      "i": 133,
+      "from": 31493,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "blood, physically threatening these mindless wraiths to keep them away from the blood until he gets the answers he needs. It's an atmosphere of absolute dread and claustrophobia. A"
+    },
+    {
+      "fp": "vg6ha1",
+      "i": 134,
+      "from": 31807,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "isn't just the spooky gothic setting, right? The real horror is the realization that"
+    },
+    {
+      "fp": "5crye1",
+      "i": 135,
+      "from": 31913,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "that the martial glory celebrated in the Iliad is ultimately hollow. The underworld proves that the grand heroic deathdeying young for fame is"
+    },
+    {
+      "fp": "7x5z5k",
+      "i": 136,
+      "from": 32155,
+      "subject": "Agamemnon — war",
+      "entities": [
+        "agamemnon"
+      ],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Agamemnon, runs into agamemnon, 1995"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": [
+          "agamemnon"
+        ]
+      },
+      "_said": "is a terrible Survival, no matter how humble or painful, is worth infinitely more than being a dead legend. Then he runs into Agamemnon, the guy who led the entire Greek army at Tr"
+    },
+    {
+      "fp": "gjvbw1",
+      "i": 137,
+      "from": 32575,
+      "subject": "star",
+      "entities": [],
+      "concept": "star",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "star, 1995"
+      },
+      "antidote": {
+        "concept": "star",
+        "set": null,
+        "cast": []
+      },
+      "_said": "be this glorious celebrated ghost, right? A five-star general in the afterlife. You would think so."
+    },
+    {
+      "fp": "je2r0u",
+      "i": 138,
+      "from": 32728,
+      "subject": "Odysius and Agamemnon",
+      "entities": [
+        "odysius",
+        "agamemnon"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Odysius and Agamemnon, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "odysius",
+          "agamemnon"
+        ]
+      },
+      "_said": "so. But Agamemnon tells Odysius this absolutely brutal, sickening story. He didn't die on"
+    },
+    {
+      "fp": "11rb1xi",
+      "i": 139,
+      "from": 32937,
+      "subject": "Agamemnon — home",
+      "entities": [
+        "agamemnon"
+      ],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Agamemnon, 1995"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": [
+          "agamemnon"
+        ]
+      },
+      "_said": "on a glorious battlefield. He survived the 10-year war, finally sailed home to his wife, Clyde Nestra, and at his own welcome feast, he was ambushed by her lover. At just this, Aga"
+    },
+    {
+      "fp": "15lpb8i",
+      "i": 140,
+      "from": 33384,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Overpowered in the whirling dust of his own dining room while his comrades"
+    },
+    {
+      "fp": "x3wf08",
+      "i": 141,
+      "from": 33468,
+      "subject": "Odysius",
+      "entities": [
+        "odysius"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Odysius, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "odysius"
+        ]
+      },
+      "_said": "comrades were slaughtered around him. And his final takeaway, he looks at Odysius and says, \"The time for trusting women's gone Just a completely broken man. Now, I have to go back"
+    },
+    {
+      "fp": "1ljjh6z",
+      "i": 142,
+      "from": 33773,
+      "subject": "Odysius and Achilles — phone",
+      "entities": [
+        "odysius",
+        "achilles"
+      ],
+      "concept": "phone",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Odysius and Achilles, read the text, 1995"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": null,
+        "cast": [
+          "odysius",
+          "achilles"
+        ]
+      },
+      "_said": "talked about Achilles saying he'd rather be a dirt poor farmer than king of the dead. But when you read the text, Odysius actually walks up to Achilles and gives him this incredibl"
+    },
+    {
+      "fp": "1du569v",
+      "i": 143,
+      "from": 34046,
+      "subject": "grave",
+      "entities": [],
+      "concept": "grave",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "grave, 1995"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": null,
+        "cast": []
+      },
+      "_said": "incredibly fake toxic positivity speech. He really does. He literally says, \"Hey, you were honored as a god in life and now you lorded over the dead, so grieve no more at dying.\" I"
+    },
+    {
+      "fp": "1w66dlu",
+      "i": 144,
+      "from": 34332,
+      "subject": "Achilles",
+      "entities": [
+        "achilles"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Achilles, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "achilles"
+        ]
+      },
+      "_said": "Isn't Achilles just reacting to how incredibly tonedeaf"
+    },
+    {
+      "fp": "3sf0xh",
+      "i": 145,
+      "from": 34421,
+      "subject": "Odysius",
+      "entities": [
+        "odysius"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Odysius, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "odysius"
+        ]
+      },
+      "_said": "tonedeaf and annoying Odysius is being? That is a very sharp observation and it highlights how much Odysius still has to learn at this point in the story. You're right. Odysius is "
+    },
+    {
+      "fp": "1tozqnz",
+      "i": 146,
+      "from": 34785,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "basically toxic positive. He's trying to flatter a dead man using the metrics of the living. He's basically saying, \"Hey, you got a lot of medals. You should be happy.\" But Achille"
+    },
+    {
+      "fp": "1cc5jau",
+      "i": 147,
+      "from": 35025,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Achilles's furious response is what right? Even if it is born"
+    },
+    {
+      "fp": "x5p33j",
+      "i": 148,
+      "from": 35138,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "born out of intense annoyance at Odysius's hollow platitudes, the dirt poor farmer"
+    },
+    {
+      "fp": "14yi18h",
+      "i": 149,
+      "from": 35273,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "farmer line forever dismantles the illusion."
+    },
+    {
+      "fp": "11mq0tq",
+      "i": 150,
+      "from": 35371,
+      "subject": "Achilles — storm",
+      "entities": [
+        "achilles"
+      ],
+      "concept": "storm",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Achilles, 1995"
+      },
+      "antidote": {
+        "concept": "storm",
+        "set": null,
+        "cast": [
+          "achilles"
+        ]
+      },
+      "_said": "illusion. Achilles knew exactly what he was doing when he traded a long, obscure life for a short, glorious one. And now, experiencing the cold, damp reality of being a burntout wr"
+    },
+    {
+      "fp": "ocxplv",
+      "i": 151,
+      "from": 35798,
+      "subject": "grave",
+      "entities": [],
+      "concept": "grave",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "grave, 1995"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": null,
+        "cast": []
+      },
+      "_said": "realizes the absolute finality and emptiness of death. Seeing the horror"
+    },
+    {
+      "fp": "17ltwgk",
+      "i": 152,
+      "from": 35908,
+      "subject": "Odysius — war",
+      "entities": [
+        "odysius"
+      ],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Odysius, 1995"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": [
+          "odysius"
+        ]
+      },
+      "_said": "horror of the dead teaches Odysius that he must survive at all costs. And surviving isn't going to require a bigger sword or a louder war cry. It's going to require"
+    },
+    {
+      "fp": "1eit9h9",
+      "i": 153,
+      "from": 36173,
+      "subject": "Odysius — hourglass",
+      "entities": [
+        "odysius"
+      ],
+      "concept": "hourglass",
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Odysius, holding back is what saves him, 1995"
+      },
+      "antidote": {
+        "concept": "hourglass",
+        "set": null,
+        "cast": [
+          "odysius"
+        ]
+      },
+      "_said": "that deep tactical patience. Holding back is what saves him. And he needs that lesson immediately because armed with the terrifying knowledge of the dead, Odysius must now navigate"
+    },
+    {
+      "fp": "o7q3ev",
+      "i": 154,
+      "from": 36516,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "the most dangerous psychological temptation of all the lure of the past. Which brings us to the sirens. This is the moment that proves self-restraint is"
+    },
+    {
+      "fp": "tgk2xq",
+      "i": 155,
+      "from": 36806,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "is the ultimate technology. Oh, this scene is incredible. Let's look at this scene because"
+    },
+    {
+      "fp": "15tggk7",
+      "i": 156,
+      "from": 36926,
+      "subject": "water",
+      "entities": [],
+      "concept": "water",
+      "place": "shore",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "water, falls over the sea, shore, 1995"
+      },
+      "antidote": {
+        "concept": "water",
+        "set": "shore",
+        "cast": []
+      },
+      "_said": "because it's incredibly cinematic. The wind suddenly dies. A dead, eerie calm falls over the sea. The men are terrified, churning the water white with their oars,"
+    },
+    {
+      "fp": "97a5h2",
+      "i": 157,
+      "from": 37221,
+      "subject": "Odysius",
+      "entities": [
+        "odysius"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Odysius, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "odysius"
+        ]
+      },
+      "_said": "oars, and Odysius takes a massive wheel of beeswax, knees it in his hands until it's soft, and completely plugs the ears of"
+    },
+    {
+      "fp": "97b39a",
+      "i": 158,
+      "from": 37416,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "of every single crew member. But he doesn't plug his own. No, he doesn't. Instead, he has his men lash him tightly to the mast of the ship, the heavy ropes biting deep into his arm"
+    },
+    {
+      "fp": "zhvxy7",
+      "i": 159,
+      "from": 37817,
+      "subject": "water",
+      "entities": [],
+      "concept": "water",
+      "place": "shore",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "water, shore, 1995"
+      },
+      "antidote": {
+        "concept": "water",
+        "set": "shore",
+        "cast": []
+      },
+      "_said": "hypnotic, rapturous song floats over the water, coming from a lush meadow that is literally heaped"
+    },
+    {
+      "fp": "1v6erzr",
+      "i": 160,
+      "from": 37982,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "heaped with the rotting corpses and skeletal bones of men who listened before. It's a haunting image. But what Knox points out, which"
+    },
+    {
+      "fp": "1igf7fn",
+      "i": 161,
+      "from": 38208,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "which is truly fascinating, is the content of the siren song. Yeah. What are they actually singing? They don't sing"
+    },
+    {
+      "fp": "2hvv9n",
+      "i": 162,
+      "from": 38390,
+      "subject": "coin",
+      "entities": [],
+      "concept": "coin",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "coin, 1995"
+      },
+      "antidote": {
+        "concept": "coin",
+        "cast": []
+      },
+      "_said": "sing a generic seductive pop song. They don't offer sex or wealth or power. They sing specifically"
+    },
+    {
+      "fp": "16t0hok",
+      "i": 163,
+      "from": 38580,
+      "subject": "Odysius",
+      "entities": [
+        "odysius"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Odysius, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "odysius"
+        ]
+      },
+      "_said": "specifically to Odysius about his past. They sing, \"We know all the pains that"
+    },
+    {
+      "fp": "1vzf1rr",
+      "i": 164,
+      "from": 38709,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "that the Greeks and Trojans once endured on the spreading plane of Troy.\" They are offering"
+    },
+    {
+      "fp": "hvdcm4",
+      "i": 165,
+      "from": 38841,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, sit down and talk about your high school fo, 1995"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "offering him total perfect knowledge of his own past glory and trauma. It's like someone saying, \"Hey, pull up a chair. Let's just sit down and talk about your high school football"
+    },
+    {
+      "fp": "pgmcdc",
+      "i": 166,
+      "from": 39108,
+      "subject": "grave",
+      "entities": [],
+      "concept": "grave",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "grave, 1995"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": null,
+        "cast": []
+      },
+      "_said": "or your deepest traumas forever. You never have to move on.\" Exactly. To live in the past, to endlessly recount your former glory or wallow in your past suffering is a kind of deat"
+    },
+    {
+      "fp": "b2vldm",
+      "i": 167,
+      "from": 39429,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, 1995"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "veteran of a 10-year war, heading back to a society that has moved on without him for two decades. Right? The temptation to just stop, to stay with beings"
+    },
+    {
+      "fp": "144njnq",
+      "i": 168,
+      "from": 39693,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "beings who perfectly understand his trauma and his triumphs is overwhelming. That is why the island is piled with bones. Nostalgia is fatal. There is"
+    },
+    {
+      "fp": "ofp8nl",
+      "i": 169,
+      "from": 39993,
+      "subject": "shield",
+      "entities": [],
+      "concept": "shield",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "shield, 1995"
+      },
+      "antidote": {
+        "concept": "shield",
+        "cast": []
+      },
+      "_said": "is this brilliant contrast between the crew and the leader here. The crew has beeswax shoved in their ears. They are entirely ignorant of the song and therefore they are safe."
+    },
+    {
+      "fp": "1qzvlr9",
+      "i": 170,
+      "from": 40288,
+      "subject": "shield",
+      "entities": [],
+      "concept": "shield",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "shield, 1995"
+      },
+      "antidote": {
+        "concept": "shield",
+        "cast": []
+      },
+      "_said": "safe. They just keep Odicius chooses to experience the absolute agony of total knowledge, but"
+    },
+    {
+      "fp": "15c7xs9",
+      "i": 171,
+      "from": 40495,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "but he voluntarily restricts his physical ability to act on it."
+    },
+    {
+      "fp": "rsmbnr",
+      "i": 172,
+      "from": 40596,
+      "subject": "Odysius — target",
+      "entities": [
+        "odysius"
+      ],
+      "concept": "target",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Odysius, 1995"
+      },
+      "antidote": {
+        "concept": "target",
+        "cast": [
+          "odysius"
+        ]
+      },
+      "_said": "it. Weaponized restraint. But wait, if the goal is survival, why doesn't Odysius just put wax in his own ears like everyone else? Isn't tying himself up"
+    },
+    {
+      "fp": "1g84qce",
+      "i": 173,
+      "from": 40831,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "up just an adrenaline junky move? Like, he just has to prove he's the toughest guy on the boat. It looks that way on the surface, but consider the burden of leadership. The witch, "
+    },
+    {
+      "fp": "1qcodgt",
+      "i": 174,
+      "from": 41256,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "so they can safely remove the wax and navigate the next hazard. Okay, that makes practical sense. But"
+    },
+    {
+      "fp": "1pf98sc",
+      "i": 175,
+      "from": 41393,
+      "subject": "Odysius",
+      "entities": [
+        "odysius"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Odysius, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "odysius"
+        ]
+      },
+      "_said": "But the absolute brilliance of Odysius here is that he knows his own weakness. He knows his ego and"
+    },
+    {
+      "fp": "1x7w456",
+      "i": 176,
+      "from": 41575,
+      "subject": "ledge",
+      "entities": [],
+      "concept": "ledge",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "ledge, 1995"
+      },
+      "antidote": {
+        "concept": "ledge",
+        "set": null,
+        "cast": []
+      },
+      "_said": "and his unresolved trauma will make him want to jump overboard to join the sirens. So, he plans for his own failure. Yes. Recognizing your own vulnerability"
+    },
+    {
+      "fp": "1ncjihc",
+      "i": 177,
+      "from": 41865,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "vulnerability and building physical external systems to stop yourself from acting on your worst impulses is the ultimate discipline. He weaponizes the ropes and the mast against hi"
+    },
+    {
+      "fp": "18mfn8l",
+      "i": 178,
+      "from": 42197,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "again, the physical restraint enables his intellectual survival. He survives the sirens because he restrains his mind. But sadly, his crew dies shortly after because"
+    },
+    {
+      "fp": "6roht0",
+      "i": 179,
+      "from": 42453,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "because they cannot restrain their Yes, this is a tragic turning point in the epic. The episode of the Cattle of the Sun reveals exactly why the crew perishes"
+    },
+    {
+      "fp": "kji1n",
+      "i": 180,
+      "from": 42708,
+      "subject": "Odysius",
+      "entities": [
+        "odysius"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Odysius, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "odysius"
+        ]
+      },
+      "_said": "perishes while Odysius survives. Let's set the scene"
+    },
+    {
+      "fp": "1cgtqpq",
+      "i": 181,
+      "from": 42773,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "scene on the island of Thornia. It is bleak. The crew is starving, bone tired, trapped by contrary winds for a solid month. Their rations are completely gone."
+    },
+    {
+      "fp": "1aec6h9",
+      "i": 182,
+      "from": 43027,
+      "subject": "Odysius",
+      "entities": [
+        "odysius"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Odysius, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "odysius"
+        ]
+      },
+      "_said": "gone. And Odysius explicitly warned them not to touch the cattle grazing on this island because they belong to Helios, the sun god. Right. So, Odysius goes inland to pray to the go"
+    },
+    {
+      "fp": "uizhbv",
+      "i": 183,
+      "from": 43411,
+      "subject": "alarmClock",
+      "entities": [],
+      "concept": "alarmClock",
+      "place": "bedroom",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "alarm clock, bedroom, 1995"
+      },
+      "antidote": {
+        "concept": "alarmClock",
+        "set": "bedroom",
+        "cast": []
+      },
+      "_said": "him into a deep supernatural sleep. And while he's out, the men, driven mad by hunger, slaughter the sacred,"
+    },
+    {
+      "fp": "1njcbbp",
+      "i": 184,
+      "from": 43625,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "sacred, shambling Longhorn cattle. They roast the meat. But the gods send"
+    },
+    {
+      "fp": "2x46p3",
+      "i": 185,
+      "from": 43745,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "send these terrifying omens to show how wrong this is. The raw hides of the cattle eerily begin to crawl along the ground like they're alive, and the"
+    },
+    {
+      "fp": "yek3xp",
+      "i": 186,
+      "from": 43980,
+      "subject": "Homer",
+      "entities": [
+        "homer"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Homer, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "homer"
+        ]
+      },
+      "_said": "the meat itself starts loing and groaning on the roasting spits like live animals crying out. It's grotesque. It's basically a horror movie scene. But Homer is using this moment to"
+    },
+    {
+      "fp": "85tijy",
+      "i": 187,
+      "from": 44323,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "the exceptional leader and the undisiplined masses. Diss"
+    },
+    {
+      "fp": "mq1ido",
+      "i": 188,
+      "from": 44433,
+      "subject": "compass",
+      "entities": [],
+      "concept": "compass",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "compass, 1995"
+      },
+      "antidote": {
+        "concept": "compass",
+        "cast": []
+      },
+      "_said": "Diss can endure physical suffering. He can fast. He can delay gratification for a higher purpose. The crew cannot. The crew justifies their impulses. Yuri Locus, the second in comm"
+    },
+    {
+      "fp": "1swpxr5",
+      "i": 189,
+      "from": 44760,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "gives a speech saying, \"Look, starvation is the worst, most pathetic way to die. Let's just eat the cows now. survive today and we'll build the god a nice temple later to Their ina"
+    },
+    {
+      "fp": "11qmaf8",
+      "i": 190,
+      "from": 45048,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "inability to endure temporary pain for long-term survival is what ultimately seals their doom. When they finally set sail, Zeus hits them"
+    },
+    {
+      "fp": "gn3dyh",
+      "i": 191,
+      "from": 45293,
+      "subject": "water",
+      "entities": [],
+      "concept": "water",
+      "place": "shore",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "water, shore, 1995"
+      },
+      "antidote": {
+        "concept": "water",
+        "set": "shore",
+        "cast": []
+      },
+      "_said": "them with a lightning bolt, smashing the ship to splinters and drowning every last man"
+    },
+    {
+      "fp": "1mnym1d",
+      "i": 192,
+      "from": 45432,
+      "subject": "Odysius",
+      "entities": [
+        "odysius"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Odysius, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "odysius"
+        ]
+      },
+      "_said": "man except Odysius. And what's heartbreaking is that this wasn't the crew's first failure of restraint. Think back to the bag of winds from"
+    },
+    {
+      "fp": "jl9qi0",
+      "i": 193,
+      "from": 45681,
+      "subject": "Odysius — storm",
+      "entities": [
+        "odysius"
+      ],
+      "concept": "storm",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Odysius, leaving only the gentle west wind free to blow, 1995"
+      },
+      "antidote": {
+        "concept": "storm",
+        "set": null,
+        "cast": [
+          "odysius"
+        ]
+      },
+      "_said": "from King Aololis. Oh, that is such a painful scene. Aololis gave Odysius a leather bag containing all the fierce storm winds tied tight with a silver cord, leaving only the gentle"
+    },
+    {
+      "fp": "1bnm2g1",
+      "i": 194,
+      "from": 46041,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "blow them straight to Ithaca. They sail for"
+    },
+    {
+      "fp": "q1hl5n",
+      "i": 195,
+      "from": 46113,
+      "subject": "Odysius",
+      "entities": [
+        "odysius"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Odysius, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "odysius"
+        ]
+      },
+      "_said": "for 9 days straight. They are so close they can literally see men tending fires on the shores of Ithaca. So close. Odysius, who has been steering the"
+    },
+    {
+      "fp": "1geh47k",
+      "i": 196,
+      "from": 46361,
+      "subject": "Odysius — alarmClock",
+      "entities": [
+        "odysius"
+      ],
+      "concept": "alarmClock",
+      "place": "bedroom",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Odysius, bedroom, 1995"
+      },
+      "antidote": {
+        "concept": "alarmClock",
+        "set": "bedroom",
+        "cast": [
+          "odysius"
+        ]
+      },
+      "_said": "the whole time without sleeping, finally passes out. And the crew, completely consumed by greed and paranoia, thinks the bag is full of gold and silver that Odysius is hoarding for"
+    },
+    {
+      "fp": "3mijwi",
+      "i": 197,
+      "from": 46740,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "bag, the hurricane winds explode out, and they are blown all the way back into the nightmare. It's devastating. But I have to stop"
+    },
+    {
+      "fp": "qu961e",
+      "i": 198,
+      "from": 46910,
+      "subject": "Odysius",
+      "entities": [
+        "odysius"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Odysius, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "odysius"
+        ]
+      },
+      "_said": "stop and blame Odicius here. Are we really just blaming the starving, traumatized crew? I mean, Odysius"
+    },
+    {
+      "fp": "mavn2u",
+      "i": 199,
+      "from": 47114,
+      "subject": "Odysius — alarmClock",
+      "entities": [
+        "odysius"
+      ],
+      "concept": "alarmClock",
+      "place": "bedroom",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Odysius, bedroom, 1995"
+      },
+      "antidote": {
+        "concept": "alarmClock",
+        "set": "bedroom",
+        "cast": [
+          "odysius"
+        ]
+      },
+      "_said": "Odysius fell asleep during the wind incident when they were inside of home, and D, he wandered off and fell asleep on the island of the sun god. Yeah, that is a pattern. Isn't he j"
+    },
+    {
+      "fp": "1pnl31p",
+      "i": 200,
+      "from": 47383,
+      "subject": "Homer",
+      "entities": [
+        "homer"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Homer, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "homer"
+        ]
+      },
+      "_said": "just a terrible manager who is deflecting blame for his own negligence? It's a very fair criticism and Homer definitely shows Odysius's"
+    },
+    {
+      "fp": "169vple",
+      "i": 201,
+      "from": 47613,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Odysius's humanity here. He gets physically exhausted. He is not a god. His body gives out, right? He's only human. But"
+    },
+    {
+      "fp": "1ieeo6w",
+      "i": 202,
+      "from": 47803,
+      "subject": "alarmClock",
+      "entities": [],
+      "concept": "alarmClock",
+      "place": "bedroom",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "alarm clock, bedroom, 1995"
+      },
+      "antidote": {
+        "concept": "alarmClock",
+        "set": "bedroom",
+        "cast": []
+      },
+      "_said": "But the narrative function of his sleeping is to test the crew. It highlights that"
+    },
+    {
+      "fp": "1g1oo73",
+      "i": 203,
+      "from": 47947,
+      "subject": "alarmClock",
+      "entities": [],
+      "concept": "alarmClock",
+      "place": "bedroom",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "alarm clock, bedroom, 1995"
+      },
+      "antidote": {
+        "concept": "alarmClock",
+        "set": "bedroom",
+        "cast": []
+      },
+      "_said": "that when leadership sleeps, when the guiding intellect, the meritus,"
+    },
+    {
+      "fp": "3xun3z",
+      "i": 204,
+      "from": 48072,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "meritus, is temporarily removed from the equation, anarchy and base impulse instantly take over. Oh, I see. The crew represents the average human being driven"
+    },
+    {
+      "fp": "1mx0uq0",
+      "i": 205,
+      "from": 48324,
+      "subject": "Odysius — target",
+      "entities": [
+        "odysius"
+      ],
+      "concept": "target",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Odysius, 1995"
+      },
+      "antidote": {
+        "concept": "target",
+        "cast": [
+          "odysius"
+        ]
+      },
+      "_said": "driven by appetite, fear, and immediate needs. Odysius represents the evolved mind that can look past the immediate hunger to the ultimate goal. So, the tragedy is that the crew di"
+    },
+    {
+      "fp": "2pjlqr",
+      "i": 206,
+      "from": 48626,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "what he is desperately trying to master. They lack restraint. And that brings us to the climax of his It does. Stripped"
+    },
+    {
+      "fp": "1gpxmz2",
+      "i": 207,
+      "from": 48794,
+      "subject": "Odysius — storm",
+      "entities": [
+        "odysius"
+      ],
+      "concept": "storm",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Odysius, reaches ithaca, 1995"
+      },
+      "antidote": {
+        "concept": "storm",
+        "set": null,
+        "cast": [
+          "odysius"
+        ]
+      },
+      "_said": "Stripped of his crew, his ships, his loot, and all his glory, Odysius finally reaches Ithaca. But he doesn't kick the door down and storm the beaches like a conqueror. He sneaks in"
+    },
+    {
+      "fp": "1u0aade",
+      "i": 208,
+      "from": 49171,
+      "subject": "sword",
+      "entities": [],
+      "concept": "sword",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "sword, 1995"
+      },
+      "antidote": {
+        "concept": "sword",
+        "cast": []
+      },
+      "_said": "we've been discussing coales perfectly. The transformation of the great warrior into the beggar king redefes the meaning of power"
+    },
+    {
+      "fp": "1lv4zqm",
+      "i": 209,
+      "from": 49370,
+      "subject": "Odysius",
+      "entities": [
+        "odysius"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Odysius, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "odysius"
+        ]
+      },
+      "_said": "power in Western literature. Picture the ultimate humiliation for a guy who once commanded massive armies. Odysius"
+    },
+    {
+      "fp": "1m5kx6i",
+      "i": 210,
+      "from": 49591,
+      "subject": "Odysius",
+      "entities": [
+        "odysius"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Odysius, standing inside his own majestic hall, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "odysius"
+        ]
+      },
+      "_said": "Odysius is standing inside his own majestic hall, but he is disguised"
+    },
+    {
+      "fp": "1ii74y9",
+      "i": 211,
+      "from": 49716,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "disguised by the goddess Athena in filthy soot stained ragged cloaks. He looks like an old broken beggar, and"
+    },
+    {
+      "fp": "88k5mu",
+      "i": 212,
+      "from": 49901,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "he is absorbing horrific physical The suitors hurl heavy wooden foottools at him. He takes vicious insults from his"
+    },
+    {
+      "fp": "1rq46or",
+      "i": 213,
+      "from": 50117,
+      "subject": "Odysius — sword",
+      "entities": [
+        "odysius"
+      ],
+      "concept": "sword",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Odysius, 1995"
+      },
+      "antidote": {
+        "concept": "sword",
+        "cast": [
+          "odysius"
+        ]
+      },
+      "_said": "his own treacherous servants like Meanthus, the goat herd, who literally kicks Odysius in the hip on the path to the palace. Think about the magnitude of this. This is a warrior ki"
+    },
+    {
+      "fp": "p5iizg",
+      "i": 214,
+      "from": 50414,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "who has the physical strength in the marshall skill to kill these men with his bare hands."
+    },
+    {
+      "fp": "1bn36kz",
+      "i": 215,
+      "from": 50551,
+      "subject": "water",
+      "entities": [],
+      "concept": "water",
+      "place": "shore",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "water, shouted his name across the water at the cyclop, shore, 1995"
+      },
+      "antidote": {
+        "concept": "water",
+        "set": "shore",
+        "cast": []
+      },
+      "_said": "hands. The old Adysius, the guy who shouted his name across the water at the Cyclops, would have drawn his sword the second the goat herd mocked him. But this"
+    },
+    {
+      "fp": "fq876b",
+      "i": 216,
+      "from": 50788,
+      "subject": "hourglass",
+      "entities": [],
+      "concept": "hourglass",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "hourglass, 1995"
+      },
+      "antidote": {
+        "concept": "hourglass",
+        "set": null,
+        "cast": []
+      },
+      "_said": "this new Adysius weaponizes his patience. When the foottool hits him, he just shakes his head, silent, murderous, but he does not react. He watches. He cataloges their sins. He ide"
+    },
+    {
+      "fp": "1v8u9al",
+      "i": 217,
+      "from": 51216,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "for the exact tactical moment."
+    },
+    {
+      "fp": "xh43sk",
+      "i": 218,
+      "from": 51271,
+      "subject": "shield",
+      "entities": [],
+      "concept": "shield",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "shield, 1995"
+      },
+      "antidote": {
+        "concept": "shield",
+        "cast": []
+      },
+      "_said": "moment. True authority, he has learned, isn't reacting to every insult to defend your fragile ego. True authority is total observation"
+    },
+    {
+      "fp": "1wkxbzd",
+      "i": 219,
+      "from": 51492,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "observation and complete control over yourself. And we see"
+    },
+    {
+      "fp": "1kgtx5i",
+      "i": 220,
+      "from": 51571,
+      "subject": "Odysius — family",
+      "entities": [
+        "odysius"
+      ],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Odysius, 1995"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": [
+          "odysius"
+        ]
+      },
+      "_said": "see this terrifying almost clinical detachment when he meets his own father, Leertes, in the final book. Oh, that scene is intense. Odysius finds the old king out in the vineyards "
+    },
+    {
+      "fp": "im6xki",
+      "i": 221,
+      "from": 51890,
+      "subject": "home",
+      "entities": [],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "home, 1995"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": []
+      },
+      "_said": "garments and fieldand shinuards mourning his lost son. Now, you would expect a tearful, warm hug, right? Dad, I'm home. Of course. Instead,"
+    },
+    {
+      "fp": "1cglhuo",
+      "i": 222,
+      "from": 52145,
+      "subject": "Odysius",
+      "entities": [
+        "odysius"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Odysius, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "odysius"
+        ]
+      },
+      "_said": "Instead, Odysius tests him. He approaches this broken old man"
+    },
+    {
+      "fp": "tl6vun",
+      "i": 223,
+      "from": 52255,
+      "subject": "Odysius — funnelTrap",
+      "entities": [
+        "odysius"
+      ],
+      "concept": "funnelTrap",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Odysius, 1995"
+      },
+      "antidote": {
+        "concept": "funnelTrap",
+        "cast": [
+          "odysius"
+        ]
+      },
+      "_said": "man and ruthlessly reproaches him, asking, \"Whose slave are you? Whose orchard are you tending?\" He pretends to be a stranger inquiring about Odysius, spinning this elaborate lie. "
+    },
+    {
+      "fp": "5b8qvh",
+      "i": 224,
+      "from": 52656,
+      "subject": "home",
+      "entities": [],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "home, 1995"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": []
+      },
+      "_said": "moment. Taking physical blows from enemies in your own house goes against everything"
+    },
+    {
+      "fp": "ld27bw",
+      "i": 225,
+      "from": 52785,
+      "subject": "sword",
+      "entities": [],
+      "concept": "sword",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "sword, stands for, 1995"
+      },
+      "antidote": {
+        "concept": "sword",
+        "cast": []
+      },
+      "_said": "everything an ancient Greek warrior stands for. But psychologically, torturing your own grieving"
+    },
+    {
+      "fp": "1gupsjc",
+      "i": 226,
+      "from": 52927,
+      "subject": "Achilles — grave",
+      "entities": [
+        "achilles"
+      ],
+      "concept": "grave",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Achilles, 1995"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": null,
+        "cast": [
+          "achilles"
+        ]
+      },
+      "_said": "grieving father before revealing It's brutal. Achilles would have killed the first guy who insulted him, died in a blaze of glory, and certainly wouldn't"
+    },
+    {
+      "fp": "1chcw0q",
+      "i": 227,
+      "from": 53203,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, 1995"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": []
+      },
+      "_said": "wouldn't have played sick mind games with his dad. This just feels perverse. It does feel perverse"
+    },
+    {
+      "fp": "k7mx7r",
+      "i": 228,
+      "from": 53352,
+      "subject": "codeWindow",
+      "entities": [],
+      "concept": "codeWindow",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "code window, 1995"
+      },
+      "antidote": {
+        "concept": "codeWindow",
+        "set": null,
+        "cast": []
+      },
+      "_said": "perverse to our modern sensibilities, and it certainly violates the straightforward honor code of the Iliot. But you nailed it."
+    },
+    {
+      "fp": "p7oryl",
+      "i": 229,
+      "from": 53539,
+      "subject": "Achilles — grave",
+      "entities": [
+        "achilles"
+      ],
+      "concept": "grave",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Achilles, 1995"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": null,
+        "cast": [
+          "achilles"
+        ]
+      },
+      "_said": "it. Achilles would have killed the first guy and Achilles would have died in a blaze of glory. Exactly. And that's why Achilles is dead, miserable in the underworld, and Adysius is"
+    },
+    {
+      "fp": "1c3c7cw",
+      "i": 230,
+      "from": 53954,
+      "subject": "Odysius — family",
+      "entities": [
+        "odysius"
+      ],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Odysius, 1995"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": [
+          "odysius"
+        ]
+      },
+      "_said": "father, classical scholars point out that Odysius uses this brutal"
+    },
+    {
+      "fp": "p7nvns",
+      "i": 231,
+      "from": 54048,
+      "subject": "Odysius — alarmClock",
+      "entities": [
+        "odysius"
+      ],
+      "concept": "alarmClock",
+      "place": "bedroom",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Odysius, bedroom, 1995"
+      },
+      "antidote": {
+        "concept": "alarmClock",
+        "set": "bedroom",
+        "cast": [
+          "odysius"
+        ]
+      },
+      "_said": "brutal psychological shock therapy to wake the old man from his self-inflicted apathy. Leertise has basically given up. So, he needs to jolt him out of it. Odysius forces him to fe"
+    },
+    {
+      "fp": "og9su",
+      "i": 232,
+      "from": 54401,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "royal dignity before revealing his identity. It is cold, yes, but it is"
+    },
+    {
+      "fp": "14mk8t1",
+      "i": 233,
+      "from": 54556,
+      "subject": "trophy",
+      "entities": [],
+      "concept": "trophy",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "trophy, 1995"
+      },
+      "antidote": {
+        "concept": "trophy",
+        "cast": []
+      },
+      "_said": "is the ultimate expression of enduring humiliation to secure the absolute victory. Weaponizing patience over"
+    },
+    {
+      "fp": "rbgsfq",
+      "i": 234,
+      "from": 54761,
+      "subject": "puppeteer",
+      "entities": [],
+      "concept": "puppeteer",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "puppeteer, 1995"
+      },
+      "antidote": {
+        "concept": "puppeteer",
+        "cast": []
+      },
+      "_said": "over immediate physical retaliation. And yes, eventually he does unleash the brute force. He strings his great bow and kills the suitors. He does. But the physical"
+    },
+    {
+      "fp": "9oag89",
+      "i": 235,
+      "from": 55029,
+      "subject": "trophy",
+      "entities": [],
+      "concept": "trophy",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "trophy, 1995"
+      },
+      "antidote": {
+        "concept": "trophy",
+        "cast": []
+      },
+      "_said": "physical victory isn't the true climax of the Odyssey. The psychological victory is. Yes, the olive tree bed. This"
+    },
+    {
+      "fp": "a146zi",
+      "i": 236,
+      "from": 55250,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "This is the true climax of the epic. Far more significant than the stringing of the bow or the killing of the suitors. Let's set this final scene because it"
+    },
+    {
+      "fp": "p9tp0k",
+      "i": 237,
+      "from": 55461,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, 1995"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "it is brilliant. The aftermath of the battle. The great hall is slick with blood."
+    },
+    {
+      "fp": "1u23qcz",
+      "i": 238,
+      "from": 55601,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "blood. The 108 suitors are dead."
+    },
+    {
+      "fp": "11qd8ad",
+      "i": 239,
+      "from": 55689,
+      "subject": "Odysius — war",
+      "entities": [
+        "odysius"
+      ],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Odysius, 1995"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": [
+          "odysius"
+        ]
+      },
+      "_said": "dead. The traitorous maids have been executed. The fighting is finally over. Odysius has bathed. Athena has made him look like a tall, handsome king again."
+    },
+    {
+      "fp": "28oyu8",
+      "i": 240,
+      "from": 55922,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "stands before his wife, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "again. And he stands before his wife, Penelopey. He expects her to fall into his arms, weeping with joy. But she doesn't. Instead, she sits across from him, staring at him, complet"
+    },
+    {
+      "fp": "mfgltb",
+      "i": 241,
+      "from": 56236,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "She then coolly turns to her servant and says, \"Make up his bed. Move"
+    },
+    {
+      "fp": "1izbf5l",
+      "i": 242,
+      "from": 56337,
+      "subject": "lightbulb",
+      "entities": [],
+      "concept": "lightbulb",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "lightbulb, 1995"
+      },
+      "antidote": {
+        "concept": "lightbulb",
+        "cast": []
+      },
+      "_said": "Move the sturdy bedstead out of our bridal chamber and lay it with fleece.\" And this is where the genius"
+    },
+    {
+      "fp": "1f4jlv4",
+      "i": 243,
+      "from": 56481,
+      "subject": "Odysius and Homer — lightbulb",
+      "entities": [
+        "odysius",
+        "homer"
+      ],
+      "concept": "lightbulb",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Odysius and Homer, 1995"
+      },
+      "antidote": {
+        "concept": "lightbulb",
+        "cast": [
+          "odysius",
+          "homer"
+        ]
+      },
+      "_said": "genius of Homer shines. Odysius, who has restrained his temper through years of torture, who took foottools"
+    },
+    {
+      "fp": "j7y9la",
+      "i": 244,
+      "from": 56681,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "shouts that the bed cannot possibly be moved b, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "to the back without blinking, finally explodes in anger. He loses it. He shouts that the bed cannot possibly be moved because"
+    },
+    {
+      "fp": "14e608y",
+      "i": 245,
+      "from": 56899,
+      "subject": "tree",
+      "entities": [],
+      "concept": "tree",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "tree, 1995"
+      },
+      "antidote": {
+        "concept": "tree",
+        "set": null,
+        "cast": []
+      },
+      "_said": "because he himself carved it from the trunk of a living olive tree that was rooted deep in the earth and he built"
+    },
+    {
+      "fp": "1wcotiv",
+      "i": 246,
+      "from": 57043,
+      "subject": "home",
+      "entities": [],
+      "concept": "home",
+      "place": "bedroom",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "home, bedroom, 1995"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": "bedroom",
+        "cast": []
+      },
+      "_said": "built the bedroom around it. No mortal man could move it unless they chop the tree down. He reveals"
+    },
+    {
+      "fp": "1eosdb4",
+      "i": 247,
+      "from": 57225,
+      "subject": "heart",
+      "entities": [],
+      "concept": "heart",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "heart, 1995"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": null,
+        "cast": []
+      },
+      "_said": "reveals the secret construction of their marriage bed. And this is the test. When he reveals that secret, Penelopey's knees go slack. She bursts into tears and she finally embraces"
+    },
+    {
+      "fp": "1r51oou",
+      "i": 248,
+      "from": 57556,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "they are absolute equals in cunning. Compare this to the famous stringing of the great bow of Uritus earlier that day. Penelopey set up that contest. Whoever"
+    },
+    {
+      "fp": "1abqc0y",
+      "i": 249,
+      "from": 57821,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Whoever could string Odysius's massively stiff bow and shoot an arrow through 12 axes would marry her. Stringing the bow was a test of buy, a physical test that destroyed the suito"
+    },
+    {
+      "fp": "1vyo98g",
+      "i": 250,
+      "from": 58116,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "suitors and proved Odysius's raw strength. But Penelopey's"
+    },
+    {
+      "fp": "1v3oayr",
+      "i": 251,
+      "from": 58197,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, 1995"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "Penelopey's test of the bed is a psychological trap. It's a test of medicine. She needed to prove to herself that this wasn't some god in disguise or a clever impostor trying to st"
+    },
+    {
+      "fp": "5io0i9",
+      "i": 252,
+      "from": 58617,
+      "subject": "road",
+      "entities": [],
+      "concept": "road",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "road, 1995"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": null,
+        "cast": []
+      },
+      "_said": "for 10 years, wandered through hell for 10 more, survived monsters, just"
+    },
+    {
+      "fp": "i48m8l",
+      "i": 253,
+      "from": 58759,
+      "subject": "home",
+      "entities": [],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "home, 1995"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": []
+      },
+      "_said": "just slaughtered 108 men to get his house back, and she still plays mind games with him. Isn't she being incredibly cold and ungrateful? If you view it"
+    },
+    {
+      "fp": "8rcyye",
+      "i": 254,
+      "from": 59018,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "it from a modern romantic lens, maybe. But reframing it through the lens of bronze age survival changes Okay. How so?"
+    },
+    {
+      "fp": "w52snx",
+      "i": 255,
+      "from": 59258,
+      "subject": "Odysius — home",
+      "entities": [
+        "odysius"
+      ],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Odysius, 1995"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": [
+          "odysius"
+        ]
+      },
+      "_said": "so? If Penelopey weren't cautious, if she didn't have her own weaponized restraint, she would have fallen for an impostor or given into a suitor years ago and Odysius would have co"
+    },
+    {
+      "fp": "1t49mw3",
+      "i": 256,
+      "from": 59587,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "notes, 1995"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": []
+      },
+      "_said": "is the exact perfect mirror of his restraint. As Knox notes, she"
+    },
+    {
+      "fp": "1dx25iv",
+      "i": 257,
+      "from": 59712,
+      "subject": "Odysius — heart",
+      "entities": [
+        "odysius"
+      ],
+      "concept": "heart",
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Odysius, 1995"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": null,
+        "cast": [
+          "odysius"
+        ]
+      },
+      "_said": "she is the female Odysius. The marriage is bonded by shared intellect and shared suspicion, not just physical dominance. The bed is rooted to the earth, immovable, just like his ne"
+    },
+    {
+      "fp": "1r1ndfn",
+      "i": 258,
+      "from": 60134,
+      "subject": "trophy",
+      "entities": [],
+      "concept": "trophy",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "trophy, 1995"
+      },
+      "antidote": {
+        "concept": "trophy",
+        "cast": []
+      },
+      "_said": "intellect and restraint conquer brute force. But before we conclude, we have to address the elephant in the room regarding that restraint at the very We do. Here"
+    },
+    {
+      "fp": "97jm98",
+      "i": 259,
+      "from": 60369,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Here is an honest counterpoint to our entire thesis."
+    },
+    {
+      "fp": "bznjhd",
+      "i": 260,
+      "from": 60451,
+      "subject": "Odysius",
+      "entities": [
+        "odysius"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Odysius, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "odysius"
+        ]
+      },
+      "_said": "thesis. We keep praising Odysius for his self-restraint, his incredible discipline. But when the time"
+    },
+    {
+      "fp": "tj74ie",
+      "i": 261,
+      "from": 60602,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "time for vengeance finally comes in book 22, it is an absolute bloodbath. It is horrific. He slaughters 108 men."
+    },
+    {
+      "fp": "1iskep2",
+      "i": 262,
+      "from": 60852,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "men. He shoots Antinas through the throat while the guy is casually drinking wine. He ignores the desperate pleas"
+    },
+    {
+      "fp": "1r3go9g",
+      "i": 263,
+      "from": 61041,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "pleas of the priest Leotis and chops his head off while the man is begging for his life. And that's not even the worst part. And worst of all, he orders Tmicus to execute the 12"
+    },
+    {
+      "fp": "mcc1at",
+      "i": 264,
+      "from": 61325,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "12 enslaved maids who slept with the suitors. Tmicus hangs them all from"
+    },
+    {
+      "fp": "t5fdmi",
+      "i": 265,
+      "from": 61454,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "from a single cable strung up in the courtyard, their feet twitching in the air like a flock of threshes. It's awful. It is an act of gruesome, completely"
+    },
+    {
+      "fp": "1o2kbaw",
+      "i": 266,
+      "from": 61696,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "sit here, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "completely disproportionate savagery. How can we possibly sit here"
+    },
+    {
+      "fp": "1mfycun",
+      "i": 267,
+      "from": 61809,
+      "subject": "Odysius — phone",
+      "entities": [
+        "odysius"
+      ],
+      "concept": "phone",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Odysius, 1995"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": null,
+        "cast": [
+          "odysius"
+        ]
+      },
+      "_said": "here and call Odysius the master of self-restraint when he turns his dining room into"
+    },
+    {
+      "fp": "1jj3dqf",
+      "i": 268,
+      "from": 61934,
+      "subject": "Homer — home",
+      "entities": [
+        "homer"
+      ],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Homer, 1995"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": [
+          "homer"
+        ]
+      },
+      "_said": "into a slaughter house? It's a vital criticism and it is entirely valid. The violence is disproportionate and Homer knows it. He does. What we are witnessing at the end of the epic"
+    },
+    {
+      "fp": "1owtjcg",
+      "i": 269,
+      "from": 62285,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "ancient uncontrollable bloodfeuded vengeance. Once the dam of restraint breaks, the buy, the brute force floods the world. That's right. In fact, it's so out of control that"
+    },
+    {
+      "fp": "1a93ot7",
+      "i": 270,
+      "from": 62601,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "that the slaughter threatens to annihilate the entire island of Ithaca. The fathers of the"
+    },
+    {
+      "fp": "1vtkui8",
+      "i": 271,
+      "from": 62729,
+      "subject": "Odysius — family",
+      "entities": [
+        "odysius"
+      ],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Odysius, 1995"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": [
+          "odysius"
+        ]
+      },
+      "_said": "the dead suitors arm themselves and marched on the palace for revenge. Odysius and old Leodes literally gear up in their armor to slaughter the father's Exactly. Left to their own "
+    },
+    {
+      "fp": "1oc0j1d",
+      "i": 272,
+      "from": 63086,
+      "subject": "grave",
+      "entities": [],
+      "concept": "grave",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "grave, 1995"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": null,
+        "cast": []
+      },
+      "_said": "out until Ithaco was a graveyard. So, how does it stop? That is"
+    },
+    {
+      "fp": "1kt8jvs",
+      "i": 273,
+      "from": 63204,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "is why the goddess Athena literally has to descend as a dust xmokina in the final book. She drops from the sky, screams at them to drop their weapons and forces"
+    },
+    {
+      "fp": "i2psyj",
+      "i": 274,
+      "from": 63482,
+      "subject": "Homer",
+      "entities": [
+        "homer"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Homer, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "homer"
+        ]
+      },
+      "_said": "forces an artificial supernatural peace. Homer is showing us that human vengeance once unleashed has no"
+    },
+    {
+      "fp": "1476r0v",
+      "i": 275,
+      "from": 63652,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "no natural stopping point. Restraint has a breaking point, and when it breaks, it is catastrophic. So, bringing it all together, reframing the thesis for you, the listener, the Ody"
+    },
+    {
+      "fp": "nwo352",
+      "i": 276,
+      "from": 63957,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, 1995"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "just tell a mythic voyage about a guy fighting a cyclops or listening to sirens. No, it didn't. It essentially invented the modern human."
+    },
+    {
+      "fp": "2v1g2h",
+      "i": 277,
+      "from": 64159,
+      "subject": "road",
+      "entities": [],
+      "concept": "road",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "road, 1995"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": null,
+        "cast": []
+      },
+      "_said": "human. It realized 2700 years ago that the hardest journey in human history isn't sailing across oceans of monsters with a sword in your hand. The hardest journey is fighting your "
+    },
+    {
+      "fp": "1vpprj5",
+      "i": 278,
+      "from": 64577,
+      "subject": "home",
+      "entities": [],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "home, 1995"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": []
+      },
+      "_said": "ego have stripped everything It is the journey from the battlefield back to the living room. It's"
+    },
+    {
+      "fp": "8nauf6",
+      "i": 279,
+      "from": 64718,
+      "subject": "sword",
+      "entities": [],
+      "concept": "sword",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "sword, 1995"
+      },
+      "antidote": {
+        "concept": "sword",
+        "cast": []
+      },
+      "_said": "It's the grueling process of learning to sheathe the sword, to master the mind, and to endure the humiliations of reality. Yeah, that's beautifully said. Think about the sirens or "
+    },
+    {
+      "fp": "mwi0so",
+      "i": 280,
+      "from": 65145,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "us to surrender our consciousness, our restraint, our identity. We absolutely do. The next time you're tempted to react with ego or rage or impulse,"
+    },
+    {
+      "fp": "noktg7",
+      "i": 281,
+      "from": 65395,
+      "subject": "home",
+      "entities": [],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "home, shouts his name and summons the storm, 1995"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": []
+      },
+      "_said": "impulse, ask yourself, are you going to be the warrior who shouts his name and summons the storm, or are you going to be nobody? B your time and win your home back."
+    },
+    {
+      "fp": "nwke94",
+      "i": 282,
+      "from": 65625,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "back. Keep diving deep."
+    }
+  ]
+}

@@ -1,0 +1,179 @@
+{
+  "slug": "the-odyssey",
+  "world": {
+    "era": "contemporary",
+    "approxYear": 1995,
+    "setting": "",
+    "register": "",
+    "forbid": []
+  },
+  "cast": {
+    "odysius": {
+      "name": "Odysius",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 16
+    },
+    "achilles": {
+      "name": "Achilles",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 5
+    },
+    "homer": {
+      "name": "Homer",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 4
+    },
+    "calypso": {
+      "name": "Calypso",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 2
+    },
+    "agamemnon": {
+      "name": "Agamemnon",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 2
+    }
+  },
+  "places": {
+    "shore": {
+      "set": "shore",
+      "look": "",
+      "mentions": 1
+    },
+    "bedroom": {
+      "set": "bedroom",
+      "look": "",
+      "mentions": 1
+    }
+  },
+  "objects": [
+    {
+      "concept": "home",
+      "mentions": 24,
+      "why": ""
+    },
+    {
+      "concept": "war",
+      "mentions": 18,
+      "why": ""
+    },
+    {
+      "concept": "family",
+      "mentions": 13,
+      "why": ""
+    },
+    {
+      "concept": "sword",
+      "mentions": 12,
+      "why": ""
+    },
+    {
+      "concept": "road",
+      "mentions": 12,
+      "why": ""
+    },
+    {
+      "concept": "water",
+      "mentions": 12,
+      "why": ""
+    },
+    {
+      "concept": "alarmClock",
+      "mentions": 9,
+      "why": ""
+    },
+    {
+      "concept": "phone",
+      "mentions": 8,
+      "why": ""
+    },
+    {
+      "concept": "grave",
+      "mentions": 8,
+      "why": ""
+    },
+    {
+      "concept": "storm",
+      "mentions": 7,
+      "why": ""
+    },
+    {
+      "concept": "trophy",
+      "mentions": 7,
+      "why": ""
+    },
+    {
+      "concept": "lightbulb",
+      "mentions": 6,
+      "why": ""
+    }
+  ],
+  "spine": [
+    {
+      "act": "The Achilles Paradox",
+      "fromFrame": 0,
+      "claim": ""
+    },
+    {
+      "act": "The 108 Suitors: War at Home",
+      "fromFrame": 4140,
+      "claim": ""
+    },
+    {
+      "act": "The Cyclops & The Fatal Boast",
+      "fromFrame": 13830,
+      "claim": ""
+    },
+    {
+      "act": "Lotus-Eaters & Calypso's Trap",
+      "fromFrame": 23100,
+      "claim": ""
+    },
+    {
+      "act": "The Underworld & The Ghost King",
+      "fromFrame": 30090,
+      "claim": ""
+    },
+    {
+      "act": "The Sirens & Weaponized Restraint",
+      "fromFrame": 36660,
+      "claim": ""
+    },
+    {
+      "act": "The Cattle of the Sun",
+      "fromFrame": 42750,
+      "claim": ""
+    },
+    {
+      "act": "The Beggar King's Patience",
+      "fromFrame": 49050,
+      "claim": ""
+    },
+    {
+      "act": "Penelope & The Olive-Tree Bed",
+      "fromFrame": 54900,
+      "claim": ""
+    },
+    {
+      "act": "The Blood Feud & Savage Vengeance",
+      "fromFrame": 60150,
+      "claim": ""
+    },
+    {
+      "act": "The Long Road Back to Self",
+      "fromFrame": 63450,
+      "claim": ""
+    }
+  ],
+  "authored": false
+}

@@ -1,0 +1,5809 @@
+{
+  "slug": "how-to-read-a-person-like-a-book",
+  "authored": false,
+  "briefs": [
+    {
+      "fp": "53mspl",
+      "i": 0,
+      "from": 0,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "watch a negotiation table long enough and you, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Watch a negotiation table long enough and you see it. A man says, \"Yes, that works for me.\" And in the same breath, his arms fold across his chest. His chin drops."
+    },
+    {
+      "fp": "17gvul9",
+      "i": 1,
+      "from": 292,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "drops. One foot turns toward the door. Every word out of his mouth is agreement. [snorts] Every line of his body is a no."
+    },
+    {
+      "fp": "17pyuly",
+      "i": 2,
+      "from": 509,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "notes, read the no, 1995"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": []
+      },
+      "_said": "no. The amateur hears the yes. The people who wrote this book learn to read the no. Yeah. And that tension that uh that really vast silent gap between what"
+    },
+    {
+      "fp": "agncqy",
+      "i": 3,
+      "from": 813,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "what we broadcast with our vocal cords and what we're basically screaming with our physical bodies. That's exactly what we are tearing into today."
+    },
+    {
+      "fp": "xkz471",
+      "i": 4,
+      "from": 1036,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": "cafe",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone, read a person like a book by drawer, cafe, 1995"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": "cafe",
+        "cast": []
+      },
+      "_said": "today. Right. Because today's deep dive is on what is I mean arguably the foundational text of modern non-verbal communication Oh absolutely. How to read a person like a book by dr"
+    },
+    {
+      "fp": "1yyq64h",
+      "i": 5,
+      "from": 1394,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "and Henry H. Kero. But, you know, we really have to establish a critical angle right out of the gate here because this isn't"
+    },
+    {
+      "fp": "d0ptc3",
+      "i": 6,
+      "from": 1565,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "read it in its proper context, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "just your standard review. No, definitely not. This is the book that everyone on the internet quotes, right? Like every corporate training seminar rips this off, but almost nobody "
+    },
+    {
+      "fp": "18mc04o",
+      "i": 7,
+      "from": 1879,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "is so frustrating because if you bring up body language today in casual conversation or uh you look at the pop psychology sphere online, people treat it like this cheap party trick"
+    },
+    {
+      "fp": "tevm91",
+      "i": 8,
+      "from": 2174,
+      "subject": "food",
+      "entities": [],
+      "concept": "food",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "food, 1995"
+      },
+      "antidote": {
+        "concept": "food",
+        "set": null,
+        "cast": []
+      },
+      "_said": "trick Yeah, the gesture dictionary, right? You know the drill. Someone crosses their arms at a dinner party and instantly the amateur"
+    },
+    {
+      "fp": "zd0yzc",
+      "i": 9,
+      "from": 2354,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "shouting like, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "amateur psychologist across the table points a finger. They're practically shouting like, \"Ah, you crossed your"
+    },
+    {
+      "fp": "dk1e02",
+      "i": 10,
+      "from": 2527,
+      "subject": "codeWindow",
+      "entities": [],
+      "concept": "codeWindow",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "code window, 1995"
+      },
+      "antidote": {
+        "concept": "codeWindow",
+        "set": null,
+        "cast": []
+      },
+      "_said": "your arms. You're feeling It's just that simple. Exactly. It's treated as this absolute binary code like A equals B, crossed arms equals"
+    },
+    {
+      "fp": "16c90e4",
+      "i": 11,
+      "from": 2793,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": "cafe",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone, read the text and then look at how it's appl, cafe, 1995"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": "cafe",
+        "cast": []
+      },
+      "_said": "equals defensive, which is just it's incredibly ironic because it's actually painful to read the text and then look at how it's applied out in the real world. For sure. That one ge"
+    },
+    {
+      "fp": "33h52r",
+      "i": 12,
+      "from": 3223,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "sweeping psychological conclusion is the exact error"
+    },
+    {
+      "fp": "7541qy",
+      "i": 13,
+      "from": 3345,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "error the authors spend the entire book begging you not to make. They hate that. They despise it. Relying on a single gesture isn't just, you know, a"
+    },
+    {
+      "fp": "unjcez",
+      "i": 14,
+      "from": 3588,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "a slight miscalculation in their methodology. It is a fundamental catastrophic misunderstanding of"
+    },
+    {
+      "fp": "ftnscf",
+      "i": 15,
+      "from": 3758,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "of human communication. So, let's set the ground rules for how we're going to approach this deep dive because this is the core of their entire"
+    },
+    {
+      "fp": "13wcu3i",
+      "i": 16,
+      "from": 4017,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "entire Yeah. Lay it out. If you are listening to this right now and you're trying to figure out how"
+    },
+    {
+      "fp": "1s2jnh3",
+      "i": 17,
+      "from": 4152,
+      "subject": "food",
+      "entities": [],
+      "concept": "food",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "food, 1995"
+      },
+      "antidote": {
+        "concept": "food",
+        "set": null,
+        "cast": []
+      },
+      "_said": "how to navigate, I don't know, a messy board meeting or a tense Thanksgiving dinner, we"
+    },
+    {
+      "fp": "1b24ayw",
+      "i": 18,
+      "from": 4310,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "we need to introduce the recurring blade that just cuts through all that bad amateur advice out there. The ultimate rule, right? And it is simply this. A single gesture is never"
+    },
+    {
+      "fp": "qw01fe",
+      "i": 19,
+      "from": 4641,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "never the sentence. It's the perfect way to frame it. I mean, think about the analogy of language itself, right?"
+    },
+    {
+      "fp": "1tu3s7h",
+      "i": 20,
+      "from": 4790,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "right? Gestures do not exist in a vacuum. They come in what the authors explicitly define as clusters. Clusters, right? To"
+    },
+    {
+      "fp": "xzwbok",
+      "i": 21,
+      "from": 5004,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "reading a single gesture like say a crossed arm, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "To really understand the foundational law of this book, you have to realize that reading a single gesture like say a crossed arm or someone rubbing their nose is exactly like grabb"
+    },
+    {
+      "fp": "7d333b",
+      "i": 22,
+      "from": 5349,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "massive paragraph and trying to do the whole plot. Exactly. Trying to guess the entire plot of a novel from that one single word."
+    },
+    {
+      "fp": "1pgkpws",
+      "i": 23,
+      "from": 5551,
+      "subject": "fire",
+      "entities": [],
+      "concept": "fire",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "fire, walk into a room right now and shout the wor, 1995"
+      },
+      "antidote": {
+        "concept": "fire",
+        "cast": []
+      },
+      "_said": "word. It doesn't work. Yes. Imagine I just walk into a room right now and shout the word fire entirely out of context, right? What does that mean exactly? What does it mean? How"
+    },
+    {
+      "fp": "13v0218",
+      "i": 24,
+      "from": 5885,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, 1995"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "are you supposed to react? Am I an army commander yelling at a firing squad to shoot their rifles or"
+    },
+    {
+      "fp": "dha4e3",
+      "i": 25,
+      "from": 6041,
+      "subject": "home",
+      "entities": [],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "home, sitting in a cozy cabin pointing, 1995"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": []
+      },
+      "_said": "or a panicked tenant in a hallway, you know, warning you to flee a burning apartment building? Or, and this is the thing, am I just sitting in a really cozy cabin pointing at the h"
+    },
+    {
+      "fp": "xne5pj",
+      "i": 26,
+      "from": 6357,
+      "subject": "gift",
+      "entities": [],
+      "concept": "gift",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "gift, 1995"
+      },
+      "antidote": {
+        "concept": "gift",
+        "cast": []
+      },
+      "_said": "hearth and describing it to you? You literally cannot know until you hear the rest of the sentence. You need the surrounding words, the cluster, right? The cluster. To give that si"
+    },
+    {
+      "fp": "1bqcln",
+      "i": 27,
+      "from": 6739,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "need that surrounding context, the authors do something really brilliant. They take human behavior completely out of the sterile"
+    },
+    {
+      "fp": "hi3tdc",
+      "i": 28,
+      "from": 6945,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "sterile laboratory. Because in a lab, you can isolate variables. You can study a single word. But humans don't live in labs. We really don't."
+    },
+    {
+      "fp": "b1o3ae",
+      "i": 29,
+      "from": 7188,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "don't. and Nerburgg and Callero use this incredible realworld analogy to illustrate the danger of isolated"
+    },
+    {
+      "fp": "1y5pbyj",
+      "i": 30,
+      "from": 7380,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "isolated observation. It involves the Ford Motor Company. Oh, the automatic door locks."
+    },
+    {
+      "fp": "lxqdjw",
+      "i": 31,
+      "from": 7517,
+      "subject": "shield",
+      "entities": [],
+      "concept": "shield",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "shield, 1995"
+      },
+      "antidote": {
+        "concept": "shield",
+        "cast": []
+      },
+      "_said": "locks. The engineering behind this is fascinating It really is. So, decades ago, Ford engineered this brand new safety accessory for their cars, vacuum automatic door locks."
+    },
+    {
+      "fp": "vhanht",
+      "i": 32,
+      "from": 7905,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "locks. Okay, set the scene. How do they work? Well, in the sterile environment of the testing lab, these locks were just a marvel. They worked perfectly."
+    },
+    {
+      "fp": "19d60bh",
+      "i": 33,
+      "from": 8150,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "perfectly. The engineering was designed with this really specific trigger, the speed trigger."
+    },
+    {
+      "fp": "1dad8hs",
+      "i": 34,
+      "from": 8268,
+      "subject": "car",
+      "entities": [],
+      "concept": "car",
+      "place": "street",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "car, reached a relative speed of 9 mph, street, 1995"
+      },
+      "antidote": {
+        "concept": "car",
+        "set": "street",
+        "cast": []
+      },
+      "_said": "trigger. Yeah. The moment the car reached a relative speed of 9 mph, the doors would automatically lock, which makes sense. The logic was totally sound. You want to ensure"
+    },
+    {
+      "fp": "iis78h",
+      "i": 35,
+      "from": 8553,
+      "subject": "shield",
+      "entities": [],
+      "concept": "shield",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "shield, 1995"
+      },
+      "antidote": {
+        "concept": "shield",
+        "cast": []
+      },
+      "_said": "ensure passenger safety by locking the doors once the vehicle is actually moving. So, in a vacuum, in the lab,"
+    },
+    {
+      "fp": "ym6kt1",
+      "i": 36,
+      "from": 8716,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "lab, flawless execution, the engineers patted themselves on the back. But cars don't"
+    },
+    {
+      "fp": "1hgfvxf",
+      "i": 37,
+      "from": 8885,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "live in laboratories. They live out in the messy, unpredictable real world."
+    },
+    {
+      "fp": "8qq6sj",
+      "i": 38,
+      "from": 8990,
+      "subject": "car",
+      "entities": [],
+      "concept": "car",
+      "place": "street",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "car, street, 1995"
+      },
+      "antidote": {
+        "concept": "car",
+        "set": "street",
+        "cast": []
+      },
+      "_said": "world. Precisely. And in the real world, what do people do with their cars? They take them to automatic car washes. Oh, no. I can see where this is going."
+    },
+    {
+      "fp": "1hylirh",
+      "i": 39,
+      "from": 9216,
+      "subject": "car",
+      "entities": [],
+      "concept": "car",
+      "place": "street",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "car, watch their car get pulled onto those tracks, street, 1995"
+      },
+      "antidote": {
+        "concept": "car",
+        "set": "street",
+        "cast": []
+      },
+      "_said": "going. Right. So, the customer would pull their brand new Ford up to the car wash, put it in neutral, step out of the vehicle like the sign says, and just watch their car get pulle"
+    },
+    {
+      "fp": "xb69ek",
+      "i": 40,
+      "from": 9552,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "tunnel. Yeah. And the giant spinning white wall brushes would come down and start vigorously"
+    },
+    {
+      "fp": "6cm437",
+      "i": 41,
+      "from": 9751,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "vigorously scrubbing the wheels. And the brushes spin fast, very fast. Because those brushes"
+    },
+    {
+      "fp": "1bqahuo",
+      "i": 42,
+      "from": 9907,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "brushes were spinning the wheels at a relative speed that exceeded 9 mph, the"
+    },
+    {
+      "fp": "1lgzc29",
+      "i": 43,
+      "from": 10027,
+      "subject": "car",
+      "entities": [],
+      "concept": "car",
+      "place": "street",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "car, street, 1995"
+      },
+      "antidote": {
+        "concept": "car",
+        "set": "street",
+        "cast": []
+      },
+      "_said": "the car's internal sensors were triggered. The car literally thinks it's driving down the street. Exactly. So, the doors locked automatically while the drivers"
+    },
+    {
+      "fp": "1r0ez0g",
+      "i": 44,
+      "from": 10269,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "standing outside completely helpless, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "drivers were standing outside completely helpless, just watching their cars slowly move through the wash. Oh, that is so brutal. At the end of the line, you had these furious"
+    },
+    {
+      "fp": "gp4ebd",
+      "i": 45,
+      "from": 10572,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "furious Ford owners who were forced to hire locksmiths just to break back into their own freshly washed vehicles."
+    },
+    {
+      "fp": "dvd2gi",
+      "i": 46,
+      "from": 10766,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "vehicles. Ford had to completely scrap the design, didn't they? They had to go entirely back to the drawing board. You know, the metaphor here is just devastating for the pop psych"
+    },
+    {
+      "fp": "oqiy3w",
+      "i": 47,
+      "from": 11095,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "really is. Because what Nerburgg and Caller are saying is that you absolutely cannot study human gestures in these isolated sterile"
+    },
+    {
+      "fp": "xvqtmd",
+      "i": 48,
+      "from": 11335,
+      "subject": "photo",
+      "entities": [],
+      "concept": "photo",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "photo, read a quick bullet point, 1995"
+      },
+      "antidote": {
+        "concept": "photo",
+        "set": null,
+        "cast": []
+      },
+      "_said": "sterile laboratory vacuums. You can't just look at a static photograph of someone with a crossed arm or read a quick bullet point in"
+    },
+    {
+      "fp": "ul7o9l",
+      "i": 49,
+      "from": 11549,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "in an internet article and deduce human emotion. You have to look at the messy spinning brushes of real life interactions. You have to account for"
+    },
+    {
+      "fp": "zr8ae7",
+      "i": 50,
+      "from": 11825,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "for the environment because in real life you're looking for one thing above all else. Congruence. Congruence. The"
+    },
+    {
+      "fp": "1fg8cq0",
+      "i": 51,
+      "from": 12005,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "real signal to listen for like the master key to this whole discipline"
+    },
+    {
+      "fp": "y8xycr",
+      "i": 52,
+      "from": 12146,
+      "subject": "game",
+      "entities": [],
+      "concept": "game",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "game, 1995"
+      },
+      "antidote": {
+        "concept": "game",
+        "set": null,
+        "cast": []
+      },
+      "_said": "discipline is whether the physical body matches the words coming out of the mouth. Do the audio and the visual And the ultimate"
+    },
+    {
+      "fp": "n7j7cj",
+      "i": 53,
+      "from": 12357,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "ultimate universal example of this, the one every single person listening to this has experienced is the nervous laugh. Oh, the nervous laugh is the absolute"
+    },
+    {
+      "fp": "137csqi",
+      "i": 54,
+      "from": 12588,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, 1995"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "absolute biological definition of inongruity. So painful to watch. It's a literal war between the conscious brain and the nervous system."
+    },
+    {
+      "fp": "ziwuqd",
+      "i": 55,
+      "from": 12796,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "system. Think about the audio you're hearing, right? a So audio-wise, the mouth is attempting to communicate amusement or joy or or at least, you know, social agreement. But look a"
+    },
+    {
+      "fp": "abjp4w",
+      "i": 56,
+      "from": 13205,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "laugh. It's a complete disaster. Yeah. The weight is shifting violently from foot to foot. The eyes"
+    },
+    {
+      "fp": "1ujbc2u",
+      "i": 57,
+      "from": 13349,
+      "subject": "shield",
+      "entities": [],
+      "concept": "shield",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "shield, 1995"
+      },
+      "antidote": {
+        "concept": "shield",
+        "cast": []
+      },
+      "_said": "eyes are darting toward the exits. The shoulders are hunched up toward the right? To protect the neck. The body is practically"
+    },
+    {
+      "fp": "1kt9npa",
+      "i": 58,
+      "from": 13538,
+      "subject": "chains",
+      "entities": [],
+      "concept": "chains",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "chains, 1995"
+      },
+      "antidote": {
+        "concept": "chains",
+        "cast": []
+      },
+      "_said": "practically vibrating with this evolutionary desire to just escape"
+    },
+    {
+      "fp": "z1z5sm",
+      "i": 59,
+      "from": 13646,
+      "subject": "chains",
+      "entities": [],
+      "concept": "chains",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "chains, 1995"
+      },
+      "antidote": {
+        "concept": "chains",
+        "cast": []
+      },
+      "_said": "escape the environment. So the sound says I amused by this interaction but the physical gesture cluster"
+    },
+    {
+      "fp": "1mr5rt4",
+      "i": 60,
+      "from": 13848,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "read the single word, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "cluster screams my amydala is firing rapidly and I am terrified. Exactly. If you only listen to the audio, if you only read the single word, you miss the reality of"
+    },
+    {
+      "fp": "nj1bwj",
+      "i": 61,
+      "from": 14186,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "of the situation The body is completely betraying the The mouth is a diplomat. Oh, I like"
+    },
+    {
+      "fp": "1um3eya",
+      "i": 62,
+      "from": 14349,
+      "subject": "funnelMetrics",
+      "entities": [],
+      "concept": "funnelMetrics",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "funnel metrics, 1995"
+      },
+      "antidote": {
+        "concept": "funnelMetrics",
+        "set": null,
+        "cast": []
+      },
+      "_said": "like that. Yeah. But the body is a terrible liar. And that leads us perfectly into the first major cluster the authors identify, which is the baseline we really"
+    },
+    {
+      "fp": "1ibfdoe",
+      "i": 63,
+      "from": 14599,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "really need to establish before we look at deception or anger. Right? We have to start with openness. The physical grammar of I have nothing to hide."
+    },
+    {
+      "fp": "1sr2mo3",
+      "i": 64,
+      "from": 14803,
+      "subject": "road",
+      "entities": [],
+      "concept": "road",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "road, 1995"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": null,
+        "cast": []
+      },
+      "_said": "hide. Openness is so fascinating to study because it's something you physiologically feel in a room before you ever consciously notice it. Like an energy shift. Yeah. The physical "
+    },
+    {
+      "fp": "nkssfp",
+      "i": 65,
+      "from": 15136,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "back to evolutionary biology. We're talking about open palms being presented. bodies physically leaning in toward the speaker. The literal closing of physical distance between two "
+    },
+    {
+      "fp": "fcqc20",
+      "i": 66,
+      "from": 15425,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "people. It's the physical manifestation of trust, isn't it? Like from"
+    },
+    {
+      "fp": "1typez3",
+      "i": 67,
+      "from": 15525,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "from an evolutionary standpoint, exposing the vententral front of your body, your stomach, your chest, your throat, what all your vital organs are,"
+    },
+    {
+      "fp": "drljzo",
+      "i": 68,
+      "from": 15785,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "right? Exposing that to another apex and predator, which is what another human is, requires immense psychological You are signaling, I do not believe you are going to strike me. Ex"
+    },
+    {
+      "fp": "hovp4d",
+      "i": 69,
+      "from": 16154,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": "cafe",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone, cafe, 1995"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": "cafe",
+        "cast": []
+      },
+      "_said": "authors have this incredible anecdote in the text that perfectly illustrates how subtly we read"
+    },
+    {
+      "fp": "q4yj3s",
+      "i": 70,
+      "from": 16317,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, read this vulnerability, 1995"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": []
+      },
+      "_said": "read this vulnerability. Oh, the newlywed story. I love this one. Yeah. They talk about this newlywed woman at a large family party. So, she's standing in a room full of people, mo"
+    },
+    {
+      "fp": "8zgf9i",
+      "i": 71,
+      "from": 16601,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "her new husband's extended but the crowd was interspersed with random neighbors, right?"
+    },
+    {
+      "fp": "uhb18b",
+      "i": 72,
+      "from": 16733,
+      "subject": "game",
+      "entities": [],
+      "concept": "game",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "game, 1995"
+      },
+      "antidote": {
+        "concept": "game",
+        "set": null,
+        "cast": []
+      },
+      "_said": "right? Yeah. Friends of friends, distant acquaintances she had never met. It's a big, messy gathering. And the researchers essentially asked her to play a game. They asked her to i"
+    },
+    {
+      "fp": "hsttpd",
+      "i": 73,
+      "from": 17028,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "standing against the wall and observing the room, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "actual familyike, the deep inroup, and who were the outsiders just by standing against the wall and observing the room. And she nailed it completely."
+    },
+    {
+      "fp": "1f3u2ni",
+      "i": 74,
+      "from": 17273,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "completely. Out of 10 guesses, she got eight perfectly correct. But her secret wasn't like eavesdropping"
+    },
+    {
+      "fp": "usq7al",
+      "i": 75,
+      "from": 17467,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, 1995"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": []
+      },
+      "_said": "eavesdropping on conversations. No, she wasn't looking for shared physical resemblances or listening for family gossip. What did she do? She simply looked around the room"
+    },
+    {
+      "fp": "177tlym",
+      "i": 76,
+      "from": 17733,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "room and noticed whose coats were taken off or whose jackets were unbuttoned. The people who felt entirely"
+    },
+    {
+      "fp": "ir6zj3",
+      "i": 77,
+      "from": 17933,
+      "subject": "shadowSelf",
+      "entities": [],
+      "concept": "shadowSelf",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "shadow self, 1995"
+      },
+      "antidote": {
+        "concept": "shadowSelf",
+        "cast": []
+      },
+      "_said": "entirely comfortable, the ones who were open to the environment and felt this deep subconscious sense of belonging to the tribe, they had physically opened their They had literally"
+    },
+    {
+      "fp": "cxezsg",
+      "i": 78,
+      "from": 18276,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Exactly. The outsiders, the ones who felt a bit guarded, who didn't quite know where they stood in the social hierarchy of the room, they kept their jackets button tight, which is "
+    },
+    {
+      "fp": "yrpsg9",
+      "i": 79,
+      "from": 18559,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "brilliant observation of a microcluster in a purely social setting. But if we take that exact"
+    },
+    {
+      "fp": "12yxb1z",
+      "i": 80,
+      "from": 18713,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, 1995"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": []
+      },
+      "_said": "same biological principle out of the family party and put it into the brutal highstakes world of corporate the stakes become even clearer."
+    },
+    {
+      "fp": "fz79ns",
+      "i": 81,
+      "from": 18991,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "clearer. Yeah, the contrast is stark. I was actually fascinated by"
+    },
+    {
+      "fp": "2gyks",
+      "i": 82,
+      "from": 19075,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": "cafe",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone, cafe, 1995"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": "cafe",
+        "cast": []
+      },
+      "_said": "by an observation you pulled from the text regarding a business conference in Jamaica. Oh man,"
+    },
+    {
+      "fp": "7pmirm",
+      "i": 83,
+      "from": 19233,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "man, the Jamaican conference anecdote completely shifts how I view discomfort. Tell me about it."
+    },
+    {
+      "fp": "w5i0th",
+      "i": 84,
+      "from": 19411,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "it. Because it proves that the psychological need for armor actually overrides our basic biological response to which shouldn't even make sense right? So picture a business confere"
+    },
+    {
+      "fp": "1ecjeeb",
+      "i": 85,
+      "from": 19793,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "conference in Jamaica in the days before universal powerful air conditioning. So, it's hot. The heat is absolutely sweltering."
+    },
+    {
+      "fp": "2v2t2e",
+      "i": 86,
+      "from": 20023,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "sitting around a negotiation table, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "sweltering. Oppressive tropical heat. You have these businessmen sitting around a negotiation table, literally sweating through their dress shirts. Just"
+    },
+    {
+      "fp": "1pkrtg9",
+      "i": 87,
+      "from": 20248,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "holding his ground, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Just miserable. Miserable. But despite the intense, uncomfortable temperature, a businessman holding his ground in a"
+    },
+    {
+      "fp": "se6z1z",
+      "i": 88,
+      "from": 20455,
+      "subject": "rocketLaunch",
+      "entities": [],
+      "concept": "rocketLaunch",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "rocket launch, 1995"
+      },
+      "antidote": {
+        "concept": "rocketLaunch",
+        "set": null,
+        "cast": []
+      },
+      "_said": "a tense negotiation will almost never take off his suit coat. It defies biological logic. He is overheating, but his brain is calculating that"
+    },
+    {
+      "fp": "7jt6p5",
+      "i": 89,
+      "from": 20683,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "sits there, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "that the psychological threat across the table is more dangerous than the thermal threat of the Yes, he maintains the protective barrier. He sits there"
+    },
+    {
+      "fp": "1jqavmp",
+      "i": 90,
+      "from": 20918,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "there miserable but But here is the magic of the cluster. The moment like the exact fraction of a second an agreement seems near."
+    },
+    {
+      "fp": "atcjgg",
+      "i": 91,
+      "from": 21180,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "reaches up, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "near. When the tension finally breaks, right? When a deal is in sight, what He reaches up, unbuttons the coat, or just takes it off entirely and drapes it over the chair."
+    },
+    {
+      "fp": "8p9fxw",
+      "i": 92,
+      "from": 21477,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "chair. The unbuttoning of the coat isn't about the temperature of the room suddenly getting to him. It is the physical manifestation of"
+    },
+    {
+      "fp": "1t8sp13",
+      "i": 93,
+      "from": 21672,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "of the conscious thought, okay, we might actually have a deal here. I can disarm. It's the body signaling a lowering of defenses. The brain has declared"
+    },
+    {
+      "fp": "1i29ryy",
+      "i": 94,
+      "from": 21938,
+      "subject": "shield",
+      "entities": [],
+      "concept": "shield",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "shield, 1995"
+      },
+      "antidote": {
+        "concept": "shield",
+        "cast": []
+      },
+      "_said": "declared the environment safe. But this raises the immediate counter question, right? What happens when that openness is threatened?"
+    },
+    {
+      "fp": "tl4gc0",
+      "i": 95,
+      "from": 22137,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "threatened? Right? What happens when a negotiation turns sour or a casual conversation suddenly shifts to a highly sensitive topic? The body instantly begins to build a wall, liter"
+    },
+    {
+      "fp": "3mzirf",
+      "i": 96,
+      "from": 22500,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "us to the defensiveness cluster. And this is where we have to be incredibly precise because this is the cluster"
+    },
+    {
+      "fp": "18ufdf6",
+      "i": 97,
+      "from": 22651,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "cluster everyone gets wrong. Everyone. The classic defensive posture is the one everyone knows."
+    },
+    {
+      "fp": "dh3dx2",
+      "i": 98,
+      "from": 22800,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "knows. Arms crossed high on the chest. The body draws back, physically retreating from the opposer. The hands often ball up."
+    },
+    {
+      "fp": "11b6bhr",
+      "i": 99,
+      "from": 22999,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "up. Okay, hold on. Let me push back here because this is exactly where the amateur body language experts get Fair enough. And frankly, this"
+    },
+    {
+      "fp": "1fctn60",
+      "i": 100,
+      "from": 23248,
+      "subject": "storm",
+      "entities": [],
+      "concept": "storm",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "storm, sitting in a awkward chair with no armre, 1995"
+      },
+      "antidote": {
+        "concept": "storm",
+        "set": null,
+        "cast": []
+      },
+      "_said": "this is the cognitive bandwidth problem. If I am in a freezing cold conference room or uh if I'm sitting in a really awkward chair with no armrests, folding my arms is literally ju"
+    },
+    {
+      "fp": "1isw7y4",
+      "i": 101,
+      "from": 23621,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "the most comfortable, thermodynamically efficient place to put my hands, are you telling me I'm secretly"
+    },
+    {
+      "fp": "1buukus",
+      "i": 102,
+      "from": 23767,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "secretly defensive just because I'm slouching comfortably to stay warm? And that is an entirely valid push back. In fact, that push back is the exact thesis"
+    },
+    {
+      "fp": "1u9fa6k",
+      "i": 103,
+      "from": 24041,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "read the arm alone, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "thesis of Nanburg and Caller's work. that is why they insist you never ever read the arm alone. The"
+    },
+    {
+      "fp": "169vyfl",
+      "i": 104,
+      "from": 24259,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "The arm crossing is just the first word in the sentence. The first word, right? If you want to know if the person across from you is truly emotionally defensive or if the building "
+    },
+    {
+      "fp": "122rb6a",
+      "i": 105,
+      "from": 24593,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "to look for the amplifiers. The amplifiers. Okay. If I'm pitching a slide deck to a room full of people, what"
+    },
+    {
+      "fp": "11o30zv",
+      "i": 106,
+      "from": 24751,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "what do those amplifiers actually look Let's break down the mechanics. If someone is just cold, they will cross their arms. Yes. But look at their What are the hands doing? A cold "
+    },
+    {
+      "fp": "1ao4go5",
+      "i": 107,
+      "from": 25099,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "under their armpits to preserve body heat. Oh, that makes sense."
+    },
+    {
+      "fp": "1a8uyfd",
+      "i": 108,
+      "from": 25200,
+      "subject": "shield",
+      "entities": [],
+      "concept": "shield",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "shield, 1995"
+      },
+      "antidote": {
+        "concept": "shield",
+        "cast": []
+      },
+      "_said": "sense. Their shoulders will be shrugged up toward their ears to protect the back of their neck from the draft. The posture is compact, but it's"
+    },
+    {
+      "fp": "1wbclg5",
+      "i": 109,
+      "from": 25416,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "it's not aggressive. Okay, so what is the aggressive version? What am I looking for if they hate my If someone"
+    },
+    {
+      "fp": "1ouegtd",
+      "i": 110,
+      "from": 25591,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "someone is defensive, their body is preparing for a confrontation."
+    },
+    {
+      "fp": "1u56h6r",
+      "i": 111,
+      "from": 25694,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, hold? oh wow, 1995"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "confrontation. It's a fight orflight response. So look at their fingers. Are those fingers wrapped around their own bicep in a white knuckled strangle hold? Oh wow. Are the hands"
+    },
+    {
+      "fp": "1s7tjry",
+      "i": 112,
+      "from": 25987,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "hands clenched into tight fists where they rest on the arm? A cold person doesn't make fists."
+    },
+    {
+      "fp": "4hrd2e",
+      "i": 113,
+      "from": 26165,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, 1995"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "fists. A defensive person is unconsciously preparing for physical combat. The muscle tension is the amplifier. Exactly. You are looking for the kinetic energy stored in the body."
+    },
+    {
+      "fp": "3zco15",
+      "i": 114,
+      "from": 26438,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "body. That distinction is crucial. It's not the position of the limbs. It's the tension in the grip that reveals the emotion. And I know the authors point out a"
+    },
+    {
+      "fp": "kvqak6",
+      "i": 115,
+      "from": 26707,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": "cafe",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone, cafe, 1995"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": "cafe",
+        "cast": []
+      },
+      "_said": "a really interesting gender difference here too, which speaks to how socialization impacts these defensive Yes, the text notes a very specific"
+    },
+    {
+      "fp": "ea3xgm",
+      "i": 116,
+      "from": 26959,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "specific divergence in how men and women construct this physical wall. When men cross their arms defensively, they tend to cross them very high up on the chest. And biologically, t"
+    },
+    {
+      "fp": "11axj49",
+      "i": 117,
+      "from": 27302,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "right? They are puffing out the torso, attempting to look larger and more like"
+    },
+    {
+      "fp": "g2un0z",
+      "i": 118,
+      "from": 27441,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "like a silverback gorilla beating its chest. But women tend to cross their arms significantly lower on their torso. Why is that?"
+    },
+    {
+      "fp": "1koq1mm",
+      "i": 119,
+      "from": 27662,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "that? Well, the authors point out that this is a protective posture that is often adopted starting way back in puberty."
+    },
+    {
+      "fp": "1w10jcd",
+      "i": 120,
+      "from": 27859,
+      "subject": "shadowSelf",
+      "entities": [],
+      "concept": "shadowSelf",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "shadow self, 1995"
+      },
+      "antidote": {
+        "concept": "shadowSelf",
+        "cast": []
+      },
+      "_said": "puberty. Yeah. As their bodies develop and draw unwanted attention, crossing the arms low becomes this ingrained subconscious way of guarding the body when feeling threatened or ex"
+    },
+    {
+      "fp": "xlcmow",
+      "i": 121,
+      "from": 28207,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "profound observation about how our physical development and our socialization shape our non-verbal vocabulary. We carry"
+    },
+    {
+      "fp": "652hc3",
+      "i": 122,
+      "from": 28404,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "carry our history in our do, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "carry our history in our Really do. But to return to your earlier challenge, if you see someone with their arms crossed, you must immediately force your brain to scan for the tight"
+    },
+    {
+      "fp": "1kkfubp",
+      "i": 123,
+      "from": 28701,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "fists, the clenched jaw, the drawn back posture. Because if they're just cold, you won't see that white knuckled strangle hold."
+    },
+    {
+      "fp": "9z3ovw",
+      "i": 124,
+      "from": 28891,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "hold. Exactly. And this is why we have to keep coming back to the core law of the book. A single gesture is never the sentence. You have to read the whole paragraph of the"
+    },
+    {
+      "fp": "1qgaaxg",
+      "i": 125,
+      "from": 29174,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "read the tension, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "the body. Right? You have to read the tension, the context, the environment. So, we've looked at openness where the drawbridge is down. And we've"
+    },
+    {
+      "fp": "14lzn20",
+      "i": 126,
+      "from": 29364,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "we've looked at defensiveness where the wall is up. But what about the space in between? What about the state where someone hasn't actually made up their mind yet? That is"
+    },
+    {
+      "fp": "cp96l3",
+      "i": 127,
+      "from": 29606,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "is the evaluation cluster. The physical signature of a deciding mind. This one is so common in meetings. Oh, everywhere. When someone is genuinely weighing a proposal or deeply"
+    },
+    {
+      "fp": "1lebkgw",
+      "i": 128,
+      "from": 29930,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "deeply considering the data you are presenting, their body adopts very specific postures"
+    },
+    {
+      "fp": "1146ldj",
+      "i": 129,
+      "from": 30096,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "postures to facilitate that internal processing. The classic one, of course, is the hand to the cheek, right? You immediately think of Rodan sculpture, the thinker, or a slow delib"
+    },
+    {
+      "fp": "4az2p6",
+      "i": 130,
+      "from": 30508,
+      "subject": "mask",
+      "entities": [],
+      "concept": "mask",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "mask, 1995"
+      },
+      "antidote": {
+        "concept": "mask",
+        "cast": []
+      },
+      "_said": "What's fascinating here from a psychological standpoint is how people use physical objects like those glasses to mask"
+    },
+    {
+      "fp": "13in42g",
+      "i": 131,
+      "from": 30708,
+      "subject": "mask",
+      "entities": [],
+      "concept": "mask",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "mask, 1995"
+      },
+      "antidote": {
+        "concept": "mask",
+        "cast": []
+      },
+      "_said": "mask the evaluation process. Goodbye time. Yes, they use props to buy themselves I see this in meetings constantly and once"
+    },
+    {
+      "fp": "lhcuce",
+      "i": 132,
+      "from": 30926,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "once you realize what it is, you can't unsee it. It's so obvious once you know someone will be asked a really tough complex"
+    },
+    {
+      "fp": "12azlpz",
+      "i": 133,
+      "from": 31142,
+      "subject": "rocketLaunch",
+      "entities": [],
+      "concept": "rocketLaunch",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "rocket launch, 1995"
+      },
+      "antidote": {
+        "concept": "rocketLaunch",
+        "set": null,
+        "cast": []
+      },
+      "_said": "complex question and instead of answering immediately which might lead to a mistake they take off their glasses and they slowly methodically"
+    },
+    {
+      "fp": "1yuk33w",
+      "i": 134,
+      "from": 31408,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "start cleaning the lenses with a microfiber cloth even if the glasses are already completely spotless. Exactly. Or the classic example of the pipe smoker."
+    },
+    {
+      "fp": "1q1dv55",
+      "i": 135,
+      "from": 31677,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "smoker. He's asked a tough question and suddenly he needs to go through this elaborate multi-step ritual. Tapping out the ash, cleaning the bowl, packing fresh tobacco,"
+    },
+    {
+      "fp": "14qi8ev",
+      "i": 136,
+      "from": 31941,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "tobacco, relighting his pipe all right before making a decision. Or in more modern context, someone taking the earpiece of their glasses and placing it in their mouth. It is a phys"
+    },
+    {
+      "fp": "wgyscd",
+      "i": 137,
+      "from": 32261,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Their prefrontal cortex is screaming, \"I need 10 more seconds to process this data without looking incompetent.\" So the"
+    },
+    {
+      "fp": "1g7zqp7",
+      "i": 138,
+      "from": 32455,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "the body orchestrates a busy work task to justify the silence. The busy work provides a socially acceptable cover for the mental processing delay. But let me admit"
+    },
+    {
+      "fp": "1txvxac",
+      "i": 139,
+      "from": 32728,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": "office",
+      "confidence": 0.35,
+      "vox": {
+        "shot": "office, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": "office",
+        "cast": []
+      },
+      "_said": "admit some confusion here because the reality of the boardroom is It always is. What's the confusion? I see people"
+    },
+    {
+      "fp": "vr93es",
+      "i": 140,
+      "from": 32971,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "sitting in long meetings with their head restin, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "sitting in long meetings with their head resting on their hand all the time. But half the time they don't look like they"
+    },
+    {
+      "fp": "1xkc94",
+      "i": 141,
+      "from": 33175,
+      "subject": "food",
+      "entities": [],
+      "concept": "food",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "food, 1995"
+      },
+      "antidote": {
+        "concept": "food",
+        "set": null,
+        "cast": []
+      },
+      "_said": "they are in devaluation. They look like they are deadeyed bored and actively praying for the meeting to end so they can go to lunch."
+    },
+    {
+      "fp": "18ees5o",
+      "i": 142,
+      "from": 33381,
+      "subject": "food",
+      "entities": [],
+      "concept": "food",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "food, 1995"
+      },
+      "antidote": {
+        "concept": "food",
+        "set": null,
+        "cast": []
+      },
+      "_said": "lunch. That's a very real scenario, right? So, if I'm pitching an idea, how do I actually tell"
+    },
+    {
+      "fp": "h4xgoc",
+      "i": 143,
+      "from": 33530,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "tell the difference between I am deeply evaluating your brilliant proposal and I am completely checked out"
+    },
+    {
+      "fp": "t6wdqq",
+      "i": 144,
+      "from": 33741,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "out and borderline comeosse? That is a crucial distinction because misreading that could cause you to either keep talking when you should stop or stop talking when you finally"
+    },
+    {
+      "fp": "fqeqlg",
+      "i": 145,
+      "from": 34027,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "finally have their attention. And the book provides a very specific physical cue rooted"
+    },
+    {
+      "fp": "157q7l9",
+      "i": 146,
+      "from": 34200,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "rooted in biomechanics to differentiate the two. It all comes down to where the physical weight of the human skull is resting."
+    },
+    {
+      "fp": "17isjtw",
+      "i": 147,
+      "from": 34387,
+      "subject": "gift",
+      "entities": [],
+      "concept": "gift",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "gift, 1995"
+      },
+      "antidote": {
+        "concept": "gift",
+        "cast": []
+      },
+      "_said": "resting. Okay, break down the biomechanics for me. Give me the visual. True evaluation, the active deciding mind usually features a hand resting lightly on the cheek, often with th"
+    },
+    {
+      "fp": "rpeb2j",
+      "i": 148,
+      "from": 34701,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "finger extended upward along the pointing toward the temple. Yes, pointing up. But here is the key. The head is not fully"
+    },
+    {
+      "fp": "1cmncnu",
+      "i": 149,
+      "from": 34925,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "fully supported by the hand. The neck muscles are still Oh, that makes sense. The spine is relatively aligned. It is a posture of active"
+    },
+    {
+      "fp": "1jra7j7",
+      "i": 150,
+      "from": 35193,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "active energetic attention. The finger on the cheek is an anchor point, not a crutch. Okay. So, what"
+    },
+    {
+      "fp": "1eslmm0",
+      "i": 151,
+      "from": 35371,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "what about boredom? What happens to the biomechanics when the brain checks out? Boredom is gravity taking over. The entire heavy weight of the head, which weighs roughly 10 to 12 l"
+    },
+    {
+      "fp": "h11z0z",
+      "i": 152,
+      "from": 35738,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "completely propped up and surrendered into the palm of the hand. The"
+    },
+    {
+      "fp": "1348k6p",
+      "i": 153,
+      "from": 35829,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "The neck muscles have essentially given They have tapped out. The eye contact usually drops or glazes over. The index finger isn't"
+    },
+    {
+      "fp": "1vfq99y",
+      "i": 154,
+      "from": 36067,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "isn't pointing upward in an engaged manner anymore. The whole hand is literally just acting as a shelf for a tired skull. That is such a vivid practical"
+    },
+    {
+      "fp": "9xfyr7",
+      "i": 155,
+      "from": 36324,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "practical distinction. Extended index singer with engaged neck muscles equals evaluation. And heavy"
+    },
+    {
+      "fp": "1ulxf33",
+      "i": 156,
+      "from": 36497,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "heavy skull surrendered into a flat palm equals somebody who is wishing they were anywhere else. And that heavy skull of boredom is gravity taking over. But gravity isn't the only "
+    },
+    {
+      "fp": "hlre9q",
+      "i": 157,
+      "from": 36859,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "leave because, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "listener. Eventually, the biological instinct to flee kicks in. Yes. The wish to leave because"
+    },
+    {
+      "fp": "b8c8p1",
+      "i": 158,
+      "from": 37044,
+      "subject": "balance",
+      "entities": [],
+      "concept": "balance",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "balance, 1995"
+      },
+      "antidote": {
+        "concept": "balance",
+        "cast": []
+      },
+      "_said": "because evaluation is emotionally neutral, right? They're just weighing the data. But what happens if that internal decision process"
+    },
+    {
+      "fp": "o9ba8z",
+      "i": 159,
+      "from": 37269,
+      "subject": "lightbulb",
+      "entities": [],
+      "concept": "lightbulb",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "lightbulb, 1995"
+      },
+      "antidote": {
+        "concept": "lightbulb",
+        "cast": []
+      },
+      "_said": "process turns negative? If they evaluate your idea or they get bored and they internally decide, I want out of this, right? The body quietly begins"
+    },
+    {
+      "fp": "1irh9is",
+      "i": 160,
+      "from": 37524,
+      "subject": "sword",
+      "entities": [],
+      "concept": "sword",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "sword, 1995"
+      },
+      "antidote": {
+        "concept": "sword",
+        "cast": []
+      },
+      "_said": "begins to orchestrate a physical exit long before the mouth is brave enough to say a word. Which brings us to the cluster of suspicion and the wish to leave. This is the"
+    },
+    {
+      "fp": "1jlx3ie",
+      "i": 161,
+      "from": 37828,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "the body announcing a departure that the mouth hasn't agreed to yet because social politeness forces them to stay in the room. This is where we see the literal"
+    },
+    {
+      "fp": "1g4eftm",
+      "i": 162,
+      "from": 38047,
+      "subject": "storm",
+      "entities": [],
+      "concept": "storm",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "storm, 1995"
+      },
+      "antidote": {
+        "concept": "storm",
+        "set": null,
+        "cast": []
+      },
+      "_said": "literal physical embodiment of the phrase giving someone the cold shoulder. The sideways glance. Yes, the authors describe it perfectly."
+    },
+    {
+      "fp": "2ojnaj",
+      "i": 163,
+      "from": 38234,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, stand square to your opponent, 1995"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "perfectly. It's like a fencer squaring off. M if you think about a sword fight, you don't stand square to your opponent, exposing your full chest. You turn to the side to reduce yo"
+    },
+    {
+      "fp": "1o1ykc8",
+      "i": 164,
+      "from": 38575,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "this in conversation. They really do. Instead of facing you directly torso to torso, the person subtly angles their body 45° away from you. They are physically shielding"
+    },
+    {
+      "fp": "rcqful",
+      "i": 165,
+      "from": 38901,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "shielding themselves from whatever you are And here's the trap. Even if"
+    },
+    {
+      "fp": "u903si",
+      "i": 166,
+      "from": 39038,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "if they are maintaining perfect eye contact, even if they're smiling and nodding and saying that's a very interesting point, you cannot"
+    },
+    {
+      "fp": "1dbtfcq",
+      "i": 167,
+      "from": 39237,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "cannot trust the face. The face is a liar. The face is a massive liar. You have to look doo the feet. The feet never lie."
+    },
+    {
+      "fp": "11mpqs5",
+      "i": 168,
+      "from": 39475,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "lie. Never. And there is a neurological reason for this. From the time we are infants, we are socialized to control our facial expressions."
+    },
+    {
+      "fp": "1uubahz",
+      "i": 169,
+      "from": 39681,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "expressions. We're told to smile for grandma or don't roll your eyes. Exactly. Our conscious brain is highly trained to manage the micro expressions of the face, but that"
+    },
+    {
+      "fp": "1ujo8ie",
+      "i": 170,
+      "from": 39969,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "that social conditioning does not extend all the way down to our feet. Our brain essentially forgets to lie with our feet."
+    },
+    {
+      "fp": "1mp9yn1",
+      "i": 171,
+      "from": 40145,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "feet. That's exactly it. So, if you want to know what someone really wants to do, look at their orientation. If their torso is angled away and their feet are quietly pointing direc"
+    },
+    {
+      "fp": "24wbju",
+      "i": 172,
+      "from": 40433,
+      "subject": "mask",
+      "entities": [],
+      "concept": "mask",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "mask, 1995"
+      },
+      "antidote": {
+        "concept": "mask",
+        "cast": []
+      },
+      "_said": "the the meeting is already over in their It's done. The polite mask stays on, but the feet are already halfway down the hallway."
+    },
+    {
+      "fp": "14e6wwl",
+      "i": 173,
+      "from": 40627,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "waiting for a polite gap in the conversation, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "hallway. They're just waiting for a polite gap in the conversation to physically execute the exit their body has already mapped out. Exactly. But um if we are"
+    },
+    {
+      "fp": "xv6460",
+      "i": 174,
+      "from": 40910,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "reading about the professor bird whistle case s, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "are talking about suspicion, concealment, and the body betraying the mouth, we have to talk about the wildest part of this cluster. Let me guess, the nose rub. The nose rub. Oh, I "
+    },
+    {
+      "fp": "19a93tx",
+      "i": 175,
+      "from": 41263,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": "cafe",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone, cafe, 1995"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": "cafe",
+        "cast": []
+      },
+      "_said": "study at the University of Louisville in the text. It's a classic. But before we get into the nose rub itself, wait"
+    },
+    {
+      "fp": "ov49kh",
+      "i": 176,
+      "from": 41419,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "wait to find kinesisics for us, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "wait to find kinesisics for us. Yeah. The book mentions Bird Whistle as a pioneer in kinesisics."
+    },
+    {
+      "fp": "3iof3b",
+      "i": 177,
+      "from": 41587,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "kinesisics. We're taking body language out of the realm of party tricks and into actual science here. What was bird whistle actually studying?"
+    },
+    {
+      "fp": "m8vkww",
+      "i": 178,
+      "from": 41786,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "studying? That's a great grounding question. So, kinesis is essentially the scientific study of human body motion as a form of It was developed"
+    },
+    {
+      "fp": "1trww6f",
+      "i": 179,
+      "from": 42060,
+      "subject": "lightbulb",
+      "entities": [],
+      "concept": "lightbulb",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "lightbulb, 1995"
+      },
+      "antidote": {
+        "concept": "lightbulb",
+        "cast": []
+      },
+      "_said": "developed in the 1950s by Ray Birdwistl who was an anthropologist. The core idea of kinesics is that body movements aren't just random spasms. They"
+    },
+    {
+      "fp": "6kzvya",
+      "i": 180,
+      "from": 42328,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "They mean something, right? They have a syntax and a grammar just like spoken language. it is the rigorous empirical study of how micro movements"
+    },
+    {
+      "fp": "1boypea",
+      "i": 181,
+      "from": 42590,
+      "subject": "shadowSelf",
+      "entities": [],
+      "concept": "shadowSelf",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "shadow self, 1995"
+      },
+      "antidote": {
+        "concept": "shadowSelf",
+        "cast": []
+      },
+      "_said": "movements communicate macro Okay, so with that scientific framework, let's look at this specific case study because it perfectly encapsulates how our subconscious betrays us."
+    },
+    {
+      "fp": "lscp5e",
+      "i": 182,
+      "from": 42943,
+      "subject": "school",
+      "entities": [],
+      "concept": "school",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "school, 1995"
+      },
+      "antidote": {
+        "concept": "school",
+        "set": null,
+        "cast": []
+      },
+      "_said": "us. So, Professor Birdwistl was having a conversation with a young college student about a modern classic book, and the student is trying to impress desperately trying to impress"
+    },
+    {
+      "fp": "rmnr4b",
+      "i": 183,
+      "from": 43236,
+      "subject": "school",
+      "entities": [],
+      "concept": "school",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "school, read the book and enjoyed it very much, 1995"
+      },
+      "antidote": {
+        "concept": "school",
+        "set": null,
+        "cast": []
+      },
+      "_said": "impress the esteemed professor, the student claimed that he had read the book and enjoyed it very much. But in the exact"
+    },
+    {
+      "fp": "141c5ny",
+      "i": 184,
+      "from": 43423,
+      "subject": "school",
+      "entities": [],
+      "concept": "school",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "school, 1995"
+      },
+      "antidote": {
+        "concept": "school",
+        "set": null,
+        "cast": []
+      },
+      "_said": "exact millisecond as the student spoke those specific words, his index finger came up and vigorously rubbed the side of his"
+    },
+    {
+      "fp": "1oosvtp",
+      "i": 185,
+      "from": 43629,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": "cafe",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone, cafe, 1995"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": "cafe",
+        "cast": []
+      },
+      "_said": "his nose. It's a quick scratch. Yeah. But the professor training kinesics immediately called him out. He interrupted and said, \"The truth is you didn't like the book.\" Oh man, imag"
+    },
+    {
+      "fp": "plq30c",
+      "i": 186,
+      "from": 43977,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "reading his mind, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "right? And bewildered as to how the professor was reading his mind. He confessed that he had only read a few pages,"
+    },
+    {
+      "fp": "jwaj9k",
+      "i": 187,
+      "from": 44143,
+      "subject": "rocketLaunch",
+      "entities": [],
+      "concept": "rocketLaunch",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "rocket launch, 1995"
+      },
+      "antidote": {
+        "concept": "rocketLaunch",
+        "set": null,
+        "cast": []
+      },
+      "_said": "pages, hadn't finished it, and found it incredibly dull. Okay, but break down the why. Why the nose? Why does telling a lie about a book make a grown college student rub his nose? "
+    },
+    {
+      "fp": "fdukv0",
+      "i": 188,
+      "from": 44491,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "to early childhood development. When a very young child tells a lie, they will often literally clap their hands over their mouth in panic immediately after saying it."
+    },
+    {
+      "fp": "8ro5k7",
+      "i": 189,
+      "from": 44750,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "it. Physically trying to stop the deceitful words from escaping into the room. It's a primitive reflex. As we grow older and"
+    },
+    {
+      "fp": "qw9c2u",
+      "i": 190,
+      "from": 44959,
+      "subject": "school",
+      "entities": [],
+      "concept": "school",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "school, 1995"
+      },
+      "antidote": {
+        "concept": "school",
+        "set": null,
+        "cast": []
+      },
+      "_said": "and more sophisticated, that gesture becomes repressed, but the neurological pathway remains. So, when that college student lied,"
+    },
+    {
+      "fp": "132pbql",
+      "i": 191,
+      "from": 45182,
+      "subject": "shadowSelf",
+      "entities": [],
+      "concept": "shadowSelf",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "shadow self, 1995"
+      },
+      "antidote": {
+        "concept": "shadowSelf",
+        "cast": []
+      },
+      "_said": "lied, his subconscious brain sent the command, \"Cover the mouth. You are deceiving the The hand shoots up toward the face. But the conscious adult brain"
+    },
+    {
+      "fp": "1vubedg",
+      "i": 192,
+      "from": 45441,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "brain intercepts the Exactly. The prefrontal cortex realizes in a fraction of a second that covering the mouth is way too obvious a tell. So at the last"
+    },
+    {
+      "fp": "14n4y2c",
+      "i": 193,
+      "from": 45715,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "last possible millisecond, it diverts the hands slightly upward away from the mouth and toward the nose. It turns a blatant mouth cover into a casual"
+    },
+    {
+      "fp": "1i3q65v",
+      "i": 194,
+      "from": 45948,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "casual plausible excuse. A quick rub, a scratch of an itch. And isn't there a physiological component, too?"
+    },
+    {
+      "fp": "1b3qeud",
+      "i": 195,
+      "from": 46137,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": "cafe",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone, read that when we lie, cafe, 1995"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": "cafe",
+        "cast": []
+      },
+      "_said": "too? I've read that when we lie, our blood pressure spikes, which causes capillary dilation in the nose, making it physically tingle or itch. Yes. The so-called"
+    },
+    {
+      "fp": "5j5gp9",
+      "i": 196,
+      "from": 46408,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": "cafe",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone, cafe, 1995"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": "cafe",
+        "cast": []
+      },
+      "_said": "so-called Pinocchio effect. The Pinocchio effect. That's it. The physiological stress response causes a literal physical sensation in the nasal tissue, which perfectly synergizes w"
+    },
+    {
+      "fp": "1276duk",
+      "i": 197,
+      "from": 46740,
+      "subject": "shadowSelf",
+      "entities": [],
+      "concept": "shadowSelf",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "shadow self, 1995"
+      },
+      "antidote": {
+        "concept": "shadowSelf",
+        "cast": []
+      },
+      "_said": "with the psychological urge to cover the It is a subconscious attempt to censor the mouth when the words don't"
+    },
+    {
+      "fp": "a9jscs",
+      "i": 198,
+      "from": 46905,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, 1995"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "don't match reality. That is just wild. The body is literally fighting a war with the mouth, trying to silence it. So, we've"
+    },
+    {
+      "fp": "u0r1r1",
+      "i": 199,
+      "from": 47105,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "we've seen defensiveness, we've seen suspicion, we've seen concealment, but let's flip the script entirely. Let's do it. Let's look at the body language of someone who isn't trying"
+    },
+    {
+      "fp": "14qdpre",
+      "i": 200,
+      "from": 47345,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "hide anything, who isn't defensive, but who believes they completely own the room. Ah, yes. We are moving into"
+    },
+    {
+      "fp": "11yqvhn",
+      "i": 201,
+      "from": 47541,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "into the cluster of readiness and control. This is the posture of"
+    },
+    {
+      "fp": "1hnmkb8",
+      "i": 202,
+      "from": 47664,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "of high enthusiasm or high unchecked dominance. The classic stance here is when we see"
+    },
+    {
+      "fp": "gvl08z",
+      "i": 203,
+      "from": 47829,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "see in athletes, politicians and CEOs all"
+    },
+    {
+      "fp": "85id12",
+      "i": 204,
+      "from": 47908,
+      "subject": "ledge",
+      "entities": [],
+      "concept": "ledge",
+      "place": "street",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "ledge, sitting at a desk, street, 1995"
+      },
+      "antidote": {
+        "concept": "ledge",
+        "set": "street",
+        "cast": []
+      },
+      "_said": "all the time, hands plated firmly on the hips or if they're sitting at a desk, their fingers are steepled together like a little church roof"
+    },
+    {
+      "fp": "1c3fhx9",
+      "i": 205,
+      "from": 48158,
+      "subject": "ledge",
+      "entities": [],
+      "concept": "ledge",
+      "place": "street",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "ledge, standing with their hands clasped behind their b, street, 1995"
+      },
+      "antidote": {
+        "concept": "ledge",
+        "set": "street",
+        "cast": []
+      },
+      "_said": "roof or standing with their hands clasped behind their back. And again, look at the evolutionary biology of this. By putting your hands behind your back or planting them on your hi"
+    },
+    {
+      "fp": "12af0kl",
+      "i": 206,
+      "from": 48530,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "exposing the vententral front. Exactly. You are exposing the entire vulnerable front of your torso. You are subconsciously screaming to the room, I am entirely"
+    },
+    {
+      "fp": "ijlwof",
+      "i": 207,
+      "from": 48823,
+      "subject": "shield",
+      "entities": [],
+      "concept": "shield",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "shield, 1995"
+      },
+      "antidote": {
+        "concept": "shield",
+        "cast": []
+      },
+      "_said": "entirely unthreatened by anything in this environment. I do not need to guard my organs because I am the apex predator here. Exactly that. Let's focus on those hands on the hips"
+    },
+    {
+      "fp": "1lvkclm",
+      "i": 208,
+      "from": 49104,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "hips because Nenburgg and Callero actually pulled"
+    },
+    {
+      "fp": "1o89t4n",
+      "i": 209,
+      "from": 49173,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "pulled some fascinating data from their own training seminars on this specific posture. They did. They observed thousands of executives over years of seminars."
+    },
+    {
+      "fp": "tq1nxj",
+      "i": 210,
+      "from": 49437,
+      "subject": "rocketLaunch",
+      "entities": [],
+      "concept": "rocketLaunch",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "rocket launch, 1995"
+      },
+      "antidote": {
+        "concept": "rocketLaunch",
+        "set": null,
+        "cast": []
+      },
+      "_said": "seminars. Thousands. and they noted a really distinct pattern. When it came time for Q&amp;A, they found that 75% of the executives who stood up to ask a question, particularly if "
+    },
+    {
+      "fp": "1wxj9yx",
+      "i": 211,
+      "from": 49761,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "assertive or challenging question, adopted that exact posture. Hands firmly on the hips with an unbuttoned coat. When you put your hands on your hips, you flare your elbows outward"
+    },
+    {
+      "fp": "1rxlgrc",
+      "i": 212,
+      "from": 50083,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "outward. Biologically, this takes up more physical volume in the room. You"
+    },
+    {
+      "fp": "vjy318",
+      "i": 213,
+      "from": 50203,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "You are mimicking the animalistic instinct to make oneself look larger to rivals. I always think of this like an athlete on the sidelines. You"
+    },
+    {
+      "fp": "1milbe6",
+      "i": 214,
+      "from": 50455,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "standing right by the scorer's table waiting for, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "You know the basketball player standing right by the scorer's table waiting for the whistle to blow so they can be subbed into the Oh"
+    },
+    {
+      "fp": "440fpw",
+      "i": 215,
+      "from": 50649,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Oh yeah. Hands on hips, chest puffed out, bouncing on their toes. It is the physical coil of readiness. It's someone vibrating with the desire to take action. It is"
+    },
+    {
+      "fp": "1gay6x0",
+      "i": 216,
+      "from": 50923,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "is high enthusiasm, yes, but we have to be careful because that readiness can very quickly shift into outright dominance. And the"
+    },
+    {
+      "fp": "119e7al",
+      "i": 217,
+      "from": 51146,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "the authors highlight a specific gesture cluster here that is incredibly dangerous because it is often completely misunderstood by the amateur. It's a moving in gesture. Oh, the co"
+    },
+    {
+      "fp": "8mlpu2",
+      "i": 218,
+      "from": 51461,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "the one that manipulative negotiators use all the time. Exactly."
+    },
+    {
+      "fp": "1mfrqp0",
+      "i": 219,
+      "from": 51559,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "standing at a polite, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Exactly. Imagine you are in a standard business conversation standing at a polite, socially acceptable distance."
+    },
+    {
+      "fp": "bxrgfq",
+      "i": 220,
+      "from": 51756,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": "cafe",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone, cafe, 1995"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": "cafe",
+        "cast": []
+      },
+      "_said": "distance. Suddenly, the other person leans way forward, invading your personal space. They close the distance to what anthropologists call the intimate zone, right? Maybe 13 to 18 "
+    },
+    {
+      "fp": "g7pj2d",
+      "i": 221,
+      "from": 52202,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "a low register, a whisper, almost as if"
+    },
+    {
+      "fp": "1ndr9os",
+      "i": 222,
+      "from": 52286,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "if they are sharing a deep, dark corporate secret just with Now, a lot of people misread that completely. They think, \"Oh, wow. This person is being very"
+    },
+    {
+      "fp": "iy3gdt",
+      "i": 223,
+      "from": 52557,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "very intimate and confidential with me. They trust me. We are building deep rapport."
+    },
+    {
+      "fp": "1xhjdzx",
+      "i": 224,
+      "from": 52692,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "rapport. But Nuremberg and Callero explicitly warned that this is frequently"
+    },
+    {
+      "fp": "qe4g5c",
+      "i": 225,
+      "from": 52812,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "frequently a psychological trap. A huge trap that physical closeness isn't genuine intimacy. It is a covert physical attempt to dominate you."
+    },
+    {
+      "fp": "1g46957",
+      "i": 226,
+      "from": 53064,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "whispered voice, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "you. Think about the mechanics of what is happening. By invading your space and dropping their volume, they are forcing you to physically lean in to hear their whispered voice."
+    },
+    {
+      "fp": "1sfh727",
+      "i": 227,
+      "from": 53325,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "voice. They're dictating the physical terms of the interaction. They're forcing you into physical compliance. And theory is if I can force you to follow"
+    },
+    {
+      "fp": "1buf51j",
+      "i": 228,
+      "from": 53544,
+      "subject": "compass",
+      "entities": [],
+      "concept": "compass",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "compass, 1995"
+      },
+      "antidote": {
+        "concept": "compass",
+        "cast": []
+      },
+      "_said": "follow my physical direction, if I can literally move your body where I want it, it makes it exponentially easier to force you to follow"
+    },
+    {
+      "fp": "rab8t1",
+      "i": 229,
+      "from": 53719,
+      "subject": "compass",
+      "entities": [],
+      "concept": "compass",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "compass, 1995"
+      },
+      "antidote": {
+        "concept": "compass",
+        "cast": []
+      },
+      "_said": "follow my intellectual or business direction. It is a brutal power play disguised as a friendly secret. They are literally boxing you in with"
+    },
+    {
+      "fp": "dzfnf2",
+      "i": 230,
+      "from": 53954,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "with their physical presence, asserting control over your spatial"
+    },
+    {
+      "fp": "vp27bu",
+      "i": 231,
+      "from": 54053,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "spatial boundaries. Okay, so we've seen control. We know what it looks like when someone owns the room. But"
+    },
+    {
+      "fp": "s61nyf",
+      "i": 232,
+      "from": 54256,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "But what happens when someone desperately wants to exert control, but they can't? Oh, this is the tough one. What happens when they are furious or deeply anxious, but the rigid soc"
+    },
+    {
+      "fp": "1gmvrw7",
+      "i": 233,
+      "from": 54612,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "sit quietly, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "norms of the environment dictate that they have to sit quietly, smile, and endure it. That brings us to one of"
+    },
+    {
+      "fp": "1hggd60",
+      "i": 234,
+      "from": 54799,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "of the most volatile clusters in the entire book. Frustration held down. This is perhaps the most painful cluster to witness. It really is because it is the body physically"
+    },
+    {
+      "fp": "sshki3",
+      "i": 235,
+      "from": 55089,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "physically restraining a powerful emotion that the person has desperately decided not to say out loud. It is the physical leakage of massive internal tension. And the authors paint"
+    },
+    {
+      "fp": "nugl1s",
+      "i": 236,
+      "from": 55385,
+      "subject": "photo",
+      "entities": [],
+      "concept": "photo",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "photo, waiting for a delayed flight at the gate, 1995"
+      },
+      "antidote": {
+        "concept": "photo",
+        "set": null,
+        "cast": []
+      },
+      "_said": "this brilliant, universally recognizable picture of an airline passenger waiting for a delayed flight at the gate. Oh, we've all seen this. If you walk through any airport"
+    },
+    {
+      "fp": "5aoswx",
+      "i": 237,
+      "from": 55636,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "airport terminal in the world during a weather delay, you will see this everywhere."
+    },
+    {
+      "fp": "12le566",
+      "i": 238,
+      "from": 55752,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "sitting rigidly upright, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "everywhere. The passenger is sitting rigidly upright. Their ankles are locked together tightly under the chair. Their hands are clasped together into one giant tense fist in their "
+    },
+    {
+      "fp": "mvuuya",
+      "i": 239,
+      "from": 56143,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "thumb is rhythmically aggressively massaging the other thumb. The body is linking the need for physical"
+    },
+    {
+      "fp": "x7qucw",
+      "i": 240,
+      "from": 56311,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "physical reassurance. The conscious mind, the prefrontal cortex, is saying, \"Stay calm. Do not yell"
+    },
+    {
+      "fp": "gup22f",
+      "i": 241,
+      "from": 56513,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "at the innocent jade agent. It won't help the plane get here faster.\" But the amygdala is raging and the body has to bleed off that anxious, frustrated kinetic energy somehow."
+    },
+    {
+      "fp": "1fnikvm",
+      "i": 242,
+      "from": 56801,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "So it channels it into the And because we know socially that displaying anger is taboo, we go to great lengths to hide these restraint We hide them under the table. We do them unde"
+    },
+    {
+      "fp": "u43qpb",
+      "i": 243,
+      "from": 57129,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "table. Right? If you look under a heavy oak conference room table during a stressful board meeting, it is a symphony of hidden anxiety."
+    },
+    {
+      "fp": "t6o9hp",
+      "i": 244,
+      "from": 57345,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "anxiety. Above the table, everyone has on their calm, professional poker face."
+    },
+    {
+      "fp": "103am5z",
+      "i": 245,
+      "from": 57470,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "reaching over, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "face. Below the table, you see people ringing their hands like they're washing them. You see them picking violently at their Or you see someone with one hand reaching over"
+    },
+    {
+      "fp": "echzhn",
+      "i": 246,
+      "from": 57729,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "holding itself back from physically striking ou, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "over and gripping their opposite wrist in an absolute vice grip. It is literally the body holding itself back from physically striking out. The body is physically acting out"
+    },
+    {
+      "fp": "1r2khgl",
+      "i": 247,
+      "from": 58044,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "out the colloquial phrase get a grip on yourself. They are literally gripping themselves to prevent action. But here is the massive danger and the authors are"
+    },
+    {
+      "fp": "ri8awb",
+      "i": 248,
+      "from": 58329,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "reading body language can blow up in y, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "are very explicit about this trap. This is where reading body language can actually blow up in your face if"
+    },
+    {
+      "fp": "13tg830",
+      "i": 249,
+      "from": 58497,
+      "subject": "heart",
+      "entities": [],
+      "concept": "heart",
+      "place": "cafe",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "heart, sitting across from someone and you see them di, cafe, 1995"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": "cafe",
+        "cast": []
+      },
+      "_said": "if you don't understand the psychology. Oh, it can ruin a relationship in When you are sitting across from someone and you see them displaying these locked restrained"
+    },
+    {
+      "fp": "ycp7yk",
+      "i": 250,
+      "from": 58756,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "restrained clusters, the locked ankles, the white knuckle wrist grip under the the absolute worst thing you can do is aggressively press them for a verbal It's the classic"
+    },
+    {
+      "fp": "1smi3tm",
+      "i": 251,
+      "from": 59040,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "classic well-intentioned mistake. You see they're tightly wound. You see the tension. So you lean in, furrow your brow, and ask, \"Are you sure everything is all right? You seem rea"
+    },
+    {
+      "fp": "84mjkn",
+      "i": 252,
+      "from": 59400,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "you are being empathetic?\" But it explodes in your face. It backfires completely. And here"
+    },
+    {
+      "fp": "tm3sfk",
+      "i": 253,
+      "from": 59546,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "here is the neuroscience of why. They have spent massive amounts of cognitive energy using their prefrontal cortex to suppress the amydala. They are using all"
+    },
+    {
+      "fp": "u74hx6",
+      "i": 254,
+      "from": 59796,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": "cafe",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone, cafe, 1995"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": "cafe",
+        "cast": []
+      },
+      "_said": "all their willpower to keep the frustration contained and maintain a polite facade. By calling"
+    },
+    {
+      "fp": "o5kqj",
+      "i": 255,
+      "from": 59964,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": "cafe",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone, cafe, 1995"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": "cafe",
+        "cast": []
+      },
+      "_said": "calling it out directly, you demand a verbal response. You force their brain to process a social inquiry which breaks their cognitive load."
+    },
+    {
+      "fp": "fdxctu",
+      "i": 256,
+      "from": 60208,
+      "subject": "mask",
+      "entities": [],
+      "concept": "mask",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "mask, 1995"
+      },
+      "antidote": {
+        "concept": "mask",
+        "cast": []
+      },
+      "_said": "load. Filter drops. You have shattered [snorts] the facade they were working so hard to maintain and you have cornered them emotionally. You forced the cork out of a shaken"
+    },
+    {
+      "fp": "1ksjyg9",
+      "i": 257,
+      "from": 60465,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "shaken champagne bottle. Exactly. And usually the amygdala bypasses the filter entirely and they will verbally lash"
+    },
+    {
+      "fp": "1cxq0t4",
+      "i": 258,
+      "from": 60669,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": "cafe",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone, read the cluster, cafe, 1995"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": "cafe",
+        "cast": []
+      },
+      "_said": "lash out. They'll snap, \"I'm fine. Just get off my back.\" Instead of calling it out and demanding they confess their frustration, you have to read the cluster, recognize the highwi"
+    },
+    {
+      "fp": "1lfcjsr",
+      "i": 259,
+      "from": 61015,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "change the environment or shift the topic. Diffuse the tension naturally without ever making them feel exposed or which requires an immense amount"
+    },
+    {
+      "fp": "r7rd72",
+      "i": 260,
+      "from": 61226,
+      "subject": "funnelMetrics",
+      "entities": [],
+      "concept": "funnelMetrics",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "funnel metrics, 1995"
+      },
+      "antidote": {
+        "concept": "funnelMetrics",
+        "set": null,
+        "cast": []
+      },
+      "_said": "amount of self-awareness and restraint on your part as the observer. It really does. And that naturally leads us to the final and perhaps most important"
+    },
+    {
+      "fp": "jpi1kc",
+      "i": 261,
+      "from": 61459,
+      "subject": "photo",
+      "entities": [],
+      "concept": "photo",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "photo, 1995"
+      },
+      "antidote": {
+        "concept": "photo",
+        "set": null,
+        "cast": []
+      },
+      "_said": "important philosophical shift of the author's method. We have to talk about the mirror broadcasting back. This is where the book violently turns the camera around on us,"
+    },
+    {
+      "fp": "2oynpd",
+      "i": 262,
+      "from": 61730,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "read the person sitting across, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "us, the readers, because we spend all this time, all this cognitive energy talking about how to read the person sitting across the"
+    },
+    {
+      "fp": "3sx0nq",
+      "i": 263,
+      "from": 61951,
+      "subject": "magnifier",
+      "entities": [],
+      "concept": "magnifier",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "magnifier, 1995"
+      },
+      "antidote": {
+        "concept": "magnifier",
+        "cast": []
+      },
+      "_said": "the table. Yeah. We analyze their thumbs, their ankles, their coats. But the single biggest tell in any room is the gap between what a person says and what their body does. And"
+    },
+    {
+      "fp": "6bpx8x",
+      "i": 264,
+      "from": 62280,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "And the devastating twist is you have that gap too. You are broadcasting just as loudly as they are. Oh, constantly. I think about this constantly now. When we first learn"
+    },
+    {
+      "fp": "i5dfmy",
+      "i": 265,
+      "from": 62592,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "read someone, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "learn these concepts, we get so hyperfocused on trying to read someone."
+    },
+    {
+      "fp": "5zlclf",
+      "i": 266,
+      "from": 62712,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "sitting in a meeting, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "someone. I'll catch myself sitting in a meeting, staring intently at the person across from me, trying to decipher if their hand gesture means true evaluation or just deadeyed righ"
+    },
+    {
+      "fp": "pci716",
+      "i": 267,
+      "from": 63151,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "while I'm analyzing them like a lab rat? If you are analyzing them intently, you are probably furrowing your brow"
+    },
+    {
+      "fp": "ngvqsu",
+      "i": 268,
+      "from": 63324,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "brow in concentration. You are staring intensely, maintaining unbroken,"
+    },
+    {
+      "fp": "ir69na",
+      "i": 269,
+      "from": 63458,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "unbroken, aggressive eye contact. You might even fold your arms tightly across your chest so you can lean back and scrutinize them Yes, I am physically broadcasting"
+    },
+    {
+      "fp": "x961dq",
+      "i": 270,
+      "from": 63763,
+      "subject": "shadowSelf",
+      "entities": [],
+      "concept": "shadowSelf",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "shadow self, 1995"
+      },
+      "antidote": {
+        "concept": "shadowSelf",
+        "cast": []
+      },
+      "_said": "massive suspicion, judgment, and defensiveness right back at them. And what is their subconscious going to do when they look up and see me"
+    },
+    {
+      "fp": "ulxc3g",
+      "i": 271,
+      "from": 64008,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "me glaring at them with folded arms and a pinched They're going to shut down immediately."
+    },
+    {
+      "fp": "1ww9xld",
+      "i": 272,
+      "from": 64159,
+      "subject": "shadowSelf",
+      "entities": [],
+      "concept": "shadowSelf",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "shadow self, 1995"
+      },
+      "antidote": {
+        "concept": "shadowSelf",
+        "cast": []
+      },
+      "_said": "immediately. The authors refer to this trap as subconscious empathy, and it is incredibly dangerous to any negotiation."
+    },
+    {
+      "fp": "15bctxy",
+      "i": 273,
+      "from": 64356,
+      "subject": "shadowSelf",
+      "entities": [],
+      "concept": "shadowSelf",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "shadow self, 1995"
+      },
+      "antidote": {
+        "concept": "shadowSelf",
+        "cast": []
+      },
+      "_said": "negotiation. Explain subconscious empathy a bit more. Well, human beings are mirroring machines. We have mirror"
+    },
+    {
+      "fp": "1n763x5",
+      "i": 274,
+      "from": 64529,
+      "subject": "ledge",
+      "entities": [],
+      "concept": "ledge",
+      "place": "street",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "ledge, street, 1995"
+      },
+      "antidote": {
+        "concept": "ledge",
+        "set": "street",
+        "cast": []
+      },
+      "_said": "mirror neurons designed to reflect the energy we If we misread a gesture as hostile, say someone crosses their arms just cuz they are cold, but we hottilty jump"
+    },
+    {
+      "fp": "11syhwf",
+      "i": 275,
+      "from": 64855,
+      "subject": "ledge",
+      "entities": [],
+      "concept": "ledge",
+      "place": "street",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "ledge, street, 1995"
+      },
+      "antidote": {
+        "concept": "ledge",
+        "set": "street",
+        "cast": []
+      },
+      "_said": "jump to the conclusion that they are angry and closed off. We unconsciously respond with our own hostility. We harden our own posture. We change the tone of our voice to be more cl"
+    },
+    {
+      "fp": "1wguz29",
+      "i": 276,
+      "from": 65114,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "clipped and defensive. We precipitate the exact negative reaction we were worried about in the first We create"
+    },
+    {
+      "fp": "8f7d0v",
+      "i": 277,
+      "from": 65292,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "create a self-fulfilling prophecy. We create a vicious cycle of hostility out of thin air. We ruin"
+    },
+    {
+      "fp": "1uxkstp",
+      "i": 278,
+      "from": 65484,
+      "subject": "heart",
+      "entities": [],
+      "concept": "heart",
+      "place": "cafe",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "heart, cafe, 1995"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": "cafe",
+        "cast": []
+      },
+      "_said": "ruin the negotiation. We damage the relationship. All because we allowed a misread, isolated gesture to dictate our own"
+    },
+    {
+      "fp": "1lsodgm",
+      "i": 279,
+      "from": 65733,
+      "subject": "shadowSelf",
+      "entities": [],
+      "concept": "shadowSelf",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "shadow self, 1995"
+      },
+      "antidote": {
+        "concept": "shadowSelf",
+        "cast": []
+      },
+      "_said": "own non-verbal broadcast. And this is why we have to constantly remind ourselves to violently force our brains out of that subconscious reactive loop and look"
+    },
+    {
+      "fp": "1ug1r9k",
+      "i": 280,
+      "from": 65997,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "read the cluster, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "look for the congruence. We cannot act on the first thing we see. We have to remember the fundamental rule. A single gesture is never the You must read the cluster, confirm it with"
+    },
+    {
+      "fp": "1c09xv4",
+      "i": 281,
+      "from": 66331,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "words, evaluate the environmental context, and be hyper aware of what your own body is bringing to the table. We need to take a second here at the end to get really honest with you"
+    },
+    {
+      "fp": "12nvv7z",
+      "i": 282,
+      "from": 66602,
+      "subject": "shadowSelf",
+      "entities": [],
+      "concept": "shadowSelf",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "shadow self, read this book the wrong way, 1995"
+      },
+      "antidote": {
+        "concept": "shadowSelf",
+        "cast": []
+      },
+      "_said": "you, the listener, because there's a tension in this topic that we cannot Yeah, we have to talk about the dark side of this. If you read this book the wrong way, if you skim it loo"
+    },
+    {
+      "fp": "xn7190",
+      "i": 283,
+      "from": 66909,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "this entire discipline just feeds a really cheap, ugly superiority complex. It absolutely does. It can become a tool for"
+    },
+    {
+      "fp": "1itdgfc",
+      "i": 284,
+      "from": 67094,
+      "subject": "coffee",
+      "entities": [],
+      "concept": "coffee",
+      "place": "cafe",
+      "confidence": 0.6,
+      "vox": {
+        "shot": "coffee, read a few chapters, cafe, 1995"
+      },
+      "antidote": {
+        "concept": "coffee",
+        "set": "cafe",
+        "cast": []
+      },
+      "_said": "for deep arrogance. You read a few chapters, you learn a few tells, and suddenly you think you are a literal mind readader. You sit in the coffee shop, you spot"
+    },
+    {
+      "fp": "1tx396s",
+      "i": 285,
+      "from": 67325,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "spot one crossed arm, and you smuggly declare to yourself, \"Ah, that person is closed off. I know their secret"
+    },
+    {
+      "fp": "1r9ou35",
+      "i": 286,
+      "from": 67517,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "secret insecure thoughts. I am the smartest person in this room.\" It becomes this pathetic parlor trick to inflate your own ego. And Nire"
+    },
+    {
+      "fp": "rtjh5u",
+      "i": 287,
+      "from": 67745,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "reading isn't a skill to be proud, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Nire and Caller would absolutely wse at that application of their life's Oh, they'd hate it. To them, single gesture reading isn't a skill to be proud of. It is an error. It"
+    },
+    {
+      "fp": "2yocml",
+      "i": 288,
+      "from": 68069,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "is the hallmark of a lazy amateur who fundamentally misunderstands human And I'd argue there is a much darker misuse, too."
+    },
+    {
+      "fp": "1ex2q4a",
+      "i": 289,
+      "from": 68301,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, 1995"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "too. It's not just about being smug. It's about outright manipulation, using it as a weapon. Yes. If you were"
+    },
+    {
+      "fp": "1nolef7",
+      "i": 290,
+      "from": 68496,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": "cafe",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone, reading people's body language just to hunt for, cafe, 1995"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": "cafe",
+        "cast": []
+      },
+      "_said": "were reading people's body language just to hunt for their weaknesses, looking for the exact moment they grip their wrist so you know you've successfully stressed them out, looking"
+    },
+    {
+      "fp": "1effmno",
+      "i": 291,
+      "from": 68923,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "using the knowledge to intimidate"
+    },
+    {
+      "fp": "1tmn0ob",
+      "i": 292,
+      "from": 68983,
+      "subject": "target",
+      "entities": [],
+      "concept": "target",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "target, 1995"
+      },
+      "antidote": {
+        "concept": "target",
+        "cast": []
+      },
+      "_said": "intimidate and extract. You are taking a tool meant for understanding and turning it into a cudgel. Exactly. The goal of this book shouldn't be to corner people based on their phys"
+    },
+    {
+      "fp": "1w8achs",
+      "i": 293,
+      "from": 69365,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "use this heightened awareness to genuinely understand what they cannot"
+    },
+    {
+      "fp": "tqjfsl",
+      "i": 294,
+      "from": 69470,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "cannot bring themselves to say out loud. If you see the locked ankles and the violently massaging thumbs, your thought shouldn't be, \"Gotcha. I know you're anxious. I'm going to pr"
+    },
+    {
+      "fp": "ongo53",
+      "i": 295,
+      "from": 69782,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "in this negotiation. Your thought should be this person is struggling."
+    },
+    {
+      "fp": "z99jv0",
+      "i": 296,
+      "from": 69914,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "struggling. The environment is hostile to them right now. How can I adjust my approach? How can I change my own posture to make this environment safer for them to speak their mind?"
+    },
+    {
+      "fp": "egzo2m",
+      "i": 297,
+      "from": 70236,
+      "subject": "target",
+      "entities": [],
+      "concept": "target",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "target, 1995"
+      },
+      "antidote": {
+        "concept": "target",
+        "cast": []
+      },
+      "_said": "decode non-verbal communication is entirely inherently neutral. It is just data. The aim of the person wielding the tool"
+    },
+    {
+      "fp": "hyz4qn",
+      "i": 298,
+      "from": 70464,
+      "subject": "game",
+      "entities": [],
+      "concept": "game",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "game, 1995"
+      },
+      "antidote": {
+        "concept": "game",
+        "set": null,
+        "cast": []
+      },
+      "_said": "tool is everything. Are you using this knowledge to win a zero- sum game or are you using it to actually connect with another human being? So, what does this all mean for you? How "
+    },
+    {
+      "fp": "ztfhca",
+      "i": 299,
+      "from": 70860,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "research by Nenburgg and Callero into something you can actually use tomorrow morning? The entire sweeping"
+    },
+    {
+      "fp": "1x5amwr",
+      "i": 300,
+      "from": 71030,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "sweeping philosophy of the book collapses into one single vital which is you have to stop hunting for the one damning gotcha gesture."
+    },
+    {
+      "fp": "19gqrtg",
+      "i": 301,
+      "from": 71304,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "reading the cluster, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "gesture. Let go of the fantasy that you are a human lie Instead, start doing the hard work of reading the cluster."
+    },
+    {
+      "fp": "17tg8mr",
+      "i": 302,
+      "from": 71525,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "cluster. Look for the congruence between the audio of the mouth and the visual of the body. And most importantly, notice the gap when they do not align and meet that gap"
+    },
+    {
+      "fp": "8am84r",
+      "i": 303,
+      "from": 71798,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "gap with curiosity, not judgment. So, here's a final thought to mull over"
+    },
+    {
+      "fp": "1676yjk",
+      "i": 304,
+      "from": 71918,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, sitting at a tense negotiation table or in a he, 1995"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": []
+      },
+      "_said": "over a provocation for you to take into your week. The next time you are sitting at a tense negotiation table or in a heated family meeting or"
+    },
+    {
+      "fp": "4xf2",
+      "i": 305,
+      "from": 72125,
+      "subject": "coffee",
+      "entities": [],
+      "concept": "coffee",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "coffee, 1995"
+      },
+      "antidote": {
+        "concept": "coffee",
+        "set": null,
+        "cast": []
+      },
+      "_said": "or just grabbing coffee with a friend who seems inexplicably distant, before you try to decode the room, try to decode yourself."
+    },
+    {
+      "fp": "ee9zi",
+      "i": 306,
+      "from": 72314,
+      "subject": "photo",
+      "entities": [],
+      "concept": "photo",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "photo, read your own physical leakage, 1995"
+      },
+      "antidote": {
+        "concept": "photo",
+        "set": null,
+        "cast": []
+      },
+      "_said": "yourself. Turn the camera inward. Be brave enough to read your own physical leakage. Notice your own locked ankles hiding under the table. Notice your own hand creeping up toward t"
+    },
+    {
+      "fp": "1ofjgdj",
+      "i": 307,
+      "from": 72595,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "reading the complex clusters of the people arou, 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "when you feel stressed by the Do the hard work of reading the complex clusters of the people around you? But first, do it with yourself."
+    },
+    {
+      "fp": "cimyqx",
+      "i": 308,
+      "from": 72832,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1995"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "yourself. Yeah. Because a single jector is never the"
+    }
+  ]
+}

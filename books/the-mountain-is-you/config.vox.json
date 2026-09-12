@@ -10765,7 +10765,7 @@
       ]
     },
     {
-      "text": "your thermostat might be set at a cool 65\u00b0",
+      "text": "your thermostat might be set at a cool 65°",
       "startFrame": 18325,
       "endFrame": 18435,
       "words": [
@@ -10810,14 +10810,14 @@
           "e": 18404
         },
         {
-          "w": "65\u00b0",
+          "w": "65°",
           "s": 18404,
           "e": 18435
         }
       ]
     },
     {
-      "text": "of ambient anxiety because you learn that 65\u00b0",
+      "text": "of ambient anxiety because you learn that 65°",
       "startFrame": 18435,
       "endFrame": 18531,
       "words": [
@@ -10857,7 +10857,7 @@
           "e": 18507
         },
         {
-          "w": "65\u00b0",
+          "w": "65°",
           "s": 18507,
           "e": 18531
         }
@@ -11150,7 +11150,7 @@
       ]
     },
     {
-      "text": "It registers that 75\u00b0 as a massive anomaly,",
+      "text": "It registers that 75° as a massive anomaly,",
       "startFrame": 19042,
       "endFrame": 19143,
       "words": [
@@ -11170,7 +11170,7 @@
           "e": 19073
         },
         {
-          "w": "75\u00b0",
+          "w": "75°",
           "s": 19073,
           "e": 19097
         },
@@ -41048,7 +41048,7 @@
       ]
     },
     {
-      "text": "The 75\u00b0 of joy becomes the new normal.",
+      "text": "The 75° of joy becomes the new normal.",
       "startFrame": 68914,
       "endFrame": 69022,
       "words": [
@@ -41058,7 +41058,7 @@
           "e": 68921
         },
         {
-          "w": "75\u00b0",
+          "w": "75°",
           "s": 68921,
           "e": 68948
         },
@@ -52023,7 +52023,8 @@
           "connected",
           "relaxing",
           "leaving"
-        ]
+        ],
+        "subject": "home"
       },
       "images": [
         {
@@ -52368,7 +52369,8 @@
           "protection",
           "friction.",
           "mountain"
-        ]
+        ],
+        "subject": "shield"
       },
       "images": [
         {
@@ -52834,7 +52836,8 @@
           "immediate",
           "agonizing",
           "question"
-        ]
+        ],
+        "subject": "war"
       },
       "images": []
     },
@@ -52978,7 +52981,8 @@
           "want",
           "subconscious",
           "primitive"
-        ]
+        ],
+        "subject": "shadowSelf"
       },
       "images": []
     },
@@ -52999,7 +53003,8 @@
           "lets",
           "dishwasher",
           "scenario"
-        ]
+        ],
+        "subject": "Daniel — phone"
       },
       "images": [
         {
@@ -53026,7 +53031,8 @@
           "looks",
           "completely",
           "destroying"
-        ]
+        ],
+        "subject": "Daniel — shadowSelf"
       },
       "images": []
     },
@@ -53046,7 +53052,8 @@
           "subconscious",
           "biologically",
           "brilliant"
-        ]
+        ],
+        "subject": "Daniel — shield"
       },
       "images": [
         {
@@ -53097,7 +53104,8 @@
           "unprecedented",
           "represents",
           "uncharted"
-        ]
+        ],
+        "subject": "Daniel — alarmClock"
       },
       "images": [
         {
@@ -53151,7 +53159,8 @@
           "vulnerability.",
           "protocols",
           "survival"
-        ]
+        ],
+        "subject": "Daniel — war"
       },
       "images": []
     },
@@ -53171,7 +53180,8 @@
           "manufactures",
           "dishwasher.",
           "familiar."
-        ]
+        ],
+        "subject": "war"
       },
       "images": [
         {
@@ -53197,7 +53207,8 @@
           "neutralized.",
           "familiar",
           "unknown"
-        ]
+        ],
+        "subject": "shield"
       },
       "images": [
         {
@@ -53244,7 +53255,8 @@
           "young",
           "documented",
           "brilliant"
-        ]
+        ],
+        "subject": "Young — heart"
       },
       "images": [
         {
@@ -53271,7 +53283,8 @@
           "alienated.",
           "experience",
           "intensely"
-        ]
+        ],
+        "subject": "school"
       },
       "images": []
     },
@@ -53291,7 +53304,8 @@
           "him.",
           "schoolyard",
           "emotional"
-        ]
+        ],
+        "subject": "ledge"
       },
       "images": [
         {
@@ -53318,7 +53332,8 @@
           "catastrophic",
           "instantly",
           "ground."
-        ]
+        ],
+        "subject": "Young — school"
       },
       "images": []
     },
@@ -53365,7 +53380,8 @@
           "fallout",
           "thought",
           "crazy."
-        ]
+        ],
+        "subject": "Young"
       },
       "images": []
     },
@@ -53386,7 +53402,8 @@
           "uncontrollable",
           "experiencing",
           "completely"
-        ]
+        ],
+        "subject": "Young"
       },
       "images": [
         {
@@ -53434,7 +53451,8 @@
           "identified",
           "substitute",
           "legitimate"
-        ]
+        ],
+        "subject": "school"
       },
       "images": [
         {
@@ -53482,7 +53500,8 @@
           "equals",
           "unbearable",
           "emotional"
-        ]
+        ],
+        "subject": "school"
       },
       "images": [
         {
@@ -53529,7 +53548,8 @@
           "sacrificed",
           "emotional",
           "brilliant"
-        ]
+        ],
+        "subject": "shield"
       },
       "images": []
     },
@@ -53549,7 +53569,8 @@
           "selfanalysis",
           "twisted",
           "months"
-        ]
+        ],
+        "subject": "Young"
       },
       "images": [
         {
@@ -53576,7 +53597,8 @@
           "unconsciously",
           "orchestrating",
           "confronted"
-        ]
+        ],
+        "subject": "school"
       },
       "images": [
         {
@@ -53622,7 +53644,8 @@
           "limit.",
           "upper",
           "extensively"
-        ]
+        ],
+        "subject": "heart"
       },
       "images": []
     },
@@ -53642,7 +53665,8 @@
           "ambitions.",
           "tolerate.",
           "conscious"
-        ]
+        ],
+        "subject": "home"
       },
       "images": [
         {
@@ -53695,7 +53719,7 @@
       "fromFrame": 18223,
       "durationFrames": 209,
       "props": {
-        "text": "or where moments of peace were inevitably shattered by a parent's sudden rage, your thermostat might be set at a cool 65\u00b0 of",
+        "text": "or where moments of peace were inevitably shattered by a parent's sudden rage, your thermostat might be set at a cool 65° of",
         "kicker": "FAST FORWARD",
         "emphasis": [
           "SUCCESS"
@@ -53721,7 +53745,7 @@
       "fromFrame": 18432,
       "durationFrames": 235,
       "props": {
-        "text": "ambient anxiety because you learn that 65\u00b0 is the baseline of survival. All right. Fast forward 30 years.",
+        "text": "ambient anxiety because you learn that 65° is the baseline of survival. All right. Fast forward 30 years.",
         "kicker": "ANOMALY",
         "emphasis": [
           "THREAT"
@@ -53765,7 +53789,7 @@
       "fromFrame": 18902,
       "durationFrames": 314,
       "props": {
-        "text": "Your conscious mind is absolutely thrilled, but your subconscious mind starts sweating. It registers that 75\u00b0 as a massive anomaly, a",
+        "text": "Your conscious mind is absolutely thrilled, but your subconscious mind starts sweating. It registers that 75° as a massive anomaly, a",
         "kicker": "RELIEF",
         "emphasis": [
           "COMFORT"
@@ -53775,7 +53799,8 @@
           "mind",
           "subconscious",
           "absolutely"
-        ]
+        ],
+        "subject": "alarmClock"
       },
       "images": [
         {
@@ -53802,7 +53827,8 @@
           "self-sabotage",
           "subconscious",
           "conditioning"
-        ]
+        ],
+        "subject": "shadowSelf"
       },
       "images": []
     },
@@ -54041,7 +54067,8 @@
           "process.",
           "behavior",
           "through"
-        ]
+        ],
+        "subject": "phone"
       },
       "images": [
         {
@@ -54068,7 +54095,8 @@
           "bedrock",
           "protect",
           "unmet"
-        ]
+        ],
+        "subject": "war"
       },
       "images": []
     },
@@ -54115,7 +54143,8 @@
           "vulnerability",
           "disregulated",
           "fundamental"
-        ]
+        ],
+        "subject": "heart"
       },
       "images": []
     },
@@ -54135,7 +54164,8 @@
           "subconscious",
           "assessment",
           "destroy"
-        ]
+        ],
+        "subject": "shadowSelf"
       },
       "images": []
     },
@@ -54182,7 +54212,8 @@
           "mathematically",
           "protection",
           "preserves"
-        ]
+        ],
+        "subject": "shield"
       },
       "images": []
     },
@@ -54222,7 +54253,8 @@
           "fear",
           "hyperventilating",
           "paralyzing"
-        ]
+        ],
+        "subject": "car"
       },
       "images": [
         {
@@ -54248,7 +54280,8 @@
           "overcoming",
           "driving.",
           "dedicate"
-        ]
+        ],
+        "subject": "road"
       },
       "images": []
     },
@@ -54268,7 +54301,8 @@
           "back",
           "exercises.",
           "absolutely"
-        ]
+        ],
+        "subject": "road"
       },
       "images": []
     },
@@ -54314,7 +54348,8 @@
           "symbolic.",
           "destiny.",
           "entirely"
-        ]
+        ],
+        "subject": "car"
       },
       "images": []
     },
@@ -54338,7 +54373,8 @@
         "compareLabels": [
           "PROXY",
           "REAL"
-        ]
+        ],
+        "subject": "war"
       },
       "images": [
         {
@@ -54371,7 +54407,8 @@
           "subconscious",
           "unmanageable",
           "projecting"
-        ]
+        ],
+        "subject": "shadowSelf"
       },
       "images": [
         {
@@ -54398,7 +54435,8 @@
           "realistically",
           "subconscious",
           "manageable"
-        ]
+        ],
+        "subject": "car"
       },
       "images": [
         {
@@ -54424,7 +54462,8 @@
           "control",
           "exert",
           "car."
-        ]
+        ],
+        "subject": "car"
       },
       "images": []
     },
@@ -54464,7 +54503,8 @@
           "laceration",
           "reflection",
           "unressed."
-        ]
+        ],
+        "subject": "war"
       },
       "images": []
     },
@@ -54580,7 +54620,8 @@
           "hypervigilant",
           "childhood",
           "gathering"
-        ]
+        ],
+        "subject": "phone"
       },
       "images": [
         {
@@ -54607,7 +54648,8 @@
           "submitting",
           "completely",
           "highlight"
-        ]
+        ],
+        "subject": "road"
       },
       "images": []
     },
@@ -54653,7 +54695,8 @@
           "prefrontal",
           "rationally",
           "associate"
-        ]
+        ],
+        "subject": "heart"
       },
       "images": [
         {
@@ -54679,7 +54722,8 @@
           "architectural",
           "associations",
           "foundation"
-        ]
+        ],
+        "subject": "home"
       },
       "images": []
     },
@@ -54703,7 +54747,8 @@
         "compareLabels": [
           "NEEDS",
           "COMMITMENTS"
-        ]
+        ],
+        "subject": "phone"
       },
       "images": [
         {
@@ -54736,7 +54781,8 @@
           "subconscious",
           "commitment",
           "actually"
-        ]
+        ],
+        "subject": "phone"
       },
       "images": [
         {
@@ -54810,7 +54856,8 @@
           "core",
           "subconscious",
           "commitment"
-        ]
+        ],
+        "subject": "shadowSelf"
       },
       "images": [
         {
@@ -54957,7 +55004,8 @@
           "manufacture",
           "dependency",
           "existing."
-        ]
+        ],
+        "subject": "shield"
       },
       "images": []
     },
@@ -55005,7 +55053,8 @@
           "lets",
           "architectural",
           "blueprints"
-        ]
+        ],
+        "subject": "Daniel — war"
       },
       "images": []
     },
@@ -55026,7 +55075,8 @@
           "vulnerability.",
           "manufacturing",
           "commitment"
-        ]
+        ],
+        "subject": "shield"
       },
       "images": [
         {
@@ -55056,7 +55106,8 @@
           "universally",
           "brilliant.",
           "capable"
-        ]
+        ],
+        "subject": "Maya"
       },
       "images": []
     },
@@ -55077,7 +55128,8 @@
           "corporate",
           "office.",
           "liked"
-        ]
+        ],
+        "subject": "work"
       },
       "images": [
         {
@@ -55104,7 +55156,8 @@
           "destructive",
           "achiever.",
           "distinct"
-        ]
+        ],
+        "subject": "Maya"
       },
       "images": []
     },
@@ -55124,7 +55177,8 @@
           "promotion",
           "transformation",
           "agonizing"
-        ]
+        ],
+        "subject": "alarmClock"
       },
       "images": [
         {
@@ -55181,7 +55235,8 @@
         "compareLabels": [
           "CONSCIOUS",
           "SUBCONSCIOUS"
-        ]
+        ],
+        "subject": "Maya — shadowSelf"
       },
       "images": [
         {
@@ -55214,7 +55269,8 @@
           "essentially",
           "mid-level",
           "employee"
-        ]
+        ],
+        "subject": "work"
       },
       "images": []
     },
@@ -55308,7 +55364,8 @@
           "subconsciously",
           "imposttor",
           "syndrome."
-        ]
+        ],
+        "subject": "shield"
       },
       "images": []
     },
@@ -55381,7 +55438,8 @@
           "incompetence.",
           "incompetence",
           "fascinating"
-        ]
+        ],
+        "subject": "shield"
       },
       "images": []
     },
@@ -55401,7 +55459,8 @@
           "perfectionist.",
           "remarkably",
           "sometimes"
-        ]
+        ],
+        "subject": "Marcus"
       },
       "images": [
         {
@@ -55429,7 +55488,8 @@
           "chronically",
           "perpetually",
           "standards."
-        ]
+        ],
+        "subject": "Marcus"
       },
       "images": []
     },
@@ -55471,7 +55531,8 @@
           "accomplishing",
           "practically",
           "busyiness"
-        ]
+        ],
+        "subject": "Marcus"
       },
       "images": [
         {
@@ -55519,7 +55580,8 @@
           "vulnerability",
           "unassalable",
           "emotional"
-        ]
+        ],
+        "subject": "heart"
       },
       "images": [
         {
@@ -55567,7 +55629,8 @@
           "perfectionism.",
           "anesthetic.",
           "screenplay"
-        ]
+        ],
+        "subject": "Marcus and Perfectionism — notes"
       },
       "images": [
         {
@@ -55594,7 +55657,8 @@
           "perfectionism",
           "absolutely",
           "standards."
-        ]
+        ],
+        "subject": "Perfectionism"
       },
       "images": []
     },
@@ -55615,7 +55679,8 @@
           "because",
           "kevlar",
           "perfectionism"
-        ]
+        ],
+        "subject": "Marcus and Perfectionism — heart"
       },
       "images": [
         {
@@ -55642,7 +55707,8 @@
           "protecting",
           "terrible.",
           "producer"
-        ]
+        ],
+        "subject": "shield"
       },
       "images": []
     },
@@ -55662,7 +55728,8 @@
           "rejection.",
           "potential.",
           "judgment"
-        ]
+        ],
+        "subject": "shield"
       },
       "images": [
         {
@@ -55709,7 +55776,8 @@
           "manifestation",
           "self-sabotage",
           "specifically"
-        ]
+        ],
+        "subject": "coin"
       },
       "images": []
     },
@@ -55729,7 +55797,8 @@
           "demonizing",
           "narrative.",
           "listening"
-        ]
+        ],
+        "subject": "coin"
       },
       "images": []
     },
@@ -55749,7 +55818,8 @@
           "internalizes",
           "immutable",
           "honest."
-        ]
+        ],
+        "subject": "coin"
       },
       "images": []
     },
@@ -55773,7 +55843,8 @@
           "equals",
           "association.",
           "consulting"
-        ]
+        ],
+        "subject": "coin"
       },
       "images": []
     },
@@ -55850,7 +55921,8 @@
           "subconscious",
           "destroying",
           "actively"
-        ]
+        ],
+        "subject": "shadowSelf"
       },
       "images": [
         {
@@ -55899,7 +55971,8 @@
           "attachment",
           "dynamics.",
           "mountain"
-        ]
+        ],
+        "subject": "Sam"
       },
       "images": [
         {
@@ -55929,7 +56002,8 @@
           "relentlessly",
           "self-aware.",
           "continually"
-        ]
+        ],
+        "subject": "Sam"
       },
       "images": []
     },
@@ -55950,7 +56024,8 @@
           "intelligence.",
           "partners.",
           "outright"
-        ]
+        ],
+        "subject": "Sam — heart"
       },
       "images": []
     },
@@ -55971,7 +56046,8 @@
           "environment",
           "conditional",
           "everything"
-        ]
+        ],
+        "subject": "heart"
       },
       "images": []
     },
@@ -55992,7 +56068,8 @@
           "learned",
           "fundamentally",
           "abandonment"
-        ]
+        ],
+        "subject": "heart"
       },
       "images": [
         {
@@ -56019,7 +56096,8 @@
           "connection",
           "consistent",
           "cortisol."
-        ]
+        ],
+        "subject": "Sam"
       },
       "images": []
     },
@@ -56040,7 +56118,8 @@
           "steadily",
           "cortisol",
           "without"
-        ]
+        ],
+        "subject": "heart"
       },
       "images": []
     },
@@ -56061,7 +56140,8 @@
           "someone",
           "untrustworthy.",
           "inherently"
-        ]
+        ],
+        "subject": "Sam — lightbulb"
       },
       "images": []
     },
@@ -56082,7 +56162,8 @@
           "affection",
           "requires",
           "cortisol"
-        ]
+        ],
+        "subject": "Sam — heart"
       },
       "images": []
     },
@@ -56103,7 +56184,8 @@
           "recognizes",
           "familiar.",
           "erratic"
-        ]
+        ],
+        "subject": "Sam — home"
       },
       "images": []
     },
@@ -56123,7 +56205,8 @@
           "subconsciously",
           "conversely",
           "because"
-        ]
+        ],
+        "subject": "Sam — wallet"
       },
       "images": [
         {
@@ -56170,7 +56253,8 @@
           "heartbreaking",
           "flawless.",
           "romantic"
-        ]
+        ],
+        "subject": "shadowSelf"
       },
       "images": []
     },
@@ -56194,7 +56278,8 @@
           "subconscious",
           "frustrating",
           "explaining"
-        ]
+        ],
+        "subject": "Daniel and Maya and Marcus — war"
       },
       "images": []
     },
@@ -56260,7 +56345,8 @@
           "self-help",
           "industry.",
           "awareness"
-        ]
+        ],
+        "subject": "road"
       },
       "images": []
     },
@@ -56284,7 +56370,8 @@
         "compareLabels": [
           "INTELLECT",
           "MOUNTAIN"
-        ]
+        ],
+        "subject": "road"
       },
       "images": [
         {
@@ -56344,7 +56431,8 @@
           "success.",
           "morning",
           "mirror"
-        ]
+        ],
+        "subject": "heart"
       },
       "images": []
     },
@@ -56432,7 +56520,8 @@
           "relationship",
           "gaslighting",
           "screaming"
-        ]
+        ],
+        "subject": "alarmClock"
       },
       "images": []
     },
@@ -56576,7 +56665,8 @@
           "experiences.",
           "biological",
           "abstract."
-        ]
+        ],
+        "subject": "phone"
       },
       "images": []
     },
@@ -56596,7 +56686,8 @@
           "brain",
           "researchers",
           "component."
-        ]
+        ],
+        "subject": "phone"
       },
       "images": [
         {
@@ -56622,7 +56713,8 @@
           "singulate",
           "anterior",
           "anatomically"
-        ]
+        ],
+        "subject": "phone"
       },
       "images": [
         {
@@ -56823,7 +56915,8 @@
           "corporate",
           "executive",
           "rational"
-        ]
+        ],
+        "subject": "work"
       },
       "images": [
         {
@@ -56917,7 +57010,8 @@
           "physiological",
           "emotional",
           "lifetime"
-        ]
+        ],
+        "subject": "phone"
       },
       "images": [
         {
@@ -56944,7 +57038,8 @@
           "every",
           "experience",
           "jealousy"
-        ]
+        ],
+        "subject": "phone"
       },
       "images": [
         {
@@ -56971,7 +57066,8 @@
           "detected.",
           "terrified",
           "busyiness"
-        ]
+        ],
+        "subject": "Marcus"
       },
       "images": [
         {
@@ -57089,7 +57185,8 @@
           "daniel",
           "dishwasher.",
           "explodes"
-        ]
+        ],
+        "subject": "Daniel — funnelMetrics"
       },
       "images": [
         {
@@ -57116,7 +57213,8 @@
           "passionate",
           "processing",
           "metabolize"
-        ]
+        ],
+        "subject": "Daniel — home"
       },
       "images": []
     },
@@ -57136,7 +57234,8 @@
           "dishwasher",
           "emotional",
           "carrying"
-        ]
+        ],
+        "subject": "phone"
       },
       "images": [
         {
@@ -57163,7 +57262,8 @@
           "cant",
           "metabolize",
           "destroying"
-        ]
+        ],
+        "subject": "work"
       },
       "images": [
         {
@@ -57363,7 +57463,8 @@
           "metabolizing",
           "dissipates.",
           "swallowing"
-        ]
+        ],
+        "subject": "phone"
       },
       "images": []
     },
@@ -57403,7 +57504,8 @@
           "dishwasher",
           "mechanism",
           "fighting"
-        ]
+        ],
+        "subject": "Daniel — war"
       },
       "images": [
         {
@@ -57430,7 +57532,8 @@
           "still",
           "boardroom.",
           "terrified"
-        ]
+        ],
+        "subject": "Maya"
       },
       "images": []
     },
@@ -57615,7 +57718,8 @@
           "environment.",
           "gratitude.",
           "terrified"
-        ]
+        ],
+        "subject": "coin"
       },
       "images": [
         {
@@ -57642,7 +57746,8 @@
           "environment.",
           "apartment.",
           "partner"
-        ]
+        ],
+        "subject": "home"
       },
       "images": []
     },
@@ -57689,7 +57794,8 @@
           "suffocating",
           "mountain.",
           "service"
-        ]
+        ],
+        "subject": "shield"
       },
       "images": []
     },
@@ -57729,7 +57835,8 @@
           "visualization",
           "incredibly",
           "exercise."
-        ]
+        ],
+        "subject": "phone"
       },
       "images": [
         {
@@ -57849,7 +57956,8 @@
           "themselves",
           "details.",
           "wearing"
-        ]
+        ],
+        "subject": "phone"
       },
       "images": [
         {
@@ -57907,7 +58015,8 @@
           "keys",
           "pocket",
           "across"
-        ]
+        ],
+        "subject": "car"
       },
       "images": []
     },
@@ -57927,7 +58036,8 @@
           "hand",
           "password",
           "account"
-        ]
+        ],
+        "subject": "phone"
       },
       "images": [
         {
@@ -58239,7 +58349,8 @@
           "will",
           "feel",
           "chronically"
-        ]
+        ],
+        "subject": "Daniel"
       },
       "images": []
     },
@@ -58259,7 +58370,8 @@
           "worthless.",
           "feeling",
           "daniel"
-        ]
+        ],
+        "subject": "heart"
       },
       "images": [
         {
@@ -58305,7 +58417,7 @@
         "text": "your body to take the action anyway. And here is where the neuroplasticity kicks back in over time. As you repeatedly take the healthy action and the world doesn't end, as you",
         "kicker": "NEW NORMAL",
         "emphasis": [
-          "75\u00b0 JOY"
+          "75° JOY"
         ],
         "items": [],
         "keywords": [
@@ -58332,7 +58444,8 @@
           "doesnt",
           "biological",
           "boundary"
-        ]
+        ],
+        "subject": "work"
       },
       "images": [
         {
@@ -58358,7 +58471,8 @@
           "thermostat",
           "registers",
           "behavior"
-        ]
+        ],
+        "subject": "shield"
       },
       "images": []
     },
@@ -58368,7 +58482,7 @@
       "fromFrame": 68954,
       "durationFrames": 161,
       "props": {
-        "text": "The 75\u00b0 of joy becomes the new normal. This brings us to the actual execution of this change.",
+        "text": "The 75° of joy becomes the new normal. This brings us to the actual execution of this change.",
         "kicker": "CINEMA",
         "emphasis": [
           "MONTAGE"
@@ -58442,7 +58556,8 @@
           "threeinut",
           "sequence.",
           "montage"
-        ]
+        ],
+        "subject": "road"
       },
       "images": []
     },
@@ -58489,7 +58604,8 @@
           "monumentally",
           "difficult.",
           "scrolling"
-        ]
+        ],
+        "subject": "alarmClock"
       },
       "images": []
     },
@@ -58513,7 +58629,8 @@
         "compareLabels": [
           "BAD LUCK",
           "MALADAPTIVE COPING"
-        ]
+        ],
+        "subject": "phone"
       },
       "images": [
         {
@@ -58664,7 +58781,8 @@
           "compounding",
           "maladaptive",
           "environment"
-        ]
+        ],
+        "subject": "coin"
       },
       "images": [
         {
@@ -58691,7 +58809,8 @@
           "partner",
           "finally",
           "leaves."
-        ]
+        ],
+        "subject": "coin"
       },
       "images": []
     },
@@ -58912,7 +59031,8 @@
           "matters",
           "universe",
           "second."
-        ]
+        ],
+        "subject": "road"
       },
       "images": [
         {
@@ -58938,7 +59058,8 @@
           "feel",
           "infinitely",
           "mountain"
-        ]
+        ],
+        "subject": "road"
       },
       "images": [
         {
@@ -58990,7 +59111,8 @@
           "stop",
           "avoid",
           "overworking"
-        ]
+        ],
+        "subject": "alarmClock"
       },
       "images": [
         {
@@ -59111,7 +59233,8 @@
           "started",
           "trying",
           "worse."
-        ]
+        ],
+        "subject": "alarmClock"
       },
       "images": [
         {
@@ -59138,7 +59261,8 @@
           "therefore",
           "shouldnt",
           "healing"
-        ]
+        ],
+        "subject": "alarmClock"
       },
       "images": []
     },
@@ -59324,7 +59448,8 @@
           "summit.",
           "self-mastery",
           "destination."
-        ]
+        ],
+        "subject": "shadowSelf"
       },
       "images": []
     },
@@ -59489,7 +59614,8 @@
           "subconscious",
           "difference.",
           "sabotage"
-        ]
+        ],
+        "subject": "war"
       },
       "images": [
         {
@@ -59516,7 +59642,8 @@
           "daniels",
           "flashes",
           "warning"
-        ]
+        ],
+        "subject": "heart"
       },
       "images": []
     },
@@ -59537,7 +59664,8 @@
           "constriction",
           "recognizes",
           "incredibly"
-        ]
+        ],
+        "subject": "Daniel"
       },
       "images": []
     },
@@ -59579,7 +59707,8 @@
           "didnt",
           "disappeared",
           "processed"
-        ]
+        ],
+        "subject": "Daniel"
       },
       "images": [
         {
@@ -59702,7 +59831,8 @@
           "moment",
           "chose",
           "retreating"
-        ]
+        ],
+        "subject": "heart"
       },
       "images": []
     },
@@ -59798,7 +59928,8 @@
           "next",
           "time",
           "procrastinating"
-        ]
+        ],
+        "subject": "war"
       },
       "images": []
     },
@@ -59818,7 +59949,8 @@
           "dishwasher",
           "partner",
           "rising"
-        ]
+        ],
+        "subject": "war"
       },
       "images": [
         {
@@ -59844,7 +59976,8 @@
           "yourself",
           "physical",
           "breath."
-        ]
+        ],
+        "subject": "phone"
       },
       "images": []
     },
@@ -59864,7 +59997,8 @@
           "question.",
           "yourself",
           "piercing"
-        ]
+        ],
+        "subject": "shield"
       },
       "images": []
     },
@@ -59911,7 +60045,8 @@
           "need",
           "connection",
           "identify"
-        ]
+        ],
+        "subject": "shield"
       },
       "images": [
         {
@@ -60016,7 +60151,8 @@
           "something",
           "fighting",
           "thought"
-        ]
+        ],
+        "subject": "war"
       },
       "images": []
     },
@@ -60036,7 +60172,8 @@
           "procrastination.",
           "frustrating",
           "destructive"
-        ]
+        ],
+        "subject": "war"
       },
       "images": [
         {

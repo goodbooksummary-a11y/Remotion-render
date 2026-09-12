@@ -1,0 +1,219 @@
+{
+  "slug": "the-chosen",
+  "world": {
+    "era": "mid-20th century",
+    "approxYear": 1930,
+    "setting": "",
+    "register": "",
+    "forbid": [
+      "phone",
+      "codeWindow",
+      "laptopMockup",
+      "rocketLaunch",
+      "funnelMetrics",
+      "dollarExchange",
+      "subway",
+      "car",
+      "alarmClock",
+      "medical"
+    ]
+  },
+  "cast": {
+    "saunders": {
+      "name": "Saunders",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 10
+    },
+    "ruven": {
+      "name": "Ruven",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 7
+    },
+    "dany": {
+      "name": "Dany",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 5
+    },
+    "danny": {
+      "name": "Danny",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 4
+    },
+    "malter": {
+      "name": "Malter",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 4
+    },
+    "molter": {
+      "name": "Molter",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 2
+    },
+    "messiah": {
+      "name": "Messiah",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 2
+    }
+  },
+  "places": {
+    "hospital": {
+      "set": "hospital",
+      "look": "",
+      "mentions": 10
+    },
+    "library": {
+      "set": "library",
+      "look": "",
+      "mentions": 6
+    },
+    "classroom": {
+      "set": "classroom",
+      "look": "",
+      "mentions": 2
+    },
+    "forest": {
+      "set": "forest",
+      "look": "",
+      "mentions": 1
+    },
+    "street": {
+      "set": "street",
+      "look": "",
+      "mentions": 1
+    }
+  },
+  "objects": [
+    {
+      "concept": "family",
+      "mentions": 61,
+      "why": ""
+    },
+    {
+      "concept": "game",
+      "mentions": 14,
+      "why": ""
+    },
+    {
+      "concept": "war",
+      "mentions": 12,
+      "why": ""
+    },
+    {
+      "concept": "school",
+      "mentions": 12,
+      "why": ""
+    },
+    {
+      "concept": "medical",
+      "mentions": 9,
+      "why": ""
+    },
+    {
+      "concept": "lightbulb",
+      "mentions": 8,
+      "why": ""
+    },
+    {
+      "concept": "trophy",
+      "mentions": 7,
+      "why": ""
+    },
+    {
+      "concept": "phone",
+      "mentions": 5,
+      "why": ""
+    },
+    {
+      "concept": "road",
+      "mentions": 5,
+      "why": ""
+    },
+    {
+      "concept": "law",
+      "mentions": 5,
+      "why": ""
+    },
+    {
+      "concept": "wallet",
+      "mentions": 4,
+      "why": ""
+    },
+    {
+      "concept": "crack",
+      "mentions": 4,
+      "why": ""
+    }
+  ],
+  "spine": [
+    {
+      "act": "The Cold Open & The Terrible Paradox",
+      "fromFrame": 0,
+      "claim": ""
+    },
+    {
+      "act": "The Baseball Game as Ideological War",
+      "fromFrame": 5220,
+      "claim": ""
+    },
+    {
+      "act": "The Hospital Ward of Darkness",
+      "fromFrame": 13650,
+      "claim": ""
+    },
+    {
+      "act": "The Secret Library & Freud's Shadows",
+      "fromFrame": 22050,
+      "claim": ""
+    },
+    {
+      "act": "The Hasidic Court: Intellectual Blood Sport",
+      "fromFrame": 30270,
+      "claim": ""
+    },
+    {
+      "act": "The Pedagogy of Absolute Silence",
+      "fromFrame": 38310,
+      "claim": ""
+    },
+    {
+      "act": "Two Fathers & The Holocaust Schism",
+      "fromFrame": 46710,
+      "claim": ""
+    },
+    {
+      "act": "The Two-Year Wall Between Friends",
+      "fromFrame": 53280,
+      "claim": ""
+    },
+    {
+      "act": "The Tzaddik's Agonizing Confession",
+      "fromFrame": 60300,
+      "claim": ""
+    },
+    {
+      "act": "The Counterpoint: Genius or Abuse?",
+      "fromFrame": 65550,
+      "claim": ""
+    },
+    {
+      "act": "The Payoff: Becoming a Tzaddik for the World",
+      "fromFrame": 67560,
+      "claim": ""
+    }
+  ],
+  "authored": false
+}

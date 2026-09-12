@@ -1,0 +1,168 @@
+{
+  "slug": "i-m-thinking-of-ending-things",
+  "world": {
+    "era": "unspecified",
+    "approxYear": null,
+    "setting": "",
+    "register": "",
+    "forbid": []
+  },
+  "cast": {
+    "jake": {
+      "name": "Jake",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 10
+    },
+    "reed": {
+      "name": "Reed",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 5
+    }
+  },
+  "places": {
+    "highway": {
+      "set": "highway",
+      "look": "",
+      "mentions": 1
+    },
+    "kitchen": {
+      "set": "kitchen",
+      "look": "",
+      "mentions": 1
+    },
+    "bedroom": {
+      "set": "bedroom",
+      "look": "",
+      "mentions": 1
+    },
+    "classroom": {
+      "set": "classroom",
+      "look": "",
+      "mentions": 1
+    }
+  },
+  "objects": [
+    {
+      "concept": "phone",
+      "mentions": 29,
+      "why": ""
+    },
+    {
+      "concept": "car",
+      "mentions": 18,
+      "why": ""
+    },
+    {
+      "concept": "road",
+      "mentions": 16,
+      "why": ""
+    },
+    {
+      "concept": "family",
+      "mentions": 16,
+      "why": ""
+    },
+    {
+      "concept": "grave",
+      "mentions": 12,
+      "why": ""
+    },
+    {
+      "concept": "school",
+      "mentions": 10,
+      "why": ""
+    },
+    {
+      "concept": "magnifier",
+      "mentions": 8,
+      "why": ""
+    },
+    {
+      "concept": "game",
+      "mentions": 7,
+      "why": ""
+    },
+    {
+      "concept": "home",
+      "mentions": 7,
+      "why": ""
+    },
+    {
+      "concept": "notes",
+      "mentions": 6,
+      "why": ""
+    },
+    {
+      "concept": "heart",
+      "mentions": 6,
+      "why": ""
+    },
+    {
+      "concept": "food",
+      "mentions": 5,
+      "why": ""
+    }
+  ],
+  "spine": [
+    {
+      "act": "The Title Is the Trap",
+      "fromFrame": 0,
+      "claim": ""
+    },
+    {
+      "act": "Clues Hidden in Plain Sight",
+      "fromFrame": 5460,
+      "claim": ""
+    },
+    {
+      "act": "The Car as Collapsing Mind",
+      "fromFrame": 12510,
+      "claim": ""
+    },
+    {
+      "act": "The Farmhouse Seance",
+      "fromFrame": 19350,
+      "claim": ""
+    },
+    {
+      "act": "Phone Calls from No One",
+      "fromFrame": 25860,
+      "claim": ""
+    },
+    {
+      "act": "Where Is Jake's Body?",
+      "fromFrame": 30660,
+      "claim": ""
+    },
+    {
+      "act": "The Cruciverbalist's Loneliness",
+      "fromFrame": 35370,
+      "claim": ""
+    },
+    {
+      "act": "Borrowed Thoughts, Stolen Identity",
+      "fromFrame": 37200,
+      "claim": ""
+    },
+    {
+      "act": "Ice Cream in a Blizzard",
+      "fromFrame": 43020,
+      "claim": ""
+    },
+    {
+      "act": "The High School Collapse",
+      "fromFrame": 47430,
+      "claim": ""
+    },
+    {
+      "act": "The Ambiguity Is the Point",
+      "fromFrame": 50280,
+      "claim": ""
+    }
+  ],
+  "authored": false
+}

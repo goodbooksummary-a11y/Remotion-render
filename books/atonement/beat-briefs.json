@@ -5865,17 +5865,17 @@
       "fp": "o2ci7p",
       "i": 283,
       "from": 67536,
-      "subject": "",
+      "subject": "book",
       "entities": [],
-      "concept": null,
-      "place": null,
-      "confidence": 0.3,
+      "concept": "book",
+      "place": "library",
+      "confidence": 0.55,
       "vox": {
-        "shot": ", 1935"
+        "shot": "book, the dim Tallis library at dusk, tall shelves, one lamp, 1935"
       },
       "antidote": {
-        "concept": null,
-        "set": null,
+        "concept": "book",
+        "set": "library",
         "cast": []
       },
       "_said": "power of deciding outcomes, she is also God?\" There is no higher power she can appeal to within the pages of a book. She is the creator. She couldn't fix what she broke in 1935."

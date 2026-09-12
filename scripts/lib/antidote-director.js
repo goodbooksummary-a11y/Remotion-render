@@ -81,12 +81,18 @@ const CONCEPT_LEXICON = [
   ["alarmClock", /\b(alarm|snooze|wake(s|d| up)?|waking up|asleep|sleep(ing|s)?|in bed|nightstand|morning alarm|five more minutes)\b/i],
   ["butterfly", /\b(butterfly( effect)?|fluke|chaos( theory)?|randomness|contingency|unbroken chain)\b/i],
   ["subway", /\b(subway|metro|train|transit|commute|platform|miss the train|railway)\b/i],
-  ["car", /\b(car|automobile|driver|motorcade|stalls? the car|vehicle|steering wheel)\b/i],
+  // `car` no longer swallows "car crash" — `crash` is the subject there. The
+  // lexicon is first-match-wins and nothing enforced the "specific before
+  // general" rule its own comment asserts; scripts/lint-vocabulary.js now probes
+  // for exactly this kind of shadowing.
+  ["car", /\b(automobile|motorcade|stalls? the car|steering wheel|behind the wheel|car(?! crash))\b/i],
   ["coffee", /\b(coffee|espresso|cup of|mug|cafe|breakfast|morning routine)\b/i],
   // ── Tech, Silicon Valley & Startup Concepts (Antidote 5.0) ───────────────
   ["codeWindow", /\b(code|coding|programmer|developer|software|python|javascript|typescript|engineer|github|algorithm|app|build(ing)? an app|bug|feature|stack|repo|database)\b/i],
   ["rocketLaunch", /\b(launch(ed|ing)?|startup|silicon valley|take off|liftoff|mvp|prototype|y combinator|found(er|ed|ing)?|co-founder|scale|scale-up)\b/i],
-  ["funnelMetrics", /\b(funnel|conversion|leads?|prospects?|outreach|cold email|traffic|visitors?|subscribers?|opt-?in|retention rate)\b/i],
+  // a bare "funnel" shadowed `funnelTrap` (the essentialism metaphor) for every
+  // book; the marketing funnel now has to say so
+  ["funnelMetrics", /\b(sales funnel|conversion|leads?|prospects?|outreach|cold email|traffic|visitors?|subscribers?|opt-?in|retention rate)\b/i],
   ["dollarExchange", /\b(customer|paying customer|ask for money|pre-?order|first dollar|sale|sell(ing)?|credit card|stripe|paypal|transaction|payment|revenue|checkout)\b/i],
   ["laptopMockup", /\b(laptop|computer|macbook|dashboard|website|saas|platform|screen|interface|portal|landing page)\b/i],
   ["crash", /\b(car crash|crash(ed|ing)?|collision|accident|wreck(ed|age)?|smash(ed)?|totaled|head-on|pile-?up)\b/i],
@@ -124,13 +130,29 @@ const CONCEPT_LEXICON = [
   ["lightbulb", /\b(idea|lightbulb|invention|invented|spark|electricity|discovery|eureka|breakthrough|illumination|genius|light in the dark)\b/i],
   ["shadowSelf", /\b(shadow|dark side|subconscious|repressed|hidden self|dark nature|sinister|hidden motive|unconscious drive)\b/i],
   ["puppeteer", /\b(puppeteer|puppet|strings|manipulat(e|ion|ed|ing)|controlled|marionette|pull the strings|mastermind)\b/i],
-  ["iceberg", /\b(iceberg|tip of the iceberg|below the surface|hidden depths|under the water|surface level)\b/i],
+  // (the plain `iceberg` entry lived here and matched the same words as
+  // `icebergDepth` below, which sits later in a first-match-wins list — so the
+  // richer drawing never won once in 3309 beats. Removed; `icebergDepth` is the
+  // iceberg now.)
   ["chains", /\b(chains|chained|freedom|escape|break free|liberation|shackles|prison|cage|unshackle)\b/i],
   ["compass", /\b(compass|true north|direction|guidance|navigation|purpose|moral compass|orient)\b/i],
   // Hypnotic Vector Metaphors (Compounding, Depth, Focus)
   ["dominoCascade", /\b(domino(es)?|compound(ing|ed)?|exponential|chain reaction|atomic habits?|small habits?|slight edge|ripple effect|snowball effect)\b/i],
   ["icebergDepth", /\b(iceberg|below the surface|hidden depths?|under the water|tip of the iceberg|unseen (effort|work|sacrifice)|what people see)\b/i],
   ["funnelTrap", /\b(funnel|prioritiz(e|ation|ing)|filter(ing)? the noise|essentialism|the one thing|ruthless(ly)?|100 distractions|noise into signal)\b/i],
+  // ── drawable motifs that had no way of being chosen by meaning ────────────
+  // `lint-vocabulary.js` reports 18 of these. The abstract ones — spotlight,
+  // ripple, orbit, shape, maze, arrow — stay unreachable ON PURPOSE: they carry
+  // no subject, so a regex for them would only manufacture false relevance.
+  // These six do carry one, and are deliberately narrow.
+  ["summit", /\b(summit|the peak\b|mountaintop|top of the mountain|pinnacle|the ascent)\b/i],
+  ["ladder", /\b(ladder|rung\b|climb(ed|ing)? (the|up)|career ladder|step by step up)\b/i],
+  ["crack", /\b(cracks?\b|cracked|cracking|fracture|fissure|splits? apart|broke apart|shattered)\b/i],
+  ["clock", /\b(the clock|o'?clock|hours? (later|passed|went by)|minutes ticking|running out of time)\b/i],
+  ["balance", /\b(trade-?offs?|weigh(s|ed|ing) (the|up)|equilibrium|in the balance|evenly matched)\b/i],
+  // NARROW on purpose: "the book" is said in every other sentence on a
+  // book-summary channel, so a loose pattern would fire on the whole film.
+  ["book", /\b(turns? the page|turned the page|the pages|paperback|bookshelf|manuscript|reading a book|opens? the book)\b/i],
   // Vector Handprops
   ["shield", /\b(shield|protect(ion|ed|ing)?|defense|defend|downside|guard|safe(ty)?|risk management|asymmetry)\b/i],
   ["trophy", /\b(trophy|champion(ship)?|win(ning|ner)?|victory|mastery|prize|conquer|award)\b/i],
@@ -206,7 +228,7 @@ const OPPOSITE = {
 const CONCEPT_SET = {
   home: "room", family: "kitchen", food: "kitchen",
   school: "classroom", notes: "library", book: "library",
-  work: "office", briefcase: "office", medical: "hospital", law: "court",
+  work: "office", medical: "hospital", law: "court",
   city: "street", road: "highway", crash: "highway",
   water: "shore", tree: "forest", grave: "forest",
   storm: "sky", star: "sky", heart: "cafe", phone: "cafe",
@@ -249,12 +271,8 @@ const CONCEPT_HOLD = {
   wallet: "wallet",
   gift: "gift",
   zap: "zap",
-  book: "book",
   phone: "phone",
   // Tech & Business Handprops (5.0)
-  laptop: "laptop",
-  creditCard: "creditCard",
-  smartphone: "smartphone",
   codeWindow: "laptop",
   laptopMockup: "laptop",
   dollarExchange: "creditCard",
@@ -402,7 +420,35 @@ function createDirector({ palette, genre, slug, bible }) {
   const sets = (bible && bible.antidote && Array.isArray(bible.antidote.preferredSets) && bible.antidote.preferredSets.length > 0)
     ? bible.antidote.preferredSets
     : genreSets(genre);
-  const customMotifs = (bible && bible.antidote && bible.antidote.activeCustomMotifs) || {};
+  /**
+   * PER-BOOK VISUAL VOCABULARY.
+   *
+   * `customSvg` is the escape hatch that lets a book carry an icon the shared
+   * 74-motif registry does not have — as DATA, so it travels in the render
+   * bundle and costs no per-book engine code. It has fired ZERO times in 15
+   * books, because the only way to supply it was `creative-bible.json`'s
+   * `activeCustomMotifs`, which only two of six universes ever populate and
+   * which only five books even have.
+   *
+   * `books/<slug>/motifs.json` is the direct path: a plain map of
+   *   { <key>: { title, viewBox, paths: [{ d, fill|stroke, strokeWidth }] } }
+   * in the same shape the renderer already accepts. The story bible's `objects`
+   * are where you find out which ones a book needs — anything whose `concept`
+   * the lint reports as undrawable is a candidate.
+   */
+  const perBook = (() => {
+    try {
+      const p = require("path").join(__dirname, "..", "..", "books", String(slug || ""), "motifs.json");
+      const fsx = require("fs");
+      if (!fsx.existsSync(p)) return {};
+      const loaded = JSON.parse(fsx.readFileSync(p, "utf8"));
+      return loaded && typeof loaded === "object" ? (loaded.motifs || loaded) : {};
+    } catch { return {}; }
+  })();
+  const customMotifs = {
+    ...((bible && bible.antidote && bible.antidote.activeCustomMotifs) || {}),
+    ...perBook,   // the per-book file wins
+  };
   const seedBase = String(slug || "antidote").split("").reduce((a, c) => a + c.charCodeAt(0), 0);
 
   const state = {

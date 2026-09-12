@@ -1,0 +1,187 @@
+{
+  "slug": "little-women",
+  "world": {
+    "era": "1868–1868",
+    "approxYear": 1868,
+    "setting": "",
+    "register": "",
+    "forbid": [
+      "phone",
+      "codeWindow",
+      "laptopMockup",
+      "rocketLaunch",
+      "funnelMetrics",
+      "dollarExchange",
+      "subway",
+      "car",
+      "alarmClock",
+      "medical"
+    ]
+  },
+  "cast": {
+    "joe": {
+      "name": "Joe",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 13
+    },
+    "beth": {
+      "name": "Beth",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 5
+    },
+    "alcott": {
+      "name": "Alcott",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 5
+    },
+    "amy": {
+      "name": "Amy",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 4
+    },
+    "marmy": {
+      "name": "Marmy",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 4
+    },
+    "lori": {
+      "name": "Lori",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 2
+    }
+  },
+  "places": {
+    "hospital": {
+      "set": "hospital",
+      "look": "",
+      "mentions": 2
+    },
+    "bedroom": {
+      "set": "bedroom",
+      "look": "",
+      "mentions": 1
+    }
+  },
+  "objects": [
+    {
+      "concept": "family",
+      "mentions": 20,
+      "why": ""
+    },
+    {
+      "concept": "coin",
+      "mentions": 17,
+      "why": ""
+    },
+    {
+      "concept": "heart",
+      "mentions": 15,
+      "why": ""
+    },
+    {
+      "concept": "home",
+      "mentions": 13,
+      "why": ""
+    },
+    {
+      "concept": "notes",
+      "mentions": 9,
+      "why": ""
+    },
+    {
+      "concept": "phone",
+      "mentions": 8,
+      "why": ""
+    },
+    {
+      "concept": "fire",
+      "mentions": 8,
+      "why": ""
+    },
+    {
+      "concept": "book",
+      "mentions": 6,
+      "why": ""
+    },
+    {
+      "concept": "war",
+      "mentions": 5,
+      "why": ""
+    },
+    {
+      "concept": "school",
+      "mentions": 5,
+      "why": ""
+    },
+    {
+      "concept": "grave",
+      "mentions": 5,
+      "why": ""
+    },
+    {
+      "concept": "law",
+      "mentions": 4,
+      "why": ""
+    }
+  ],
+  "spine": [
+    {
+      "act": "The Real First Line: Money, Not Love",
+      "fromFrame": 0,
+      "claim": ""
+    },
+    {
+      "act": "Poverty Is the Engine",
+      "fromFrame": 4950,
+      "claim": ""
+    },
+    {
+      "act": "Goodness as Performance",
+      "fromFrame": 9750,
+      "claim": ""
+    },
+    {
+      "act": "The Little Women Earn",
+      "fromFrame": 14760,
+      "claim": ""
+    },
+    {
+      "act": "Why Beth Had to Die",
+      "fromFrame": 19110,
+      "claim": ""
+    },
+    {
+      "act": "Amy, the Misread Pragmatist",
+      "fromFrame": 23100,
+      "claim": ""
+    },
+    {
+      "act": "Jo Refuses Laurie",
+      "fromFrame": 27450,
+      "claim": ""
+    },
+    {
+      "act": "Professor Bhaer & the Burned Stories",
+      "fromFrame": 31410,
+      "claim": ""
+    },
+    {
+      "act": "The Ending Alcott Wrote Out of Spite",
+      "fromFrame": 34890,
+      "claim": ""
+    }
+  ],
+  "authored": false
+}

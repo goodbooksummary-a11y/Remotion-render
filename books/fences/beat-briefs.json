@@ -1,0 +1,5107 @@
+{
+  "slug": "fences",
+  "authored": false,
+  "briefs": [
+    {
+      "fp": "s2qd5i",
+      "i": 0,
+      "from": 0,
+      "subject": "Troy and Maxson — family",
+      "entities": [
+        "troy",
+        "maxson"
+      ],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Troy and Maxson, sit with that image for a second and you re, 1957"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": [
+          "troy",
+          "maxson"
+        ]
+      },
+      "_said": "Here's the thing that wrecked me about Troy Maxson. The man builds a fence for three acts and by the time he finishes it, he's locked out of his own family. You sit with that image"
+    },
+    {
+      "fp": "vwxb7s",
+      "i": 1,
+      "from": 482,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1957"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "contradictions in American literature. It really is. We are spending this deep dive completely submerged in August Wilson's"
+    },
+    {
+      "fp": "q61vlf",
+      "i": 2,
+      "from": 669,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1957"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Wilson's Pulitzer Prizewinning classic Fences. And uh we have a very specific argument we want to lay out for you today. Right. something that totally"
+    },
+    {
+      "fp": "1souxpi",
+      "i": 3,
+      "from": 892,
+      "subject": "Troy and Maxson",
+      "entities": [
+        "troy",
+        "maxson"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Troy and Maxson, 1957"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "troy",
+          "maxson"
+        ]
+      },
+      "_said": "totally recontextualizes every single thing that happens in this dirty yard. Exactly. The thesis is this. Troy Maxson"
+    },
+    {
+      "fp": "fg3ncv",
+      "i": 4,
+      "from": 1087,
+      "subject": "Troy and Maxson — heart",
+      "entities": [
+        "troy",
+        "maxson"
+      ],
+      "concept": "heart",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Troy and Maxson, 1957"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": null,
+        "cast": [
+          "troy",
+          "maxson"
+        ]
+      },
+      "_said": "Maxson is August Wilson's ultimate proof that survival and love use the exact same And that is the tragedy. The relentless ironclad toughness that kept Troy alive in the racist ind"
+    },
+    {
+      "fp": "1rzs7uh",
+      "i": 5,
+      "from": 1473,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1957"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "grinder of 1950s Pittsburgh. That is the exact same force that ends up crushing"
+    },
+    {
+      "fp": "e2xdw3",
+      "i": 6,
+      "from": 1600,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, 1957"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": []
+      },
+      "_said": "crushing his son, his wife, and ultimately himself. It's just so heavy when you look at it that way. It is. We are going to look at this play through a lens that you know might act"
+    },
+    {
+      "fp": "5f6it",
+      "i": 7,
+      "from": 1922,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, 1957"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": []
+      },
+      "_said": "your own family history. We're exploring how trauma gets inherited by"
+    },
+    {
+      "fp": "1y3mk3j",
+      "i": 8,
+      "from": 2047,
+      "subject": "shield",
+      "entities": [],
+      "concept": "shield",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "shield, 1957"
+      },
+      "antidote": {
+        "concept": "shield",
+        "cast": []
+      },
+      "_said": "by the next generation. Not through outright cruelty, but through a twisted, suffocating form of protection. Right. And to"
+    },
+    {
+      "fp": "mg3xyk",
+      "i": 9,
+      "from": 2265,
+      "subject": "shield",
+      "entities": [],
+      "concept": "shield",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "shield, 1957"
+      },
+      "antidote": {
+        "concept": "shield",
+        "cast": []
+      },
+      "_said": "to even begin to understand that kind of protection, you really have to understand the world that made it absolutely necessary. Right. The environment. Exactly. You have to underst"
+    },
+    {
+      "fp": "1xbycjc",
+      "i": 10,
+      "from": 2592,
+      "subject": "Maxson — home",
+      "entities": [
+        "maxson"
+      ],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Maxson, 1957"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": [
+          "maxson"
+        ]
+      },
+      "_said": "air Py Maxson is breathing. It's 1957. We are in a dirty yard in front of an ancient two-story brick house set off a small alley in"
+    },
+    {
+      "fp": "m4at9m",
+      "i": 11,
+      "from": 2848,
+      "subject": "city",
+      "entities": [],
+      "concept": "city",
+      "place": "street",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "city, street, 1957"
+      },
+      "antidote": {
+        "concept": "city",
+        "set": "street",
+        "cast": []
+      },
+      "_said": "in a northern industrial city, specifically Pittsburgh. And Pittsburgh in 1957 is I mean it's Oh, it's totally booming. If you look"
+    },
+    {
+      "fp": "14ztgmx",
+      "i": 12,
+      "from": 3081,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1957"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "look at the broader historical picture, the hardin victories of European immigrants have solidified the industrial might of America."
+    },
+    {
+      "fp": "2cc2kg",
+      "i": 13,
+      "from": 3281,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, 1957"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "America. The furnaces are bursting, steel is flowing, life is flourishing. It is the post-war boom. But, and this is a huge butt. Yeah. As"
+    },
+    {
+      "fp": "uykzmc",
+      "i": 14,
+      "from": 3504,
+      "subject": "Richards — notes",
+      "entities": [
+        "richards"
+      ],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Richards, 1957"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": [
+          "richards"
+        ]
+      },
+      "_said": "As theater director Lloyd Richards so brilliantly points out in his introductory notes to the play, and we will be referencing his notes throughout this deep dive, the descendants "
+    },
+    {
+      "fp": "11uc9he",
+      "i": 15,
+      "from": 3926,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1957"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "fled the Jim Crow South headed to these northern cities in pursuit of a dream. And"
+    },
+    {
+      "fp": "1xhwmkt",
+      "i": 16,
+      "from": 4044,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "arrived strong and eager only to face just a bi, 1957"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "And they arrived strong and eager only to face just a bitter, impenetrable wall of rejection. Exactly."
+    },
+    {
+      "fp": "17yw74n",
+      "i": 17,
+      "from": 4248,
+      "subject": "water",
+      "entities": [],
+      "concept": "water",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "water, 1957"
+      },
+      "antidote": {
+        "concept": "water",
+        "set": null,
+        "cast": []
+      },
+      "_said": "Exactly. They found themselves living in quiet desperation, pushed to the margins, living along river banks, under bridges, in ramshackle houses made of sticks and tar paper, just "
+    },
+    {
+      "fp": "1yb2ph",
+      "i": 18,
+      "from": 4718,
+      "subject": "city",
+      "entities": [],
+      "concept": "city",
+      "place": "street",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "city, street, 1957"
+      },
+      "antidote": {
+        "concept": "city",
+        "set": "street",
+        "cast": []
+      },
+      "_said": "while the economic spoils of the city went entirely to white workers. And that brings us directly into this dirty yard. The yard"
+    },
+    {
+      "fp": "2xry6n",
+      "i": 19,
+      "from": 4917,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1957"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "yard that is partially fenced, partially fenced, loose boards and tools are just scattered around. And living in this yard is"
+    },
+    {
+      "fp": "1y3ug7i",
+      "i": 20,
+      "from": 5092,
+      "subject": "Troy — family",
+      "entities": [
+        "troy"
+      ],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Troy, 1957"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": [
+          "troy"
+        ]
+      },
+      "_said": "is a complex ecosystem of a family. On the center is Traxon. Troy is 53"
+    },
+    {
+      "fp": "95lu64",
+      "i": 21,
+      "from": 5251,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "notes, 1957"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": []
+      },
+      "_said": "53 years old. The text explicitly notes his thick, heavy hands. He's a large man. And that largeness combined with"
+    },
+    {
+      "fp": "z2lh6y",
+      "i": 22,
+      "from": 5479,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1957"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "with his blackness informs every single choice he has ever made. Yeah, it really does. He works as a garbage collector just lifting heavy barrels all day. But crucially, he is a fo"
+    },
+    {
+      "fp": "cdeni4",
+      "i": 23,
+      "from": 5822,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1957"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "former Negro League baseball slugger. A legend. basically"
+    },
+    {
+      "fp": "1sbp25m",
+      "i": 24,
+      "from": 5928,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1957"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "basically a legitimate giant in his sport who missed his chance at the major leagues because the color line broke just a little too late for him. I really want to emphasize that fo"
+    },
+    {
+      "fp": "1fhh4zc",
+      "i": 25,
+      "from": 6312,
+      "subject": "clock",
+      "entities": [],
+      "concept": "clock",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "clock, 1957"
+      },
+      "antidote": {
+        "concept": "clock",
+        "cast": []
+      },
+      "_said": "something un undeniably brilliant, but society simply looks at the clock, looks at your skin color, and says, \"Uh, sorry, you missed your window.\" It's"
+    },
+    {
+      "fp": "1abp8tv",
+      "i": 26,
+      "from": 6583,
+      "subject": "Rose — home",
+      "entities": [
+        "rose"
+      ],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Rose, 1957"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": [
+          "rose"
+        ]
+      },
+      "_said": "It's an agonizing foundational wound. It's everything to him. And sharing this house with him is his wife, Rose. She's"
+    },
+    {
+      "fp": "50l5kn",
+      "i": 27,
+      "from": 6756,
+      "subject": "Troy",
+      "entities": [
+        "troy"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Troy, 1957"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "troy"
+        ]
+      },
+      "_said": "She's 10 years younger than Troy. devoted partner for 18 years. 18 years. The text tells us she gave up a wilder life, avoiding a succession"
+    },
+    {
+      "fp": "oxxp3o",
+      "i": 28,
+      "from": 6986,
+      "subject": "city",
+      "entities": [],
+      "concept": "city",
+      "place": "street",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "city, running the streets or the alternate paths of s, street, 1957"
+      },
+      "antidote": {
+        "concept": "city",
+        "set": "street",
+        "cast": []
+      },
+      "_said": "succession of abusive men running the streets or the alternate paths of strict church life or total aloneeness just to anchor herself to She saw something in him. Yeah. She recogni"
+    },
+    {
+      "fp": "lab2qy",
+      "i": 29,
+      "from": 7337,
+      "subject": "Cory — family",
+      "entities": [
+        "cory"
+      ],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Cory, 1957"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": [
+          "cory"
+        ]
+      },
+      "_said": "his illuminating spirit. That's a beautiful phrase. It is. Then you have their 17-year-old son, Cory, who is currently being courted"
+    },
+    {
+      "fp": "1qtr756",
+      "i": 30,
+      "from": 7555,
+      "subject": "Bono — school",
+      "entities": [
+        "bono"
+      ],
+      "concept": "school",
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Bono, 1957"
+      },
+      "antidote": {
+        "concept": "school",
+        "set": null,
+        "cast": [
+          "bono"
+        ]
+      },
+      "_said": "courted by a college football recruiter. And there's also Jim Bono, Troy's loyal follower and best friend of 30 odd Bono deeply"
+    },
+    {
+      "fp": "1t0v5ie",
+      "i": 31,
+      "from": 7771,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1957"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "deeply admires Troy's honesty and his massive capacity for hard work. Right. And"
+    },
+    {
+      "fp": "1iww2yb",
+      "i": 32,
+      "from": 7922,
+      "subject": "Gabriel — family",
+      "entities": [
+        "gabriel"
+      ],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Gabriel, 1957"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": [
+          "gabriel"
+        ]
+      },
+      "_said": "And we cannot forget Gabriel. Oh, Gabriel. His presence is the pulsing physical reminder of the cost of survival. Gabriel is Troy's younger brother. He went off to fight"
+    },
+    {
+      "fp": "ifnh0v",
+      "i": 33,
+      "from": 8256,
+      "subject": "road",
+      "entities": [],
+      "concept": "road",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "road, 1957"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": null,
+        "cast": []
+      },
+      "_said": "fight in World War II against the Japanese and he returned with half of his head blown Literally half his head. Yeah. He has a metal plate in his skull now. And he wanders the stre"
+    },
+    {
+      "fp": "fy7f4o",
+      "i": 34,
+      "from": 8580,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1957"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "waist, genuinely believing with every fiber of his damaged mind that he"
+    },
+    {
+      "fp": "ug8wp9",
+      "i": 35,
+      "from": 8697,
+      "subject": "Gabriel",
+      "entities": [
+        "gabriel"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Gabriel, waiting to blow his horn for st, 1957"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "gabriel"
+        ]
+      },
+      "_said": "he is the archangel Gabriel, just waiting to blow his horn for St. Peter to open the gates of heaven. Exactly. So, you"
+    },
+    {
+      "fp": "lwgd7",
+      "i": 36,
+      "from": 8870,
+      "subject": "gift",
+      "entities": [],
+      "concept": "gift",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "gift, 1957"
+      },
+      "antidote": {
+        "concept": "gift",
+        "cast": []
+      },
+      "_said": "you have this intense pressure cooker of a household. So, let's drop right into it. Present tense. It is Friday night, payday. I want to look"
+    },
+    {
+      "fp": "6ha9xj",
+      "i": 37,
+      "from": 9117,
+      "subject": "Troy and Bono",
+      "entities": [
+        "troy",
+        "bono"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Troy and Bono, 1957"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "troy",
+          "bono"
+        ]
+      },
+      "_said": "look at how Troy communicates in this yard because it's entirely unique. It really is a ritual. Yeah. Troy and Bono are sharing a pint of liquor in the fading light of the dirty ya"
+    },
+    {
+      "fp": "3e9j5f",
+      "i": 38,
+      "from": 9400,
+      "subject": "Troy",
+      "entities": [
+        "troy"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Troy, 1957"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "troy"
+        ]
+      },
+      "_said": "It's their sacred weekly ritual of talk and drink. Troy squares his heavy shoulders. He assumes"
+    },
+    {
+      "fp": "uy5s7k",
+      "i": 39,
+      "from": 9583,
+      "subject": "Bono — grave",
+      "entities": [
+        "bono"
+      ],
+      "concept": "grave",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Bono, 1957"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": null,
+        "cast": [
+          "bono"
+        ]
+      },
+      "_said": "assumes a batting stance right there in the dirt, looks out into the yard, and he tells Bono that death is nothing but a fast ball on the outside corner. I love this part. He says,"
+    },
+    {
+      "fp": "1rt1cfb",
+      "i": 40,
+      "from": 9931,
+      "subject": "heart",
+      "entities": [],
+      "concept": "heart",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "heart, 1957"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": null,
+        "cast": []
+      },
+      "_said": "one of them fast balls about waist high over the outside corner of the plate where you can get the meat of the bat on it.\" And good god, you can kiss it goodbye. It's"
+    },
+    {
+      "fp": "1lxf9x",
+      "i": 41,
+      "from": 10238,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1957"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "It's just an incredible image. But we have to ask"
+    },
+    {
+      "fp": "topues",
+      "i": 42,
+      "from": 10308,
+      "subject": "Troy and Wilson",
+      "entities": [
+        "troy",
+        "wilson"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Troy and Wilson, 1957"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "troy",
+          "wilson"
+        ]
+      },
+      "_said": "ask why August Wilson gives Troy this specific language because baseball isn't just a hobby. No, not at all. Baseball is his private language. It"
+    },
+    {
+      "fp": "1438b95",
+      "i": 43,
+      "from": 10560,
+      "subject": "Bono — grave",
+      "entities": [
+        "bono"
+      ],
+      "concept": "grave",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Bono, 1957"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": null,
+        "cast": [
+          "bono"
+        ]
+      },
+      "_said": "It is his Rosetta Stone. It is the absolute only way he can process a world that never ever gave him a ferret bat. He goes on to tell Bono a story about how he wrestled with death"
+    },
+    {
+      "fp": "mcpcek",
+      "i": 44,
+      "from": 10889,
+      "subject": "Troy — grave",
+      "entities": [
+        "troy"
+      ],
+      "concept": "grave",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Troy, 1957"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": null,
+        "cast": [
+          "troy"
+        ]
+      },
+      "_said": "death for three days and three nights back in 1941. Right. When death marched straight at him like an army in July. Yes. Troy sees his entire life as"
+    },
+    {
+      "fp": "1q4zzly",
+      "i": 45,
+      "from": 11150,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, 1957"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "as a desperate unending battle against being struck out. You got to take the crooked with the straits. He says life isn't at"
+    },
+    {
+      "fp": "uaf1nc",
+      "i": 46,
+      "from": 11356,
+      "subject": "grave",
+      "entities": [],
+      "concept": "grave",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "grave, 1957"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": null,
+        "cast": []
+      },
+      "_said": "at bad against death and the only option is to keep swinging. And when he talks about"
+    },
+    {
+      "fp": "zrmlmb",
+      "i": 47,
+      "from": 11484,
+      "subject": "Bono — notes",
+      "entities": [
+        "bono"
+      ],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Bono, runs off the legendary satchel page, 1957"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": [
+          "bono"
+        ]
+      },
+      "_said": "about his actual baseball stats, the tragedy really crystallizes. He brags to Bono that he hit seven home runs off the legendary satchel page. So he notes"
+    },
+    {
+      "fp": "1bkjsjj",
+      "i": 48,
+      "from": 11798,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "notes, 1957"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": []
+      },
+      "_said": "notes that Babe Ruth and Josh Gibson were the absolute only two men to ever hit more than his 432 home runs. I mean he knows exactly how good he was. He has the receipts. He absolu"
+    },
+    {
+      "fp": "1vxwz3o",
+      "i": 49,
+      "from": 12187,
+      "subject": "Troy — heart",
+      "entities": [
+        "troy"
+      ],
+      "concept": "heart",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Troy, 1957"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": null,
+        "cast": [
+          "troy"
+        ]
+      },
+      "_said": "love for you to help me understand this. Troy is 53. The year is 1957."
+    },
+    {
+      "fp": "1ws7xai",
+      "i": 50,
+      "from": 12348,
+      "subject": "trophy",
+      "entities": [],
+      "concept": "trophy",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "trophy, 1957"
+      },
+      "antidote": {
+        "concept": "trophy",
+        "cast": []
+      },
+      "_said": "The Milwaukee Braves are currently winning the World Series. And Hank Aaron, a black man, is hitting 43"
+    },
+    {
+      "fp": "qybqes",
+      "i": 51,
+      "from": 12506,
+      "subject": "Troy and Cory — home",
+      "entities": [
+        "troy",
+        "cory"
+      ],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Troy and Cory, runs in the majors, 1957"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": [
+          "troy",
+          "cory"
+        ]
+      },
+      "_said": "43 home runs in the majors. Right. You would think Troy would be thrilled to see that barrier broken, but when his son Cory brings"
+    },
+    {
+      "fp": "ocy2pg",
+      "i": 52,
+      "from": 12708,
+      "subject": "Troy",
+      "entities": [
+        "troy"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Troy, 1957"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "troy"
+        ]
+      },
+      "_said": "brings up Hank Aaron, Troy completely dismisses him. He shuts it down. Yeah. He says Aaron is just doing what he's supposed to do. He literally says, \"Ain't"
+    },
+    {
+      "fp": "1b740e1",
+      "i": 53,
+      "from": 12998,
+      "subject": "home",
+      "entities": [],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "home, runs right now, 1957"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": []
+      },
+      "_said": "\"Ain't nothing to it. It's just a matter of timing. Hell, I can hit 43 home runs right now. Why does he refuse"
+    },
+    {
+      "fp": "1e63sfi",
+      "i": 54,
+      "from": 13173,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1957"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "refuse to acknowledge Hank Aaron's success?\" Because acknowledging Hank Aaron's"
+    },
+    {
+      "fp": "1399rh8",
+      "i": 55,
+      "from": 13293,
+      "subject": "Troy",
+      "entities": [
+        "troy"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Troy, 1957"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "troy"
+        ]
+      },
+      "_said": "Aaron's success requires Troy to accept his own Yeah. Troy is trapped in the trauma of his own timeline. He came along too early. If he admits that Hank Aaron"
+    },
+    {
+      "fp": "wbq60f",
+      "i": 56,
+      "from": 13636,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1957"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Aaron is achieving greatness right now, he has to swallow the bitter pill that his own greatness was wasted simply because of when he was born. It's too painful. Exactly. So, he ch"
+    },
+    {
+      "fp": "wwwdz9",
+      "i": 57,
+      "from": 13949,
+      "subject": "grave",
+      "entities": [],
+      "concept": "grave",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "grave, 1957"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": null,
+        "cast": []
+      },
+      "_said": "deep, agonizing historical rejection into a mythological battle where he can finally have some control. He needs a one-on-one wrestling match with a personified death because he kn"
+    },
+    {
+      "fp": "13f2jy6",
+      "i": 58,
+      "from": 14270,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1957"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "against the invisible systemic racism of"
+    },
+    {
+      "fp": "4fdqww",
+      "i": 59,
+      "from": 14347,
+      "subject": "Troy and Richards — notes",
+      "entities": [
+        "troy",
+        "richards"
+      ],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Troy and Richards, 1957"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": [
+          "troy",
+          "richards"
+        ]
+      },
+      "_said": "of As Lloyd Richards notes, Troy learns that in the land of equal opportunity, chances for a black man are not always Right? He learns that daytoday"
+    },
+    {
+      "fp": "12z1ppq",
+      "i": 60,
+      "from": 14625,
+      "subject": "grave",
+      "entities": [],
+      "concept": "grave",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "grave, 1957"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": null,
+        "cast": []
+      },
+      "_said": "daytoday he lives incredibly close to death and must wrestle with it just to survive. It's like he's using a translation app for his own trauma because the reality"
+    },
+    {
+      "fp": "ouydql",
+      "i": 61,
+      "from": 14877,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1957"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "reality of systemic racism is too massive, right? It's too abstract. You can't punch a law. You can't wrestle a social So, his"
+    },
+    {
+      "fp": "4ax4ij",
+      "i": 62,
+      "from": 15117,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1957"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "his brain translates systemic racial oppression into a fast ball because he knows he's got to hit a fast ball. He can swing a bat. It gives him agency in a world that completely st"
+    },
+    {
+      "fp": "168ppng",
+      "i": 63,
+      "from": 15504,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1957"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "about the white players who did get to play in the major. Oh, like Selkirk. Yes. He brings up Selkirk who played right field"
+    },
+    {
+      "fp": "1q61wwi",
+      "i": 64,
+      "from": 15679,
+      "subject": "Troy",
+      "entities": [
+        "troy"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Troy, 1957"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "troy"
+        ]
+      },
+      "_said": "field for the Yankees batting 269. Troy is absolutely insensed by this"
+    },
+    {
+      "fp": "6lchwf",
+      "i": 65,
+      "from": 15811,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1957"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "this mediocrity being rewarded. He says, \"Man batting .0269 and playing right field for the Yankees. I saw Josh Gibson's"
+    },
+    {
+      "fp": "1nz6xfk",
+      "i": 66,
+      "from": 16020,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, walking around with raggedy shoes on her feet, 1957"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": []
+      },
+      "_said": "Gibson's daughter yesterday. She walking around with raggedy shoes on her feet. Now I bet you Selkirk's daughter ain't walking around with raggedy shoes on her feet.\" That quote ri"
+    },
+    {
+      "fp": "j967sj",
+      "i": 67,
+      "from": 16288,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, 1957"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": []
+      },
+      "_said": "Troy's bitterness. He views his entire existence as a rigged game. Josh Gibson was arguably one of the greatest hitters to ever live and his daughter is in raggedy shoes. While"
+    },
+    {
+      "fp": "1vmzhkj",
+      "i": 68,
+      "from": 16598,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1957"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "While a perfectly average white player gets"
+    },
+    {
+      "fp": "97h8ry",
+      "i": 69,
+      "from": 16653,
+      "subject": "coin",
+      "entities": [],
+      "concept": "coin",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "coin, 1957"
+      },
+      "antidote": {
+        "concept": "coin",
+        "cast": []
+      },
+      "_said": "gets the wealth and prestige of the Yankees, you can just hear the immense"
+    },
+    {
+      "fp": "f87du9",
+      "i": 70,
+      "from": 16771,
+      "subject": "Troy",
+      "entities": [
+        "troy"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Troy, 1957"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "troy"
+        ]
+      },
+      "_said": "immense crushing weight of that injustice. You really can. But what is so fascinating about Troy is that he doesn't just swallow that bitterness. That defiant,"
+    },
+    {
+      "fp": "wu3xvw",
+      "i": 71,
+      "from": 16994,
+      "subject": "work",
+      "entities": [],
+      "concept": "work",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "work, 1957"
+      },
+      "antidote": {
+        "concept": "work",
+        "set": null,
+        "cast": []
+      },
+      "_said": "defiant, combative energy doesn't just stay in his backyard. No, it doesn't. He takes it straight to his day job. Let's drop into the next scene. We are"
+    },
+    {
+      "fp": "ky95rg",
+      "i": 72,
+      "from": 17239,
+      "subject": "Troy — work",
+      "entities": [
+        "troy"
+      ],
+      "concept": "work",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Troy, 1957"
+      },
+      "antidote": {
+        "concept": "work",
+        "set": null,
+        "cast": [
+          "troy"
+        ]
+      },
+      "_said": "are at the garbage depot, present tense. Troy marches right up to his boss, Mr. Rand, which is terrifying in 1957. terrifying. And he asks the dangerous,"
+    },
+    {
+      "fp": "1akvz6v",
+      "i": 73,
+      "from": 17563,
+      "subject": "road",
+      "entities": [],
+      "concept": "road",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "road, 1957"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": null,
+        "cast": []
+      },
+      "_said": "dangerous, unspoken question that every other black worker is too afraid to ask. He says, \"Why you got the white men's driving"
+    },
+    {
+      "fp": "15yhxb4",
+      "i": 74,
+      "from": 17760,
+      "subject": "road",
+      "entities": [],
+      "concept": "road",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "road, 1957"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": null,
+        "cast": []
+      },
+      "_said": "driving in the colored listing? You think only white fellas got sense enough to drive a truck? That ain't no paper job. Hell, anybody can drive a truck.\" It's sheer audacity. He ac"
+    },
+    {
+      "fp": "1gcuxv9",
+      "i": 75,
+      "from": 18041,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1957"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "files a formal complaint with the union. Yeah. And Bono's"
+    },
+    {
+      "fp": "12s7ujo",
+      "i": 76,
+      "from": 18113,
+      "subject": "Troy — work",
+      "entities": [
+        "troy"
+      ],
+      "concept": "work",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Troy, 1957"
+      },
+      "antidote": {
+        "concept": "work",
+        "set": null,
+        "cast": [
+          "troy"
+        ]
+      },
+      "_said": "Bono's friend Brownie is absolutely terrified. He thinks Troy is a troublemaker who is going to get them all fired. I mean, in 1957, a black man questioning"
+    },
+    {
+      "fp": "os8fwt",
+      "i": 77,
+      "from": 18360,
+      "subject": "Troy and Bono — war",
+      "entities": [
+        "troy",
+        "bono"
+      ],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Troy and Bono, 1957"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": [
+          "troy",
+          "bono"
+        ]
+      },
+      "_said": "questioning the racial hierarchy of his workplace was risking his livelihood, if not his life. But Troy doesn't care. He tells Bono, \"They're going to fire me cuz I asked a And the"
+    },
+    {
+      "fp": "ijcjbd",
+      "i": 78,
+      "from": 18856,
+      "subject": "work",
+      "entities": [],
+      "concept": "work",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "work, 1957"
+      },
+      "antidote": {
+        "concept": "work",
+        "set": null,
+        "cast": []
+      },
+      "_said": "commissioner's office and Mr. Ran tells him they are making him a driver. He becomes the first black"
+    },
+    {
+      "fp": "gzp9lo",
+      "i": 79,
+      "from": 19017,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1957"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "black garbage truck driver in Pittsburgh. He forces"
+    },
+    {
+      "fp": "t4ztdf",
+      "i": 80,
+      "from": 19116,
+      "subject": "Bono",
+      "entities": [
+        "bono"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Bono, 1957"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "bono"
+        ]
+      },
+      "_said": "forces the world to acknowledge that a man's worth should be measured by what he does, by his capacity for work, not the color of his skin. But then Bono points out this massive,"
+    },
+    {
+      "fp": "1lc3xne",
+      "i": 81,
+      "from": 19442,
+      "subject": "Troy — war",
+      "entities": [
+        "troy"
+      ],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Troy, 1957"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": [
+          "troy"
+        ]
+      },
+      "_said": "massive, almost comical catch. Oh my gosh. Yes, Troy doesn't even have a driver's He's so wild. He fought this huge battle"
+    },
+    {
+      "fp": "1q8qkei",
+      "i": 82,
+      "from": 19682,
+      "subject": "Troy — road",
+      "entities": [
+        "troy"
+      ],
+      "concept": "road",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Troy, 1957"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": null,
+        "cast": [
+          "troy"
+        ]
+      },
+      "_said": "battle for equality without even knowing how to drive the truck. Troy just brushes it off, saying, \"Driving ain't nothing. All you do is point the truck where you want it to go.\" T"
+    },
+    {
+      "fp": "1j2brvo",
+      "i": 83,
+      "from": 19939,
+      "subject": "Troy — road",
+      "entities": [
+        "troy"
+      ],
+      "concept": "road",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Troy, 1957"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": null,
+        "cast": [
+          "troy"
+        ]
+      },
+      "_said": "driver's license detail is brilliant because it proves that for Troy, the fight was never actually about the physical act of driving the truck. Right."
+    },
+    {
+      "fp": "rx0thb",
+      "i": 84,
+      "from": 20167,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1957"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Right. It was entirely symbolic. Exactly. It was about the barrier. He needed to prove that the fence keeping him out of the driver's seat was illegitimate. He couldn't break the c"
+    },
+    {
+      "fp": "111ttr0",
+      "i": 85,
+      "from": 20548,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1957"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "it at the sanitation department. But, and I know this is where"
+    },
+    {
+      "fp": "yfithr",
+      "i": 86,
+      "from": 20618,
+      "subject": "Troy",
+      "entities": [
+        "troy"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Troy, 1957"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "troy"
+        ]
+      },
+      "_said": "where you get frustrated with Troy. I do. I get genuinely frustrated with him here because, okay, I need you to unpack this contradiction for me. At work, Troy acts like"
+    },
+    {
+      "fp": "e1poev",
+      "i": 87,
+      "from": 20945,
+      "subject": "home",
+      "entities": [],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "home, 1957"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": []
+      },
+      "_said": "like this progressive revolutionary, right? He demands equal opportunity. He literally breaks a color But at home, he acts like the exact"
+    },
+    {
+      "fp": "1jnwnu6",
+      "i": 88,
+      "from": 21230,
+      "subject": "Cory — family",
+      "entities": [
+        "cory"
+      ],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Cory, 1957"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": [
+          "cory"
+        ]
+      },
+      "_said": "exact same racist management he despises. He does. His son Cory has a genuine talent for football. A college scholarship offer. A recruiter is coming"
+    },
+    {
+      "fp": "vvsrr",
+      "i": 89,
+      "from": 21504,
+      "subject": "Cory",
+      "entities": [
+        "cory"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Cory, 1957"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "cory"
+        ]
+      },
+      "_said": "coming from North Carolina. Cory has a"
+    },
+    {
+      "fp": "o3i0jl",
+      "i": 90,
+      "from": 21559,
+      "subject": "Troy — family",
+      "entities": [
+        "troy"
+      ],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Troy, 1957"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": [
+          "troy"
+        ]
+      },
+      "_said": "a chance to break through. And what does Troy do? He denies his own son the right to pursue his talent. He builds a barrier right in front of Why on earth would a man who just foug"
+    },
+    {
+      "fp": "luh8r0",
+      "i": 91,
+      "from": 21845,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, 1957"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": []
+      },
+      "_said": "become a driver turn around and tell his son he isn't allowed to play ball? The contradiction is the play. It is the play. And the reason is that Troy's"
+    },
+    {
+      "fp": "1z8gyq",
+      "i": 92,
+      "from": 22051,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1957"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Troy's demands for fairness and dignity from the white world are projection. Beneath his immense pride lies a dark,"
+    },
+    {
+      "fp": "1fanlk1",
+      "i": 93,
+      "from": 22260,
+      "subject": "Gabriel — home",
+      "entities": [
+        "gabriel"
+      ],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Gabriel, 1957"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": [
+          "gabriel"
+        ]
+      },
+      "_said": "dark, very uncomfortable secret about how he actually secured a roof over his head in the first place. Which brings us to Gabriel. Yes, Troy's authority in his home is built on a f"
+    },
+    {
+      "fp": "1jtd1py",
+      "i": 94,
+      "from": 22610,
+      "subject": "Cory — road",
+      "entities": [
+        "cory"
+      ],
+      "concept": "road",
+      "place": "street",
+      "confidence": 1,
+      "vox": {
+        "shot": "Cory, street, 1957"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": "street",
+        "cast": [
+          "cory"
+        ]
+      },
+      "_said": "why he controls Cory so ruthlessly, you have to look at the man wandering the alley. So, let's drop into the alley, present tense."
+    },
+    {
+      "fp": "1xkoqbh",
+      "i": 95,
+      "from": 22853,
+      "subject": "Gabriel",
+      "entities": [
+        "gabriel"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Gabriel, waiting for st, 1957"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "gabriel"
+        ]
+      },
+      "_said": "Gabriel stops beside the dootyard. He's singing loudly about chasing hell hounds and waiting for St. Peter to open the gates of heaven. Such a poignant image. It really is. He prou"
+    },
+    {
+      "fp": "1lx8lb",
+      "i": 96,
+      "from": 23227,
+      "subject": "Troy — key",
+      "entities": [
+        "troy"
+      ],
+      "concept": "key",
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Troy, 1957"
+      },
+      "antidote": {
+        "concept": "key",
+        "set": null,
+        "cast": [
+          "troy"
+        ]
+      },
+      "_said": "rented room in Miss Burl's basement. He tells Troy, \"That's my own key. Ain't nobody else got a key like that.\" And he's carrying"
+    },
+    {
+      "fp": "pe658",
+      "i": 97,
+      "from": 23438,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "carrying this chipped basket of discarded plums, 1957"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "carrying this chipped basket of discarded plums and tomatoes he picked up in the strip"
+    },
+    {
+      "fp": "1gupqvv",
+      "i": 98,
+      "from": 23563,
+      "subject": "Troy — wallet",
+      "entities": [
+        "troy"
+      ],
+      "concept": "wallet",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Troy, holds up two quarters to show troy, 1957"
+      },
+      "antidote": {
+        "concept": "wallet",
+        "cast": [
+          "troy"
+        ]
+      },
+      "_said": "strip trying to scrape together quarters. Yeah. He holds up two quarters to show Troy, saying he's saving them to buy a new horn so St. Peter can hear him. It's just heartbreaking."
+    },
+    {
+      "fp": "rtlu5g",
+      "i": 99,
+      "from": 23885,
+      "subject": "Gabriel and Maxson",
+      "entities": [
+        "gabriel",
+        "maxson"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Gabriel and Maxson, 1957"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "gabriel",
+          "maxson"
+        ]
+      },
+      "_said": "of the Maxson household. The government gave Gabriel $3,000 as compensation for going overseas and getting half his head blown off. That was the price of his mind. Exactly. And wha"
+    },
+    {
+      "fp": "1ervu3",
+      "i": 100,
+      "from": 24225,
+      "subject": "Troy — home",
+      "entities": [
+        "troy"
+      ],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Troy, 1957"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": [
+          "troy"
+        ]
+      },
+      "_said": "to that money? Troy took it. Troy swooped down on that disability money to buy the brick house they all live in. I mean, think about that. You are living in a house purchased with "
+    },
+    {
+      "fp": "2dijpb",
+      "i": 101,
+      "from": 24511,
+      "subject": "Wilson — home",
+      "entities": [
+        "wilson"
+      ],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Wilson, sit with, 1957"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": [
+          "wilson"
+        ]
+      },
+      "_said": "your brother's destroyed mind. It's like living in a house built out of your brother's bones. And Wilson forces you, the listener, to sit with"
+    },
+    {
+      "fp": "k7agic",
+      "i": 102,
+      "from": 24789,
+      "subject": "Troy and Wilson",
+      "entities": [
+        "troy",
+        "wilson"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Troy and Wilson, 1957"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "troy",
+          "wilson"
+        ]
+      },
+      "_said": "with this massive moral compromise. Wilson never lets Troy off the hook for this. And Troy never lets himself off either. He admits it openly"
+    },
+    {
+      "fp": "l5askv",
+      "i": 103,
+      "from": 25010,
+      "subject": "Rose — family",
+      "entities": [
+        "rose"
+      ],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Rose, 1957"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": [
+          "rose"
+        ]
+      },
+      "_said": "openly when Rose challenges him later. Yeah. He screams at her, \"If my brother didn't have that metal plate in his head, I wouldn't have a pot to piss in or a window to throw it ou"
+    },
+    {
+      "fp": "12a1yc1",
+      "i": 104,
+      "from": 25353,
+      "subject": "Troy",
+      "entities": [
+        "troy"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Troy, 1957"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "troy"
+        ]
+      },
+      "_said": "He is wildly defensive, but you can feel the guilt absolutely suffocating him. Totally. And we have to ask ourselves, is Troy a villain"
+    },
+    {
+      "fp": "f1so7w",
+      "i": 105,
+      "from": 25598,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1957"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "villain for taking Gabe's Right. or is he"
+    },
+    {
+      "fp": "sbkh08",
+      "i": 106,
+      "from": 25670,
+      "subject": "Rose — home",
+      "entities": [
+        "rose"
+      ],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Rose, 1957"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": [
+          "rose"
+        ]
+      },
+      "_said": "he a desperate survivor utilizing the absolute only resource available to a black man in the 1940s to secure a home for his family? Rose tries to comfort him at one"
+    },
+    {
+      "fp": "yqt0lo",
+      "i": 107,
+      "from": 25936,
+      "subject": "Troy — coin",
+      "entities": [
+        "troy"
+      ],
+      "concept": "coin",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Troy, 1957"
+      },
+      "antidote": {
+        "concept": "coin",
+        "cast": [
+          "troy"
+        ]
+      },
+      "_said": "one point, saying Gabe wasn't in any condition to manage that money anyway, and that Troy did what was right by taking care of him for years under his own roof, but it gets so much"
+    },
+    {
+      "fp": "3f8mdd",
+      "i": 108,
+      "from": 26335,
+      "subject": "Troy and Rose",
+      "entities": [
+        "troy",
+        "rose"
+      ],
+      "concept": null,
+      "place": "hospital",
+      "confidence": 0.85,
+      "vox": {
+        "shot": "Troy and Rose, hospital, 1957"
+      },
+      "antidote": {
+        "concept": null,
+        "set": "hospital",
+        "cast": [
+          "troy",
+          "rose"
+        ]
+      },
+      "_said": "play, Rose discovers papers. She accuses Troy of signing release forms to commit Gabe to a mental hospital just to get half of Gabe's"
+    },
+    {
+      "fp": "z7xcvk",
+      "i": 109,
+      "from": 26582,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1957"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Gabe's ongoing disability check sent directly to him."
+    },
+    {
+      "fp": "mdsvcd",
+      "i": 110,
+      "from": 26673,
+      "subject": "Troy",
+      "entities": [
+        "troy"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Troy, read the papers he signed, 1957"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "troy"
+        ]
+      },
+      "_said": "him. And Troy furiously denies it. He claims he couldn't read the papers he signed, that he only signed"
+    },
+    {
+      "fp": "1idxw8e",
+      "i": 111,
+      "from": 26839,
+      "subject": "Wilson — tree",
+      "entities": [
+        "wilson"
+      ],
+      "concept": "tree",
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Wilson, 1957"
+      },
+      "antidote": {
+        "concept": "tree",
+        "set": null,
+        "cast": [
+          "wilson"
+        ]
+      },
+      "_said": "signed a release form and didn't know what was actually on it. Do we believe him? Well, Wilson leaves"
+    },
+    {
+      "fp": "14hygyr",
+      "i": 112,
+      "from": 26985,
+      "subject": "Troy — family",
+      "entities": [
+        "troy"
+      ],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Troy, leaves it intentionally ambiguous whether troy, 1957"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": [
+          "troy"
+        ]
+      },
+      "_said": "leaves it intentionally ambiguous whether Troy knew what he was signing. But whether he consciously committed his brother for a paycheck or ignorantly signed his freedom away,"
+    },
+    {
+      "fp": "zi1yqo",
+      "i": 113,
+      "from": 27249,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1957"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "away, the underlying psychological dynamic remains The guilt. Yes, the guilt. Troy's guilt over Gabriel's"
+    },
+    {
+      "fp": "111jdqm",
+      "i": 114,
+      "from": 27439,
+      "subject": "Cory — family",
+      "entities": [
+        "cory"
+      ],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Cory, 1957"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": [
+          "cory"
+        ]
+      },
+      "_said": "Gabriel's sacrifice creates an intense, suffocating need to completely control his environment. He refuses to owe anyone else anything because his foundational debt to his brother "
+    },
+    {
+      "fp": "1mptgy8",
+      "i": 115,
+      "from": 27820,
+      "subject": "home",
+      "entities": [],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "home, 1957"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": []
+      },
+      "_said": "want to owe nobody nothing because if you miss a payment, they snatch it right out of your house. This rigid need for control fueled by guilt"
+    },
+    {
+      "fp": "mvjf26",
+      "i": 116,
+      "from": 28041,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, 1957"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": []
+      },
+      "_said": "guilt and historical oppression is what brings him into that direct violent collision with his son over football. So, let's look at that collision."
+    },
+    {
+      "fp": "kpj4xt",
+      "i": 117,
+      "from": 28296,
+      "subject": "Cory — gift",
+      "entities": [
+        "cory"
+      ],
+      "concept": "gift",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Cory, holding a saw, 1957"
+      },
+      "antidote": {
+        "concept": "gift",
+        "cast": [
+          "cory"
+        ]
+      },
+      "_said": "collision. Present tense. Back in the dirty yard, Cory is slouched in the dirt holding a saw. He is supposed to be"
+    },
+    {
+      "fp": "1ucheut",
+      "i": 118,
+      "from": 28500,
+      "subject": "Troy",
+      "entities": [
+        "troy"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Troy, 1957"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "troy"
+        ]
+      },
+      "_said": "be helping Troy cut boards for this wooden fence Troy is The famous fence. Yes."
+    },
+    {
+      "fp": "1cg07d3",
+      "i": 119,
+      "from": 28658,
+      "subject": "Troy and Cory — school",
+      "entities": [
+        "troy",
+        "cory"
+      ],
+      "concept": "school",
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Troy and Cory, 1957"
+      },
+      "antidote": {
+        "concept": "school",
+        "set": null,
+        "cast": [
+          "troy",
+          "cory"
+        ]
+      },
+      "_said": "Yes. Troy comes over and shoves him hard on the shoulder, barking at him to straighten up. Cory is stinging. He's just found out that Troy went behind his back to his high school,"
+    },
+    {
+      "fp": "1u3f927",
+      "i": 120,
+      "from": 28946,
+      "subject": "Cory — game",
+      "entities": [
+        "cory"
+      ],
+      "concept": "game",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Cory, 1957"
+      },
+      "antidote": {
+        "concept": "game",
+        "set": null,
+        "cast": [
+          "cory"
+        ]
+      },
+      "_said": "school, told Coach Zelman that Cory can't play football anymore. He literally killed it. Yeah. And ordered the coach to tell the"
+    },
+    {
+      "fp": "w76hdi",
+      "i": 121,
+      "from": 29126,
+      "subject": "Cory — family",
+      "entities": [
+        "cory"
+      ],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Cory, 1957"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": [
+          "cory"
+        ]
+      },
+      "_said": "the North Carolina college recruiter not to come. Cory looks up at his father and asks the most vulnerable, devastating"
+    },
+    {
+      "fp": "xli42f",
+      "i": 122,
+      "from": 29333,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, 1957"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": []
+      },
+      "_said": "devastating question a 17-year-old boy can possibly ask his dad. He says, \"How come you ain't never liked me?\" Just punched to the gut. And Troy's"
+    },
+    {
+      "fp": "7cww95",
+      "i": 123,
+      "from": 29573,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1957"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Troy's response is unapologetic, brutal, and terrifyingly logical in his own mind. Yeah. What does he say? He says,"
+    },
+    {
+      "fp": "rt9768",
+      "i": 124,
+      "from": 29784,
+      "subject": "Cory — ledge",
+      "entities": [
+        "cory"
+      ],
+      "concept": "ledge",
+      "place": "street",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Cory, street, 1957"
+      },
+      "antidote": {
+        "concept": "ledge",
+        "set": "street",
+        "cast": [
+          "cory"
+        ]
+      },
+      "_said": "says, \"Liked you?\" Who the hell say I gotta like you? What law is there say I got to like you? He explains to Cory that he feeds him, puts a roof over his head, and fills his belly"
+    },
+    {
+      "fp": "932qf2",
+      "i": 125,
+      "from": 30187,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, 1957"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": []
+      },
+      "_said": "out of absolute unbending duty. He says, \"It's my responsibility. A man got to take care of his family. I owe a responsibility to you.\" and liking"
+    },
+    {
+      "fp": "sc4q6l",
+      "i": 126,
+      "from": 30460,
+      "subject": "Cory",
+      "entities": [
+        "cory"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Cory, 1957"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "cory"
+        ]
+      },
+      "_said": "liking your black ass wasn't part of the bargain. He warns Cory not"
+    },
+    {
+      "fp": "1056kn2",
+      "i": 127,
+      "from": 30559,
+      "subject": "Troy and Cory",
+      "entities": [
+        "troy",
+        "cory"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Troy and Cory, 1957"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "troy",
+          "cory"
+        ]
+      },
+      "_said": "not to go through life worrying about whether someone likes him, but to make sure they are doing right by him. Okay, I want you to think about that concept of duty because Troy isn"
+    },
+    {
+      "fp": "quhyzz",
+      "i": 128,
+      "from": 30900,
+      "subject": "Cory",
+      "entities": [
+        "cory"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Cory, 1957"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "cory"
+        ]
+      },
+      "_said": "his complete worldview. When Cory begs him, saying the recruiter is coming all the"
+    },
+    {
+      "fp": "9fds5u",
+      "i": 129,
+      "from": 31048,
+      "subject": "Troy and Cory",
+      "entities": [
+        "troy",
+        "cory"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Troy and Cory, 1957"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "troy",
+          "cory"
+        ]
+      },
+      "_said": "the way from North Carolina, Troy shuts it down completely. He says, \"The white man ain't going to let you get nowhere with that football. No way.\" He tells Cory to learn a trade, "
+    },
+    {
+      "fp": "dj3q5x",
+      "i": 130,
+      "from": 31375,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1957"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "he has something nobody can ever take away from him."
+    },
+    {
+      "fp": "g4pu1",
+      "i": 131,
+      "from": 31440,
+      "subject": "Troy and Cory — family",
+      "entities": [
+        "troy",
+        "cory"
+      ],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Troy and Cory, stand to see his son succeed where he failed?, 1957"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": [
+          "troy",
+          "cory"
+        ]
+      },
+      "_said": "him. But Cory accuses him of jealousy. He says, \"You just scared I'm going to be better than you. That's all.\" So, help me navigate this. Is Cory right? Is Troy just a jealous old "
+    },
+    {
+      "fp": "1gka9ym",
+      "i": 132,
+      "from": 31881,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, watch his son have one?, 1957"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": []
+      },
+      "_said": "his own stolen dream that he can't watch his son have one?"
+    },
+    {
+      "fp": "1kahsy2",
+      "i": 133,
+      "from": 31987,
+      "subject": "Troy and Cory and Wilson",
+      "entities": [
+        "troy",
+        "cory",
+        "wilson"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Troy and Cory, 1957"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "troy",
+          "cory",
+          "wilson"
+        ]
+      },
+      "_said": "one? August Wilson refuses to settle the question because human beings are incredibly complex. Yes, there is undoubtedly jealousy and unresolved bitterness in Troy. When Cory menti"
+    },
+    {
+      "fp": "1py97qz",
+      "i": 134,
+      "from": 32349,
+      "subject": "Troy — game",
+      "entities": [
+        "troy"
+      ],
+      "concept": "game",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Troy, 1957"
+      },
+      "antidote": {
+        "concept": "game",
+        "set": null,
+        "cast": [
+          "troy"
+        ]
+      },
+      "_said": "Pirates are playing Roberto Clemente, Troy instantly argues that they only halfplay him, that the colored guy has to be twice as good to even make the team."
+    },
+    {
+      "fp": "130690z",
+      "i": 135,
+      "from": 32585,
+      "subject": "game",
+      "entities": [],
+      "concept": "game",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "game, 1957"
+      },
+      "antidote": {
+        "concept": "game",
+        "set": null,
+        "cast": []
+      },
+      "_said": "team. He cannot stomach the idea that sports might have changed. Exactly. But there is also a twisted, very genuine form"
+    },
+    {
+      "fp": "o77w8f",
+      "i": 136,
+      "from": 32796,
+      "subject": "Troy — family",
+      "entities": [
+        "troy"
+      ],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Troy, 1957"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": [
+          "troy"
+        ]
+      },
+      "_said": "form of protection happening. Troy is looking at his son, seeing a boy about to put all his hopes and dreams into a"
+    },
+    {
+      "fp": "f0mmu",
+      "i": 137,
+      "from": 32961,
+      "subject": "Troy — puppeteer",
+      "entities": [
+        "troy"
+      ],
+      "concept": "puppeteer",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Troy, 1957"
+      },
+      "antidote": {
+        "concept": "puppeteer",
+        "cast": [
+          "troy"
+        ]
+      },
+      "_said": "a white controlled sports system. And Troy remembers the pure agony of his own stolen dream. He's trying"
+    },
+    {
+      "fp": "1leownm",
+      "i": 138,
+      "from": 33146,
+      "subject": "Cory — heart",
+      "entities": [
+        "cory"
+      ],
+      "concept": "heart",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Cory, 1957"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": null,
+        "cast": [
+          "cory"
+        ]
+      },
+      "_said": "trying to shield Cory from the heartbreak of the color line. It's like a vaccine, isn't it? Oh, that's a good way to put it. Think about how a vaccine works. You inject"
+    },
+    {
+      "fp": "1vv3r3e",
+      "i": 139,
+      "from": 33353,
+      "subject": "puppeteer",
+      "entities": [],
+      "concept": "puppeteer",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "puppeteer, 1957"
+      },
+      "antidote": {
+        "concept": "puppeteer",
+        "cast": []
+      },
+      "_said": "inject a small controlled amount of a virus into a body to trigger an immune response. You make the body sick temporarily so it doesn't die from"
+    },
+    {
+      "fp": "iwmzgt",
+      "i": 140,
+      "from": 33566,
+      "subject": "Troy",
+      "entities": [
+        "troy"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Troy, 1957"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "troy"
+        ]
+      },
+      "_said": "from the real disease later. Wow. Yes. Troy"
+    },
+    {
+      "fp": "1l8jyij",
+      "i": 141,
+      "from": 33665,
+      "subject": "Troy and Cory — family",
+      "entities": [
+        "troy",
+        "cory"
+      ],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Troy and Cory, 1957"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": [
+          "troy",
+          "cory"
+        ]
+      },
+      "_said": "Troy is injecting Cory with a massive dose of heartbreak right now. He is breaking his son's heart in the dirty yard, hoping that"
+    },
+    {
+      "fp": "yffps6",
+      "i": 142,
+      "from": 33873,
+      "subject": "Cory — heart",
+      "entities": [
+        "cory"
+      ],
+      "concept": "heart",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Cory, 1957"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": null,
+        "cast": [
+          "cory"
+        ]
+      },
+      "_said": "that it immunizes Cory against the fatal heartbreak the white world will inflict on him if he tries to play college sports. He genuinely thinks keeping Cory working his menial job "
+    },
+    {
+      "fp": "15p2oca",
+      "i": 143,
+      "from": 34301,
+      "subject": "Troy and Cory",
+      "entities": [
+        "troy",
+        "cory"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Troy and Cory, 1957"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "troy",
+          "cory"
+        ]
+      },
+      "_said": "That's a perfect analogy. Troy forces Cory to"
+    },
+    {
+      "fp": "oz2ykv",
+      "i": 144,
+      "from": 34385,
+      "subject": "Cory — family",
+      "entities": [
+        "cory"
+      ],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Cory, 1957"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": [
+          "cory"
+        ]
+      },
+      "_said": "to choose between quitting football or getting his job back at the AMP. He tells him, \"You've got to take the crookeds with the straits.\" He genuinely believes he is saving his son"
+    },
+    {
+      "fp": "ew2127",
+      "i": 145,
+      "from": 34819,
+      "subject": "Rose",
+      "entities": [
+        "rose"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Rose, 1957"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "rose"
+        ]
+      },
+      "_said": "Troy's massive, unyielding interpretation of duty. We have to look at Rose. Oh, Rose. Rose has stood quietly on first base right beside him for 18"
+    },
+    {
+      "fp": "nsmyhe",
+      "i": 146,
+      "from": 35071,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "reach her absolute boring let's drop into thi, 1957"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "18 years, and she is about to reach her absolute boring Let's drop into this next scene. It's Friday night again, but the ritual we talked about earlier, the drinking,"
+    },
+    {
+      "fp": "132wyif",
+      "i": 147,
+      "from": 35304,
+      "subject": "Troy and Rose",
+      "entities": [
+        "troy",
+        "rose"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Troy and Rose, stands in front of rose in the yard and drops, 1957"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "troy",
+          "rose"
+        ]
+      },
+      "_said": "drinking, the baseball metaphors, the comfortable banter completely shatters. It's so tense. Troy stands in front of Rose in the yard and drops"
+    },
+    {
+      "fp": "4ylep8",
+      "i": 148,
+      "from": 35534,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1957"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "drops an absolute bomb on her life. He tells her he is having a baby"
+    },
+    {
+      "fp": "1rl64f5",
+      "i": 149,
+      "from": 35664,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "reaches for, 1957"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "baby with another woman, Alberta. And when he tries to explain it, what does he do? He frantically reaches for"
+    },
+    {
+      "fp": "18n0woh",
+      "i": 150,
+      "from": 35844,
+      "subject": "Rose",
+      "entities": [
+        "rose"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Rose, 1957"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "rose"
+        ]
+      },
+      "_said": "for his baseball metaphors because it's the only way he knows how to articulate his feelings. Exactly. He tells Rose that he stood on first base for 18 years and"
+    },
+    {
+      "fp": "1cu4uit",
+      "i": 151,
+      "from": 36091,
+      "subject": "Rose",
+      "entities": [
+        "rose"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Rose, 1957"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "rose"
+        ]
+      },
+      "_said": "and then he saw Alberta and she firmed up his backbone and he thought, \"I just might be able to steal second.\" And Rose cuts him down with what is arguably the"
+    },
+    {
+      "fp": "14jisvm",
+      "i": 152,
+      "from": 36331,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1957"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "the most devastating speech in American drama. She says, \"We're not talking about baseball. We're talking about you going off to lay in bed"
+    },
+    {
+      "fp": "rrj1gi",
+      "i": 153,
+      "from": 36545,
+      "subject": "home",
+      "entities": [],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "home, 1957"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": []
+      },
+      "_said": "bed with another woman and then bring it home to me.\" That's what we're talking about. We ain't talking about no baseball. It is a complete and total rejection of"
+    },
+    {
+      "fp": "quve4q",
+      "i": 154,
+      "from": 36804,
+      "subject": "game",
+      "entities": [],
+      "concept": "game",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "game, 1957"
+      },
+      "antidote": {
+        "concept": "game",
+        "set": null,
+        "cast": []
+      },
+      "_said": "of his private language. She strips him of his armor. He can't hide behind the metaphor of a game anymore. This"
+    },
+    {
+      "fp": "4zv4gj",
+      "i": 155,
+      "from": 36991,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1957"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "This is real life and these are real casualties. Let's"
+    },
+    {
+      "fp": "rfza0d",
+      "i": 156,
+      "from": 37085,
+      "subject": "magnifier",
+      "entities": [],
+      "concept": "magnifier",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "magnifier, waited to bloom, 1957"
+      },
+      "antidote": {
+        "concept": "magnifier",
+        "cast": []
+      },
+      "_said": "Let's really analyze Rose's counterattack here because it is staggering. She says, \"I planted myself inside you and waited to bloom. I planted myself inside you.\" I want to pause o"
+    },
+    {
+      "fp": "175aak1",
+      "i": 157,
+      "from": 37392,
+      "subject": "gift",
+      "entities": [],
+      "concept": "gift",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "gift, wait years for it to grow, 1957"
+      },
+      "antidote": {
+        "concept": "gift",
+        "cast": []
+      },
+      "_said": "When you plant something, you commit to it. You put it in the soil. You water it. You give it all your time and your energy, and you wait years for it to grow. She gave up every pi"
+    },
+    {
+      "fp": "rfixm8",
+      "i": 158,
+      "from": 37790,
+      "subject": "gift",
+      "entities": [],
+      "concept": "gift",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "gift, 1957"
+      },
+      "antidote": {
+        "concept": "gift",
+        "cast": []
+      },
+      "_said": "that monumental life-defining gift and just spent"
+    },
+    {
+      "fp": "1qpt4v3",
+      "i": 159,
+      "from": 37915,
+      "subject": "Rose and Wilson",
+      "entities": [
+        "rose",
+        "wilson"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Rose and Wilson, 1957"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "rose",
+          "wilson"
+        ]
+      },
+      "_said": "spent it on someone else. What Wilson is doing here is digging deep into what black women were doing during this era. Black women like Rose"
+    },
+    {
+      "fp": "iqahld",
+      "i": 160,
+      "from": 38141,
+      "subject": "Rose",
+      "entities": [
+        "rose"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Rose, holding entire families and communities togethe, 1957"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "rose"
+        ]
+      },
+      "_said": "Rose were holding entire families and communities together. They were the mortar between the bricks. Yes. Think about everything Rose does in this play. She tries to"
+    },
+    {
+      "fp": "jjhgl1",
+      "i": 161,
+      "from": 38388,
+      "subject": "Troy and Cory",
+      "entities": [
+        "troy",
+        "cory"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Troy and Cory, 1957"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "troy",
+          "cory"
+        ]
+      },
+      "_said": "to keep the peace between Troy and Cory. She tries to ensure Gabe is fed and cared for and not taken advantage of. She cooks the chicken and the collared greens. She built her enti"
+    },
+    {
+      "fp": "1kobunh",
+      "i": 162,
+      "from": 38688,
+      "subject": "Troy — lightbulb",
+      "entities": [
+        "troy"
+      ],
+      "concept": "lightbulb",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Troy, 1957"
+      },
+      "antidote": {
+        "concept": "lightbulb",
+        "cast": [
+          "troy"
+        ]
+      },
+      "_said": "entire existence around Troy. And Troy, despite all his physical strength, crumbled under the societal pressure and he is taking her down with But here is the genius"
+    },
+    {
+      "fp": "1bnh1ra",
+      "i": 163,
+      "from": 38957,
+      "subject": "Troy and Wilson — notes",
+      "entities": [
+        "troy",
+        "wilson"
+      ],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Troy and Wilson, write melodrama, 1957"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": [
+          "troy",
+          "wilson"
+        ]
+      },
+      "_said": "genius of August Wilson. He doesn't write melodrama. And Troy is"
+    },
+    {
+      "fp": "x9xd7a",
+      "i": 164,
+      "from": 39072,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1957"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "is not a mustache twirling villain. We don't get to just dismiss Tro as an evil Right? If we are going to understand this play, we have to look at"
+    },
+    {
+      "fp": "lqinm1",
+      "i": 165,
+      "from": 39307,
+      "subject": "Troy — gift",
+      "entities": [
+        "troy"
+      ],
+      "concept": "gift",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Troy, 1957"
+      },
+      "antidote": {
+        "concept": "gift",
+        "cast": [
+          "troy"
+        ]
+      },
+      "_said": "at why Troy felt compelled to steal second base. We have to look at the anatomy of the affair itself. So, let's wind the clock back slightly. Present tense."
+    },
+    {
+      "fp": "tuprme",
+      "i": 166,
+      "from": 39542,
+      "subject": "Troy and Rose and Bono — home",
+      "entities": [
+        "troy",
+        "rose",
+        "bono"
+      ],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Troy and Rose, walking their route on the garbage truck, 1957"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": [
+          "troy",
+          "rose",
+          "bono"
+        ]
+      },
+      "_said": "tense. Troy and Bono are walking their route on the garbage truck. Bono is pushing Troy on his secret visits to Alberta's house. Bono warns him, saying Rose is a good woman, and Tr"
+    },
+    {
+      "fp": "wye67u",
+      "i": 167,
+      "from": 39919,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1957"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "defensive. He starts describing Alberta. He talks about her laugh, how she's a big, healthy woman from Tallahassee with hips as wide as"
+    },
+    {
+      "fp": "15fa26c",
+      "i": 168,
+      "from": 40125,
+      "subject": "water",
+      "entities": [],
+      "concept": "water",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "water, 1957"
+      },
+      "antidote": {
+        "concept": "water",
+        "set": null,
+        "cast": []
+      },
+      "_said": "as the Mississippi River. He crassly says, \"Les don't mean nothing. You don't do nothing but push them out of the way, but"
+    },
+    {
+      "fp": "1wxd82e",
+      "i": 169,
+      "from": 40284,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1957"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "but them hips cushion the ride.\""
+    },
+    {
+      "fp": "1rl2j7o",
+      "i": 170,
+      "from": 40348,
+      "subject": "Rose",
+      "entities": [
+        "rose"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Rose, 1957"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "rose"
+        ]
+      },
+      "_said": "ride.\" It is incredibly crass. But when he tries to explain the affair to Rose later, the"
+    },
+    {
+      "fp": "2zcuhy",
+      "i": 171,
+      "from": 40505,
+      "subject": "Rose — work",
+      "entities": [
+        "rose"
+      ],
+      "concept": "work",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Rose, sit up in alberta's, 1957"
+      },
+      "antidote": {
+        "concept": "work",
+        "set": null,
+        "cast": [
+          "rose"
+        ]
+      },
+      "_said": "deeper psychological nuance emerges. He tells Rose that Alberta firmed up my backbone. Yeah. He says that when he's with Alberta, he doesn't have to worry about Gabe's metal plate "
+    },
+    {
+      "fp": "tjvbr2",
+      "i": 172,
+      "from": 40951,
+      "subject": "home",
+      "entities": [],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "home, 1957"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": []
+      },
+      "_said": "Alberta's house and laugh out loud. And he feels like a completely different man. He doesn't cheat because"
+    },
+    {
+      "fp": "1jb51d4",
+      "i": 173,
+      "from": 41100,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1957"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "because he's fundamentally heartless. He cheats because the crushing, relentless weight of his duty, the duty he champions so loudly, is simply too heavy for"
+    },
+    {
+      "fp": "xsm7zs",
+      "i": 174,
+      "from": 41378,
+      "subject": "Wilson — game",
+      "entities": [
+        "wilson"
+      ],
+      "concept": "game",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Wilson, carry anymore, 1957"
+      },
+      "antidote": {
+        "concept": "game",
+        "set": null,
+        "cast": [
+          "wilson"
+        ]
+      },
+      "_said": "for him to carry anymore. Alberta makes him feel for just a fleeting moment like he isn't losing the game of life. That is the crucial distinction. Wilson masterfully provides you "
+    },
+    {
+      "fp": "1fecmfa",
+      "i": 175,
+      "from": 41721,
+      "subject": "Troy",
+      "entities": [
+        "troy"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Troy, 1957"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "troy"
+        ]
+      },
+      "_said": "the deep psychological reason without granting Troy a moral excuse. That's what separates this play from melodrama. Right. Exactly. You understand"
+    },
+    {
+      "fp": "18ji104",
+      "i": 176,
+      "from": 41976,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1957"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "understand his absolute exhaustion. You understand"
+    },
+    {
+      "fp": "1chosja",
+      "i": 177,
+      "from": 42048,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1957"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "understand his deep trauma and his desperate need for relief. But understanding him doesn't absolve him of the betrayal. He destroyed his wife's life to buy himself"
+    },
+    {
+      "fp": "8155ju",
+      "i": 178,
+      "from": 42288,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, 1957"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": []
+      },
+      "_said": "himself a momentary reprieve from his own mind. Which begs the ultimate question. Why is Troy's capacity for love so broken? Why does his love look so much like a Why does he view "
+    },
+    {
+      "fp": "3ei2ek",
+      "i": 179,
+      "from": 42631,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1957"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "grim, joyless duty rather than a shared joy? Right? To understand that, we have to look backwards. We have to look at the"
+    },
+    {
+      "fp": "zsc0sb",
+      "i": 180,
+      "from": 42811,
+      "subject": "Troy — family",
+      "entities": [
+        "troy"
+      ],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Troy, 1957"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": [
+          "troy"
+        ]
+      },
+      "_said": "the man who taught Troy how to be a father. So, let's drop into this memory from act one. Troy recounts a"
+    },
+    {
+      "fp": "s3xgzd",
+      "i": 181,
+      "from": 42974,
+      "subject": "Richards — family",
+      "entities": [
+        "richards"
+      ],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Richards, 1957"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": [
+          "richards"
+        ]
+      },
+      "_said": "a story that Lloyd Richards describes vividly in his introduction. We are transported back to the deep south. We see Troy's father,"
+    },
+    {
+      "fp": "16spzs2",
+      "i": 182,
+      "from": 43200,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, 1957"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": []
+      },
+      "_said": "father, a frustrated sharecropper. And if you know anything about the sharecropping system, you know it was designed to be inescapable. Completely inescapable."
+    },
+    {
+      "fp": "106a0jd",
+      "i": 183,
+      "from": 43428,
+      "subject": "coin",
+      "entities": [],
+      "concept": "coin",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "coin, 1957"
+      },
+      "antidote": {
+        "concept": "coin",
+        "cast": []
+      },
+      "_said": "inescapable. Every single crop this man plants takes him further and further into debt to the white land owners. He feels"
+    },
+    {
+      "fp": "pcv931",
+      "i": 184,
+      "from": 43620,
+      "subject": "coin",
+      "entities": [],
+      "concept": "coin",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "coin, 1957"
+      },
+      "antidote": {
+        "concept": "coin",
+        "cast": []
+      },
+      "_said": "feels like a total inescapable failure. And because he cannot strike back at the system that is enslaving him through debt, he takes out"
+    },
+    {
+      "fp": "x6zjty",
+      "i": 185,
+      "from": 43850,
+      "subject": "Troy — family",
+      "entities": [
+        "troy"
+      ],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Troy, leave him, 1957"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": [
+          "troy"
+        ]
+      },
+      "_said": "out that intense violent frustration on everyone around him. His wives, who all eventually leave him, and his young son, Troy. It's"
+    },
+    {
+      "fp": "gh0fkw",
+      "i": 186,
+      "from": 44093,
+      "subject": "Troy — family",
+      "entities": [
+        "troy"
+      ],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Troy, 1957"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": [
+          "troy"
+        ]
+      },
+      "_said": "It's a horrific inheritance. Troy tells the story of how when he was 14 years old, his father caught him down by the creek with a girl. His father beat him bloody with leather Yeah"
+    },
+    {
+      "fp": "a8wyej",
+      "i": 187,
+      "from": 44472,
+      "subject": "Troy",
+      "entities": [
+        "troy"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Troy, 1957"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "troy"
+        ]
+      },
+      "_said": "bleeding, Troy realized something that changed him forever. His"
+    },
+    {
+      "fp": "pvymx5",
+      "i": 188,
+      "from": 44561,
+      "subject": "Troy — family",
+      "entities": [
+        "troy"
+      ],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Troy, 1957"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": [
+          "troy"
+        ]
+      },
+      "_said": "His father wasn't beating him to protect his morality. His father beat him because he wanted the girl for himself. Troy ran away that day."
+    },
+    {
+      "fp": "1x5xe0k",
+      "i": 189,
+      "from": 44788,
+      "subject": "road",
+      "entities": [],
+      "concept": "road",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "road, walked 200 miles to mobile and never went back, 1957"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": null,
+        "cast": []
+      },
+      "_said": "day. He walked 200 miles to Mobile and never went back. But the seed was planted. The definition of fatherhood was etched into his brain."
+    },
+    {
+      "fp": "1oe6ukq",
+      "i": 190,
+      "from": 45019,
+      "subject": "Troy — heart",
+      "entities": [
+        "troy"
+      ],
+      "concept": "heart",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Troy, 1957"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": null,
+        "cast": [
+          "troy"
+        ]
+      },
+      "_said": "brain. Troy learned fatherhood from a monster. And if we connect this back to our main thesis that survival and love use the same muscle, we trace"
+    },
+    {
+      "fp": "pziy0b",
+      "i": 191,
+      "from": 45290,
+      "subject": "Troy — family",
+      "entities": [
+        "troy"
+      ],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Troy, 1957"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": [
+          "troy"
+        ]
+      },
+      "_said": "trace a direct psychological lineage from that sharecropper to Troy. How so? While Troy's father was a monster of circumstance, Troy learned violence and harshness from him. But Tr"
+    },
+    {
+      "fp": "1xc1xn4",
+      "i": 192,
+      "from": 45715,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, 1957"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": []
+      },
+      "_said": "takes absolute uncompromising responsibility for his family, no matter"
+    },
+    {
+      "fp": "1lswtb8",
+      "i": 193,
+      "from": 45837,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1957"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "matter how desperately difficult the circumstances may be. So his entire life is an attempt to be a different kind of monster. Exactly."
+    },
+    {
+      "fp": "yb58ze",
+      "i": 194,
+      "from": 46013,
+      "subject": "Cory — home",
+      "entities": [
+        "cory"
+      ],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Cory, 1957"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": [
+          "cory"
+        ]
+      },
+      "_said": "Exactly. He learned respect for a home because they didn't have one, and the value of an education because he lacked one. Help me connect these dots for Cory then. Because when I l"
+    },
+    {
+      "fp": "1e6xm9o",
+      "i": 195,
+      "from": 46241,
+      "subject": "Troy and Cory — family",
+      "entities": [
+        "troy",
+        "cory"
+      ],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Troy and Cory, 1957"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": [
+          "troy",
+          "cory"
+        ]
+      },
+      "_said": "look at how Troy treats Cory, it looks like pure cruelty. But if I view it through the lens of Troy's father, what does it actually It"
+    },
+    {
+      "fp": "yxy1ah",
+      "i": 196,
+      "from": 46485,
+      "subject": "Troy and Cory — heart",
+      "entities": [
+        "troy",
+        "cory"
+      ],
+      "concept": "heart",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Troy and Cory, 1957"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": null,
+        "cast": [
+          "troy",
+          "cory"
+        ]
+      },
+      "_said": "It means Troy doesn't hate Cory. Troy loves Cory the absolute only way a man raised by a monster knows how to love. Think about it. Troy's entire life has been a desperate, exhaust"
+    },
+    {
+      "fp": "szfv1f",
+      "i": 197,
+      "from": 46817,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, 1957"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": []
+      },
+      "_said": "exhausting, lifelong attempt to be a different kind of monster than his father was. Right? His father didn't provide security."
+    },
+    {
+      "fp": "17cnea1",
+      "i": 198,
+      "from": 46994,
+      "subject": "Troy and Cory — home",
+      "entities": [
+        "troy",
+        "cory"
+      ],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Troy and Cory, 1957"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": [
+          "troy",
+          "cory"
+        ]
+      },
+      "_said": "security. So Troy provides a brick house and food. His father was a predator. So Troy protects Cory from what he views as a predatory white sports system. But in doing so, he passe"
+    },
+    {
+      "fp": "lhzy9y",
+      "i": 199,
+      "from": 47371,
+      "subject": "shield",
+      "entities": [],
+      "concept": "shield",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "shield, 1957"
+      },
+      "antidote": {
+        "concept": "shield",
+        "cast": []
+      },
+      "_said": "Trauma is inherited through Troy's twisted, suffocating version of protection. He thinks"
+    },
+    {
+      "fp": "h4k37m",
+      "i": 200,
+      "from": 47515,
+      "subject": "Cory — grave",
+      "entities": [
+        "cory"
+      ],
+      "concept": "grave",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Cory, 1957"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": null,
+        "cast": [
+          "cory"
+        ]
+      },
+      "_said": "thinks by keeping Cory from dreaming, he is keeping him from dying. He provides the calories, but he starves the soul. He thinks a full belly is the only metric"
+    },
+    {
+      "fp": "141m3iz",
+      "i": 201,
+      "from": 47736,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1957"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "metric of successful fatherhood because his own belly was empty. That generational cycle of emotional violence and rigid duty ultimately brings us to the"
+    },
+    {
+      "fp": "1s6tjm0",
+      "i": 202,
+      "from": 47968,
+      "subject": "grave",
+      "entities": [],
+      "concept": "grave",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "grave, 1957"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": null,
+        "cast": []
+      },
+      "_said": "the play's profound and quiet So, let's drop into our final scene. We're in the yard one last time. Present tense. It is 1965. It is the morning of Troy's funeral. The family is ga"
+    },
+    {
+      "fp": "ctc3h4",
+      "i": 203,
+      "from": 48350,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1957"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "opens and 7-year-old Raynell enters the yard. Raynell is Troy's"
+    },
+    {
+      "fp": "d7l3r0",
+      "i": 204,
+      "from": 48468,
+      "subject": "Troy and Rose — grave",
+      "entities": [
+        "troy",
+        "rose"
+      ],
+      "concept": "grave",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Troy and Rose, 1957"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": null,
+        "cast": [
+          "troy",
+          "rose"
+        ]
+      },
+      "_said": "Troy's daughter with Alberta, the woman he had the affair with. Right. Alberta died in childbirth and Rose in an act of staggering grace took Rel in to raise as her own. She tells "
+    },
+    {
+      "fp": "1vsamcj",
+      "i": 205,
+      "from": 48893,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1957"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "you, a womanless man. It's so powerful. It is.\" So Raynell"
+    },
+    {
+      "fp": "wtmelb",
+      "i": 206,
+      "from": 49025,
+      "subject": "Gabriel — tree",
+      "entities": [
+        "gabriel"
+      ],
+      "concept": "tree",
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Gabriel, waiting for this moment, 1957"
+      },
+      "antidote": {
+        "concept": "tree",
+        "set": null,
+        "cast": [
+          "gabriel"
+        ]
+      },
+      "_said": "is in a flannel night gown. She crosses to the small dirt garden plot and pokes around with a stick. Gabriel is there. He has been waiting for this moment"
+    },
+    {
+      "fp": "1y2skd8",
+      "i": 207,
+      "from": 49272,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, 1957"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": []
+      },
+      "_said": "moment his entire life. He is preparing to blow his trumpet to tell St. Peter to open the gates of heaven for his brother. Focus"
+    },
+    {
+      "fp": "dguqm0",
+      "i": 208,
+      "from": 49457,
+      "subject": "Troy — grave",
+      "entities": [
+        "troy"
+      ],
+      "concept": "grave",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Troy, 1957"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": null,
+        "cast": [
+          "troy"
+        ]
+      },
+      "_said": "on the incredible significance of this final tableau. Troy has finally struck out. He wrestled death for decades, and death finally threw a pitch he couldn't hit. He is gone. He is"
+    },
+    {
+      "fp": "zkv3a3",
+      "i": 209,
+      "from": 49781,
+      "subject": "Gabriel",
+      "entities": [
+        "gabriel"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Gabriel, 1957"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "gabriel"
+        ]
+      },
+      "_said": "yard. Gabriel raises his trumpet to his lips. He blows with all his might, but no sound comes out. It's"
+    },
+    {
+      "fp": "1cty2zl",
+      "i": 210,
+      "from": 49939,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1957"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "It's just a rush of error. He tries again. Nothing. The horn he bought"
+    },
+    {
+      "fp": "12qnedt",
+      "i": 211,
+      "from": 50071,
+      "subject": "Gabriel",
+      "entities": [
+        "gabriel"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Gabriel, 1957"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "gabriel"
+        ]
+      },
+      "_said": "bought with his plumelling quarters is It is a moment of potential despair. So what does Gabriel do? He begins to dance, a slow, strange, heavy dance. And the text tells us that th"
+    },
+    {
+      "fp": "xgssnv",
+      "i": 212,
+      "from": 50421,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1957"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "gates of heaven open. It gives me chills every time I think about it. It is the culmination of Gabriel's"
+    },
+    {
+      "fp": "17np2sd",
+      "i": 213,
+      "from": 50573,
+      "subject": "home",
+      "entities": [],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "home, 1957"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": []
+      },
+      "_said": "Gabriel's journey from the wounded, discarded soldier whose brain was traded for a brick house to the spiritual heart of the family. What"
+    },
+    {
+      "fp": "rmfrzw",
+      "i": 214,
+      "from": 50803,
+      "subject": "Wilson",
+      "entities": [
+        "wilson"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Wilson, 1957"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "wilson"
+        ]
+      },
+      "_said": "What is Wilson communicating to us with this silent trumpet and this heavy dance? Wilson's"
+    },
+    {
+      "fp": "dgg1i9",
+      "i": 215,
+      "from": 50952,
+      "subject": "Troy and Gabriel",
+      "entities": [
+        "troy",
+        "gabriel"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Troy and Gabriel, 1957"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "troy",
+          "gabriel"
+        ]
+      },
+      "_said": "Wilson's final image is communicating his final beautiful message about grace. Grace doesn't come through strength or rightness. It doesn't descend on this yard because Troy was a "
+    },
+    {
+      "fp": "1vnur1u",
+      "i": 216,
+      "from": 51316,
+      "subject": "Gabriel — notes",
+      "entities": [
+        "gabriel"
+      ],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Gabriel, 1957"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": [
+          "gabriel"
+        ]
+      },
+      "_said": "Gabriel has a working trumpet or because he plays the right notes. Grace appears simply because these broken,"
+    },
+    {
+      "fp": "110i0ys",
+      "i": 217,
+      "from": 51473,
+      "subject": "Troy",
+      "entities": [
+        "troy"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Troy, 1957"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "troy"
+        ]
+      },
+      "_said": "broken, traumatized people keep trying anyway. The broken trying anyway, that is what opens heaven. That is beautiful. But I want to push back on the structure of the play itself f"
+    },
+    {
+      "fp": "1panw75",
+      "i": 218,
+      "from": 51796,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1957"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "so intensely magnetic, isn't it? Oh, absolutely. He spins these incredible yarns, dominating the porch with"
+    },
+    {
+      "fp": "1t68ju1",
+      "i": 219,
+      "from": 51972,
+      "subject": "Wilson — grave",
+      "entities": [
+        "wilson"
+      ],
+      "concept": "grave",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Wilson, 1957"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": null,
+        "cast": [
+          "wilson"
+        ]
+      },
+      "_said": "with his roaring monologues about death and baseball and duty. He takes up all the oxygen in the yard and all the oxygen in the play. Wilson definitely loads the deck. So,"
+    },
+    {
+      "fp": "1g8cei",
+      "i": 220,
+      "from": 52257,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, 1957"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": []
+      },
+      "_said": "So, I want to pose a question to you. Is Fences actually a play about a family? Or is it secretly a one-man"
+    },
+    {
+      "fp": "1pdkcke",
+      "i": 221,
+      "from": 52430,
+      "subject": "Cory and Rose",
+      "entities": [
+        "cory",
+        "rose"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Cory and Rose, 1957"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "cory",
+          "rose"
+        ]
+      },
+      "_said": "one-man show where Rose, Cory, and Gabe are just collateral damage to Troy's tragic orbit?"
+    },
+    {
+      "fp": "1qgpj2x",
+      "i": 222,
+      "from": 52620,
+      "subject": "Troy and Wilson",
+      "entities": [
+        "troy",
+        "wilson"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Troy and Wilson, 1957"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "troy",
+          "wilson"
+        ]
+      },
+      "_said": "orbit? Does Wilson accidentally make Troy too charismatic? It's a vital question and it's not accidental at"
+    },
+    {
+      "fp": "1m1fd1o",
+      "i": 223,
+      "from": 52797,
+      "subject": "Richards",
+      "entities": [
+        "richards"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Richards, 1957"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "richards"
+        ]
+      },
+      "_said": "at all. Director Lloyd Richards asks this exact question in his introduction. He asks, \"How is this reformed criminal perceived? What should be learned from him? Is his life to be "
+    },
+    {
+      "fp": "s8al14",
+      "i": 224,
+      "from": 53095,
+      "subject": "Troy and Wilson",
+      "entities": [
+        "troy",
+        "wilson"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Troy and Wilson, 1957"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "troy",
+          "wilson"
+        ]
+      },
+      "_said": "honored?\" Right? Wilson deliberately makes Troy so charismatic, so deeply wounded, and so verbally powerful that we, the audience, feel the"
+    },
+    {
+      "fp": "2lqlpl",
+      "i": 225,
+      "from": 53306,
+      "subject": "Cory and Rose",
+      "entities": [
+        "cory",
+        "rose"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Cory and Rose, 1957"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "cory",
+          "rose"
+        ]
+      },
+      "_said": "the exact same overwhelming gravity that Rose and Cory feel living in his We are drawn to him even as he hurts the people we care about. Yes, we experience"
+    },
+    {
+      "fp": "ifhqij",
+      "i": 226,
+      "from": 53573,
+      "subject": "Cory and Rose — heart",
+      "entities": [
+        "cory",
+        "rose"
+      ],
+      "concept": "heart",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Cory and Rose, 1957"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": null,
+        "cast": [
+          "cory",
+          "rose"
+        ]
+      },
+      "_said": "experience the exact same whiplash of love and terror that Cory feels. Rose and Cory sometimes feel like witnesses to his tragedy rather than full owners of their own because that'"
+    },
+    {
+      "fp": "1ggdku3",
+      "i": 227,
+      "from": 53925,
+      "subject": "Troy and Maxson — home",
+      "entities": [
+        "troy",
+        "maxson"
+      ],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Troy and Maxson, 1957"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": [
+          "troy",
+          "maxson"
+        ]
+      },
+      "_said": "live with a Troy Maxson. Which brings this entire deep dive home"
+    },
+    {
+      "fp": "41tino",
+      "i": 228,
+      "from": 54024,
+      "subject": "Troy and Cory — home",
+      "entities": [
+        "troy",
+        "cory"
+      ],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Troy and Cory, 1957"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": [
+          "troy",
+          "cory"
+        ]
+      },
+      "_said": "home to the central metaphor of the play, the title itself, the fence. The fence. Troy spent the entire play slowly building this wooden fence around the dirtyard. Cory"
+    },
+    {
+      "fp": "1dwforr",
+      "i": 229,
+      "from": 54333,
+      "subject": "Troy and Cory and Bono",
+      "entities": [
+        "troy",
+        "cory",
+        "bono"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Troy and Cory, 1957"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "troy",
+          "cory",
+          "bono"
+        ]
+      },
+      "_said": "Cory was cutting boards. Troy was complaining about doing the work. Bono was questioning why they were even building it. But Troy never quite finished it while he was alive. It was"
+    },
+    {
+      "fp": "1325k9d",
+      "i": 230,
+      "from": 54715,
+      "subject": "Cory — grave",
+      "entities": [
+        "cory"
+      ],
+      "concept": "grave",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Cory, standing in the yard and the fence stands comple, 1957"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": null,
+        "cast": [
+          "cory"
+        ]
+      },
+      "_said": "Now, on the Davis funeral, Cory and Raynell are standing in the yard and the fence stands complete around them. It summarizes our thesis perfectly."
+    },
+    {
+      "fp": "1i6dt6x",
+      "i": 231,
+      "from": 54948,
+      "subject": "Richards — notes",
+      "entities": [
+        "richards"
+      ],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Richards, 1957"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": [
+          "richards"
+        ]
+      },
+      "_said": "perfectly. As Lloyd Richards writes, \"This is the story of fences which we build to keep things and people out or in.\" Right? Think about what this physical structure meant to each"
+    },
+    {
+      "fp": "1s18okg",
+      "i": 232,
+      "from": 55260,
+      "subject": "Bono",
+      "entities": [
+        "bono"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Bono, 1957"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "bono"
+        ]
+      },
+      "_said": "it meant something different to Bono points it out during the play."
+    },
+    {
+      "fp": "wa5r72",
+      "i": 233,
+      "from": 55353,
+      "subject": "Troy and Rose — grave",
+      "entities": [
+        "troy",
+        "rose"
+      ],
+      "concept": "grave",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Troy and Rose, hold the family eye, 1957"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": null,
+        "cast": [
+          "troy",
+          "rose"
+        ]
+      },
+      "_said": "play. Rose wanted the fence to hold the family eye in. She loved them and she wanted a boundary to keep her family close and safe from the chaotic world. Troy, on the other hand, n"
+    },
+    {
+      "fp": "1t1u4m9",
+      "i": 234,
+      "from": 55728,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1957"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "needed a fortress against a world that was constantly trying to strike him out."
+    },
+    {
+      "fp": "72kfoz",
+      "i": 235,
+      "from": 55828,
+      "subject": "Cory — chains",
+      "entities": [
+        "cory"
+      ],
+      "concept": "chains",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Cory, 1957"
+      },
+      "antidote": {
+        "concept": "chains",
+        "cast": [
+          "cory"
+        ]
+      },
+      "_said": "out. And Cory Cory experienced that exact same fence as a cage. A cage that kept him from his future. Wilson's"
+    },
+    {
+      "fp": "1oeif18",
+      "i": 236,
+      "from": 56059,
+      "subject": "Troy and Maxson — lightbulb",
+      "entities": [
+        "troy",
+        "maxson"
+      ],
+      "concept": "lightbulb",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Troy and Maxson, leave you to mle over today, 1957"
+      },
+      "antidote": {
+        "concept": "lightbulb",
+        "cast": [
+          "troy",
+          "maxson"
+        ]
+      },
+      "_said": "Wilson's absolute genius is showing us that all three of them were right at the exact same time. The tragic irony of Troy Maxson and the thought I want to leave you to mle over tod"
+    },
+    {
+      "fp": "11zdd2n",
+      "i": 237,
+      "from": 56371,
+      "subject": "Troy — family",
+      "entities": [
+        "troy"
+      ],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Troy, 1957"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": [
+          "troy"
+        ]
+      },
+      "_said": "The very fence Troy built to keep the brutal world out ended up being the absolute only thing that held his family together after he was gone. He was a monster to them. He was a pr"
+    },
+    {
+      "fp": "1cyxuce",
+      "i": 238,
+      "from": 56697,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1957"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "end, the barrier he built is where they gather to"
+    }
+  ]
+}

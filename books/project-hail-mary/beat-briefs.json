@@ -1,0 +1,3761 @@
+{
+  "slug": "project-hail-mary",
+  "authored": false,
+  "briefs": [
+    {
+      "fp": "18ot8io",
+      "i": 0,
+      "from": 0,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "So, he grabs this uh plastic test tube right off the lab table and he just drops it. And he hits a digital stopwatch. 0.3 48 But"
+    },
+    {
+      "fp": "e2ed1y",
+      "i": 1,
+      "from": 377,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "But he doesn't stop there. He does it And again, like 20 times in a row,"
+    },
+    {
+      "fp": "1sgpxmj",
+      "i": 2,
+      "from": 535,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "fall and resets"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "row, he just drops the tube and times the fall and resets."
+    },
+    {
+      "fp": "1cemruv",
+      "i": 3,
+      "from": 614,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "notes"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": []
+      },
+      "_said": "resets. It's just completely methodical. Yeah. Exactly. And the average comes out to 0.348 seconds. So having literally nothing else to write on, he grabs a pen and"
+    },
+    {
+      "fp": "vdp4vx",
+      "i": 4,
+      "from": 897,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "and starts scratching the math directly onto his own arm, which is such a striking image. It really"
+    },
+    {
+      "fp": "9pazm3",
+      "i": 5,
+      "from": 1041,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "notes, writing acceleration equals 2 * distance over t"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": []
+      },
+      "_said": "really is. Yeah. So he's writing acceleration equals 2 * distance over time squared. He runs the numbers and the answer is 15 m/s squared. And in that"
+    },
+    {
+      "fp": "m8exkv",
+      "i": 6,
+      "from": 1305,
+      "subject": "Earth",
+      "entities": [
+        "earth"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Earth"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "earth"
+        ]
+      },
+      "_said": "that exact fraction of a second, this chilling reality just washes over him. He is definitively not on Earth,"
+    },
+    {
+      "fp": "170tkm1",
+      "i": 7,
+      "from": 1478,
+      "subject": "Earth — alarmClock",
+      "entities": [
+        "earth"
+      ],
+      "concept": "alarmClock",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Earth"
+      },
+      "antidote": {
+        "concept": "alarmClock",
+        "set": null,
+        "cast": [
+          "earth"
+        ]
+      },
+      "_said": "Earth, right? Because it's a it's a completely brilliant sequence. Earth's gravity is 9.8 m/s squared. So to wake up and feel 15 meters per second squared, that's roughly uh one an"
+    },
+    {
+      "fp": "53r81y",
+      "i": 8,
+      "from": 1793,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "ds, right? Your body would feel incredibly heavy. I mean, your blood would be pooling differently in your legs."
+    },
+    {
+      "fp": "16aeq3x",
+      "i": 9,
+      "from": 1953,
+      "subject": "alarmClock",
+      "entities": [],
+      "concept": "alarmClock",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "alarm clock"
+      },
+      "antidote": {
+        "concept": "alarmClock",
+        "set": null,
+        "cast": []
+      },
+      "_said": "legs. You'd feel sick. Exactly. Most people wake up in that situation, you know, naked attached to medical tubes with no memory in a room with two mummified corpses and they would "
+    },
+    {
+      "fp": "iywb19",
+      "i": 10,
+      "from": 2256,
+      "subject": "Grace",
+      "entities": [
+        "grace"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Grace"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "grace"
+        ]
+      },
+      "_said": "their minds. Panic attack. Full on. Full panic. But Ryland Grace doesn't check himself for injuries. He doesn't scream for help. He doesn't even look for a door."
+    },
+    {
+      "fp": "1gm2nmi",
+      "i": 11,
+      "from": 2498,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "door. He measures the gravitational constant of his And that visceral reflex tells you absolutely"
+    },
+    {
+      "fp": "13qzg4k",
+      "i": 12,
+      "from": 2681,
+      "subject": "target",
+      "entities": [],
+      "concept": "target",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "target"
+      },
+      "antidote": {
+        "concept": "target",
+        "cast": []
+      },
+      "_said": "absolutely everything about why he is theoretically the exact wrong person for a heroic space mission, but fundamentally the only person who is equipped to survive it. Which brings"
+    },
+    {
+      "fp": "1v3pcj4",
+      "i": 13,
+      "from": 3103,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "into Andy Weir's project Hail Mary."
+    },
+    {
+      "fp": "18hwixb",
+      "i": 14,
+      "from": 3177,
+      "subject": "Science",
+      "entities": [
+        "science"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Science"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "science"
+        ]
+      },
+      "_said": "Mary. Because we're basically dismantling a myth here. A myth that has dominated science fiction for I don't know Oh, absolutely. When you imagine"
+    },
+    {
+      "fp": "mk943d",
+      "i": 15,
+      "from": 3453,
+      "subject": "lightbulb",
+      "entities": [],
+      "concept": "lightbulb",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "lightbulb"
+      },
+      "antidote": {
+        "concept": "lightbulb",
+        "cast": []
+      },
+      "_said": "imagine the quintessential space epic, you always picture the rugged individualist. You know, the lone tortured genius who saves the galaxy using nothing but sheer willpower and a "
+    },
+    {
+      "fp": "4aafdg",
+      "i": 16,
+      "from": 3811,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "blaster, right? Yeah. A blaster and some snappy We expect Tony Stark. We"
+    },
+    {
+      "fp": "13z592n",
+      "i": 17,
+      "from": 3941,
+      "subject": "lightbulb",
+      "entities": [],
+      "concept": "lightbulb",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "lightbulb"
+      },
+      "antidote": {
+        "concept": "lightbulb",
+        "cast": []
+      },
+      "_said": "expect Captain Kirk. And we're takes that expectation and just completely inverts it. I mean, if you look at the architecture of this narrative, it systematically proves that the h"
+    },
+    {
+      "fp": "h9d7p2",
+      "i": 18,
+      "from": 4346,
+      "subject": "Grace — lightbulb",
+      "entities": [
+        "grace"
+      ],
+      "concept": "lightbulb",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Grace"
+      },
+      "antidote": {
+        "concept": "lightbulb",
+        "cast": [
+          "grace"
+        ]
+      },
+      "_said": "Every single breakthrough Grace makes, and I mean literally every single one happens because of"
+    },
+    {
+      "fp": "b6l6jx",
+      "i": 19,
+      "from": 4500,
+      "subject": "Science — phone",
+      "entities": [
+        "science"
+      ],
+      "concept": "phone",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Science"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": null,
+        "cast": [
+          "science"
+        ]
+      },
+      "_said": "of a relationship. It never happens in isolation. The entire text is essentially a structured argument that science itself is a social"
+    },
+    {
+      "fp": "tq4l2r",
+      "i": 20,
+      "from": 4761,
+      "subject": "Science — road",
+      "entities": [
+        "science"
+      ],
+      "concept": "road",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Science"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": null,
+        "cast": [
+          "science"
+        ]
+      },
+      "_said": "social Science is a conversation. Exactly. That's the phrase we need to keep coming back to today. Science is a conversation. And just to ground this for anyone tuning in, let's th"
+    },
+    {
+      "fp": "9wlsrf",
+      "i": 21,
+      "from": 5081,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "this specific conversation in the book."
+    },
+    {
+      "fp": "6arrzm",
+      "i": 22,
+      "from": 5141,
+      "subject": "Earth — star",
+      "entities": [
+        "earth"
+      ],
+      "concept": "star",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Earth"
+      },
+      "antidote": {
+        "concept": "star",
+        "set": null,
+        "cast": [
+          "earth"
+        ]
+      },
+      "_said": "book. We're looking at a literal apocalyptic threat to Earth. An alien microbe, which they dub astrophase, which literally translates to star eater, is rapidly draining the sun's e"
+    },
+    {
+      "fp": "1cjciim",
+      "i": 23,
+      "from": 5486,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "energy. It's terrifying. It is. Humanity has"
+    },
+    {
+      "fp": "hcvg5b",
+      "i": 24,
+      "from": 5561,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "has this ticking clock of roughly 30 years before a catastrophic ice age triggers"
+    },
+    {
+      "fp": "rpz85h",
+      "i": 25,
+      "from": 5697,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "triggers mass starvation and basically the total collapse of the biosphere. And the mechanism"
+    },
+    {
+      "fp": "ue66ar",
+      "i": 26,
+      "from": 5844,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "mechanism of astrophase is what makes it so uniquely terrifying to me."
+    },
+    {
+      "fp": "1joueee",
+      "i": 27,
+      "from": 5954,
+      "subject": "dominoCascade",
+      "entities": [],
+      "concept": "dominoCascade",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "domino cascade"
+      },
+      "antidote": {
+        "concept": "dominoCascade",
+        "cast": []
+      },
+      "_said": "me. It's essentially an exponential population growth on the surface of a It absorbs radiant energy and it converts it into mass via mass energy"
+    },
+    {
+      "fp": "1t3yqvy",
+      "i": 28,
+      "from": 6237,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "energy equivalents and then it reproduces. It is effectively a biological Dyson sphere. Oh wow. I never thought of it like that."
+    },
+    {
+      "fp": "soiup6",
+      "i": 29,
+      "from": 6489,
+      "subject": "star",
+      "entities": [],
+      "concept": "star",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "star"
+      },
+      "antidote": {
+        "concept": "star",
+        "set": null,
+        "cast": []
+      },
+      "_said": "that. A biological Dyson sphere. Yeah, it just swallows the stars output. And the response"
+    },
+    {
+      "fp": "1ltkrpk",
+      "i": 30,
+      "from": 6650,
+      "subject": "Earth — target",
+      "entities": [
+        "earth"
+      ],
+      "concept": "target",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Earth"
+      },
+      "antidote": {
+        "concept": "target",
+        "cast": [
+          "earth"
+        ]
+      },
+      "_said": "response from Earth is the Hail Mary mission. It's this unlimited budget, pure desperation play managed by a woman named Eva Strat, who is a whole topic on her own. Oh, we will def"
+    },
+    {
+      "fp": "7c3nq8",
+      "i": 31,
+      "from": 6943,
+      "subject": "star",
+      "entities": [],
+      "concept": "star",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "star"
+      },
+      "antidote": {
+        "concept": "star",
+        "set": null,
+        "cast": []
+      },
+      "_said": "get into Strat. But she's been granted this unchecked dictatorial authority by the UN to get this one ship to Taetti because it's the only nearby star that is somehow immune"
+    },
+    {
+      "fp": "vdph9g",
+      "i": 32,
+      "from": 7241,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "to the infection. So, the premise absolutely demands a superhero. But let's look at who we actually get."
+    },
+    {
+      "fp": "14nttfk",
+      "i": 33,
+      "from": 7401,
+      "subject": "Grace and Science",
+      "entities": [
+        "grace",
+        "science"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Grace and Science"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "grace",
+          "science"
+        ]
+      },
+      "_said": "get. Ryland Grace is a junior high science He's not an active astrophysicist. He's not military. He actually fainted during the astronaut"
+    },
+    {
+      "fp": "1pd2xr8",
+      "i": 34,
+      "from": 7637,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": null,
+        "cast": []
+      },
+      "_said": "training centrifuge tests. Yeah. He threw up and passed out, right? I want to contrast his starting point with the incredible Soyu scene in the text. So, we"
+    },
+    {
+      "fp": "1rx4a1s",
+      "i": 35,
+      "from": 7889,
+      "subject": "codeWindow",
+      "entities": [],
+      "concept": "codeWindow",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "code window"
+      },
+      "antidote": {
+        "concept": "codeWindow",
+        "set": null,
+        "cast": []
+      },
+      "_said": "have his crew mates, Commander Yao and Engineer Il Yukina. They were the absolute epitome of the right stuff. Oh, for sure. Yao was a highly"
+    },
+    {
+      "fp": "efrpqy",
+      "i": 36,
+      "from": 8143,
+      "subject": "codeWindow",
+      "entities": [],
+      "concept": "codeWindow",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "code window"
+      },
+      "antidote": {
+        "concept": "codeWindow",
+        "set": null,
+        "cast": []
+      },
+      "_said": "highly disciplined military commander. Ilukino was this brilliant, fearless engineer. And they"
+    },
+    {
+      "fp": "vyg6o8",
+      "i": 37,
+      "from": 8316,
+      "subject": "target",
+      "entities": [],
+      "concept": "target",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "target"
+      },
+      "antidote": {
+        "concept": "target",
+        "cast": []
+      },
+      "_said": "they were volunteers, right? They sat in that capsule drinking vodka, fully accepting that this was a one-way suicide mission. They possessed that innate"
+    },
+    {
+      "fp": "9c8moe",
+      "i": 38,
+      "from": 8599,
+      "subject": "Grace — target",
+      "entities": [
+        "grace"
+      ],
+      "concept": "target",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Grace, run away"
+      },
+      "antidote": {
+        "concept": "target",
+        "cast": [
+          "grace"
+        ]
+      },
+      "_said": "innate self-sacrificial bravery we expect from our astronauts. But Grace did not. He literally ran from the mission. He packed his bags to run away. He had this specific genetic ma"
+    },
+    {
+      "fp": "12rj9vh",
+      "i": 39,
+      "from": 8930,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "made him resistant to the comainducing drugs they needed for the trip, which"
+    },
+    {
+      "fp": "1upebvq",
+      "i": 40,
+      "from": 9038,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "which made him biologically necessary. Exactly. Biologically necessary. But psychologically, he was a mess. He begged Strat not to send him. He flat out told her he was afraid to d"
+    },
+    {
+      "fp": "eb158g",
+      "i": 41,
+      "from": 9293,
+      "subject": "rocketLaunch",
+      "entities": [],
+      "concept": "rocketLaunch",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "rocket launch"
+      },
+      "antidote": {
+        "concept": "rocketLaunch",
+        "set": null,
+        "cast": []
+      },
+      "_said": "die. Strat basically had to drug him, kidnap him, and strap him into the launch couch while he was totally unconscious. Which forces us to really ask what it means that humanity's "
+    },
+    {
+      "fp": "610k28",
+      "i": 42,
+      "from": 9597,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "kicking and screaming to the starting line. It completely strips away"
+    },
+    {
+      "fp": "qx0roh",
+      "i": 43,
+      "from": 9689,
+      "subject": "Grace — alarmClock",
+      "entities": [
+        "grace"
+      ],
+      "concept": "alarmClock",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Grace"
+      },
+      "antidote": {
+        "concept": "alarmClock",
+        "set": null,
+        "cast": [
+          "grace"
+        ]
+      },
+      "_said": "away the romanticism of heroism. Grace didn't come to space with the savior complex. He wakes up with"
+    },
+    {
+      "fp": "3pop0s",
+      "i": 44,
+      "from": 9859,
+      "subject": "sword",
+      "entities": [],
+      "concept": "sword",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "sword"
+      },
+      "antidote": {
+        "concept": "sword",
+        "cast": []
+      },
+      "_said": "with no crew, no courage, and not even his own name. He is stripped down to the barest human elements possible. I have to admit something. When I first"
+    },
+    {
+      "fp": "88b8gk",
+      "i": 45,
+      "from": 10123,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "notes"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": []
+      },
+      "_said": "first encountered the whole Amnesia plot line, the notes, I rolled my eyes so hard. Oh,"
+    },
+    {
+      "fp": "vghvty",
+      "i": 46,
+      "from": 10276,
+      "subject": "Earth — wallet",
+      "entities": [
+        "earth"
+      ],
+      "concept": "wallet",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Earth"
+      },
+      "antidote": {
+        "concept": "wallet",
+        "cast": [
+          "earth"
+        ]
+      },
+      "_said": "Oh, really? Yeah. It felt like such a cheap, overused sci-fi gimmick. Like, why wipe the memory of the one guy meant to save Earth? It just"
+    },
+    {
+      "fp": "10do385",
+      "i": 47,
+      "from": 10488,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "just felt contrived to me. Well, it's easy to view it that way on the surface, but if you dig into the mechanics of the narrative, the amnesia is actually the book's central"
+    },
+    {
+      "fp": "1qqhmvm",
+      "i": 48,
+      "from": 10730,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "central structural argument. Okay? It isn't a gimmick at all. It is a forcing function for empiricism. Think about how a scientist actually works. They"
+    },
+    {
+      "fp": "1euqerd",
+      "i": 49,
+      "from": 10963,
+      "subject": "Grace and Weir",
+      "entities": [
+        "grace",
+        "weir"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Grace and Weir"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "grace",
+          "weir"
+        ]
+      },
+      "_said": "They don't start with the answers. They start with observation, then hypothesis, and then testing. By wiping his memory, Weir forces Grace and by extension the reader to apply"
+    },
+    {
+      "fp": "tk4xuz",
+      "i": 50,
+      "from": 11234,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "apply the scientific method to his own identity and his physical reality in real time. Okay, I see that. It makes"
+    },
+    {
+      "fp": "8ae0j",
+      "i": 51,
+      "from": 11421,
+      "subject": "road",
+      "entities": [],
+      "concept": "road",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "road"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": null,
+        "cast": []
+      },
+      "_said": "makes sense. It's almost like wiping a computer's hard drive of all the personal files. Yeah. But the operating system, you know, the mathematical formulas. The"
+    },
+    {
+      "fp": "ooq1wh",
+      "i": 52,
+      "from": 11680,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "The knowledge of physics that is all perfectly intact. Yes. Exactly. Like the pendulum experiment we just talked about. I want to break"
+    },
+    {
+      "fp": "dzzsfu",
+      "i": 53,
+      "from": 11849,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "break down the physics of that for a second because it's just fascinating to me. He builds"
+    },
+    {
+      "fp": "foshp8",
+      "i": 54,
+      "from": 11961,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "builds a makeshift pendulum out of a tape measure and some nylon string and he hangs it from a hatch"
+    },
+    {
+      "fp": "1lemnyy",
+      "i": 55,
+      "from": 12141,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "hatch handle and he counts the swings. Yeah."
+    },
+    {
+      "fp": "1wrf3uy",
+      "i": 56,
+      "from": 12225,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Yeah. 346 cycles in exactly 10 minutes, right? Because the period"
+    },
+    {
+      "fp": "1lhse0n",
+      "i": 57,
+      "from": 12372,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "period of a pendulum, the time it takes to swing back and forth,"
+    },
+    {
+      "fp": "mmytf1",
+      "i": 58,
+      "from": 12487,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "forth, is determined entirely by two things. The length of the string and the acceleration of gravity. Yep. The mass of the object at the end actually doesn't matter. The formula i"
+    },
+    {
+      "fp": "11i7ag8",
+      "i": 59,
+      "from": 12763,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "pi * the&lt;unk&gt; of l. Because his scientific programming is intact, he just sets up the equation and solves for g. And when"
+    },
+    {
+      "fp": "1n9v46r",
+      "i": 60,
+      "from": 12989,
+      "subject": "funnelMetrics",
+      "entities": [],
+      "concept": "funnelMetrics",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "funnel metrics"
+      },
+      "antidote": {
+        "concept": "funnelMetrics",
+        "set": null,
+        "cast": []
+      },
+      "_said": "when he calculates that 15 m/s squared, it leads directly to the next hypothesis."
+    },
+    {
+      "fp": "1km5750",
+      "i": 61,
+      "from": 13147,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "hypothesis. He's either on an alien planet with 1.5 times Earth's mass or he's in a centrifuge. And he figures out he's in a centrifuge, right? Which requires more math. To simulat"
+    },
+    {
+      "fp": "qd2i3j",
+      "i": 62,
+      "from": 13488,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "gravity, considering the corololis effect he's feeling, he deduces he must be in a ship spinning with a radius"
+    },
+    {
+      "fp": "1ogsekj",
+      "i": 63,
+      "from": 13656,
+      "subject": "star",
+      "entities": [],
+      "concept": "star",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "star"
+      },
+      "antidote": {
+        "concept": "star",
+        "set": null,
+        "cast": []
+      },
+      "_said": "radius of several hundred meters, moving at incredible He does the exact same thing with the stars. When he finally gets to look out a window, he obviously doesn't know where he is"
+    },
+    {
+      "fp": "w4ptve",
+      "i": 64,
+      "from": 13953,
+      "subject": "star",
+      "entities": [],
+      "concept": "star",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "star"
+      },
+      "antidote": {
+        "concept": "star",
+        "set": null,
+        "cast": []
+      },
+      "_said": "uses a spectrometer to measure the light spectrum of the nearest star. He figures out its elemental composition, and then he cross"
+    },
+    {
+      "fp": "1fkldvq",
+      "i": 65,
+      "from": 14167,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "cross references that with his intact astronomical knowledge to realize he's"
+    },
+    {
+      "fp": "som1jy",
+      "i": 66,
+      "from": 14299,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "he's at Taetti. Every recovered memory is the result of"
+    },
+    {
+      "fp": "1lot8wr",
+      "i": 67,
+      "from": 14440,
+      "subject": "Science",
+      "entities": [
+        "science"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Science"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "science"
+        ]
+      },
+      "_said": "of an experiment that paid off. he is literally using science to talk to the universe. But the critical pivot of the entire story, the moment everything changes, is when the univer"
+    },
+    {
+      "fp": "13dzcy2",
+      "i": 68,
+      "from": 14776,
+      "subject": "Rocky and Weir",
+      "entities": [
+        "rocky",
+        "weir"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Rocky and Weir"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "rocky",
+          "weir"
+        ]
+      },
+      "_said": "alone at Taeti. He encounters the Blipe, which is an alien vessel and he meets Rocky. This is where Weir just shreds the"
+    },
+    {
+      "fp": "1p73xl1",
+      "i": 69,
+      "from": 14995,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "the standard First Contact playbook. But normally, if you imagine First Contact, you picture military generals hovering over red buttons or politicians sweating in bunkers or a mag"
+    },
+    {
+      "fp": "7vcm2u",
+      "i": 70,
+      "from": 15305,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "universal translator device that just beams English directly into someone's brain. Yes, exactly. But there are no diplomats here. And there certainly are no"
+    },
+    {
+      "fp": "bbdtfz",
+      "i": 71,
+      "from": 15576,
+      "subject": "Rocky",
+      "entities": [
+        "rocky"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Rocky"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "rocky"
+        ]
+      },
+      "_said": "no magical translation devices, Rocky is an Aridian."
+    },
+    {
+      "fp": "f2lvbr",
+      "i": 72,
+      "from": 15696,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Aridian. It's a species that evolved on a high-gravity, pitch black He resembles like a dogized spider made of heavy minerals. And he has no eyes. He perceives the world entirely t"
+    },
+    {
+      "fp": "19t7sak",
+      "i": 73,
+      "from": 16077,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "how do they communicate? Music."
+    },
+    {
+      "fp": "b97h1q",
+      "i": 74,
+      "from": 16137,
+      "subject": "Rocky — heart",
+      "entities": [
+        "rocky"
+      ],
+      "concept": "heart",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Rocky"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": null,
+        "cast": [
+          "rocky"
+        ]
+      },
+      "_said": "Music. Right. And not in a mystical poetic way, but in a strictly mathematical one. I love digging into the mechanics of this. Rocky speaks in musical chords because aridians have "
+    },
+    {
+      "fp": "pv2y6x",
+      "i": 75,
+      "from": 16505,
+      "subject": "Grace and Rocky — rocketLaunch",
+      "entities": [
+        "grace",
+        "rocky"
+      ],
+      "concept": "rocketLaunch",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Grace and Rocky"
+      },
+      "antidote": {
+        "concept": "rocketLaunch",
+        "set": null,
+        "cast": [
+          "grace",
+          "rocky"
+        ]
+      },
+      "_said": "yeah. Grace realizes this and immediately starts testing frequencies and he discovers Rocky uses the pentatonic which isn't an arbitrary choice by the author at all. The pentatonic"
+    },
+    {
+      "fp": "kndsvl",
+      "i": 76,
+      "from": 16828,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "is based on fundamental mathematical ratios of soundwave frequencies. Specifically the 3:2 ratio the perfect fifth."
+    },
+    {
+      "fp": "1xcyw0p",
+      "i": 77,
+      "from": 17011,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "fifth. It's a universal constant of acoustic physics regardless what atmosphere you evolved in. It's just math. Exactly."
+    },
+    {
+      "fp": "wae1xn",
+      "i": 78,
+      "from": 17181,
+      "subject": "Grace — notes",
+      "entities": [
+        "grace"
+      ],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Grace, writes a quick"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": [
+          "grace"
+        ]
+      },
+      "_said": "Exactly. So, Grace writes a quick, incredibly clunky computer script to translate those acoustic frequencies into an Excel spreadsheet dictionary."
+    },
+    {
+      "fp": "gg5i74",
+      "i": 79,
+      "from": 17400,
+      "subject": "heart",
+      "entities": [],
+      "concept": "heart",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "heart"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": null,
+        "cast": []
+      },
+      "_said": "dictionary. An Excel spreadsheet. I love that so It is so wildly practical. Right. Within days, they aren't treating each other as foreign dignitaries. They are literally building "
+    },
+    {
+      "fp": "1it22jy",
+      "i": 80,
+      "from": 17671,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "physical Xenonite tunnel, an airlock between their two ships, exchanging physical models to represent units of mass and time. If you look at their dynamic, they are essentially two"
+    },
+    {
+      "fp": "4i7m51",
+      "i": 81,
+      "from": 17985,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "two exhausted grad students pulling an allnighter in a lab. That is exactly what they look like."
+    },
+    {
+      "fp": "1ublyzf",
+      "i": 82,
+      "from": 18146,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "like. They're entirely focused on data exchange. But the depth of this partnership goes far beyond just sharing astrophase samples."
+    },
+    {
+      "fp": "p7kj12",
+      "i": 83,
+      "from": 18365,
+      "subject": "Grace and Rocky — mirror",
+      "entities": [
+        "grace",
+        "rocky"
+      ],
+      "concept": "mirror",
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Grace and Rocky"
+      },
+      "antidote": {
+        "concept": "mirror",
+        "set": null,
+        "cast": [
+          "grace",
+          "rocky"
+        ]
+      },
+      "_said": "samples. Rocky isn't just a colleague. He acts as a psychological and moral mirror for grace. This blew my mind when I realized the biological constraint at play here."
+    },
+    {
+      "fp": "8fch9g",
+      "i": 84,
+      "from": 18619,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "here. Rocky's species, the Aridians, literally have no concept of lying. None. It is structurally impossible for"
+    },
+    {
+      "fp": "epuwcn",
+      "i": 85,
+      "from": 18816,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "for them. Think about it. Human deception relies heavily on visual cues, right? Like micro expression, avoiding eye contact, keeping a poker face. But aridians are blind."
+    },
+    {
+      "fp": "2ep6b6",
+      "i": 86,
+      "from": 19087,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "blind. They communicate through complex acoustic cords that are deeply deeply tied to their physiological state. You cannot fake"
+    },
+    {
+      "fp": "3bmuqw",
+      "i": 87,
+      "from": 19274,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "fake the biological resonance of your own chords. Their language makes deception a physical impossibility. So think about what that"
+    },
+    {
+      "fp": "tw6vac",
+      "i": 88,
+      "from": 19471,
+      "subject": "Grace — road",
+      "entities": [
+        "grace"
+      ],
+      "concept": "road",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Grace"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": null,
+        "cast": [
+          "grace"
+        ]
+      },
+      "_said": "that does to Grace. Put yourself in his shoes for a second. He is a man whose entire journey to this star system gained with a lie. He lied to himself about his bravery. He tried t"
+    },
+    {
+      "fp": "1jkbb3d",
+      "i": 89,
+      "from": 19814,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "being overpowered, not volunteering, right? And now he is forced into"
+    },
+    {
+      "fp": "1wwizpz",
+      "i": 90,
+      "from": 19939,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "into a partnership with a being of radical biological It forces a profound internal honesty."
+    },
+    {
+      "fp": "jz4x85",
+      "i": 91,
+      "from": 20148,
+      "subject": "Grace",
+      "entities": [
+        "grace"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Grace"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "grace"
+        ]
+      },
+      "_said": "honesty. Grace can no longer hide behind human social polite fictions. There is a deeply impactful moment"
+    },
+    {
+      "fp": "erejs0",
+      "i": 92,
+      "from": 20325,
+      "subject": "Rocky",
+      "entities": [
+        "rocky"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Rocky"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "rocky"
+        ]
+      },
+      "_said": "moment where Rocky, analyzing Grace's actions and his hesitations, simply states, \"You are not good enough, friend.\" O, that line."
+    },
+    {
+      "fp": "x5r14r",
+      "i": 93,
+      "from": 20522,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "line. Yeah, it's brutal, but it's not said with malice. It's stated as an empirical observation."
+    },
+    {
+      "fp": "2hfzzs",
+      "i": 94,
+      "from": 20656,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "observation. Aridians state facts, and that transparency is what ultimately allows them to solve the mystery of Because if they were hiding data from each other out"
+    },
+    {
+      "fp": "yxnjci",
+      "i": 95,
+      "from": 20981,
+      "subject": "funnelMetrics",
+      "entities": [],
+      "concept": "funnelMetrics",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "funnel metrics"
+      },
+      "antidote": {
+        "concept": "funnelMetrics",
+        "set": null,
+        "cast": []
+      },
+      "_said": "of nationalistic pride or fear or ego, they would have failed This radical honesty leads directly to what I think is the most elegant"
+    },
+    {
+      "fp": "157eapz",
+      "i": 96,
+      "from": 21249,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "elegant scientific puzzle in the book, the nitrogen problem. Yes, the nitrogen problem. This is where the thesis that"
+    },
+    {
+      "fp": "v6j1d7",
+      "i": 97,
+      "from": 21436,
+      "subject": "Science — shadowSelf",
+      "entities": [
+        "science"
+      ],
+      "concept": "shadowSelf",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Science"
+      },
+      "antidote": {
+        "concept": "shadowSelf",
+        "cast": [
+          "science"
+        ]
+      },
+      "_said": "that science is a distributed social act is proven beyond a shadow of a doubt. they discover"
+    },
+    {
+      "fp": "netgxh",
+      "i": 98,
+      "from": 21607,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "discover that Astrophase has a predator, a microbe they named Telmoba. But before they find the predator, they have to understand astrophase's"
+    },
+    {
+      "fp": "1hjitsm",
+      "i": 99,
+      "from": 21876,
+      "subject": "star",
+      "entities": [],
+      "concept": "star",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "star"
+      },
+      "antidote": {
+        "concept": "star",
+        "set": null,
+        "cast": []
+      },
+      "_said": "Right. Because astrophase is practically invincible. It stores energy by creating nutrinos, which means it can survive the heat of a star and the absolute zero of deep space."
+    },
+    {
+      "fp": "az1563",
+      "i": 100,
+      "from": 22130,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "family"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": []
+      },
+      "_said": "space. Yeah. Humanity spent years studying it and couldn't find a single vulnerability because humanity only had one data set, the astrophase that infected our son. We were looking"
+    },
+    {
+      "fp": "3dx9bw",
+      "i": 101,
+      "from": 22466,
+      "subject": "Grace and Rocky — home",
+      "entities": [
+        "grace",
+        "rocky"
+      ],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Grace and Rocky"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": [
+          "grace",
+          "rocky"
+        ]
+      },
+      "_said": "mutation. But Rocky brings a sample of astrophase from the Aridian home system. And this is the crux of it. When Grace compares"
+    },
+    {
+      "fp": "1rzykhb",
+      "i": 102,
+      "from": 22663,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "compares the Aridian Astrophase with the human astrophase, he realizes they are different strains, right? And"
+    },
+    {
+      "fp": "146twtk",
+      "i": 103,
+      "from": 22836,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "And by cross-referencing their molecular structures, he discovers the one element astrophase cannot handle. The breeding cycle of astrophase is disrupted by nitrogen. And here's th"
+    },
+    {
+      "fp": "sjpl12",
+      "i": 104,
+      "from": 23205,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "part. Neither species could have discovered this alone."
+    },
+    {
+      "fp": "y33i0",
+      "i": 105,
+      "from": 23301,
+      "subject": "Earth",
+      "entities": [
+        "earth"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Earth"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "earth"
+        ]
+      },
+      "_said": "alone. Earth didn't have the comparative data. Arid didn't have the atmospheric composition to deduce it. The solution was literally distributed across two solar systems, two entir"
+    },
+    {
+      "fp": "umpojx",
+      "i": 106,
+      "from": 23640,
+      "subject": "lightbulb",
+      "entities": [],
+      "concept": "lightbulb",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "lightbulb"
+      },
+      "antidote": {
+        "concept": "lightbulb",
+        "cast": []
+      },
+      "_said": "entirely different biologies, and two distinct ways of perceiving the universe. If that doesn't completely shatter the myth of the lone genius, nothing will."
+    },
+    {
+      "fp": "ydft7q",
+      "i": 107,
+      "from": 23863,
+      "subject": "Grace and Rocky",
+      "entities": [
+        "grace",
+        "rocky"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Grace and Rocky"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "grace",
+          "rocky"
+        ]
+      },
+      "_said": "will. You're right. You know, you have Tony Stark tinkering in a cave by himself. That's the myth, The reality is Grace and Rocky combining data sets from different galactic quadra"
+    },
+    {
+      "fp": "ekw968",
+      "i": 108,
+      "from": 24285,
+      "subject": "Grace and Rocky",
+      "entities": [
+        "grace",
+        "rocky"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Grace and Rocky"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "grace",
+          "rocky"
+        ]
+      },
+      "_said": "voluntary collaboration between Grace and Rocky, we"
+    },
+    {
+      "fp": "s8v663",
+      "i": 109,
+      "from": 24365,
+      "subject": "shadowSelf",
+      "entities": [],
+      "concept": "shadowSelf",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "shadow self"
+      },
+      "antidote": {
+        "concept": "shadowSelf",
+        "cast": []
+      },
+      "_said": "have to acknowledge the dark shadow hanging over all of it. Oh boy, here we go. The Hail"
+    },
+    {
+      "fp": "17dg8bw",
+      "i": 110,
+      "from": 24492,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": null,
+        "cast": []
+      },
+      "_said": "Hail Mary Project wasn't born out of harmony. It was built on authoritarian force. We cannot analyze this text"
+    },
+    {
+      "fp": "1k2v43u",
+      "i": 111,
+      "from": 24681,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": null,
+        "cast": []
+      },
+      "_said": "text without confronting Eva Strat. Strat is terrifying. She really is. She is"
+    },
+    {
+      "fp": "aatbja",
+      "i": 112,
+      "from": 24840,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "is the ultimate trolley problem pragmatist. Oh yeah. The UN gives"
+    },
+    {
+      "fp": "1si0ws0",
+      "i": 113,
+      "from": 24967,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "gives her absolute legally immune authority over the entire"
+    },
+    {
+      "fp": "mii30f",
+      "i": 114,
+      "from": 25106,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "entire She represents utilitarianism pushed to its absolute logical extreme. The philosophy that the most ethical choice is the one that produces the greatest good for the greatest"
+    },
+    {
+      "fp": "1awb8ll",
+      "i": 115,
+      "from": 25464,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "overrides any individual right, any law, and any national sovereignty. I mean,"
+    },
+    {
+      "fp": "hjgve1",
+      "i": 116,
+      "from": 25598,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "mean, she requisitions an entire Chinese aircraft carrier just to use as a mobile, unspyable laboratory. She doesn't ask, she just takes it. Just takes it. When people complain"
+    },
+    {
+      "fp": "15p2iu",
+      "i": 117,
+      "from": 25843,
+      "subject": "Grace — target",
+      "entities": [
+        "grace"
+      ],
+      "concept": "target",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Grace"
+      },
+      "antidote": {
+        "concept": "target",
+        "cast": [
+          "grace"
+        ]
+      },
+      "_said": "complain about international law, she doesn't flinch. She drafts scientists against their will. And obviously, she condemns grace to a suicide mission. Which raises"
+    },
+    {
+      "fp": "1n2fonx",
+      "i": 118,
+      "from": 26071,
+      "subject": "funnelTrap",
+      "entities": [],
+      "concept": "funnelTrap",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "funnel trap"
+      },
+      "antidote": {
+        "concept": "funnelTrap",
+        "cast": []
+      },
+      "_said": "raises a very uncomfortable question for the listener. Does the narrative endorse Strat's methods? I know she is a dictator. She strips away human rights. But fundamentally, withou"
+    },
+    {
+      "fp": "fd820k",
+      "i": 119,
+      "from": 26390,
+      "subject": "Earth — funnelTrap",
+      "entities": [
+        "earth"
+      ],
+      "concept": "funnelTrap",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Earth"
+      },
+      "antidote": {
+        "concept": "funnelTrap",
+        "cast": [
+          "earth"
+        ]
+      },
+      "_said": "ruthless efficiency, the ship never gets built and Earth dies."
+    },
+    {
+      "fp": "11fwl5w",
+      "i": 120,
+      "from": 26515,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "dies. I struggle with this so much. I want to say the book condemns her, but the math doesn't support that. The math says she was right. If she had respected"
+    },
+    {
+      "fp": "hcgbqk",
+      "i": 121,
+      "from": 26786,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "respected Grace's free will, humanity would have gone extinct. But the irony, and this is where Weir's brilliance really shines, is that"
+    },
+    {
+      "fp": "1pmnwzr",
+      "i": 122,
+      "from": 27026,
+      "subject": "lightbulb",
+      "entities": [],
+      "concept": "lightbulb",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "lightbulb"
+      },
+      "antidote": {
+        "concept": "lightbulb",
+        "cast": []
+      },
+      "_said": "that while Strat's authoritarianism got the ship to Taetti, authoritarianism couldn't solve the problem once it got there. Exactly. You cannot force scientific discovery. You canno"
+    },
+    {
+      "fp": "j0mwb",
+      "i": 123,
+      "from": 27381,
+      "subject": "Grace",
+      "entities": [
+        "grace"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Grace"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "grace"
+        ]
+      },
+      "_said": "shift. Strat forced Grace to the starting line, but only his voluntary empathy"
+    },
+    {
+      "fp": "1qw85om",
+      "i": 124,
+      "from": 27508,
+      "subject": "Rocky",
+      "entities": [
+        "rocky"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Rocky"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "rocky"
+        ]
+      },
+      "_said": "empathy and connection with Rocky could actually cross the finish line. And that finish line keeps moving on them. Which brings us to the toba gamble. This is basically"
+    },
+    {
+      "fp": "14j5wzn",
+      "i": 125,
+      "from": 27758,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "basically the Hail Mary within the Hail Mary. In any rigorous scientific endeavor, the solution almost always becomes the new crisis. Yeah. They"
+    },
+    {
+      "fp": "10q0l15",
+      "i": 126,
+      "from": 27972,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "They find the Tamoa. It eats astrophase. It is the cure. But they have a massive problem. The Tamoa can't survive the nitrogen-rich environment it needs to cross to get to the astr"
+    },
+    {
+      "fp": "1cpktzk",
+      "i": 127,
+      "from": 28228,
+      "subject": "Grace",
+      "entities": [
+        "grace"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Grace"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "grace"
+        ]
+      },
+      "_said": "astrophase on Venus. So Grace has to force evolution. He sets up these tiny isolated mini farms on the ship, exposing generations of Tamoa"
+    },
+    {
+      "fp": "1v20rkk",
+      "i": 128,
+      "from": 28483,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Tamoa to increasing levels of nitrogen. It is artificial selection under extreme"
+    },
+    {
+      "fp": "4pgq5f",
+      "i": 129,
+      "from": 28629,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "extreme pressure. He is literally playing God in a test tube trying to breed a strain of the predator that can survive the cure. But biological systems are inherently"
+    },
+    {
+      "fp": "1we5mh1",
+      "i": 130,
+      "from": 28915,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "inherently unpredictable. Evolution doesn't stop just because you've achieved your desired trait."
+    },
+    {
+      "fp": "1owlc5p",
+      "i": 131,
+      "from": 29071,
+      "subject": "Grace",
+      "entities": [
+        "grace"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Grace"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "grace"
+        ]
+      },
+      "_said": "trait. Right? Grace succeeds in making the tomeiba nitrogen resistant, but he inadvertently breeds a mutation."
+    },
+    {
+      "fp": "1an4c3w",
+      "i": 132,
+      "from": 29260,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "mutation. A catastrophic mutation. Yes. The new strain of tomeiba develops the ability to alter its cellular"
+    },
+    {
+      "fp": "1ecxmyv",
+      "i": 133,
+      "from": 29433,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "cellular structure just enough to squeeze through the microscopic molecular gaps in which is the alien material"
+    },
+    {
+      "fp": "2ia1l1",
+      "i": 134,
+      "from": 29616,
+      "subject": "Rocky",
+      "entities": [
+        "rocky"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Rocky"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "rocky"
+        ]
+      },
+      "_said": "material Rocky used to build all their containment vessels. Exactly. So, it breaches containment. The microbe escapes into the"
+    },
+    {
+      "fp": "1hkc06v",
+      "i": 135,
+      "from": 29793,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "the ship's infrastructure and starts eating the astrophase fuel that powers the Hail It's sheer panic."
+    },
+    {
+      "fp": "16b20hr",
+      "i": 136,
+      "from": 29959,
+      "subject": "road",
+      "entities": [],
+      "concept": "road",
+      "place": "hospital",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "road, hospital"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": "hospital",
+        "cast": []
+      },
+      "_said": "panic. Imagine discovering the cure for cancer only to realize the cure is actively eating the steering wheel in the engine of the ambulance you're driving to the hospital. That is"
+    },
+    {
+      "fp": "1ipmqrp",
+      "i": 137,
+      "from": 30288,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "And this mechanical failure forces the ultimate philosophical crisis of the book, the split of the strains."
+    },
+    {
+      "fp": "xrcbr2",
+      "i": 138,
+      "from": 30485,
+      "subject": "Grace and Earth — wallet",
+      "entities": [
+        "grace",
+        "earth"
+      ],
+      "concept": "wallet",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Grace and Earth"
+      },
+      "antidote": {
+        "concept": "wallet",
+        "cast": [
+          "grace",
+          "earth"
+        ]
+      },
+      "_said": "Grace manages to save his ship by isolating the fuel. And he prepares to send the four automated return probes back to Earth with the the ones he famously named,"
+    },
+    {
+      "fp": "1fc28gm",
+      "i": 139,
+      "from": 30789,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "named, John, Paul, George, and Ringo. Right. But then he realizes the fatal flaw in the timeline. They had already shared a batch of"
+    },
+    {
+      "fp": "bkm6v4",
+      "i": 140,
+      "from": 30998,
+      "subject": "Rocky",
+      "entities": [
+        "rocky"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Rocky"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "rocky"
+        ]
+      },
+      "_said": "of the Toibo with Rocky before the two ships parted ways. Which means Rocky's ship, the Blipe, which is built entirely"
+    },
+    {
+      "fp": "pyynp9",
+      "i": 141,
+      "from": 31209,
+      "subject": "Grace",
+      "entities": [
+        "grace"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Grace, runs the orbital mechanics"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "grace"
+        ]
+      },
+      "_said": "entirely out of Zenonite and fueled by astrophase, is currently being eaten him alive from the inside. Yeah, Grace runs the orbital mechanics. This isn't just a"
+    },
+    {
+      "fp": "16ls9dd",
+      "i": 142,
+      "from": 31471,
+      "subject": "Rocky — star",
+      "entities": [
+        "rocky"
+      ],
+      "concept": "star",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Rocky"
+      },
+      "antidote": {
+        "concept": "star",
+        "set": null,
+        "cast": [
+          "rocky"
+        ]
+      },
+      "_said": "a matter of Rocky being stranded. The Blipe is on a hyperbolic Let's unpack that for a moment because it's important. A hyperbolic trajectory means Rocky's ship has exceeded the es"
+    },
+    {
+      "fp": "nhjryc",
+      "i": 143,
+      "from": 31776,
+      "subject": "Rocky",
+      "entities": [
+        "rocky"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Rocky, carry him out into"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "rocky"
+        ]
+      },
+      "_said": "system. Without his main engines, which are now dead because the fuel has been eaten, Rocky cannot decelerate, He cannot alter his course. He is locked into a vector that will carr"
+    },
+    {
+      "fp": "1o4mjic",
+      "i": 144,
+      "from": 32066,
+      "subject": "storm",
+      "entities": [],
+      "concept": "storm",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "storm, reaches arid"
+      },
+      "antidote": {
+        "concept": "storm",
+        "set": null,
+        "cast": []
+      },
+      "_said": "into the freezing void of deep space forever. He will die long before he ever reaches Arid."
+    },
+    {
+      "fp": "1e609r9",
+      "i": 145,
+      "from": 32222,
+      "subject": "Grace — food",
+      "entities": [
+        "grace"
+      ],
+      "concept": "food",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Grace"
+      },
+      "antidote": {
+        "concept": "food",
+        "set": null,
+        "cast": [
+          "grace"
+        ]
+      },
+      "_said": "Arid. So, Grace looks at his own inventory, and the math is brutal. Yeah, he has exactly enough highly caloric human food to survive the trip"
+    },
+    {
+      "fp": "i5q93e",
+      "i": 146,
+      "from": 32491,
+      "subject": "Earth — food",
+      "entities": [
+        "earth"
+      ],
+      "concept": "food",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Earth"
+      },
+      "antidote": {
+        "concept": "food",
+        "set": null,
+        "cast": [
+          "earth"
+        ]
+      },
+      "_said": "trip back to Earth, deliver the cure himself, and be heralded as the greatest hero in human history. Or he has just enough food to turn his ship around, calculate an intercept cour"
+    },
+    {
+      "fp": "ritr0d",
+      "i": 147,
+      "from": 32817,
+      "subject": "road",
+      "entities": [],
+      "concept": "road",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "road"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": null,
+        "cast": []
+      },
+      "_said": "catch up to Rocky's drifting ship, save his friend, and travel with him to Arid. But he does not have enough food to do No. And if he"
+    },
+    {
+      "fp": "ncmmhv",
+      "i": 148,
+      "from": 33024,
+      "subject": "grave",
+      "entities": [],
+      "concept": "grave",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "grave"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": null,
+        "cast": []
+      },
+      "_said": "he goes to Arid, he knows he will starve to death shortly after arriving. Aridian biology is based on heavy metals and extreme heat."
+    },
+    {
+      "fp": "7mr39w",
+      "i": 149,
+      "from": 33230,
+      "subject": "food",
+      "entities": [],
+      "concept": "food",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "food, watched this man operate purely on empirical da"
+      },
+      "antidote": {
+        "concept": "food",
+        "set": null,
+        "cast": []
+      },
+      "_said": "heat. Human biology is carbon based. Their food is completely toxic to him. It's a guaranteed death sentence. For 400 pages, we have watched this man operate purely on empirical da"
+    },
+    {
+      "fp": "uiygsk",
+      "i": 150,
+      "from": 33568,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "intense, hyperrational, mathematically rigorous scientific problem solving. But when he is faced with the ultimate problem, the"
+    },
+    {
+      "fp": "1h99gin",
+      "i": 151,
+      "from": 33756,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "the final answer is purely emotional. It gives me chills every time I think about it."
+    },
+    {
+      "fp": "1xgv9mp",
+      "i": 152,
+      "from": 33866,
+      "subject": "Grace — wallet",
+      "entities": [
+        "grace"
+      ],
+      "concept": "wallet",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Grace"
+      },
+      "antidote": {
+        "concept": "wallet",
+        "cast": [
+          "grace"
+        ]
+      },
+      "_said": "it. Grace, the man who was too cowardly to volunteer to save his own species. The man who had to be sedated"
+    },
+    {
+      "fp": "1uh78j4",
+      "i": 153,
+      "from": 34085,
+      "subject": "Earth — wallet",
+      "entities": [
+        "earth"
+      ],
+      "concept": "wallet",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Earth"
+      },
+      "antidote": {
+        "concept": "wallet",
+        "cast": [
+          "earth"
+        ]
+      },
+      "_said": "sedated and kidnapped because he was so terrified of dying. He launches the automated probes to save Earth. And then completely voluntarily,"
+    },
+    {
+      "fp": "8kmi2u",
+      "i": 154,
+      "from": 34315,
+      "subject": "heart",
+      "entities": [],
+      "concept": "heart",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "heart"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": null,
+        "cast": []
+      },
+      "_said": "voluntarily, he chooses to sacrifice his own life. He turns his ship around to save one single alien friend. He chooses the relationship"
+    },
+    {
+      "fp": "nvh2wq",
+      "i": 155,
+      "from": 34538,
+      "subject": "heart",
+      "entities": [],
+      "concept": "heart",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "heart"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": null,
+        "cast": []
+      },
+      "_said": "relationship over self-preservation. It is the absolute crystallization of the thesis."
+    },
+    {
+      "fp": "16ljltn",
+      "i": 156,
+      "from": 34680,
+      "subject": "home",
+      "entities": [],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "home"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": []
+      },
+      "_said": "thesis. Logic dictated he go home. connection demanded he turn around. Even the most rational man in the universe makes his most important decision with his heart."
+    },
+    {
+      "fp": "1ecg9ue",
+      "i": 157,
+      "from": 34922,
+      "subject": "Weir and Science",
+      "entities": [
+        "weir",
+        "science"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Weir and Science"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "weir",
+          "science"
+        ]
+      },
+      "_said": "heart. It's beautiful. It really is. But I want to push back on this entire premise for a minute. Let's step outside the narrative and look at what Weir is actually arguing about s"
+    },
+    {
+      "fp": "10ys6fa",
+      "i": 158,
+      "from": 35313,
+      "subject": "Grace",
+      "entities": [
+        "grace"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Grace"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "grace"
+        ]
+      },
+      "_said": "about it. Every single problem Grace faces, the language barrier,"
+    },
+    {
+      "fp": "12hle7x",
+      "i": 159,
+      "from": 35397,
+      "subject": "funnelMetrics",
+      "entities": [],
+      "concept": "funnelMetrics",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "funnel metrics"
+      },
+      "antidote": {
+        "concept": "funnelMetrics",
+        "set": null,
+        "cast": []
+      },
+      "_said": "barrier, calculating relativity and time dilation, synthesizing materials, identifying mass conversion rates, they all have a perfectly solvable answer if he just thinks hard enoug"
+    },
+    {
+      "fp": "1bz9dwj",
+      "i": 160,
+      "from": 35748,
+      "subject": "Science",
+      "entities": [
+        "science"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Science"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "science"
+        ]
+      },
+      "_said": "correctly. There's always a right answer. You're pointing out that real science is incredibly messy. Exactly. Real science is"
+    },
+    {
+      "fp": "5r11c5",
+      "i": 161,
+      "from": 35971,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "notes, writing grants to fight"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": []
+      },
+      "_said": "is full of irreproducible results. It's full of dead ends. It's full of massive egos clashing in laboratories and scientists spending 80% of their time writing grants to fight"
+    },
+    {
+      "fp": "31uvt4",
+      "i": 162,
+      "from": 36288,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "war"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "fight for political funding, funding fights and politics that Eva Strat conveniently bypassed with her magic wand of a UN mandate."
+    },
+    {
+      "fp": "15ame72",
+      "i": 163,
+      "from": 36499,
+      "subject": "Weir — gift",
+      "entities": [
+        "weir"
+      ],
+      "concept": "gift",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Weir"
+      },
+      "antidote": {
+        "concept": "gift",
+        "cast": [
+          "weir"
+        ]
+      },
+      "_said": "mandate. Right. And the amnesia bypassed all of Grace's internal biases and human baggage. Weir is giving us a utopian vision of"
+    },
+    {
+      "fp": "fp7ppk",
+      "i": 164,
+      "from": 36761,
+      "subject": "wallet",
+      "entities": [],
+      "concept": "wallet",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "wallet"
+      },
+      "antidote": {
+        "concept": "wallet",
+        "cast": []
+      },
+      "_said": "pure unadulterated scientific collaboration. Yeah, it's a sandbox where you strip away the budget of the politicians and the red tape and you just put"
+    },
+    {
+      "fp": "4l0yra",
+      "i": 165,
+      "from": 36948,
+      "subject": "Science",
+      "entities": [
+        "science"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Science"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "science"
+        ]
+      },
+      "_said": "put two scientists in a room, let them figure things out. it's an idealized version of how science should work rather than how it actually It is highly idealized."
+    },
+    {
+      "fp": "hy07m9",
+      "i": 166,
+      "from": 37226,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "There's no arguing that. But I would argue that its idealized nature is exactly why it resonates so much. It is aspirational. It reminds us of the pure pursuit of knowledge before"
+    },
+    {
+      "fp": "18p03wg",
+      "i": 167,
+      "from": 37545,
+      "subject": "Grace",
+      "entities": [
+        "grace"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Grace, carries right through to the payoff because gra"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "grace"
+        ]
+      },
+      "_said": "before the bureaucracy gets involved. And that aspirational tone carries right through to the payoff because Grace does turn around. He does intercept the blipe. He"
+    },
+    {
+      "fp": "zwivdl",
+      "i": 168,
+      "from": 37795,
+      "subject": "Rocky",
+      "entities": [
+        "rocky"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Rocky"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "rocky"
+        ]
+      },
+      "_said": "He saves Rocky. And against all the biological odds, he survives on Arid. Right."
+    },
+    {
+      "fp": "1lkadhn",
+      "i": 169,
+      "from": 37939,
+      "subject": "food",
+      "entities": [],
+      "concept": "food",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "food"
+      },
+      "antidote": {
+        "concept": "food",
+        "set": null,
+        "cast": []
+      },
+      "_said": "Right. The Aridians being the supreme engineers that they are. Manage to synthesize carbon-based human compatible food for him just in time. He doesn't starve. He lives out his"
+    },
+    {
+      "fp": "7i4w38",
+      "i": 170,
+      "from": 38244,
+      "subject": "heart",
+      "entities": [],
+      "concept": "heart",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "heart"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": null,
+        "cast": []
+      },
+      "_said": "his days on Arid. But I love how he lives. He's not treated like a galactic emperor. He didn't become a billionaire with a book deal. He lives in a specially"
+    },
+    {
+      "fp": "mysvvf",
+      "i": 171,
+      "from": 38421,
+      "subject": "Earth",
+      "entities": [
+        "earth"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Earth"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "earth"
+        ]
+      },
+      "_said": "specially constructed dome with earth gravity and spectrum adjusted lighting because Arid's natural gravity would crush his spine. And it's pitch"
+    },
+    {
+      "fp": "xhss0d",
+      "i": 172,
+      "from": 38611,
+      "subject": "school",
+      "entities": [],
+      "concept": "school",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "school"
+      },
+      "antidote": {
+        "concept": "school",
+        "set": null,
+        "cast": []
+      },
+      "_said": "pitch black outside. he's just an old man hobbling around in this bubble. And he returns to his roots. He goes back to being a teacher. He"
+    },
+    {
+      "fp": "1v810ge",
+      "i": 173,
+      "from": 38822,
+      "subject": "Science — phone",
+      "entities": [
+        "science"
+      ],
+      "concept": "phone",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Science"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": null,
+        "cast": [
+          "science"
+        ]
+      },
+      "_said": "He is teaching basic science to young Aridian It elevates the act of teaching to the highest possible calling. He"
+    },
+    {
+      "fp": "10l7l6u",
+      "i": 174,
+      "from": 39031,
+      "subject": "tree",
+      "entities": [],
+      "concept": "tree",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "tree, leaves us with a truly profound"
+      },
+      "antidote": {
+        "concept": "tree",
+        "set": null,
+        "cast": []
+      },
+      "_said": "He isn't discovering new physics anymore. He is passing the foundational blocks of logic onto the next generation of an entirely different species. Which leaves us with a truly pro"
+    },
+    {
+      "fp": "1cvn53l",
+      "i": 175,
+      "from": 39355,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "profound realization. If humanity ever actually encounters the vast, terrifying unknown of"
+    },
+    {
+      "fp": "w4nfqw",
+      "i": 176,
+      "from": 39552,
+      "subject": "lightbulb",
+      "entities": [],
+      "concept": "lightbulb",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "lightbulb"
+      },
+      "antidote": {
+        "concept": "lightbulb",
+        "cast": []
+      },
+      "_said": "of the universe. Our greatest tool won't be a weapon. And it won't be a lone genius working in a vacuum. Our greatest tool will be our capacity to teach and"
+    },
+    {
+      "fp": "jlufkn",
+      "i": 177,
+      "from": 39842,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "sitting with all"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "and our willingness to be taught. But you know, sitting with all of this, exploring how perfectly their collaboration worked, it actually makes me think about the Fermy paradox."
+    },
+    {
+      "fp": "3pgohg",
+      "i": 178,
+      "from": 40070,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "paradox. Oh, the contradiction between the high probability of extraterrestrial life and the complete lack of evidence for it."
+    },
+    {
+      "fp": "7c8vxs",
+      "i": 179,
+      "from": 40233,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "it. Exactly. We always assume that if the universe is quiet, it's because advanced"
+    },
+    {
+      "fp": "3pxp8x",
+      "i": 180,
+      "from": 40351,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "war"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "advanced civilizations inevitably invent weapons of mass destruction and annihilate The great filter of war. But"
+    },
+    {
+      "fp": "100px4z",
+      "i": 181,
+      "from": 40557,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "But looking at Project Hail Mary, it suggests a different maybe more tragic filter that the universe is full of localized naturally occurring"
+    },
+    {
+      "fp": "48cz9q",
+      "i": 182,
+      "from": 40768,
+      "subject": "Science",
+      "entities": [
+        "science"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Science"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "science"
+        ]
+      },
+      "_said": "occurring existential threats like astrophase. Right? And if science truly is a conversation, if the hardest problems require distributed problem solving across different biologies"
+    },
+    {
+      "fp": "1b3oxyo",
+      "i": 183,
+      "from": 41179,
+      "subject": "Rocky — rocketLaunch",
+      "entities": [
+        "rocky"
+      ],
+      "concept": "rocketLaunch",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Rocky"
+      },
+      "antidote": {
+        "concept": "rocketLaunch",
+        "set": null,
+        "cast": [
+          "rocky"
+        ]
+      },
+      "_said": "from other civilizations isn't because they destroyed themselves with malice. Maybe they just never found their rocky."
+    },
+    {
+      "fp": "93ehvj",
+      "i": 184,
+      "from": 41357,
+      "subject": "Rocky",
+      "entities": [
+        "rocky"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Rocky"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "rocky"
+        ]
+      },
+      "_said": "rocky. Wow. Maybe they faced an apocalypse and they failed simply because they tried to solve it alone."
+    },
+    {
+      "fp": "iu2451",
+      "i": 185,
+      "from": 41515,
+      "subject": "rocketLaunch",
+      "entities": [],
+      "concept": "rocketLaunch",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "rocket launch"
+      },
+      "antidote": {
+        "concept": "rocketLaunch",
+        "set": null,
+        "cast": []
+      },
+      "_said": "alone. A universe of lone geniuses quietly fading out because they never found a lab partner. It's a haunting thought, but it proves the point."
+    },
+    {
+      "fp": "aiqotz",
+      "i": 186,
+      "from": 41760,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ""
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "point. Survival isn't just about intellect. It's about connection."
+    }
+  ]
+}

@@ -116,9 +116,26 @@ if (ENGINE === "antidote") {
   step(0, "VTT ön-kontrol", `node scripts/check-vtt.js --slug=${SLUG} --vtt=${VTT} --audio=${AUDIO} --title=${q(TITLE)} --author=${q(AUTHOR)}`);
   step(0.8, "Art Director (Ön Yapım, Dünya & Varlık Analizi)",
     `node scripts/preproduce.js --slug=${SLUG} --title=${q(TITLE)} --author=${q(AUTHOR)} --genre=${GENRE} --vtt=${VTT}`);
+  // 0.9) READ THE BOOK. One pass over the whole narration -> books/<slug>/story-bible.json
+  // (era + anachronism forbid list, cast with a reusable `look`, real places, the book's own
+  // recurring objects). Everything downstream that knows what a beat is ABOUT is grounded in
+  // this file. Heuristic here; the authored version is `plan-bible.js --emit` -> Claude ->
+  // `--bible`, and an existing story-bible.json is never overwritten.
+  if (!args["skip-plan"] && !fs.existsSync(path.join(ROOT, "books", SLUG, "story-bible.json"))) {
+    step(0.9, "Kitabı oku (story bible: dönem, kadro, mekânlar, nesneler)",
+      `node scripts/plan-bible.js --slug=${SLUG} --vtt=${VTT}`, { optional: true });
+  }
   if (!args["skip-plan"]) {
-    step(1, "Plan (VTT → sahneler, kinetik metin, altyazı) [Antidote]",
-      `node scripts/plan-antidote.js --vtt=${VTT} --slug=${SLUG} --title=${q(TITLE)} --author=${q(AUTHOR)} --genre=${GENRE}${args.until ? ` --until=${args.until}` : ""}`);
+    const APLAN = `node scripts/plan-antidote.js --vtt=${VTT} --slug=${SLUG} --title=${q(TITLE)} --author=${q(AUTHOR)} --genre=${GENRE}${args.until ? ` --until=${args.until}` : ""}`;
+    step(1, "Plan (VTT → sahneler, kinetik metin, altyazı) [Antidote]", APLAN);
+    // 1.2-1.3) Briefs are derived FROM a planned config (they need the final scene
+    // segmentation to fingerprint against), so the plan runs twice: once to segment, once
+    // knowing what each scene is about. Planning is seconds; the second pass is what turns
+    // "an icon picked by rnd(seed + i*7)" into "the icon this sentence is about".
+    step(1.2, "Beat brief'leri (her sahnenin KONUSU)", `node scripts/plan-briefs.js --slug=${SLUG}`, { optional: true });
+    if (fs.existsSync(path.join(ROOT, "books", SLUG, "beat-briefs.json"))) {
+      step(1.3, "Yeniden plan (brief'lerle)", `${APLAN} --briefs=books/${SLUG}/beat-briefs.json`);
+    }
   } else if (!fs.existsSync(path.join(ROOT, ACFG))) {
     console.error(`❌ --skip-plan ama ${ACFG} yok.`); process.exit(1);
   }
@@ -254,12 +271,23 @@ step(0.8, "Art Director (Ön Yapım, Dünya & Varlık Analizi)",
 
 // 1) plan  (--skip-plan keeps an existing hand-directed books/<slug>/config.vox.json;
 //    Claude-first flow: pre-run plan-vox with --emit-beats/--designs, then make-book --skip-plan)
+// 0.9) READ THE BOOK first — see the note on the Antidote branch above.
+if (!args["skip-plan"] && !fs.existsSync(path.join(ROOT, "books", SLUG, "story-bible.json"))) {
+  step(0.9, "Kitabı oku (story bible: dönem, kadro, mekânlar, nesneler)",
+    `node scripts/plan-bible.js --slug=${SLUG} --vtt=${VTT}`, { optional: true });
+}
 if (!args["skip-plan"]) {
-  step(
-    1,
-    "Plan (VTT → beats, arketipler, kelime-senkron, altyazı)",
-    `node scripts/plan-vox.js --vtt=${VTT} --audio=${PLAN_AUDIO} --title=${q(TITLE)} --author=${q(AUTHOR)} --genre=${GENRE} --slug=${SLUG}${args.until ? ` --until=${args.until}` : ""}${args["no-llm"] ? " --no-llm" : ""}${args["use-llm"] ? " --use-llm" : ""}`,
-  );
+  const VPLAN = `node scripts/plan-vox.js --vtt=${VTT} --audio=${PLAN_AUDIO} --title=${q(TITLE)} --author=${q(AUTHOR)} --genre=${GENRE} --slug=${SLUG}${args.until ? ` --until=${args.until}` : ""}${args["no-llm"] ? " --no-llm" : ""}${args["use-llm"] ? " --use-llm" : ""}`;
+  step(1, "Plan (VTT → beats, arketipler, kelime-senkron, altyazı)", VPLAN);
+  // 1.2-1.3) see the Antidote branch: briefs need the plan's own segmentation to
+  // fingerprint against, so the plan runs twice. On the Vox side the payoff is the Flux
+  // prompt — the second pass replaces `keywords(text,3).join(", ")` with a described shot
+  // that reuses the bible's `look`, so a character is the same person in every frame.
+  // It runs BEFORE step 2, so images are generated once, from the good prompts.
+  step(1.2, "Beat brief'leri (her beat'in KONUSU)", `node scripts/plan-briefs.js --slug=${SLUG}`, { optional: true });
+  if (fs.existsSync(path.join(ROOT, "books", SLUG, "beat-briefs.json"))) {
+    step(1.3, "Yeniden plan (brief'lerle)", `${VPLAN} --briefs=books/${SLUG}/beat-briefs.json`);
+  }
 } else {
   if (!fs.existsSync(path.join(ROOT, CFG))) { console.error(`❌ --skip-plan ama ${CFG} yok. Önce plan üret.`); process.exit(1); }
   console.log(`\n── [1] Plan atlandı (--skip-plan) — mevcut ${CFG} kullanılıyor`);

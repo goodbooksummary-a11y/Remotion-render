@@ -1,0 +1,5372 @@
+{
+  "slug": "enders-game",
+  "authored": false,
+  "briefs": [
+    {
+      "fp": "1xrsavx",
+      "i": 0,
+      "from": 0,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "The kid who wiped out an entire alien species wasn't the crulest child in the program. He was the most loving one. That was the whole point."
+    },
+    {
+      "fp": "mrd6yn",
+      "i": 1,
+      "from": 264,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "point. Yeah. And that is just I mean it's the ultimate horrifying paradox at the center of everything we are looking at"
+    },
+    {
+      "fp": "1sffxe0",
+      "i": 2,
+      "from": 475,
+      "subject": "Ender — game",
+      "entities": [
+        "ender"
+      ],
+      "concept": "game",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Ender, 1991"
+      },
+      "antidote": {
+        "concept": "game",
+        "set": null,
+        "cast": [
+          "ender"
+        ]
+      },
+      "_said": "at right? Because you hear the title Ender Game and you know if you're just absorbing the cultural osmosis of it, you probably think it's a standard chosen one narrative. Like a gi"
+    },
+    {
+      "fp": "u2uosd",
+      "i": 3,
+      "from": 751,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "camp for Exactly. He plays zero gravity laser tag and eventually saves the world. But that is absolutely not what we are doing"
+    },
+    {
+      "fp": "1t1htv3",
+      "i": 4,
+      "from": 952,
+      "subject": "gift",
+      "entities": [],
+      "concept": "gift",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "gift, 1991"
+      },
+      "antidote": {
+        "concept": "gift",
+        "cast": []
+      },
+      "_said": "doing for you today. We are not giving you some basic plot recap. No, we are exploring a"
+    },
+    {
+      "fp": "1805y6e",
+      "i": 5,
+      "from": 1106,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "a terrifying societal revelation hidden inside this because to do this deep dive, we are pulling from Orson"
+    },
+    {
+      "fp": "tff9ju",
+      "i": 6,
+      "from": 1325,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Scott Card's original novel, but we are layering that heavily with his retrospective introduction. We're getting"
+    },
+    {
+      "fp": "wqliou",
+      "i": 7,
+      "from": 1490,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, 1991"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "getting into the psychological literature on the weaponization of gifted children, and we're drawing from real world military strategy papers on total war, deterrence, and game the"
+    },
+    {
+      "fp": "p1l5la",
+      "i": 8,
+      "from": 1790,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "intense. Yeah. Because the society we are looking at, this is humanity with its back against the wall, right? They realize"
+    },
+    {
+      "fp": "1nnpzjy",
+      "i": 9,
+      "from": 1958,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, 1991"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "realize something just chilling. The deadliest weapon ever forged isn't a laser. It isn't a bomb. It isn't a fleet of starships. It"
+    },
+    {
+      "fp": "1p6v94e",
+      "i": 10,
+      "from": 2229,
+      "subject": "Understanding — war",
+      "entities": [
+        "understanding"
+      ],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Understanding, 1991"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": [
+          "understanding"
+        ]
+      },
+      "_said": "It is total understanding. Total understanding. To truly comprehend an enemy, to strip away all the mystery and see"
+    },
+    {
+      "fp": "wfi2c7",
+      "i": 11,
+      "from": 2481,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "see the universe exactly as they do is to be able to annihilate them completely. I mean, think about what a military actually needs when facing an"
+    },
+    {
+      "fp": "sih386",
+      "i": 12,
+      "from": 2719,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "an existential alien threat. The brass in this story, they don't need a sociopath. They don't need some mindless raging which is what you'd assume,"
+    },
+    {
+      "fp": "10i27jh",
+      "i": 13,
+      "from": 2981,
+      "subject": "gift",
+      "entities": [],
+      "concept": "gift",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "gift, 1991"
+      },
+      "antidote": {
+        "concept": "gift",
+        "cast": []
+      },
+      "_said": "assume, right? Give us your best killers. Exactly. But no, they need to manufacture a child whose capacity"
+    },
+    {
+      "fp": "12qujsy",
+      "i": 14,
+      "from": 3129,
+      "subject": "heart",
+      "entities": [],
+      "concept": "heart",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "heart, 1991"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": null,
+        "cast": []
+      },
+      "_said": "capacity for empathy is so vast, like so structurally boundless that he can love his enemy And then, and this is the kicker, right? Then they have to hide the trigger, right? They "
+    },
+    {
+      "fp": "ocxce9",
+      "i": 15,
+      "from": 3458,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "mechanism of destruction inside a simulation so that his conscience never gets a vote, never even gets a chance to object. So I want you"
+    },
+    {
+      "fp": "1qjy2u6",
+      "i": 16,
+      "from": 3674,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "hold on to that concept because it is going, 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "you listening right now to really hold on to that concept because it is going to haunt every single thing we discuss today. It is our anchor."
+    },
+    {
+      "fp": "1baxtp",
+      "i": 17,
+      "from": 3933,
+      "subject": "Understanding — heart",
+      "entities": [
+        "understanding"
+      ],
+      "concept": "heart",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Understanding, 1991"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": null,
+        "cast": [
+          "understanding"
+        ]
+      },
+      "_said": "Understanding is the annihilation. Understanding is the annihilation. I love that phrasing. We are going to return to that over and over again because everything that happens"
+    },
+    {
+      "fp": "p0k0s",
+      "i": 18,
+      "from": 4221,
+      "subject": "Ender",
+      "entities": [
+        "ender"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Ender, 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "ender"
+        ]
+      },
+      "_said": "happens to Ender Wigan is engineered to sharpen that specific"
+    },
+    {
+      "fp": "1qyvkqa",
+      "i": 19,
+      "from": 4337,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, 1991"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "specific devastating weapon. And to really grasp how that engineering works, you have to look at the very foundation of his existence."
+    },
+    {
+      "fp": "k5mhmn",
+      "i": 20,
+      "from": 4562,
+      "subject": "Ender — medical",
+      "entities": [
+        "ender"
+      ],
+      "concept": "medical",
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Ender, 1991"
+      },
+      "antidote": {
+        "concept": "medical",
+        "set": null,
+        "cast": [
+          "ender"
+        ]
+      },
+      "_said": "existence. Yeah. You have to put yourself in this room like the atmosphere is completely clinical, totally sterile. Ender is at the doctor and he's only six years old."
+    },
+    {
+      "fp": "y747td",
+      "i": 21,
+      "from": 4785,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "old. Six. Just a little kid. Just a tiny kid. And there is this cold absence on the back of his neck where a little metal device, a monitor, used to be embedded right in his flesh."
+    },
+    {
+      "fp": "1t3ccfw",
+      "i": 22,
+      "from": 5131,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "watching through his eyes, 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "life, the government has been watching through his eyes, hearing through his ears, monitoring his hormone levels, his emotional spikes,"
+    },
+    {
+      "fp": "tvekkz",
+      "i": 23,
+      "from": 5309,
+      "subject": "water",
+      "entities": [],
+      "concept": "water",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "water, 1991"
+      },
+      "antidote": {
+        "concept": "water",
+        "set": null,
+        "cast": []
+      },
+      "_said": "spikes, everything. Yeah. And now the scientists have removed it. So there's this phantom tingling where it used to take up heat from the water when he showered. So he goes back to"
+    },
+    {
+      "fp": "d9pig4",
+      "i": 24,
+      "from": 5592,
+      "subject": "laptopMockup",
+      "entities": [],
+      "concept": "laptopMockup",
+      "place": "classroom",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "laptop mockup, classroom, 1991"
+      },
+      "antidote": {
+        "concept": "laptopMockup",
+        "set": "classroom",
+        "cast": []
+      },
+      "_said": "to school rubbing the back of his neck and he looks at his glowing desk screen in the classroom. And this detail always gets me right because in the corner a word appears. It march"
+    },
+    {
+      "fp": "f543vh",
+      "i": 25,
+      "from": 5916,
+      "subject": "laptopMockup",
+      "entities": [],
+      "concept": "laptopMockup",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "laptop mockup, writes itself, 1991"
+      },
+      "antidote": {
+        "concept": "laptopMockup",
+        "set": null,
+        "cast": []
+      },
+      "_said": "down and backward across the perimeter of the screen until it stops and writes itself. And the word is thr."
+    },
+    {
+      "fp": "njbumj",
+      "i": 26,
+      "from": 6110,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Capital T, capital H, capital I, capital R, capital D, third. And"
+    },
+    {
+      "fp": "13capau",
+      "i": 27,
+      "from": 6295,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "And if you aren't steeped in the lore of this world, you might just brush past that. But being a third isn't a birth order here. I mean, it is, but it's"
+    },
+    {
+      "fp": "wvrhzd",
+      "i": 28,
+      "from": 6528,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "it's really a societal Oh, completely. You are looking at a world with brutally strict population controls. The planet"
+    },
+    {
+      "fp": "hgla1g",
+      "i": 29,
+      "from": 6712,
+      "subject": "law",
+      "entities": [],
+      "concept": "law",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "law, 1991"
+      },
+      "antidote": {
+        "concept": "law",
+        "set": null,
+        "cast": []
+      },
+      "_said": "planet is overcrowded. Resources are thin. Two children are the absolute legal maximum. So, being a third child means your very existence is basically"
+    },
+    {
+      "fp": "1cnxjpi",
+      "i": 30,
+      "from": 6950,
+      "subject": "Ender",
+      "entities": [
+        "ender"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Ender, 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "ender"
+        ]
+      },
+      "_said": "basically illegal. You're a drain on the species unless you are explicitly legally authorized by the which he is, right? Ender isn't a lucky hero who just happened to be born with "
+    },
+    {
+      "fp": "tswbss",
+      "i": 31,
+      "from": 7288,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "is a calculated military equation. The international fleet authorized his birth because they were trying to bake a very specific, very"
+    },
+    {
+      "fp": "du24d0",
+      "i": 32,
+      "from": 7545,
+      "subject": "Peter — family",
+      "entities": [
+        "peter"
+      ],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Peter, 1991"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": [
+          "peter"
+        ]
+      },
+      "_said": "very dangerous cake. I mean, they already had his older brother, Peter, right? The military"
+    },
+    {
+      "fp": "19d8ekk",
+      "i": 33,
+      "from": 7692,
+      "subject": "Peter",
+      "entities": [
+        "peter"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Peter, 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "peter"
+        ]
+      },
+      "_said": "military monitored Peter and saw that he was brilliant,"
+    },
+    {
+      "fp": "1j8ndki",
+      "i": 34,
+      "from": 7773,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "brilliant, unparalleled in his intellect, but he is pure, unadulterated"
+    },
+    {
+      "fp": "h2vmnv",
+      "i": 35,
+      "from": 7951,
+      "subject": "Peter — family",
+      "entities": [
+        "peter"
+      ],
+      "concept": "family",
+      "place": "forest",
+      "confidence": 1,
+      "vox": {
+        "shot": "Peter, watches them die just to feel the power of it, forest, 1991"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": "forest",
+        "cast": [
+          "peter"
+        ]
+      },
+      "_said": "Oh, Peter is terrifying. He is a literal sociopath. He traps squirrels in the woods, skins them alive, and watches them die just to feel the power of it. He threatens to murder his"
+    },
+    {
+      "fp": "17tghg8",
+      "i": 36,
+      "from": 8395,
+      "subject": "Peter — shield",
+      "entities": [
+        "peter"
+      ],
+      "concept": "shield",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Peter, watched peter through his monitor and concluded, 1991"
+      },
+      "antidote": {
+        "concept": "shield",
+        "cast": [
+          "peter"
+        ]
+      },
+      "_said": "own Yeah. So, the military watched Peter through his monitor and concluded, \"Okay, too dangerous. He won't protect humanity. He'll conquer it.\" Rejected. Then they"
+    },
+    {
+      "fp": "1fo0bea",
+      "i": 37,
+      "from": 8635,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, 1991"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": []
+      },
+      "_said": "they had his older sister, Valentine, and she possesses the exact"
+    },
+    {
+      "fp": "1km0rg8",
+      "i": 38,
+      "from": 8738,
+      "subject": "road",
+      "entities": [],
+      "concept": "road",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "road, 1991"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": null,
+        "cast": []
+      },
+      "_said": "exact same staggering intellect, but her core driving force is pure mercy. Pure empathy. Exactly. She wants to soothe, to protect, to understand."
+    },
+    {
+      "fp": "b3cdmm",
+      "i": 39,
+      "from": 9002,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "understand. So military looked at her and realized too soft. When the moment comes to push the button and wipe out a species, she will hesitate, reject it. So they go"
+    },
+    {
+      "fp": "1de1rl8",
+      "i": 40,
+      "from": 9285,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, 1991"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": []
+      },
+      "_said": "go to the parents. And the parents are fascinating, by the way, because they're both hiding these complex"
+    },
+    {
+      "fp": "s452i0",
+      "i": 41,
+      "from": 9444,
+      "subject": "gift",
+      "entities": [],
+      "concept": "gift",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "gift, 1991"
+      },
+      "antidote": {
+        "concept": "gift",
+        "cast": []
+      },
+      "_said": "complex suppressed religious and cultural pasts just to blend into this sterile secular society. And the military says to them, \"Hey, give us one"
+    },
+    {
+      "fp": "j9slq",
+      "i": 42,
+      "from": 9710,
+      "subject": "Ender and Peter",
+      "entities": [
+        "ender",
+        "peter"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Ender and Peter, 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "ender",
+          "peter"
+        ]
+      },
+      "_said": "one It's just one more try.\" Ender is bred specifically to be the exact midpoint between Peter"
+    },
+    {
+      "fp": "17tr1if",
+      "i": 43,
+      "from": 9869,
+      "subject": "Peter",
+      "entities": [
+        "peter"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Peter, 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "peter"
+        ]
+      },
+      "_said": "Peter and Valentine. The fleet wanted their precise fusion. They needed Peter's capacity for absolute violence married seamlessly"
+    },
+    {
+      "fp": "k1ijin",
+      "i": 44,
+      "from": 10104,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "seamlessly to Valentine's deep structural empathy. That is the psychological horror of his childhood right there. He isn't a"
+    },
+    {
+      "fp": "1auwxbm",
+      "i": 45,
+      "from": 10296,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, 1991"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "a boy. He's a lab grown weapon. A genetic roll of the dice demanded by the state. But here is where the friction really starts. The military had the"
+    },
+    {
+      "fp": "1beuxtf",
+      "i": 46,
+      "from": 10531,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "the raw ingredients. The genetic capacity for violence. genetic capacity for deep empathy, but they couldn't guarantee the final product."
+    },
+    {
+      "fp": "e2yibn",
+      "i": 47,
+      "from": 10749,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "product. It's like, it's one thing to have flour and yeast in a bowl. It's entirely another to get bread. You have to subject it to heat. They had to test if the empathy would over"
+    },
+    {
+      "fp": "1yysdop",
+      "i": 48,
+      "from": 11059,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "which would neutralize him, just like Valentine, Or they had to see if the empathy would actually weaponize the violence. They needed to know if he"
+    },
+    {
+      "fp": "6xx8ep",
+      "i": 49,
+      "from": 11294,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, 1991"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "he could understand an enemy perfectly and still destroy them. Okay, wait, wait. Let me jump in here. I hear that. But let's pause and"
+    },
+    {
+      "fp": "buk876",
+      "i": 50,
+      "from": 11513,
+      "subject": "Graph",
+      "entities": [
+        "graph"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Graph, running this whole psychological operation, 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "graph"
+        ]
+      },
+      "_said": "look at Colonel Graph's own words later in the because Graph is the guy running this whole psychological operation."
+    },
+    {
+      "fp": "9t7tmx",
+      "i": 51,
+      "from": 11726,
+      "subject": "puppeteer",
+      "entities": [],
+      "concept": "puppeteer",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "puppeteer, 1991"
+      },
+      "antidote": {
+        "concept": "puppeteer",
+        "cast": []
+      },
+      "_said": "operation. Well, puppet master. Yeah, exactly. And he admits to another officer that their tests quote hardly tell us anything end quote. He basically confesses that they are just "
+    },
+    {
+      "fp": "1g7uanj",
+      "i": 52,
+      "from": 12050,
+      "subject": "Ender — puppeteer",
+      "entities": [
+        "ender"
+      ],
+      "concept": "puppeteer",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Ender, 1991"
+      },
+      "antidote": {
+        "concept": "puppeteer",
+        "cast": [
+          "ender"
+        ]
+      },
+      "_said": "So if Ender is this mathematical certainty, this perfectly engineered savior, why the profound doubt from the man pulling the strings?"
+    },
+    {
+      "fp": "tq49oa",
+      "i": 53,
+      "from": 12271,
+      "subject": "Graph — codeWindow",
+      "entities": [
+        "graph"
+      ],
+      "concept": "codeWindow",
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Graph, 1991"
+      },
+      "antidote": {
+        "concept": "codeWindow",
+        "set": null,
+        "cast": [
+          "graph"
+        ]
+      },
+      "_said": "strings? That's a great point and it's because graph understands the limits of psychological control. You can breed a child for specific traits, sure, but you cannot program a huma"
+    },
+    {
+      "fp": "l0rcdo",
+      "i": 54,
+      "from": 12624,
+      "subject": "Graph",
+      "entities": [
+        "graph"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Graph, 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "graph"
+        ]
+      },
+      "_said": "in. Graph is terrified because he knows the stakes."
+    },
+    {
+      "fp": "1dacrqk",
+      "i": 55,
+      "from": 12705,
+      "subject": "shield",
+      "entities": [],
+      "concept": "shield",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "shield, 1991"
+      },
+      "antidote": {
+        "concept": "shield",
+        "cast": []
+      },
+      "_said": "stakes. If Peter's cruelty takes over, they create a monster. If Valentine's empathy takes over, they create a martyr. The only way to find out which way the scale tips is to remov"
+    },
+    {
+      "fp": "16fx4w5",
+      "i": 56,
+      "from": 13060,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "they take the monitor out. Exactly. The second that device comes off his neck,"
+    },
+    {
+      "fp": "63et5n",
+      "i": 57,
+      "from": 13180,
+      "subject": "shield",
+      "entities": [],
+      "concept": "shield",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "shield, leave him exposed to see what the yeast will, 1991"
+      },
+      "antidote": {
+        "concept": "shield",
+        "cast": []
+      },
+      "_said": "neck, the government stops protecting him. They deliberately leave him exposed to see what the yeast will do when the heat is actually turned up. And man, the heat gets turned up l"
+    },
+    {
+      "fp": "jvkrnw",
+      "i": 58,
+      "from": 13478,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, 1991"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "that afternoon. we really have to look at the bathroom fight with Stillson because this single moment sets the tactical template"
+    },
+    {
+      "fp": "bjxw8n",
+      "i": 59,
+      "from": 13687,
+      "subject": "Ender — school",
+      "entities": [
+        "ender"
+      ],
+      "concept": "school",
+      "place": "classroom",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Ender, classroom, 1991"
+      },
+      "antidote": {
+        "concept": "school",
+        "set": "classroom",
+        "cast": [
+          "ender"
+        ]
+      },
+      "_said": "template for Ender's entire life. Oh, absolutely. The bullies corner Ender after school. Stillson, the ring leader, is shoving him."
+    },
+    {
+      "fp": "1ngts9m",
+      "i": 60,
+      "from": 13891,
+      "subject": "Ender",
+      "entities": [
+        "ender"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Ender, 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "ender"
+        ]
+      },
+      "_said": "him. Ender is six years old, outnumbered, and he realizes instantly that this isn't going to end well. He has no monitor."
+    },
+    {
+      "fp": "1joy8c0",
+      "i": 61,
+      "from": 14112,
+      "subject": "wallet",
+      "entities": [],
+      "concept": "wallet",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "wallet, 1991"
+      },
+      "antidote": {
+        "concept": "wallet",
+        "cast": []
+      },
+      "_said": "monitor. Nobody is coming to save So, what does he do? He laughs. He mocks Stilson's gang,"
+    },
+    {
+      "fp": "qfrqe8",
+      "i": 62,
+      "from": 14282,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone, 1991"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": null,
+        "cast": []
+      },
+      "_said": "gang, calling them out for needing a group to take on one little kid. He bruises"
+    },
+    {
+      "fp": "b2oaw1",
+      "i": 63,
+      "from": 14407,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, 1991"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "bruises Stilson's ego just enough to get the gang to let go of his arms so Stillson can fight him one-on-one. And the second his arms are free,"
+    },
+    {
+      "fp": "ars6go",
+      "i": 64,
+      "from": 14637,
+      "subject": "Ender",
+      "entities": [
+        "ender"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Ender, 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "ender"
+        ]
+      },
+      "_said": "free, Ender kicks Stilson square in the breast bone. It's incredibly fast and just incredibly brutal."
+    },
+    {
+      "fp": "1fz58a0",
+      "i": 65,
+      "from": 14817,
+      "subject": "Ender",
+      "entities": [
+        "ender"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Ender, run away, 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "ender"
+        ]
+      },
+      "_said": "brutal. Stillson drops to the floor, gasping for air. But it's what happens next that really defines him because Ender doesn't run away. He walks"
+    },
+    {
+      "fp": "ctxu3k",
+      "i": 66,
+      "from": 15057,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "walks over to stilson's supine helpless body, 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "walks over to Stilson's supine helpless body and he kicks him again viciously right in the ribs. Then in the crotch. Then his blood is spattering the floor"
+    },
+    {
+      "fp": "175tyfm",
+      "i": 67,
+      "from": 15309,
+      "subject": "Ender",
+      "entities": [
+        "ender"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Ender, 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "ender"
+        ]
+      },
+      "_said": "floor from Stilson's nose. Ender kicks him directly in the It's so hard to read. And as he walks away, looking at the horrified faces of the other bullies,"
+    },
+    {
+      "fp": "acob5c",
+      "i": 68,
+      "from": 15564,
+      "subject": "Ender",
+      "entities": [
+        "ender"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Ender, 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "ender"
+        ]
+      },
+      "_said": "bullies, Ender isn't triumphant. He goes into a corner, slumps against a wall, and he just It is a harrowing scene, especially when you're visualizing"
+    },
+    {
+      "fp": "3t6htv",
+      "i": 69,
+      "from": 15801,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "visualizing a six-year-old doing it. But if we connect this back to the broader military strategy the book is exploring, we see that Ender's violence is never reactive, It is alway"
+    },
+    {
+      "fp": "17vi4jq",
+      "i": 70,
+      "from": 16106,
+      "subject": "Ender",
+      "entities": [
+        "ender"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Ender, 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "ender"
+        ]
+      },
+      "_said": "always preemptive empathy. Preemptive empathy. Yeah. Ender doesn't just look at the bleeding boy on the ground. His brain models"
+    },
+    {
+      "fp": "1h0w2lv",
+      "i": 71,
+      "from": 16332,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "models Stilson's entire future. He models the future of Stillson's gang. He sees the endless grinding loop"
+    },
+    {
+      "fp": "hz1olu",
+      "i": 72,
+      "from": 16550,
+      "subject": "school",
+      "entities": [],
+      "concept": "school",
+      "place": "classroom",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "school, classroom, 1991"
+      },
+      "antidote": {
+        "concept": "school",
+        "set": "classroom",
+        "cast": []
+      },
+      "_said": "loop of bullying, the ambushes that await him every day at school, the constant state of fear, and he makes"
+    },
+    {
+      "fp": "yc3fxt",
+      "i": 73,
+      "from": 16747,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "makes a conscious hyperrational decision to erase that future completely in a single moment of absolute"
+    },
+    {
+      "fp": "1wci6lr",
+      "i": 74,
+      "from": 16939,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "absolute overwhelming destruction. Okay, look, I have to challenge this framing a bit. Go for it."
+    },
+    {
+      "fp": "1vpessd",
+      "i": 75,
+      "from": 17064,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone, 1991"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": null,
+        "cast": []
+      },
+      "_said": "it. Because calling this preemptive empathy feels a little like we're doing PR for a sociopath. I mean, kicking a defenseless kid of the ribs"
+    },
+    {
+      "fp": "1crdbki",
+      "i": 76,
+      "from": 17311,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "ribs and shattering his face when he's already down on the ground. That isn't You don't think so? No. That is raw animal survival instinct. Or honestly,"
+    },
+    {
+      "fp": "1nfkxxk",
+      "i": 77,
+      "from": 17558,
+      "subject": "Peter — phone",
+      "entities": [
+        "peter"
+      ],
+      "concept": "phone",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Peter, 1991"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": null,
+        "cast": [
+          "peter"
+        ]
+      },
+      "_said": "honestly, it's just cruelty leaking through the cracks. It's Peter inside him taking the wheel. How can anyone look at a boy destroying another kid's face and call it empathy? I ge"
+    },
+    {
+      "fp": "czbvsw",
+      "i": 78,
+      "from": 17863,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "notes, writes for him, 1991"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": []
+      },
+      "_said": "completely contradictory until you look at the internal monologue Card writes for him. You're totally right to be repulsed by the action, but look at the deeply analytical why driv"
+    },
+    {
+      "fp": "5h07ht",
+      "i": 79,
+      "from": 18151,
+      "subject": "Ender and Peter — family",
+      "entities": [
+        "ender",
+        "peter"
+      ],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Ender and Peter, 1991"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": [
+          "ender",
+          "peter"
+        ]
+      },
+      "_said": "it. Ender learned a lesson from his brother Peter. Earlier in his life, Peter pinned him to the floor, pressed a knee right into his chest"
+    },
+    {
+      "fp": "1ficpk2",
+      "i": 80,
+      "from": 18401,
+      "subject": "Ender — family",
+      "entities": [
+        "ender"
+      ],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Ender, whispered that he could kill him right then and p, 1991"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": [
+          "ender"
+        ]
+      },
+      "_said": "until Ender couldn't breathe, and whispered that he could kill him right then and pass it off to their parents as an accident."
+    },
+    {
+      "fp": "q95z55",
+      "i": 81,
+      "from": 18576,
+      "subject": "Ender and Peter — crash",
+      "entities": [
+        "ender",
+        "peter"
+      ],
+      "concept": "crash",
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Ender and Peter, 1991"
+      },
+      "antidote": {
+        "concept": "crash",
+        "set": null,
+        "cast": [
+          "ender",
+          "peter"
+        ]
+      },
+      "_said": "accident. Right. The whole I could kill you scene. Yeah. Peter taught Ender a fundamental terrifying truth about their world's survival requires the total"
+    },
+    {
+      "fp": "1r0ioi4",
+      "i": 82,
+      "from": 18845,
+      "subject": "Ender",
+      "entities": [
+        "ender"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Ender, standing over stilson, 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "ender"
+        ]
+      },
+      "_said": "total destruction of the threat. When Ender is standing over Stilson, he isn't enjoying the violence. He is calculating deterrence. He actually says to the gang, quote, \"From then "
+    },
+    {
+      "fp": "t6vix1",
+      "i": 83,
+      "from": 19253,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "So, he's establishing a doctrine of mutually assured destruction, except he's the only one with the nukes."
+    },
+    {
+      "fp": "12qms1k",
+      "i": 84,
+      "from": 19408,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone, 1991"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": null,
+        "cast": []
+      },
+      "_said": "nukes. Precisely. He doesn't fight to win the moment. He fights to win all future moments. And the reason we must call it empathy is because of his reaction afterward. A sociopath"
+    },
+    {
+      "fp": "hdeayy",
+      "i": 85,
+      "from": 19699,
+      "subject": "Ender and Peter",
+      "entities": [
+        "ender",
+        "peter"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Ender and Peter, 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "ender",
+          "peter"
+        ]
+      },
+      "_said": "sociopath like Peter would smile. Ender weeps. He weeps precisely"
+    },
+    {
+      "fp": "1n7euet",
+      "i": 86,
+      "from": 19805,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "precisely because his empathy is so highly functioning that he fully"
+    },
+    {
+      "fp": "1hh6j96",
+      "i": 87,
+      "from": 19908,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "fully understands the physical and psychological pain he just inflicted. He feels the horror of it. He hates that he has to be the monster. But his empathy for his own future self "
+    },
+    {
+      "fp": "w7mc12",
+      "i": 88,
+      "from": 20246,
+      "subject": "Understanding",
+      "entities": [
+        "understanding"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Understanding, 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "understanding"
+        ]
+      },
+      "_said": "his deep psychological understanding of how bullies operate dictates the violence."
+    },
+    {
+      "fp": "1j6n4m9",
+      "i": 89,
+      "from": 20359,
+      "subject": "Understanding",
+      "entities": [
+        "understanding"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Understanding, 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "understanding"
+        ]
+      },
+      "_said": "violence. Understanding is the annihilation. understanding is the It's like he's playing chess, but"
+    },
+    {
+      "fp": "1bymhhk",
+      "i": 90,
+      "from": 20525,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "but he's substituting broken ribs for captured You know, he sees 12 moves ahead,"
+    },
+    {
+      "fp": "1wvbxyl",
+      "i": 91,
+      "from": 20666,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, sit across from him again, 1991"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "ahead, realizes the only way to avoid a drawn out war of attrition is to flip the board so violently, so unpredictably that no one ever wants to sit across from him again. And he d"
+    },
+    {
+      "fp": "tf5m8p",
+      "i": 92,
+      "from": 21021,
+      "subject": "school",
+      "entities": [],
+      "concept": "school",
+      "place": "classroom",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "school, classroom, 1991"
+      },
+      "antidote": {
+        "concept": "school",
+        "set": "classroom",
+        "cast": []
+      },
+      "_said": "later at Battle School with the commander, Bonso Madrid."
+    },
+    {
+      "fp": "12q6lwj",
+      "i": 93,
+      "from": 21086,
+      "subject": "Ender — shield",
+      "entities": [
+        "ender"
+      ],
+      "concept": "shield",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Ender, 1991"
+      },
+      "antidote": {
+        "concept": "shield",
+        "cast": [
+          "ender"
+        ]
+      },
+      "_said": "Madrid. Bonso corners him in the showers to kill him. And Ender doesn't just defend himself. He uses the steam, the soap, the environment, and he breaks Bonso completely to ensure "
+    },
+    {
+      "fp": "e5uqqa",
+      "i": 94,
+      "from": 21475,
+      "subject": "game",
+      "entities": [],
+      "concept": "game",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "game, 1991"
+      },
+      "antidote": {
+        "concept": "game",
+        "set": null,
+        "cast": []
+      },
+      "_said": "reject the parameters of the conflict presented to him, that is the defining trait of his genius. He doesn't just play the game better than"
+    },
+    {
+      "fp": "ro5dyo",
+      "i": 95,
+      "from": 21693,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "than his opponents. He fundamentally alters the rules of engagement, which, you know, brings us out of the gravity"
+    },
+    {
+      "fp": "17qfaqi",
+      "i": 96,
+      "from": 21873,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, 1991"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "gravity of Earth and up into the battle room in space. Oh man, this is where the"
+    },
+    {
+      "fp": "1dy0ens",
+      "i": 97,
+      "from": 22029,
+      "subject": "school",
+      "entities": [],
+      "concept": "school",
+      "place": "classroom",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "school, classroom, 1991"
+      },
+      "antidote": {
+        "concept": "school",
+        "set": "classroom",
+        "cast": []
+      },
+      "_said": "the world building gets so viscerally cool, but also where the psychological themes really lock in. So we are up in the battle school, right?"
+    },
+    {
+      "fp": "17owyy3",
+      "i": 98,
+      "from": 22262,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "right? An orbital station. The trainees, these highly gifted kids, are put into a null gravity"
+    },
+    {
+      "fp": "apbnch",
+      "i": 99,
+      "from": 22447,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "gravity environment for the very first time. It's a massive spherical room. Up is down, left is"
+    },
+    {
+      "fp": "u93hyi",
+      "i": 100,
+      "from": 22634,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "is right. You're just floating in a void filled with scattered obstacles. It's completely disorienting, right? Think about how human beings process space. We"
+    },
+    {
+      "fp": "oh3g2i",
+      "i": 101,
+      "from": 22874,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, 1991"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "We are terrestrial creatures. We need a floor. So, most of the kids entering this room panic. They are trying to fight like they're on a playground. They try to use the walls as fl"
+    },
+    {
+      "fp": "obk8z8",
+      "i": 102,
+      "from": 23186,
+      "subject": "Ender — compass",
+      "entities": [
+        "ender"
+      ],
+      "concept": "compass",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Ender, walked out, 1991"
+      },
+      "antidote": {
+        "concept": "compass",
+        "cast": [
+          "ender"
+        ]
+      },
+      "_said": "orient themselves relative to the corridor they just walked out of. But Ender steps through the gate. He feels that sudden jarring"
+    },
+    {
+      "fp": "o26v4c",
+      "i": 103,
+      "from": 23371,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "jarring physical reorientation where gravity simply ceases to exist."
+    },
+    {
+      "fp": "1pzu4vv",
+      "i": 104,
+      "from": 23484,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "exist. And instead of panicking, his mind just clicks into a sudden crystal clarity. He looks"
+    },
+    {
+      "fp": "1gem41",
+      "i": 105,
+      "from": 23647,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, 1991"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "looks at his soldiers and delivers one of the most famous lines in science fiction. He says, \"The enemy's gate is down."
+    },
+    {
+      "fp": "pr2qo9",
+      "i": 106,
+      "from": 23825,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, 1991"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "down. The enemy's gate is down.\" And it sounds so simple, but when you unpack"
+    },
+    {
+      "fp": "1upxpsh",
+      "i": 107,
+      "from": 23990,
+      "subject": "ledge",
+      "entities": [],
+      "concept": "ledge",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "ledge, 1991"
+      },
+      "antidote": {
+        "concept": "ledge",
+        "set": null,
+        "cast": []
+      },
+      "_said": "unpack the cognitive leap required to do that, it's It is a total paradigm shift."
+    },
+    {
+      "fp": "1p6oo60",
+      "i": 108,
+      "from": 24148,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, 1991"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "shift. Ender's genius in the battle room isn't that his hand eye coordination is better or that he has faster reflexes than the other kids."
+    },
+    {
+      "fp": "3rncae",
+      "i": 109,
+      "from": 24350,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "kids. His superpower is radical Reframing. Yeah. He wins by explicitly, consciously refusing"
+    },
+    {
+      "fp": "1bzxsau",
+      "i": 110,
+      "from": 24554,
+      "subject": "school",
+      "entities": [],
+      "concept": "school",
+      "place": "classroom",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "school, classroom, 1991"
+      },
+      "antidote": {
+        "concept": "school",
+        "set": "classroom",
+        "cast": []
+      },
+      "_said": "refusing the teacher's definition of the problem. The adults built"
+    },
+    {
+      "fp": "1tdrwud",
+      "i": 111,
+      "from": 24648,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, 1991"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "built a three-dimensional box and fully expected the children to fight as if gravity still mattered because adults are trapped in their own rigid ways of"
+    },
+    {
+      "fp": "1tjsggl",
+      "i": 112,
+      "from": 24881,
+      "subject": "Ender — war",
+      "entities": [
+        "ender"
+      ],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Ender, 1991"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": [
+          "ender"
+        ]
+      },
+      "_said": "of Ender realizes immediately that gravity in this room is purely a psychological illusion. By deciding that the enemy's gate, the objective, is down, he literally turns"
+    },
+    {
+      "fp": "lhxi9",
+      "i": 113,
+      "from": 25188,
+      "subject": "ledge",
+      "entities": [],
+      "concept": "ledge",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "ledge, falling into an aggressive attack, 1991"
+      },
+      "antidote": {
+        "concept": "ledge",
+        "set": null,
+        "cast": []
+      },
+      "_said": "turns the passive act of falling into an aggressive attack. But let me play devil's advocate here for"
+    },
+    {
+      "fp": "icsazx",
+      "i": 114,
+      "from": 25327,
+      "subject": "lightbulb",
+      "entities": [],
+      "concept": "lightbulb",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "lightbulb, 1991"
+      },
+      "antidote": {
+        "concept": "lightbulb",
+        "cast": []
+      },
+      "_said": "for a second. Sure. Is that really evidence of deep psychological genius, or is it just extremely high"
+    },
+    {
+      "fp": "zzpyic",
+      "i": 115,
+      "from": 25521,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "high level spatial intelligence? I mean, it's a neat physics trick. You look at kids who play intense 3D video games today. They can adapt to zerog"
+    },
+    {
+      "fp": "1x4el2p",
+      "i": 116,
+      "from": 25742,
+      "subject": "Ender",
+      "entities": [
+        "ender"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Ender, 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "ender"
+        ]
+      },
+      "_said": "zerog mechanics and inverted flight controls incredibly fast. They just remap the X, Y, and Z axis in their heads. Isn't Ender just doing spatial math faster than the others? It is"
+    },
+    {
+      "fp": "13d7ct7",
+      "i": 117,
+      "from": 26037,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "is spatial intelligence, absolutely. But the application of it is an act of psychological rebellion. It proves"
+    },
+    {
+      "fp": "oy9by7",
+      "i": 118,
+      "from": 26213,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, 1991"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "proves that Ender's empathy, his unique ability to understand how a mind works, extends beyond individuals to entire systems and He doesn't just understand his enemy."
+    },
+    {
+      "fp": "1819iit",
+      "i": 119,
+      "from": 26534,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, 1991"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "enemy. He understands the mindset of the game designers. He sees their assumptions and he subverts them. Okay. So, he's looking past the simulation to the people who"
+    },
+    {
+      "fp": "5hr127",
+      "i": 120,
+      "from": 26750,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, 1991"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "who actually programmed it. Yes. Look at the mechanics of the flash suits they wear. When a soldier suit is hit by a laser beam, it freezes."
+    },
+    {
+      "fp": "8kqgqw",
+      "i": 121,
+      "from": 26966,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "freezes. It paralyzes that specific limb. The adults designed this explicitly as a penalty mechanism. You get hit, you lose mobility, you become useless,"
+    },
+    {
+      "fp": "1dgcvng",
+      "i": 122,
+      "from": 27228,
+      "subject": "Ender — war",
+      "entities": [
+        "ender"
+      ],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Ender, 1991"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": [
+          "ender"
+        ]
+      },
+      "_said": "useless, right? That's the rule of the game. But Ender reframes it. During a massive, totally unfair battle where he's outnumbered two to one, he tells his soldiers to freeze their"
+    },
+    {
+      "fp": "1jj8bam",
+      "i": 123,
+      "from": 27597,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Why? Because the frozen, rigid material of the suit can block subsequent lasers. I tells them to tuck their knees up and use their"
+    },
+    {
+      "fp": "taxpki",
+      "i": 124,
+      "from": 27806,
+      "subject": "game",
+      "entities": [],
+      "concept": "game",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "game, 1991"
+      },
+      "antidote": {
+        "concept": "game",
+        "set": null,
+        "cast": []
+      },
+      "_said": "their own paralyzed legs as a physical shield. He turns the game's built-in penalty into tactical armor."
+    },
+    {
+      "fp": "1i2onx5",
+      "i": 125,
+      "from": 28000,
+      "subject": "game",
+      "entities": [],
+      "concept": "game",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "game, 1991"
+      },
+      "antidote": {
+        "concept": "game",
+        "set": null,
+        "cast": []
+      },
+      "_said": "armor. He understands the system better than the architects who built it, and he uses their own rules to break their game. He flips the board again. But here"
+    },
+    {
+      "fp": "421hsv",
+      "i": 126,
+      "from": 28236,
+      "subject": "school",
+      "entities": [],
+      "concept": "school",
+      "place": "classroom",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "school, running the school to force ender's mind to con, classroom, 1991"
+      },
+      "antidote": {
+        "concept": "school",
+        "set": "classroom",
+        "cast": []
+      },
+      "_said": "here is the terrifying reality for the adults running the school to force Ender's mind to constantly operate at this extreme level of tactical subversion. They can never let him fe"
+    },
+    {
+      "fp": "d2ndb7",
+      "i": 127,
+      "from": 28598,
+      "subject": "Graph",
+      "entities": [
+        "graph"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Graph, 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "graph"
+        ]
+      },
+      "_said": "unbearable suffocating pressure, which requires us to look really closely at Colonel Graph. We have to talk about the shuttle ride up to space. The tunnel ride."
+    },
+    {
+      "fp": "15ruvl4",
+      "i": 128,
+      "from": 28788,
+      "subject": "Ender — family",
+      "entities": [
+        "ender"
+      ],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Ender, 1991"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": [
+          "ender"
+        ]
+      },
+      "_said": "ride. Yeah. Ender is just a little kid. He has just said goodbye to his family, specifically Valentine, whom he loves deeply. He is strapped into a seat,"
+    },
+    {
+      "fp": "nkmbya",
+      "i": 129,
+      "from": 29013,
+      "subject": "Graph — rocketLaunch",
+      "entities": [
+        "graph"
+      ],
+      "concept": "rocketLaunch",
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Graph, walking down the aisle, 1991"
+      },
+      "antidote": {
+        "concept": "rocketLaunch",
+        "set": null,
+        "cast": [
+          "graph"
+        ]
+      },
+      "_said": "seat, launching into the unknown, and he is terrified. And Graph, walking down the aisle, starts singling him out, just immediately"
+    },
+    {
+      "fp": "ylqhhf",
+      "i": 130,
+      "from": 29234,
+      "subject": "Ender — target",
+      "entities": [
+        "ender"
+      ],
+      "concept": "target",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Ender, 1991"
+      },
+      "antidote": {
+        "concept": "target",
+        "cast": [
+          "ender"
+        ]
+      },
+      "_said": "immediately putting a target on his right? He praises Ender loudly, mocking the other boys, telling them Ender is the only one with any real brains."
+    },
+    {
+      "fp": "i73cro",
+      "i": 131,
+      "from": 29469,
+      "subject": "Ender and Graph",
+      "entities": [
+        "ender",
+        "graph"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Ender and Graph, 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "ender",
+          "graph"
+        ]
+      },
+      "_said": "brains. Graph intentionally makes the other boys resent him instantly. And Ender with his voice trembling looks at Graph and says, \"I thought you were my friend.\" God, that hurts."
+    },
+    {
+      "fp": "rctaqj",
+      "i": 132,
+      "from": 29753,
+      "subject": "Graph — war",
+      "entities": [
+        "graph"
+      ],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Graph, 1991"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": [
+          "graph"
+        ]
+      },
+      "_said": "hurts. And Graph with this cold, unblinking pragmatism looks down at him and basically says, \"I'm not your friend. My job is to make a weapon.\""
+    },
+    {
+      "fp": "1i5ysze",
+      "i": 133,
+      "from": 29985,
+      "subject": "Ender and Graph — war",
+      "entities": [
+        "ender",
+        "graph"
+      ],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Ender and Graph, reach the station, 1991"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": [
+          "ender",
+          "graph"
+        ]
+      },
+      "_said": "weapon.\" Graph weaponizes loneliness. It is a deliberate, highly calculated pedagogical strategy. Graph turns Ender into a pariah before they even reach the station."
+    },
+    {
+      "fp": "x243sz",
+      "i": 134,
+      "from": 30305,
+      "subject": "Graph — school",
+      "entities": [
+        "graph"
+      ],
+      "concept": "school",
+      "place": "classroom",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Graph, classroom, 1991"
+      },
+      "antidote": {
+        "concept": "school",
+        "set": "classroom",
+        "cast": [
+          "graph"
+        ]
+      },
+      "_said": "station. Throughout Ender's time at school, Graph systematically strips him of every single ally, every commander who shows him favor, every emotional safety net. Well, why?"
+    },
+    {
+      "fp": "1e21w5d",
+      "i": 135,
+      "from": 30554,
+      "subject": "Ender and Graph — shield",
+      "entities": [
+        "ender",
+        "graph"
+      ],
+      "concept": "shield",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Ender and Graph, 1991"
+      },
+      "antidote": {
+        "concept": "shield",
+        "cast": [
+          "ender",
+          "graph"
+        ]
+      },
+      "_said": "why? Because Graph knows human nature. If Ender has friends, if he feels safe, if he feels protected by an adult, he might relax. He might rely on someone else to save him."
+    },
+    {
+      "fp": "1vc316c",
+      "i": 136,
+      "from": 30808,
+      "subject": "Ender and Graph",
+      "entities": [
+        "ender",
+        "graph"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Ender and Graph, 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "ender",
+          "graph"
+        ]
+      },
+      "_said": "him. Graph ensures that the only way Ender can connect with other human beings is by commanding them, outsmarting them, or destroying them."
+    },
+    {
+      "fp": "1czge6b",
+      "i": 137,
+      "from": 30993,
+      "subject": "work",
+      "entities": [],
+      "concept": "work",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "work, 1991"
+      },
+      "antidote": {
+        "concept": "work",
+        "set": null,
+        "cast": []
+      },
+      "_said": "them. It's just so dark. It is cruelty elevated to a teaching philosophy. Grass states it clearly. My job isn't to be friends. My job is to produce the"
+    },
+    {
+      "fp": "1ngmufb",
+      "i": 138,
+      "from": 31291,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone, read those chapters and it just fills you wi, 1991"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": null,
+        "cast": []
+      },
+      "_said": "the best soldiers in the world. I mean, I read those chapters and it just fills you with revulsion. You can dress it up in military jargon. You can call it stress testing, but let'"
+    },
+    {
+      "fp": "1xsfmzd",
+      "i": 139,
+      "from": 31545,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "it is. Systematic child abuse. he is intentionally, methodically destroying a child's psyche. He monitors"
+    },
+    {
+      "fp": "1tu6yjw",
+      "i": 140,
+      "from": 31757,
+      "subject": "medical",
+      "entities": [],
+      "concept": "medical",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "medical, 1991"
+      },
+      "antidote": {
+        "concept": "medical",
+        "set": null,
+        "cast": []
+      },
+      "_said": "monitors Enders depression, sees him breaking down, and just pushes harder."
+    },
+    {
+      "fp": "k4yx4h",
+      "i": 141,
+      "from": 31891,
+      "subject": "Graph",
+      "entities": [
+        "graph"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Graph, 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "graph"
+        ]
+      },
+      "_said": "harder. Isn't Graph just a sadist using the military as a cover for his own twisted desires? It is horrific child abuse. There is no debating that. But what"
+    },
+    {
+      "fp": "pigmc1",
+      "i": 142,
+      "from": 32141,
+      "subject": "Graph",
+      "entities": [
+        "graph"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Graph, 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "graph"
+        ]
+      },
+      "_said": "what makes Graph such a compelling, terrifying figure is his chilling pragmatism. He isn't a sadist because a sadist enjoys the pain. Gra doesn't enjoy. He suffers over it. But you"
+    },
+    {
+      "fp": "sw3916",
+      "i": 143,
+      "from": 32438,
+      "subject": "phone",
+      "entities": [],
+      "concept": "phone",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "phone, 1991"
+      },
+      "antidote": {
+        "concept": "phone",
+        "set": null,
+        "cast": []
+      },
+      "_said": "you have to understand the existential dread driving him. He knows the formics, the buggers as humanity calls them, are coming back. He"
+    },
+    {
+      "fp": "1nzbs4x",
+      "i": 144,
+      "from": 32642,
+      "subject": "Ender and Graph",
+      "entities": [
+        "ender",
+        "graph"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Ender and Graph, 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "ender",
+          "graph"
+        ]
+      },
+      "_said": "He tells Ender they have a million billion ships with weapons humanity can barely comprehend. Graph isolates Ender so completely that Earth and the abstract concept of humanity its"
+    },
+    {
+      "fp": "g7lvty",
+      "i": 145,
+      "from": 32983,
+      "subject": "Ender — war",
+      "entities": [
+        "ender"
+      ],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Ender, 1991"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": [
+          "ender"
+        ]
+      },
+      "_said": "the only thing Ender is fighting to protect. Because if he has specific people he loves, his priorities fracture. Exactly."
+    },
+    {
+      "fp": "choh9t",
+      "i": 146,
+      "from": 33197,
+      "subject": "Ender — school",
+      "entities": [
+        "ender"
+      ],
+      "concept": "school",
+      "place": "classroom",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Ender, classroom, 1991"
+      },
+      "antidote": {
+        "concept": "school",
+        "set": "classroom",
+        "cast": [
+          "ender"
+        ]
+      },
+      "_said": "Exactly. If Ender deeply loves a specific person in the battle school, he might prioritize their individual life over the mission. He might hesitate"
+    },
+    {
+      "fp": "12tjxdz",
+      "i": 147,
+      "from": 33417,
+      "subject": "Graph — war",
+      "entities": [
+        "graph"
+      ],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Graph, 1991"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": [
+          "graph"
+        ]
+      },
+      "_said": "hesitate to sacrifice a friend to win a battle. Graph tells another character that humanity survives by straining and straining and at last every"
+    },
+    {
+      "fp": "1dqr8oe",
+      "i": 148,
+      "from": 33686,
+      "subject": "Graph — gift",
+      "entities": [
+        "graph"
+      ],
+      "concept": "gift",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Graph, 1991"
+      },
+      "antidote": {
+        "concept": "gift",
+        "cast": [
+          "graph"
+        ]
+      },
+      "_said": "every few generations giving birth to genius. Graph is the man who"
+    },
+    {
+      "fp": "uoujn0",
+      "i": 149,
+      "from": 33811,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "who has decided to apply the strain no matter the cost to his own soul or"
+    },
+    {
+      "fp": "1ppwck3",
+      "i": 150,
+      "from": 33943,
+      "subject": "Ender — war",
+      "entities": [
+        "ender"
+      ],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Ender, 1991"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": [
+          "ender"
+        ]
+      },
+      "_said": "or to Ender sanity. He is throwing the boy into a crucible and just cranking the heat until everything burns away except the weapon. And to see the ultimate result of that crucible"
+    },
+    {
+      "fp": "546mxv",
+      "i": 151,
+      "from": 34241,
+      "subject": "Ender",
+      "entities": [
+        "ender"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Ender, 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "ender"
+        ]
+      },
+      "_said": "have to bring Ender back down to earth for a moment. This is for me the most devastating philosophical realization of the entire story. Oh, I know the scene you're talking"
+    },
+    {
+      "fp": "1kkdtzo",
+      "i": 152,
+      "from": 34493,
+      "subject": "Ender — school",
+      "entities": [
+        "ender"
+      ],
+      "concept": "school",
+      "place": "classroom",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Ender, leave before being sent to command school, classroom, 1991"
+      },
+      "antidote": {
+        "concept": "school",
+        "set": "classroom",
+        "cast": [
+          "ender"
+        ]
+      },
+      "_said": "talking Ender is a young teenager now on a brief leave before being sent to command school. He's on a raft drifting on a lake with his"
+    },
+    {
+      "fp": "z24j6f",
+      "i": 153,
+      "from": 34680,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, 1991"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": []
+      },
+      "_said": "his sister Valentine. The dusk is coming on. The heat is thick. Humidity pressing down on them. Sweat is dripping"
+    },
+    {
+      "fp": "1rlbqz7",
+      "i": 154,
+      "from": 34869,
+      "subject": "Ender",
+      "entities": [
+        "ender"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Ender, 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "ender"
+        ]
+      },
+      "_said": "dripping off Valentine. Mosquitoes are hovering in the air. It's so vivid. An ender calmly, casually, without even breaking conversation, crushes the life out of a wasp with a sing"
+    },
+    {
+      "fp": "z2sb43",
+      "i": 155,
+      "from": 35248,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "it, he articulates the core paradox of his entire existence. He says, \"In the moment when I truly"
+    },
+    {
+      "fp": "1xpa4yd",
+      "i": 156,
+      "from": 35409,
+      "subject": "heart",
+      "entities": [],
+      "concept": "heart",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "heart, 1991"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": null,
+        "cast": []
+      },
+      "_said": "truly understand my enemy, understand him well enough to defeat him, then in that very moment, I also love him.\" It is the thesis of his life. Let me say it again because it requir"
+    },
+    {
+      "fp": "6wf7vp",
+      "i": 157,
+      "from": 35712,
+      "subject": "Understanding",
+      "entities": [
+        "understanding"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Understanding, 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "understanding"
+        ]
+      },
+      "_said": "profound contemplation. Understanding is not the opposite of destruction. It is its"
+    },
+    {
+      "fp": "1d6zttb",
+      "i": 158,
+      "from": 35911,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, 1991"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "Let's unpack the incredible psychological weight of that quote. To defeat an enemy, truly defeat them, not just survive"
+    },
+    {
+      "fp": "rvpogt",
+      "i": 159,
+      "from": 36129,
+      "subject": "Ender",
+      "entities": [
+        "ender"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Ender, 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "ender"
+        ]
+      },
+      "_said": "survive them, Ender has to anticipate their every move. To do that, he has to think exactly like them. To think like them, he has to know what they want,"
+    },
+    {
+      "fp": "ramm3m",
+      "i": 160,
+      "from": 36374,
+      "subject": "heart",
+      "entities": [],
+      "concept": "heart",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "heart, 1991"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": null,
+        "cast": []
+      },
+      "_said": "want, what they believe, what they He has to construct a perfect model of their soul inside his own mind. And to do that, he has to love them the way they"
+    },
+    {
+      "fp": "1ckmy0j",
+      "i": 161,
+      "from": 36593,
+      "subject": "heart",
+      "entities": [],
+      "concept": "heart",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "heart, 1991"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": null,
+        "cast": []
+      },
+      "_said": "they love themselves. He has to value what they value. But how does that actually work in practice? I genuinely struggle with this contradiction. How"
+    },
+    {
+      "fp": "113g9pp",
+      "i": 162,
+      "from": 36792,
+      "subject": "heart",
+      "entities": [],
+      "concept": "heart",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "heart, 1991"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": null,
+        "cast": []
+      },
+      "_said": "How can love and annihilation exist in the exact same It's hard to wrap your head around, right? Because if you truly love someone, your biological and emotional instinct is to pro"
+    },
+    {
+      "fp": "1j4v2hu",
+      "i": 163,
+      "from": 37185,
+      "subject": "heart",
+      "entities": [],
+      "concept": "heart",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "heart, 1991"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": null,
+        "cast": []
+      },
+      "_said": "a You're struggling with it because you are defining love in a human, romantic, or familial"
+    },
+    {
+      "fp": "mcdnft",
+      "i": 164,
+      "from": 37329,
+      "subject": "Ender",
+      "entities": [
+        "ender"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Ender, 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "ender"
+        ]
+      },
+      "_said": "familial sense. You're thinking of affection. But Ender is talking about something much more primal. Okay, wait. I think I see it."
+    },
+    {
+      "fp": "eer3j6",
+      "i": 165,
+      "from": 37512,
+      "subject": "heart",
+      "entities": [],
+      "concept": "heart",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "heart, 1991"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": null,
+        "cast": []
+      },
+      "_said": "it. It's not about warmth or affection. It's the love of perfect absolute alignment. It's like, think about how a biological virus works. A virus has to perfectly match"
+    },
+    {
+      "fp": "1ifx71i",
+      "i": 166,
+      "from": 37855,
+      "subject": "game",
+      "entities": [],
+      "concept": "game",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "game, 1991"
+      },
+      "antidote": {
+        "concept": "game",
+        "set": null,
+        "cast": []
+      },
+      "_said": "match the receptors on a host cell to crack it open. The virus has to understand the precise geometry of the cell. It binds to it flawlessly."
+    },
+    {
+      "fp": "19tb2y8",
+      "i": 167,
+      "from": 38093,
+      "subject": "Ender",
+      "entities": [
+        "ender"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Ender, 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "ender"
+        ]
+      },
+      "_said": "flawlessly. That's a great way to look at it. Ender loves his enemies enough to wear their skin to see the universe through their eyes. And the tragedy is the moment he is fully in"
+    },
+    {
+      "fp": "1tesxrq",
+      "i": 168,
+      "from": 38359,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "the moment the connection is absolute and pure. That is the exact moment he knows exactly where their weakest point is. That is when he inserts the knife. That is a phenomenal anal"
+    },
+    {
+      "fp": "1n1mr2m",
+      "i": 169,
+      "from": 38621,
+      "subject": "Understanding",
+      "entities": [
+        "understanding"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Understanding, 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "understanding"
+        ]
+      },
+      "_said": "analogy. Empathy as understanding is the annihilation."
+    },
+    {
+      "fp": "zg8uwn",
+      "i": 170,
+      "from": 38741,
+      "subject": "home",
+      "entities": [],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "home, 1991"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": []
+      },
+      "_said": "annihilation. He builds a home for them in his heart and then he sets the house on fire. And"
+    },
+    {
+      "fp": "tcskkd",
+      "i": 171,
+      "from": 38861,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, 1991"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "this horrifying paradox is the only thing that prepares him for the ultimate enemy, the Formix."
+    },
+    {
+      "fp": "dloovx",
+      "i": 172,
+      "from": 39024,
+      "subject": "school",
+      "entities": [],
+      "concept": "school",
+      "place": "classroom",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "school, classroom, 1991"
+      },
+      "antidote": {
+        "concept": "school",
+        "set": "classroom",
+        "cast": []
+      },
+      "_said": "Because the Formics are not just mindless monsters lurking in the dark of space. They are humanity's mirror. Let's set the scenic command school because this shifts everything. Yea"
+    },
+    {
+      "fp": "1c0qhzs",
+      "i": 173,
+      "from": 39338,
+      "subject": "Ender",
+      "entities": [
+        "ender"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Ender, 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "ender"
+        ]
+      },
+      "_said": "it does. Ender is deep underground on the asteroid aros. He is in complete isolation now, cut off from all other students. He spends his days endlessly studying heavily edited"
+    },
+    {
+      "fp": "zm7dxw",
+      "i": 174,
+      "from": 39633,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "edited classified propaganda videos of the first and second invasions."
+    },
+    {
+      "fp": "1w0e47t",
+      "i": 175,
+      "from": 39761,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, watches the formic fleet, 1991"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "He's staring at holographic light in a dark room, playing the footage forward and just obsessing over it. And he watches the formic fleet. They don't fight like human fighter pilot"
+    },
+    {
+      "fp": "1ycpcg8",
+      "i": 176,
+      "from": 40157,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "massive coordinated organism. Thousands of ships pivoting in the exact"
+    },
+    {
+      "fp": "gy66xw",
+      "i": 177,
+      "from": 40272,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, 1991"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "exact same millisecond without a single rogue ship breaking formation, without a single instance of hesitation or panic. And then Maserkam, the legendary hero of the previous war, "
+    },
+    {
+      "fp": "1tk08t7",
+      "i": 178,
+      "from": 40555,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "is now Ender's secret final tutor, reveals the terrifying truth to him. The Formics are a true hive mind."
+    },
+    {
+      "fp": "19ozzp3",
+      "i": 179,
+      "from": 40783,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "mind. They communicate instantaneously across vast distances through a psychic or quantum link. They function flawlessly as a collective directed by a queen. But because they"
+    },
+    {
+      "fp": "b0t6vw",
+      "i": 180,
+      "from": 41095,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "they are a collective, they lack individual on the-fly improvisation. So it's a strength and a weakness. Exactly."
+    },
+    {
+      "fp": "ugj2c7",
+      "i": 181,
+      "from": 41256,
+      "subject": "Ender",
+      "entities": [
+        "ender"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Ender, 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "ender"
+        ]
+      },
+      "_said": "Exactly. Ender studies this. He absorbs their tactical geometry and he learns to mimic their unity, but he maintains human independence."
+    },
+    {
+      "fp": "1be1jxg",
+      "i": 182,
+      "from": 41510,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Under his command, he becomes a hybrid. His human squadrons operate with the speed and cohesion of a hive mind. But because they are individual humans, they retain the cunning,"
+    },
+    {
+      "fp": "1d9gpb1",
+      "i": 183,
+      "from": 41822,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "cunning, the unpredictable, chaotic edge of independent intelligences."
+    },
+    {
+      "fp": "1ym0qhs",
+      "i": 184,
+      "from": 41947,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "But looking at the formics through this it brings up a massive ethical question. Are the formics truly evil? Oh, it's a huge question."
+    },
+    {
+      "fp": "5gts8e",
+      "i": 185,
+      "from": 42180,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "question. Because when you understand how a hive mind operates biologically, they seem almost tragically misunderstood. They aren't acting out of malice, are they? This is the"
+    },
+    {
+      "fp": "fo764c",
+      "i": 186,
+      "from": 42441,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, 1991"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "the grand sweeping tragic irony of the entire war. Think about the biology of a hive. When a worker bee dies, the hive doesn't mourn."
+    },
+    {
+      "fp": "fff4gz",
+      "i": 187,
+      "from": 42674,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "mourn. The consciousness of the hive is centralized in the queen. The formix likely killed human crews during the first invasions because as a hive mind, they literally could not c"
+    },
+    {
+      "fp": "119i0us",
+      "i": 188,
+      "from": 42986,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "of individual independent conscious minds existing in single bodies. To a formic, destroying a human ship is like clipping"
+    },
+    {
+      "fp": "peu7ot",
+      "i": 189,
+      "from": 43209,
+      "subject": "road",
+      "entities": [],
+      "concept": "road",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "road, 1991"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": null,
+        "cast": []
+      },
+      "_said": "clipping a fingernail or cutting hair. The drone doesn't die because the true consciousness is safely miles away. Oh wow. So when"
+    },
+    {
+      "fp": "1a9hldo",
+      "i": 190,
+      "from": 43457,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "when they encountered humans, they were destroying what they thought were nonsensient biological drones. Exactly. They didn't know"
+    },
+    {
+      "fp": "1sh3psb",
+      "i": 191,
+      "from": 43653,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, 1991"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "know they were committing murder. They thought they were just clearing debris or fighting an automated defense system. The tragedy is a biological"
+    },
+    {
+      "fp": "18ddvup",
+      "i": 192,
+      "from": 43857,
+      "subject": "rocketLaunch",
+      "entities": [],
+      "concept": "rocketLaunch",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "rocket launch, 1991"
+      },
+      "antidote": {
+        "concept": "rocketLaunch",
+        "set": null,
+        "cast": []
+      },
+      "_said": "biological misunderstanding on a cosmic scale. That's heartbreaking. When they finally realized humans were sentient, that every time they killed a human, they were snuffing out a "
+    },
+    {
+      "fp": "wztl3v",
+      "i": 193,
+      "from": 44117,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "unique, irreplaceable consciousness, they stopped. They never attacked again. Wait, they never attacked again? No."
+    },
+    {
+      "fp": "1nw86pw",
+      "i": 194,
+      "from": 44292,
+      "subject": "Ender",
+      "entities": [
+        "ender"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Ender, 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "ender"
+        ]
+      },
+      "_said": "No. But humanity didn't know that. Humanity just saw monsters who slaughtered millions. And Ender is the only human being whose empathy is vast enough to eventually bridge"
+    },
+    {
+      "fp": "1mvnyfg",
+      "i": 195,
+      "from": 44575,
+      "subject": "Graph",
+      "entities": [
+        "graph"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Graph, 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "graph"
+        ]
+      },
+      "_said": "bridge that alien gap, to understand them well enough to see that tragedy. Which brings us to the climax of the book. The moment where the trap graph has spent years building final"
+    },
+    {
+      "fp": "r9pu8v",
+      "i": 196,
+      "from": 44887,
+      "subject": "school",
+      "entities": [],
+      "concept": "school",
+      "place": "classroom",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "school, classroom, 1991"
+      },
+      "antidote": {
+        "concept": "school",
+        "set": "classroom",
+        "cast": []
+      },
+      "_said": "shut on Ender's mind. The final deception. We are at command school."
+    },
+    {
+      "fp": "19alch4",
+      "i": 197,
+      "from": 45012,
+      "subject": "Ender — school",
+      "entities": [
+        "ender"
+      ],
+      "concept": "school",
+      "place": "classroom",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Ender, run absolutely ragged, classroom, 1991"
+      },
+      "antidote": {
+        "concept": "school",
+        "set": "classroom",
+        "cast": [
+          "ender"
+        ]
+      },
+      "_said": "school. Ender has been run absolutely ragged. He is deprived of sleep, pushed beyond the limits of human physical and psychological endurance through endless grueling simulator"
+    },
+    {
+      "fp": "lgaw7l",
+      "i": 198,
+      "from": 45331,
+      "subject": "ledge",
+      "entities": [],
+      "concept": "ledge",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "ledge, falling apart, 1991"
+      },
+      "antidote": {
+        "concept": "ledge",
+        "set": null,
+        "cast": []
+      },
+      "_said": "simulator He's practically falling apart. He is commanding his squadron leaders via headsets."
+    },
+    {
+      "fp": "1r55asw",
+      "i": 199,
+      "from": 45473,
+      "subject": "Ender — war",
+      "entities": [
+        "ender"
+      ],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Ender, 1991"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": [
+          "ender"
+        ]
+      },
+      "_said": "headsets. Today is his final examination. Ma Rakom tells him this is the ultimate test. Ender is facing impossible odds on the holographic display. The enemy"
+    },
+    {
+      "fp": "12xm4v3",
+      "i": 200,
+      "from": 45746,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, 1991"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "enemy outnumbers him massively. So in a moment of desperate exhaustion, he uses the doctor device, the molecular detachment device, and fires it directly at"
+    },
+    {
+      "fp": "isjbm9",
+      "i": 201,
+      "from": 46003,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, 1991"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "at the simulated enemy And we need to explain what that weapon is because it's horrifying. The MB device doesn't just blow things up. It creates a field that breaks down"
+    },
+    {
+      "fp": "1b93y3t",
+      "i": 202,
+      "from": 46233,
+      "subject": "game",
+      "entities": [],
+      "concept": "game",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "game, 1991"
+      },
+      "antidote": {
+        "concept": "game",
+        "set": null,
+        "cast": []
+      },
+      "_said": "down the molecular bonds of matter. It's devast. It turns matter into energy and that energy fuels the field making it expand. As long as there is matter"
+    },
+    {
+      "fp": "1lfqycf",
+      "i": 203,
+      "from": 46478,
+      "subject": "game",
+      "entities": [],
+      "concept": "game",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "game, 1991"
+      },
+      "antidote": {
+        "concept": "game",
+        "set": null,
+        "cast": []
+      },
+      "_said": "matter to consume, the field grows. So by firing it at a planet, he doesn't just crack the crust. He causes a chain reaction that unravels the entire globe"
+    },
+    {
+      "fp": "1y9bc7",
+      "i": 204,
+      "from": 46766,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "globe at a molecular level. Yeah. The simulated planet glows hot on the display and then breaks apart into a cloud of silent debris."
+    },
+    {
+      "fp": "19y8fnc",
+      "i": 205,
+      "from": 46994,
+      "subject": "Ender",
+      "entities": [
+        "ender"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Ender, 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "ender"
+        ]
+      },
+      "_said": "debris. Ender takes off his headphones. He is in absolute exhaustion. He expects another lecture"
+    },
+    {
+      "fp": "9l5qys",
+      "i": 206,
+      "from": 47150,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "lecture from Maserakom. another harsh critique of his reckless performance. Instead, the room is dead silent. And then he hears weeping. He hears cheers. He hears the frantic,"
+    },
+    {
+      "fp": "1xy27hh",
+      "i": 207,
+      "from": 47457,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "standing behind him in the the ultimate moral en, 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "frantic, overwhelmed prayers of the hardened military men standing behind him in the The ultimate moral engine of the book is revealed right here."
+    },
+    {
+      "fp": "1fr8r5v",
+      "i": 208,
+      "from": 47685,
+      "subject": "school",
+      "entities": [],
+      "concept": "school",
+      "place": "classroom",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "school, classroom, 1991"
+      },
+      "antidote": {
+        "concept": "school",
+        "set": "classroom",
+        "cast": []
+      },
+      "_said": "here. Command school simulations were the real war the whole time. He wasn't playing a game. He was remotely"
+    },
+    {
+      "fp": "1jo5jkz",
+      "i": 209,
+      "from": 47832,
+      "subject": "laptopMockup",
+      "entities": [],
+      "concept": "laptopMockup",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "laptop mockup, 1991"
+      },
+      "antidote": {
+        "concept": "laptopMockup",
+        "set": null,
+        "cast": []
+      },
+      "_said": "remotely commanding the actual human fleet via faster than light Every ship on that screen was real."
+    },
+    {
+      "fp": "9zl4gf",
+      "i": 210,
+      "from": 48007,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, 1991"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": []
+      },
+      "_said": "real. Every human pilot who died following his orders was a real person with a family. And the planet he just completely shattered wasn't a digital construct. It was formic home wo"
+    },
+    {
+      "fp": "veqz5r",
+      "i": 211,
+      "from": 48307,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "committed Xanocide. He wiped out an entire intelligent species. And the adults hid the truth from him because they knew that if he knew it was real, his"
+    },
+    {
+      "fp": "1ohw2qv",
+      "i": 212,
+      "from": 48564,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "his conscience, that deep structural empathy Valentine gave him, would have refused to pull the trigger. His guilt was deliberately systematically outsourced by the state. And if"
+    },
+    {
+      "fp": "1chj4jm",
+      "i": 213,
+      "from": 48864,
+      "subject": "Graph",
+      "entities": [
+        "graph"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Graph, 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "graph"
+        ]
+      },
+      "_said": "if you look at Ender's internal thought process during that final test, it proves Graph was entirely undeniably right to lie to him. How so?"
+    },
+    {
+      "fp": "17uynhw",
+      "i": 214,
+      "from": 49108,
+      "subject": "Ender — laptopMockup",
+      "entities": [
+        "ender"
+      ],
+      "concept": "laptopMockup",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Ender, 1991"
+      },
+      "antidote": {
+        "concept": "laptopMockup",
+        "set": null,
+        "cast": [
+          "ender"
+        ]
+      },
+      "_said": "so? Ender is looking at the impossible odds on the screen, the swarms of enemy ships, and he thinks, quote, \"If I break this rule, if I"
+    },
+    {
+      "fp": "1i4oown",
+      "i": 215,
+      "from": 49334,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "I just sacrifice my entire fleet to blow up the planet, they'll never let me"
+    },
+    {
+      "fp": "vlvr1f",
+      "i": 216,
+      "from": 49440,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, 1991"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "me be a commander. I'll never have to play a game again.\" And that is Oh my god. He didn't fire the weapon to win the war. He fired it to intentionally fail the test. Yes."
+    },
+    {
+      "fp": "1h6nlwf",
+      "i": 217,
+      "from": 49730,
+      "subject": "school",
+      "entities": [],
+      "concept": "school",
+      "place": "classroom",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "school, classroom, 1991"
+      },
+      "antidote": {
+        "concept": "school",
+        "set": "classroom",
+        "cast": []
+      },
+      "_said": "Yes. He committed genocide because he wanted to get kicked out of school so he could finally sleep. That is"
+    },
+    {
+      "fp": "v477zd",
+      "i": 218,
+      "from": 49857,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "is the ultimate betrayal of a child. It is sickening. They took the best parts of him, his empathy, his desire for peace, his longing for rest, and they hijacked them."
+    },
+    {
+      "fp": "1vn4iw5",
+      "i": 219,
+      "from": 50138,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "them. They weaponized his own exhaustion. They made him a mass murderer against his will. I agree completely. It is morally abhorentt. But you have to look at"
+    },
+    {
+      "fp": "yhw49e",
+      "i": 220,
+      "from": 50405,
+      "subject": "Ender",
+      "entities": [
+        "ender"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Ender, 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "ender"
+        ]
+      },
+      "_said": "at the terrifying logic of the adults. If Ender knew it was real, his infinite empathy would have made him hesitate. He would have recognized"
+    },
+    {
+      "fp": "1whhnlh",
+      "i": 221,
+      "from": 50616,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "recognized the Formic movements not as aggression but as defensive posturing because he understands them, right? He would have tried to communicate. He would have looked for anothe"
+    },
+    {
+      "fp": "31k9cw",
+      "i": 222,
+      "from": 50940,
+      "subject": "grave",
+      "entities": [],
+      "concept": "grave",
+      "place": "forest",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "grave, waiting for a diplomatic breakthrough, forest, 1991"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": "forest",
+        "cast": []
+      },
+      "_said": "humanity from Graph's perspective might have died waiting for a diplomatic breakthrough that was biologically impossible to achieve in So they needed a killer who wasn't a"
+    },
+    {
+      "fp": "tk87o0",
+      "i": 223,
+      "from": 51228,
+      "subject": "Peter — war",
+      "entities": [
+        "peter"
+      ],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Peter, 1991"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": [
+          "peter"
+        ]
+      },
+      "_said": "a Because the sociopath like Peter can't understand the enemy deeply enough"
+    },
+    {
+      "fp": "riy15t",
+      "i": 224,
+      "from": 51348,
+      "subject": "Peter — war",
+      "entities": [
+        "peter"
+      ],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Peter, 1991"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": [
+          "peter"
+        ]
+      },
+      "_said": "enough to outmaneuver their hive mind tactics. Peter would have just thrown ships at them. So they manufactured the perfect weapon, a child with boundless"
+    },
+    {
+      "fp": "nlyjhx",
+      "i": 225,
+      "from": 51578,
+      "subject": "heart",
+      "entities": [],
+      "concept": "heart",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "heart, 1991"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": null,
+        "cast": []
+      },
+      "_said": "boundless empathy, and then they tricked him into firing it. They hid the knife in a video game so his love could never stop his hand. And"
+    },
+    {
+      "fp": "yr8d5f",
+      "i": 226,
+      "from": 51787,
+      "subject": "funnelMetrics",
+      "entities": [],
+      "concept": "funnelMetrics",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "funnel metrics, holding it, 1991"
+      },
+      "antidote": {
+        "concept": "funnelMetrics",
+        "set": null,
+        "cast": []
+      },
+      "_said": "And the weight of that knife, once he realizes he is actually holding it, completely destroys him. Which leads us"
+    },
+    {
+      "fp": "z8n9p3",
+      "i": 227,
+      "from": 51988,
+      "subject": "Ender — crack",
+      "entities": [
+        "ender"
+      ],
+      "concept": "crack",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Ender, 1991"
+      },
+      "antidote": {
+        "concept": "crack",
+        "cast": [
+          "ender"
+        ]
+      },
+      "_said": "us to the aftermath and why the sequel concept Speaker for the dead is the only possible answer for Ender Shattered Soul. I want to pivot here to a real world scene from Orson"
+    },
+    {
+      "fp": "1e4ts6o",
+      "i": 228,
+      "from": 52291,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Orson Scottard's 1991 introduction to the novel because it grounds this sci-fi concept in stark"
+    },
+    {
+      "fp": "6fojkr",
+      "i": 229,
+      "from": 52516,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "stark It's a really profound piece of context."
+    },
+    {
+      "fp": "v9rnz3",
+      "i": 230,
+      "from": 52581,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, sitting in the cockpit of a huey helicopter, 1991"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "context. That's 1991. The Gulf War is looming. An 18-year-old army warn officer sitting in the cockpit of a Huey helicopter in a sandstorm in Saudi Arabia, waiting for the"
+    },
+    {
+      "fp": "hj0pe",
+      "i": 231,
+      "from": 52867,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "notes, writing a letter to the author, 1991"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": []
+      },
+      "_said": "the ground invasion to begin. He is writing a letter to the author. He says he feels like a bastard of military aviation, flying outdated equipment, essentially just waiting to die"
+    },
+    {
+      "fp": "1hffsrq",
+      "i": 232,
+      "from": 53241,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "he tells Card that he is hungering for a speaker for the dead. He feels the acute"
+    },
+    {
+      "fp": "xk2pb9",
+      "i": 233,
+      "from": 53359,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "notes, 1991"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": []
+      },
+      "_said": "acute crushing weight of being a tiny cog used by a massive military system, and he wants someone to speak the truth of his life if he dies in that And that realworld letter connec"
+    },
+    {
+      "fp": "euaub6",
+      "i": 234,
+      "from": 53678,
+      "subject": "Ender",
+      "entities": [
+        "ender"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Ender, 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "ender"
+        ]
+      },
+      "_said": "deeply to Ender's final choice in the narrative. The empathy that made Ender the ultimate destroyer is the only thing large enough,"
+    },
+    {
+      "fp": "1tif6ze",
+      "i": 235,
+      "from": 53885,
+      "subject": "Ender — road",
+      "entities": [
+        "ender"
+      ],
+      "concept": "road",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Ender, carry the infinite guilt of what he did, 1991"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": null,
+        "cast": [
+          "ender"
+        ]
+      },
+      "_said": "enough, resilient enough to carry the infinite guilt of what he did. In the epilogue, Ender travels to one of the colonized formic worlds"
+    },
+    {
+      "fp": "1343ydn",
+      "i": 236,
+      "from": 54117,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "worlds and he discovers a dormant formic queen cocoon that they had hidden away for him to find. The hive queen communicates with him telepathically. She shows him their"
+    },
+    {
+      "fp": "ye91cj",
+      "i": 237,
+      "from": 54401,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "their She confirmed it all. She confirms that they had realized humans were sentient, that they had decided never to attack again. And most importantly,"
+    },
+    {
+      "fp": "1dfgmxq",
+      "i": 238,
+      "from": 54628,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "importantly, she forgives him because she saw into his mind and realized he was tricked."
+    },
+    {
+      "fp": "xccfb5",
+      "i": 239,
+      "from": 54732,
+      "subject": "Ender — notes",
+      "entities": [
+        "ender"
+      ],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Ender, writes a book under, 1991"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": [
+          "ender"
+        ]
+      },
+      "_said": "tricked. Ender realizes he must become the speaker for the dead to find He writes a book under"
+    },
+    {
+      "fp": "1c4q6vo",
+      "i": 240,
+      "from": 54909,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "under the pseudonym speaker for the dead, telling the true story of the Formix. He doesn't paint them as monsters. He paints them as a tragic species caught in a cosmic"
+    },
+    {
+      "fp": "15vg05o",
+      "i": 241,
+      "from": 55173,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, 1991"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "cosmic misunderstanding. He speaks for the very enemy he destroyed. And you think about those real world readers, the isolated gifted kids who"
+    },
+    {
+      "fp": "14oyugw",
+      "i": 242,
+      "from": 55373,
+      "subject": "Ender — notes",
+      "entities": [
+        "ender"
+      ],
+      "concept": "notes",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Ender, sitting in sandstorms, 1991"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": null,
+        "cast": [
+          "ender"
+        ]
+      },
+      "_said": "who wrote Deard, the soldier sitting in sandstorms. They didn't pity Ender. They were Ender. They understood perfectly. They understood what it meant to carry the weight of an iden"
+    },
+    {
+      "fp": "uggrfv",
+      "i": 243,
+      "from": 55759,
+      "subject": "road",
+      "entities": [],
+      "concept": "road",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "road, leaves human civilization with valentine, 1991"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": null,
+        "cast": []
+      },
+      "_said": "leaves human civilization with Valentine. He boards a shift to wander the stars,"
+    },
+    {
+      "fp": "1yct6hh",
+      "i": 244,
+      "from": 55888,
+      "subject": "shield",
+      "entities": [],
+      "concept": "shield",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "shield, 1991"
+      },
+      "antidote": {
+        "concept": "shield",
+        "cast": []
+      },
+      "_said": "stars, looking for a safe place to let the hive queen hatch, desperately trying to learn who he actually is outside"
+    },
+    {
+      "fp": "1nrwffu",
+      "i": 245,
+      "from": 56093,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "of the military's But we have to ask a difficult question here."
+    },
+    {
+      "fp": "1tq9lt2",
+      "i": 246,
+      "from": 56217,
+      "subject": "Ender",
+      "entities": [
+        "ender"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Ender, carries the guilt of a species, 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "ender"
+        ]
+      },
+      "_said": "here. Does framing Ender as a tragic speaker who carries the guilt of a species"
+    },
+    {
+      "fp": "1iaprmm",
+      "i": 247,
+      "from": 56356,
+      "subject": "Ender",
+      "entities": [
+        "ender"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Ender, sit with here, 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "ender"
+        ]
+      },
+      "_said": "species romanticize what he did? That is the uncomfortable tension we have to sit with here. I struggle with this a lot. Does the book let Ender off too easily?"
+    },
+    {
+      "fp": "1lbrpe7",
+      "i": 248,
+      "from": 56611,
+      "subject": "Ender — shield",
+      "entities": [
+        "ender"
+      ],
+      "concept": "shield",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "Ender, 1991"
+      },
+      "antidote": {
+        "concept": "shield",
+        "cast": [
+          "ender"
+        ]
+      },
+      "_said": "easily? Because if you look critically at the structure of the narrative, every single atrocity Ender commits is heavily insulated by deception or self-defense. Right?"
+    },
+    {
+      "fp": "k92hgj",
+      "i": 249,
+      "from": 56848,
+      "subject": "shield",
+      "entities": [],
+      "concept": "shield",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "shield, 1991"
+      },
+      "antidote": {
+        "concept": "shield",
+        "cast": []
+      },
+      "_said": "Right? He kills Stilson. It was self-defense. He had no monitor. He kills Bonso in the showers. Self-defense. Bonso is going to murder him. He wipes out the entire formic species. "
+    },
+    {
+      "fp": "1p2j6yg",
+      "i": 250,
+      "from": 57125,
+      "subject": "laptopMockup",
+      "entities": [],
+      "concept": "laptopMockup",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "laptop mockup, 1991"
+      },
+      "antidote": {
+        "concept": "laptopMockup",
+        "set": null,
+        "cast": []
+      },
+      "_said": "was just a computer game. By ensuring that every act of extreme violence is manipulated by the adults or forced by bullies, the author"
+    },
+    {
+      "fp": "1djoh1h",
+      "i": 251,
+      "from": 57321,
+      "subject": "Ender",
+      "entities": [
+        "ender"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Ender, carry infinite empathy and zero true culpabil, 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "ender"
+        ]
+      },
+      "_said": "author allows Ender to carry infinite empathy and zero true culpability. Exactly. You can read this as the ultimate power fantasy dressed up as a tragedy."
+    },
+    {
+      "fp": "1dn0fhl",
+      "i": 252,
+      "from": 57590,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "tragedy. It's the clean hands fantasy. You get to be the undisputed badass who destroys everyone who crosses you, the apex predator of the universe, but you get to retain the pure "
+    },
+    {
+      "fp": "1p8yvfz",
+      "i": 253,
+      "from": 57916,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "a victim. Yeah. Look what you made me do. It can function as an alibi for atrocity."
+    },
+    {
+      "fp": "izje4a",
+      "i": 254,
+      "from": 58092,
+      "subject": "puppeteer",
+      "entities": [],
+      "concept": "puppeteer",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "puppeteer, 1991"
+      },
+      "antidote": {
+        "concept": "puppeteer",
+        "cast": []
+      },
+      "_said": "atrocity. I was manipulated. I had no choice. That tension is undeniable and you are right to point it out. It is a very valid critique. But I would argue that this precise tension"
+    },
+    {
+      "fp": "yfrllh",
+      "i": 255,
+      "from": 58406,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "is a masterpiece and why we are still analyzing it decades later. How so?"
+    },
+    {
+      "fp": "1mbbbwh",
+      "i": 256,
+      "from": 58543,
+      "subject": "gift",
+      "entities": [],
+      "concept": "gift",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "gift, 1991"
+      },
+      "antidote": {
+        "concept": "gift",
+        "cast": []
+      },
+      "_said": "so? It doesn't give you an easy out. It forces you, the reader, to ask the hard ethical questions. Is being the tool of a genocide any better than"
+    },
+    {
+      "fp": "t8pu4s",
+      "i": 257,
+      "from": 58816,
+      "subject": "sword",
+      "entities": [],
+      "concept": "sword",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "sword, 1991"
+      },
+      "antidote": {
+        "concept": "sword",
+        "cast": []
+      },
+      "_said": "than being the architect of it? If a sword is used to slaughter a village, do we blame the sword? But what if the sword has a soul? What if the sword weeps?"
+    },
+    {
+      "fp": "1ft4o2m",
+      "i": 258,
+      "from": 59033,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "weeps? that's a haunting image, 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "weeps? That's a haunting image. Ender's atonement isn't an eraser of his crime. The empathy that allowed him to destroy the buggers is now the only vessel large enough"
+    },
+    {
+      "fp": "cwcjb2",
+      "i": 259,
+      "from": 59292,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "carries the physical and spiritual ghost, 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "enough to remember them. He literally carries the physical and spiritual ghost of an entire"
+    },
+    {
+      "fp": "zg8dsd",
+      "i": 260,
+      "from": 59433,
+      "subject": "road",
+      "entities": [],
+      "concept": "road",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "road, 1991"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": null,
+        "cast": []
+      },
+      "_said": "entire species in his hands as he wanders the universe. So, as we wrap our minds around all of this, what does this all mean for us? You know, we spend so much time focusing"
+    },
+    {
+      "fp": "1oze4o1",
+      "i": 261,
+      "from": 59695,
+      "subject": "Ender — target",
+      "entities": [
+        "ender"
+      ],
+      "concept": "target",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Ender, 1991"
+      },
+      "antidote": {
+        "concept": "target",
+        "cast": [
+          "ender"
+        ]
+      },
+      "_said": "focusing on Ender. We focus on his childhood trauma, his tactical brilliance, his tragic burden. But the scariest line in the book doesn't belong to Ender. It belongs to the adults"
+    },
+    {
+      "fp": "1fo1ml",
+      "i": 262,
+      "from": 59995,
+      "subject": "Graph",
+      "entities": [
+        "graph"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "Graph, 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "graph"
+        ]
+      },
+      "_said": "adults, to Colonel Graph, to Maakom."
+    },
+    {
+      "fp": "15te22x",
+      "i": 263,
+      "from": 60091,
+      "subject": "heart",
+      "entities": [],
+      "concept": "heart",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "heart, 1991"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": null,
+        "cast": []
+      },
+      "_said": "Maakom. They built a child who could love the enemy deeply enough to end them. And then they hid the knife in a video game so his love could never stop his hand. The real game was"
+    },
+    {
+      "fp": "cgo4qu",
+      "i": 264,
+      "from": 60314,
+      "subject": "game",
+      "entities": [],
+      "concept": "game",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "game, 1991"
+      },
+      "antidote": {
+        "concept": "game",
+        "set": null,
+        "cast": []
+      },
+      "_said": "was never Ender's game. It was our game. It's the terrifying, unanswerable question of humanity staring back at us from the mirror, challenging every parent, every general, every c"
+    },
+    {
+      "fp": "la6djz",
+      "i": 265,
+      "from": 60626,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1991"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "much of a person's soul, how much of a child's innocence are we willing to spend to feel"
+    }
+  ]
+}
