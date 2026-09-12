@@ -44,8 +44,18 @@ export type Beat = {
     compareLabels?: string[];
     sourceRef?: string;
     docType?: "newspaper" | "declassified" | "parchment" | "telegram" | "lab" | "financial";
-    trendPoints?: { label: string; year?: string; value: number }[];
+    trendPoints?: { label: string; year?: string; value: number; isHighlight?: boolean }[];
     flowNodes?: { label: string; sub?: string }[];
+    /**
+     * A relation graph is the strongest claim the engine makes, so it is drawn
+     * ONLY from relations that are stated here — never inferred from emphasis
+     * words. `from`/`to` are 1-based indices into `networkNodes`.
+     */
+    networkNodes?: { label: string; sub?: string }[];
+    networkLinks?: { from: number; to: number; label: string }[];
+    /** Drawn only when the narration describes an actual journey. */
+    mapRoute?: { from: [number, number]; to: [number, number]; label?: string };
+    mapRegion?: "europe" | "northAmerica" | "asia" | "middleEast" | "world";
     checklistItems?: (string | { text: string; checked?: boolean })[];
     chartData?: number[];
     chartLabels?: string[];

@@ -29,6 +29,58 @@ _(clear your row when you stop; move the summary into the Changelog below.)_
 
 ## Changelog (newest first)
 
+### 2026-09-12 — relevance — the engine now REFUSES to draw data nobody gave it
+
+Completes the Phase 0 half that was left open when the Vox engine was mid-edit. The planner
+already declined to SELECT an ungrounded data archetype; the renderers still carried the
+invented defaults, so an old config -- or any future caller -- could still put fabricated
+evidence on screen. They are gone.
+
+**Removed, with the component now declining instead:**
+- `scenes-journalism.tsx` DataVizScene — the `STANDARD BENCHMARK 35%` bar, and
+  `firstNumberInText % 100` as a percentage (which turned "1935" into 35%). Reads
+  `props.chartData` / `props.chartLabels`; a second bar is never added, because we would have
+  to make it up.
+- `scenes-journalism.tsx` NetworkScene — the hardcoded `LINKED TO` / `INFLUENCED` / `DRIVES`
+  edges and the `PRIMARY NODE` / `FINANCIAL BACKER` / `CATALYST` roles, wired between whichever
+  three emphasis words the beat carried. Now draws only `props.networkNodes` +
+  `props.networkLinks`, which nothing writes yet — so it never draws. A relation graph is the
+  strongest claim this engine can make and it will not be guessed.
+- `scenes-journalism.tsx` TrendlineScene — the hardcoded `24 / 58 / 42 / 89` under
+  BASELINE / ACCELERATION / TURNING POINT / PEAK-TODAY.
+- `scenes-journalism.tsx` FlowScene — the three generic systems-analysis sentences
+  ("Foundational catalyst driving the system", ...) presented as the book's own causal chain.
+- `scenes-journalism.tsx` MapScene — the North-America→Europe flight path drawn on
+  `hash(beat.id) > 0.45`, and the continent picked by that same hash. Route comes from
+  `props.mapRoute` (nothing writes it yet) and the region from `props.mapRegion`, derived from
+  the place the narration actually names.
+- `scenes.tsx` ChartScene — the `1,2,4,8,16,32,65,120` compounding curve under
+  START / DAY 30 / DAY 90 / DAY 180 / 1 YEAR.
+
+**New:** `UngroundedFallback` in `shared.tsx` — the neutral treatment (kicker + the beat's
+emphasis words + marker underline) that a data component falls back to. A plain frame beats a
+confident wrong one.
+
+**New schema fields** (`vox/schema.ts`, all optional): `networkNodes`, `networkLinks`,
+`mapRoute`, `mapRegion`, and `isHighlight` on `trendPoints`.
+
+`plan-vox.js`: `groundedPayload()` now emits the schema's real shapes rather than bare arrays
+(`trendPoints` as `{label, year?, value}`, `flowNodes` as `{label}`), `docTypeOf()` only returns
+values in the `docType` union (it was emitting "letter", which is not one — telegram/parchment/
+lab/financial are now reachable), `map` emits a real `mapRegion`, and `network` returns null
+unconditionally until something can extract real entities and relations.
+
+**BACKWARD-COMPATIBILITY NOTE — this deliberately changes rendering for some existing configs.**
+The usual invariant (an old config renders byte-identically) exists to catch accidental drift;
+here the drift is the point. Measured blast radius across the catalogue: **17 beats in 3 of 35
+Vox books** (network x8, dataviz x6, flow x3) stop drawing invented figures and draw the
+fallback, and **24 `map` beats** lose the fabricated route while still rendering. Nothing else
+moves. `npx tsc --noEmit` is clean repo-wide.
+
+Not verified by rendering: a Remotion bundle costs ~25 min per invocation, so this landed on a
+clean typecheck plus a planner end-to-end run, not on a frame.
+
+
 ### 2026-09-12 — relevance — LANDED: Phase 0 + 1b of the relevance plan (planners only, no engine files)
 
 Implements the first two phases of [`VISUAL_RELEVANCE_PLAN.md`](VISUAL_RELEVANCE_PLAN.md).

@@ -357,30 +357,71 @@ function spokenNumbers(text) {
  * Returns the grounded payload for a data archetype, or null when the beat
  * cannot support it. Null means "pick a different archetype".
  */
+/** place -> the region GeoMap can legitimately highlight. Small and literal on purpose. */
+const MAP_REGIONS = [
+  [/\b(america|american|u\.?s\.?a?\b|united states|washington|new york|california|texas|chicago|canada|mexico)\b/i, "northAmerica"],
+  [/\b(europe|european|england|english|britain|british|london|france|french|paris|germany|german|berlin|italy|rome|spain|russia|moscow|poland|greece|athens)\b/i, "europe"],
+  [/\b(asia|asian|china|chinese|beijing|japan|japanese|tokyo|india|indian|korea|vietnam|thailand)\b/i, "asia"],
+  [/\b(middle east|iran|iraq|persia|israel|jerusalem|egypt|cairo|syria|arabia|baghdad|turkey|istanbul)\b/i, "middleEast"],
+];
+
+/**
+ * Returns the grounded payload for a data archetype, or null when the beat
+ * cannot support it. Null means "pick a different archetype".
+ *
+ * The shapes here must match src/engines/vox/schema.ts exactly — the renderers
+ * now REFUSE to draw without them (UngroundedFallback), so a malformed payload
+ * is a silently blank graphic rather than a crash.
+ */
 function groundedPayload(type, text) {
   const nums = spokenNumbers(text);
   if (type === "dataviz") {
-    // one real percentage, compared against nothing it did not say
-    const pct = String(text).match(/\b(\d{1,3}(?:\.\d+)?)\s?(?:%|percent)\b/i);
-    return pct ? { chartData: [parseFloat(pct[1])], chartLabels: [(pct[0] || "").toUpperCase()] } : null;
+    // every percentage the sentence actually states; nothing is compared
+    // against a benchmark we would have to invent
+    const pcts = [...String(text).matchAll(/\b(\d{1,3}(?:\.\d+)?)\s?(?:%|percent)\b/gi)];
+    if (!pcts.length) return null;
+    return {
+      chartData: pcts.slice(0, 3).map((m) => parseFloat(m[1])),
+      chartLabels: pcts.slice(0, 3).map((m) => `${m[1]}%`),
+    };
   }
-  if (type === "trendline" || type === "chart") {
-    // a trend needs at least three points it actually spoke
-    return nums.length >= 3 ? { trendPoints: nums.slice(0, 6) } : null;
+  if (type === "trendline") {
+    // a trend needs stated figures AND something to hang them on
+    const years = String(text).match(/\b(19\d\d|20\d\d)\b/g) || [];
+    const vals = nums.filter((n) => !(n >= 1900 && n <= 2099));
+    if (vals.length < 2) return null;
+    return {
+      trendPoints: vals.slice(0, 5).map((v, i) => ({
+        label: years[i] || String(v),
+        year: years[i],
+        value: v,
+        ...(i === Math.min(vals.length, 5) - 1 ? { isHighlight: true } : {}),
+      })),
+    };
+  }
+  if (type === "chart") {
+    const vals = nums.filter((n) => !(n >= 1900 && n <= 2099));
+    return vals.length >= 2 ? { chartData: vals.slice(0, 8) } : null;
   }
   if (type === "flow") {
     const stops = cleanItems(listItems(text) || []);
-    return stops.length >= 2 ? { flowNodes: stops.slice(0, 4) } : null;
+    return stops.length >= 2 ? { flowNodes: stops.slice(0, 4).map((s) => ({ label: s })) } : null;
   }
   if (type === "network") {
-    const stops = cleanItems(listItems(text) || []);
-    return stops.length >= 3 ? { flowNodes: stops.slice(0, 4) } : null;
+    // A relation graph asserts that A is LINKED TO B. Nothing here can extract
+    // real entities and real relations from one sentence, and a guessed
+    // relation is a fabricated claim, so `network` is never selected. Phase 3
+    // of VISUAL_RELEVANCE_PLAN.md supplies props.networkNodes/networkLinks.
+    return null;
   }
   if (type === "map") {
-    // GeoMap invents its own continent and a North-America→Europe flight path
-    // from hash(beat.id); only let it draw when the narration names a real
-    // place for it to anchor on. (Real coordinates land in Phase 3.)
-    return placeName(text) ? {} : null;
+    // GeoMap used to invent a North-America -> Europe flight path from
+    // hash(beat.id). It draws only when the narration names a real place, and
+    // the highlighted region comes from that place -- never a route we made up.
+    const p = placeName(text);
+    if (!p) return null;
+    const hit = MAP_REGIONS.find(([re]) => re.test(text));
+    return hit ? { mapRegion: hit[1] } : {};
   }
   return null;
 }
@@ -392,9 +433,14 @@ function groundedPayload(type, text) {
  * `beat.props.docType`.)
  */
 function docTypeOf(text) {
+  // Values MUST come from the `docType` union in src/engines/vox/schema.ts:
+  // newspaper | declassified | parchment | telegram | lab | financial
   if (/\b(classified|declassified|dossier|top secret|case file)\b/i.test(text)) return "declassified";
   if (/\b(newspaper|headline|the press|front page)\b/i.test(text)) return "newspaper";
-  if (/\b(letter|telegram|wrote to|note|diary|journal entry)\b/i.test(text)) return "letter";
+  if (/\b(telegram|wrote to|a letter|his letter|her letter|diary|journal entry)\b/i.test(text)) return "telegram";
+  if (/\b(manuscript|scroll|ancient text|the gospel|parchment|inscription)\b/i.test(text)) return "parchment";
+  if (/\b(study|experiment|laboratory|researchers?|clinical|trial)\b/i.test(text)) return "lab";
+  if (/\b(ledger|balance sheet|the accounts|invoice|financial record)\b/i.test(text)) return "financial";
   return "newspaper";
 }
 

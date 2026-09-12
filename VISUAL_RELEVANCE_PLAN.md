@@ -325,10 +325,14 @@ else is ever built**.
 
 > Measured A/B on `public/captions/siddhartha.vtt` (same args, `--no-llm`), HEAD vs now:
 > fabricated-data scenes **34 → 0**, false quotations **5 → 0**, images **135 → 102** (every one
-> on a beat that names something). See the `AGENT_LOG.md` entry for the file-by-file list.
-> Not done: the invented defaults *inside* `scenes-journalism.tsx` / `infographics.tsx` — the
-> planner no longer selects the archetypes that draw them, but the constants are still there,
-> waiting for the engine WIP in §7 to land.
+> on a beat that names something). See the `AGENT_LOG.md` entries for the file-by-file list.
+>
+> **Both halves are now done.** The planner declines to *select* an ungrounded data archetype,
+> and the engine refuses to *draw* one: the invented constants are gone from
+> `scenes-journalism.tsx` and `scenes.tsx`, and a data component with no data falls back to
+> `UngroundedFallback` (the neutral treatment of the beat's own words). Blast radius on the
+> shipped catalogue: 17 beats across 3 of 35 Vox books stop drawing invented figures, and
+> 24 `map` beats lose the fabricated flight path. `tsc --noEmit` is clean repo-wide.
 
 
 Pure defect work on what already exists.

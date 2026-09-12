@@ -3,7 +3,7 @@ import { AbsoluteFill, interpolate, spring, useCurrentFrame, useVideoConfig } fr
 import type { Beat, VImage } from "./schema";
 import { INK, RED, PAPER, HEADLINE, SERIF, hash } from "./palette";
 import { AccentBurst } from "./backgrounds";
-import { Scene, KineticWords, MarkerUnderline, KickerChip, Cutout, HalftoneCard, BackdropImg, beatAnchors } from "./shared";
+import { Scene, KineticWords, MarkerUnderline, KickerChip, Cutout, HalftoneCard, BackdropImg, beatAnchors, UngroundedFallback } from "./shared";
 import { Annotated, annotationFor } from "./annotations";
 import { QuestionScene, TimelineScene, PlaceScene, DuoScene, RevealScene } from "./scenes-narrative";
 import { DocumentScene, MapScene, DataVizScene, NetworkScene, TrendlineScene, FlowScene } from "./scenes-journalism";
@@ -407,8 +407,13 @@ const PolaroidScene: React.FC<{ beat: Beat }> = ({ beat }) => {
 };
 
 const ChartScene: React.FC<{ beat: Beat }> = ({ beat }) => {
-  const data = beat.props.chartData || [1, 2, 4, 8, 16, 32, 65, 120];
-  const labels = beat.props.chartLabels || ["START", "DAY 30", "DAY 90", "DAY 180", "1 YEAR"];
+  // The defaults here plotted a hardcoded 1,2,4,8,16,32,65,120 against
+  // START / DAY 30 / DAY 90 / DAY 180 / 1 YEAR — a compounding curve presented
+  // as this book's data, on any beat where the word "compound" appeared. A
+  // chart with no stated figures declines; see UngroundedFallback.
+  const data = (beat.props.chartData || []).filter((n) => Number.isFinite(n));
+  const labels = beat.props.chartLabels || [];
+  if (data.length < 2) return <UngroundedFallback beat={beat} kicker={beat.props.kicker || "THE TRAJECTORY"} />;
   return (
     <Scene beat={beat}>
       <div style={{ display: "flex", flexDirection: "column", alignItems: "center", gap: 12 }}>

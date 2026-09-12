@@ -144,3 +144,35 @@ export const Scene: React.FC<{ beat: Beat; children: React.ReactNode; accent?: b
     </AbsoluteFill>
   );
 };
+
+/**
+ * UNGROUNDED FALLBACK — what a data archetype draws when nobody gave it data.
+ *
+ * The journalism/infographic scenes used to ship invented defaults: a
+ * `STANDARD BENCHMARK 35%` bar next to `firstNumberInText % 100`, a conspiracy
+ * board asserting LINKED TO / INFLUENCED / DRIVES between three emphasis words,
+ * a trendline plotting a hardcoded 24 / 58 / 42 / 89, a growth curve plotting
+ * 1,2,4,8,16,32,65,120. None of those numbers or relations were ever spoken in
+ * the narration. In a video that presents itself as factual that is fabricated
+ * evidence, and it is worse than a plain frame.
+ *
+ * So a data component with no data now refuses, and falls back to the neutral
+ * treatment of the same words — the beat's emphasis, exactly as StatementScene
+ * would draw it. The planner (scripts/plan-vox.js `NEEDS_REAL_DATA` /
+ * `groundedPayload`) already declines to SELECT these archetypes without a
+ * payload, so this only fires for configs planned before that gate existed.
+ */
+export const UngroundedFallback: React.FC<{ beat: Beat; kicker?: string }> = ({ beat, kicker }) => {
+  const at = beatAnchors(beat, 2, 6, 16);
+  const phrase = (beat.props.emphasis || []).join(" ") || (beat.props.keywords || []).slice(0, 3).join(" ");
+  const size = phrase.length > 22 ? 128 : 168;
+  return (
+    <Scene beat={beat}>
+      <div style={{ display: "flex", flexDirection: "column", alignItems: "center", gap: 22, zIndex: 12 }}>
+        {kicker ? <KickerChip text={kicker} startFrame={2} align="center" /> : null}
+        <KineticWords text={phrase} startFrame={at[0]} fontSize={size} align="center" maxWidth={1420} />
+        <MarkerUnderline startFrame={at[1]} width={Math.min(1200, phrase.length * size * 0.42)} />
+      </div>
+    </Scene>
+  );
+};
