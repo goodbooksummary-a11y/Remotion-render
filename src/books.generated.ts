@@ -82,8 +82,6 @@ import ant_clear_thinking from '../books/clear-thinking/config.antidote.json';
 import ant_meta_clear_thinking from '../books/clear-thinking/youtube-meta.json';
 import ant_feel_good_productivity from '../books/feel-good-productivity/config.antidote.json';
 import ant_meta_feel_good_productivity from '../books/feel-good-productivity/youtube-meta.json';
-import ant_fluke from '../books/fluke/config.antidote.json';
-import ant_meta_fluke from '../books/fluke/youtube-meta.json';
 import ant_fruit_fly from '../books/fruit-fly/config.antidote.json';
 import ant_meta_fruit_fly from '../books/fruit-fly/youtube-meta.json';
 import ant_good_energy from '../books/good-energy/config.antidote.json';
@@ -129,7 +127,6 @@ export const BOOK_PALETTES: Record<string, Palette> = {
   'east-of-eden': { paper: '#F4EBDA', ink: '#1C1712', red: '#9C2B1B', gold: '#C99A3B' },
   'feel-good-productivity': { paper: '#FAF8F2', ink: '#181A20', red: '#E85D04', gold: '#F59E0B' },
   'fences': { paper: '#E8DDD0', ink: '#1C1410', red: '#8B3A2A', gold: '#C4943A' },
-  'fluke': { paper: '#F8FAFC', ink: '#0F172A', red: '#EA580C', gold: '#F59E0B' },
   'fruit-fly': { paper: '#F0DFD4', ink: '#1A1018', red: '#B81E4A', gold: '#9AA83C' },
   'glass-castle': { paper: '#F4ECDD', ink: '#1E1A16', red: '#C24A21', gold: '#E0A73E' },
   'good-energy': { paper: '#F6FAF4', ink: '#0F2018', red: '#15803D', gold: '#EAB308' },
@@ -165,7 +162,6 @@ export const BOOK_BG_TINT: Record<string, boolean> = {
   'atonement': true,
   'feel-good-productivity': true,
   'fences': true,
-  'fluke': true,
   'good-energy': true,
   'i-m-thinking-of-ending-things': true,
   'million-dollar-weekend': true,
@@ -426,12 +422,6 @@ export const ANTIDOTE_BOOKS: AntidoteBookEntry[] = [
     engine: 'antidote',
     config: ant_feel_good_productivity as any,
     meta: ant_meta_feel_good_productivity as any,
-  },
-  {
-    slug: 'fluke',
-    engine: 'antidote',
-    config: ant_fluke as any,
-    meta: ant_meta_fluke as any,
   },
   {
     slug: 'fruit-fly',
