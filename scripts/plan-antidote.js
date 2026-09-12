@@ -70,6 +70,42 @@ const WORLD = args.world || null;
 // The authored art file (Claude-first). Each beat may carry a `callout` and/or a
 // `concept` (the scene's literal subject → its icon). Kept raw as ART so the
 // concept survives; CALLOUTS is the callout-only view the copy path consumes.
+/**
+ * BEAT BRIEFS (scripts/plan-briefs.js) — what each scene is ABOUT, grounded in
+ * the book's story bible.
+ *
+ * Matched by a fingerprint of the scene's own narration, NOT by index. `ART[i]`
+ * / `CALLOUTS[i]` below are index-keyed with no length check and no content
+ * check, so a re-plan at a different `--scene-secs` silently re-attaches every
+ * authored decision to the wrong sentence. Briefs cannot do that, and the miss
+ * count is reported at the end of the run.
+ *
+ * The fingerprint is taken over the SAME string that is written to
+ * `_narration` (`s.text.slice(0, 160)`), because that is what plan-briefs reads
+ * back out of a planned config.
+ */
+const BRIEFS_IN = args.briefs || null;
+const BRIEF_MIN_CONFIDENCE = args["brief-confidence"] !== undefined ? parseFloat(args["brief-confidence"]) : 0.6;
+function briefFingerprint(text) {
+  const norm = String(text).toLowerCase().replace(/[^a-z0-9 ]/g, "").replace(/\s+/g, " ").trim();
+  let h = 2166136261;
+  for (let i = 0; i < norm.length; i++) { h ^= norm.charCodeAt(i); h = Math.imul(h, 16777619); }
+  return (h >>> 0).toString(36);
+}
+const BRIEFS = (() => {
+  if (!BRIEFS_IN) return null;
+  const loaded = JSON.parse(fs.readFileSync(BRIEFS_IN, "utf8"));
+  const arr = loaded.briefs || loaded;
+  return new Map(arr.filter((b) => b && b.fp).map((b) => [b.fp, b]));
+})();
+let briefHits = 0, briefMisses = 0;
+function briefFor(text) {
+  if (!BRIEFS) return null;
+  const b = BRIEFS.get(briefFingerprint(String(text).slice(0, 160)));
+  if (b) briefHits++; else briefMisses++;
+  return b && (b.confidence ?? 0) >= BRIEF_MIN_CONFIDENCE ? b : null;
+}
+
 const ART = (() => {
   if (!CALLOUTS_IN) return null;
   const loaded = JSON.parse(fs.readFileSync(CALLOUTS_IN, "utf8"));
@@ -457,10 +493,23 @@ function roleIndex(cast) {
     // Claude-first: when the art file names a beat's `concept`, it wins (a string
     // forces that icon, null forces none); otherwise the director's lexicon reads
     // the subject from the narration.
+    // A beat brief names the scene's subject (and where it happens) from the
+    // book's story bible, so it outranks the director's first-match regex —
+    // which has no confidence and cannot tell "this beat is definitely about a
+    // courtroom" from "the word matched". An explicit art file still wins over
+    // both: it is a human decision about this specific beat.
+    const brief = briefFor(s.text);
     const d = director.direct({
       text: s.text, index: i, isTitle, calloutAt, total: scenes.length, durationFrames,
-      concept: hasOwn(ART && ART[i], "concept") ? ART[i].concept : undefined,
+      concept: hasOwn(ART && ART[i], "concept") ? ART[i].concept
+        : (brief && brief.antidote && brief.antidote.concept) ? brief.antidote.concept : undefined,
     });
+    // The brief's place wins over the genre rotation for the same reason. The
+    // director's own HOLD/decay rule still governs how long we stay there — a
+    // set that changes every beat is strobing, not geography.
+    if (brief && brief.antidote && brief.antidote.set && d.bg && !hasOwn(ART && ART[i], "set")) {
+      d.bg.set = brief.antidote.set;
+    }
 
     // ── EXPLANATORY DIAGRAM (4.0) ────────────────────────────────────────────
     // Claude's authored `diagram` in the art file wins (a truthy value forces it,

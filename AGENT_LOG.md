@@ -29,6 +29,64 @@ _(clear your row when you stop; move the summary into the Changelog below.)_
 
 ## Changelog (newest first)
 
+### 2026-09-12 — relevance — PHASE 3 (first cut): every beat has a SUBJECT now
+
+Neither engine's schema had a field saying what a beat is ABOUT. The renderers consumed
+`emphasis` (top corpus values: IT'S, BECAUSE, YEAH) and `keywords` (completely, incredibly,
+literally), so no component could draw the thing being discussed even in principle.
+**[`scripts/plan-briefs.js`](scripts/plan-briefs.js)** is that field.
+
+**Keyed by narration, not by index.** Every other authored artifact here — `--designs`,
+`--callouts`, `--cast` — is read back as `ARR[i]` with no length check and no content check, so
+one re-plan at a different `--scene-secs` silently re-attaches every authored decision to the
+wrong sentence and nobody is told. Briefs match on an FNV-1a fingerprint of the beat's own words
+and both planners print their hit rate (365/365 on the pilot). If you add another authored
+artifact, copy this, not `ARR[i]`.
+
+**Consumers:**
+- `plan-vox.js --briefs=` — `vox.shot` replaces `keywords(text,3).join(", ")` as the Flux
+  subject, reusing the bible's `look` so a character is the same person in every frame; a
+  confident brief is itself sufficient reason to give a beat a picture.
+- `plan-antidote.js --briefs=` — the brief's `concept` and `set` outrank the director's
+  first-match regex; an explicit art file still wins over both.
+- `lib/antidote-director.js` — **CONCEPT→MOTIF table**. A beat could KNOW its subject was `grave`
+  and still draw an `orbit`: `pickMotif` read the beat's grammatical CLASS, indexed a 2-4 entry
+  menu and chose with `rnd(seed + i*7)`. There was no concept→motif mapping at all. That is how
+  81.8% of catalogue props came out as abstract filler.
+- `confidence` is the rail: below 0.6 the directors keep their neutral fallback. A weak regex hit
+  and a certain one used to be indistinguishable, so a director could not choose to stay neutral.
+
+**MEASURED on `siddhartha` (same VTT, same args, briefs the only difference):**
+
+| | subject-bearing | wrong | filler | thin |
+|---|---|---|---|---|
+| Vox | 0.3% → **24.4%** | 0.0% → 11.5% | 27.4% → **6.8%** | 72.3% → 57.3% |
+| Antidote | 48.9% → **55.9%** | 7.7% → **4.5%** | 34.7% → 35.7% | 8.7% → **3.9%** |
+
+Antidote: prop-less scenes 35 → 16, `contradicts` 10 → 2, most-used motif `clock` → `water`, and
+the `shore` set 39 → 61 scenes. The river IS Siddhartha's argument; that is the bible reaching
+the screen.
+
+The Vox `wrong` rise is honest. Those beats used to draw keyword-bag images, which score as
+`filler` because they CANNOT be about anything; now they make a claim and the audit judges it.
+The residue tracks the airtime gap.
+
+**`audit-relevance.js` gained two things while measuring this:** `--config=<path>` (score a plan
+that is not installed yet — how you measure a planner change before anything ships), and a fix
+that matters if you extend it: it now tests the CLAIM (`props.subject`) rather than the Flux
+prompt. A prompt is a costume description ("a young Indian brahmin man with a shaved head and a
+plain ochre robe") whose words need never appear in the narration, so scoring the prompt marked
+correct pictures as unrelated. Checking the subject against the spoken audio is neither circular
+nor gameable by decoration.
+
+**NOT done — Phase 3 is a first cut, the gate (≥70% subject, ≤5% wrong) is not met:**
+1. Everything above is the HEURISTIC derivation. `--emit`/`--briefs` is wired for Claude and
+   unused; the bible pilot showed authoring is where the quality is.
+2. Bibles exist for 3 of 49 books (atonement, all-the-bright-places, siddhartha).
+3. Importance-aware cooldowns: a book's central object is still forbidden from recurring.
+4. Vox has no icon vocabulary at all, so its ceiling is images — Phase 4 is its lever.
+
+
 ### 2026-09-12 — relevance — PHASE 2: the pipeline reads the book now (`story-bible.json`)
 
 Nothing in this pipeline had ever read a book. Every visual decision was a regex over one

@@ -540,7 +540,48 @@ function arcFor(cls, motif) {
   return ARC_FOR_CLASS[cls] || "none";
 }
 
-  function pickMotif(cls, shot, i, text) {
+  /**
+   * CONCEPT -> METAPHOR MOTIF.
+   *
+   * The gap this fills: a beat could KNOW its subject was `grave` and still draw
+   * an `orbit`, because no mapping from a concept to a motif existed at all.
+   * `pickMotif` read the beat's grammatical CLASS (stat/question/neutral...),
+   * indexed a 2-4 entry menu, and chose inside it with `rnd(seed + i*7)`. That
+   * is how 81.8% of every prop instance in the catalogue came out as abstract
+   * filler.
+   *
+   * A concept that IS a drawable motif draws itself. The rest map to the motif
+   * that means the same thing. Anything not listed falls through to the old
+   * class menu, so nothing that worked before changes.
+   */
+  const CONCEPT_MOTIF = {
+    law: "law", war: "war", home: "home", family: "family", school: "school",
+    work: "work", city: "city", food: "food", photo: "photo", mask: "mask",
+    key: "key", mirror: "mirror", game: "game", heart: "heart", fire: "fire",
+    tree: "tree", star: "star", storm: "storm", road: "road", water: "water",
+    grave: "grave", medical: "medical", phone: "phone", notes: "notes",
+    crash: "crash", ledge: "ledge", coin: "coin", door: "door",
+    // concepts with no icon of their own, mapped to the one that means it
+    chains: "chains", compass: "compass", iceberg: "iceberg",
+    lightbulb: "lightbulb", shadowSelf: "shadowSelf", puppeteer: "puppeteer",
+    hourglass: "hourglass", shield: "shield", trophy: "trophy", sword: "sword",
+    target: "target", magnifier: "magnifier", wallet: "wallet", gift: "gift",
+    zap: "zap", subway: "subway", butterfly: "butterfly", coffee: "coffee", car: "car",
+    alarmClock: "alarmClock", dominoCascade: "dominoCascade",
+    icebergDepth: "icebergDepth", funnelTrap: "funnelTrap",
+    codeWindow: "codeWindow", laptopMockup: "laptopMockup",
+    rocketLaunch: "rocketLaunch", funnelMetrics: "funnelMetrics",
+    dollarExchange: "dollarExchange",
+  };
+
+  function pickMotif(cls, shot, i, text, concept) {
+    // The beat's own subject, when we have one, beats a seeded draw from a menu
+    // keyed on grammar. `state.lastMotif` still blocks an immediate repeat.
+    if (concept && CONCEPT_MOTIF[concept] && CONCEPT_MOTIF[concept] !== state.lastMotif) {
+      const type = CONCEPT_MOTIF[concept];
+      state.lastMotif = type;
+      return { type, scale: 1, enter: "pop", color: PAL.red, color2: PAL.ink, arc: arcFor(cls, type) };
+    }
     if (customMotifs && typeof customMotifs === "object") {
       for (const [mKey, mDef] of Object.entries(customMotifs)) {
         // Two landmines lived in this one line. An entry with no `title` built
@@ -798,7 +839,7 @@ function arcFor(cls, motif) {
     const wantsMotif = shot === "insert" || calloutAt == null || rnd(seedBase + index * 13) < 0.34;
     let props;
     if (!useIllustration) {
-      props = wantsMotif ? [pickMotif(cls, shot, index, text)] : [];
+      props = wantsMotif ? [pickMotif(cls, shot, index, text, concept)] : [];
     } else if (shot === "beforeAfter") {
       props = [
         { type: concept, x: 548, y: 560, scale: 1.32, enter: "left", at: 0, color: PAL.red, color2: PAL.ink },
@@ -877,7 +918,7 @@ function arcFor(cls, motif) {
     // third, gets a second smaller motif late.
     const frontLoaded = calloutAt != null && calloutAt < durationFrames * 0.35;
     if ((beatSecs >= 10 || (beatSecs >= 7.5 && frontLoaded)) && !useIllustration && shot !== "insert" && shot !== "beforeAfter") {
-      const late = pickMotif(cls, shot, index + 501, text);
+      const late = pickMotif(cls, shot, index + 501, text, concept);
       props = [...props, { ...late, at: Math.round(durationFrames * 0.66), enter: "fade", scale: 0.6 }];
     }
 

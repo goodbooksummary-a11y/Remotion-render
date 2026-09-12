@@ -415,12 +415,44 @@ being told the period, and it surfaced `Bry` / `Brainy` as recurring "characters
 — both ASR corruptions of **Briony** that the VTT name pre-pass missed. They now live in the
 bible as `aliases`, so the same person resolves under every spelling.
 
-### Phase 3 — beat briefs + directors consume them · ~3–5 days
+### Phase 3 — beat briefs + directors consume them · ~3–5 days — ◑ **FIRST CUT LANDED 2026-09-12**
 
-`beat-briefs.json`, fingerprint-keyed, with `confidence`; both planners read briefs first and
-fall back to regex; CONCEPT→MOTIF table; importance-aware cooldowns; era gating.
+[`scripts/plan-briefs.js`](scripts/plan-briefs.js) gives every beat a **subject**, grounded in the
+story bible and **keyed by a fingerprint of the beat's own words**. Both planners take
+`--briefs=` and both report their match rate; on the pilot it was **365/365**.
 
-**Gate:** subject-bearing share ≥ 70 % and wrong-visual rate ≤ 5 % on the two pilot books.
+- **Vox** — the brief's `vox.shot` replaces `keywords(text, 3).join(", ")` as the Flux subject,
+  reusing the bible's `look` so a character is the same person in every frame, and a confident
+  brief is now itself sufficient reason to give a beat a picture.
+- **Antidote** — the brief's `concept` and `set` outrank the director's first-match regex (an
+  explicit art file still wins over both), and a new **CONCEPT→MOTIF table** closes the gap where
+  a beat could *know* its subject was `grave` and still draw an `orbit`, because no mapping from
+  a concept to a motif existed at all.
+- `confidence` is the safety rail: below `--brief-confidence` (0.6) the directors keep their
+  neutral fallback rather than draw a confident wrong picture.
+
+**Measured on `siddhartha`** — same VTT, same args, briefs the only difference:
+
+| | subject-bearing | wrong | filler | thin |
+|---|---|---|---|---|
+| **Vox** without → with | 0.3 % → **24.4 %** | 0.0 % → 11.5 % | 27.4 % → **6.8 %** | 72.3 % → 57.3 % |
+| **Antidote** without → with | 48.9 % → **55.9 %** | 7.7 % → **4.5 %** | 34.7 % → 35.7 % | 8.7 % → **3.9 %** |
+
+Antidote also went from 35 prop-less scenes to 16, `contradicts` from 10 to 2, and its most-used
+motif changed from `clock` to `water` while the `shore` set went 39 → 61 scenes — the river, which
+*is* Siddhartha's argument. That is the bible reaching the screen.
+
+The Vox `wrong` rise is honest, not a regression: those beats previously drew keyword-bag images,
+which score as `filler` because they *cannot* be about anything. Now they make a claim, so the
+audit judges it. The residue tracks the airtime gap — the subject is right for the beat's own
+words, and the scene plays slightly over its neighbour's.
+
+**Gate not yet met** (≥ 70 % subject-bearing, ≤ 5 % wrong). What is left:
+1. **Authored briefs.** Everything above is the *heuristic* derivation. `--emit`/`--briefs` is
+   wired for Claude and unused so far; the bible pilot showed authoring is where the quality is.
+2. **Bibles for the other 47 books** — each one is a `--emit` → author → `--bible` pass.
+3. Importance-aware cooldowns (a book's central object is currently forbidden from recurring).
+4. Vox still has no icon vocabulary at all, so its ceiling is images; Phase 4 is its lever.
 
 ### Phase 4 — vocabulary · ~2–4 days
 

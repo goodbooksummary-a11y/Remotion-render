@@ -1,0 +1,6386 @@
+{
+  "slug": "atonement",
+  "authored": false,
+  "briefs": [
+    {
+      "fp": "w0rpu9",
+      "i": 0,
+      "from": 0,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Here's what messes me up about this book. You get to page 350 and realize the author just pulled the rug out from under everything you felt. And the worst part is you can't even be"
+    },
+    {
+      "fp": "63ygtj",
+      "i": 1,
+      "from": 451,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "holding this beautiful, 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "a deeply unsettling realization. I mean, you spend hours holding this beautiful, intricately constructed world in your hands, right, only to realize you've been made entirely compl"
+    },
+    {
+      "fp": "182kngk",
+      "i": 2,
+      "from": 914,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "this really uncomfortable fact about your own brain, which is that you actively preferred"
+    },
+    {
+      "fp": "onf8l8",
+      "i": 3,
+      "from": 1036,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "preferred the beautiful lie to the ugly truth. And that feeling like that exact moment of betrayal and awe is what we are unpacking today. We're doing a deep dive into"
+    },
+    {
+      "fp": "1v1oel9",
+      "i": 4,
+      "from": 1336,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "into Ian Mcuin's modern masterpiece, It's such a monumental piece of work. It really is. And I want"
+    },
+    {
+      "fp": "1x0ftvg",
+      "i": 5,
+      "from": 1528,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "read this book or at least seen, 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "want to be crystal clear with you listening right out of the gate because I know a lot of you have probably read this book or you know at least seen the movie, right? The"
+    },
+    {
+      "fp": "7vwi5h",
+      "i": 6,
+      "from": 1720,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, 1935"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "The movie with Kira Nightly. Yeah, exactly. But we are not just doing a plot summary today. We aren't just recounting this tragic romance or some gritty war story. No, we are looki"
+    },
+    {
+      "fp": "1fzorcv",
+      "i": 7,
+      "from": 2035,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "a 350 page argument that fiction is the only form"
+    },
+    {
+      "fp": "16fhhjg",
+      "i": 8,
+      "from": 2162,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "form of atonement available when reality absolutely refuses to offer one. It is"
+    },
+    {
+      "fp": "zv8aqm",
+      "i": 9,
+      "from": 2361,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "is a staggering thesis. Honestly, McEwan is essentially putting the act"
+    },
+    {
+      "fp": "1jbbekx",
+      "i": 10,
+      "from": 2501,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": "library",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "notes, writing itself on trial, the dim Tallis library at dusk, tall shelves, one lamp, 1935"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": "library",
+        "cast": []
+      },
+      "_said": "act of writing itself on trial. He uses this false accusation made by a child to prove that all narrative, and that includes the very novel you are holding in your hands, is an act"
+    },
+    {
+      "fp": "1no54ap",
+      "i": 11,
+      "from": 2817,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, 1935"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "act of controlled misreading. Wow. Controlled misreading. I love that. Right. He is showing us that fiction is simultaneously the weapon that destroys lives and"
+    },
+    {
+      "fp": "phau4r",
+      "i": 12,
+      "from": 3067,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "watching one of those well-produced true, 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "and the only available medicine to heal them. It's funny. The closest analogy I can think of is um watching one of those really well-produced true crime documentaries. You know the"
+    },
+    {
+      "fp": "17wrrvt",
+      "i": 13,
+      "from": 3461,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "narrator's voice, fully buying into their version of events, and then you horrifically realize in"
+    },
+    {
+      "fp": "1i38dpa",
+      "i": 14,
+      "from": 3602,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "in the final 10 minutes that the narrator is the actual culprit and they've just been like selectively editing the footage right in front of your eyes the entire time. I'd"
+    },
+    {
+      "fp": "104qupm",
+      "i": 15,
+      "from": 3856,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "I'd actually challenge that analogy just a bit, even though I completely see where you're going with it. Yeah. Really? Okay. They lay it on me. Well, the thing about a true crime d"
+    },
+    {
+      "fp": "149otnt",
+      "i": 16,
+      "from": 4142,
+      "subject": "target",
+      "entities": [],
+      "concept": "target",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "target, 1935"
+      },
+      "antidote": {
+        "concept": "target",
+        "cast": []
+      },
+      "_said": "is an objective reality to be uncovered. Right."
+    },
+    {
+      "fp": "1kifsi2",
+      "i": 17,
+      "from": 4226,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Right. Like a literal truth. Exactly. There is a truth and someone is hiding it. But"
+    },
+    {
+      "fp": "ya9hwi",
+      "i": 18,
+      "from": 4361,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "But what McEwan is doing is I think far more insidious. He is arguing"
+    },
+    {
+      "fp": "1by08p",
+      "i": 19,
+      "from": 4514,
+      "subject": "target",
+      "entities": [],
+      "concept": "target",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "target, 1935"
+      },
+      "antidote": {
+        "concept": "target",
+        "cast": []
+      },
+      "_said": "arguing that objective reality barely even exists once a human brain starts trying to remember it or you know narrate it. Oh wow. Okay. Yeah, that is different. He's saying that th"
+    },
+    {
+      "fp": "1i5ukz3",
+      "i": 20,
+      "from": 4865,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "messy three-dimensional human interaction into a story with a beginning, a middle, and an end, you are already committing a kind of violence against the truth. Okay, that"
+    },
+    {
+      "fp": "1qee9ur",
+      "i": 21,
+      "from": 5148,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "that is a fantastic distinction. So, the crime isn't just a lie. The crime is the act"
+    },
+    {
+      "fp": "115ddi6",
+      "i": 22,
+      "from": 5311,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "act of storytelling itself. And to understand how that crime is committed, we have to deeply understand the mind of the criminal, which in this case is"
+    },
+    {
+      "fp": "y2n2vm",
+      "i": 23,
+      "from": 5609,
+      "subject": "Briony Tallis",
+      "entities": [
+        "briony"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "a thin, watchful thirteen-year-old English girl in a plain white summer dress, dark hair cut straight at the jaw, 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "briony"
+        ]
+      },
+      "_said": "is a 13-year-old girl named Briony And to really get Brieny, we have to understand her environment. Set the scene for us. So, we are"
+    },
+    {
+      "fp": "qokad5",
+      "i": 24,
+      "from": 5827,
+      "subject": "Briony Tallis and Cecilia Tallis",
+      "entities": [
+        "briony",
+        "cecilia"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "a thin, watchful thirteen-year-old English girl in a plain white summer dress, dark hair cut straight at the jaw, 1935 and a bored, elegant young Englishwoman of twenty-three in a green silk evening dress, dark hair pinned up, a cigarette, 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "briony",
+          "cecilia"
+        ]
+      },
+      "_said": "are in England, 1935. It is the absolute height of summer at the Tallis"
+    },
+    {
+      "fp": "mq7ppg",
+      "i": 25,
+      "from": 5966,
+      "subject": "Briony Tallis and Cecilia Tallis",
+      "entities": [
+        "briony",
+        "cecilia"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "a thin, watchful thirteen-year-old English girl in a plain white summer dress, dark hair cut straight at the jaw, 1935 and a bored, elegant young Englishwoman of twenty-three in a green silk evening dress, dark hair pinned up, a cigarette, 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "briony",
+          "cecilia"
+        ]
+      },
+      "_said": "Tallis Country Estate. And when I say it's hot, I mean it is an oppressive, blisteringly hot day. The kind of heat where you just can't think straight. Exactly. The kind of heat th"
+    },
+    {
+      "fp": "1yx7jli",
+      "i": 26,
+      "from": 6379,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "usual polite British social right? The stiff upper lip is kind of right? And we are in"
+    },
+    {
+      "fp": "x4zjnv",
+      "i": 27,
+      "from": 6581,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, 1935"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "the inter war period. World War I is this lingering ghost."
+    },
+    {
+      "fp": "kqmxmr",
+      "i": 28,
+      "from": 6691,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, 1935"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "ghost. And World War II is just a few years away, though obviously they don't know it yet. The world is on the precipice of absolute chaos, which makes this setup at the estate so "
+    },
+    {
+      "fp": "1jhtm5u",
+      "i": 29,
+      "from": 7032,
+      "subject": "school",
+      "entities": [],
+      "concept": "school",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "school, 1935"
+      },
+      "antidote": {
+        "concept": "school",
+        "set": null,
+        "cast": []
+      },
+      "_said": "you have this intense pressure cooker of class and sexual tension. Oh, absolutely. You have"
+    },
+    {
+      "fp": "1cszg9b",
+      "i": 30,
+      "from": 7192,
+      "subject": "Briony Tallis and Cecilia Tallis — family",
+      "entities": [
+        "briony",
+        "cecilia"
+      ],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "a thin, watchful thirteen-year-old English girl in a plain white summer dress, dark hair cut straight at the jaw, 1935 and a bored, elegant young Englishwoman of twenty-three in a green silk evening dress, dark hair pinned up, a cigarette, 1935"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": [
+          "briony",
+          "cecilia"
+        ]
+      },
+      "_said": "have Cecilia Tallis, Bry's older sister who has just returned from Cambridge. She is lingering at home, deeply bored, smoking constantly,"
+    },
+    {
+      "fp": "110ltp2",
+      "i": 31,
+      "from": 7524,
+      "subject": "compass",
+      "entities": [],
+      "concept": "compass",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "compass, 1935"
+      },
+      "antidote": {
+        "concept": "compass",
+        "cast": []
+      },
+      "_said": "entirely lacking direction. She's just sort of a drift. Yeah, exactly. And then you"
+    },
+    {
+      "fp": "598tng",
+      "i": 32,
+      "from": 7665,
+      "subject": "Briony Tallis and Cecilia Tallis and Robbie Turner — family",
+      "entities": [
+        "briony",
+        "cecilia",
+        "robbie"
+      ],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "a thin, watchful thirteen-year-old English girl in a plain white summer dress, dark hair cut straight at the jaw, 1935 and a bored, elegant young Englishwoman of twenty-three in a green silk evening dress, dark hair pinned up, a cigarette, 1935"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": [
+          "briony",
+          "cecilia",
+          "robbie"
+        ]
+      },
+      "_said": "you have Robbie Turner. Now Robbie is a fascinating He really is because he is the son of the Tallis family's housekeeper. But he is brilliant. Jack Tallis,"
+    },
+    {
+      "fp": "pl0x9q",
+      "i": 33,
+      "from": 7958,
+      "subject": "Briony Tallis and Cecilia Tallis — family",
+      "entities": [
+        "briony",
+        "cecilia"
+      ],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "a thin, watchful thirteen-year-old English girl in a plain white summer dress, dark hair cut straight at the jaw, 1935 and a bored, elegant young Englishwoman of twenty-three in a green silk evening dress, dark hair pinned up, a cigarette, 1935"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": [
+          "briony",
+          "cecilia"
+        ]
+      },
+      "_said": "Tallis, who is Cecilia and Briony's father, has this sort of liberal, I guess you'd call it a leveling principle, right?"
+    },
+    {
+      "fp": "iyzdh7",
+      "i": 34,
+      "from": 8164,
+      "subject": "Robbie Turner — school",
+      "entities": [
+        "robbie"
+      ],
+      "concept": "school",
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "a tall young Englishman in his early twenties, the housekeeper's son, shirtsleeves and braces in summer, later a private's battledress, 1935-1940"
+      },
+      "antidote": {
+        "concept": "school",
+        "set": null,
+        "cast": [
+          "robbie"
+        ]
+      },
+      "_said": "right? He subsidizes Robbie's education. Yeah. So Robbie went to Cambridge, too. He got a first class degree. He's planning to go to medical school, but for the summer, he's back a"
+    },
+    {
+      "fp": "16porvi",
+      "i": 35,
+      "from": 8500,
+      "subject": "Cecilia Tallis and Robbie Turner",
+      "entities": [
+        "cecilia",
+        "robbie"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "a bored, elegant young Englishwoman of twenty-three in a green silk evening dress, dark hair pinned up, a cigarette, 1935 and a tall young Englishman in his early twenties, the housekeeper's son, shirtsleeves and braces in summer, later a private's battledress, 1935-1940"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "cecilia",
+          "robbie"
+        ]
+      },
+      "_said": "gardener. And the dynamic between Robbie and Cecilia is the engine of the entire It's so fraught. It is because they grew up together."
+    },
+    {
+      "fp": "1axsq2x",
+      "i": 36,
+      "from": 8721,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "together. They are childhood friends, but now they are adults. They're both highly educated. Yet, they're separated by this invisible but totally"
+    },
+    {
+      "fp": "1d9gyp0",
+      "i": 37,
+      "from": 8920,
+      "subject": "school",
+      "entities": [],
+      "concept": "school",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "school, 1935"
+      },
+      "antidote": {
+        "concept": "school",
+        "set": null,
+        "cast": []
+      },
+      "_said": "totally ironclad class You can almost feel it humming between You really can. They are caught in this thick, unspoken web of friendship that's suddenly shifting to"
+    },
+    {
+      "fp": "phzl4x",
+      "i": 38,
+      "from": 9252,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "to adult sexual attraction. And they don't know how to talk to each other anymore."
+    },
+    {
+      "fp": "1b4sa66",
+      "i": 39,
+      "from": 9391,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "anymore. Every single interaction is just loaded with subtext. Subtext, frustration, and a kind of aggressive pride. And right in the middle of this"
+    },
+    {
+      "fp": "qa3rty",
+      "i": 40,
+      "from": 9633,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "this incredibly messy, complex adult tension"
+    },
+    {
+      "fp": "1c16mtp",
+      "i": 41,
+      "from": 9753,
+      "subject": "Briony Tallis",
+      "entities": [
+        "briony"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "a thin, watchful thirteen-year-old English girl in a plain white summer dress, dark hair cut straight at the jaw, 1935, sits 13-year-old bry"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "briony"
+        ]
+      },
+      "_said": "tension sits 13-year-old Bry, the aspiring novelist, the um the architect of order. That's a great way to put it. If we are"
+    },
+    {
+      "fp": "q59up6",
+      "i": 42,
+      "from": 10005,
+      "subject": "Briony Tallis",
+      "entities": [
+        "briony"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "a thin, watchful thirteen-year-old English girl in a plain white summer dress, dark hair cut straight at the jaw, 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "briony"
+        ]
+      },
+      "_said": "are going to understand why Bry does what she does, we really have to dig into her psychology because she'sn't"
+    },
+    {
+      "fp": "u7vf42",
+      "i": 43,
+      "from": 10166,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "she'sn't acting out of malice, or at least not initially. Her entire world"
+    },
+    {
+      "fp": "ha0ajd",
+      "i": 44,
+      "from": 10281,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "world is structured around this desperate need for control. Exactly. McEwan gives us this brilliant, really"
+    },
+    {
+      "fp": "112t01s",
+      "i": 45,
+      "from": 10469,
+      "subject": "home",
+      "entities": [],
+      "concept": "home",
+      "place": "bedroom",
+      "confidence": 0.6,
+      "vox": {
+        "shot": "home, Briony's tidy, over-ordered child's bedroom, models in rows, 1935"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": "bedroom",
+        "cast": []
+      },
+      "_said": "really revealing description of her bedroom early on. It isn't just a room. It's a shrine to her controlling demon. Oh, it's so vivid. You have to picture"
+    },
+    {
+      "fp": "14pxeuz",
+      "i": 46,
+      "from": 10730,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "picture the intense rigidity of it. Yeah. The model farm animals, they're all facing exactly"
+    },
+    {
+      "fp": "1iwspzb",
+      "i": 47,
+      "from": 10853,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "standing at attention toward their the dolls, 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "exactly the same way, standing at attention toward their The dolls in their mansion, perfectly spaced like they are forbidden to touch the walls. the secret drawers, the diaries wi"
+    },
+    {
+      "fp": "lqpwdv",
+      "i": 48,
+      "from": 11265,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "creates. It's almost pathological. It reveals a mind that is fundamentally terrified of"
+    },
+    {
+      "fp": "1w1bopa",
+      "i": 49,
+      "from": 11407,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": "library",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "notes, the dim Tallis library at dusk, tall shelves, one lamp, 1935"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": "library",
+        "cast": []
+      },
+      "_said": "of the unpredictable nature of reality. McEwan actually notes that a taste for the miniature is one aspect of an orderly spirit. That makes so much sense."
+    },
+    {
+      "fp": "1toibod",
+      "i": 50,
+      "from": 11671,
+      "subject": "Briony Tallis — notes",
+      "entities": [
+        "briony"
+      ],
+      "concept": "notes",
+      "place": "library",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "a thin, watchful thirteen-year-old English girl in a plain white summer dress, dark hair cut straight at the jaw, 1935, the dim Tallis library at dusk, tall shelves, one lamp"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": "library",
+        "cast": [
+          "briony"
+        ]
+      },
+      "_said": "sense. To Briony, the real world is vast. It's confusing and it's completely outside her jurisdiction. but in miniature, in her dolls, her farm animals, and most importantly her wr"
+    },
+    {
+      "fp": "11lp8iu",
+      "i": 51,
+      "from": 12036,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": "library",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "notes, writes a play to welcome her older brother leo, the dim Tallis library at dusk, tall shelves, one lamp, 1935"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": "library",
+        "cast": []
+      },
+      "_said": "She has absolute authority. She actually writes a play to welcome her older brother Leon home, right, titled"
+    },
+    {
+      "fp": "1kmonrs",
+      "i": 52,
+      "from": 12204,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "titled The Trials of Arabella. Yes, she churns it out in this two-day tempest of composition. And what's wild is that this play demands a perfectly"
+    },
+    {
+      "fp": "peoqsl",
+      "i": 53,
+      "from": 12425,
+      "subject": "heart",
+      "entities": [],
+      "concept": "heart",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "heart, 1935"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": null,
+        "cast": []
+      },
+      "_said": "tidy Victorian In Bry's mind, marriage is the ultimate exclusive reward for the good, and sickness, poverty, or tragedy are strictly reserved for the wicked. It's a"
+    },
+    {
+      "fp": "1ougbss",
+      "i": 54,
+      "from": 12720,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "a very medieval worldview. Good things happen to good people. Bad things happen to bad people. And the story resolves with this neat,"
+    },
+    {
+      "fp": "82hoge",
+      "i": 55,
+      "from": 12900,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "neat, tidy moral lesson. It's so black and white completely."
+    },
+    {
+      "fp": "1fsd86v",
+      "i": 56,
+      "from": 13017,
+      "subject": "Briony Tallis",
+      "entities": [
+        "briony"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "a thin, watchful thirteen-year-old English girl in a plain white summer dress, dark hair cut straight at the jaw, 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "briony"
+        ]
+      },
+      "_said": "completely. Briony views storytelling as a literal form of telepathy. She marvels at the fact that she can ink symbols onto a page and a reader looking at those symbols decades lat"
+    },
+    {
+      "fp": "1tjur5d",
+      "i": 57,
+      "from": 13483,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "about total perfect transfer of her will"
+    },
+    {
+      "fp": "1ofyn0r",
+      "i": 58,
+      "from": 13562,
+      "subject": "law",
+      "entities": [],
+      "concept": "law",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "law, sit back and judge, 1935"
+      },
+      "antidote": {
+        "concept": "law",
+        "set": null,
+        "cast": []
+      },
+      "_said": "will into another person's mind. Yes. But, you know, I think we have to be careful here. Yeah. Because it's easy for us to sit back and judge her. But if you put yourself in the sh"
+    },
+    {
+      "fp": "1dc4xjb",
+      "i": 59,
+      "from": 13867,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, 1935"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": []
+      },
+      "_said": "shoes of a 13-year-old, isn't that just normal? Well, I mean, when I was a kid, I played with action figures and they followed my specific rigid scripts. If my brother tried to mak"
+    },
+    {
+      "fp": "12v2w2h",
+      "i": 60,
+      "from": 14145,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "make like Batman do something out of character, I'd completely lose my The real world is terrifying when"
+    },
+    {
+      "fp": "58rhxy",
+      "i": 61,
+      "from": 14325,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "when you're a kid. You have no agency. So you build a world where you do. Is she really that pathological or just a kid trying to cope? You're touching on a"
+    },
+    {
+      "fp": "1dl2k99",
+      "i": 62,
+      "from": 14560,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "a really crucial psychological concept there, which is theory of mind. Okay. Remind me what that is. It's"
+    },
+    {
+      "fp": "nobuye",
+      "i": 63,
+      "from": 14697,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "It's the cognitive ability to recognize that other people have beliefs,"
+    },
+    {
+      "fp": "1habmup",
+      "i": 64,
+      "from": 14808,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "beliefs, intents, desires, and emotions that are totally different from your own. Now, most children develop a basic theory of mind around age four or five. But the sophistication "
+    },
+    {
+      "fp": "aljuak",
+      "i": 65,
+      "from": 15120,
+      "subject": "Briony Tallis",
+      "entities": [
+        "briony"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "a thin, watchful thirteen-year-old English girl in a plain white summer dress, dark hair cut straight at the jaw, 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "briony"
+        ]
+      },
+      "_said": "of that theoryike understanding complex contradictory adult emotions that takes much longer. And Briony"
+    },
+    {
+      "fp": "1msq73j",
+      "i": 66,
+      "from": 15324,
+      "subject": "Briony Tallis",
+      "entities": [
+        "briony"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "a thin, watchful thirteen-year-old English girl in a plain white summer dress, dark hair cut straight at the jaw, 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "briony"
+        ]
+      },
+      "_said": "Briony is only 13, right? She is incredibly bright linguistically. I mean, a prodigy really, but emotionally she is completely stunted. The danger isn't that she plays with dolls. "
+    },
+    {
+      "fp": "16je8to",
+      "i": 67,
+      "from": 15676,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "does to the people around Precisely. The danger is that she applies that same rigid controlling framework to autonomous human beings. She doesn't"
+    },
+    {
+      "fp": "11r8bxn",
+      "i": 68,
+      "from": 15950,
+      "subject": "Cecilia Tallis and Robbie Turner",
+      "entities": [
+        "cecilia",
+        "robbie"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "a bored, elegant young Englishwoman of twenty-three in a green silk evening dress, dark hair pinned up, a cigarette, 1935 and a tall young Englishman in his early twenties, the housekeeper's son, shirtsleeves and braces in summer, later a private's battledress, 1935-1940"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "cecilia",
+          "robbie"
+        ]
+      },
+      "_said": "doesn't view Cecilia or Robbie or her cousins as real people with their"
+    },
+    {
+      "fp": "1039wad",
+      "i": 69,
+      "from": 16087,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": "library",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "notes, the dim Tallis library at dusk, tall shelves, one lamp, 1935"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": "library",
+        "cast": []
+      },
+      "_said": "their own messy internal lives. She views them as cast members. Cast members who exist merely to populate her own unfolding melodrama. McEwan gives us a very explicit, damning note"
+    },
+    {
+      "fp": "qf6bh5",
+      "i": 70,
+      "from": 16399,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": "library",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "notes, the dim Tallis library at dusk, tall shelves, one lamp, 1935"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": "library",
+        "cast": []
+      },
+      "_said": "Bry's writing. He says, \"Self-exposure was inevitable the moment she described a character's weakness.\" Oh, because she's projecting. Yes. Because she lacks"
+    },
+    {
+      "fp": "nznfhl",
+      "i": 71,
+      "from": 16634,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "lacks the emotional maturity to understand real human flaws. She just projects her own rigid black and white morality onto the world. If someone makes her uncomfortable, they aren'"
+    },
+    {
+      "fp": "fvfjpp",
+      "i": 72,
+      "from": 17021,
+      "subject": "butterfly",
+      "entities": [],
+      "concept": "butterfly",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "butterfly, 1935"
+      },
+      "antidote": {
+        "concept": "butterfly",
+        "set": null,
+        "cast": []
+      },
+      "_said": "order is sharply contrasted with the chaos happening around her. Oh, definitely. Like"
+    },
+    {
+      "fp": "6e38r0",
+      "i": 73,
+      "from": 17138,
+      "subject": "Lola Quincey — family",
+      "entities": [
+        "lola"
+      ],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "a fifteen-year-old English girl, coppery hair, an older girl's dress worn too deliberately, 1935, arriving from the north"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": [
+          "lola"
+        ]
+      },
+      "_said": "Like her sister Cecilia's room is just a disaster area of unmade beds and unimpeded ashtrays. And then you have the cousins arriving from the north. Lola, who is 15,"
+    },
+    {
+      "fp": "1l6x8kv",
+      "i": 74,
+      "from": 17421,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, 1935"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": []
+      },
+      "_said": "15, and the nine-year-old twins, Jackson and Piro. Yeah. and they have just been dumped at the estate because their parents are going through a vicious, highly publicized, incredib"
+    },
+    {
+      "fp": "1x596wn",
+      "i": 75,
+      "from": 17765,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "how does Brandy react to the divorce? She rejects it. She just ignores it. To her,"
+    },
+    {
+      "fp": "537y6u",
+      "i": 76,
+      "from": 17901,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "her, divorce represents a mundane unraveling. It's sloppy. It doesn't have a neat narrative arc. It belongs in the realm of disorder. It's too messy to"
+    },
+    {
+      "fp": "g7ukwy",
+      "i": 77,
+      "from": 18146,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "to be a subject for fiction. So, she simply refuses to process it as real trauma for her cousins. So, we"
+    },
+    {
+      "fp": "bhbo9g",
+      "i": 78,
+      "from": 18324,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "we have this absolute powder cake. We have adult tension that is deeply unspoken. And we"
+    },
+    {
+      "fp": "jryi80",
+      "i": 79,
+      "from": 18482,
+      "subject": "tree",
+      "entities": [],
+      "concept": "tree",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "tree, reaches its absolute flash point in the garden, 1935"
+      },
+      "antidote": {
+        "concept": "tree",
+        "set": null,
+        "cast": []
+      },
+      "_said": "we have a 13-year-old girl who is desperate to force the world into a neat, readable narrative. And this reaches its absolute flash point in the garden. This is the moment where ev"
+    },
+    {
+      "fp": "1q25eqn",
+      "i": 80,
+      "from": 18825,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "incident at the Triton Fountain. It is truly a masterclass in perspective. It's"
+    },
+    {
+      "fp": "10wr2vu",
+      "i": 81,
+      "from": 18945,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "It's the inciting incident for the entire tragedy. Okay, I want you listening to really visualize this scene because the geography and the physical objects matter so so much. They "
+    },
+    {
+      "fp": "1sz9ozr",
+      "i": 82,
+      "from": 19339,
+      "subject": "Cecilia Tallis — tree",
+      "entities": [
+        "cecilia"
+      ],
+      "concept": "tree",
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "a bored, elegant young Englishwoman of twenty-three in a green silk evening dress, dark hair pinned up, a cigarette, 1935"
+      },
+      "antidote": {
+        "concept": "tree",
+        "set": null,
+        "cast": [
+          "cecilia"
+        ]
+      },
+      "_said": "day. Oppressive Cecilia steps out into the garden with a bunch of wild flowers she picked and she needs to fill a vase. But this isn't just a glass jar. This is a"
+    },
+    {
+      "fp": "tqa93q",
+      "i": 83,
+      "from": 19639,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "a priceless piece of m porcelain. We really have to understand the gravity of this object. It was given to their"
+    },
+    {
+      "fp": "1dysly1",
+      "i": 84,
+      "from": 19828,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, 1935"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "their uncle Clem during World War I, right, by the mayor of a French town after Clem evacuated the citizens just hours before"
+    },
+    {
+      "fp": "f4oc0l",
+      "i": 85,
+      "from": 20049,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "before a catastrophic artillery shelling. Just a completely chaotic realworld Exactly."
+    },
+    {
+      "fp": "re8e1p",
+      "i": 86,
+      "from": 20217,
+      "subject": "water",
+      "entities": [],
+      "concept": "water",
+      "place": "shore",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "water, waited across a freezing river at midnight, the beach at Dunkirk, men and abandoned equipment to the waterline, 1935"
+      },
+      "antidote": {
+        "concept": "water",
+        "set": "shore",
+        "cast": []
+      },
+      "_said": "Exactly. Uncle Clem actually waited across a freezing river at midnight to save this vase, carrying it above his head, only to be killed in action a week before the armistice. It's"
+    },
+    {
+      "fp": "1v66zcw",
+      "i": 87,
+      "from": 20601,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "incredibly fragile historical reality. It is a symbol of survival of a world that barely held together through trauma."
+    },
+    {
+      "fp": "1dsf2ny",
+      "i": 88,
+      "from": 20791,
+      "subject": "Cecilia Tallis and Robbie Turner — school",
+      "entities": [
+        "cecilia",
+        "robbie"
+      ],
+      "concept": "school",
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "a bored, elegant young Englishwoman of twenty-three in a green silk evening dress, dark hair pinned up, a cigarette, 1935 and a tall young Englishman in his early twenties, the housekeeper's son, shirtsleeves and braces in summer, later a private's battledress, 1935-1940"
+      },
+      "antidote": {
+        "concept": "school",
+        "set": null,
+        "cast": [
+          "cecilia",
+          "robbie"
+        ]
+      },
+      "_said": "trauma. And Robbie is out there working in the garden, sweating in the heat. The dynamic between Cecilia and Robbie right now is just incredibly strained. Yeah. Right. As we said, "
+    },
+    {
+      "fp": "jkemid",
+      "i": 89,
+      "from": 21139,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, 1935"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": []
+      },
+      "_said": "Cecilia's father pays for his education. and to mock"
+    },
+    {
+      "fp": "7h04vm",
+      "i": 90,
+      "from": 21233,
+      "subject": "Robbie Turner — school",
+      "entities": [
+        "robbie"
+      ],
+      "concept": "school",
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "a tall young Englishman in his early twenties, the housekeeper's son, shirtsleeves and braces in summer, later a private's battledress, 1935-1940"
+      },
+      "antidote": {
+        "concept": "school",
+        "set": null,
+        "cast": [
+          "robbie"
+        ]
+      },
+      "_said": "that class divide or you know maybe out of his own deep insecurity and frustration about his feelings for her. Robbie has been taking off his shoes"
+    },
+    {
+      "fp": "1l6djcr",
+      "i": 91,
+      "from": 21504,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "walking around the estate in his socks which, 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "shoes and walking around the estate in his socks which is such"
+    },
+    {
+      "fp": "q2ru3w",
+      "i": 92,
+      "from": 21590,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, 1935"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": []
+      },
+      "_said": "such a deliberate provocation. Yeah, he's play acting the role of the humble cleaning lady's son which"
+    },
+    {
+      "fp": "1r881rv",
+      "i": 93,
+      "from": 21765,
+      "subject": "Cecilia Tallis",
+      "entities": [
+        "cecilia"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "a bored, elegant young Englishwoman of twenty-three in a green silk evening dress, dark hair pinned up, a cigarette, 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "cecilia"
+        ]
+      },
+      "_said": "which just infuriates Cecilia. She is irritated. She's trapped"
+    },
+    {
+      "fp": "1r686ft",
+      "i": 94,
+      "from": 21883,
+      "subject": "mask",
+      "entities": [],
+      "concept": "mask",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "mask, 1935"
+      },
+      "antidote": {
+        "concept": "mask",
+        "cast": []
+      },
+      "_said": "trapped by her own boredom and she's deeply exasperated by this affectation of distance. She knows he's smarter than that. She does, but they are both hiding behind these"
+    },
+    {
+      "fp": "ye7qp4",
+      "i": 95,
+      "from": 22147,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "these intense defensive postures. So, she goes to"
+    },
+    {
+      "fp": "1jpo5gd",
+      "i": 96,
+      "from": 22243,
+      "subject": "Robbie Turner",
+      "entities": [
+        "robbie"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "a tall young Englishman in his early twenties, the housekeeper's son, shirtsleeves and braces in summer, later a private's battledress, 1935-1940"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "robbie"
+        ]
+      },
+      "_said": "to the stone fountain to fill the M vase. Robbie sees her struggling with it and, you know, trying to be helpful or maybe trying to assert"
+    },
+    {
+      "fp": "133v6ng",
+      "i": 97,
+      "from": 22471,
+      "subject": "Cecilia Tallis",
+      "entities": [
+        "cecilia"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "a bored, elegant young Englishwoman of twenty-three in a green silk evening dress, dark hair pinned up, a cigarette, 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "cecilia"
+        ]
+      },
+      "_said": "assert some masculine authority. He insists on taking the vase from her to fill it And Cecilia, out of sheer pride, resists. She won't let go. They engage in this silent, intense,"
+    },
+    {
+      "fp": "1i57sk6",
+      "i": 98,
+      "from": 22783,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "intense, physical tugofwar over the lip of the and snap."
+    },
+    {
+      "fp": "pmb6cn",
+      "i": 99,
+      "from": 22920,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "snap. the worst possible sound. A piece of the priceless mice and porcelain breaks off and tumbles into the deep, dark water of the basin. It's a brilliant physical manifestation o"
+    },
+    {
+      "fp": "rjipde",
+      "i": 100,
+      "from": 23366,
+      "subject": "heart",
+      "entities": [],
+      "concept": "heart",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "heart, 1935"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": null,
+        "cast": []
+      },
+      "_said": "vase survived German artillery, but it is shattered by petty pride and misunderstanding between two people who actually love each other. And"
+    },
+    {
+      "fp": "1wup4wy",
+      "i": 101,
+      "from": 23599,
+      "subject": "Cecilia Tallis",
+      "entities": [
+        "cecilia"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "a bored, elegant young Englishwoman of twenty-three in a green silk evening dress, dark hair pinned up, a cigarette, 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "cecilia"
+        ]
+      },
+      "_said": "And then Cecilia does something extraordinary. Something that completely breaks the social script"
+    },
+    {
+      "fp": "1lrdfr0",
+      "i": 102,
+      "from": 23755,
+      "subject": "tree",
+      "entities": [],
+      "concept": "tree",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "tree, 1935"
+      },
+      "antidote": {
+        "concept": "tree",
+        "set": null,
+        "cast": []
+      },
+      "_said": "script of 1930s blight society. It's shocking really. To punish him, to deny him the chance to make amends or play the hero by rolling up his sleeve, she strips down right there in"
+    },
+    {
+      "fp": "xbtisg",
+      "i": 103,
+      "from": 24060,
+      "subject": "star",
+      "entities": [],
+      "concept": "star",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "star, standing just her underwear and she plunges into, 1935"
+      },
+      "antidote": {
+        "concept": "star",
+        "set": null,
+        "cast": []
+      },
+      "_said": "Right there in the glaring sunlight. She takes off her blouse and skirt standing just her underwear and she plunges into"
+    },
+    {
+      "fp": "117z659",
+      "i": 104,
+      "from": 24240,
+      "subject": "storm",
+      "entities": [],
+      "concept": "storm",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "storm, climbs out soaking wet, 1935"
+      },
+      "antidote": {
+        "concept": "storm",
+        "set": null,
+        "cast": []
+      },
+      "_said": "into the freezing scummy water of the basin to retrieve the pieces of porcelain herself. It's such a striking image. She climbs out soaking wet, dresses quickly while still drippin"
+    },
+    {
+      "fp": "1fesvxa",
+      "i": 105,
+      "from": 24564,
+      "subject": "Robbie Turner",
+      "entities": [
+        "robbie"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "a tall young Englishman in his early twenties, the housekeeper's son, shirtsleeves and braces in summer, later a private's battledress, 1935-1940, leaving robbie standing there dumbly"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "robbie"
+        ]
+      },
+      "_said": "away, leaving Robbie standing there dumbly. It is a moment"
+    },
+    {
+      "fp": "2660oi",
+      "i": 106,
+      "from": 24667,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "moment of intense aggressive vulnerability. It is sexual. It is furious. And it is entirely private. It is a messy,"
+    },
+    {
+      "fp": "islvf0",
+      "i": 107,
+      "from": 24916,
+      "subject": "Briony Tallis — ledge",
+      "entities": [
+        "briony"
+      ],
+      "concept": "ledge",
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "a thin, watchful thirteen-year-old English girl in a plain white summer dress, dark hair cut straight at the jaw, 1935"
+      },
+      "antidote": {
+        "concept": "ledge",
+        "set": null,
+        "cast": [
+          "briony"
+        ]
+      },
+      "_said": "messy, complex human interaction. But now McEwan does something absolute genius. He shifts our perspective. We zoom out. Two stories up. Looking out the nursery window is Briony. A"
+    },
+    {
+      "fp": "1xjjos",
+      "i": 108,
+      "from": 25334,
+      "subject": "Briony Tallis",
+      "entities": [
+        "briony"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "a thin, watchful thirteen-year-old English girl in a plain white summer dress, dark hair cut straight at the jaw, 1935, watching this entire scene from afar"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "briony"
+        ]
+      },
+      "_said": "McEwan's argument about epistemology, the study of how we know what we know. Briony is watching this entire scene from afar, but"
+    },
+    {
+      "fp": "18g7ik3",
+      "i": 109,
+      "from": 25560,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "watching a deeply, 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "but she is behind thick glass. She can't hear a single word of the It's exactly like watching a deeply"
+    },
+    {
+      "fp": "n0xe77",
+      "i": 110,
+      "from": 25745,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "deeply complex foreign artouse film on mute. But the only framework you have to guess the plot is like a collection"
+    },
+    {
+      "fp": "so56ox",
+      "i": 111,
+      "from": 25956,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "collection of Disney movies and medieval fairy tale. That's a perfect way to put it. You are going to wildly misinterpret the action on screen. Precisely. What actually happened wa"
+    },
+    {
+      "fp": "1dojvq0",
+      "i": 112,
+      "from": 26203,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "and a stubborn prideful retrieval. But"
+    },
+    {
+      "fp": "n1iipn",
+      "i": 113,
+      "from": 26277,
+      "subject": "Briony Tallis",
+      "entities": [
+        "briony"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "a thin, watchful thirteen-year-old English girl in a plain white summer dress, dark hair cut straight at the jaw, 1935, watches the pantoime of the struggle"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "briony"
+        ]
+      },
+      "_said": "But what Briony sees is entirely filtered through her fictional She's just guessing. She watches the pantoime of the struggle. She assumes first"
+    },
+    {
+      "fp": "1czs5in",
+      "i": 114,
+      "from": 26510,
+      "subject": "Robbie Turner — heart",
+      "entities": [
+        "robbie"
+      ],
+      "concept": "heart",
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "a tall young Englishman in his early twenties, the housekeeper's son, shirtsleeves and braces in summer, later a private's battledress, 1935-1940"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": null,
+        "cast": [
+          "robbie"
+        ]
+      },
+      "_said": "first that Robbie is proposing marriage, which is so funny, right? Because in her mind, the humble woodcutter asking for the princess's hand is a standard acceptable narrative arc."
+    },
+    {
+      "fp": "g8q1oq",
+      "i": 115,
+      "from": 26846,
+      "subject": "Cecilia Tallis",
+      "entities": [
+        "cecilia"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "a bored, elegant young Englishwoman of twenty-three in a green silk evening dress, dark hair pinned up, a cigarette, 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "cecilia"
+        ]
+      },
+      "_said": "arc. She expects Cecilia to gracefully accept or politely decline. But then Cecilia strips which completely"
+    },
+    {
+      "fp": "1cuzn8v",
+      "i": 116,
+      "from": 27055,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "completely shatters Briony's medieval framework, right? And instead of questioning her own understanding, instead of admitting she doesn't know what she's watching,"
+    },
+    {
+      "fp": "9d7idn",
+      "i": 117,
+      "from": 27297,
+      "subject": "Briony Tallis",
+      "entities": [
+        "briony"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "a thin, watchful thirteen-year-old English girl in a plain white summer dress, dark hair cut straight at the jaw, 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "briony"
+        ]
+      },
+      "_said": "watching, Briony immediately reframes the She just pivots. If this isn't a polite proposal, it must be coercion. She inexplicably assumes"
+    },
+    {
+      "fp": "n6iw8q",
+      "i": 118,
+      "from": 27545,
+      "subject": "Robbie Turner — family",
+      "entities": [
+        "robbie"
+      ],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "a tall young Englishman in his early twenties, the housekeeper's son, shirtsleeves and braces in summer, later a private's battledress, 1935-1940, stands at the window wondering what strange po"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": [
+          "robbie"
+        ]
+      },
+      "_said": "assumes that Robbie has commanded her sister to undress. She stands at the window wondering what strange power did he have over her? Blackmail, threats. This is such a critical poi"
+    },
+    {
+      "fp": "ayrc",
+      "i": 119,
+      "from": 27909,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "not the false accusation that comes much This is the founding crime of the novel. This is where a 13-year-old's"
+    },
+    {
+      "fp": "1mgonan",
+      "i": 120,
+      "from": 28075,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "13-year-old's literary imagination actively rewrites reality in real time. She doesn't just misunderstand the scene,"
+    },
+    {
+      "fp": "1bmsf4e",
+      "i": 121,
+      "from": 28274,
+      "subject": "Robbie Turner",
+      "entities": [
+        "robbie"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "a tall young Englishman in his early twenties, the housekeeper's son, shirtsleeves and braces in summer, later a private's battledress, 1935-1940"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "robbie"
+        ]
+      },
+      "_said": "scene, she is actively narrating it. She casts Robbie as the villain"
+    },
+    {
+      "fp": "ns51mj",
+      "i": 122,
+      "from": 28396,
+      "subject": "Briony Tallis",
+      "entities": [
+        "briony"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "a thin, watchful thirteen-year-old English girl in a plain white summer dress, dark hair cut straight at the jaw, 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "briony"
+        ]
+      },
+      "_said": "villain because villains are necessary for the drama she desires. And this is where McEwan shows us that interpretation itself can be an act of violence. Briony takes complex"
+    },
+    {
+      "fp": "qp7lnk",
+      "i": 123,
+      "from": 28675,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "complex autonomous adult emotions like pride, suppressed"
+    },
+    {
+      "fp": "yk723q",
+      "i": 124,
+      "from": 28788,
+      "subject": "school",
+      "entities": [],
+      "concept": "school",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "school, 1935"
+      },
+      "antidote": {
+        "concept": "school",
+        "set": null,
+        "cast": []
+      },
+      "_said": "suppressed sexual tension, class resentment, and she forces them into the flattened two-dimensional boxes of predator and It's so reductive. She prefers a dramatic, horrifying stor"
+    },
+    {
+      "fp": "2g1xxk",
+      "i": 125,
+      "from": 29109,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "to a confusing reality. The reality makes her feel small and ignorant. The story makes her feel omnisient. Okay,"
+    },
+    {
+      "fp": "1bmndg4",
+      "i": 126,
+      "from": 29320,
+      "subject": "Briony Tallis",
+      "entities": [
+        "briony"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "a thin, watchful thirteen-year-old English girl in a plain white summer dress, dark hair cut straight at the jaw, 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "briony"
+        ]
+      },
+      "_said": "Okay, so Bry has cast her villain. She has her narrative, but a narrative needs evidence. A villain needs a smoking gun. And that brings us to beat two because"
+    },
+    {
+      "fp": "sw2ed1",
+      "i": 127,
+      "from": 29594,
+      "subject": "crash",
+      "entities": [],
+      "concept": "crash",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "crash, arrives just a little while later, 1935"
+      },
+      "antidote": {
+        "concept": "crash",
+        "set": null,
+        "cast": []
+      },
+      "_said": "because that evidence arrives just a little while later, completely by accident. Ah, yes."
+    },
+    {
+      "fp": "17yqebs",
+      "i": 128,
+      "from": 29726,
+      "subject": "Robbie Turner — home",
+      "entities": [
+        "robbie"
+      ],
+      "concept": "home",
+      "place": "bedroom",
+      "confidence": 0.85,
+      "vox": {
+        "shot": "a tall young Englishman in his early twenties, the housekeeper's son, shirtsleeves and braces in summer, later a private's battledress, 1935-1940, Briony's tidy, over-ordered child's bedroom, models in rows"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": "bedroom",
+        "cast": [
+          "robbie"
+        ]
+      },
+      "_said": "yes. The typographical demon. Robbie is back in his room off the estate grounds. He is agonizing over what just happened at the fountain. He realizes he looked like an absolute foo"
+    },
+    {
+      "fp": "1atactd",
+      "i": 129,
+      "from": 29995,
+      "subject": "Cecilia Tallis — notes",
+      "entities": [
+        "cecilia"
+      ],
+      "concept": "notes",
+      "place": "library",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "a bored, elegant young Englishwoman of twenty-three in a green silk evening dress, dark hair pinned up, a cigarette, 1935, sits at his typewriter and drafts a letter, the dim Tallis library at dusk, tall shelves, one lamp"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": "library",
+        "cast": [
+          "cecilia"
+        ]
+      },
+      "_said": "and he wants to apologize to Cecilia. So, he sits at his typewriter and drafts a letter. And he's struggling. He types out a very polite, formal, distant version."
+    },
+    {
+      "fp": "1x1mvov",
+      "i": 130,
+      "from": 30240,
+      "subject": "Cecilia Tallis",
+      "entities": [
+        "cecilia"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "a bored, elegant young Englishwoman of twenty-three in a green silk evening dress, dark hair pinned up, a cigarette, 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "cecilia"
+        ]
+      },
+      "_said": "version. Dear Cecilia, I am so sorry for my clumsy behavior. It's stiff. It's exactly what society expects him to Yeah, but his mind is racing. He can't stop thinking about her wet"
+    },
+    {
+      "fp": "6mgxlj",
+      "i": 131,
+      "from": 30583,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": "library",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "notes, writes an explicit, the dim Tallis library at dusk, tall shelves, one lamp, 1935"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": "library",
+        "cast": []
+      },
+      "_said": "skin, the sheer fabric clinging to her, the incredible tension between them. So, on a scrap of paper, just to vent his own frustration, he writes an explicit, obscene,"
+    },
+    {
+      "fp": "4c42sj",
+      "i": 132,
+      "from": 30885,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": "library",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "notes, writes a word, the dim Tallis library at dusk, tall shelves, one lamp, 1935"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": "library",
+        "cast": []
+      },
+      "_said": "obscene, entirely honest version. He goes completely the other way. He writes a word. He writes exactly what he wants to do to her. It is an act of pure, unfiltered"
+    },
+    {
+      "fp": "10tlixs",
+      "i": 133,
+      "from": 31152,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "unfiltered psychological release. He has no intention of sending it. None at all. But we have to look at the mechanics of what happens next. Through a fateful distraction,"
+    },
+    {
+      "fp": "es5bw0",
+      "i": 134,
+      "from": 31428,
+      "subject": "Robbie Turner — shadowSelf",
+      "entities": [
+        "robbie"
+      ],
+      "concept": "shadowSelf",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "a tall young Englishman in his early twenties, the housekeeper's son, shirtsleeves and braces in summer, later a private's battledress, 1935-1940"
+      },
+      "antidote": {
+        "concept": "shadowSelf",
+        "cast": [
+          "robbie"
+        ]
+      },
+      "_said": "distraction, and McEwan hints it might be a Freudian slip, a subconscious desire for things to finally be brought to light. Robbie slides"
+    },
+    {
+      "fp": "16it4t0",
+      "i": 135,
+      "from": 31663,
+      "subject": "Briony Tallis and Cecilia Tallis — home",
+      "entities": [
+        "briony",
+        "cecilia"
+      ],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "a thin, watchful thirteen-year-old English girl in a plain white summer dress, dark hair cut straight at the jaw, 1935 and a bored, elegant young Englishwoman of twenty-three in a green silk evening dress, dark hair pinned up, a cigarette, 1935, leaves the polite one sitting on his desk"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": [
+          "briony",
+          "cecilia"
+        ]
+      },
+      "_said": "slides the explicit draft into the Oh god. And he leaves the polite one sitting on his desk. He seals it and he walks out. He runs into Briony on the estate grounds and asks her to"
+    },
+    {
+      "fp": "3pgkp9",
+      "i": 136,
+      "from": 32049,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "walking back to your room, 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Robbie's shoes for a second. Imagine the sheer icy heartstoppping panic when you are walking back to your room. You look at your desk and you"
+    },
+    {
+      "fp": "zdn6kh",
+      "i": 137,
+      "from": 32311,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": "library",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "notes, sitting there, the dim Tallis library at dusk, tall shelves, one lamp, 1935"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": "library",
+        "cast": []
+      },
+      "_said": "you see the polite letter sitting there. It's a stomach-dopping moment. You suddenly realize with"
+    },
+    {
+      "fp": "1shuw5y",
+      "i": 138,
+      "from": 32467,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": "library",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "notes, the dim Tallis library at dusk, tall shelves, one lamp, 1935"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": "library",
+        "cast": []
+      },
+      "_said": "with absolute terrifying certainty that you just handed a deeply explicit obscene note to"
+    },
+    {
+      "fp": "etewvo",
+      "i": 139,
+      "from": 32673,
+      "subject": "Robbie Turner — heart",
+      "entities": [
+        "robbie"
+      ],
+      "concept": "heart",
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "a tall young Englishman in his early twenties, the housekeeper's son, shirtsleeves and braces in summer, later a private's battledress, 1935-1940"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": null,
+        "cast": [
+          "robbie"
+        ]
+      },
+      "_said": "to a 13-year-old girl to deliver to the woman you love. It is a moment of sheer horror because Robbie"
+    },
+    {
+      "fp": "7g9pnu",
+      "i": 140,
+      "from": 32858,
+      "subject": "Briony Tallis and Robbie Turner — notes",
+      "entities": [
+        "briony",
+        "robbie"
+      ],
+      "concept": "notes",
+      "place": "library",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "a thin, watchful thirteen-year-old English girl in a plain white summer dress, dark hair cut straight at the jaw, 1935 and a tall young Englishman in his early twenties, the housekeeper's son, shirtsleeves and braces in summer, later a private's battledress, 1935-1940, the dim Tallis library at dusk, tall shelves, one lamp"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": "library",
+        "cast": [
+          "briony",
+          "robbie"
+        ]
+      },
+      "_said": "Robbie knows Bry. He knows she is nosy. He knows she is obsessed with secrets. Of course, she is. And of course, Briony does not just deliver the letter, driven by that same desire"
+    },
+    {
+      "fp": "zjlfz6",
+      "i": 141,
+      "from": 33182,
+      "subject": "lightbulb",
+      "entities": [],
+      "concept": "lightbulb",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "lightbulb, walks to the bridge, 1935"
+      },
+      "antidote": {
+        "concept": "lightbulb",
+        "cast": []
+      },
+      "_said": "narrative discovery. She intercepts it. She walks to the bridge, hides, and rips open the And she reads the word, a word she has never heard spoken aloud, let alone seen typed in d"
+    },
+    {
+      "fp": "1x33mkd",
+      "i": 142,
+      "from": 33540,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "You have a 13-year-old girl with absolutely no framework"
+    },
+    {
+      "fp": "1fducx8",
+      "i": 143,
+      "from": 33641,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "reading this intensely explicit language, 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "for adult sexuality reading this intensely explicit language. completely shorts out her brain. To her, it isn't a clumsy, passionate expression of adult desire. It is a confirmatio"
+    },
+    {
+      "fp": "1y56sy6",
+      "i": 144,
+      "from": 34005,
+      "subject": "Robbie Turner — notes",
+      "entities": [
+        "robbie"
+      ],
+      "concept": "notes",
+      "place": "library",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "a tall young Englishman in his early twenties, the housekeeper's son, shirtsleeves and braces in summer, later a private's battledress, 1935-1940, the dim Tallis library at dusk, tall shelves, one lamp"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": "library",
+        "cast": [
+          "robbie"
+        ]
+      },
+      "_said": "gun. She immediately brands Robbie a maniac. We really have to unpack the profound irony here. McEwan is playing a brilliant game with the concept of truth in writing. How so? Well"
+    },
+    {
+      "fp": "1yt4h6a",
+      "i": 145,
+      "from": 34301,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Robbie's explicit, obscene draft was the truthful one. It expressed his real raw human feelings."
+    },
+    {
+      "fp": "8hfy8u",
+      "i": 146,
+      "from": 34514,
+      "subject": "Briony Tallis",
+      "entities": [
+        "briony"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "a thin, watchful thirteen-year-old English girl in a plain white summer dress, dark hair cut straight at the jaw, 1935, sitting safely on his desk was the fiction"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "briony"
+        ]
+      },
+      "_said": "feelings. The polite draft sitting safely on his desk was the fiction. It was a social performance, a lie designed to keep the peace. Oh, that is so good. But Bry,"
+    },
+    {
+      "fp": "124t5mw",
+      "i": 147,
+      "from": 34790,
+      "subject": "Briony Tallis",
+      "entities": [
+        "briony"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "a thin, watchful thirteen-year-old English girl in a plain white summer dress, dark hair cut straight at the jaw, 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "briony"
+        ]
+      },
+      "_said": "Bry, the aspiring fiction writer who claims to seek truth in art, is entirely incapable"
+    },
+    {
+      "fp": "1dghfzi",
+      "i": 148,
+      "from": 34929,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "reading actual truth, 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "incapable of reading actual truth. She reads the true expression of human desire and categorizes it as clinical She actually feels this a sort of dark thrill,"
+    },
+    {
+      "fp": "1u60bb7",
+      "i": 149,
+      "from": 35186,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "thrill, right? Miss McEwan calls it a vile excitement. Yes. Because reality has finally provided her with the melodramatic villain she's been craving for her stories."
+    },
+    {
+      "fp": "s4v2m3",
+      "i": 150,
+      "from": 35450,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": "library",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "notes, the dim Tallis library at dusk, tall shelves, one lamp, 1935"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": "library",
+        "cast": []
+      },
+      "_said": "stories. The letter validates the false narrative she created at the window. She is no longer just a bored child. She is now a crusader, a protector, which propels her right into b"
+    },
+    {
+      "fp": "cvuc2v",
+      "i": 151,
+      "from": 35745,
+      "subject": "Briony Tallis — notes",
+      "entities": [
+        "briony"
+      ],
+      "concept": "notes",
+      "place": "library",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "a thin, watchful thirteen-year-old English girl in a plain white summer dress, dark hair cut straight at the jaw, 1935, the dim Tallis library at dusk, tall shelves, one lamp"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": "library",
+        "cast": [
+          "briony"
+        ]
+      },
+      "_said": "three, the next disaster's moment. Briony, armed with this letter, feeling like the righteous detective protecting her older sister from a predator,"
+    },
+    {
+      "fp": "13y27f2",
+      "i": 152,
+      "from": 35968,
+      "subject": "Cecilia Tallis — home",
+      "entities": [
+        "cecilia"
+      ],
+      "concept": "home",
+      "place": "library",
+      "confidence": 0.85,
+      "vox": {
+        "shot": "a bored, elegant young Englishwoman of twenty-three in a green silk evening dress, dark hair pinned up, a cigarette, 1935, the dim Tallis library at dusk, tall shelves, one lamp"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": "library",
+        "cast": [
+          "cecilia"
+        ]
+      },
+      "_said": "predator, goes searching for Cecilia in the dark, sprawling house. The library scene. This"
+    },
+    {
+      "fp": "hm22xt",
+      "i": 153,
+      "from": 36113,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "is where McEwan's narrative architecture really shines. He employs a literary technique akin to cubism in painting."
+    },
+    {
+      "fp": "svqw2r",
+      "i": 154,
+      "from": 36302,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": "library",
+      "confidence": 0.35,
+      "vox": {
+        "shot": "the dim Tallis library at dusk, tall shelves, one lamp, 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": "library",
+        "cast": []
+      },
+      "_said": "painting. Cubism like Picasso. Exactly. He gives us the exact same event from three different perspectives, forcing the reader to experience how interpretation is inherently subjec"
+    },
+    {
+      "fp": "1a5b5x9",
+      "i": 155,
+      "from": 36756,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "only a single green desk lamp turned on, casting these long, deep shadows."
+    },
+    {
+      "fp": "7wrthr",
+      "i": 156,
+      "from": 36888,
+      "subject": "Briony Tallis",
+      "entities": [
+        "briony"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "a thin, watchful thirteen-year-old English girl in a plain white summer dress, dark hair cut straight at the jaw, 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "briony"
+        ]
+      },
+      "_said": "shadows. Briony pushes open the heavy oak doors. And in"
+    },
+    {
+      "fp": "5rjc21",
+      "i": 157,
+      "from": 36977,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "in the corner among the shelves, she sees two dark Let's look at"
+    },
+    {
+      "fp": "ram41z",
+      "i": 158,
+      "from": 37116,
+      "subject": "Robbie Turner",
+      "entities": [
+        "robbie"
+      ],
+      "concept": null,
+      "place": "library",
+      "confidence": 0.85,
+      "vox": {
+        "shot": "a tall young Englishman in his early twenties, the housekeeper's son, shirtsleeves and braces in summer, later a private's battledress, 1935-1940, the dim Tallis library at dusk, tall shelves, one lamp"
+      },
+      "antidote": {
+        "concept": null,
+        "set": "library",
+        "cast": [
+          "robbie"
+        ]
+      },
+      "_said": "at this from Robbie and Cecilia's perspective first. For them, this moment in the dark library is the consummation of years of unbearable They finally break. They have finally spok"
+    },
+    {
+      "fp": "irg5zv",
+      "i": 159,
+      "from": 37416,
+      "subject": "heart",
+      "entities": [],
+      "concept": "heart",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "heart, 1935"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": null,
+        "cast": []
+      },
+      "_said": "They have acknowledged their feelings. It is consensual. It's desperate. And it's the most profoundly honest moment they have ever shared. It is an act of deep love. But now, shift"
+    },
+    {
+      "fp": "xz3mcg",
+      "i": 160,
+      "from": 37701,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "Bry's perspective. As her eyes adjust to the gloom, her brain doesn't just passively record what she sees. Her brain actively fills in the shadows using the narrative she has alrea"
+    },
+    {
+      "fp": "qbc4mr",
+      "i": 161,
+      "from": 38013,
+      "subject": "Robbie Turner — family",
+      "entities": [
+        "robbie"
+      ],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "a tall young Englishman in his early twenties, the housekeeper's son, shirtsleeves and braces in summer, later a private's battledress, 1935-1940"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": [
+          "robbie"
+        ]
+      },
+      "_said": "constructed. This is textbook confirmation bias completely. She perceives an attack. She sees Robbie pushing his body against her sister, gripping her hair."
+    },
+    {
+      "fp": "1izxu04",
+      "i": 162,
+      "from": 38244,
+      "subject": "Robbie Turner",
+      "entities": [
+        "robbie"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "a tall young Englishman in his early twenties, the housekeeper's son, shirtsleeves and braces in summer, later a private's battledress, 1935-1940"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "robbie"
+        ]
+      },
+      "_said": "hair. She assumes Cecilia's raised arm, which is actually pulling Robbie closer, is a gesture of It perfectly, seamlessly confirms the story she wants to tell. Robbie"
+    },
+    {
+      "fp": "1ftvfnt",
+      "i": 163,
+      "from": 38544,
+      "subject": "Cecilia Tallis and Robbie Turner",
+      "entities": [
+        "cecilia",
+        "robbie"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "a bored, elegant young Englishwoman of twenty-three in a green silk evening dress, dark hair pinned up, a cigarette, 1935 and a tall young Englishman in his early twenties, the housekeeper's son, shirtsleeves and braces in summer, later a private's battledress, 1935-1940"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "cecilia",
+          "robbie"
+        ]
+      },
+      "_said": "Robbie is the maniac predator. Cecilia is the helpless The tragedy is that she literally cannot see it any other way."
+    },
+    {
+      "fp": "192w8js",
+      "i": 164,
+      "from": 38743,
+      "subject": "Robbie Turner",
+      "entities": [
+        "robbie"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "a tall young Englishman in his early twenties, the housekeeper's son, shirtsleeves and braces in summer, later a private's battledress, 1935-1940"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "robbie"
+        ]
+      },
+      "_said": "way. Her preconceived narrative blinds her to reality. And Robbie looks over his shoulder"
+    },
+    {
+      "fp": "w503m1",
+      "i": 165,
+      "from": 38875,
+      "subject": "Briony Tallis and Robbie Turner — notes",
+      "entities": [
+        "briony",
+        "robbie"
+      ],
+      "concept": "notes",
+      "place": "library",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "a thin, watchful thirteen-year-old English girl in a plain white summer dress, dark hair cut straight at the jaw, 1935 and a tall young Englishman in his early twenties, the housekeeper's son, shirtsleeves and braces in summer, later a private's battledress, 1935-1940, standing there in the doorway staring at them, the dim Tallis library at dusk, tall shelves, one lamp"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": "library",
+        "cast": [
+          "briony",
+          "robbie"
+        ]
+      },
+      "_said": "shoulder and sees Briony standing there in the doorway staring at them. McEwan writes this devastating line where Robbie realizes he had"
+    },
+    {
+      "fp": "jvw5cm",
+      "i": 166,
+      "from": 39110,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "had never hated anyone until now because he knows. He knows exactly what she is thinking. Propelled from the depths of her ignorance and silly imagining."
+    },
+    {
+      "fp": "6bbxek",
+      "i": 167,
+      "from": 39341,
+      "subject": "Briony Tallis",
+      "entities": [
+        "briony"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "a thin, watchful thirteen-year-old English girl in a plain white summer dress, dark hair cut straight at the jaw, 1935, runs away"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "briony"
+        ]
+      },
+      "_said": "imagining. Bry had come to call a halt to his life. And Bry runs away. Her fictional narrative is now fully baked. She has the motive from the fountain window. She"
+    },
+    {
+      "fp": "1wv5xj4",
+      "i": 168,
+      "from": 39624,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": "library",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "notes, the dim Tallis library at dusk, tall shelves, one lamp, 1935"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": "library",
+        "cast": []
+      },
+      "_said": "She has the documentary evidence of the explicit letter. And now she has the eyewitness confirmation of the library. The story is complete in her mind. It just needs a catalyst to "
+    },
+    {
+      "fp": "xziono",
+      "i": 169,
+      "from": 39900,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "permanently from her imagination into reality. Which brings us to beat four. The accusation."
+    },
+    {
+      "fp": "1hjxpyu",
+      "i": 170,
+      "from": 40046,
+      "subject": "butterfly",
+      "entities": [],
+      "concept": "butterfly",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "butterfly, arrives a few hours later, 1935"
+      },
+      "antidote": {
+        "concept": "butterfly",
+        "set": null,
+        "cast": []
+      },
+      "_said": "accusation. That catalyst arrives a few hours later, plunging the entire estate into darkness and chaos. It is the evening of the dinner party. The tension at the table is unbearab"
+    },
+    {
+      "fp": "13fi6x4",
+      "i": 171,
+      "from": 40399,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": "library",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "notes, run away into the night, the dim Tallis library at dusk, tall shelves, one lamp, 1935"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": "library",
+        "cast": []
+      },
+      "_said": "that the 9-year-old twins, Jackson and Piro, have run away into the night. They leave a note saying they are going home. Everyone panics. The men grab flashlights."
+    },
+    {
+      "fp": "1lcvfaw",
+      "i": 172,
+      "from": 40661,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "flashlights. They form search parties. And everyone heads out into the"
+    },
+    {
+      "fp": "11jciwg",
+      "i": 173,
+      "from": 40745,
+      "subject": "Briony Tallis — water",
+      "entities": [
+        "briony"
+      ],
+      "concept": "water",
+      "place": "shore",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "a thin, watchful thirteen-year-old English girl in a plain white summer dress, dark hair cut straight at the jaw, 1935, the beach at Dunkirk, men and abandoned equipment to the waterline"
+      },
+      "antidote": {
+        "concept": "water",
+        "set": "shore",
+        "cast": [
+          "briony"
+        ]
+      },
+      "_said": "pitch black sprawling grounds of the estate. Brainy is wandering alone near the lake, searching in the dark. She hears a sound, a rustling in the bushes. And there on the ground in"
+    },
+    {
+      "fp": "1n6zvn0",
+      "i": 174,
+      "from": 41088,
+      "subject": "Lola Quincey",
+      "entities": [
+        "lola"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "a fifteen-year-old English girl, coppery hair, an older girl's dress worn too deliberately, 1935, sitting up hugging herself"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "lola"
+        ]
+      },
+      "_said": "finds her 15-year-old cousin Lola. And Lola has been brutally assaulted. Lola is terrified. She's sitting up hugging herself, rocking."
+    },
+    {
+      "fp": "1pscw0y",
+      "i": 175,
+      "from": 41333,
+      "subject": "Briony Tallis",
+      "entities": [
+        "briony"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "a thin, watchful thirteen-year-old English girl in a plain white summer dress, dark hair cut straight at the jaw, 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "briony"
+        ]
+      },
+      "_said": "rocking. When Brainy asks who did it, Lola's voice is faint."
+    },
+    {
+      "fp": "15uz0zf",
+      "i": 176,
+      "from": 41405,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "faint. It's confused. She says, \"I couldn't say for sure. I thought it might be him by his voice.\" She didn't see clearly at all. No. The attacker had his hand over her eyes. She i"
+    },
+    {
+      "fp": "1y7q45l",
+      "i": 177,
+      "from": 41817,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "there is a phenomenon known as the misinformation effect where a person's"
+    },
+    {
+      "fp": "1el4cp8",
+      "i": 178,
+      "from": 41933,
+      "subject": "Briony Tallis",
+      "entities": [
+        "briony"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "a thin, watchful thirteen-year-old English girl in a plain white summer dress, dark hair cut straight at the jaw, 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "briony"
+        ]
+      },
+      "_said": "person's memory of an event becomes less accurate due to post-event Yes. Briony steps into the vacuum of Lola's trauma and completely overrides it"
+    },
+    {
+      "fp": "1x68gxe",
+      "i": 179,
+      "from": 42247,
+      "subject": "Briony Tallis and Lola Quincey",
+      "entities": [
+        "briony",
+        "lola"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "a thin, watchful thirteen-year-old English girl in a plain white summer dress, dark hair cut straight at the jaw, 1935 and a fifteen-year-old English girl, coppery hair, an older girl's dress worn too deliberately, 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "briony",
+          "lola"
+        ]
+      },
+      "_said": "it with absolute terrifying conviction. She doesn't ask Lola what happened. She tells her it's chilling. Briony says, \"I saw him. I saw him.\""
+    },
+    {
+      "fp": "ftanju",
+      "i": 180,
+      "from": 42485,
+      "subject": "Briony Tallis and Robbie Turner",
+      "entities": [
+        "briony",
+        "robbie"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "a thin, watchful thirteen-year-old English girl in a plain white summer dress, dark hair cut straight at the jaw, 1935 and a tall young Englishman in his early twenties, the housekeeper's son, shirtsleeves and braces in summer, later a private's battledress, 1935-1940"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "briony",
+          "robbie"
+        ]
+      },
+      "_said": "And she names Robbie. Briony uses her power as a storyteller. Her forcal confident voice to completely"
+    },
+    {
+      "fp": "7mvdch",
+      "i": 181,
+      "from": 42705,
+      "subject": "Lola Quincey",
+      "entities": [
+        "lola"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "a fifteen-year-old English girl, coppery hair, an older girl's dress worn too deliberately, 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "lola"
+        ]
+      },
+      "_said": "completely overtake Lola's reality. Lola is a traumatized child herself and she"
+    },
+    {
+      "fp": "1qoy8e1",
+      "i": 182,
+      "from": 42849,
+      "subject": "Briony Tallis and Lola Quincey",
+      "entities": [
+        "briony",
+        "lola"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "a thin, watchful thirteen-year-old English girl in a plain white summer dress, dark hair cut straight at the jaw, 1935 and a fifteen-year-old English girl, coppery hair, an older girl's dress worn too deliberately, 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "briony",
+          "lola"
+        ]
+      },
+      "_said": "she simply retreats behind Bry's zeal. It's easier for her. Exactly. Lola allows Briony to do the heavy lifting of the accusation because it is easier than facing"
+    },
+    {
+      "fp": "fsiwmf",
+      "i": 183,
+      "from": 43106,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "facing the horrific truth of what just happened to her. And we as readers have been given clues, subtle dark breadcrumbs about the true predator on the estate. Right. Call Marshall"
+    },
+    {
+      "fp": "3waqk9",
+      "i": 184,
+      "from": 43497,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, 1935"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": []
+      },
+      "_said": "Briony's older brother. He made a fortune manufacturing Elmo chocolate bars for the army. He basically represents the encroaching opportunism and capitalism of the impending war. R"
+    },
+    {
+      "fp": "1xsn4vl",
+      "i": 185,
+      "from": 43908,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "stared at 15-year-old Lola's crossed legs earlier in the day. The deeply unsettling moment when he offered her a chocolate bar, framing it almost like a"
+    },
+    {
+      "fp": "19bwl9b",
+      "i": 186,
+      "from": 44153,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "a sexual conquest. Yeah. And the moment he excused the angry scratches on Lola's arm is"
+    },
+    {
+      "fp": "ddw5cg",
+      "i": 187,
+      "from": 44297,
+      "subject": "Robbie Turner — fire",
+      "entities": [
+        "robbie"
+      ],
+      "concept": "fire",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "a tall young Englishman in his early twenties, the housekeeper's son, shirtsleeves and braces in summer, later a private's battledress, 1935-1940"
+      },
+      "antidote": {
+        "concept": "fire",
+        "cast": [
+          "robbie"
+        ]
+      },
+      "_said": "is just Chinese burns given by the twins. He is a textbook predator hiding in plain But Briony's mind is a steel trap. Her story requires Robbie to be the villain. So her brain lit"
+    },
+    {
+      "fp": "1kczj96",
+      "i": 188,
+      "from": 44673,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "blocks out Paul Marshall. And the specific language McEwan uses here is critical. The I saw him. Yes."
+    },
+    {
+      "fp": "t0jpfa",
+      "i": 189,
+      "from": 44834,
+      "subject": "Briony Tallis — law",
+      "entities": [
+        "briony"
+      ],
+      "concept": "law",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "a thin, watchful thirteen-year-old English girl in a plain white summer dress, dark hair cut straight at the jaw, 1935"
+      },
+      "antidote": {
+        "concept": "law",
+        "set": null,
+        "cast": [
+          "briony"
+        ]
+      },
+      "_said": "Yes. When Bry tells the police, \"I saw him,\" it is fundamentally a lie. She did not see him clearly in the dark. She saw a shadow. But in"
+    },
+    {
+      "fp": "amhnm9",
+      "i": 190,
+      "from": 45055,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, 1935"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": []
+      },
+      "_said": "in the constructed airtight reality of her narrative, she believes it is the absolute truth. She forces the ambiguous shadow to fit the shape of her chosen villain. And the family "
+    },
+    {
+      "fp": "17bav7z",
+      "i": 191,
+      "from": 45420,
+      "subject": "Briony Tallis and Cecilia Tallis — family",
+      "entities": [
+        "briony",
+        "cecilia"
+      ],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "a thin, watchful thirteen-year-old English girl in a plain white summer dress, dark hair cut straight at the jaw, 1935 and a bored, elegant young Englishwoman of twenty-three in a green silk evening dress, dark hair pinned up, a cigarette, 1935"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": [
+          "briony",
+          "cecilia"
+        ]
+      },
+      "_said": "talk about 1930s British class Oh, absolutely. The Tallis family, with the exception of Cecilia, easily closes ranks"
+    },
+    {
+      "fp": "19dl1bz",
+      "i": 192,
+      "from": 45614,
+      "subject": "Robbie Turner",
+      "entities": [
+        "robbie"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "a tall young Englishman in his early twenties, the housekeeper's son, shirtsleeves and braces in summer, later a private's battledress, 1935-1940"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "robbie"
+        ]
+      },
+      "_said": "ranks and believes Robbie is guilty. Why? Because of his socioeconomic background. He is the cleaning lady's Right."
+    },
+    {
+      "fp": "hdkpn2",
+      "i": 193,
+      "from": 45823,
+      "subject": "Briony Tallis and Cecilia Tallis",
+      "entities": [
+        "briony",
+        "cecilia"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "a thin, watchful thirteen-year-old English girl in a plain white summer dress, dark hair cut straight at the jaw, 1935 and a bored, elegant young Englishwoman of twenty-three in a green silk evening dress, dark hair pinned up, a cigarette, 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "briony",
+          "cecilia"
+        ]
+      },
+      "_said": "Right. The leveling principle of Jack Tallis"
+    },
+    {
+      "fp": "1uwt00g",
+      "i": 194,
+      "from": 45883,
+      "subject": "Briony Tallis and Cecilia Tallis and Robbie Turner",
+      "entities": [
+        "briony",
+        "cecilia",
+        "robbie"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "a thin, watchful thirteen-year-old English girl in a plain white summer dress, dark hair cut straight at the jaw, 1935 and a bored, elegant young Englishwoman of twenty-three in a green silk evening dress, dark hair pinned up, a cigarette, 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "briony",
+          "cecilia",
+          "robbie"
+        ]
+      },
+      "_said": "Tallis subsidizing Robbie Yui's education was always viewed with deep aristocratic suspicion by Briy's"
+    },
+    {
+      "fp": "hpvtny",
+      "i": 195,
+      "from": 46061,
+      "subject": "Robbie Turner — family",
+      "entities": [
+        "robbie"
+      ],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "a tall young Englishman in his early twenties, the housekeeper's son, shirtsleeves and braces in summer, later a private's battledress, 1935-1940"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": [
+          "robbie"
+        ]
+      },
+      "_said": "Briy's mother, Emily. She always felt Robbie was out of his depth, that he was a dangerous element brought into their pristine world. When the accusation is made, they don't look a"
+    },
+    {
+      "fp": "1karnjs",
+      "i": 196,
+      "from": 46457,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "their inherent biases. The unspoken sentiment is, \"Well, we took him in. We gave him everything.\" And his base"
+    },
+    {
+      "fp": "1o4j1yv",
+      "i": 197,
+      "from": 46646,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "base lowerass nature prevailed. This is how he repays us. The aftermath is just devastating."
+    },
+    {
+      "fp": "1hmwxpl",
+      "i": 198,
+      "from": 46809,
+      "subject": "Robbie Turner — home",
+      "entities": [
+        "robbie"
+      ],
+      "concept": "home",
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "a tall young Englishman in his early twenties, the housekeeper's son, shirtsleeves and braces in summer, later a private's battledress, 1935-1940, walks out of the mist holding"
+      },
+      "antidote": {
+        "concept": "home",
+        "set": null,
+        "cast": [
+          "robbie"
+        ]
+      },
+      "_said": "devastating. Robbie returns to the house exhausted. And the bitter irony, he has actually found the missing twins. He's a hero. He walks out of the mist holding"
+    },
+    {
+      "fp": "k8bty0",
+      "i": 199,
+      "from": 47045,
+      "subject": "Cecilia Tallis — family",
+      "entities": [
+        "cecilia"
+      ],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "a bored, elegant young Englishwoman of twenty-three in a green silk evening dress, dark hair pinned up, a cigarette, 1935"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": [
+          "cecilia"
+        ]
+      },
+      "_said": "them, having protected them all night. But the police are waiting. The handcuffs go on. The family stands on the steps judging him. Cecilia is the only one who runs to She whispers"
+    },
+    {
+      "fp": "fxtrpq",
+      "i": 200,
+      "from": 47395,
+      "subject": "Robbie Turner — family",
+      "entities": [
+        "robbie"
+      ],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "a tall young Englishman in his early twenties, the housekeeper's son, shirtsleeves and braces in summer, later a private's battledress, 1935-1940"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": [
+          "robbie"
+        ]
+      },
+      "_said": "completely severing herself from her family forever in that single moment. Robbie is put into the back of a police car and taken"
+    },
+    {
+      "fp": "wu1r1c",
+      "i": 201,
+      "from": 47608,
+      "subject": "law",
+      "entities": [],
+      "concept": "law",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "law, 1935"
+      },
+      "antidote": {
+        "concept": "law",
+        "set": null,
+        "cast": []
+      },
+      "_said": "taken away to Wsworth Prison. Three lives completely detonated by"
+    },
+    {
+      "fp": "r16638",
+      "i": 202,
+      "from": 47717,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "by a single sentence constructed by a child. And this brings us to beat five, which is the great structural pivot of the novel. McEwan closes the door on the stifling polite world"
+    },
+    {
+      "fp": "1ryksek",
+      "i": 203,
+      "from": 48009,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "world of 1935. The story snaps forward 5 years to 1940. Yes. The beautiful, wealthy, sheltered world"
+    },
+    {
+      "fp": "p58s44",
+      "i": 204,
+      "from": 48261,
+      "subject": "Briony Tallis and Cecilia Tallis",
+      "entities": [
+        "briony",
+        "cecilia"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "a thin, watchful thirteen-year-old English girl in a plain white summer dress, dark hair cut straight at the jaw, 1935 and a bored, elegant young Englishwoman of twenty-three in a green silk evening dress, dark hair pinned up, a cigarette, 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "briony",
+          "cecilia"
+        ]
+      },
+      "_said": "world of the Tallis estate is gone. It is replaced by the grim, visceral, bodily realities"
+    },
+    {
+      "fp": "e49jje",
+      "i": 205,
+      "from": 48432,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, 1935"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "realities of World War II. The consequences of Bry's fictional story are now going to be paid in blood. Which drops us"
+    },
+    {
+      "fp": "ce5975",
+      "i": 206,
+      "from": 48631,
+      "subject": "Robbie Turner — law",
+      "entities": [
+        "robbie"
+      ],
+      "concept": "law",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "a tall young Englishman in his early twenties, the housekeeper's son, shirtsleeves and braces in summer, later a private's battledress, 1935-1940"
+      },
+      "antidote": {
+        "concept": "law",
+        "set": null,
+        "cast": [
+          "robbie"
+        ]
+      },
+      "_said": "us into Robbie at Dunkirk. Robbie has been released from prison early, but only on the condition that he joins the infantry. He's now part"
+    },
+    {
+      "fp": "1hvwh2a",
+      "i": 207,
+      "from": 48842,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": "library",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "notes, the dim Tallis library at dusk, tall shelves, one lamp, 1935"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": "library",
+        "cast": []
+      },
+      "_said": "part of the disastrous chaotic British retreat through France to the beaches of It's a harrowing sequence and I have to say the writing in this"
+    },
+    {
+      "fp": "1xbnci9",
+      "i": 208,
+      "from": 49065,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, 1935"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "this section McEwan delivers what has to be one of the greatest, most sustained horrific war sequences in contemporary It is entirely visceral. It is a complete inversion of Brainy"
+    },
+    {
+      "fp": "1jtrfom",
+      "i": 209,
+      "from": 49363,
+      "subject": "Robbie Turner",
+      "entities": [
+        "robbie"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "a tall young Englishman in his early twenties, the housekeeper's son, shirtsleeves and braces in summer, later a private's battledress, 1935-1940"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "robbie"
+        ]
+      },
+      "_said": "Brainy's neat moral universe. Robbie is suffering from a piece of shrapnel embedded in his side. The wound is slowly turning gangrous. He is marching through"
+    },
+    {
+      "fp": "16cif87",
+      "i": 210,
+      "from": 49644,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "through the ruined French countryside, surrounded by"
+    },
+    {
+      "fp": "1n1t4vx",
+      "i": 211,
+      "from": 49725,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, 1935"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "by the undeniable bodily realities of war. The dead soldiers rotting in the ditches,"
+    },
+    {
+      "fp": "1sa1eiv",
+      "i": 212,
+      "from": 49891,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "ditches, the bomb civilian convoys, the sheer"
+    },
+    {
+      "fp": "5dtzd3",
+      "i": 213,
+      "from": 49970,
+      "subject": "Robbie Turner — war",
+      "entities": [
+        "robbie"
+      ],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "a tall young Englishman in his early twenties, the housekeeper's son, shirtsleeves and braces in summer, later a private's battledress, 1935-1940"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": [
+          "robbie"
+        ]
+      },
+      "_said": "sheer apocalyptic scale of the collapse on the There is one specific image that just brands itself into your brain. And it speaks directly to how war destroys the concept of narrat"
+    },
+    {
+      "fp": "1r0t4z9",
+      "i": 214,
+      "from": 50460,
+      "subject": "tree",
+      "entities": [],
+      "concept": "tree",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "tree, 1935"
+      },
+      "antidote": {
+        "concept": "tree",
+        "set": null,
+        "cast": []
+      },
+      "_said": "after a stooka dive bombing. a leg in a tree. The utter indifference of industrial It completely shatters"
+    },
+    {
+      "fp": "omwb77",
+      "i": 215,
+      "from": 50642,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "shatters the neat Victorian universe of Bry's childhood plays where good is rewarded and evil"
+    },
+    {
+      "fp": "30u4wg",
+      "i": 216,
+      "from": 50784,
+      "subject": "Robbie Turner — butterfly",
+      "entities": [
+        "robbie"
+      ],
+      "concept": "butterfly",
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "a tall young Englishman in his early twenties, the housekeeper's son, shirtsleeves and braces in summer, later a private's battledress, 1935-1940"
+      },
+      "antidote": {
+        "concept": "butterfly",
+        "set": null,
+        "cast": [
+          "robbie"
+        ]
+      },
+      "_said": "evil is punished. Out here there is no moral arc. Chaos reigns. Through all of this mud, blood, and delirium, Robbie has one singular sustaining thought which is clearing his He re"
+    },
+    {
+      "fp": "1nwwdmy",
+      "i": 217,
+      "from": 51158,
+      "subject": "road",
+      "entities": [],
+      "concept": "road",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "road, wait for you, 1935"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": null,
+        "cast": []
+      },
+      "_said": "Cecilia's letters like a mantra, right? I'll wait for you. Come back. His drive to survive, to put one foot in front of the other despite"
+    },
+    {
+      "fp": "6h15mv",
+      "i": 218,
+      "from": 51388,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "despite the spreading infection in his side, is fueled entirely by the"
+    },
+    {
+      "fp": "1tl04t4",
+      "i": 219,
+      "from": 51506,
+      "subject": "Cecilia Tallis",
+      "entities": [
+        "cecilia"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "a bored, elegant young Englishwoman of twenty-three in a green silk evening dress, dark hair pinned up, a cigarette, 1935, reading this and you are so desperately rooting"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "cecilia"
+        ]
+      },
+      "_said": "the need to return to Cecilia, to prove his innocence, and to live a life without It is heartbreaking. You are reading this and you are so desperately rooting for him to make it to"
+    },
+    {
+      "fp": "1p82uny",
+      "i": 220,
+      "from": 51991,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "there is a devastating trick being played on you, the reader, right because none"
+    },
+    {
+      "fp": "1ulp0wy",
+      "i": 221,
+      "from": 52135,
+      "subject": "Briony Tallis and Robbie Turner",
+      "entities": [
+        "briony",
+        "robbie"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "a thin, watchful thirteen-year-old English girl in a plain white summer dress, dark hair cut straight at the jaw, 1935 and a tall young Englishman in his early twenties, the housekeeper's son, shirtsleeves and braces in summer, later a private's battledress, 1935-1940"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "briony",
+          "robbie"
+        ]
+      },
+      "_said": "none of this is Ian McEwan right? It's a profound layer of metaphiction. Yeah. But before we pull that curtain back, we have to look at beat six. What Briony is doing during this t"
+    },
+    {
+      "fp": "19eawn8",
+      "i": 222,
+      "from": 52406,
+      "subject": "Briony Tallis and Robbie Turner",
+      "entities": [
+        "briony",
+        "robbie"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "a thin, watchful thirteen-year-old English girl in a plain white summer dress, dark hair cut straight at the jaw, 1935 and a tall young Englishman in his early twenties, the housekeeper's son, shirtsleeves and braces in summer, later a private's battledress, 1935-1940"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "briony",
+          "robbie"
+        ]
+      },
+      "_said": "Robbie is retreating to Dunkirk, Bry is in London. It was 1940. Bry has given"
+    },
+    {
+      "fp": "8ibjo1",
+      "i": 223,
+      "from": 52553,
+      "subject": "medical",
+      "entities": [],
+      "concept": "medical",
+      "place": "hospital",
+      "confidence": 0.6,
+      "vox": {
+        "shot": "medical, St Thomas's in London under wartime discipline, scrubbed floors, rows of beds, 1935"
+      },
+      "antidote": {
+        "concept": "medical",
+        "set": "hospital",
+        "cast": []
+      },
+      "_said": "up her place at Cambridge. The elite education she was groomed for, the life of a comfortable intellectual. She throws it all away. Instead, she's become a probationer nurse at St."
+    },
+    {
+      "fp": "2n2u6i",
+      "i": 224,
+      "from": 52828,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": "hospital",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "family, St Thomas's in London under wartime discipline, scrubbed floors, rows of beds, 1935"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": "hospital",
+        "cast": []
+      },
+      "_said": "Hospital in London, working under the terrifying militarystyle regime of Ward Sister Drummond. We have to understand the medical reality"
+    },
+    {
+      "fp": "vuzkkb",
+      "i": 225,
+      "from": 53030,
+      "subject": "Briony Tallis",
+      "entities": [
+        "briony"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "a thin, watchful thirteen-year-old English girl in a plain white summer dress, dark hair cut straight at the jaw, 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "briony"
+        ]
+      },
+      "_said": "reality of 1940s nursing. This is before widespread antibiotics. Briony is not doing glamorous work. Not at all. She is scrubbing floors until her knees bleed. She's emptying bed p"
+    },
+    {
+      "fp": "gl9vfq",
+      "i": 226,
+      "from": 53368,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "She is cleaning horrific infected wounds as the casualties"
+    },
+    {
+      "fp": "10udysd",
+      "i": 227,
+      "from": 53467,
+      "subject": "water",
+      "entities": [],
+      "concept": "water",
+      "place": "hospital",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "water, St Thomas's in London under wartime discipline, scrubbed floors, rows of beds, 1935"
+      },
+      "antidote": {
+        "concept": "water",
+        "set": "hospital",
+        "cast": []
+      },
+      "_said": "casualties from Dunkerk flood into the hospital wards. She is dealing with tanic acid, which was this brutally painful treatment used at the time to chemically tan severe burns, tu"
+    },
+    {
+      "fp": "1m4swy6",
+      "i": 228,
+      "from": 53928,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "She is managing bunion bags, which were"
+    },
+    {
+      "fp": "m4vmlf",
+      "i": 229,
+      "from": 53985,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "were these sealed envelopes pumped with oxygen and chemicals to treat shredded limbs. She is literally picking sand, oil, and shrapnel out of destroyed And working through"
+    },
+    {
+      "fp": "159p393",
+      "i": 230,
+      "from": 54271,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "through this physical horror, she has a realization. She thinks a person is among all else a material thing. Easily torn, not easily That is the crux of her arc. This completely de"
+    },
+    {
+      "fp": "tefv5p",
+      "i": 231,
+      "from": 54600,
+      "subject": "puppeteer",
+      "entities": [],
+      "concept": "puppeteer",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "puppeteer, 1935"
+      },
+      "antidote": {
+        "concept": "puppeteer",
+        "cast": []
+      },
+      "_said": "destroys her childhood view. She finally realizes that people are not just characters in a play that you can manipulate with ink. They are flesh and bone and when you hurt them, th"
+    },
+    {
+      "fp": "165hm6j",
+      "i": 232,
+      "from": 54871,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "It is a brutal awakening to the limits of her own power. The visceral trauma she faces forces her to confront the bodily reality she destroyed when"
+    },
+    {
+      "fp": "1iybw9e",
+      "i": 233,
+      "from": 55116,
+      "subject": "Briony Tallis and Robbie Turner — law",
+      "entities": [
+        "briony",
+        "robbie"
+      ],
+      "concept": "law",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "a thin, watchful thirteen-year-old English girl in a plain white summer dress, dark hair cut straight at the jaw, 1935 and a tall young Englishman in his early twenties, the housekeeper's son, shirtsleeves and braces in summer, later a private's battledress, 1935-1940"
+      },
+      "antidote": {
+        "concept": "law",
+        "set": null,
+        "cast": [
+          "briony",
+          "robbie"
+        ]
+      },
+      "_said": "when she sent Robbie to prison. Mh. So, I have to ask, cuz this is where my feelings about Briony get really complicated. Is she doing this as a genuine penance? Like, is scrubbing"
+    },
+    {
+      "fp": "r1npqb",
+      "i": 234,
+      "from": 55435,
+      "subject": "grave",
+      "entities": [],
+      "concept": "grave",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "grave, holding dying soldiers her way of truly atoning, 1935"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": null,
+        "cast": []
+      },
+      "_said": "floors and holding dying soldiers her way of truly atoning for what she"
+    },
+    {
+      "fp": "18ra4sw",
+      "i": 235,
+      "from": 55555,
+      "subject": "Cecilia Tallis and Robbie Turner",
+      "entities": [
+        "cecilia",
+        "robbie"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "a bored, elegant young Englishwoman of twenty-three in a green silk evening dress, dark hair pinned up, a cigarette, 1935 and a tall young Englishman in his early twenties, the housekeeper's son, shirtsleeves and braces in summer, later a private's battledress, 1935-1940"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "cecilia",
+          "robbie"
+        ]
+      },
+      "_said": "she did to Robbie and Cecilia, or is this just another act? It is a brilliant question. It is an attempt at penance. Yes, the physical suffering is real."
+    },
+    {
+      "fp": "a0aspz",
+      "i": 236,
+      "from": 55836,
+      "subject": "Briony Tallis",
+      "entities": [
+        "briony"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "a thin, watchful thirteen-year-old English girl in a plain white summer dress, dark hair cut straight at the jaw, 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "briony"
+        ]
+      },
+      "_said": "real. But McEwan quietly shows us that there is a lingering narcissism even in this humble act. How so? Think about it. Briony is still narrating. She has merely recast herself. Sh"
+    },
+    {
+      "fp": "12ccui9",
+      "i": 237,
+      "from": 56179,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "longer the righteous child detective. She has rewritten herself as the tragic,"
+    },
+    {
+      "fp": "1gfdaxk",
+      "i": 238,
+      "from": 56304,
+      "subject": "target",
+      "entities": [],
+      "concept": "target",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "target, 1935"
+      },
+      "antidote": {
+        "concept": "target",
+        "cast": []
+      },
+      "_said": "tragic, suffering, repentant heroine of a redemption story. Wow. Yes. She's trying to atone through physical suffering, but the focus, the lens of the narrative is still subtly on "
+    },
+    {
+      "fp": "m1kn2e",
+      "i": 239,
+      "from": 56592,
+      "subject": "road",
+      "entities": [],
+      "concept": "road",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "road, 1935"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": null,
+        "cast": []
+      },
+      "_said": "her own emotional journey. She is still the center of her own universe. The narcissism of guilt. She can't stop making it about herself. But eventually she realizes"
+    },
+    {
+      "fp": "1hirzyl",
+      "i": 240,
+      "from": 56851,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "realizes that scrubbing floors isn't It's not. She can't just hide in the wards of St. Thomas's"
+    },
+    {
+      "fp": "hs5cnx",
+      "i": 241,
+      "from": 56990,
+      "subject": "Briony Tallis — law",
+      "entities": [
+        "briony"
+      ],
+      "concept": "law",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "a thin, watchful thirteen-year-old English girl in a plain white summer dress, dark hair cut straight at the jaw, 1935"
+      },
+      "antidote": {
+        "concept": "law",
+        "set": null,
+        "cast": [
+          "briony"
+        ]
+      },
+      "_said": "Thomas's forever. She has to actually face the two people she destroyed. She has to offer real legal repair. Which pushes us into beat seven, the emotional climax of the story, the"
+    },
+    {
+      "fp": "50rj8z",
+      "i": 242,
+      "from": 57413,
+      "subject": "Cecilia Tallis — family",
+      "entities": [
+        "cecilia"
+      ],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "a bored, elegant young Englishwoman of twenty-three in a green silk evening dress, dark hair pinned up, a cigarette, 1935"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": [
+          "cecilia"
+        ]
+      },
+      "_said": "courage to travel across London to confront her sister. Cecilia is now a hardened ward sister living in a grim, depressing flat"
+    },
+    {
+      "fp": "1qsfxl4",
+      "i": 243,
+      "from": 57619,
+      "subject": "Briony Tallis and Cecilia Tallis — family",
+      "entities": [
+        "briony",
+        "cecilia"
+      ],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "a thin, watchful thirteen-year-old English girl in a plain white summer dress, dark hair cut straight at the jaw, 1935 and a bored, elegant young Englishwoman of twenty-three in a green silk evening dress, dark hair pinned up, a cigarette, 1935"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": [
+          "briony",
+          "cecilia"
+        ]
+      },
+      "_said": "flat in Balum, entirely estranged from the Tallis family. She hasn't spoken to her parents"
+    },
+    {
+      "fp": "2sh3oo",
+      "i": 244,
+      "from": 57739,
+      "subject": "Briony Tallis and Cecilia Tallis — family",
+      "entities": [
+        "briony",
+        "cecilia"
+      ],
+      "concept": "family",
+      "place": "bedroom",
+      "confidence": 1,
+      "vox": {
+        "shot": "a thin, watchful thirteen-year-old English girl in a plain white summer dress, dark hair cut straight at the jaw, 1935 and a bored, elegant young Englishwoman of twenty-three in a green silk evening dress, dark hair pinned up, a cigarette, 1935, Briony's tidy, over-ordered child's bedroom, models in rows"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": "bedroom",
+        "cast": [
+          "briony",
+          "cecilia"
+        ]
+      },
+      "_said": "parents or Brienne in 5 years. Bry knocks on the door. Cecilia is cold, angry, exhausted. But then the bedroom"
+    },
+    {
+      "fp": "kkyo5w",
+      "i": 245,
+      "from": 57955,
+      "subject": "Robbie Turner — war",
+      "entities": [
+        "robbie"
+      ],
+      "concept": "war",
+      "place": "bedroom",
+      "confidence": 1,
+      "vox": {
+        "shot": "a tall young Englishman in his early twenties, the housekeeper's son, shirtsleeves and braces in summer, later a private's battledress, 1935-1940, Briony's tidy, over-ordered child's bedroom, models in rows"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": "bedroom",
+        "cast": [
+          "robbie"
+        ]
+      },
+      "_said": "bedroom door opens and Robbie is there. He is in his army uniform. He is alive. He made it back from the beaches of The tension in this scene is absolutely suffocating. Robbie is o"
+    },
+    {
+      "fp": "1omawex",
+      "i": 246,
+      "from": 58286,
+      "subject": "Briony Tallis — war",
+      "entities": [
+        "briony"
+      ],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "a thin, watchful thirteen-year-old English girl in a plain white summer dress, dark hair cut straight at the jaw, 1935"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": [
+          "briony"
+        ]
+      },
+      "_said": "naive, hopeful boy from the garden is gone. The war changed him. McEwan describes him as possessing a stringy muscular ferocity. He looks at Briony"
+    },
+    {
+      "fp": "556p8n",
+      "i": 247,
+      "from": 58550,
+      "subject": "Briony Tallis",
+      "entities": [
+        "briony"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "a thin, watchful thirteen-year-old English girl in a plain white summer dress, dark hair cut straight at the jaw, 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "briony"
+        ]
+      },
+      "_said": "Briony with a suppressed absolute terrifying rage. He says to her,"
+    },
+    {
+      "fp": "icua0i",
+      "i": 248,
+      "from": 58665,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "her, \"I'm torn between breaking your stupid neck here and taking you outside and throwing you down the stairs.\" It's so visceral. You can feel the danger in the room."
+    },
+    {
+      "fp": "sigy6",
+      "i": 249,
+      "from": 58903,
+      "subject": "Briony Tallis",
+      "entities": [
+        "briony"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "a thin, watchful thirteen-year-old English girl in a plain white summer dress, dark hair cut straight at the jaw, 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "briony"
+        ]
+      },
+      "_said": "room. And Bry trembling finally gives them the truth they already knew. She finally names the true attacker from that night in 1935, Paul Marshall. And here is where McEwan twists "
+    },
+    {
+      "fp": "12j7n3h",
+      "i": 250,
+      "from": 59356,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "come from Clappam Common. She has"
+    },
+    {
+      "fp": "1egnzae",
+      "i": 251,
+      "from": 59412,
+      "subject": "Lola Quincey",
+      "entities": [
+        "lola"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "a fifteen-year-old English girl, coppery hair, an older girl's dress worn too deliberately, 1935, watched paul marshall and lola quincey get marr"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "lola"
+        ]
+      },
+      "_said": "has just watched Paul Marshall and Lola Quincey get married in a church. This is the part that makes you feel physically sick. You're reading this thinking, how does someone even p"
+    },
+    {
+      "fp": "m4n9q",
+      "i": 252,
+      "from": 59707,
+      "subject": "Lola Quincey",
+      "entities": [
+        "lola"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "a fifteen-year-old English girl, coppery hair, an older girl's dress worn too deliberately, 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "lola"
+        ]
+      },
+      "_said": "Lola marrying Paul Marshall. It's It is. But psychologically, historically, why would she do that? Why marry the man who assaulted you? Because it"
+    },
+    {
+      "fp": "1ezfnjl",
+      "i": 253,
+      "from": 59956,
+      "subject": "law",
+      "entities": [],
+      "concept": "law",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "law, 1935"
+      },
+      "antidote": {
+        "concept": "law",
+        "set": null,
+        "cast": []
+      },
+      "_said": "it is a horrific convenience for both of them. rooted deeply in the legal"
+    },
+    {
+      "fp": "2lq4jt",
+      "i": 254,
+      "from": 60053,
+      "subject": "Lola Quincey — grave",
+      "entities": [
+        "lola"
+      ],
+      "concept": "grave",
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "a fifteen-year-old English girl, coppery hair, an older girl's dress worn too deliberately, 1935"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": null,
+        "cast": [
+          "lola"
+        ]
+      },
+      "_said": "and social structures of the time. For Lola, the marriage allows her to permanently bury the trauma and the By marrying him, she seals the silence forever. She cementss the false n"
+    },
+    {
+      "fp": "1xy52uo",
+      "i": 255,
+      "from": 60386,
+      "subject": "Briony Tallis — shield",
+      "entities": [
+        "briony"
+      ],
+      "concept": "shield",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "a thin, watchful thirteen-year-old English girl in a plain white summer dress, dark hair cut straight at the jaw, 1935"
+      },
+      "antidote": {
+        "concept": "shield",
+        "cast": [
+          "briony"
+        ]
+      },
+      "_said": "narrative Briony created, protecting herself from the scandal, the shame, and the agonizing public process"
+    },
+    {
+      "fp": "p34nda",
+      "i": 256,
+      "from": 60545,
+      "subject": "shield",
+      "entities": [],
+      "concept": "shield",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "shield, 1935"
+      },
+      "antidote": {
+        "concept": "shield",
+        "cast": []
+      },
+      "_said": "process of testifying against a wealthy, powerful She chooses the safety of a lie over the devastation of the truth. Exactly. And for Marshall, well, Marshall's the greedy fool who"
+    },
+    {
+      "fp": "5eql7c",
+      "i": 257,
+      "from": 60828,
+      "subject": "law",
+      "entities": [],
+      "concept": "law",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "law, 1935"
+      },
+      "antidote": {
+        "concept": "law",
+        "set": null,
+        "cast": []
+      },
+      "_said": "making an absolute fortune profitering off the war, right? He secures his total immunity under the legal principle of spousal privilege. A wife cannot be compelled"
+    },
+    {
+      "fp": "1k0qv4t",
+      "i": 258,
+      "from": 61128,
+      "subject": "Briony Tallis",
+      "entities": [
+        "briony"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "a thin, watchful thirteen-year-old English girl in a plain white summer dress, dark hair cut straight at the jaw, 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "briony"
+        ]
+      },
+      "_said": "compelled to testify against her husband by putting a ring on her finger. The true crime is legally erased. He is permanently God, it's so bleak. When Bry"
+    },
+    {
+      "fp": "8dcsb2",
+      "i": 259,
+      "from": 61473,
+      "subject": "Briony Tallis and Cecilia Tallis and Robbie Turner",
+      "entities": [
+        "briony",
+        "cecilia",
+        "robbie"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "a thin, watchful thirteen-year-old English girl in a plain white summer dress, dark hair cut straight at the jaw, 1935 and a bored, elegant young Englishwoman of twenty-three in a green silk evening dress, dark hair pinned up, a cigarette, 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "briony",
+          "cecilia",
+          "robbie"
+        ]
+      },
+      "_said": "Bry tells Robbie and Cecilia this, they don't even have the energy for outrage. They're exhausted, stripped"
+    },
+    {
+      "fp": "11c7una",
+      "i": 260,
+      "from": 61641,
+      "subject": "Briony Tallis — notes",
+      "entities": [
+        "briony"
+      ],
+      "concept": "notes",
+      "place": "library",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "a thin, watchful thirteen-year-old English girl in a plain white summer dress, dark hair cut straight at the jaw, 1935, the dim Tallis library at dusk, tall shelves, one lamp"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": "library",
+        "cast": [
+          "briony"
+        ]
+      },
+      "_said": "stripped of all sentimentality. They don't want apologies. They want mechanics. They want it fixed on paper. They demand that Briony go to a magistrate, write a"
+    },
+    {
+      "fp": "5txdlk",
+      "i": 261,
+      "from": 61929,
+      "subject": "notes",
+      "entities": [],
+      "concept": "notes",
+      "place": "library",
+      "confidence": 0.75,
+      "vox": {
+        "shot": "notes, write letters to everyone, the dim Tallis library at dusk, tall shelves, one lamp, 1935"
+      },
+      "antidote": {
+        "concept": "notes",
+        "set": "library",
+        "cast": []
+      },
+      "_said": "a full legal statement recanting her original testimony, and write letters to everyone in the"
+    },
+    {
+      "fp": "16650yj",
+      "i": 262,
+      "from": 62061,
+      "subject": "Robbie Turner — family",
+      "entities": [
+        "robbie"
+      ],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "a tall young Englishman in his early twenties, the housekeeper's son, shirtsleeves and braces in summer, later a private's battledress, 1935-1940, walk her to the tube station because robbie"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": [
+          "robbie"
+        ]
+      },
+      "_said": "the family, clearing Robbie's name. They walk her to the tube station because Robbie has to catch a train back to his infantry unit. And they demand their"
+    },
+    {
+      "fp": "mxln3z",
+      "i": 263,
+      "from": 62275,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "their final hour alone together. And this is the moment where you, the listener, the reader, you breathe a massive sigh of relief. It's been a grueling,"
+    },
+    {
+      "fp": "8fwxmk",
+      "i": 264,
+      "from": 62484,
+      "subject": "Briony Tallis and Cecilia Tallis and Robbie Turner — road",
+      "entities": [
+        "briony",
+        "cecilia",
+        "robbie"
+      ],
+      "concept": "road",
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "a thin, watchful thirteen-year-old English girl in a plain white summer dress, dark hair cut straight at the jaw, 1935 and a bored, elegant young Englishwoman of twenty-three in a green silk evening dress, dark hair pinned up, a cigarette, 1935"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": null,
+        "cast": [
+          "briony",
+          "cecilia",
+          "robbie"
+        ]
+      },
+      "_said": "grueling, brutal journey, but Robbie and Cecilia are together. Briony is finally going to do the right The truth will be documented. There is a concrete path to repair. The moral u"
+    },
+    {
+      "fp": "17nd9d4",
+      "i": 265,
+      "from": 62849,
+      "subject": "ledge",
+      "entities": [],
+      "concept": "ledge",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "ledge, 1935"
+      },
+      "antidote": {
+        "concept": "ledge",
+        "set": null,
+        "cast": []
+      },
+      "_said": "the final section, the Kota, and Ian McEwan drops an absolute anvil on our hearts. This is beat 8. We jump forward in time. It"
+    },
+    {
+      "fp": "1aywchj",
+      "i": 266,
+      "from": 63117,
+      "subject": "Briony Tallis",
+      "entities": [
+        "briony"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "a thin, watchful thirteen-year-old English girl in a plain white summer dress, dark hair cut straight at the jaw, 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "briony"
+        ]
+      },
+      "_said": "It is the year 1999. Bry is now 77 years old. She is a highly"
+    },
+    {
+      "fp": "emtuh9",
+      "i": 267,
+      "from": 63261,
+      "subject": "medical",
+      "entities": [],
+      "concept": "medical",
+      "place": "hospital",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "medical, St Thomas's in London under wartime discipline, scrubbed floors, rows of beds, 1935"
+      },
+      "antidote": {
+        "concept": "medical",
+        "set": "hospital",
+        "cast": []
+      },
+      "_said": "highly successful celebrated novelist and she has just been diagnosed with vascular dementia. For those who might not"
+    },
+    {
+      "fp": "psyu3e",
+      "i": 268,
+      "from": 63441,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "not know, vascular dementia is caused by reduced blood flow to the brain. It progressively destroys memory, cognition, and language. Her memory, her most precious tool as a writer,"
+    },
+    {
+      "fp": "19ymopp",
+      "i": 269,
+      "from": 63804,
+      "subject": "Briony Tallis",
+      "entities": [
+        "briony"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "a thin, watchful thirteen-year-old English girl in a plain white summer dress, dark hair cut straight at the jaw, 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "briony"
+        ]
+      },
+      "_said": "is physically Faced with the eraser of her own mind, Bry reveals the truth about the novel we"
+    },
+    {
+      "fp": "1qhxuvs",
+      "i": 270,
+      "from": 63991,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "we have just finished reading, and it is shattering. You're reading this Kota and you slowly realize the omnisient narrator who took us into Robbie's mind during the horrors of Dun"
+    },
+    {
+      "fp": "udkmfw",
+      "i": 271,
+      "from": 64303,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "voice that described Cecilia's private feelings at the fountain. That"
+    },
+    {
+      "fp": "zjsua6",
+      "i": 272,
+      "from": 64401,
+      "subject": "Briony Tallis — water",
+      "entities": [
+        "briony"
+      ],
+      "concept": "water",
+      "place": "shore",
+      "confidence": 0.95,
+      "vox": {
+        "shot": "a thin, watchful thirteen-year-old English girl in a plain white summer dress, dark hair cut straight at the jaw, 1935, the beach at Dunkirk, men and abandoned equipment to the waterline"
+      },
+      "antidote": {
+        "concept": "water",
+        "set": "shore",
+        "cast": [
+          "briony"
+        ]
+      },
+      "_said": "That wasn't Ian McEwan acting as the author. That was an older Briony. She wrote the novel. Yes. The most real visceral section of the book, Robbie's grueling march to the sea, the"
+    },
+    {
+      "fp": "1cwrsi1",
+      "i": 273,
+      "from": 64886,
+      "subject": "war",
+      "entities": [],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "war, 1935"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": []
+      },
+      "_said": "archives of the Imperial War Museum. She was never there. She appropriated his suffering to craft a masterpiece. The devastating twist is that the beautiful"
+    },
+    {
+      "fp": "1g941nr",
+      "i": 274,
+      "from": 65136,
+      "subject": "Cecilia Tallis and Robbie Turner — war",
+      "entities": [
+        "cecilia",
+        "robbie"
+      ],
+      "concept": "war",
+      "place": null,
+      "confidence": 0.95,
+      "vox": {
+        "shot": "a bored, elegant young Englishwoman of twenty-three in a green silk evening dress, dark hair pinned up, a cigarette, 1935 and a tall young Englishman in his early twenties, the housekeeper's son, shirtsleeves and braces in summer, later a private's battledress, 1935-1940"
+      },
+      "antidote": {
+        "concept": "war",
+        "set": null,
+        "cast": [
+          "cecilia",
+          "robbie"
+        ]
+      },
+      "_said": "beautiful romance between Robbie and Cecilia and the harrowing war sequence were authored by the very person who destroyed their reality. Because, and this is the part that just ge"
+    },
+    {
+      "fp": "ffn2i0",
+      "i": 275,
+      "from": 65438,
+      "subject": "Briony Tallis and Cecilia Tallis and Robbie Turner — grave",
+      "entities": [
+        "briony",
+        "cecilia",
+        "robbie"
+      ],
+      "concept": "grave",
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "a thin, watchful thirteen-year-old English girl in a plain white summer dress, dark hair cut straight at the jaw, 1935 and a bored, elegant young Englishwoman of twenty-three in a green silk evening dress, dark hair pinned up, a cigarette, 1935"
+      },
+      "antidote": {
+        "concept": "grave",
+        "set": null,
+        "cast": [
+          "briony",
+          "cecilia",
+          "robbie"
+        ]
+      },
+      "_said": "you, the part that makes you stare at the wall when you finish the book. Bry reveals that Robbie never made it back from France. He died of septasemia from his wound at Bray Dunes "
+    },
+    {
+      "fp": "mjs0rz",
+      "i": 276,
+      "from": 65913,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "hit the Balum Tube station where she was sheltering during the Blitz. They never reunited"
+    },
+    {
+      "fp": "1mvmsgv",
+      "i": 277,
+      "from": 66036,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "reunited in that London flat. That bitter but hopeful confrontation, the demand for letters, the plan to clear his name."
+    },
+    {
+      "fp": "1ozu6qg",
+      "i": 278,
+      "from": 66228,
+      "subject": "law",
+      "entities": [],
+      "concept": "law",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "law, 1935"
+      },
+      "antidote": {
+        "concept": "law",
+        "set": null,
+        "cast": []
+      },
+      "_said": "name. It was entirely Briony's invention. The happy ending, the path to legal clearing of Robbie's name was Bry's final desperate draft. The truth had become as ghostly as inventio"
+    },
+    {
+      "fp": "z5hhla",
+      "i": 279,
+      "from": 66657,
+      "subject": "Cecilia Tallis and Robbie Turner — puppeteer",
+      "entities": [
+        "cecilia",
+        "robbie"
+      ],
+      "concept": "puppeteer",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "a bored, elegant young Englishwoman of twenty-three in a green silk evening dress, dark hair pinned up, a cigarette, 1935 and a tall young Englishman in his early twenties, the housekeeper's son, shirtsleeves and braces in summer, later a private's battledress, 1935-1940"
+      },
+      "antidote": {
+        "concept": "puppeteer",
+        "cast": [
+          "cecilia",
+          "robbie"
+        ]
+      },
+      "_said": "fictionalized Robbie and Cecilia. We rooted for them. We cried for them. And we were manipulated"
+    },
+    {
+      "fp": "4mzo8e",
+      "i": 280,
+      "from": 66787,
+      "subject": "Briony Tallis — ledge",
+      "entities": [
+        "briony"
+      ],
+      "concept": "ledge",
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "a thin, watchful thirteen-year-old English girl in a plain white summer dress, dark hair cut straight at the jaw, 1935"
+      },
+      "antidote": {
+        "concept": "ledge",
+        "set": null,
+        "cast": [
+          "briony"
+        ]
+      },
+      "_said": "manipulated by Briony all over again. We fell for the exact same trap she set when she was 13. We wanted the neat And this brings us back to the core thesis of our deep dive. Ficti"
+    },
+    {
+      "fp": "t902f1",
+      "i": 281,
+      "from": 67125,
+      "subject": "Briony Tallis",
+      "entities": [
+        "briony"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "a thin, watchful thirteen-year-old English girl in a plain white summer dress, dark hair cut straight at the jaw, 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "briony"
+        ]
+      },
+      "_said": "form of atonement available when reality refuses to offer one. Briony facing the end of her life asks"
+    },
+    {
+      "fp": "7vjqe4",
+      "i": 282,
+      "from": 67312,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "asks a profound theological question. She asks, \"How can a novelist achieve atonement when with her absolute power"
+    },
+    {
+      "fp": "o2ci7p",
+      "i": 283,
+      "from": 67536,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "power of deciding outcomes, she is also God?\" There is no higher power she can appeal to within the pages of a book. She is the creator. She couldn't fix what she broke in 1935."
+    },
+    {
+      "fp": "4pd9qn",
+      "i": 284,
+      "from": 67836,
+      "subject": "Cecilia Tallis and Robbie Turner",
+      "entities": [
+        "cecilia",
+        "robbie"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "a bored, elegant young Englishwoman of twenty-three in a green silk evening dress, dark hair pinned up, a cigarette, 1935 and a tall young Englishman in his early twenties, the housekeeper's son, shirtsleeves and braces in summer, later a private's battledress, 1935-1940"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "cecilia",
+          "robbie"
+        ]
+      },
+      "_said": "Robbie and Cecilia were dead. Their names forever ruined in the real world."
+    },
+    {
+      "fp": "1t1hejs",
+      "i": 285,
+      "from": 67949,
+      "subject": "Lola Quincey — coin",
+      "entities": [
+        "lola"
+      ],
+      "concept": "coin",
+      "confidence": 0.8,
+      "vox": {
+        "shot": "a fifteen-year-old English girl, coppery hair, an older girl's dress worn too deliberately, 1935"
+      },
+      "antidote": {
+        "concept": "coin",
+        "cast": [
+          "lola"
+        ]
+      },
+      "_said": "world. Paul Marshall and Lola lived long, wealthy, highly respected lives, completely insulated by their money and their lie. The real"
+    },
+    {
+      "fp": "7326dq",
+      "i": 286,
+      "from": 68167,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "real world offered zero justice. Reality was a void. So all she could do"
+    },
+    {
+      "fp": "12v5nl0",
+      "i": 287,
+      "from": 68316,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "do six decades later was use the exact same tool that caused the tragedy. Her imagination, her storytelling, her need to control the narrative to try and repair it on the page. She"
+    },
+    {
+      "fp": "1h6lmye",
+      "i": 288,
+      "from": 68669,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "life her lie stole from them. She allowed them in the minds of millions of readers to survive,"
+    },
+    {
+      "fp": "gntio0",
+      "i": 289,
+      "from": 68839,
+      "subject": "heart",
+      "entities": [],
+      "concept": "heart",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "heart, 1935"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": null,
+        "cast": []
+      },
+      "_said": "survive, to love each other. But is a novel an act of cowardice then? Is it just"
+    },
+    {
+      "fp": "13sggkx",
+      "i": 290,
+      "from": 68983,
+      "subject": "heart",
+      "entities": [],
+      "concept": "heart",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "heart, 1935"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": null,
+        "cast": []
+      },
+      "_said": "just a beautiful lie that makes the author feel better about the blood on her hands? or is it a genuine act of love and atonement? That is"
+    },
+    {
+      "fp": "j16dky",
+      "i": 291,
+      "from": 69197,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "the ultimate question. Because I have to admit, when I realized she made up their survival, I wasn't even angry at her. I was devastated they were dead, but I was grateful she lied"
+    },
+    {
+      "fp": "o3wv06",
+      "i": 292,
+      "from": 69564,
+      "subject": "heart",
+      "entities": [],
+      "concept": "heart",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "heart, 1935"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": null,
+        "cast": []
+      },
+      "_said": "McEwan's brilliance. He makes you, the reader, entirely complicit. We want the narrative closure. We want the romance to survive against all odds. We crave it. We, exactly"
+    },
+    {
+      "fp": "1trfuqs",
+      "i": 293,
+      "from": 69842,
+      "subject": "Briony Tallis",
+      "entities": [
+        "briony"
+      ],
+      "concept": null,
+      "place": null,
+      "confidence": 0.8,
+      "vox": {
+        "shot": "a thin, watchful thirteen-year-old English girl in a plain white summer dress, dark hair cut straight at the jaw, 1935, watching from the window"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": [
+          "briony"
+        ]
+      },
+      "_said": "exactly like 13-year-old Briony watching from the window, prefer the neat, emotionally satisfying story to the chaotic, tragic,"
+    },
+    {
+      "fp": "1pjoyqi",
+      "i": 294,
+      "from": 70080,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "tragic, senseless reality. Storytelling is an immense, terrifying power. It flattens complex human beings into heroes and villains."
+    },
+    {
+      "fp": "q6d73l",
+      "i": 295,
+      "from": 70325,
+      "subject": "road",
+      "entities": [],
+      "concept": "road",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "road, 1935"
+      },
+      "antidote": {
+        "concept": "road",
+        "set": null,
+        "cast": []
+      },
+      "_said": "villains. It overrides objective truth, but it is also the only place where impossible forgiveness can be granted. What a journey. From"
+    },
+    {
+      "fp": "ex3uce",
+      "i": 296,
+      "from": 70531,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, 1935"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": []
+      },
+      "_said": "From a broken piece of mice and porcelain at a garden fountain to a shattered family"
+    },
+    {
+      "fp": "b48csv",
+      "i": 297,
+      "from": 70653,
+      "subject": "family",
+      "entities": [],
+      "concept": "family",
+      "place": null,
+      "confidence": 0.75,
+      "vox": {
+        "shot": "family, 1935"
+      },
+      "antidote": {
+        "concept": "family",
+        "set": null,
+        "cast": []
+      },
+      "_said": "family to the bloody apocalyptic beaches of Dunkirk and finally to a fading mind"
+    },
+    {
+      "fp": "1c3za3f",
+      "i": 298,
+      "from": 70778,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "hold on to a lie because it's the only beaut, 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "mind in 1999 trying to hold on to a lie because it's the only beautiful thing left. All of it driven by a child's desperate need to narrate the world around her and an adult's"
+    },
+    {
+      "fp": "1i3h71m",
+      "i": 299,
+      "from": 71035,
+      "subject": "heart",
+      "entities": [],
+      "concept": "heart",
+      "place": null,
+      "confidence": 0.55,
+      "vox": {
+        "shot": "heart, 1935"
+      },
+      "antidote": {
+        "concept": "heart",
+        "set": null,
+        "cast": []
+      },
+      "_said": "adult's desperate need to rewrite it. It forces us to deeply examine our own relationship with truth and narrative. How often"
+    },
+    {
+      "fp": "1wmi7wr",
+      "i": 300,
+      "from": 71220,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "often do we assign motives to people we barely understand simply to make our own version of the world make sense? How often do we cast ourselves as the victims or the heroes in sto"
+    },
+    {
+      "fp": "toakvu",
+      "i": 301,
+      "from": 71606,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "leave you with today, 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "to a final thought I want to leave you with today. We spent this whole time talking about a girl in 1935 who used her imagination"
+    },
+    {
+      "fp": "11g96dz",
+      "i": 302,
+      "from": 71853,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "imagination to overwrite reality because her brain craved a dramatic,"
+    },
+    {
+      "fp": "1y6vvkd",
+      "i": 303,
+      "from": 71949,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "dramatic, satisfying narrative. But think about the world we live in right now. We"
+    },
+    {
+      "fp": "28nagy",
+      "i": 304,
+      "from": 72105,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "We are increasingly interacting with algorithms and AI systems that are specifically designed to feed us the exact narratives our brains crave. Oh, that's"
+    },
+    {
+      "fp": "vkoa6z",
+      "i": 305,
+      "from": 72360,
+      "subject": "puppeteer",
+      "entities": [],
+      "concept": "puppeteer",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "puppeteer, 1935"
+      },
+      "antidote": {
+        "concept": "puppeteer",
+        "cast": []
+      },
+      "_said": "that's a terrifying parallel. If we are this easily manipulated by a 13-year-old girl's need for a neat story, what happens when we"
+    },
+    {
+      "fp": "c36qk1",
+      "i": 306,
+      "from": 72569,
+      "subject": "target",
+      "entities": [],
+      "concept": "target",
+      "confidence": 0.55,
+      "vox": {
+        "shot": "target, 1935"
+      },
+      "antidote": {
+        "concept": "target",
+        "cast": []
+      },
+      "_said": "we start consuming reality generated by machines whose only goal is to give us the satisfying bias"
+    },
+    {
+      "fp": "x231e8",
+      "i": 307,
+      "from": 72739,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "bias confirming patterns we want? If fiction is the only atonement, what happens when we can't even tell what is fiction anymore?"
+    },
+    {
+      "fp": "b1j5tk",
+      "i": 308,
+      "from": 72950,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": "written word, 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "anymore? A terrifying and vital question. Thank you for diving deep with us into the complexities of memory, guilt, and the terrifying power of the written word."
+    },
+    {
+      "fp": "2kos5c",
+      "i": 309,
+      "from": 73164,
+      "subject": "",
+      "entities": [],
+      "concept": null,
+      "place": null,
+      "confidence": 0.3,
+      "vox": {
+        "shot": ", 1935"
+      },
+      "antidote": {
+        "concept": null,
+        "set": null,
+        "cast": []
+      },
+      "_said": "word. Until next time, be careful with the stories you tell. You never know whose reality you might be rewriting."
+    }
+  ]
+}

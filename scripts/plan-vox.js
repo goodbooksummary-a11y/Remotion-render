@@ -42,6 +42,12 @@ const OFFSET = args.offset !== undefined ? parseFloat(args.offset) : 0.0;
 // to 9s past its own narration. See the ANCHOR WINDOW note further down; only
 // use this to diff against an old config.
 const LEGACY_ANCHOR = "legacy-anchor" in args;
+// Beat briefs (scripts/plan-briefs.js) — the beat's SUBJECT, grounded in the
+// book's story bible and matched back by narration fingerprint rather than by
+// index. When one is present and confident it replaces the keyword-bag image
+// subject, which is 93% of every Flux prompt this project has ever sent.
+const BRIEFS_IN = args.briefs || null;
+const BRIEF_MIN_CONFIDENCE = args["brief-confidence"] !== undefined ? parseFloat(args["brief-confidence"]) : 0.6;
 // Opt-in transition sound layer (src/engines/vox/sfx.tsx). Off unless asked
 // for: the narration is continuous speech, so every effect lands on a voice —
 // worth having, but only after someone has listened to it.
@@ -456,6 +462,37 @@ const NOT_A_NAME = new Set([
   "Yeah", "Okay", "OK", "Right", "Well", "Oh", "What", "When", "Where", "Why", "How", "Who",
   "Because", "If", "Just", "Like", "Not", "No", "Yes", "Her", "His", "My", "Your", "Our",
 ]);
+/**
+ * BEAT BRIEFS — the subject layer.
+ *
+ * Matched by a fingerprint of the beat's own words, never by index: every other
+ * authored artifact here (`--designs`, `--callouts`, `--cast`) is read back as
+ * `ARR[i]` with no check, so one re-plan at a different segmentation silently
+ * attaches every authored decision to the wrong sentence. The fingerprint must
+ * stay identical to the one in scripts/plan-briefs.js.
+ */
+function briefFingerprint(text) {
+  const norm = String(text).toLowerCase().replace(/[^a-z0-9 ]/g, "").replace(/\s+/g, " ").trim();
+  let h = 2166136261;
+  for (let i = 0; i < norm.length; i++) { h ^= norm.charCodeAt(i); h = Math.imul(h, 16777619); }
+  return (h >>> 0).toString(36);
+}
+let BRIEFS = null;          // Map<fp, brief>
+let briefHits = 0, briefMisses = 0;
+function loadBriefs() {
+  if (!BRIEFS_IN) return;
+  const loaded = JSON.parse(fs.readFileSync(BRIEFS_IN, "utf8"));
+  const arr = loaded.briefs || loaded;
+  BRIEFS = new Map(arr.filter((b) => b && b.fp).map((b) => [b.fp, b]));
+  console.log(`  briefs: ${BRIEFS.size} loaded from ${BRIEFS_IN}`);
+}
+function briefFor(text) {
+  if (!BRIEFS) return null;
+  const b = BRIEFS.get(briefFingerprint(text));
+  if (b) briefHits++; else briefMisses++;
+  return b && (b.confidence ?? 0) >= BRIEF_MIN_CONFIDENCE ? b : null;
+}
+
 function isPicturable(text) {
   if (placeName(text)) return true;
   const toks = String(text).trim().split(/\s+/);
@@ -611,6 +648,7 @@ function imagePrompt(subject, style) {
   // The person profile needs the WHOLE narration, so it is built here, before
   // any beat is classified (see buildPersonSet).
   PERSONS = buildPersonSet(texts);
+  loadBriefs();
 
   // ── DESIGN SOURCE (Claude-first) ──────────────────────────────────────────
   // Author's manual (--emit-beats → author → --designs) beats the model; the
@@ -685,6 +723,10 @@ function imagePrompt(subject, style) {
     // that discovers a payload parks it here and it is merged in at that point.
     // Writing to `props` from inside this ladder is a TDZ ReferenceError.
     const payload = {};
+    // What this beat is ABOUT, if anything told us. Matched by fingerprint of
+    // the beat's own words — see briefFor().
+    const brief = briefFor(texts[i]);
+    if (brief && brief.subject) payload.subject = brief.subject;
     if (i === 0) type = "title";
     else if (i === texts.length - 1) type = "punchline";
     // A question owns the frame before anything else claims the beat: it is the
@@ -720,7 +762,10 @@ function imagePrompt(subject, style) {
     else if (d.type === "flow" || RE.flow.test(texts[i])) type = "flow";
     else if (d.type === "dataviz" || RE.dataviz.test(texts[i])) type = "dataviz";
     else if (d.type === "network" || RE.network.test(texts[i])) type = "network";
-    else if (d.image && d.image.subject) type = "imagefocus";
+    // A confident brief means we can name what a photograph of this beat would
+    // contain, which is exactly the condition `imagefocus` needs. Without briefs
+    // this falls back to isPicturable()'s proper-noun test.
+    else if ((brief && brief.vox && brief.vox.shot) || (d.image && d.image.subject)) type = "imagefocus";
     else type = "statement";
 
     // ── GROUNDING GATE ─────────────────────────────────────────────────────
@@ -819,7 +864,12 @@ function imagePrompt(subject, style) {
       if (d.image && d.image.subject) addImg("", d.image.subject, d.image.style === "cutout" ? "cutout" : "card");
       else addImg("", `evocative ${GENRE} book cover mood for "${TITLE}"`, "card");
     } else if (type === "imagefocus") {
-      const subj = (d.image && d.image.subject) || kicker.toLowerCase() || kws.join(", ");
+      // A confident brief outranks the design's own subject: the brief was built
+      // from the book's story bible, so it names the person by the same `look`
+      // every time they appear. `d.image.subject` in the default path is three
+      // keywords scraped out of this one sentence.
+      const subj = (brief && brief.vox && brief.vox.shot)
+        || (d.image && d.image.subject) || kicker.toLowerCase() || kws.join(", ");
       const style = d.image && d.image.style === "card" ? "card" : "cutout";
       addImg("", subj, style);
     }
@@ -997,6 +1047,10 @@ function imagePrompt(subject, style) {
   console.log(`  beats: ${finalBeats.length} (collapsed ${collapsed} rapid)  captions: ${captions.length}  duration: ${(totalFrames / FPS).toFixed(1)}s`);
   console.log(`  archetypes:`, counts);
   console.log(`  images: ${imgCount} (cutouts: ${cutCount})  shortest scene: ${minDur.toFixed(1)}s`);
+  if (BRIEFS) {
+    console.log(`  briefs matched: ${briefHits}/${briefHits + briefMisses}` +
+      (briefMisses ? `  ⚠ ${briefMisses} beat(s) had no brief — re-derive them after a segmentation change` : ""));
+  }
   const ug = Object.entries(ungrounded);
   if (ug.length) {
     console.log(`  declined (no real data in the narration, so no invented graphic): ` +

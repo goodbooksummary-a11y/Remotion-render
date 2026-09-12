@@ -212,13 +212,31 @@ function scoreScene({ engine, id, from, dur, spoken, planned, shown }) {
     else if (FILLER_MOTIFS.has(icon)) filler++;
     else ungrounded++;                        // it names a subject, and that subject is not being said
   }
-  for (const img of shown.images) {
-    if (img.bag) { filler++; continue; }
-    // a described shot counts as grounded when it shares a content word with
-    // the words spoken over it
-    const words = String(img.subject).toLowerCase().match(/[a-z]{4,}/g) || [];
-    if (words.some((w) => saidLc.includes(w))) grounded++;
+  // TEST THE CLAIM, NOT THE COSTUME.
+  //
+  // When the planner states what the beat is about (`props.subject`, written
+  // from a beat brief), that is the claim, and the honest question is whether
+  // the thing it names is actually being said right now. The Flux prompt is a
+  // costume description — "a young Indian brahmin man with a shaved head and a
+  // plain ochre robe" — whose words need never appear in the narration, so
+  // scoring the prompt marked correct pictures as unrelated.
+  //
+  // This is not circular and not gameable by decoration: the subject is checked
+  // against the audio, so a subject that lies is caught, and adding scenery to
+  // the prompt changes nothing.
+  if (shown.subject) {
+    const claim = String(shown.subject).toLowerCase().match(/[a-z]{4,}/g) || [];
+    if (claim.some((w) => saidLc.includes(w))) grounded++;
     else ungrounded++;
+  } else {
+    for (const img of shown.images) {
+      if (img.bag) { filler++; continue; }
+      // no stated subject: fall back to asking whether the described shot shares
+      // a content word with the words spoken over it
+      const words = String(img.subject).toLowerCase().match(/[a-z]{4,}/g) || [];
+      if (words.some((w) => saidLc.includes(w))) grounded++;
+      else ungrounded++;
+    }
   }
   if (shown.groundedData) grounded++;
 
@@ -250,6 +268,8 @@ function inventoryVox(beat) {
   return {
     icons: [],
     images,
+    // what the planner says this beat is ABOUT (written from a beat brief)
+    subject: p.subject || null,
     set: null,
     numbers,
     assertsQuote: beat.type === "quote",
@@ -277,12 +297,20 @@ function inventoryAntidote(scene) {
 
 // ── per-book ────────────────────────────────────────────────────────────────
 
-function auditBook(slug) {
-  const voxPath = path.join(ROOT, "books", slug, "config.vox.json");
-  const antiPath = path.join(ROOT, "books", slug, "config.antidote.json");
-  const engine = fs.existsSync(voxPath) ? "vox" : fs.existsSync(antiPath) ? "antidote" : null;
-  if (!engine) return null;
-  const cfg = JSON.parse(fs.readFileSync(engine === "vox" ? voxPath : antiPath, "utf8"));
+function auditBook(slug, configPath) {
+  // `--config=` scores a plan that is not installed yet — how a change to the
+  // planner is measured before anything ships.
+  let engine, cfg;
+  if (configPath) {
+    cfg = JSON.parse(fs.readFileSync(configPath, "utf8"));
+    engine = cfg.scenes ? "antidote" : "vox";
+  } else {
+    const voxPath = path.join(ROOT, "books", slug, "config.vox.json");
+    const antiPath = path.join(ROOT, "books", slug, "config.antidote.json");
+    engine = fs.existsSync(voxPath) ? "vox" : fs.existsSync(antiPath) ? "antidote" : null;
+    if (!engine) return null;
+    cfg = JSON.parse(fs.readFileSync(engine === "vox" ? voxPath : antiPath, "utf8"));
+  }
   const units = engine === "vox" ? cfg.beats || [] : cfg.scenes || [];
   if (!units.length) return null;
   const words = wordStream(cfg);
@@ -363,7 +391,7 @@ function gate(r) {
   const results = [];
   for (const s of slugs) {
     let r = null;
-    try { r = auditBook(s); } catch (e) { console.warn(`  ⚠ ${s}: ${e.message}`); }
+    try { r = auditBook(s, args.config || null); } catch (e) { console.warn(`  ⚠ ${s}: ${e.message}`); }
     if (r) results.push(r);
   }
   if (!results.length) { console.error("Planlanmış kitap bulunamadı."); process.exit(1); }

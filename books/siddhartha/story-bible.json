@@ -1,0 +1,158 @@
+{
+  "slug": "siddhartha",
+  "world": {
+    "era": "ancient India, the time of the Buddha",
+    "approxYear": -500,
+    "setting": "The banyan groves and river country of northern India: a brahmin's village, the ascetics in the forest, a merchant city, and one ferry crossing returned to twice.",
+    "register": "parable, spare and lyrical",
+    "forbid": [
+      "phone",
+      "codeWindow",
+      "laptopMockup",
+      "rocketLaunch",
+      "funnelMetrics",
+      "dollarExchange",
+      "subway",
+      "car",
+      "alarmClock",
+      "medical",
+      "coin"
+    ]
+  },
+  "cast": {
+    "siddhartha": {
+      "name": "Siddhartha",
+      "role": "protagonist",
+      "look": "a young Indian brahmin man with a shaved head and a plain ochre robe, lean from fasting, ancient India",
+      "variant": {
+        "height": 1.02,
+        "build": 0.92,
+        "garment": "cloak",
+        "hair": "shaved"
+      },
+      "mentions": 60
+    },
+    "govinda": {
+      "name": "Govinda",
+      "role": "foil",
+      "look": "a devoted young Indian monk in a saffron robe, softer-featured, always half a step behind, ancient India",
+      "variant": {
+        "height": 0.98,
+        "garment": "cloak",
+        "hair": "shaved"
+      },
+      "mentions": 20
+    },
+    "vasudeva": {
+      "name": "Vasudeva",
+      "role": "mentor",
+      "look": "an old Indian ferryman with a white beard and a weathered wrap, standing at a pole on a wooden raft, ancient India",
+      "variant": {
+        "height": 0.96,
+        "build": 1.05,
+        "garment": "rags",
+        "beard": "long"
+      },
+      "mentions": 15
+    },
+    "kamala": {
+      "name": "Kamala",
+      "role": "foil",
+      "look": "an elegant Indian courtesan in red and gold silk with heavy earrings, composed, ancient India",
+      "variant": {
+        "height": 0.97,
+        "garment": "dress",
+        "hair": "long"
+      },
+      "mentions": 18
+    },
+    "kamaswami": {
+      "name": "Kamaswami",
+      "role": "extra",
+      "look": "a heavyset middle-aged Indian merchant in embroidered cloth, rings on his fingers, ancient India",
+      "variant": {
+        "height": 0.97,
+        "build": 1.2,
+        "garment": "coat"
+      },
+      "mentions": 6
+    }
+  },
+  "places": {
+    "shore": {
+      "set": "shore",
+      "look": "the great river at the ferry crossing, flat brown water, a wooden raft drawn up on the bank",
+      "mentions": 30
+    },
+    "forest": {
+      "set": "forest",
+      "look": "the ascetics' forest, thin trees and dry ground, bodies seated motionless",
+      "mentions": 14
+    },
+    "street": {
+      "set": "street",
+      "look": "the merchant city's streets, awnings, goods stacked in doorways",
+      "mentions": 8
+    },
+    "room": {
+      "set": "room",
+      "look": "Kamala's pavilion, cushions and hanging cloth, a garden beyond the opening",
+      "mentions": 6
+    }
+  },
+  "objects": [
+    {
+      "concept": "water",
+      "mentions": 40,
+      "why": "the river IS the book's argument — it is everywhere at once, and it is the teacher"
+    },
+    {
+      "concept": "tree",
+      "mentions": 12,
+      "why": "the banyan and the mango grove: where teaching happens, and where he sleeps"
+    },
+    {
+      "concept": "road",
+      "mentions": 18,
+      "why": "leaving is the recurring act — he walks away from every answer he is given"
+    },
+    {
+      "concept": "family",
+      "mentions": 14,
+      "why": "the father he leaves, and the son who leaves him the same way"
+    },
+    {
+      "concept": "star",
+      "mentions": 6,
+      "why": "the night watches: the ferryman and the sleepless"
+    }
+  ],
+  "spine": [
+    {
+      "act": "The brahmin's son",
+      "fromFrame": 0,
+      "claim": "Everything a good teaching can give him, he already has, and it is not enough."
+    },
+    {
+      "act": "The ascetics and the Buddha",
+      "fromFrame": 5000,
+      "claim": "He refuses the perfect teacher, because a teaching cannot transmit the one thing he wants."
+    },
+    {
+      "act": "Kamala and the city",
+      "fromFrame": 12000,
+      "claim": "He goes all the way into appetite, and it hollows him out exactly as promised."
+    },
+    {
+      "act": "The river",
+      "fromFrame": 20000,
+      "claim": "The ferryman teaches nothing; the river does, by refusing to be a sequence."
+    },
+    {
+      "act": "The son",
+      "fromFrame": 28000,
+      "claim": "He is made to suffer his own leaving from the other side, and that is the last lesson."
+    }
+  ],
+  "authored": true
+}
