@@ -4,6 +4,22 @@
 - **All Content in English:** Every YouTube Publishing Kit (`youtube.md`, `youtube-meta.json`), video title, description, chapter timestamp, tag list, pinned comment, and thumbnail hook **MUST BE 100% IN ENGLISH**.
 - **Never translate YouTube assets to Turkish:** Even when interacting with the operator in Turkish, **always provide and format the YouTube Publishing Kit in English**. Never output Turkish titles, descriptions, or chapter names.
 
+## 🚫 Published books are FROZEN — improve the system for the books that come NEXT
+
+- **When you add a feature, fix an engine, or improve the pipeline, you do NOT have to
+  consider already-published books, and you must NOT rewrite their files.** No retrofit,
+  no "while I'm here" sweep, no re-plan. A published book's `books/<slug>/config.*.json`
+  is the record of what actually shipped; changing it only creates a difference between
+  the config and the video people are watching on YouTube.
+- **This frees you:** a change does not need to be backward-compatible with every old
+  config's *content*. Engine code must still render an old config without crashing (that
+  is a code contract), but you owe nothing to how those books look.
+- Which books are frozen: everything in [`PUBLISHED_BOOKS.md`](PUBLISHED_BOOKS.md).
+  `scripts/apply-briefs.js` enforces this (skips them unless `--force`). **Keep that file
+  up to date when you publish** — it is the guard's source of truth.
+- A book that is planned but NOT yet published is fair game: re-plan it, apply every new
+  system, and say so in `AGENT_LOG.md` when it is ready to render.
+
 ## ⚠️ Multiple agents work on this repo at once — coordinate
 
 - **Read [`AGENT_LOG.md`](AGENT_LOG.md) at the start of any systemic task** (pipeline,

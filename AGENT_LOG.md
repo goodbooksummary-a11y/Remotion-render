@@ -29,6 +29,38 @@ _(clear your row when you stop; move the summary into the Changelog below.)_
 
 ## Changelog (newest first)
 
+### 2026-09-14 — relevance — ✅ `siddhartha` IS READY TO RENDER (handoff)
+
+Not published, so it got every current system. **Whoever picks up the render: it is done, go.**
+
+```bash
+node scripts/render.js --slug=siddhartha --method=github
+```
+
+On disk and verified: `public/audio/siddhartha.m4a` (86 MB raw — the runner masters it),
+`public/captions/siddhartha.clean.vtt`, `books/siddhartha/{config.antidote.json, book.json,
+youtube-meta.json, youtube.md}`, `out/thumbnail-siddhartha.png`, composition registered as
+`Antidote-siddhartha`. 46.4 min · 311 scenes · 15 chapters (last at 45:30, inside the film).
+
+| gate | result |
+|---|---|
+| `audit-antidote` (dead air) | **PASS** — no window over 8 s |
+| `audit-relevance` | **69.1 %** subject-bearing · 5.8 % wrong · 20.9 % filler · 4.2 % thin · 3 contradicts |
+| `tsc --noEmit` | clean |
+| Remotion Studio | opened and checked on screen, not only in the JSON |
+
+What it carries that no earlier book did: an authored `story-bible.json` (era, cast with
+reusable `look`s, places, the book's own objects, the act spine), `beat-briefs.json` with 23
+hand-authored beats, `meta.cast` = **Siddhartha / Govinda / Vasudeva / Kamala / Kamaswami**
+instead of the five generic roles, 9 backdrop sets all of which the book actually has, and a HUD
+that names the act ("KAMALA AND THE CITY") rather than an icon.
+
+Its shipped predecessor scored 24.1 % subject-bearing / 8.7 % wrong for comparison.
+
+**Do not re-plan it** unless you also re-derive briefs (`plan-briefs.js --slug=siddhartha`) and
+re-merge the authored subset, or the 23 hand-written beats are lost.
+
+
 ### 2026-09-14 — relevance — PUBLISHED BOOKS ARE OFF LIMITS; two general fixes found by actually looking
 
 **REVERTED: the catalogue-wide retrofit.** The 2026-09-12 `apply-briefs --all` run rewrote all 49
