@@ -183,11 +183,285 @@ const Spectrum: React.FC<ArchProps> = ({ spec, accent, ink, frame, fps }) => {
   );
 };
 
+// ── matrix — 2x2 grid (decision / prioritization / trade-off) ───────────────
+const Matrix: React.FC<ArchProps> = ({ spec, accent, ink, paper, frame, fps }) => {
+  const show = spring({ frame, fps, config: { damping: 16 } });
+  const x0 = 180, x1 = VW - 180;
+  const y0 = 120, y1 = VH - 60;
+  const midX = (x0 + x1) / 2;
+  const midY = (y0 + y1) / 2;
+
+  const xAxis = spec.labels[0] || "EFFORT";
+  const yAxis = spec.labels[1] || "IMPACT";
+  const qLabels = [
+    spec.labels[2] || "DO FIRST",
+    spec.labels[3] || "SCHEDULE",
+    spec.labels[4] || "DELEGATE",
+    spec.labels[5] || "ELIMINATE",
+  ];
+
+  const qWidth = (x1 - x0) / 2 - 20;
+  const qHeight = (y1 - y0) / 2 - 20;
+
+  const quads = [
+    { x: x0 + 10, y: y0 + 10, label: qLabels[0], hero: true },
+    { x: midX + 10, y: y0 + 10, label: qLabels[1], hero: false },
+    { x: x0 + 10, y: midY + 10, label: qLabels[2], hero: false },
+    { x: midX + 10, y: midY + 10, label: qLabels[3], hero: false },
+  ];
+
+  const heroPulse = 1 + Math.sin(frame * 0.12) * 0.02;
+
+  return (
+    <g opacity={show}>
+      <Title text={spec.title} ink={ink} show={show} />
+
+      {/* Quadrant Boxes */}
+      {quads.map((q, i) => {
+        const enter = spring({ frame: frame - 6 - i * 5, fps, config: { damping: 14, stiffness: 120 } });
+        return (
+          <g key={i} opacity={enter} transform={`translate(0 ${(1 - enter) * 16})`}>
+            <rect
+              x={q.x}
+              y={q.y}
+              width={qWidth}
+              height={qHeight}
+              rx={16}
+              fill={q.hero ? accent : paper}
+              fillOpacity={q.hero ? 0.22 : 0.6}
+              stroke={q.hero ? accent : ink}
+              strokeWidth={q.hero ? 6 : 3}
+              strokeDasharray={q.hero ? "none" : "6,6"}
+              opacity={q.hero ? 1 : 0.6}
+              transform={q.hero ? `scale(${heroPulse})` : undefined}
+              style={q.hero ? { transformOrigin: `${q.x + qWidth / 2}px ${q.y + qHeight / 2}px` } : undefined}
+            />
+            {q.hero && (
+              <circle cx={q.x + 32} cy={q.y + 32} r={10} fill={accent} />
+            )}
+            <text
+              x={q.x + qWidth / 2}
+              y={q.y + qHeight / 2 + 10}
+              textAnchor="middle"
+              fontFamily="Poppins, Arial, sans-serif"
+              fontWeight={800}
+              fontSize={q.label.length > 12 ? 26 : 32}
+              fill={q.hero ? accent : ink}
+            >
+              {q.label.toUpperCase()}
+            </text>
+          </g>
+        );
+      })}
+
+      {/* Central Axis Lines */}
+      <line x1={x0} y1={midY} x2={x1} y2={midY} stroke={ink} strokeWidth={6} strokeLinecap="round" opacity={0.7} />
+      <line x1={midX} y1={y1} x2={midX} y2={y0} stroke={ink} strokeWidth={6} strokeLinecap="round" opacity={0.7} />
+
+      {/* Axis Arrows */}
+      <path d={`M${x1 - 12},${midY - 8} L${x1 + 6},${midY} L${x1 - 12},${midY + 8}`} fill={ink} opacity={0.7} />
+      <path d={`M${midX - 8},${y0 + 12} L${midX},${y0 - 6} L${midX + 8},${y0 + 12}`} fill={ink} opacity={0.7} />
+
+      {/* Axis Labels */}
+      <text x={x1 + 18} y={midY + 8} textAnchor="start" fontFamily="Poppins, Arial, sans-serif" fontWeight={800} fontSize={22} fill={ink} opacity={0.8}>
+        {xAxis.toUpperCase()} →
+      </text>
+      <text x={midX} y={y0 - 18} textAnchor="middle" fontFamily="Poppins, Arial, sans-serif" fontWeight={800} fontSize={22} fill={ink} opacity={0.8}>
+        ↑ {yAxis.toUpperCase()}
+      </text>
+    </g>
+  );
+};
+
+// ── tree — hierarchical branching tree / decomposition ───────────────────────
+const Tree: React.FC<ArchProps> = ({ spec, accent, ink, paper, frame, fps }) => {
+  const show = spring({ frame, fps, config: { damping: 16 } });
+  const labels = spec.labels.length >= 3 ? spec.labels : ["ROOT PRINCIPLE", "COMPONENT A", "COMPONENT B", "LEAF 1", "LEAF 2", "LEAF 3", "LEAF 4"];
+
+  const root = { x: VW / 2, y: 130, label: labels[0] };
+  const branches = [
+    { x: VW / 2 - 260, y: 290, label: labels[1] || "PART A" },
+    { x: VW / 2 + 260, y: 290, label: labels[2] || "PART B" },
+  ];
+  const leaves = [
+    { x: VW / 2 - 380, y: 470, parent: 0, label: labels[3] || "ACTION 1" },
+    { x: VW / 2 - 140, y: 470, parent: 0, label: labels[4] || "ACTION 2" },
+    { x: VW / 2 + 140, y: 470, parent: 1, label: labels[5] || "ACTION 3" },
+    { x: VW / 2 + 380, y: 470, parent: 1, label: labels[6] || "ACTION 4" },
+  ];
+
+  return (
+    <g opacity={show}>
+      <Title text={spec.title} ink={ink} show={show} />
+
+      {/* Root to Branches Connectors */}
+      {branches.map((b, i) => {
+        const lineDraw = clamp01((frame - 10 - i * 6) / 16);
+        const curX = root.x + (b.x - root.x) * lineDraw;
+        const curY = root.y + (b.y - root.y) * lineDraw;
+        return (
+          <line
+            key={`rb-${i}`}
+            x1={root.x}
+            y1={root.y + 40}
+            x2={curX}
+            y2={curY - 36}
+            stroke={accent}
+            strokeWidth={6}
+            strokeLinecap="round"
+            opacity={lineDraw > 0 ? 0.75 : 0}
+          />
+        );
+      })}
+
+      {/* Branches to Leaves Connectors */}
+      {leaves.map((l, i) => {
+        const p = branches[l.parent];
+        const lineDraw = clamp01((frame - 22 - i * 4) / 16);
+        const curX = p.x + (l.x - p.x) * lineDraw;
+        const curY = p.y + (l.y - p.y) * lineDraw;
+        return (
+          <line
+            key={`bl-${i}`}
+            x1={p.x}
+            y1={p.y + 36}
+            x2={curX}
+            y2={curY - 28}
+            stroke={ink}
+            strokeWidth={4}
+            strokeLinecap="round"
+            opacity={lineDraw > 0 ? 0.45 : 0}
+          />
+        );
+      })}
+
+      {/* Root Node */}
+      {(() => {
+        const enter = spring({ frame: frame - 4, fps, config: { damping: 14, stiffness: 120 } });
+        return (
+          <g opacity={enter} transform={`translate(${root.x} ${root.y}) scale(${enter})`}>
+            <rect x={-150} y={-40} width={300} height={80} rx={22} fill={accent} />
+            <text y={10} textAnchor="middle" fontFamily="Poppins, Arial, sans-serif" fontWeight={800} fontSize={28} fill="#FFFFFF">
+              {root.label.toUpperCase()}
+            </text>
+          </g>
+        );
+      })()}
+
+      {/* Branch Nodes */}
+      {branches.map((b, i) => {
+        const enter = spring({ frame: frame - 16 - i * 6, fps, config: { damping: 14, stiffness: 120 } });
+        return (
+          <g key={`b-${i}`} opacity={enter} transform={`translate(${b.x} ${b.y}) scale(${enter})`}>
+            <rect x={-130} y={-36} width={260} height={72} rx={18} fill={paper} stroke={accent} strokeWidth={6} />
+            <text y={9} textAnchor="middle" fontFamily="Poppins, Arial, sans-serif" fontWeight={800} fontSize={24} fill={ink}>
+              {b.label.toUpperCase()}
+            </text>
+          </g>
+        );
+      })}
+
+      {/* Leaf Nodes */}
+      {leaves.map((l, i) => {
+        const enter = spring({ frame: frame - 28 - i * 4, fps, config: { damping: 14, stiffness: 120 } });
+        return (
+          <g key={`l-${i}`} opacity={enter} transform={`translate(${l.x} ${l.y}) scale(${enter})`}>
+            <rect x={-100} y={-28} width={200} height={56} rx={14} fill={paper} stroke={ink} strokeWidth={4} opacity={0.9} />
+            <text y={8} textAnchor="middle" fontFamily="Poppins, Arial, sans-serif" fontWeight={700} fontSize={20} fill={ink}>
+              {l.label.toUpperCase()}
+            </text>
+          </g>
+        );
+      })}
+    </g>
+  );
+};
+
+// ── funnel — multi-stage distillation / conversion funnel ────────────────────
+const Funnel: React.FC<ArchProps> = ({ spec, accent, ink, paper, frame, fps }) => {
+  const show = spring({ frame, fps, config: { damping: 16 } });
+  const labels = spec.labels.length >= 2 ? spec.labels : ["1000 ATTEMPTS", "100 EXPERIMENTS", "10 WINNERS", "1 SCALE"];
+  const stages = Math.min(4, labels.length);
+  const cx = VW / 2;
+  const startY = 130;
+  const stageH = 80;
+  const stageGap = 16;
+
+  const widths = [
+    { top: 880, btm: 700 },
+    { top: 680, btm: 500 },
+    { top: 480, btm: 300 },
+    { top: 280, btm: 140 },
+  ];
+
+  return (
+    <g opacity={show}>
+      <Title text={spec.title} ink={ink} show={show} />
+
+      {labels.slice(0, stages).map((lab, i) => {
+        const enter = spring({ frame: frame - 6 - i * 7, fps, config: { damping: 14, stiffness: 120 } });
+        const y = startY + i * (stageH + stageGap);
+        const w = widths[i] || { top: 300, btm: 150 };
+        const isLast = (i === stages - 1);
+
+        const p1 = `${cx - w.top / 2},${y}`;
+        const p2 = `${cx + w.top / 2},${y}`;
+        const p3 = `${cx + w.btm / 2},${y + stageH}`;
+        const p4 = `${cx - w.btm / 2},${y + stageH}`;
+        const points = `${p1} ${p2} ${p3} ${p4}`;
+
+        const val = spec.values?.[i];
+
+        return (
+          <g key={i} opacity={enter} transform={`translate(0 ${(1 - enter) * 20})`}>
+            <polygon
+              points={points}
+              fill={isLast ? accent : paper}
+              fillOpacity={isLast ? 0.95 : 0.75}
+              stroke={isLast ? accent : ink}
+              strokeWidth={5}
+              strokeLinejoin="round"
+            />
+            <text
+              x={cx}
+              y={y + stageH / 2 + 8}
+              textAnchor="middle"
+              fontFamily="Poppins, Arial, sans-serif"
+              fontWeight={800}
+              fontSize={lab.length > 14 ? 24 : 30}
+              fill={isLast ? "#FFFFFF" : ink}
+            >
+              {lab.toUpperCase()}
+            </text>
+            {val !== undefined && (
+              <g transform={`translate(${cx + w.top / 2 + 30} ${y + stageH / 2})`}>
+                <rect x={-36} y={-18} width={72} height={36} rx={18} fill={accent} opacity={0.9} />
+                <text y={7} textAnchor="middle" fontFamily="Poppins, Arial, sans-serif" fontWeight={800} fontSize={18} fill="#FFFFFF">
+                  {val}%
+                </text>
+              </g>
+            )}
+          </g>
+        );
+      })}
+
+      {(() => {
+        const loop = (frame % 45) / 45;
+        const py = interpolate(loop, [0, 1], [startY, startY + stages * (stageH + stageGap) + 30]);
+        return <circle cx={cx} cy={py} r={10} fill={accent} opacity={frame > 20 ? 0.85 : 0} />;
+      })()}
+    </g>
+  );
+};
+
 const ARCH: Record<DiagramSpec["type"], React.FC<ArchProps>> = {
   sorter: Sorter,
   matchWave: MatchWave,
   flow: Flow,
   spectrum: Spectrum,
+  matrix: Matrix,
+  tree: Tree,
+  funnel: Funnel,
 };
 
 /**

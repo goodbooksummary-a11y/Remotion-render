@@ -84,6 +84,33 @@
           "enter": "pop",
           "at": 78
         }
+      ],
+      "narrative": {
+        "function": "HOOK",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": false,
+        "promiseRole": "standalone"
+      },
+      "visualJob": "surprise",
+      "visualArc": {
+        "startState": "apparent_security",
+        "endState": "sudden_fracture",
+        "transformation": "shrink"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
+      ],
+      "audioEvents": [
+        {
+          "type": "pop",
+          "frameOffset": 6,
+          "volume": 0.11,
+          "durationFrames": 12,
+          "reason": "kinetic_text_pop"
+        }
       ]
     },
     {
@@ -134,7 +161,7 @@
           "text": "HARVARD MBA",
           "x": 1340,
           "y": 230,
-          "style": "plain",
+          "style": "box",
           "color": "#E8EDF2",
           "size": 66,
           "enter": "down",
@@ -150,6 +177,33 @@
           "size": 118,
           "enter": "pop",
           "at": 40
+        }
+      ],
+      "narrative": {
+        "function": "QUESTION",
+        "escalates": true,
+        "conceptual": true,
+        "emotional": false,
+        "promiseRole": "standalone"
+      },
+      "visualJob": "surprise",
+      "visualArc": {
+        "startState": "normal",
+        "endState": "normal",
+        "transformation": "none"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
+      ],
+      "audioEvents": [
+        {
+          "type": "pop",
+          "frameOffset": 8,
+          "volume": 0.11,
+          "durationFrames": 12,
+          "reason": "kinetic_text_pop"
         }
       ]
     },
@@ -245,6 +299,41 @@
           "enter": "pop",
           "at": 70
         }
+      ],
+      "narrative": {
+        "function": "CONTRADICTION",
+        "escalates": true,
+        "conceptual": true,
+        "emotional": false,
+        "promiseRole": "standalone"
+      },
+      "visualJob": "contrast",
+      "shot": "split",
+      "visualArc": {
+        "startState": "normal",
+        "endState": "normal",
+        "transformation": "none"
+      },
+      "attention": [
+        "partner",
+        "motif",
+        "text"
+      ],
+      "audioEvents": [
+        {
+          "type": "thud",
+          "frameOffset": 4,
+          "volume": 0.18,
+          "durationFrames": 20,
+          "reason": "counter_intuitive_turn"
+        },
+        {
+          "type": "pop",
+          "frameOffset": 20,
+          "volume": 0.11,
+          "durationFrames": 12,
+          "reason": "kinetic_text_pop"
+        }
       ]
     },
     {
@@ -304,11 +393,45 @@
           "text": "WE TREAT MONEY\nLIKE PHYSICS",
           "x": 1340,
           "y": 300,
-          "style": "plain",
+          "style": "box",
           "color": "#183048",
           "size": 84,
           "enter": "right",
           "at": 20
+        }
+      ],
+      "narrative": {
+        "function": "PAYOFF",
+        "escalates": true,
+        "conceptual": true,
+        "emotional": false,
+        "promiseRole": "standalone"
+      },
+      "visualJob": "reveal",
+      "visualArc": {
+        "startState": "default_path",
+        "endState": "intentional_path",
+        "transformation": "shift_focus"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
+      ],
+      "audioEvents": [
+        {
+          "type": "ding",
+          "frameOffset": 6,
+          "volume": 0.16,
+          "durationFrames": 36,
+          "reason": "promise_payoff_revelation"
+        },
+        {
+          "type": "pop",
+          "frameOffset": 20,
+          "volume": 0.11,
+          "durationFrames": 12,
+          "reason": "kinetic_text_pop"
         }
       ]
     },
@@ -365,6 +488,40 @@
           "size": 110,
           "enter": "pop",
           "at": 16
+        }
+      ],
+      "narrative": {
+        "function": "PAYOFF",
+        "escalates": false,
+        "conceptual": true,
+        "emotional": false,
+        "promiseRole": "standalone"
+      },
+      "visualJob": "reinforce",
+      "visualArc": {
+        "startState": "normal",
+        "endState": "normal",
+        "transformation": "none"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
+      ],
+      "audioEvents": [
+        {
+          "type": "ding",
+          "frameOffset": 6,
+          "volume": 0.16,
+          "durationFrames": 36,
+          "reason": "promise_payoff_revelation"
+        },
+        {
+          "type": "pop",
+          "frameOffset": 16,
+          "volume": 0.11,
+          "durationFrames": 12,
+          "reason": "kinetic_text_pop"
         }
       ]
     }
@@ -1444,6 +1601,79 @@
           "e": 1822
         }
       ]
+    }
+  ],
+  "promises": [],
+  "audioEvents": [
+    {
+      "frame": 6,
+      "type": "pop",
+      "volume": 0.11,
+      "durationFrames": 12,
+      "reason": "scene_0_text_pop"
+    },
+    {
+      "frame": 338,
+      "type": "pop",
+      "volume": 0.11,
+      "durationFrames": 12,
+      "reason": "scene_1_text_pop"
+    },
+    {
+      "frame": 694,
+      "type": "thud",
+      "volume": 0.18,
+      "durationFrames": 20,
+      "reason": "scene_2_contradiction"
+    },
+    {
+      "frame": 710,
+      "type": "pop",
+      "volume": 0.11,
+      "durationFrames": 12,
+      "reason": "scene_2_text_pop"
+    },
+    {
+      "frame": 1086,
+      "type": "silence",
+      "volume": 0,
+      "durationFrames": 54,
+      "reason": "pre_revelation_pause_for_scene_3"
+    },
+    {
+      "frame": 1146,
+      "type": "ding",
+      "volume": 0.16,
+      "durationFrames": 36,
+      "reason": "scene_3_payoff"
+    },
+    {
+      "frame": 1160,
+      "type": "pop",
+      "volume": 0.11,
+      "durationFrames": 12,
+      "reason": "scene_3_text_pop"
+    },
+    {
+      "frame": 1446,
+      "type": "silence",
+      "volume": 0,
+      "durationFrames": 54,
+      "reason": "pre_revelation_pause_for_scene_4"
+    },
+    {
+      "frame": 1506,
+      "type": "ding",
+      "volume": 0.16,
+      "durationFrames": 36,
+      "reason": "scene_4_payoff"
+    },
+    {
+      "frame": 1516,
+      "type": "pop",
+      "volume": 0.11,
+      "durationFrames": 12,
+      "reason": "scene_4_text_pop"
     }
   ]
 }

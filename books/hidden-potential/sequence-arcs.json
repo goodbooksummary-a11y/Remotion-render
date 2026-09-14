@@ -1,0 +1,2244 @@
+{
+  "slug": "hidden-potential",
+  "totalSequences": 74,
+  "totalScenes": 158,
+  "averageDurationSecs": 37.5,
+  "sequences": [
+    {
+      "id": "seq-01",
+      "fromFrame": 2,
+      "durationFrames": 1138,
+      "durationSeconds": 37.9,
+      "sceneCount": 2,
+      "curiosityArc": [
+        "setup",
+        "question"
+      ],
+      "beats": [
+        {
+          "index": 0,
+          "sceneId": "intro",
+          "fromFrame": 2,
+          "durationFrames": 636,
+          "role": "setup",
+          "narration": "the person who got the top score probably didn't travel the farthest to get it and we just handed th"
+        },
+        {
+          "index": 1,
+          "sceneId": "scene-01",
+          "fromFrame": 638,
+          "durationFrames": 502,
+          "role": "reveal",
+          "narration": "you know, we're using the entirely wrong ruler to do it. It completely flips how you think about suc"
+        }
+      ]
+    },
+    {
+      "id": "seq-02",
+      "fromFrame": 1140,
+      "durationFrames": 1142,
+      "durationSeconds": 38.1,
+      "sceneCount": 2,
+      "curiosityArc": [
+        "setup",
+        "question"
+      ],
+      "beats": [
+        {
+          "index": 2,
+          "sceneId": "scene-02",
+          "fromFrame": 1140,
+          "durationFrames": 516,
+          "role": "setup",
+          "narration": "Right. It's not just this biological lottery ticket. Exactly. Talent is a distance traveled. What lo"
+        },
+        {
+          "index": 3,
+          "sceneId": "scene-03",
+          "fromFrame": 1656,
+          "durationFrames": 626,
+          "role": "reveal",
+          "narration": "Yeah. It's those unseen elements that turn ordinary raw material into incredible achievement. And th"
+        }
+      ]
+    },
+    {
+      "id": "seq-03",
+      "fromFrame": 2282,
+      "durationFrames": 1018,
+      "durationSeconds": 33.9,
+      "sceneCount": 2,
+      "curiosityArc": [
+        "setup",
+        "question"
+      ],
+      "beats": [
+        {
+          "index": 4,
+          "sceneId": "scene-04",
+          "fromFrame": 2282,
+          "durationFrames": 545,
+          "role": "setup",
+          "narration": "starting point with high potential. And we are going to unpack exactly how to fix that ruler today b"
+        },
+        {
+          "index": 5,
+          "sceneId": "scene-05",
+          "fromFrame": 2827,
+          "durationFrames": 473,
+          "role": "reveal",
+          "narration": "It really does. So I was reading through the case studies on this and there is this one moment that "
+        }
+      ]
+    },
+    {
+      "id": "seq-04",
+      "fromFrame": 3300,
+      "durationFrames": 1056,
+      "durationSeconds": 35.2,
+      "sceneCount": 2,
+      "curiosityArc": [
+        "setup",
+        "question"
+      ],
+      "beats": [
+        {
+          "index": 6,
+          "sceneId": "scene-06",
+          "fromFrame": 3300,
+          "durationFrames": 643,
+          "role": "setup",
+          "narration": "It is packed to the brim with middle schoolers, but the second the clocks start, the entire room goe"
+        },
+        {
+          "index": 7,
+          "sceneId": "scene-07",
+          "fromFrame": 3943,
+          "durationFrames": 413,
+          "role": "reveal",
+          "narration": "School in New York City, which is like an incredibly elite prep Exactly. They basically built an Oly"
+        }
+      ]
+    },
+    {
+      "id": "seq-05",
+      "fromFrame": 4356,
+      "durationFrames": 1286,
+      "durationSeconds": 42.9,
+      "sceneCount": 3,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer"
+      ],
+      "beats": [
+        {
+          "index": 8,
+          "sceneId": "scene-08",
+          "fromFrame": 4356,
+          "durationFrames": 461,
+          "role": "setup",
+          "narration": "I mean, their parents fly them to international So, they are the absolute epitome of early advantage"
+        },
+        {
+          "index": 9,
+          "sceneId": "scene-09",
+          "fromFrame": 4817,
+          "durationFrames": 398,
+          "role": "question",
+          "narration": "They are this scrappy, totally underfunded group of eighth and nth graders from Junior High School 4"
+        },
+        {
+          "index": 10,
+          "sceneId": "scene-10",
+          "fromFrame": 5215,
+          "durationFrames": 427,
+          "role": "reveal",
+          "narration": "They obviously didn't have a decade of private coaching. In fact, some of them only learned how the "
+        }
+      ]
+    },
+    {
+      "id": "seq-06",
+      "fromFrame": 5642,
+      "durationFrames": 1136,
+      "durationSeconds": 37.9,
+      "sceneCount": 2,
+      "curiosityArc": [
+        "setup",
+        "question"
+      ],
+      "beats": [
+        {
+          "index": 11,
+          "sceneId": "scene-11",
+          "fromFrame": 5642,
+          "durationFrames": 598,
+          "role": "setup",
+          "narration": "That is just the environmental contrast is staggering. You have a frictionless track on one side and"
+        },
+        {
+          "index": 12,
+          "sceneId": "scene-12",
+          "fromFrame": 6240,
+          "durationFrames": 538,
+          "role": "reveal",
+          "narration": "Now, if you just look at the final score, they are equals. They both hold the exact same trophy. But"
+        }
+      ]
+    },
+    {
+      "id": "seq-07",
+      "fromFrame": 6778,
+      "durationFrames": 1308,
+      "durationSeconds": 43.6,
+      "sceneCount": 3,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer"
+      ],
+      "beats": [
+        {
+          "index": 13,
+          "sceneId": "scene-13",
+          "fromFrame": 6778,
+          "durationFrames": 415,
+          "role": "setup",
+          "narration": "On day one, we look at the y intercept on a graph. Right. The starting point. Uh yeah, the Dalton ki"
+        },
+        {
+          "index": 14,
+          "sceneId": "scene-14",
+          "fromFrame": 7193,
+          "durationFrames": 396,
+          "role": "question",
+          "narration": "But if you only judge people by what they can do on the first day of the assessment, their actual po"
+        },
+        {
+          "index": 15,
+          "sceneId": "scene-15",
+          "fromFrame": 7589,
+          "durationFrames": 497,
+          "role": "reveal",
+          "narration": "The late bloomer who clanged a mountain always beats the prodigy who started halfway up because the "
+        }
+      ]
+    },
+    {
+      "id": "seq-08",
+      "fromFrame": 8086,
+      "durationFrames": 1303,
+      "durationSeconds": 43.4,
+      "sceneCount": 3,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer"
+      ],
+      "beats": [
+        {
+          "index": 16,
+          "sceneId": "scene-16",
+          "fromFrame": 8086,
+          "durationFrames": 458,
+          "role": "setup",
+          "narration": "That actually makes me think of Maya Shanker. Her story is a perfect parallel to this. If you look a"
+        },
+        {
+          "index": 17,
+          "sceneId": "scene-17",
+          "fromFrame": 8544,
+          "durationFrames": 420,
+          "role": "question",
+          "narration": "She was on this completely frictionless track to becoming one of the greatest concert violinists in "
+        },
+        {
+          "index": 18,
+          "sceneId": "scene-18",
+          "fromFrame": 8964,
+          "durationFrames": 425,
+          "role": "reveal",
+          "narration": "Her starting advantage was totally wiped And that is exactly where you see what her potential actual"
+        }
+      ]
+    },
+    {
+      "id": "seq-09",
+      "fromFrame": 9389,
+      "durationFrames": 1080,
+      "durationSeconds": 36,
+      "sceneCount": 2,
+      "curiosityArc": [
+        "setup",
+        "question"
+      ],
+      "beats": [
+        {
+          "index": 19,
+          "sceneId": "scene-19",
+          "fromFrame": 9389,
+          "durationFrames": 473,
+          "role": "setup",
+          "narration": "She took all that relentless discipline, the ability to process microscopic feedback, the resilience"
+        },
+        {
+          "index": 20,
+          "sceneId": "scene-20",
+          "fromFrame": 9862,
+          "durationFrames": 607,
+          "role": "reveal",
+          "narration": "She started from zero in a new field, ended up getting her PhD from Oxford on a road scholarship, an"
+        }
+      ]
+    },
+    {
+      "id": "seq-10",
+      "fromFrame": 10469,
+      "durationFrames": 1147,
+      "durationSeconds": 38.2,
+      "sceneCount": 2,
+      "curiosityArc": [
+        "setup",
+        "question"
+      ],
+      "beats": [
+        {
+          "index": 21,
+          "sceneId": "scene-21",
+          "fromFrame": 10469,
+          "durationFrames": 482,
+          "role": "setup",
+          "narration": "She knew how to travel the distance. Okay, but I have to push back here for a Sure, go for it. Becau"
+        },
+        {
+          "index": 22,
+          "sceneId": "scene-22",
+          "fromFrame": 10951,
+          "durationFrames": 665,
+          "role": "reveal",
+          "narration": "What do you mean? I mean, what about the kids who just fall out of the sky with a 160 IQ? What about"
+        }
+      ]
+    },
+    {
+      "id": "seq-11",
+      "fromFrame": 11616,
+      "durationFrames": 1056,
+      "durationSeconds": 35.2,
+      "sceneCount": 2,
+      "curiosityArc": [
+        "setup",
+        "question"
+      ],
+      "beats": [
+        {
+          "index": 23,
+          "sceneId": "scene-23",
+          "fromFrame": 11616,
+          "durationFrames": 653,
+          "role": "setup",
+          "narration": "Yeah. We love to romanticize Mozart as this divine vessel of music who just scribbled masterpieces a"
+        },
+        {
+          "index": 24,
+          "sceneId": "scene-24",
+          "fromFrame": 12269,
+          "durationFrames": 403,
+          "role": "reveal",
+          "narration": "slavery. It was rigorous, brutal, non-stop drilling from the time the boy was a toddler. Mozart was "
+        }
+      ]
+    },
+    {
+      "id": "seq-12",
+      "fromFrame": 12672,
+      "durationFrames": 1013,
+      "durationSeconds": 33.8,
+      "sceneCount": 2,
+      "curiosityArc": [
+        "setup",
+        "question"
+      ],
+      "beats": [
+        {
+          "index": 25,
+          "sceneId": "scene-25",
+          "fromFrame": 12672,
+          "durationFrames": 586,
+          "role": "setup",
+          "narration": "Not at all. He wasn't a freak of nature. He was a freak of nurture. He succeeded in spite of this co"
+        },
+        {
+          "index": 26,
+          "sceneId": "scene-26",
+          "fromFrame": 13258,
+          "durationFrames": 427,
+          "role": "reveal",
+          "narration": "Oh, I saw this in the book. It's Right. We are talking Guggenheim winning sculptors, internationally"
+        }
+      ]
+    },
+    {
+      "id": "seq-13",
+      "fromFrame": 13685,
+      "durationFrames": 1147,
+      "durationSeconds": 38.2,
+      "sceneCount": 2,
+      "curiosityArc": [
+        "setup",
+        "question"
+      ],
+      "beats": [
+        {
+          "index": 27,
+          "sceneId": "scene-27",
+          "fromFrame": 13685,
+          "durationFrames": 540,
+          "role": "setup",
+          "narration": "They interviewed them, their parents, their coaches, and the stunning discovery was that almost none"
+        },
+        {
+          "index": 28,
+          "sceneId": "scene-28",
+          "fromFrame": 14225,
+          "durationFrames": 607,
+          "role": "reveal",
+          "narration": "Hardly any of the Olympic swimmers set records early on. Most of the elite tennis players lost in th"
+        }
+      ]
+    },
+    {
+      "id": "seq-14",
+      "fromFrame": 14832,
+      "durationFrames": 922,
+      "durationSeconds": 30.7,
+      "sceneCount": 2,
+      "curiosityArc": [
+        "setup",
+        "question"
+      ],
+      "beats": [
+        {
+          "index": 29,
+          "sceneId": "scene-29",
+          "fromFrame": 14832,
+          "durationFrames": 521,
+          "role": "setup",
+          "narration": "Exactly. The whole obsession with early innate talent is a myth. It reminds me of the Pulgar sisters"
+        },
+        {
+          "index": 30,
+          "sceneId": "scene-30",
+          "fromFrame": 15353,
+          "durationFrames": 401,
+          "role": "reveal",
+          "narration": "He publicly declared that any healthy child could be turned into a prodigy with the right environmen"
+        }
+      ]
+    },
+    {
+      "id": "seq-15",
+      "fromFrame": 15754,
+      "durationFrames": 1269,
+      "durationSeconds": 42.3,
+      "sceneCount": 2,
+      "curiosityArc": [
+        "setup",
+        "question"
+      ],
+      "beats": [
+        {
+          "index": 31,
+          "sceneId": "scene-31",
+          "fromFrame": 15754,
+          "durationFrames": 628,
+          "role": "setup",
+          "narration": "It is honestly one of the most audacious psychological experiments in history. He believed geniuses "
+        },
+        {
+          "index": 32,
+          "sceneId": "scene-32",
+          "fromFrame": 16382,
+          "durationFrames": 641,
+          "role": "reveal",
+          "narration": "at the time. And they weren't born with a special chess gene. They were placed in an environment tha"
+        }
+      ]
+    },
+    {
+      "id": "seq-16",
+      "fromFrame": 17023,
+      "durationFrames": 1035,
+      "durationSeconds": 34.5,
+      "sceneCount": 2,
+      "curiosityArc": [
+        "setup",
+        "question"
+      ],
+      "beats": [
+        {
+          "index": 33,
+          "sceneId": "scene-33",
+          "fromFrame": 17023,
+          "durationFrames": 449,
+          "role": "setup",
+          "narration": "to the next really important question. If raw innate cognitive power isn't the engine that drives a "
+        },
+        {
+          "index": 34,
+          "sceneId": "scene-34",
+          "fromFrame": 17472,
+          "durationFrames": 586,
+          "role": "reveal",
+          "narration": "Let's go to a kindergarten classroom in Tennessee in the late Right? Setting the scene. The state go"
+        }
+      ]
+    },
+    {
+      "id": "seq-17",
+      "fromFrame": 18058,
+      "durationFrames": 1118,
+      "durationSeconds": 37.3,
+      "sceneCount": 2,
+      "curiosityArc": [
+        "setup",
+        "question"
+      ],
+      "beats": [
+        {
+          "index": 35,
+          "sceneId": "scene-35",
+          "fromFrame": 18058,
+          "durationFrames": 458,
+          "role": "setup",
+          "narration": "It is a pure test of a teacher's impact, which is so rare to get in educational Exactly. Fast forwar"
+        },
+        {
+          "index": 36,
+          "sceneId": "scene-36",
+          "fromFrame": 18516,
+          "durationFrames": 660,
+          "role": "reveal",
+          "narration": "He cross references their kindergarten records with their adult W2 tax returns, college attendance r"
+        }
+      ]
+    },
+    {
+      "id": "seq-18",
+      "fromFrame": 19176,
+      "durationFrames": 1157,
+      "durationSeconds": 38.6,
+      "sceneCount": 2,
+      "curiosityArc": [
+        "setup",
+        "question"
+      ],
+      "beats": [
+        {
+          "index": 37,
+          "sceneId": "scene-37",
+          "fromFrame": 19176,
+          "durationFrames": 670,
+          "role": "setup",
+          "narration": "for a second. The specific human being who taught you how to sit in a circle and eat paste when you "
+        },
+        {
+          "index": 38,
+          "sceneId": "scene-38",
+          "fromFrame": 19846,
+          "durationFrames": 487,
+          "role": "reveal",
+          "narration": "That they learned their ABCs But that wasn't it. Cheddy's team looked at the early standardized test"
+        }
+      ]
+    },
+    {
+      "id": "seq-19",
+      "fromFrame": 20333,
+      "durationFrames": 1128,
+      "durationSeconds": 37.6,
+      "sceneCount": 2,
+      "curiosityArc": [
+        "setup",
+        "question"
+      ],
+      "beats": [
+        {
+          "index": 39,
+          "sceneId": "scene-39",
+          "fromFrame": 20333,
+          "durationFrames": 451,
+          "role": "setup",
+          "narration": "the other kids caught up. Their test scores leveled out. So, if the math and reading advantage disap"
+        },
+        {
+          "index": 40,
+          "sceneId": "scene-40",
+          "fromFrame": 20784,
+          "durationFrames": 677,
+          "role": "reveal",
+          "narration": "The teachers had rated them on specific behaviors, proactivity, pro-social behavior, discipline, and"
+        }
+      ]
+    },
+    {
+      "id": "seq-20",
+      "fromFrame": 21461,
+      "durationFrames": 1034,
+      "durationSeconds": 34.5,
+      "sceneCount": 2,
+      "curiosityArc": [
+        "setup",
+        "question"
+      ],
+      "beats": [
+        {
+          "index": 41,
+          "sceneId": "scene-41",
+          "fromFrame": 21461,
+          "durationFrames": 636,
+          "role": "setup",
+          "narration": "standardized math and reading 2.4 times more. We spend our entire lives obsessing over SAT scores, r"
+        },
+        {
+          "index": 42,
+          "sceneId": "scene-42",
+          "fromFrame": 22097,
+          "durationFrames": 398,
+          "role": "reveal",
+          "narration": "the It completely breaks the traditional model of academic success. And you know, we often dismiss t"
+        }
+      ]
+    },
+    {
+      "id": "seq-21",
+      "fromFrame": 22495,
+      "durationFrames": 1291,
+      "durationSeconds": 43,
+      "sceneCount": 2,
+      "curiosityArc": [
+        "setup",
+        "question"
+      ],
+      "beats": [
+        {
+          "index": 43,
+          "sceneId": "scene-43",
+          "fromFrame": 22495,
+          "durationFrames": 636,
+          "role": "setup",
+          "narration": "I despise the term soft skills. It makes them sound like a fluffy throw pillow on a couch. It sounds"
+        },
+        {
+          "index": 44,
+          "sceneId": "scene-44",
+          "fromFrame": 23131,
+          "durationFrames": 655,
+          "role": "reveal",
+          "narration": "the term almost immediately because it made these vital mission critical skills sound weak and femin"
+        }
+      ]
+    },
+    {
+      "id": "seq-22",
+      "fromFrame": 23786,
+      "durationFrames": 977,
+      "durationSeconds": 32.6,
+      "sceneCount": 2,
+      "curiosityArc": [
+        "setup",
+        "question"
+      ],
+      "beats": [
+        {
+          "index": 45,
+          "sceneId": "scene-45",
+          "fromFrame": 23786,
+          "durationFrames": 413,
+          "role": "setup",
+          "narration": "these character skills are literally the only things that elevate us above the machines. And what's "
+        },
+        {
+          "index": 46,
+          "sceneId": "scene-46",
+          "fromFrame": 24199,
+          "durationFrames": 564,
+          "role": "reveal",
+          "narration": "There was this recent fascinating study conducted in West Africa with 1,500 entrepreneurs. These are"
+        }
+      ]
+    },
+    {
+      "id": "seq-23",
+      "fromFrame": 24763,
+      "durationFrames": 1426,
+      "durationSeconds": 47.5,
+      "sceneCount": 3,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer"
+      ],
+      "beats": [
+        {
+          "index": 47,
+          "sceneId": "scene-47",
+          "fromFrame": 24763,
+          "durationFrames": 567,
+          "role": "setup",
+          "narration": "They don't look at a single spreadsheet. Instead, they study personal initiative, proactivity, and d"
+        },
+        {
+          "index": 48,
+          "sceneId": "scene-48",
+          "fromFrame": 25330,
+          "durationFrames": 405,
+          "role": "question",
+          "narration": "That was nearly triple the benefit of the cognitive training group. Triple the profit just from lear"
+        },
+        {
+          "index": 49,
+          "sceneId": "scene-49",
+          "fromFrame": 25735,
+          "durationFrames": 454,
+          "role": "reveal",
+          "narration": "If a client comes to you, you know how to build them. But character training taught them how to gene"
+        }
+      ]
+    },
+    {
+      "id": "seq-24",
+      "fromFrame": 26189,
+      "durationFrames": 1401,
+      "durationSeconds": 46.7,
+      "sceneCount": 3,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer"
+      ],
+      "beats": [
+        {
+          "index": 50,
+          "sceneId": "scene-50",
+          "fromFrame": 26189,
+          "durationFrames": 499,
+          "role": "setup",
+          "narration": "Okay, but I have to interject here because this clashes with classical How so? William James, the fo"
+        },
+        {
+          "index": 51,
+          "sceneId": "scene-51",
+          "fromFrame": 26688,
+          "durationFrames": 413,
+          "role": "question",
+          "narration": "If I'm 45 years old, how can I just sit in a classroom for a week and learn character? Isn't my pers"
+        },
+        {
+          "index": 52,
+          "sceneId": "scene-52",
+          "fromFrame": 27101,
+          "durationFrames": 489,
+          "role": "reveal",
+          "narration": "They are entirely different psychological mechanisms. Yes, personality is your predisposition. It's "
+        }
+      ]
+    },
+    {
+      "id": "seq-25",
+      "fromFrame": 27590,
+      "durationFrames": 1076,
+      "durationSeconds": 35.9,
+      "sceneCount": 2,
+      "curiosityArc": [
+        "setup",
+        "question"
+      ],
+      "beats": [
+        {
+          "index": 53,
+          "sceneId": "scene-53",
+          "fromFrame": 27590,
+          "durationFrames": 658,
+          "role": "setup",
+          "narration": "Oh, that is a profound distinction. Let's unpack that a bit more. Think of it this way. Personality "
+        },
+        {
+          "index": 54,
+          "sceneId": "scene-54",
+          "fromFrame": 28248,
+          "durationFrames": 418,
+          "role": "reveal",
+          "narration": "out anyway, that is your character overwriting your personality. Character isn't how you behave when"
+        }
+      ]
+    },
+    {
+      "id": "seq-26",
+      "fromFrame": 28666,
+      "durationFrames": 1039,
+      "durationSeconds": 34.6,
+      "sceneCount": 2,
+      "curiosityArc": [
+        "setup",
+        "question"
+      ],
+      "beats": [
+        {
+          "index": 55,
+          "sceneId": "scene-55",
+          "fromFrame": 28666,
+          "durationFrames": 405,
+          "role": "setup",
+          "narration": "Exactly. And the beautiful thing the West Africa study proves is that William James was wrong about "
+        },
+        {
+          "index": 56,
+          "sceneId": "scene-56",
+          "fromFrame": 29071,
+          "durationFrames": 634,
+          "role": "reveal",
+          "narration": "Character is the fuel that allows you to cover the distance traveled, not just rely on the height of"
+        }
+      ]
+    },
+    {
+      "id": "seq-27",
+      "fromFrame": 29705,
+      "durationFrames": 871,
+      "durationSeconds": 29,
+      "sceneCount": 2,
+      "curiosityArc": [
+        "setup",
+        "question"
+      ],
+      "beats": [
+        {
+          "index": 57,
+          "sceneId": "scene-57",
+          "fromFrame": 29705,
+          "durationFrames": 427,
+          "role": "setup",
+          "narration": "You have to develop the courage to deliberately become a creature of I love this concept. Let's look"
+        },
+        {
+          "index": 58,
+          "sceneId": "scene-58",
+          "fromFrame": 30132,
+          "durationFrames": 444,
+          "role": "reveal",
+          "narration": "Up on stage is a very young Steve Martin. He's got his banjo. He's trying out his act and he is bomb"
+        }
+      ]
+    },
+    {
+      "id": "seq-28",
+      "fromFrame": 30576,
+      "durationFrames": 1277,
+      "durationSeconds": 42.6,
+      "sceneCount": 2,
+      "curiosityArc": [
+        "setup",
+        "question"
+      ],
+      "beats": [
+        {
+          "index": 59,
+          "sceneId": "scene-59",
+          "fromFrame": 30576,
+          "durationFrames": 648,
+          "role": "setup",
+          "narration": "gets so painfully bad that a heckler actually stands up, walks toward the stage, and throws a glass "
+        },
+        {
+          "index": 60,
+          "sceneId": "scene-60",
+          "fromFrame": 31224,
+          "durationFrames": 629,
+          "role": "reveal",
+          "narration": "was trying to learn comedy the way that felt most comfortable to his personality. He was watching ot"
+        }
+      ]
+    },
+    {
+      "id": "seq-29",
+      "fromFrame": 31853,
+      "durationFrames": 1116,
+      "durationSeconds": 37.2,
+      "sceneCount": 2,
+      "curiosityArc": [
+        "setup",
+        "question"
+      ],
+      "beats": [
+        {
+          "index": 61,
+          "sceneId": "scene-61",
+          "fromFrame": 31853,
+          "durationFrames": 480,
+          "role": "setup",
+          "narration": "most in the world, which he despised. He absolutely hated writing. It was excruciatingly hard for hi"
+        },
+        {
+          "index": 62,
+          "sceneId": "scene-62",
+          "fromFrame": 32333,
+          "durationFrames": 636,
+          "role": "reveal",
+          "narration": "By forcing himself into the unbearable, highly frictional awkwardness of writing, he built entirely "
+        }
+      ]
+    },
+    {
+      "id": "seq-30",
+      "fromFrame": 32969,
+      "durationFrames": 969,
+      "durationSeconds": 32.3,
+      "sceneCount": 2,
+      "curiosityArc": [
+        "setup",
+        "question"
+      ],
+      "beats": [
+        {
+          "index": 63,
+          "sceneId": "scene-63",
+          "fromFrame": 32969,
+          "durationFrames": 528,
+          "role": "setup",
+          "narration": "He intentionally sought out the mode of learning that was most neurologically uncomfortable for him "
+        },
+        {
+          "index": 64,
+          "sceneId": "scene-64",
+          "fromFrame": 33497,
+          "durationFrames": 441,
+          "role": "reveal",
+          "narration": "Absolutely. The idea of learning styles, the theory that you are exclusively a visual learner or an "
+        }
+      ]
+    },
+    {
+      "id": "seq-31",
+      "fromFrame": 33938,
+      "durationFrames": 1124,
+      "durationSeconds": 37.5,
+      "sceneCount": 2,
+      "curiosityArc": [
+        "setup",
+        "question"
+      ],
+      "beats": [
+        {
+          "index": 65,
+          "sceneId": "scene-65",
+          "fromFrame": 33938,
+          "durationFrames": 490,
+          "role": "setup",
+          "narration": "But when cognitive scientists reviewed decades of rigorous research, they found zero credible eviden"
+        },
+        {
+          "index": 66,
+          "sceneId": "scene-66",
+          "fromFrame": 34428,
+          "durationFrames": 634,
+          "role": "reveal",
+          "narration": "Oh, I have to draw a map. I'm a visual learner or I prefer audio because I'm an auditory learner. Wh"
+        }
+      ]
+    },
+    {
+      "id": "seq-32",
+      "fromFrame": 35062,
+      "durationFrames": 1418,
+      "durationSeconds": 47.3,
+      "sceneCount": 3,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer"
+      ],
+      "beats": [
+        {
+          "index": 67,
+          "sceneId": "scene-67",
+          "fromFrame": 35062,
+          "durationFrames": 568,
+          "role": "setup",
+          "narration": "So, comfort is actually the enemy of Exactly. To grow myelin, which is the insulation around your ne"
+        },
+        {
+          "index": 68,
+          "sceneId": "scene-68",
+          "fromFrame": 35630,
+          "durationFrames": 430,
+          "role": "question",
+          "narration": "A brilliant modern example of this is Benny Lewis. Benny is a famous polyglot. He speaks over a doze"
+        },
+        {
+          "index": 69,
+          "sceneId": "scene-69",
+          "fromFrame": 36060,
+          "durationFrames": 420,
+          "role": "reveal",
+          "narration": "He moved to Spain for six months after college, lived there, and still couldn't string a basic Spani"
+        }
+      ]
+    },
+    {
+      "id": "seq-33",
+      "fromFrame": 36480,
+      "durationFrames": 1260,
+      "durationSeconds": 42,
+      "sceneCount": 3,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer"
+      ],
+      "beats": [
+        {
+          "index": 70,
+          "sceneId": "scene-70",
+          "fromFrame": 36480,
+          "durationFrames": 449,
+          "role": "setup",
+          "narration": "So, finally, he realizes that reading textbooks and quietly making flashcards in his room, which fel"
+        },
+        {
+          "index": 71,
+          "sceneId": "scene-71",
+          "fromFrame": 36929,
+          "durationFrames": 420,
+          "role": "question",
+          "narration": "I love that term. He goes out into the street and starts speaking the new language from day one. He "
+        },
+        {
+          "index": 72,
+          "sceneId": "scene-72",
+          "fromFrame": 37349,
+          "durationFrames": 391,
+          "role": "reveal",
+          "narration": "He aims to make at least 200 mistakes a day. That's his actual goal. Yes. He explicitly measures his"
+        }
+      ]
+    },
+    {
+      "id": "seq-34",
+      "fromFrame": 37740,
+      "durationFrames": 1330,
+      "durationSeconds": 44.3,
+      "sceneCount": 2,
+      "curiosityArc": [
+        "setup",
+        "question"
+      ],
+      "beats": [
+        {
+          "index": 73,
+          "sceneId": "scene-73",
+          "fromFrame": 37740,
+          "durationFrames": 703,
+          "role": "setup",
+          "narration": "Most people operate under the illusion that learning is about acquiring theoretical knowledge in pri"
+        },
+        {
+          "index": 74,
+          "sceneId": "scene-74",
+          "fromFrame": 38443,
+          "durationFrames": 627,
+          "role": "reveal",
+          "narration": "You don't get comfortable before you practice. Your comfort grows as you practice. Okay, but hold on"
+        }
+      ]
+    },
+    {
+      "id": "seq-35",
+      "fromFrame": 39070,
+      "durationFrames": 1142,
+      "durationSeconds": 38.1,
+      "sceneCount": 2,
+      "curiosityArc": [
+        "setup",
+        "question"
+      ],
+      "beats": [
+        {
+          "index": 75,
+          "sceneId": "scene-75",
+          "fromFrame": 39070,
+          "durationFrames": 429,
+          "role": "setup",
+          "narration": "Yeah. I feel like my brain's amydala would just hijack my nervous system, trigger the fight orflight"
+        },
+        {
+          "index": 76,
+          "sceneId": "scene-76",
+          "fromFrame": 39499,
+          "durationFrames": 713,
+          "role": "reveal",
+          "narration": "There was an incredible study done with students learning improv comedy, which is notoriously terrif"
+        }
+      ]
+    },
+    {
+      "id": "seq-36",
+      "fromFrame": 40212,
+      "durationFrames": 1152,
+      "durationSeconds": 38.4,
+      "sceneCount": 2,
+      "curiosityArc": [
+        "setup",
+        "question"
+      ],
+      "beats": [
+        {
+          "index": 77,
+          "sceneId": "scene-77",
+          "fromFrame": 40212,
+          "durationFrames": 492,
+          "role": "setup",
+          "narration": "awkward and uncomfortable. If you feel embarrassed, it is a sign the exercise is working.\" Oh wow. S"
+        },
+        {
+          "index": 78,
+          "sceneId": "scene-78",
+          "fromFrame": 40704,
+          "durationFrames": 660,
+          "role": "reveal",
+          "narration": "But when you are explicitly told by an authority figure that discomfort is the actual signal of prog"
+        }
+      ]
+    },
+    {
+      "id": "seq-37",
+      "fromFrame": 41364,
+      "durationFrames": 1102,
+      "durationSeconds": 36.7,
+      "sceneCount": 2,
+      "curiosityArc": [
+        "setup",
+        "question"
+      ],
+      "beats": [
+        {
+          "index": 79,
+          "sceneId": "scene-79",
+          "fromFrame": 41364,
+          "durationFrames": 581,
+          "role": "setup",
+          "narration": "He hacked his own reward That completely shifts the paradigm of how he approached new skills. You ca"
+        },
+        {
+          "index": 80,
+          "sceneId": "scene-80",
+          "fromFrame": 41945,
+          "durationFrames": 521,
+          "role": "reveal",
+          "narration": "And as you are stumbling forward, deliberately making those 200 mistakes, you have to know how to pr"
+        }
+      ]
+    },
+    {
+      "id": "seq-38",
+      "fromFrame": 42466,
+      "durationFrames": 928,
+      "durationSeconds": 30.9,
+      "sceneCount": 2,
+      "curiosityArc": [
+        "setup",
+        "question"
+      ],
+      "beats": [
+        {
+          "index": 81,
+          "sceneId": "scene-81",
+          "fromFrame": 42466,
+          "durationFrames": 482,
+          "role": "setup",
+          "narration": "Let's trace the life of Melody Hobson to understand this. We are in Chicago. A young girl named Melo"
+        },
+        {
+          "index": 82,
+          "sceneId": "scene-82",
+          "fromFrame": 42948,
+          "durationFrames": 446,
+          "role": "reveal",
+          "narration": "They face evictions. Their car gets repossessed. In first grade, Melody is placed in remedial readin"
+        }
+      ]
+    },
+    {
+      "id": "seq-39",
+      "fromFrame": 43394,
+      "durationFrames": 1097,
+      "durationSeconds": 36.6,
+      "sceneCount": 2,
+      "curiosityArc": [
+        "setup",
+        "question"
+      ],
+      "beats": [
+        {
+          "index": 83,
+          "sceneId": "scene-83",
+          "fromFrame": 43394,
+          "durationFrames": 660,
+          "role": "setup",
+          "narration": "She becomes completely obsessed. She relentlessly learns every single word she doesn't know. She tra"
+        },
+        {
+          "index": 84,
+          "sceneId": "scene-84",
+          "fromFrame": 44054,
+          "durationFrames": 437,
+          "role": "reveal",
+          "narration": "founder of a major investment firm. Quite the networking spot, right? But she doesn't just listen to"
+        }
+      ]
+    },
+    {
+      "id": "seq-40",
+      "fromFrame": 44491,
+      "durationFrames": 1315,
+      "durationSeconds": 43.8,
+      "sceneCount": 3,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer"
+      ],
+      "beats": [
+        {
+          "index": 85,
+          "sceneId": "scene-85",
+          "fromFrame": 44491,
+          "durationFrames": 466,
+          "role": "setup",
+          "narration": "Today, Melody Hobson is the co-CEO of Aerial Investments. She's the chair of the board at Starbucks "
+        },
+        {
+          "index": 86,
+          "sceneId": "scene-86",
+          "fromFrame": 44957,
+          "durationFrames": 408,
+          "role": "question",
+          "narration": "What is so crucial to understand here is that being a sponge is a highly proactive character skill. "
+        },
+        {
+          "index": 87,
+          "sceneId": "scene-87",
+          "fromFrame": 45365,
+          "durationFrames": 441,
+          "role": "reveal",
+          "narration": "I love the analogy the author uses here is the difference between being teflon being clay and being "
+        }
+      ]
+    },
+    {
+      "id": "seq-41",
+      "fromFrame": 45806,
+      "durationFrames": 1109,
+      "durationSeconds": 37,
+      "sceneCount": 2,
+      "curiosityArc": [
+        "setup",
+        "question"
+      ],
+      "beats": [
+        {
+          "index": 88,
+          "sceneId": "scene-88",
+          "fromFrame": 45806,
+          "durationFrames": 617,
+          "role": "setup",
+          "narration": "If you are clay, you are growthoriented, but you are completely passive. You just sit there and wait"
+        },
+        {
+          "index": 89,
+          "sceneId": "scene-89",
+          "fromFrame": 46423,
+          "durationFrames": 492,
+          "role": "reveal",
+          "narration": "You don't just wait for a performance review. You actively hunt for input. But you have to know exac"
+        }
+      ]
+    },
+    {
+      "id": "seq-42",
+      "fromFrame": 46915,
+      "durationFrames": 1392,
+      "durationSeconds": 46.4,
+      "sceneCount": 3,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer"
+      ],
+      "beats": [
+        {
+          "index": 90,
+          "sceneId": "scene-90",
+          "fromFrame": 46915,
+          "durationFrames": 456,
+          "role": "setup",
+          "narration": "Early in his career, he is asked to guest lecture to a room full of seasoned Air Force colonels. He "
+        },
+        {
+          "index": 91,
+          "sceneId": "scene-91",
+          "fromFrame": 47371,
+          "durationFrames": 444,
+          "role": "question",
+          "narration": "Big mistake. Huge mistake. The colonels absolutely crucify him. M one piece of feedback literally sa"
+        },
+        {
+          "index": 92,
+          "sceneId": "scene-92",
+          "fromFrame": 47815,
+          "durationFrames": 492,
+          "role": "reveal",
+          "narration": "Just pure demoralization by useless criticism. We have all experienced that kind of feedback loop. B"
+        }
+      ]
+    },
+    {
+      "id": "seq-43",
+      "fromFrame": 48307,
+      "durationFrames": 960,
+      "durationSeconds": 32,
+      "sceneCount": 2,
+      "curiosityArc": [
+        "setup",
+        "question"
+      ],
+      "beats": [
+        {
+          "index": 93,
+          "sceneId": "scene-93",
+          "fromFrame": 48307,
+          "durationFrames": 399,
+          "role": "setup",
+          "narration": "It looks backward. And when people focus on the past, they naturally turn into one of two things. Th"
+        },
+        {
+          "index": 94,
+          "sceneId": "scene-94",
+          "fromFrame": 48706,
+          "durationFrames": 561,
+          "role": "reveal",
+          "narration": "Neither is useful for growth. So what is the linguistic hack? Instead of asking for feedback, you mu"
+        }
+      ]
+    },
+    {
+      "id": "seq-44",
+      "fromFrame": 49267,
+      "durationFrames": 1296,
+      "durationSeconds": 43.2,
+      "sceneCount": 2,
+      "curiosityArc": [
+        "setup",
+        "question"
+      ],
+      "beats": [
+        {
+          "index": 95,
+          "sceneId": "scene-95",
+          "fromFrame": 49267,
+          "durationFrames": 631,
+          "role": "setup",
+          "narration": "It neutralizes their critical instinct and turns them into a coach. Okay, but I have to play the ske"
+        },
+        {
+          "index": 96,
+          "sceneId": "scene-96",
+          "fromFrame": 49898,
+          "durationFrames": 665,
+          "role": "reveal",
+          "narration": "of toxic, useless, biased That's a valid concern. If a sponge soaks up dirty water, it just becomes "
+        }
+      ]
+    },
+    {
+      "id": "seq-45",
+      "fromFrame": 50563,
+      "durationFrames": 1123,
+      "durationSeconds": 37.4,
+      "sceneCount": 2,
+      "curiosityArc": [
+        "setup",
+        "question"
+      ],
+      "beats": [
+        {
+          "index": 97,
+          "sceneId": "scene-97",
+          "fromFrame": 50563,
+          "durationFrames": 459,
+          "role": "setup",
+          "narration": "which coaches are actually allowed into your psychological inner circle. And how do we do that? The "
+        },
+        {
+          "index": 98,
+          "sceneId": "scene-98",
+          "fromFrame": 51022,
+          "durationFrames": 664,
+          "role": "reveal",
+          "narration": "If they don't genuinely care about you, you can completely dismiss their reaction. Their critique is"
+        }
+      ]
+    },
+    {
+      "id": "seq-46",
+      "fromFrame": 51686,
+      "durationFrames": 987,
+      "durationSeconds": 32.9,
+      "sceneCount": 2,
+      "curiosityArc": [
+        "setup",
+        "question"
+      ],
+      "beats": [
+        {
+          "index": 99,
+          "sceneId": "scene-99",
+          "fromFrame": 51686,
+          "durationFrames": 514,
+          "role": "setup",
+          "narration": "advice on your code is Makes sense. And third, familiarity. Do they know you? And do they know your "
+        },
+        {
+          "index": 100,
+          "sceneId": "scene-100",
+          "fromFrame": 52200,
+          "durationFrames": 473,
+          "role": "reveal",
+          "narration": "You soak up the right advice to sustain your momentum across the distance traveled, not the height o"
+        }
+      ]
+    },
+    {
+      "id": "seq-47",
+      "fromFrame": 52673,
+      "durationFrames": 1291,
+      "durationSeconds": 43,
+      "sceneCount": 2,
+      "curiosityArc": [
+        "setup",
+        "question"
+      ],
+      "beats": [
+        {
+          "index": 101,
+          "sceneId": "scene-101",
+          "fromFrame": 52673,
+          "durationFrames": 660,
+          "role": "setup",
+          "narration": "I was reading the section on perfectionism and my brain instantly snapped back to a vivid memory of "
+        },
+        {
+          "index": 102,
+          "sceneId": "scene-102",
+          "fromFrame": 53333,
+          "durationFrames": 631,
+          "role": "reveal",
+          "narration": "45 minutes? Yes. Why? Because in my head, I felt my center of gravity was leaning too far forward, o"
+        }
+      ]
+    },
+    {
+      "id": "seq-48",
+      "fromFrame": 53964,
+      "durationFrames": 922,
+      "durationSeconds": 30.7,
+      "sceneCount": 2,
+      "curiosityArc": [
+        "setup",
+        "question"
+      ],
+      "beats": [
+        {
+          "index": 103,
+          "sceneId": "scene-103",
+          "fromFrame": 53964,
+          "durationFrames": 410,
+          "role": "setup",
+          "narration": "between my reality and perfection. What you experienced on that diving board is the defining trap of"
+        },
+        {
+          "index": 104,
+          "sceneId": "scene-104",
+          "fromFrame": 54374,
+          "durationFrames": 512,
+          "role": "reveal",
+          "narration": "They obsess over polishing the wrong things like a tiny splash on a dive or the font on a presentati"
+        }
+      ]
+    },
+    {
+      "id": "seq-49",
+      "fromFrame": 54886,
+      "durationFrames": 1173,
+      "durationSeconds": 39.1,
+      "sceneCount": 2,
+      "curiosityArc": [
+        "setup",
+        "question"
+      ],
+      "beats": [
+        {
+          "index": 105,
+          "sceneId": "scene-105",
+          "fromFrame": 54886,
+          "durationFrames": 696,
+          "role": "setup",
+          "narration": "You spend 90% of your energy on the last 10% of the polish. To combat this, we need to look at Japan"
+        },
+        {
+          "index": 106,
+          "sceneId": "scene-106",
+          "fromFrame": 55582,
+          "durationFrames": 477,
+          "role": "reveal",
+          "narration": "legendary Japanese architect If you look at his work like the church of the light, he is an absolute"
+        }
+      ]
+    },
+    {
+      "id": "seq-50",
+      "fromFrame": 56059,
+      "durationFrames": 1116,
+      "durationSeconds": 37.2,
+      "sceneCount": 2,
+      "curiosityArc": [
+        "setup",
+        "question"
+      ],
+      "beats": [
+        {
+          "index": 107,
+          "sceneId": "scene-107",
+          "fromFrame": 56059,
+          "durationFrames": 478,
+          "role": "setup",
+          "narration": "But he intentionally compromises on pure function and comfort. He knows that to be ruthlessly discip"
+        },
+        {
+          "index": 108,
+          "sceneId": "scene-108",
+          "fromFrame": 56537,
+          "durationFrames": 638,
+          "role": "reveal",
+          "narration": "And this philosophy runs completely counter to the default platitude we are all taught in school and"
+        }
+      ]
+    },
+    {
+      "id": "seq-51",
+      "fromFrame": 57175,
+      "durationFrames": 1080,
+      "durationSeconds": 36,
+      "sceneCount": 2,
+      "curiosityArc": [
+        "setup",
+        "question"
+      ],
+      "beats": [
+        {
+          "index": 109,
+          "sceneId": "scene-109",
+          "fromFrame": 57175,
+          "durationFrames": 408,
+          "role": "setup",
+          "narration": "given a specific difficult target. That blew my mind when I read it. But it makes sense. If my divin"
+        },
+        {
+          "index": 110,
+          "sceneId": "scene-110",
+          "fromFrame": 57583,
+          "durationFrames": 672,
+          "role": "reveal",
+          "narration": "Exactly. But if the coach says, \"I want you to aim for a 6.5 on this dive.\" Suddenly, the paralyzing"
+        }
+      ]
+    },
+    {
+      "id": "seq-52",
+      "fromFrame": 58255,
+      "durationFrames": 984,
+      "durationSeconds": 32.8,
+      "sceneCount": 2,
+      "curiosityArc": [
+        "setup",
+        "question"
+      ],
+      "beats": [
+        {
+          "index": 111,
+          "sceneId": "scene-111",
+          "fromFrame": 58255,
+          "durationFrames": 571,
+          "role": "setup",
+          "narration": "operating table, I want a perfectionist heart surgeon. Naturally, if I am boarding a Boeing 747, I w"
+        },
+        {
+          "index": 112,
+          "sceneId": "scene-112",
+          "fromFrame": 58826,
+          "durationFrames": 413,
+          "role": "reveal",
+          "narration": "It is a totally rational fear, but the data tells a completely counterintuitive story. In the workpl"
+        }
+      ]
+    },
+    {
+      "id": "seq-53",
+      "fromFrame": 59239,
+      "durationFrames": 1051,
+      "durationSeconds": 35,
+      "sceneCount": 2,
+      "curiosityArc": [
+        "setup",
+        "question"
+      ],
+      "beats": [
+        {
+          "index": 113,
+          "sceneId": "scene-113",
+          "fromFrame": 59239,
+          "durationFrames": 526,
+          "role": "setup",
+          "narration": "The correlation was exactly Perfectionists perform no better than their peers. And frequently they a"
+        },
+        {
+          "index": 114,
+          "sceneId": "scene-114",
+          "fromFrame": 59765,
+          "durationFrames": 525,
+          "role": "reveal",
+          "narration": "They play it safe to maintain their flawless success rate. But the real world is ambiguous and requi"
+        }
+      ]
+    },
+    {
+      "id": "seq-54",
+      "fromFrame": 60290,
+      "durationFrames": 1016,
+      "durationSeconds": 33.9,
+      "sceneCount": 2,
+      "curiosityArc": [
+        "setup",
+        "question"
+      ],
+      "beats": [
+        {
+          "index": 115,
+          "sceneId": "scene-115",
+          "fromFrame": 60290,
+          "durationFrames": 425,
+          "role": "setup",
+          "narration": "We have this egocentric bias where we think one single mistake will define our entire reputation. Bu"
+        },
+        {
+          "index": 116,
+          "sceneId": "scene-116",
+          "fromFrame": 60715,
+          "durationFrames": 591,
+          "role": "reveal",
+          "narration": "Hamlet, McBth, King Lear. We completely ignore his terrible, messy, forgotten plays like Thyman of A"
+        }
+      ]
+    },
+    {
+      "id": "seq-55",
+      "fromFrame": 61306,
+      "durationFrames": 1264,
+      "durationSeconds": 42.1,
+      "sceneCount": 2,
+      "curiosityArc": [
+        "setup",
+        "question"
+      ],
+      "beats": [
+        {
+          "index": 117,
+          "sceneId": "scene-117",
+          "fromFrame": 61306,
+          "durationFrames": 638,
+          "role": "setup",
+          "narration": "Perfectionists get stuck on the diving board, obsessing over an imaginary peak rather than accumulat"
+        },
+        {
+          "index": 118,
+          "sceneId": "scene-118",
+          "fromFrame": 61944,
+          "durationFrames": 626,
+          "role": "reveal",
+          "narration": "absolutely nobody climbs alone. I want to take us to the winter of 2012 to one of the most hostile e"
+        }
+      ]
+    },
+    {
+      "id": "seq-56",
+      "fromFrame": 62570,
+      "durationFrames": 1064,
+      "durationSeconds": 35.5,
+      "sceneCount": 2,
+      "curiosityArc": [
+        "setup",
+        "question"
+      ],
+      "beats": [
+        {
+          "index": 119,
+          "sceneId": "scene-119",
+          "fromFrame": 62570,
+          "durationFrames": 461,
+          "role": "setup",
+          "narration": "He has been bouncing around the minor leagues. His traditional pitching mechanics have failed him, a"
+        },
+        {
+          "index": 120,
+          "sceneId": "scene-120",
+          "fromFrame": 63031,
+          "durationFrames": 603,
+          "role": "reveal",
+          "narration": "This grueling detour, this massive geographical loop backward away from baseball completely resets h"
+        }
+      ]
+    },
+    {
+      "id": "seq-57",
+      "fromFrame": 63634,
+      "durationFrames": 912,
+      "durationSeconds": 30.4,
+      "sceneCount": 2,
+      "curiosityArc": [
+        "setup",
+        "question"
+      ],
+      "beats": [
+        {
+          "index": 121,
+          "sceneId": "scene-121",
+          "fromFrame": 63634,
+          "durationFrames": 480,
+          "role": "setup",
+          "narration": "What Arri Dicki's story beautifully illustrates is that progress is rarely a linear upward trajector"
+        },
+        {
+          "index": 122,
+          "sceneId": "scene-122",
+          "fromFrame": 64114,
+          "durationFrames": 432,
+          "role": "reveal",
+          "narration": "Exactly. In construction, scaffolding is a temporary support structure that is bolted onto a buildin"
+        }
+      ]
+    },
+    {
+      "id": "seq-58",
+      "fromFrame": 64546,
+      "durationFrames": 1087,
+      "durationSeconds": 36.2,
+      "sceneCount": 2,
+      "curiosityArc": [
+        "setup",
+        "question"
+      ],
+      "beats": [
+        {
+          "index": 123,
+          "sceneId": "scene-123",
+          "fromFrame": 64546,
+          "durationFrames": 568,
+          "role": "setup",
+          "narration": "So, how does that apply to human Scaffolding is temporary support from others, mentors, peers, syste"
+        },
+        {
+          "index": 124,
+          "sceneId": "scene-124",
+          "fromFrame": 65114,
+          "durationFrames": 519,
+          "role": "reveal",
+          "narration": "The US Navy has finally reluctantly allowed black men to train to become officers. These 13 men are "
+        }
+      ]
+    },
+    {
+      "id": "seq-59",
+      "fromFrame": 65633,
+      "durationFrames": 1020,
+      "durationSeconds": 34,
+      "sceneCount": 2,
+      "curiosityArc": [
+        "setup",
+        "question"
+      ],
+      "beats": [
+        {
+          "index": 125,
+          "sceneId": "scene-125",
+          "fromFrame": 65633,
+          "durationFrames": 480,
+          "role": "setup",
+          "narration": "When they hit the incredibly complex navigation modules, like learning to use a sextant to navigate "
+        },
+        {
+          "index": 126,
+          "sceneId": "scene-126",
+          "fromFrame": 66113,
+          "durationFrames": 540,
+          "role": "reveal",
+          "narration": "How did they do it? At night, they covered the windows of their barracks so the guards wouldn't see "
+        }
+      ]
+    },
+    {
+      "id": "seq-60",
+      "fromFrame": 66653,
+      "durationFrames": 1265,
+      "durationSeconds": 42.2,
+      "sceneCount": 2,
+      "curiosityArc": [
+        "setup",
+        "question"
+      ],
+      "beats": [
+        {
+          "index": 127,
+          "sceneId": "scene-127",
+          "fromFrame": 66653,
+          "durationFrames": 583,
+          "role": "setup",
+          "narration": "But neurological studies show that giving advice to someone else actually builds your own confidence"
+        },
+        {
+          "index": 128,
+          "sceneId": "scene-128",
+          "fromFrame": 67236,
+          "durationFrames": 682,
+          "role": "reveal",
+          "narration": "The act of externalizing and teaching the problem forces the brain to reorganize the information and"
+        }
+      ]
+    },
+    {
+      "id": "seq-61",
+      "fromFrame": 67918,
+      "durationFrames": 1298,
+      "durationSeconds": 43.3,
+      "sceneCount": 2,
+      "curiosityArc": [
+        "setup",
+        "question"
+      ],
+      "beats": [
+        {
+          "index": 129,
+          "sceneId": "scene-129",
+          "fromFrame": 67918,
+          "durationFrames": 640,
+          "role": "setup",
+          "narration": "They lifted the entire group. Every single one of them passed with higher marks than the white which"
+        },
+        {
+          "index": 130,
+          "sceneId": "scene-130",
+          "fromFrame": 68558,
+          "durationFrames": 658,
+          "role": "reveal",
+          "narration": "my peers who are also struggling? Doesn't the chief financial officer know more about modeling than "
+        }
+      ]
+    },
+    {
+      "id": "seq-62",
+      "fromFrame": 69216,
+      "durationFrames": 1133,
+      "durationSeconds": 37.8,
+      "sceneCount": 2,
+      "curiosityArc": [
+        "setup",
+        "question"
+      ],
+      "beats": [
+        {
+          "index": 131,
+          "sceneId": "scene-131",
+          "fromFrame": 69216,
+          "durationFrames": 574,
+          "role": "setup",
+          "narration": "their brain runs it on complete autopilot. They have literally forgotten what it feels like to not k"
+        },
+        {
+          "index": 132,
+          "sceneId": "scene-132",
+          "fromFrame": 69790,
+          "durationFrames": 559,
+          "role": "reveal",
+          "narration": "It's entirely useless advice to a beginner because the expert cannot cognitively deconstruct the mic"
+        }
+      ]
+    },
+    {
+      "id": "seq-63",
+      "fromFrame": 70349,
+      "durationFrames": 1327,
+      "durationSeconds": 44.2,
+      "sceneCount": 3,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer"
+      ],
+      "beats": [
+        {
+          "index": 133,
+          "sceneId": "scene-133",
+          "fromFrame": 70349,
+          "durationFrames": 408,
+          "role": "setup",
+          "narration": "They remember the friction. Scaffolding is the architecture that connects the starting line to the f"
+        },
+        {
+          "index": 134,
+          "sceneId": "scene-134",
+          "fromFrame": 70757,
+          "durationFrames": 509,
+          "role": "question",
+          "narration": "We have to acknowledge that not everyone gets access to the same scaffolding. And that forces us to "
+        },
+        {
+          "index": 135,
+          "sceneId": "scene-135",
+          "fromFrame": 71266,
+          "durationFrames": 410,
+          "role": "reveal",
+          "narration": "It is a rejection letter from the NASA astronaut candidate program, but it's not his first. It is hi"
+        }
+      ]
+    },
+    {
+      "id": "seq-64",
+      "fromFrame": 71676,
+      "durationFrames": 1301,
+      "durationSeconds": 43.4,
+      "sceneCount": 2,
+      "curiosityArc": [
+        "setup",
+        "question"
+      ],
+      "beats": [
+        {
+          "index": 136,
+          "sceneId": "scene-136",
+          "fromFrame": 71676,
+          "durationFrames": 638,
+          "role": "setup",
+          "narration": "And 11 times a system has told him he simply isn't good enough. He crumples the letter up, throws it"
+        },
+        {
+          "index": 137,
+          "sceneId": "scene-137",
+          "fromFrame": 72314,
+          "durationFrames": 663,
+          "role": "reveal",
+          "narration": "university admissions dictates whose potential is ever seen in the first When the NASA selection com"
+        }
+      ]
+    },
+    {
+      "id": "seq-65",
+      "fromFrame": 72977,
+      "durationFrames": 1025,
+      "durationSeconds": 34.2,
+      "sceneCount": 2,
+      "curiosityArc": [
+        "setup",
+        "question"
+      ],
+      "beats": [
+        {
+          "index": 138,
+          "sceneId": "scene-138",
+          "fromFrame": 72977,
+          "durationFrames": 535,
+          "role": "setup",
+          "narration": "Their system had absolutely no metric to measure his trajectory. They didn't have a box on the appli"
+        },
+        {
+          "index": 139,
+          "sceneId": "scene-139",
+          "fromFrame": 73512,
+          "durationFrames": 490,
+          "role": "reveal",
+          "narration": "They judged his starting point, the altitude of his current resume and completely ignored the astoni"
+        }
+      ]
+    },
+    {
+      "id": "seq-66",
+      "fromFrame": 74002,
+      "durationFrames": 1248,
+      "durationSeconds": 41.6,
+      "sceneCount": 2,
+      "curiosityArc": [
+        "setup",
+        "question"
+      ],
+      "beats": [
+        {
+          "index": 140,
+          "sceneId": "scene-140",
+          "fromFrame": 74002,
+          "durationFrames": 626,
+          "role": "setup",
+          "narration": "He conducted a sweeping study cross-referencing over a million tax returns with US patent records. H"
+        },
+        {
+          "index": 141,
+          "sceneId": "scene-141",
+          "fromFrame": 74628,
+          "durationFrames": 622,
+          "role": "reveal",
+          "narration": "the median income. And we have to stop and ask ourselves the uncomfortable question. Are rich kids b"
+        }
+      ]
+    },
+    {
+      "id": "seq-67",
+      "fromFrame": 75250,
+      "durationFrames": 967,
+      "durationSeconds": 32.2,
+      "sceneCount": 2,
+      "curiosityArc": [
+        "setup",
+        "question"
+      ],
+      "beats": [
+        {
+          "index": 142,
+          "sceneId": "scene-142",
+          "fromFrame": 75250,
+          "durationFrames": 429,
+          "role": "setup",
+          "narration": "They didn't have the experienced kindergarten teachers teaching them proactivity. They didn't have t"
+        },
+        {
+          "index": 143,
+          "sceneId": "scene-143",
+          "fromFrame": 75679,
+          "durationFrames": 538,
+          "role": "reveal",
+          "narration": "We have to look at countries that build better systems. Yeah. Look at Finland. In the United States "
+        }
+      ]
+    },
+    {
+      "id": "seq-68",
+      "fromFrame": 76217,
+      "durationFrames": 938,
+      "durationSeconds": 31.3,
+      "sceneCount": 2,
+      "curiosityArc": [
+        "setup",
+        "question"
+      ],
+      "beats": [
+        {
+          "index": 144,
+          "sceneId": "scene-144",
+          "fromFrame": 76217,
+          "durationFrames": 487,
+          "role": "setup",
+          "narration": "Finland refuses to do this. They have unttracked schools. They keep all students together, regardles"
+        },
+        {
+          "index": 145,
+          "sceneId": "scene-145",
+          "fromFrame": 76704,
+          "durationFrames": 451,
+          "role": "reveal",
+          "narration": "They don't filter people out too early. I have to hit pause here Okay. What's up? Because if I am li"
+        }
+      ]
+    },
+    {
+      "id": "seq-69",
+      "fromFrame": 77155,
+      "durationFrames": 1203,
+      "durationSeconds": 40.1,
+      "sceneCount": 2,
+      "curiosityArc": [
+        "setup",
+        "question"
+      ],
+      "beats": [
+        {
+          "index": 146,
+          "sceneId": "scene-146",
+          "fromFrame": 77155,
+          "durationFrames": 694,
+          "role": "setup",
+          "narration": "Go ahead. We have spent the last hour celebrating the raging Ricks from Harlem. We celebrated Melody"
+        },
+        {
+          "index": 147,
+          "sceneId": "scene-147",
+          "fromFrame": 77849,
+          "durationFrames": 509,
+          "role": "reveal",
+          "narration": "you can overcome anything, right? But isn't this narrative borderline toxic? Aren't we just relying "
+        }
+      ]
+    },
+    {
+      "id": "seq-70",
+      "fromFrame": 78358,
+      "durationFrames": 1108,
+      "durationSeconds": 36.9,
+      "sceneCount": 2,
+      "curiosityArc": [
+        "setup",
+        "question"
+      ],
+      "beats": [
+        {
+          "index": 148,
+          "sceneId": "scene-148",
+          "fromFrame": 78358,
+          "durationFrames": 669,
+          "role": "setup",
+          "narration": "I agree with you completely and this is the most vital necessary counterpoint to everything we've di"
+        },
+        {
+          "index": 149,
+          "sceneId": "scene-149",
+          "fromFrame": 79027,
+          "durationFrames": 439,
+          "role": "reveal",
+          "narration": "Yes. If a corporate system requires you to be an absolute superhero just to get an entry-level inter"
+        }
+      ]
+    },
+    {
+      "id": "seq-71",
+      "fromFrame": 79466,
+      "durationFrames": 975,
+      "durationSeconds": 32.5,
+      "sceneCount": 2,
+      "curiosityArc": [
+        "setup",
+        "question"
+      ],
+      "beats": [
+        {
+          "index": 150,
+          "sceneId": "scene-150",
+          "fromFrame": 79466,
+          "durationFrames": 428,
+          "role": "setup",
+          "narration": "But the phrase, \"You have hidden potential should never be weaponized. It shouldn't become a toxic p"
+        },
+        {
+          "index": 151,
+          "sceneId": "scene-151",
+          "fromFrame": 79894,
+          "durationFrames": 547,
+          "role": "reveal",
+          "narration": "Good systems open doors for people who don't grow up with means. They actively shatter glass ceiling"
+        }
+      ]
+    },
+    {
+      "id": "seq-72",
+      "fromFrame": 80441,
+      "durationFrames": 957,
+      "durationSeconds": 31.9,
+      "sceneCount": 2,
+      "curiosityArc": [
+        "setup",
+        "question"
+      ],
+      "beats": [
+        {
+          "index": 152,
+          "sceneId": "scene-152",
+          "fromFrame": 80441,
+          "durationFrames": 470,
+          "role": "setup",
+          "narration": "They did. They eventually broadened their criteria. They finally saw Jose's trajectory and he went t"
+        },
+        {
+          "index": 153,
+          "sceneId": "scene-153",
+          "fromFrame": 80911,
+          "durationFrames": 487,
+          "role": "reveal",
+          "narration": "Let's synthesize this incredible journey we've been on. we have to completely stop looking at people"
+        }
+      ]
+    },
+    {
+      "id": "seq-73",
+      "fromFrame": 81398,
+      "durationFrames": 1143,
+      "durationSeconds": 38.1,
+      "sceneCount": 2,
+      "curiosityArc": [
+        "setup",
+        "question"
+      ],
+      "beats": [
+        {
+          "index": 154,
+          "sceneId": "scene-154",
+          "fromFrame": 81398,
+          "durationFrames": 668,
+          "role": "setup",
+          "narration": "Instead, we must start asking the dynamic question, how far could they travel? And what scaffolding "
+        },
+        {
+          "index": 155,
+          "sceneId": "scene-155",
+          "fromFrame": 82066,
+          "durationFrames": 475,
+          "role": "reveal",
+          "narration": "to build systems that recognize that talent is not a starting point. I love that. So, do you have a "
+        }
+      ]
+    },
+    {
+      "id": "seq-74",
+      "fromFrame": 82541,
+      "durationFrames": 764,
+      "durationSeconds": 25.5,
+      "sceneCount": 2,
+      "curiosityArc": [
+        "setup",
+        "question"
+      ],
+      "beats": [
+        {
+          "index": 156,
+          "sceneId": "scene-156",
+          "fromFrame": 82541,
+          "durationFrames": 648,
+          "role": "setup",
+          "narration": "Who is the uncut gem sitting right next to you that you have completely written off because they did"
+        },
+        {
+          "index": 157,
+          "sceneId": "scene-157",
+          "fromFrame": 83189,
+          "durationFrames": 116,
+          "role": "reveal",
+          "narration": "Remember, you always have to measure the distance traveled, not the height of the"
+        }
+      ]
+    }
+  ]
+}

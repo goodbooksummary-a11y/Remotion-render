@@ -59,6 +59,9 @@ const SHARED_ASSETS = [
   "public/broll-ocean-tanker/mo-photoshop-background.png",
   "public/sfx/whoosh.wav",
   "public/sfx/tick.wav",
+  "public/sfx/ding.wav",
+  "public/sfx/thud.wav",
+  "public/sfx/pop.wav",
 ];
 
 const ASSET_RE = /\.(png|jpe?g|webp|gif|svg|mp4|webm|mov|m4a|mp3|wav)$/i;

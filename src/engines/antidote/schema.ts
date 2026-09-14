@@ -445,6 +445,9 @@ export const diagramType = z.enum([
   "matchWave", // two rhythms drift, then lock into sync (matching / entrainment)
   "flow", // cause → effect, a token travelling the chain (process)
   "spectrum", // a marker on a continuum between two poles
+  "matrix", // 2x2 decision / prioritization matrix (Eisenhower, risk/reward) [5.0]
+  "tree", // hierarchical branching tree / first-principles decomposition [5.0]
+  "funnel", // multi-stage distillation / conversion funnel [5.0]
 ]);
 export type DiagramType = z.infer<typeof diagramType>;
 export const diagramSchema = z.object({
@@ -571,16 +574,43 @@ export const narrativeFunction = z.enum([
 ]);
 export type NarrativeFunction = z.infer<typeof narrativeFunction>;
 
+export const promiseRole = z.enum(["setup", "reminder", "escalation", "payoff", "standalone"]);
+export type PromiseRole = z.infer<typeof promiseRole>;
+
+export const promiseLifecycleSchema = z.object({
+  promiseId: z.string(),
+  question: z.string().optional(),
+  setupBeat: z.number(),
+  reminderBeats: z.array(z.number()).default([]),
+  payoffBeat: z.number().optional(),
+  status: z.enum(["open", "resolved", "abandoned"]).default("open"),
+  theme: z.string().optional(),
+});
+export type PromiseLifecycle = z.infer<typeof promiseLifecycleSchema>;
+
 export const narrativeSignalsSchema = z.object({
   function: narrativeFunction,
   nextQuestion: z.string().optional(),     // New question or tension raised
   payoffPromise: z.string().optional(),    // Promise ID opened by this beat
   payoff: z.string().optional(),           // Promise ID resolved by this beat
+  promiseId: z.string().optional(),        // Associated promise lifecycle ID (Phase 3)
+  promiseRole: promiseRole.optional(),     // Role within the promise lifecycle (Phase 3)
   escalates: z.boolean().default(false),   // Does this beat increase the stakes?
   conceptual: z.boolean().default(false),  // Is it an abstract theoretical principle?
   emotional: z.boolean().default(false),   // Is it a high-stakes emotional beat?
 });
 export type NarrativeSignalsSpec = z.infer<typeof narrativeSignalsSchema>;
+
+/** Audio Director Layer (God Mode Phase 7): Frame-accurate tactile SFX & selective silence */
+export const audioEventType = z.enum(["pop", "whoosh", "ding", "thud", "silence", "tick"]);
+export const audioEventSchema = z.object({
+  type: audioEventType,
+  frameOffset: z.number().default(0), // offset relative to scene.fromFrame
+  volume: z.number().default(0.15),
+  durationFrames: z.number().optional(),
+  reason: z.string().optional(),
+});
+export type AudioEventSpec = z.infer<typeof audioEventSchema>;
 
 export const sceneSchema = z.object({
   id: z.string(),
@@ -598,6 +628,8 @@ export const sceneSchema = z.object({
   visualArc: visualArcSchema.optional(),
   /** Attention Choreography: ordered sequence of where the viewer's eye should go. */
   attention: attentionMilestonesSchema.optional(),
+  /** Audio Director (God Mode 7.0): Punctuation sound design events */
+  audioEvents: z.array(audioEventSchema).optional(),
   shot: shotName.default("medium"),
   chapterCard: chapterCardSchema.optional(),
   /** An explanatory diagram (4.0) — the hero graphic of a conceptual beat. */
@@ -670,6 +702,14 @@ export const antidoteConfigSchema = z.object({
     hud: metaHudSchema.optional(),
   }),
   scenes: z.array(sceneSchema),
+  promises: z.array(promiseLifecycleSchema).optional(),
+  audioEvents: z.array(z.object({
+    frame: z.number(),
+    type: audioEventType,
+    volume: z.number().default(0.15),
+    durationFrames: z.number().optional(),
+    reason: z.string().optional(),
+  })).optional(),
   captions: z.array(captionSchema).default([]),
 });
 export type AntidoteConfig = z.infer<typeof antidoteConfigSchema>;

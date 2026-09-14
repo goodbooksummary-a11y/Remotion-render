@@ -160,6 +160,27 @@ if (ENGINE === "antidote") {
   // Checks VO-text echo rate (parrot quotes), triple redundancy, and static scenes.
   step(1.7, "Bilişsel Yük & Semantik Redundancy Denetimi",
     `node scripts/audit-semantic-redundancy.js --slug=${SLUG} --soft`, { optional: true });
+  // 1.75) NARRATIVE DIRECTOR CORE (Phase 1)
+  step(1.75, "Anlatı Yönetmeni & 6 Altın Kural Denetimi (God Mode Phase 1)",
+    `node scripts/audit-narrative.js --slug=${SLUG} --soft`, { optional: true });
+  // 1.8) STAGNATION ENGINE (Phase 2)
+  step(1.8, "Görsel Durgunluk & Durum Parmak İzi Denetimi (God Mode Phase 2)",
+    `node scripts/audit-stagnation.js --slug=${SLUG} --soft`, { optional: true });
+  // 1.85) PROMISE / PAYOFF ENGINE (Phase 3)
+  step(1.85, "Vaat & Karşılık Yaşam Döngüsü Denetimi (God Mode Phase 3)",
+    `node scripts/audit-promises.js --slug=${SLUG} --soft`, { optional: true });
+  // 1.86) NOVELTY BUDGET ENGINE (Phase 4)
+  step(1.86, "Görsel Yenilik Bütçesi Denetimi (God Mode Phase 4)",
+    `node scripts/audit-novelty.js --slug=${SLUG} --soft`, { optional: true });
+  // 1.87) CHAPTER-LEVEL NARRATIVE ARCS (Phase 6)
+  step(1.87, "Bölüm Düzeyi Merak Döngüsü Denetimi (God Mode Phase 6)",
+    `node scripts/audit-chapters.js --slug=${SLUG} --soft`, { optional: true });
+  // 1.88) AUDIO DIRECTOR SOUND DESIGN (Phase 7)
+  step(1.88, "Ses Yönetmeni & Dokunsal SFX Denetimi (God Mode Phase 7)",
+    `node scripts/audit-audio.js --slug=${SLUG} --soft`, { optional: true });
+  // 1.89) GOD MODE PRE-RENDER HARD GATES (Phase 10)
+  step(1.89, "God Mode 8 Altın Kural Kapısı (Pre-Render Hard Gate)",
+    `node scripts/hard-gate.js --slug=${SLUG} --auto-fix`);
   // Mastering is NOT Vox-specific: raw NotebookLM audio sits ~-25 LUFS and
   // YouTube never boosts quiet uploads, so an un-mastered Antidote book plays
   // ~11 dB below every other video too. Runs AFTER the plan so --update-config

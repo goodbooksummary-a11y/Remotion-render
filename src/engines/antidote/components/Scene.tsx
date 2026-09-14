@@ -327,19 +327,38 @@ export const Scene: React.FC<{ scene: SceneSpec; transIn?: number; cast?: CastBi
           emotion: dyn.emotion,
           emotionAt: dyn.emotionAt,
         };
+        // Cognitive Compression (God Mode Phase 5):
+        // In abstract beats with an explanatory diagram, the diagram is the HERO.
+        // The character steps to the side, scales down, and turns to gaze at the diagram!
+        let activeCharSpec = charSpecWithDyn;
+        let activeLookPoint = lookPoint;
+        if (scene.diagram) {
+          const diagX = scene.diagram.x ?? 960;
+          const diagY = scene.diagram.y ?? 486;
+          activeCharSpec = {
+            ...activeCharSpec,
+            x: 230,
+            y: 840,
+            scale: (c.scale ?? 1) * 0.58,
+            body: "bust",
+            action: (c.action === "walk" || c.action === "sit") ? c.action : "point",
+          };
+          activeLookPoint = { x: diagX, y: diagY };
+        }
+
         return (
           <AbsoluteFill key={c.id} style={camPlane(depth)}>
             {c.crowd && c.crowd > 1 ? (
-              <CrowdLayer spec={charSpecWithDyn} shot={scene.shot} cast={cast} accent={accent} />
+              <CrowdLayer spec={activeCharSpec} shot={scene.shot} cast={cast} accent={accent} />
             ) : (
               <CharacterLayer
-                spec={charSpecWithDyn}
+                spec={activeCharSpec}
                 shot={scene.shot}
                 index={i}
                 cast={cast}
                 durationFrames={scene.durationFrames}
                 accent={accent}
-                lookAtPoint={lookPoint}
+                lookAtPoint={activeLookPoint}
               />
             )}
           </AbsoluteFill>
