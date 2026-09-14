@@ -503,6 +503,57 @@ export const sceneHudSchema = z.object({
 });
 export type SceneHudSpec = z.infer<typeof sceneHudSchema>;
 
+// ── SEMANTIC VISUAL ALIGNMENT & PROGRESSION (Antidote 6.0) ───────────────────
+// The narrative purpose and progression of the beat. Moves the engine from
+// "illustrated radio" (decorational text + random icons) to a visual argument.
+export const visualJob = z.enum([
+  "explain",      // Deconstructs a mechanism or system into moving parts
+  "demonstrate",  // Shows how a specific behavior or action is executed
+  "contrast",     // Compares two conflicting realities or mental models (A vs B)
+  "reveal",       // Delivers the punchline, resolution, or unexpected truth
+  "reinforce",    // Anchors an abstract idea with a memorable symbolic metaphor
+  "quantify",     // Shows numerical scale, velocity, or compounding magnitude
+  "surprise",     // Subverts expectation with a high-contrast pattern interrupt
+  "escalate",     // Heightens tension, stakes, or emotional friction
+  "ground",       // Ties an abstract concept to a concrete space or object
+  "callback",     // Resurfaces a previously established metaphor/character
+  "pattern-break",// Deliberately interrupts rhythm to reset audience attention
+]);
+export type VisualJob = z.infer<typeof visualJob>;
+
+export const visualTransformation = z.enum([
+  "none",         // Stable composition
+  "grow",         // Element or pressure expands to fill the frame
+  "shrink",       // Subject diminishes or is marginalized
+  "multiply",     // A single element reproduces into an overwhelming crowd/grid
+  "overload",     // Screen becomes cluttered with stimuli/notifications/friction
+  "isolate",      // Clutter disappears, leaving the subject alone
+  "reveal_truth", // Surface facade gives way to the underlying reality
+  "shift_focus",  // Visual dominance transfers from one subject to another
+]);
+export type VisualTransformation = z.infer<typeof visualTransformation>;
+
+export const visualArcSchema = z.object({
+  startState: z.string(),
+  endState: z.string(),
+  transformation: visualTransformation.default("none"),
+});
+export type VisualArcSpec = z.infer<typeof visualArcSchema>;
+
+export const attentionTarget = z.enum([
+  "character",
+  "partner",
+  "heldProp",
+  "motif",
+  "text",
+  "diagram",
+  "hud",
+]);
+export type AttentionTarget = z.infer<typeof attentionTarget>;
+
+export const attentionMilestonesSchema = z.array(attentionTarget);
+export type AttentionMilestonesSpec = z.infer<typeof attentionMilestonesSchema>;
+
 export const sceneSchema = z.object({
   id: z.string(),
   fromFrame: z.number(),
@@ -511,6 +562,12 @@ export const sceneSchema = z.object({
    *  Set by the director's concept lexicon / Claude; drives the illustration shot
    *  + scene icon. Advisory/telemetry — the icon itself lives in `props`. */
   concept: z.string().optional(),
+  /** Semantic Visual Alignment: the narrative job this beat performs. */
+  visualJob: visualJob.optional(),
+  /** Visual Progression: intra-scene transformation from startState to endState. */
+  visualArc: visualArcSchema.optional(),
+  /** Attention Choreography: ordered sequence of where the viewer's eye should go. */
+  attention: attentionMilestonesSchema.optional(),
   shot: shotName.default("medium"),
   chapterCard: chapterCardSchema.optional(),
   /** An explanatory diagram (4.0) — the hero graphic of a conceptual beat. */

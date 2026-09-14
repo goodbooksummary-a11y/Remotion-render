@@ -850,6 +850,21 @@ function roleIndex(cast) {
   ensureBookDir(SLUG);
   fs.writeFileSync(abs.antidoteConfig(SLUG), JSON.stringify(config, null, 2) + "\n");
 
+  // ── SEMANTIC VISUAL ALIGNMENT & PROGRESSION (Antidote 6.0) ─────────────────
+  // Automatically generate macro sequence arcs and apply the Three-Layer semantic director
+  // so every plan is natively free of parrot copy and static decorator scenes.
+  if (!args["skip-semantic"]) {
+    try {
+      const { execFileSync } = require("child_process");
+      const rootDir = path.join(__dirname, "..");
+      execFileSync(process.execPath, [path.join(rootDir, "scripts", "plan-sequence-arcs.js"), `--slug=${SLUG}`], { stdio: "pipe" });
+      execFileSync(process.execPath, [path.join(rootDir, "scripts", "apply-semantic-arcs.js"), `--slug=${SLUG}`], { stdio: "pipe" });
+      console.log(`✓ semantik görsel görevler, dönüşüm arkları ve merak dizileri uygulandı (Antidote 6.0)`);
+    } catch (e) {
+      console.warn(`  ⚠ semantic alignment warning: ${e.message}`);
+    }
+  }
+
   // book.json engine = antidote (source of truth for the pipeline)
   const man = readManifest(SLUG) || { slug: SLUG, title: TITLE, author: AUTHOR, genre: GENRE };
   man.engine = "antidote";

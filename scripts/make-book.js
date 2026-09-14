@@ -136,6 +136,9 @@ if (ENGINE === "antidote") {
     if (fs.existsSync(path.join(ROOT, "books", SLUG, "beat-briefs.json"))) {
       step(1.3, "Yeniden plan (brief'lerle)", `${APLAN} --briefs=books/${SLUG}/beat-briefs.json`);
     }
+    // 1.35-1.4) Macro Sequence Arcs & Semantic Visual Alignment (Antidote 6.0)
+    step(1.35, "Makro Merak Döngüleri (Sequence Arcs)", `node scripts/plan-sequence-arcs.js --slug=${SLUG}`, { optional: true });
+    step(1.4, "Semantik Görsel Düzenleme & Üç Katman Kuralı", `node scripts/apply-semantic-arcs.js --slug=${SLUG}`, { optional: true });
   } else if (!fs.existsSync(path.join(ROOT, ACFG))) {
     console.error(`❌ --skip-plan ama ${ACFG} yok.`); process.exit(1);
   }
@@ -153,6 +156,10 @@ if (ENGINE === "antidote") {
   // Phase 5 of VISUAL_RELEVANCE_PLAN.md turns it into a real gate.
   step(1.6, "Anlam denetimi (anlatım ↔ görsel uyumu)",
     `node scripts/audit-relevance.js --slug=${SLUG} --soft`, { optional: true });
+  // 1.7) COGNITIVE REDUNDANCY & ILLUSTRATED RADIO AUDIT
+  // Checks VO-text echo rate (parrot quotes), triple redundancy, and static scenes.
+  step(1.7, "Bilişsel Yük & Semantik Redundancy Denetimi",
+    `node scripts/audit-semantic-redundancy.js --slug=${SLUG} --soft`, { optional: true });
   // Mastering is NOT Vox-specific: raw NotebookLM audio sits ~-25 LUFS and
   // YouTube never boosts quiet uploads, so an un-mastered Antidote book plays
   // ~11 dB below every other video too. Runs AFTER the plan so --update-config

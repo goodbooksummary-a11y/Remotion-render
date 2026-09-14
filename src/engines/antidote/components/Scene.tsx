@@ -12,6 +12,7 @@ import { DEFAULT_TRANSITION, DEFAULT_VARIANT } from "../schema";
 import { enter, pose, ambient, arcOf, parallax } from "../movements";
 import { interpolate } from "remotion";
 import { camera } from "../movements";
+import { resolveChoreographedLookAt, resolveDynamicExpression, resolveVisualArcTransform } from "../choreography";
 import type { SceneSpec, CharacterSpec, ShotName, VariantSpec, CastBible, BodyPlan, HandProp, CharEmotion } from "../schema";
 
 /**
@@ -254,47 +255,7 @@ export const Scene: React.FC<{ scene: SceneSpec; transIn?: number; cast?: CastBi
   // turn toward it. Uses the same staging the elements themselves resolve to.
   const props = scene.props ?? [];
   const texts = scene.texts ?? [];
-  const lookPointFor = (c: CharacterSpec, i: number): { x: number; y: number } | null => {
-    const la = c.lookAt;
-    if (!la) return null;
-    if (typeof la === "object") return la;
-    const self = stageChar(scene.shot, c, i);
-    switch (la) {
-      case "partner": {
-        const bi = bodies.findIndex((b) => b.id !== c.id);
-        if (bi < 0) return null;
-        return stageChar(scene.shot, bodies[bi], bi);
-      }
-      case "prop":
-      case "motif": {
-        const p = props[0];
-        return p ? { x: p.x ?? preset.motif.x, y: p.y ?? preset.motif.y } : null;
-      }
-      case "text":
-      case "callout": {
-        const tx = texts[0];
-        return tx ? stageText(scene.shot, tx, 0) : null;
-      }
-      case "heldProp":
-      case "hand": {
-        return {
-          x: self.x + (self.flip ? -40 : 40) * self.scale,
-          y: self.y + 65 * self.scale,
-        };
-      }
-      case "wander": {
-        // Natural lifelike wandering gaze across the stage
-        const wx = self.x + Math.sin(frame * 0.025) * 320 + Math.sin(frame * 0.06) * 120;
-        const wy = self.y - 120 + Math.cos(frame * 0.03) * 110;
-        return { x: wx, y: wy };
-      }
-      case "viewer":
-      case "camera":
-      case "ahead":
-      default:
-        return { x: self.x, y: self.y - 120 * self.scale }; // eye level front
-    }
-  };
+  const visualArcTransform = resolveVisualArcTransform(scene.visualArc, local, scene.durationFrames);
 
   return (
     <AbsoluteFill style={t.style}>
@@ -320,7 +281,16 @@ export const Scene: React.FC<{ scene: SceneSpec; transIn?: number; cast?: CastBi
             <AbsoluteFill style={camPlane(depth)}>
               {/* inset:0 — a transformed wrapper is the containing block for the
                   motif's absolute left/top, so it must cover the full stage. */}
-              <div style={{ position: "absolute", inset: 0, opacity: arc.opacity, filter: "drop-shadow(0 18px 30px rgba(0,0,0,0.14))", transform: `translate(${amb.tx}px, ${amb.ty + arc.ty}px) rotate(${amb.rotate + arc.rotate}deg) scale(${amb.scale * arc.scale})`, transformOrigin: "center" }}>
+              <div
+                style={{
+                  position: "absolute",
+                  inset: 0,
+                  opacity: arc.opacity * visualArcTransform.opacity,
+                  filter: "drop-shadow(0 18px 30px rgba(0,0,0,0.14))",
+                  transform: `translate(${amb.tx + visualArcTransform.tx + visualArcTransform.jitter}px, ${amb.ty + arc.ty + visualArcTransform.ty}px) rotate(${amb.rotate + arc.rotate}deg) scale(${amb.scale * arc.scale * visualArcTransform.scale})`,
+                  transformOrigin: "center",
+                }}
+              >
                 <Motif
                   spec={{ ...p, x: p.x ?? preset.motif.x, y: p.y ?? preset.motif.y, scale: s * (s === 1 ? preset.motif.scale : 1) }}
                   accent={accent}
@@ -349,12 +319,28 @@ export const Scene: React.FC<{ scene: SceneSpec; transIn?: number; cast?: CastBi
       {bodies.map((c, i) => {
         const stg = stageChar(scene.shot, c, i);
         const depth = c.depth ?? (stg.silhouette ? 1.35 : 1);
+        const lookPoint = resolveChoreographedLookAt(scene, c, i, bodies, local, scene.durationFrames);
+        const dyn = resolveDynamicExpression(scene, c, local, scene.durationFrames);
+        const charSpecWithDyn: CharacterSpec = {
+          ...c,
+          expression: dyn.expression,
+          emotion: dyn.emotion,
+          emotionAt: dyn.emotionAt,
+        };
         return (
           <AbsoluteFill key={c.id} style={camPlane(depth)}>
             {c.crowd && c.crowd > 1 ? (
-              <CrowdLayer spec={c} shot={scene.shot} cast={cast} accent={accent} />
+              <CrowdLayer spec={charSpecWithDyn} shot={scene.shot} cast={cast} accent={accent} />
             ) : (
-              <CharacterLayer spec={c} shot={scene.shot} index={i} cast={cast} durationFrames={scene.durationFrames} accent={accent} lookAtPoint={lookPointFor(c, i)} />
+              <CharacterLayer
+                spec={charSpecWithDyn}
+                shot={scene.shot}
+                index={i}
+                cast={cast}
+                durationFrames={scene.durationFrames}
+                accent={accent}
+                lookAtPoint={lookPoint}
+              />
             )}
           </AbsoluteFill>
         );

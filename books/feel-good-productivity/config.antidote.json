@@ -235,13 +235,24 @@
           "at": 6
         },
         {
-          "text": "YOU HATE",
+          "text": "THE 99% DEFAULT",
           "style": "box",
           "color": "#FAF8F2",
           "boxColor": "#E85D04",
           "enter": "pop",
           "at": 161
         }
+      ],
+      "visualJob": "ground",
+      "visualArc": {
+        "startState": "normal",
+        "endState": "normal",
+        "transformation": "none"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
       ]
     },
     {
@@ -312,7 +323,18 @@
           "color2": "#181A20"
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "surprise",
+      "visualArc": {
+        "startState": "apparent_security",
+        "endState": "sudden_fracture",
+        "transformation": "shrink"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-02",
@@ -394,13 +416,24 @@
       ],
       "texts": [
         {
-          "text": "MODEL OF WORK",
+          "text": "CRITICAL DISTINCTION",
           "style": "reveal",
           "color": "#181A20",
           "boxColor": "#E85D04",
           "enter": "pop",
           "at": 191
         }
+      ],
+      "visualJob": "escalate",
+      "visualArc": {
+        "startState": "under_control",
+        "endState": "overwhelmed",
+        "transformation": "overload"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
       ]
     },
     {
@@ -461,13 +494,24 @@
       "props": [],
       "texts": [
         {
-          "text": "KNOW ENOUGH GUILT",
+          "text": "CRITICAL DISTINCTION",
           "style": "reveal",
           "color": "#181A20",
           "boxColor": "#E85D04",
           "enter": "pop",
           "at": 68
         }
+      ],
+      "visualJob": "reveal",
+      "visualArc": {
+        "startState": "surface_facade",
+        "endState": "underlying_reality",
+        "transformation": "reveal_truth"
+      },
+      "attention": [
+        "character",
+        "text",
+        "motif"
       ]
     },
     {
@@ -546,7 +590,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "ground",
+      "visualArc": {
+        "startState": "normal",
+        "endState": "normal",
+        "transformation": "none"
+      },
+      "attention": [
+        "partner",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-05",
@@ -618,13 +673,24 @@
       ],
       "texts": [
         {
-          "text": "ALI ABDAL'S WORK",
+          "text": "CRITICAL DISTINCTION",
           "style": "reveal",
           "color": "#181A20",
           "boxColor": "#E85D04",
           "enter": "pop",
           "at": 154
         }
+      ],
+      "visualJob": "surprise",
+      "visualArc": {
+        "startState": "apparent_security",
+        "endState": "sudden_fracture",
+        "transformation": "shrink"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
       ]
     },
     {
@@ -708,13 +774,24 @@
       ],
       "texts": [
         {
-          "text": "YOUR DAILY WORK",
+          "text": "SYSTEM 1 VS SYSTEM 2",
           "style": "reveal",
           "color": "#181A20",
           "boxColor": "#E85D04",
           "enter": "pop",
           "at": 188
         }
+      ],
+      "visualJob": "escalate",
+      "visualArc": {
+        "startState": "under_control",
+        "endState": "overwhelmed",
+        "transformation": "overload"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
       ]
     },
     {
@@ -794,7 +871,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "reveal",
+      "visualArc": {
+        "startState": "surface_facade",
+        "endState": "underlying_reality",
+        "transformation": "reveal_truth"
+      },
+      "attention": [
+        "character",
+        "text",
+        "motif"
+      ]
     },
     {
       "id": "scene-08",
@@ -864,7 +952,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "ground",
+      "visualArc": {
+        "startState": "normal",
+        "endState": "normal",
+        "transformation": "none"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-09",
@@ -929,7 +1028,18 @@
           "color2": "#181A20"
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "surprise",
+      "visualArc": {
+        "startState": "apparent_security",
+        "endState": "sudden_fracture",
+        "transformation": "shrink"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-10",
@@ -1022,7 +1132,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "escalate",
+      "visualArc": {
+        "startState": "under_control",
+        "endState": "overwhelmed",
+        "transformation": "overload"
+      },
+      "attention": [
+        "partner",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-11",
@@ -1101,6 +1222,17 @@
           "enter": "pop",
           "at": 300
         }
+      ],
+      "visualJob": "reveal",
+      "visualArc": {
+        "startState": "surface_facade",
+        "endState": "underlying_reality",
+        "transformation": "reveal_truth"
+      },
+      "attention": [
+        "character",
+        "text",
+        "motif"
       ]
     },
     {
@@ -1160,7 +1292,17 @@
           "at": 0
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "ground",
+      "visualArc": {
+        "startState": "stable",
+        "endState": "focused",
+        "transformation": "grow"
+      },
+      "attention": [
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-13",
@@ -1231,7 +1373,18 @@
           "color2": "#181A20"
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "surprise",
+      "visualArc": {
+        "startState": "apparent_security",
+        "endState": "sudden_fracture",
+        "transformation": "shrink"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-14",
@@ -1311,7 +1464,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "escalate",
+      "visualArc": {
+        "startState": "under_control",
+        "endState": "overwhelmed",
+        "transformation": "overload"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-15",
@@ -1384,13 +1548,24 @@
       ],
       "texts": [
         {
-          "text": "MAKE THE WORK",
+          "text": "TASK FRICTION",
           "style": "reveal",
           "color": "#181A20",
           "boxColor": "#E85D04",
           "enter": "pop",
           "at": 154
         }
+      ],
+      "visualJob": "reveal",
+      "visualArc": {
+        "startState": "surface_facade",
+        "endState": "underlying_reality",
+        "transformation": "reveal_truth"
+      },
+      "attention": [
+        "character",
+        "text",
+        "motif"
       ]
     },
     {
@@ -1470,7 +1645,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "ground",
+      "visualArc": {
+        "startState": "normal",
+        "endState": "normal",
+        "transformation": "none"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-17",
@@ -1527,7 +1713,17 @@
           "at": 0
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "surprise",
+      "visualArc": {
+        "startState": "apparent_security",
+        "endState": "sudden_fracture",
+        "transformation": "shrink"
+      },
+      "attention": [
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-18",
@@ -1598,7 +1794,18 @@
           "color2": "#181A20"
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "escalate",
+      "visualArc": {
+        "startState": "under_control",
+        "endState": "overwhelmed",
+        "transformation": "overload"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-19",
@@ -1679,7 +1886,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "reveal",
+      "visualArc": {
+        "startState": "surface_facade",
+        "endState": "underlying_reality",
+        "transformation": "reveal_truth"
+      },
+      "attention": [
+        "character",
+        "text",
+        "motif"
+      ]
     },
     {
       "id": "scene-20",
@@ -1743,7 +1961,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "ground",
+      "visualArc": {
+        "startState": "normal",
+        "endState": "normal",
+        "transformation": "none"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-21",
@@ -1828,13 +2057,24 @@
       ],
       "texts": [
         {
-          "text": "ROW OF DATA",
+          "text": "THE 99% DEFAULT",
           "style": "reveal",
           "color": "#181A20",
           "boxColor": "#E85D04",
           "enter": "pop",
           "at": 238
         }
+      ],
+      "visualJob": "surprise",
+      "visualArc": {
+        "startState": "apparent_security",
+        "endState": "sudden_fracture",
+        "transformation": "shrink"
+      },
+      "attention": [
+        "partner",
+        "motif",
+        "text"
       ]
     },
     {
@@ -1897,7 +2137,17 @@
           "at": 0
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "escalate",
+      "visualArc": {
+        "startState": "under_control",
+        "endState": "overwhelmed",
+        "transformation": "overload"
+      },
+      "attention": [
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-23",
@@ -1967,7 +2217,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "reveal",
+      "visualArc": {
+        "startState": "surface_facade",
+        "endState": "underlying_reality",
+        "transformation": "reveal_truth"
+      },
+      "attention": [
+        "character",
+        "text",
+        "motif"
+      ]
     },
     {
       "id": "scene-24",
@@ -2044,13 +2305,24 @@
       ],
       "texts": [
         {
-          "text": "LIFE AND DEATH",
+          "text": "CRITICAL DISTINCTION",
           "style": "reveal",
           "color": "#181A20",
           "boxColor": "#E85D04",
           "enter": "pop",
           "at": 217
         }
+      ],
+      "visualJob": "ground",
+      "visualArc": {
+        "startState": "stable",
+        "endState": "focused",
+        "transformation": "grow"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
       ]
     },
     {
@@ -2113,13 +2385,24 @@
       "props": [],
       "texts": [
         {
-          "text": "SHIFT NOBODY",
+          "text": "CRITICAL DISTINCTION",
           "style": "strike",
           "color": "#181A20",
           "boxColor": "#E85D04",
           "enter": "pop",
           "at": 229
         }
+      ],
+      "visualJob": "surprise",
+      "visualArc": {
+        "startState": "apparent_security",
+        "endState": "sudden_fracture",
+        "transformation": "shrink"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
       ]
     },
     {
@@ -2191,7 +2474,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "escalate",
+      "visualArc": {
+        "startState": "under_control",
+        "endState": "overwhelmed",
+        "transformation": "overload"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-27",
@@ -2265,13 +2559,24 @@
       ],
       "texts": [
         {
-          "text": "SAME TIME",
+          "text": "CRITICAL DISTINCTION",
           "style": "highlight",
           "color": "#181A20",
           "boxColor": "#E85D04",
           "enter": "pop",
           "at": 29
         }
+      ],
+      "visualJob": "reveal",
+      "visualArc": {
+        "startState": "surface_facade",
+        "endState": "underlying_reality",
+        "transformation": "reveal_truth"
+      },
+      "attention": [
+        "character",
+        "text",
+        "motif"
       ]
     },
     {
@@ -2341,7 +2646,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "ground",
+      "visualArc": {
+        "startState": "normal",
+        "endState": "normal",
+        "transformation": "none"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-29",
@@ -2423,13 +2739,24 @@
       ],
       "texts": [
         {
-          "text": "YOUR LIFE",
+          "text": "CRITICAL DISTINCTION",
           "style": "highlight",
           "color": "#181A20",
           "boxColor": "#E85D04",
           "enter": "pop",
           "at": 37
         }
+      ],
+      "visualJob": "surprise",
+      "visualArc": {
+        "startState": "apparent_security",
+        "endState": "sudden_fracture",
+        "transformation": "shrink"
+      },
+      "attention": [
+        "partner",
+        "motif",
+        "text"
       ]
     },
     {
@@ -2509,7 +2836,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "escalate",
+      "visualArc": {
+        "startState": "under_control",
+        "endState": "overwhelmed",
+        "transformation": "overload"
+      },
+      "attention": [
+        "partner",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-31",
@@ -2574,7 +2912,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "reveal",
+      "visualArc": {
+        "startState": "surface_facade",
+        "endState": "underlying_reality",
+        "transformation": "reveal_truth"
+      },
+      "attention": [
+        "character",
+        "text",
+        "motif"
+      ]
     },
     {
       "id": "scene-32",
@@ -2643,7 +2992,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "ground",
+      "visualArc": {
+        "startState": "normal",
+        "endState": "normal",
+        "transformation": "none"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-33",
@@ -2706,13 +3066,24 @@
       "props": [],
       "texts": [
         {
-          "text": "WORK WE FIRST",
+          "text": "CRITICAL DISTINCTION",
           "style": "reveal",
           "color": "#181A20",
           "boxColor": "#E85D04",
           "enter": "pop",
           "at": 212
         }
+      ],
+      "visualJob": "surprise",
+      "visualArc": {
+        "startState": "apparent_security",
+        "endState": "sudden_fracture",
+        "transformation": "shrink"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
       ]
     },
     {
@@ -2777,13 +3148,23 @@
       ],
       "texts": [
         {
-          "text": "YOUR BRAIN",
+          "text": "THE PASSENGER SEAT",
           "style": "outline",
           "color": "#181A20",
           "boxColor": "#F59E0B",
           "enter": "pop",
           "at": 245
         }
+      ],
+      "visualJob": "escalate",
+      "visualArc": {
+        "startState": "under_control",
+        "endState": "overwhelmed",
+        "transformation": "overload"
+      },
+      "attention": [
+        "motif",
+        "text"
       ]
     },
     {
@@ -2849,7 +3230,18 @@
           "color2": "#181A20"
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "reveal",
+      "visualArc": {
+        "startState": "surface_facade",
+        "endState": "underlying_reality",
+        "transformation": "reveal_truth"
+      },
+      "attention": [
+        "character",
+        "text",
+        "motif"
+      ]
     },
     {
       "id": "scene-36",
@@ -2917,7 +3309,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "ground",
+      "visualArc": {
+        "startState": "stable",
+        "endState": "focused",
+        "transformation": "grow"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-37",
@@ -2978,13 +3381,24 @@
       "props": [],
       "texts": [
         {
-          "text": "STATE OF FEAR",
+          "text": "THE 99% DEFAULT",
           "style": "reveal",
           "color": "#181A20",
           "boxColor": "#E85D04",
           "enter": "pop",
           "at": 157
         }
+      ],
+      "visualJob": "surprise",
+      "visualArc": {
+        "startState": "apparent_security",
+        "endState": "sudden_fracture",
+        "transformation": "shrink"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
       ]
     },
     {
@@ -3069,13 +3483,24 @@
       ],
       "texts": [
         {
-          "text": "BEAR YOUR BRAIN",
+          "text": "SYSTEM 1 VS SYSTEM 2",
           "style": "outline",
           "color": "#181A20",
           "boxColor": "#F59E0B",
           "enter": "pop",
           "at": 109
         }
+      ],
+      "visualJob": "escalate",
+      "visualArc": {
+        "startState": "under_control",
+        "endState": "overwhelmed",
+        "transformation": "overload"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
       ]
     },
     {
@@ -3151,7 +3576,18 @@
           "color2": "#181A20"
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "reveal",
+      "visualArc": {
+        "startState": "surface_facade",
+        "endState": "underlying_reality",
+        "transformation": "reveal_truth"
+      },
+      "attention": [
+        "character",
+        "text",
+        "motif"
+      ]
     },
     {
       "id": "scene-40",
@@ -3224,13 +3660,24 @@
       ],
       "texts": [
         {
-          "text": "MODERN WORK",
+          "text": "CRITICAL DISTINCTION",
           "style": "highlight",
           "color": "#181A20",
           "boxColor": "#E85D04",
           "enter": "pop",
           "at": 44
         }
+      ],
+      "visualJob": "ground",
+      "visualArc": {
+        "startState": "normal",
+        "endState": "normal",
+        "transformation": "none"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
       ]
     },
     {
@@ -3301,7 +3748,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "surprise",
+      "visualArc": {
+        "startState": "apparent_security",
+        "endState": "sudden_fracture",
+        "transformation": "shrink"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-42",
@@ -3389,7 +3847,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "escalate",
+      "visualArc": {
+        "startState": "under_control",
+        "endState": "overwhelmed",
+        "transformation": "overload"
+      },
+      "attention": [
+        "partner",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-43",
@@ -3463,13 +3932,24 @@
       "props": [],
       "texts": [
         {
-          "text": "YOUR MIND",
+          "text": "SYSTEM 1 VS SYSTEM 2",
           "style": "highlight",
           "color": "#181A20",
           "boxColor": "#E85D04",
           "enter": "pop",
           "at": 138
         }
+      ],
+      "visualJob": "reveal",
+      "visualArc": {
+        "startState": "surface_facade",
+        "endState": "underlying_reality",
+        "transformation": "reveal_truth"
+      },
+      "attention": [
+        "partner",
+        "motif",
+        "text"
       ]
     },
     {
@@ -3540,7 +4020,18 @@
           "color2": "#181A20"
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "ground",
+      "visualArc": {
+        "startState": "normal",
+        "endState": "normal",
+        "transformation": "none"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-45",
@@ -3613,13 +4104,24 @@
       ],
       "texts": [
         {
-          "text": "YOU INTO A ROOM",
+          "text": "CRITICAL DISTINCTION",
           "style": "reveal",
           "color": "#181A20",
           "boxColor": "#E85D04",
           "enter": "pop",
           "at": 219
         }
+      ],
+      "visualJob": "surprise",
+      "visualArc": {
+        "startState": "apparent_security",
+        "endState": "sudden_fracture",
+        "transformation": "shrink"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
       ]
     },
     {
@@ -3700,7 +4202,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "escalate",
+      "visualArc": {
+        "startState": "under_control",
+        "endState": "overwhelmed",
+        "transformation": "overload"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-47",
@@ -3773,13 +4286,24 @@
       ],
       "texts": [
         {
-          "text": "PEOPLE FAIL",
+          "text": "FEEDBACK LOOP",
           "style": "highlight",
           "color": "#181A20",
           "boxColor": "#E85D04",
           "enter": "pop",
           "at": 118
         }
+      ],
+      "visualJob": "reveal",
+      "visualArc": {
+        "startState": "surface_facade",
+        "endState": "underlying_reality",
+        "transformation": "reveal_truth"
+      },
+      "attention": [
+        "character",
+        "text",
+        "motif"
       ]
     },
     {
@@ -3849,7 +4373,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "ground",
+      "visualArc": {
+        "startState": "stable",
+        "endState": "focused",
+        "transformation": "grow"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-49",
@@ -3937,7 +4472,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "surprise",
+      "visualArc": {
+        "startState": "apparent_security",
+        "endState": "sudden_fracture",
+        "transformation": "shrink"
+      },
+      "attention": [
+        "partner",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-50",
@@ -4007,7 +4553,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "escalate",
+      "visualArc": {
+        "startState": "under_control",
+        "endState": "overwhelmed",
+        "transformation": "overload"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-51",
@@ -4071,13 +4628,24 @@
       "props": [],
       "texts": [
         {
-          "text": "BREAK",
+          "text": "THE 99% DEFAULT",
           "style": "box",
           "color": "#FAF8F2",
           "boxColor": "#E85D04",
           "enter": "pop",
           "at": 10
         }
+      ],
+      "visualJob": "reveal",
+      "visualArc": {
+        "startState": "surface_facade",
+        "endState": "underlying_reality",
+        "transformation": "reveal_truth"
+      },
+      "attention": [
+        "character",
+        "text",
+        "motif"
       ]
     },
     {
@@ -4147,7 +4715,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "ground",
+      "visualArc": {
+        "startState": "normal",
+        "endState": "normal",
+        "transformation": "none"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-53",
@@ -4208,13 +4787,24 @@
       "props": [],
       "texts": [
         {
-          "text": "BY THAT TINY",
+          "text": "CRITICAL DISTINCTION",
           "style": "reveal",
           "color": "#181A20",
           "boxColor": "#E85D04",
           "enter": "pop",
           "at": 121
         }
+      ],
+      "visualJob": "surprise",
+      "visualArc": {
+        "startState": "apparent_security",
+        "endState": "sudden_fracture",
+        "transformation": "shrink"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
       ]
     },
     {
@@ -4296,6 +4886,17 @@
           "enter": "pop",
           "at": 344
         }
+      ],
+      "visualJob": "escalate",
+      "visualArc": {
+        "startState": "under_control",
+        "endState": "overwhelmed",
+        "transformation": "overload"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
       ]
     },
     {
@@ -4357,7 +4958,17 @@
           "at": 0
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "reveal",
+      "visualArc": {
+        "startState": "surface_facade",
+        "endState": "underlying_reality",
+        "transformation": "reveal_truth"
+      },
+      "attention": [
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-56",
@@ -4430,13 +5041,24 @@
       ],
       "texts": [
         {
-          "text": "BLOWS MY MIND",
+          "text": "SYSTEM 1 VS SYSTEM 2",
           "style": "reveal",
           "color": "#181A20",
           "boxColor": "#E85D04",
           "enter": "pop",
           "at": 204
         }
+      ],
+      "visualJob": "ground",
+      "visualArc": {
+        "startState": "normal",
+        "endState": "normal",
+        "transformation": "none"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
       ]
     },
     {
@@ -4506,7 +5128,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "surprise",
+      "visualArc": {
+        "startState": "apparent_security",
+        "endState": "sudden_fracture",
+        "transformation": "shrink"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-58",
@@ -4585,13 +5218,24 @@
       ],
       "texts": [
         {
-          "text": "THEIR HEART",
+          "text": "CRITICAL DISTINCTION",
           "style": "highlight",
           "color": "#181A20",
           "boxColor": "#E85D04",
           "enter": "pop",
           "at": 85
         }
+      ],
+      "visualJob": "escalate",
+      "visualArc": {
+        "startState": "under_control",
+        "endState": "overwhelmed",
+        "transformation": "overload"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
       ]
     },
     {
@@ -4667,7 +5311,18 @@
           "color2": "#181A20"
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "reveal",
+      "visualArc": {
+        "startState": "surface_facade",
+        "endState": "underlying_reality",
+        "transformation": "reveal_truth"
+      },
+      "attention": [
+        "character",
+        "text",
+        "motif"
+      ]
     },
     {
       "id": "scene-60",
@@ -4738,7 +5393,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "ground",
+      "visualArc": {
+        "startState": "stable",
+        "endState": "focused",
+        "transformation": "grow"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-61",
@@ -4801,13 +5467,24 @@
       "props": [],
       "texts": [
         {
-          "text": "KEPT THE HEART",
+          "text": "CRITICAL DISTINCTION",
           "style": "reveal",
           "color": "#181A20",
           "boxColor": "#E85D04",
           "enter": "pop",
           "at": 20
         }
+      ],
+      "visualJob": "surprise",
+      "visualArc": {
+        "startState": "apparent_security",
+        "endState": "sudden_fracture",
+        "transformation": "shrink"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
       ]
     },
     {
@@ -4878,7 +5555,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "escalate",
+      "visualArc": {
+        "startState": "under_control",
+        "endState": "overwhelmed",
+        "transformation": "overload"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-63",
@@ -4949,7 +5637,18 @@
           "color2": "#181A20"
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "reveal",
+      "visualArc": {
+        "startState": "surface_facade",
+        "endState": "underlying_reality",
+        "transformation": "reveal_truth"
+      },
+      "attention": [
+        "character",
+        "text",
+        "motif"
+      ]
     },
     {
       "id": "scene-64",
@@ -5028,6 +5727,17 @@
           "enter": "pop",
           "at": 282
         }
+      ],
+      "visualJob": "ground",
+      "visualArc": {
+        "startState": "normal",
+        "endState": "normal",
+        "transformation": "none"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
       ]
     },
     {
@@ -5083,7 +5793,17 @@
           "at": 0
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "contrast",
+      "visualArc": {
+        "startState": "default_path",
+        "endState": "intentional_path",
+        "transformation": "shift_focus"
+      },
+      "attention": [
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-66",
@@ -5148,7 +5868,18 @@
           "color2": "#181A20"
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "demonstrate",
+      "visualArc": {
+        "startState": "stable",
+        "endState": "focused",
+        "transformation": "grow"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-67",
@@ -5231,7 +5962,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "escalate",
+      "visualArc": {
+        "startState": "under_control",
+        "endState": "overwhelmed",
+        "transformation": "overload"
+      },
+      "attention": [
+        "partner",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-68",
@@ -5319,6 +6061,17 @@
           "enter": "pop",
           "at": 310
         }
+      ],
+      "visualJob": "reveal",
+      "visualArc": {
+        "startState": "surface_facade",
+        "endState": "underlying_reality",
+        "transformation": "reveal_truth"
+      },
+      "attention": [
+        "character",
+        "text",
+        "motif"
       ]
     },
     {
@@ -5392,13 +6145,24 @@
       ],
       "texts": [
         {
-          "text": "FEAR GUILT",
+          "text": "NOT WHAT IT SEEMS",
           "style": "highlight",
           "color": "#181A20",
           "boxColor": "#E85D04",
           "enter": "pop",
           "at": 313
         }
+      ],
+      "visualJob": "ground",
+      "visualArc": {
+        "startState": "stable",
+        "endState": "focused",
+        "transformation": "grow"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
       ]
     },
     {
@@ -5469,7 +6233,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "surprise",
+      "visualArc": {
+        "startState": "apparent_security",
+        "endState": "sudden_fracture",
+        "transformation": "shrink"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-71",
@@ -5524,7 +6299,17 @@
           "at": 0
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "escalate",
+      "visualArc": {
+        "startState": "under_control",
+        "endState": "overwhelmed",
+        "transformation": "overload"
+      },
+      "attention": [
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-72",
@@ -5614,7 +6399,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "reveal",
+      "visualArc": {
+        "startState": "surface_facade",
+        "endState": "underlying_reality",
+        "transformation": "reveal_truth"
+      },
+      "attention": [
+        "partner",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-73",
@@ -5689,13 +6485,24 @@
       "props": [],
       "texts": [
         {
-          "text": "GIVING YOU BRAIN",
+          "text": "THE PASSENGER SEAT",
           "style": "reveal",
           "color": "#181A20",
           "boxColor": "#E85D04",
           "enter": "pop",
           "at": 135
         }
+      ],
+      "visualJob": "ground",
+      "visualArc": {
+        "startState": "normal",
+        "endState": "normal",
+        "transformation": "none"
+      },
+      "attention": [
+        "partner",
+        "motif",
+        "text"
       ]
     },
     {
@@ -5778,7 +6585,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "surprise",
+      "visualArc": {
+        "startState": "apparent_security",
+        "endState": "sudden_fracture",
+        "transformation": "shrink"
+      },
+      "attention": [
+        "partner",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-75",
@@ -5860,13 +6678,24 @@
       ],
       "texts": [
         {
-          "text": "YOURSELF TO WORK",
+          "text": "CRITICAL DISTINCTION",
           "style": "reveal",
           "color": "#181A20",
           "boxColor": "#E85D04",
           "enter": "pop",
           "at": 95
         }
+      ],
+      "visualJob": "escalate",
+      "visualArc": {
+        "startState": "under_control",
+        "endState": "overwhelmed",
+        "transformation": "overload"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
       ]
     },
     {
@@ -5944,7 +6773,18 @@
           "color2": "#181A20"
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "reveal",
+      "visualArc": {
+        "startState": "surface_facade",
+        "endState": "underlying_reality",
+        "transformation": "reveal_truth"
+      },
+      "attention": [
+        "character",
+        "text",
+        "motif"
+      ]
     },
     {
       "id": "scene-77",
@@ -6015,13 +6855,24 @@
       ],
       "texts": [
         {
-          "text": "START",
+          "text": "CRITICAL DISTINCTION",
           "style": "box",
           "color": "#FAF8F2",
           "boxColor": "#E85D04",
           "enter": "pop",
           "at": 109
         }
+      ],
+      "visualJob": "ground",
+      "visualArc": {
+        "startState": "normal",
+        "endState": "normal",
+        "transformation": "none"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
       ]
     },
     {
@@ -6082,7 +6933,17 @@
           "at": 0
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "demonstrate",
+      "visualArc": {
+        "startState": "stable",
+        "endState": "focused",
+        "transformation": "grow"
+      },
+      "attention": [
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-79",
@@ -6161,7 +7022,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "surprise",
+      "visualArc": {
+        "startState": "apparent_security",
+        "endState": "sudden_fracture",
+        "transformation": "shrink"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-80",
@@ -6234,13 +7106,24 @@
       ],
       "texts": [
         {
-          "text": "CANDY EVERY TIME",
+          "text": "THE 99% DEFAULT",
           "style": "reveal",
           "color": "#181A20",
           "boxColor": "#E85D04",
           "enter": "pop",
           "at": 5
         }
+      ],
+      "visualJob": "reveal",
+      "visualArc": {
+        "startState": "surface_facade",
+        "endState": "underlying_reality",
+        "transformation": "reveal_truth"
+      },
+      "attention": [
+        "character",
+        "text",
+        "motif"
       ]
     },
     {
@@ -6311,7 +7194,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "ground",
+      "visualArc": {
+        "startState": "stable",
+        "endState": "focused",
+        "transformation": "grow"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-82",
@@ -6377,7 +7271,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "surprise",
+      "visualArc": {
+        "startState": "apparent_security",
+        "endState": "sudden_fracture",
+        "transformation": "shrink"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-83",
@@ -6439,13 +7344,24 @@
       "props": [],
       "texts": [
         {
-          "text": "FEEL YOUR LIFE",
+          "text": "CRITICAL DISTINCTION",
           "style": "reveal",
           "color": "#181A20",
           "boxColor": "#E85D04",
           "enter": "pop",
           "at": 210
         }
+      ],
+      "visualJob": "demonstrate",
+      "visualArc": {
+        "startState": "normal",
+        "endState": "normal",
+        "transformation": "none"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
       ]
     },
     {
@@ -6515,7 +7431,18 @@
           "color2": "#181A20"
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "escalate",
+      "visualArc": {
+        "startState": "under_control",
+        "endState": "overwhelmed",
+        "transformation": "overload"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-85",
@@ -6586,7 +7513,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "reveal",
+      "visualArc": {
+        "startState": "surface_facade",
+        "endState": "underlying_reality",
+        "transformation": "reveal_truth"
+      },
+      "attention": [
+        "character",
+        "text",
+        "motif"
+      ]
     },
     {
       "id": "scene-86",
@@ -6665,7 +7603,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "ground",
+      "visualArc": {
+        "startState": "normal",
+        "endState": "normal",
+        "transformation": "none"
+      },
+      "attention": [
+        "partner",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-87",
@@ -6744,7 +7693,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "contrast",
+      "visualArc": {
+        "startState": "default_path",
+        "endState": "intentional_path",
+        "transformation": "shift_focus"
+      },
+      "attention": [
+        "partner",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-88",
@@ -6816,7 +7776,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "demonstrate",
+      "visualArc": {
+        "startState": "normal",
+        "endState": "normal",
+        "transformation": "none"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-89",
@@ -6898,7 +7869,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "escalate",
+      "visualArc": {
+        "startState": "under_control",
+        "endState": "overwhelmed",
+        "transformation": "overload"
+      },
+      "attention": [
+        "partner",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-90",
@@ -6970,13 +7952,24 @@
       ],
       "texts": [
         {
-          "text": "EARLY IN HIS CAREER",
+          "text": "SHORT-TERM ILLUSION",
           "style": "reveal",
           "color": "#181A20",
           "boxColor": "#E85D04",
           "enter": "pop",
           "at": 179
         }
+      ],
+      "visualJob": "reveal",
+      "visualArc": {
+        "startState": "surface_facade",
+        "endState": "underlying_reality",
+        "transformation": "reveal_truth"
+      },
+      "attention": [
+        "character",
+        "text",
+        "motif"
       ]
     },
     {
@@ -7055,7 +8048,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "ground",
+      "visualArc": {
+        "startState": "normal",
+        "endState": "normal",
+        "transformation": "none"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-92",
@@ -7145,7 +8149,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "contrast",
+      "visualArc": {
+        "startState": "default_path",
+        "endState": "intentional_path",
+        "transformation": "shift_focus"
+      },
+      "attention": [
+        "partner",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-93",
@@ -7215,7 +8230,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "escalate",
+      "visualArc": {
+        "startState": "under_control",
+        "endState": "overwhelmed",
+        "transformation": "overload"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-94",
@@ -7286,6 +8312,17 @@
           "enter": "pop",
           "at": 315
         }
+      ],
+      "visualJob": "reveal",
+      "visualArc": {
+        "startState": "surface_facade",
+        "endState": "underlying_reality",
+        "transformation": "reveal_truth"
+      },
+      "attention": [
+        "character",
+        "text",
+        "motif"
       ]
     },
     {
@@ -7359,13 +8396,24 @@
       ],
       "texts": [
         {
-          "text": "NO GRANT MONEY",
+          "text": "NET WORTH VS FREEDOM",
           "style": "strike",
           "color": "#181A20",
           "boxColor": "#E85D04",
           "enter": "pop",
           "at": 39
         }
+      ],
+      "visualJob": "ground",
+      "visualArc": {
+        "startState": "normal",
+        "endState": "normal",
+        "transformation": "none"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
       ]
     },
     {
@@ -7439,13 +8487,24 @@
       ],
       "texts": [
         {
-          "text": "ASK YOURSELF",
+          "text": "CRITICAL DISTINCTION",
           "style": "highlight",
           "color": "#181A20",
           "boxColor": "#E85D04",
           "enter": "pop",
           "at": 301
         }
+      ],
+      "visualJob": "surprise",
+      "visualArc": {
+        "startState": "apparent_security",
+        "endState": "sudden_fracture",
+        "transformation": "shrink"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
       ]
     },
     {
@@ -7509,13 +8568,24 @@
       "props": [],
       "texts": [
         {
-          "text": "SHIFTS YOUR BRAIN",
+          "text": "SYSTEM 1 VS SYSTEM 2",
           "style": "reveal",
           "color": "#181A20",
           "boxColor": "#E85D04",
           "enter": "pop",
           "at": 166
         }
+      ],
+      "visualJob": "reveal",
+      "visualArc": {
+        "startState": "surface_facade",
+        "endState": "underlying_reality",
+        "transformation": "reveal_truth"
+      },
+      "attention": [
+        "character",
+        "text",
+        "motif"
       ]
     },
     {
@@ -7584,7 +8654,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "ground",
+      "visualArc": {
+        "startState": "normal",
+        "endState": "normal",
+        "transformation": "none"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-99",
@@ -7640,7 +8721,17 @@
           "at": 0
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "surprise",
+      "visualArc": {
+        "startState": "apparent_security",
+        "endState": "sudden_fracture",
+        "transformation": "shrink"
+      },
+      "attention": [
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-100",
@@ -7719,7 +8810,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "escalate",
+      "visualArc": {
+        "startState": "under_control",
+        "endState": "overwhelmed",
+        "transformation": "overload"
+      },
+      "attention": [
+        "partner",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-101",
@@ -7799,7 +8901,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "reveal",
+      "visualArc": {
+        "startState": "surface_facade",
+        "endState": "underlying_reality",
+        "transformation": "reveal_truth"
+      },
+      "attention": [
+        "character",
+        "text",
+        "motif"
+      ]
     },
     {
       "id": "scene-102",
@@ -7881,7 +8994,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "ground",
+      "visualArc": {
+        "startState": "stable",
+        "endState": "focused",
+        "transformation": "grow"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-103",
@@ -7970,13 +9094,24 @@
       ],
       "texts": [
         {
-          "text": "THEIR BRAIN",
+          "text": "SYSTEM 1 VS SYSTEM 2",
           "style": "highlight",
           "color": "#181A20",
           "boxColor": "#E85D04",
           "enter": "pop",
           "at": 53
         }
+      ],
+      "visualJob": "surprise",
+      "visualArc": {
+        "startState": "apparent_security",
+        "endState": "sudden_fracture",
+        "transformation": "shrink"
+      },
+      "attention": [
+        "partner",
+        "motif",
+        "text"
       ]
     },
     {
@@ -8070,7 +9205,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "escalate",
+      "visualArc": {
+        "startState": "under_control",
+        "endState": "overwhelmed",
+        "transformation": "overload"
+      },
+      "attention": [
+        "partner",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-105",
@@ -8142,13 +9288,24 @@
       ],
       "texts": [
         {
-          "text": "WIRING THE BRAIN",
+          "text": "FALSE URGENCY",
           "style": "reveal",
           "color": "#181A20",
           "boxColor": "#E85D04",
           "enter": "pop",
           "at": 130
         }
+      ],
+      "visualJob": "reveal",
+      "visualArc": {
+        "startState": "surface_facade",
+        "endState": "underlying_reality",
+        "transformation": "reveal_truth"
+      },
+      "attention": [
+        "character",
+        "text",
+        "motif"
       ]
     },
     {
@@ -8210,13 +9367,24 @@
       "props": [],
       "texts": [
         {
-          "text": "REAL TIME",
+          "text": "THE HIDDEN MECHANISM",
           "style": "highlight",
           "color": "#181A20",
           "boxColor": "#E85D04",
           "enter": "pop",
           "at": 212
         }
+      ],
+      "visualJob": "ground",
+      "visualArc": {
+        "startState": "normal",
+        "endState": "normal",
+        "transformation": "none"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
       ]
     },
     {
@@ -8286,7 +9454,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "demonstrate",
+      "visualArc": {
+        "startState": "normal",
+        "endState": "normal",
+        "transformation": "none"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-108",
@@ -8356,7 +9535,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "surprise",
+      "visualArc": {
+        "startState": "apparent_security",
+        "endState": "sudden_fracture",
+        "transformation": "shrink"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-109",
@@ -8429,13 +9619,24 @@
       ],
       "texts": [
         {
-          "text": "OFTEN FAIL",
+          "text": "OUTCOME VS PROCESS",
           "style": "highlight",
           "color": "#181A20",
           "boxColor": "#E85D04",
           "enter": "pop",
           "at": 0
         }
+      ],
+      "visualJob": "reveal",
+      "visualArc": {
+        "startState": "surface_facade",
+        "endState": "underlying_reality",
+        "transformation": "reveal_truth"
+      },
+      "attention": [
+        "character",
+        "text",
+        "motif"
       ]
     },
     {
@@ -8501,7 +9702,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "ground",
+      "visualArc": {
+        "startState": "normal",
+        "endState": "normal",
+        "transformation": "none"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-111",
@@ -8562,13 +9774,24 @@
       "props": [],
       "texts": [
         {
-          "text": "EMAIL TO YOUR TEAM",
+          "text": "CRITICAL DISTINCTION",
           "style": "reveal",
           "color": "#181A20",
           "boxColor": "#E85D04",
           "enter": "pop",
           "at": 70
         }
+      ],
+      "visualJob": "demonstrate",
+      "visualArc": {
+        "startState": "stable",
+        "endState": "focused",
+        "transformation": "grow"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
       ]
     },
     {
@@ -8637,7 +9860,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "demonstrate",
+      "visualArc": {
+        "startState": "normal",
+        "endState": "normal",
+        "transformation": "none"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-113",
@@ -8706,7 +9940,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "surprise",
+      "visualArc": {
+        "startState": "apparent_security",
+        "endState": "sudden_fracture",
+        "transformation": "shrink"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-114",
@@ -8779,13 +10024,24 @@
       ],
       "texts": [
         {
-          "text": "PLAY ONTO THE PAIN",
+          "text": "REACTIVE DEFAULT",
           "style": "reveal",
           "color": "#181A20",
           "boxColor": "#E85D04",
           "enter": "pop",
           "at": 16
         }
+      ],
+      "visualJob": "reveal",
+      "visualArc": {
+        "startState": "surface_facade",
+        "endState": "underlying_reality",
+        "transformation": "reveal_truth"
+      },
+      "attention": [
+        "character",
+        "text",
+        "motif"
       ]
     },
     {
@@ -8857,7 +10113,18 @@
           "color2": "#181A20"
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "ground",
+      "visualArc": {
+        "startState": "normal",
+        "endState": "normal",
+        "transformation": "none"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-116",
@@ -8919,13 +10186,23 @@
       ],
       "texts": [
         {
-          "text": "EIGHT HOURS",
+          "text": "CRITICAL DISTINCTION",
           "style": "highlight",
           "color": "#181A20",
           "boxColor": "#E85D04",
           "enter": "pop",
           "at": 75
         }
+      ],
+      "visualJob": "surprise",
+      "visualArc": {
+        "startState": "apparent_security",
+        "endState": "sudden_fracture",
+        "transformation": "shrink"
+      },
+      "attention": [
+        "motif",
+        "text"
       ]
     },
     {
@@ -9008,7 +10285,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "reveal",
+      "visualArc": {
+        "startState": "surface_facade",
+        "endState": "underlying_reality",
+        "transformation": "reveal_truth"
+      },
+      "attention": [
+        "character",
+        "text",
+        "motif"
+      ]
     },
     {
       "id": "scene-118",
@@ -9072,13 +10360,24 @@
       "props": [],
       "texts": [
         {
-          "text": "YOUR CONTROL",
+          "text": "CRITICAL DISTINCTION",
           "style": "highlight",
           "color": "#181A20",
           "boxColor": "#E85D04",
           "enter": "pop",
           "at": 123
         }
+      ],
+      "visualJob": "ground",
+      "visualArc": {
+        "startState": "normal",
+        "endState": "normal",
+        "transformation": "none"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
       ]
     },
     {
@@ -9142,13 +10441,24 @@
       "props": [],
       "texts": [
         {
-          "text": "WITHIN YOUR CONTROL",
+          "text": "CRITICAL DISTINCTION",
           "style": "reveal",
           "color": "#181A20",
           "boxColor": "#E85D04",
           "enter": "pop",
           "at": 13
         }
+      ],
+      "visualJob": "surprise",
+      "visualArc": {
+        "startState": "apparent_security",
+        "endState": "sudden_fracture",
+        "transformation": "shrink"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
       ]
     },
     {
@@ -9222,7 +10532,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "escalate",
+      "visualArc": {
+        "startState": "under_control",
+        "endState": "overwhelmed",
+        "transformation": "overload"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-121",
@@ -9283,13 +10604,24 @@
       "props": [],
       "texts": [
         {
-          "text": "TRACK YOUR ERROR",
+          "text": "CRITICAL DISTINCTION",
           "style": "reveal",
           "color": "#181A20",
           "boxColor": "#E85D04",
           "enter": "pop",
           "at": 135
         }
+      ],
+      "visualJob": "reveal",
+      "visualArc": {
+        "startState": "surface_facade",
+        "endState": "underlying_reality",
+        "transformation": "reveal_truth"
+      },
+      "attention": [
+        "character",
+        "text",
+        "motif"
       ]
     },
     {
@@ -9370,6 +10702,17 @@
           "enter": "pop",
           "at": 300
         }
+      ],
+      "visualJob": "ground",
+      "visualArc": {
+        "startState": "normal",
+        "endState": "normal",
+        "transformation": "none"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
       ]
     },
     {
@@ -9452,7 +10795,17 @@
           "color2": "#181A20"
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "surprise",
+      "visualArc": {
+        "startState": "apparent_security",
+        "endState": "sudden_fracture",
+        "transformation": "shrink"
+      },
+      "attention": [
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-124",
@@ -9525,13 +10878,24 @@
       ],
       "texts": [
         {
-          "text": "STOP",
+          "text": "CRITICAL DISTINCTION",
           "style": "box",
           "color": "#FAF8F2",
           "boxColor": "#E85D04",
           "enter": "pop",
           "at": 195
         }
+      ],
+      "visualJob": "escalate",
+      "visualArc": {
+        "startState": "under_control",
+        "endState": "overwhelmed",
+        "transformation": "overload"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
       ]
     },
     {
@@ -9593,13 +10957,24 @@
       "props": [],
       "texts": [
         {
-          "text": "YOUR REAL WORK",
+          "text": "THE HIDDEN MECHANISM",
           "style": "reveal",
           "color": "#181A20",
           "boxColor": "#E85D04",
           "enter": "pop",
           "at": 121
         }
+      ],
+      "visualJob": "reveal",
+      "visualArc": {
+        "startState": "surface_facade",
+        "endState": "underlying_reality",
+        "transformation": "reveal_truth"
+      },
+      "attention": [
+        "character",
+        "text",
+        "motif"
       ]
     },
     {
@@ -9679,7 +11054,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "ground",
+      "visualArc": {
+        "startState": "stable",
+        "endState": "focused",
+        "transformation": "grow"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-127",
@@ -9765,13 +11151,23 @@
       ],
       "texts": [
         {
-          "text": "PLAY IS ONLY",
+          "text": "NOT WHAT IT SEEMS",
           "style": "reveal",
           "color": "#181A20",
           "boxColor": "#E85D04",
           "enter": "pop",
           "at": 44
         }
+      ],
+      "visualJob": "surprise",
+      "visualArc": {
+        "startState": "apparent_security",
+        "endState": "sudden_fracture",
+        "transformation": "shrink"
+      },
+      "attention": [
+        "motif",
+        "text"
       ]
     },
     {
@@ -9831,7 +11227,17 @@
           "at": 0
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "escalate",
+      "visualArc": {
+        "startState": "under_control",
+        "endState": "overwhelmed",
+        "transformation": "overload"
+      },
+      "attention": [
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-129",
@@ -9901,7 +11307,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "reveal",
+      "visualArc": {
+        "startState": "surface_facade",
+        "endState": "underlying_reality",
+        "transformation": "reveal_truth"
+      },
+      "attention": [
+        "character",
+        "text",
+        "motif"
+      ]
     },
     {
       "id": "scene-130",
@@ -9969,7 +11386,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "ground",
+      "visualArc": {
+        "startState": "normal",
+        "endState": "normal",
+        "transformation": "none"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-131",
@@ -10039,7 +11467,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "surprise",
+      "visualArc": {
+        "startState": "apparent_security",
+        "endState": "sudden_fracture",
+        "transformation": "shrink"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-132",
@@ -10104,7 +11543,18 @@
           "color2": "#181A20"
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "demonstrate",
+      "visualArc": {
+        "startState": "stable",
+        "endState": "focused",
+        "transformation": "grow"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-133",
@@ -10174,7 +11624,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "escalate",
+      "visualArc": {
+        "startState": "under_control",
+        "endState": "overwhelmed",
+        "transformation": "overload"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-134",
@@ -10253,7 +11714,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "reveal",
+      "visualArc": {
+        "startState": "surface_facade",
+        "endState": "underlying_reality",
+        "transformation": "reveal_truth"
+      },
+      "attention": [
+        "character",
+        "text",
+        "motif"
+      ]
     },
     {
       "id": "scene-135",
@@ -10323,7 +11795,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "ground",
+      "visualArc": {
+        "startState": "stable",
+        "endState": "focused",
+        "transformation": "grow"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-136",
@@ -10398,7 +11881,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "surprise",
+      "visualArc": {
+        "startState": "apparent_security",
+        "endState": "sudden_fracture",
+        "transformation": "shrink"
+      },
+      "attention": [
+        "partner",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-137",
@@ -10462,13 +11956,23 @@
       ],
       "texts": [
         {
-          "text": "1971",
+          "text": "THE PASSENGER SEAT",
           "style": "outline",
           "color": "#181A20",
           "boxColor": "#F59E0B",
           "enter": "pop",
           "at": 108
         }
+      ],
+      "visualJob": "escalate",
+      "visualArc": {
+        "startState": "under_control",
+        "endState": "overwhelmed",
+        "transformation": "overload"
+      },
+      "attention": [
+        "motif",
+        "text"
       ]
     },
     {
@@ -10539,7 +12043,18 @@
           "color2": "#181A20"
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "reveal",
+      "visualArc": {
+        "startState": "surface_facade",
+        "endState": "underlying_reality",
+        "transformation": "reveal_truth"
+      },
+      "attention": [
+        "character",
+        "text",
+        "motif"
+      ]
     },
     {
       "id": "scene-139",
@@ -10618,7 +12133,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "ground",
+      "visualArc": {
+        "startState": "normal",
+        "endState": "normal",
+        "transformation": "none"
+      },
+      "attention": [
+        "partner",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-140",
@@ -10692,13 +12218,24 @@
       "props": [],
       "texts": [
         {
-          "text": "ASKED TO WORK",
+          "text": "THE HIDDEN COST",
           "style": "reveal",
           "color": "#181A20",
           "boxColor": "#E85D04",
           "enter": "pop",
           "at": 22
         }
+      ],
+      "visualJob": "surprise",
+      "visualArc": {
+        "startState": "apparent_security",
+        "endState": "sudden_fracture",
+        "transformation": "shrink"
+      },
+      "attention": [
+        "partner",
+        "motif",
+        "text"
       ]
     },
     {
@@ -10768,7 +12305,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "escalate",
+      "visualArc": {
+        "startState": "under_control",
+        "endState": "overwhelmed",
+        "transformation": "overload"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-142",
@@ -10840,13 +12388,24 @@
       ],
       "texts": [
         {
-          "text": "ROOM FOR EIGHT MINUTES",
+          "text": "CRITICAL DISTINCTION",
           "style": "reveal",
           "color": "#181A20",
           "boxColor": "#E85D04",
           "enter": "pop",
           "at": 138
         }
+      ],
+      "visualJob": "reveal",
+      "visualArc": {
+        "startState": "surface_facade",
+        "endState": "underlying_reality",
+        "transformation": "reveal_truth"
+      },
+      "attention": [
+        "character",
+        "text",
+        "motif"
       ]
     },
     {
@@ -10916,7 +12475,18 @@
           "color2": "#181A20"
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "ground",
+      "visualArc": {
+        "startState": "normal",
+        "endState": "normal",
+        "transformation": "none"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-144",
@@ -10978,13 +12548,24 @@
       "props": [],
       "texts": [
         {
-          "text": "PUZZLE WHEN NOBODY",
+          "text": "CRITICAL DISTINCTION",
           "style": "strike",
           "color": "#181A20",
           "boxColor": "#E85D04",
           "enter": "pop",
           "at": 106
         }
+      ],
+      "visualJob": "surprise",
+      "visualArc": {
+        "startState": "apparent_security",
+        "endState": "sudden_fracture",
+        "transformation": "shrink"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
       ]
     },
     {
@@ -11046,13 +12627,24 @@
       "props": [],
       "texts": [
         {
-          "text": "THEIR FREE TIME",
+          "text": "THE HIDDEN COST",
           "style": "reveal",
           "color": "#181A20",
           "boxColor": "#E85D04",
           "enter": "pop",
           "at": 149
         }
+      ],
+      "visualJob": "escalate",
+      "visualArc": {
+        "startState": "under_control",
+        "endState": "overwhelmed",
+        "transformation": "overload"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
       ]
     },
     {
@@ -11146,7 +12738,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "reveal",
+      "visualArc": {
+        "startState": "surface_facade",
+        "endState": "underlying_reality",
+        "transformation": "reveal_truth"
+      },
+      "attention": [
+        "partner",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-147",
@@ -11216,7 +12819,18 @@
           "color2": "#181A20"
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "ground",
+      "visualArc": {
+        "startState": "stable",
+        "endState": "focused",
+        "transformation": "grow"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-148",
@@ -11295,7 +12909,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "surprise",
+      "visualArc": {
+        "startState": "apparent_security",
+        "endState": "sudden_fracture",
+        "transformation": "shrink"
+      },
+      "attention": [
+        "partner",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-149",
@@ -11386,13 +13011,24 @@
       ],
       "texts": [
         {
-          "text": "REAL WORLD WHERE WORK",
+          "text": "THE HIDDEN MECHANISM",
           "style": "reveal",
           "color": "#181A20",
           "boxColor": "#E85D04",
           "enter": "pop",
           "at": 152
         }
+      ],
+      "visualJob": "escalate",
+      "visualArc": {
+        "startState": "under_control",
+        "endState": "overwhelmed",
+        "transformation": "overload"
+      },
+      "attention": [
+        "partner",
+        "motif",
+        "text"
       ]
     },
     {
@@ -11456,13 +13092,23 @@
       ],
       "texts": [
         {
-          "text": "650",
+          "text": "CRITICAL DISTINCTION",
           "style": "outline",
           "color": "#181A20",
           "boxColor": "#F59E0B",
           "enter": "pop",
           "at": 22
         }
+      ],
+      "visualJob": "reveal",
+      "visualArc": {
+        "startState": "surface_facade",
+        "endState": "underlying_reality",
+        "transformation": "reveal_truth"
+      },
+      "attention": [
+        "motif",
+        "text"
       ]
     },
     {
@@ -11531,7 +13177,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "ground",
+      "visualArc": {
+        "startState": "normal",
+        "endState": "normal",
+        "transformation": "none"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-152",
@@ -11600,7 +13257,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "surprise",
+      "visualArc": {
+        "startState": "apparent_security",
+        "endState": "sudden_fracture",
+        "transformation": "shrink"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-153",
@@ -11671,7 +13339,18 @@
           "color2": "#181A20"
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "escalate",
+      "visualArc": {
+        "startState": "under_control",
+        "endState": "overwhelmed",
+        "transformation": "overload"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-154",
@@ -11743,13 +13422,24 @@
       ],
       "texts": [
         {
-          "text": "HYPE TO WIN",
+          "text": "CRITICAL DISTINCTION",
           "style": "reveal",
           "color": "#181A20",
           "boxColor": "#E85D04",
           "enter": "pop",
           "at": 0
         }
+      ],
+      "visualJob": "reveal",
+      "visualArc": {
+        "startState": "surface_facade",
+        "endState": "underlying_reality",
+        "transformation": "reveal_truth"
+      },
+      "attention": [
+        "character",
+        "text",
+        "motif"
       ]
     },
     {
@@ -11823,13 +13513,24 @@
       ],
       "texts": [
         {
-          "text": "FEEL INTENSE SHAME",
+          "text": "CRITICAL DISTINCTION",
           "style": "reveal",
           "color": "#181A20",
           "boxColor": "#E85D04",
           "enter": "pop",
           "at": 73
         }
+      ],
+      "visualJob": "ground",
+      "visualArc": {
+        "startState": "normal",
+        "endState": "normal",
+        "transformation": "none"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
       ]
     },
     {
@@ -11892,7 +13593,17 @@
           "at": 0
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "surprise",
+      "visualArc": {
+        "startState": "apparent_security",
+        "endState": "sudden_fracture",
+        "transformation": "shrink"
+      },
+      "attention": [
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-157",
@@ -11974,7 +13685,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "escalate",
+      "visualArc": {
+        "startState": "under_control",
+        "endState": "overwhelmed",
+        "transformation": "overload"
+      },
+      "attention": [
+        "partner",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-158",
@@ -12034,13 +13756,24 @@
       "props": [],
       "texts": [
         {
-          "text": "VALUE THE GOAL",
+          "text": "CRITICAL DISTINCTION",
           "style": "reveal",
           "color": "#181A20",
           "boxColor": "#E85D04",
           "enter": "pop",
           "at": 0
         }
+      ],
+      "visualJob": "reveal",
+      "visualArc": {
+        "startState": "surface_facade",
+        "endState": "underlying_reality",
+        "transformation": "reveal_truth"
+      },
+      "attention": [
+        "character",
+        "text",
+        "motif"
       ]
     },
     {
@@ -12121,7 +13854,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "ground",
+      "visualArc": {
+        "startState": "stable",
+        "endState": "focused",
+        "transformation": "grow"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-160",
@@ -12204,7 +13948,17 @@
           "color2": "#181A20"
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "surprise",
+      "visualArc": {
+        "startState": "apparent_security",
+        "endState": "sudden_fracture",
+        "transformation": "shrink"
+      },
+      "attention": [
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-161",
@@ -12264,13 +14018,24 @@
       "props": [],
       "texts": [
         {
-          "text": "YOU DON'T CONTROL",
+          "text": "CRITICAL DISTINCTION",
           "style": "strike",
           "color": "#181A20",
           "boxColor": "#E85D04",
           "enter": "pop",
           "at": 140
         }
+      ],
+      "visualJob": "escalate",
+      "visualArc": {
+        "startState": "under_control",
+        "endState": "overwhelmed",
+        "transformation": "overload"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
       ]
     },
     {
@@ -12353,13 +14118,24 @@
       ],
       "texts": [
         {
-          "text": "MOUNTAIN BY CHOICE",
+          "text": "AUTHORITY BIAS",
           "style": "reveal",
           "color": "#181A20",
           "boxColor": "#E85D04",
           "enter": "pop",
           "at": 72
         }
+      ],
+      "visualJob": "reveal",
+      "visualArc": {
+        "startState": "surface_facade",
+        "endState": "underlying_reality",
+        "transformation": "reveal_truth"
+      },
+      "attention": [
+        "partner",
+        "motif",
+        "text"
       ]
     },
     {
@@ -12430,7 +14206,18 @@
           "color2": "#181A20"
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "ground",
+      "visualArc": {
+        "startState": "normal",
+        "endState": "normal",
+        "transformation": "none"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-164",
@@ -12504,13 +14291,24 @@
       "props": [],
       "texts": [
         {
-          "text": "CHOOSE",
+          "text": "CRITICAL DISTINCTION",
           "style": "box",
           "color": "#FAF8F2",
           "boxColor": "#E85D04",
           "enter": "pop",
           "at": 70
         }
+      ],
+      "visualJob": "surprise",
+      "visualArc": {
+        "startState": "apparent_security",
+        "endState": "sudden_fracture",
+        "transformation": "shrink"
+      },
+      "attention": [
+        "partner",
+        "motif",
+        "text"
       ]
     },
     {
@@ -12581,7 +14379,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "demonstrate",
+      "visualArc": {
+        "startState": "stable",
+        "endState": "focused",
+        "transformation": "grow"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-166",
@@ -12643,13 +14452,24 @@
       "props": [],
       "texts": [
         {
-          "text": "CHANGE",
+          "text": "CRITICAL DISTINCTION",
           "style": "box",
           "color": "#FAF8F2",
           "boxColor": "#E85D04",
           "enter": "pop",
           "at": 18
         }
+      ],
+      "visualJob": "escalate",
+      "visualArc": {
+        "startState": "under_control",
+        "endState": "overwhelmed",
+        "transformation": "overload"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
       ]
     },
     {
@@ -12728,7 +14548,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "reveal",
+      "visualArc": {
+        "startState": "surface_facade",
+        "endState": "underlying_reality",
+        "transformation": "reveal_truth"
+      },
+      "attention": [
+        "partner",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-168",
@@ -12802,13 +14633,24 @@
       "props": [],
       "texts": [
         {
-          "text": "YOUR BOSS",
+          "text": "STATUS ANXIETY",
           "style": "highlight",
           "color": "#181A20",
           "boxColor": "#E85D04",
           "enter": "pop",
           "at": 80
         }
+      ],
+      "visualJob": "ground",
+      "visualArc": {
+        "startState": "stable",
+        "endState": "focused",
+        "transformation": "grow"
+      },
+      "attention": [
+        "partner",
+        "motif",
+        "text"
       ]
     },
     {
@@ -12878,7 +14720,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "contrast",
+      "visualArc": {
+        "startState": "default_path",
+        "endState": "intentional_path",
+        "transformation": "shift_focus"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-170",
@@ -12950,13 +14803,24 @@
       ],
       "texts": [
         {
-          "text": "LIFE YOU LOVE",
+          "text": "CRITICAL DISTINCTION",
           "style": "reveal",
           "color": "#181A20",
           "boxColor": "#E85D04",
           "enter": "pop",
           "at": 167
         }
+      ],
+      "visualJob": "escalate",
+      "visualArc": {
+        "startState": "under_control",
+        "endState": "overwhelmed",
+        "transformation": "overload"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
       ]
     },
     {
@@ -13022,7 +14886,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "reveal",
+      "visualArc": {
+        "startState": "surface_facade",
+        "endState": "underlying_reality",
+        "transformation": "reveal_truth"
+      },
+      "attention": [
+        "character",
+        "text",
+        "motif"
+      ]
     },
     {
       "id": "scene-172",
@@ -13096,7 +14971,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "ground",
+      "visualArc": {
+        "startState": "normal",
+        "endState": "normal",
+        "transformation": "none"
+      },
+      "attention": [
+        "partner",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-173",
@@ -13179,7 +15065,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "surprise",
+      "visualArc": {
+        "startState": "apparent_security",
+        "endState": "sudden_fracture",
+        "transformation": "shrink"
+      },
+      "attention": [
+        "partner",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-174",
@@ -13268,7 +15165,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "escalate",
+      "visualArc": {
+        "startState": "under_control",
+        "endState": "overwhelmed",
+        "transformation": "overload"
+      },
+      "attention": [
+        "partner",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-175",
@@ -13338,7 +15246,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "escalate",
+      "visualArc": {
+        "startState": "under_control",
+        "endState": "overwhelmed",
+        "transformation": "overload"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-176",
@@ -13412,7 +15331,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "reveal",
+      "visualArc": {
+        "startState": "surface_facade",
+        "endState": "underlying_reality",
+        "transformation": "reveal_truth"
+      },
+      "attention": [
+        "partner",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-177",
@@ -13481,7 +15411,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "ground",
+      "visualArc": {
+        "startState": "stable",
+        "endState": "focused",
+        "transformation": "grow"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-178",
@@ -13546,7 +15487,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "surprise",
+      "visualArc": {
+        "startState": "apparent_security",
+        "endState": "sudden_fracture",
+        "transformation": "shrink"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-179",
@@ -13611,7 +15563,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "demonstrate",
+      "visualArc": {
+        "startState": "normal",
+        "endState": "normal",
+        "transformation": "none"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-180",
@@ -13672,7 +15635,17 @@
           "at": 0
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "escalate",
+      "visualArc": {
+        "startState": "under_control",
+        "endState": "overwhelmed",
+        "transformation": "overload"
+      },
+      "attention": [
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-181",
@@ -13744,13 +15717,24 @@
       ],
       "texts": [
         {
-          "text": "YOU TELL YOURSELF",
+          "text": "THE 99% DEFAULT",
           "style": "outline",
           "color": "#181A20",
           "boxColor": "#F59E0B",
           "enter": "pop",
           "at": 0
         }
+      ],
+      "visualJob": "reveal",
+      "visualArc": {
+        "startState": "surface_facade",
+        "endState": "underlying_reality",
+        "transformation": "reveal_truth"
+      },
+      "attention": [
+        "character",
+        "text",
+        "motif"
       ]
     },
     {
@@ -13812,13 +15796,24 @@
       "props": [],
       "texts": [
         {
-          "text": "FEEL ENTIRELY ALONE",
+          "text": "CRITICAL DISTINCTION",
           "style": "reveal",
           "color": "#181A20",
           "boxColor": "#E85D04",
           "enter": "pop",
           "at": 68
         }
+      ],
+      "visualJob": "ground",
+      "visualArc": {
+        "startState": "normal",
+        "endState": "normal",
+        "transformation": "none"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
       ]
     },
     {
@@ -13884,7 +15879,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "surprise",
+      "visualArc": {
+        "startState": "apparent_security",
+        "endState": "sudden_fracture",
+        "transformation": "shrink"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-184",
@@ -13953,7 +15959,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "demonstrate",
+      "visualArc": {
+        "startState": "normal",
+        "endState": "normal",
+        "transformation": "none"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-185",
@@ -14032,7 +16049,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "escalate",
+      "visualArc": {
+        "startState": "under_control",
+        "endState": "overwhelmed",
+        "transformation": "overload"
+      },
+      "attention": [
+        "partner",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-186",
@@ -14094,13 +16122,24 @@
       "props": [],
       "texts": [
         {
-          "text": "MEETING ROOM",
+          "text": "THE 99% DEFAULT",
           "style": "highlight",
           "color": "#181A20",
           "boxColor": "#E85D04",
           "enter": "pop",
           "at": 114
         }
+      ],
+      "visualJob": "reveal",
+      "visualArc": {
+        "startState": "surface_facade",
+        "endState": "underlying_reality",
+        "transformation": "reveal_truth"
+      },
+      "attention": [
+        "character",
+        "text",
+        "motif"
       ]
     },
     {
@@ -14160,7 +16199,17 @@
           "at": 0
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "ground",
+      "visualArc": {
+        "startState": "normal",
+        "endState": "normal",
+        "transformation": "none"
+      },
+      "attention": [
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-188",
@@ -14234,13 +16283,24 @@
       ],
       "texts": [
         {
-          "text": "2003",
+          "text": "CRITICAL DISTINCTION",
           "style": "outline",
           "color": "#181A20",
           "boxColor": "#F59E0B",
           "enter": "pop",
           "at": 6
         }
+      ],
+      "visualJob": "surprise",
+      "visualArc": {
+        "startState": "apparent_security",
+        "endState": "sudden_fracture",
+        "transformation": "shrink"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
       ]
     },
     {
@@ -14329,7 +16389,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "escalate",
+      "visualArc": {
+        "startState": "under_control",
+        "endState": "overwhelmed",
+        "transformation": "overload"
+      },
+      "attention": [
+        "partner",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-190",
@@ -14398,7 +16469,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "reveal",
+      "visualArc": {
+        "startState": "surface_facade",
+        "endState": "underlying_reality",
+        "transformation": "reveal_truth"
+      },
+      "attention": [
+        "character",
+        "text",
+        "motif"
+      ]
     },
     {
       "id": "scene-191",
@@ -14487,7 +16569,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "ground",
+      "visualArc": {
+        "startState": "normal",
+        "endState": "normal",
+        "transformation": "none"
+      },
+      "attention": [
+        "partner",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-192",
@@ -14550,13 +16643,23 @@
       ],
       "texts": [
         {
-          "text": "2014",
+          "text": "CRITICAL DISTINCTION",
           "style": "outline",
           "color": "#181A20",
           "boxColor": "#F59E0B",
           "enter": "pop",
           "at": 215
         }
+      ],
+      "visualJob": "surprise",
+      "visualArc": {
+        "startState": "apparent_security",
+        "endState": "sudden_fracture",
+        "transformation": "shrink"
+      },
+      "attention": [
+        "motif",
+        "text"
       ]
     },
     {
@@ -14637,7 +16740,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "reveal",
+      "visualArc": {
+        "startState": "surface_facade",
+        "endState": "underlying_reality",
+        "transformation": "reveal_truth"
+      },
+      "attention": [
+        "character",
+        "text",
+        "motif"
+      ]
     },
     {
       "id": "scene-194",
@@ -14726,7 +16840,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "ground",
+      "visualArc": {
+        "startState": "normal",
+        "endState": "normal",
+        "transformation": "none"
+      },
+      "attention": [
+        "partner",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-195",
@@ -14795,7 +16920,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "surprise",
+      "visualArc": {
+        "startState": "apparent_security",
+        "endState": "sudden_fracture",
+        "transformation": "shrink"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-196",
@@ -14874,7 +17010,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "escalate",
+      "visualArc": {
+        "startState": "under_control",
+        "endState": "overwhelmed",
+        "transformation": "overload"
+      },
+      "attention": [
+        "partner",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-197",
@@ -14962,7 +17109,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "reveal",
+      "visualArc": {
+        "startState": "surface_facade",
+        "endState": "underlying_reality",
+        "transformation": "reveal_truth"
+      },
+      "attention": [
+        "partner",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-198",
@@ -15032,7 +17190,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "ground",
+      "visualArc": {
+        "startState": "stable",
+        "endState": "focused",
+        "transformation": "grow"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-199",
@@ -15092,7 +17261,17 @@
           "at": 0
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "surprise",
+      "visualArc": {
+        "startState": "apparent_security",
+        "endState": "sudden_fracture",
+        "transformation": "shrink"
+      },
+      "attention": [
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-200",
@@ -15162,7 +17341,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "escalate",
+      "visualArc": {
+        "startState": "under_control",
+        "endState": "overwhelmed",
+        "transformation": "overload"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-201",
@@ -15238,13 +17428,24 @@
       ],
       "texts": [
         {
-          "text": "100",
+          "text": "THE 99% DEFAULT",
           "style": "outline",
           "color": "#181A20",
           "boxColor": "#F59E0B",
           "enter": "pop",
           "at": 263
         }
+      ],
+      "visualJob": "reveal",
+      "visualArc": {
+        "startState": "surface_facade",
+        "endState": "underlying_reality",
+        "transformation": "reveal_truth"
+      },
+      "attention": [
+        "character",
+        "text",
+        "motif"
       ]
     },
     {
@@ -15316,7 +17517,18 @@
           "color2": "#181A20"
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "ground",
+      "visualArc": {
+        "startState": "normal",
+        "endState": "normal",
+        "transformation": "none"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-203",
@@ -15387,13 +17599,24 @@
       ],
       "texts": [
         {
-          "text": "GROUP WORK",
+          "text": "CRITICAL DISTINCTION",
           "style": "highlight",
           "color": "#181A20",
           "boxColor": "#E85D04",
           "enter": "pop",
           "at": 39
         }
+      ],
+      "visualJob": "surprise",
+      "visualArc": {
+        "startState": "apparent_security",
+        "endState": "sudden_fracture",
+        "transformation": "shrink"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
       ]
     },
     {
@@ -15474,7 +17697,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "escalate",
+      "visualArc": {
+        "startState": "under_control",
+        "endState": "overwhelmed",
+        "transformation": "overload"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-205",
@@ -15547,13 +17781,24 @@
       ],
       "texts": [
         {
-          "text": "METHOD IS BODY",
+          "text": "THE 99% DEFAULT",
           "style": "reveal",
           "color": "#181A20",
           "boxColor": "#E85D04",
           "enter": "pop",
           "at": 131
         }
+      ],
+      "visualJob": "reveal",
+      "visualArc": {
+        "startState": "surface_facade",
+        "endState": "underlying_reality",
+        "transformation": "reveal_truth"
+      },
+      "attention": [
+        "character",
+        "text",
+        "motif"
       ]
     },
     {
@@ -15657,6 +17902,17 @@
           "enter": "pop",
           "at": 272
         }
+      ],
+      "visualJob": "ground",
+      "visualArc": {
+        "startState": "normal",
+        "endState": "normal",
+        "transformation": "none"
+      },
+      "attention": [
+        "partner",
+        "motif",
+        "text"
       ]
     },
     {
@@ -15723,7 +17979,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "surprise",
+      "visualArc": {
+        "startState": "apparent_security",
+        "endState": "sudden_fracture",
+        "transformation": "shrink"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-208",
@@ -15805,13 +18072,24 @@
       ],
       "texts": [
         {
-          "text": "YOUR SOLO WORK",
+          "text": "NOT WHAT IT SEEMS",
           "style": "reveal",
           "color": "#181A20",
           "boxColor": "#E85D04",
           "enter": "pop",
           "at": 34
         }
+      ],
+      "visualJob": "escalate",
+      "visualArc": {
+        "startState": "under_control",
+        "endState": "overwhelmed",
+        "transformation": "overload"
+      },
+      "attention": [
+        "partner",
+        "motif",
+        "text"
       ]
     },
     {
@@ -15876,7 +18154,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "reveal",
+      "visualArc": {
+        "startState": "surface_facade",
+        "endState": "underlying_reality",
+        "transformation": "reveal_truth"
+      },
+      "attention": [
+        "character",
+        "text",
+        "motif"
+      ]
     },
     {
       "id": "scene-210",
@@ -15941,7 +18230,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "ground",
+      "visualArc": {
+        "startState": "stable",
+        "endState": "focused",
+        "transformation": "grow"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-211",
@@ -16010,7 +18310,18 @@
           "color2": "#181A20"
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "surprise",
+      "visualArc": {
+        "startState": "apparent_security",
+        "endState": "sudden_fracture",
+        "transformation": "shrink"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-212",
@@ -16081,13 +18392,24 @@
       ],
       "texts": [
         {
-          "text": "DEEP WORK",
+          "text": "CRITICAL DISTINCTION",
           "style": "highlight",
           "color": "#181A20",
           "boxColor": "#E85D04",
           "enter": "pop",
           "at": 85
         }
+      ],
+      "visualJob": "demonstrate",
+      "visualArc": {
+        "startState": "normal",
+        "endState": "normal",
+        "transformation": "none"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
       ]
     },
     {
@@ -16169,7 +18491,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "escalate",
+      "visualArc": {
+        "startState": "under_control",
+        "endState": "overwhelmed",
+        "transformation": "overload"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-214",
@@ -16249,6 +18582,17 @@
           "enter": "pop",
           "at": 257
         }
+      ],
+      "visualJob": "reveal",
+      "visualArc": {
+        "startState": "surface_facade",
+        "endState": "underlying_reality",
+        "transformation": "reveal_truth"
+      },
+      "attention": [
+        "character",
+        "text",
+        "motif"
       ]
     },
     {
@@ -16320,7 +18664,18 @@
           "color2": "#181A20"
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "ground",
+      "visualArc": {
+        "startState": "normal",
+        "endState": "normal",
+        "transformation": "none"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-216",
@@ -16382,7 +18737,17 @@
           "at": 0
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "contrast",
+      "visualArc": {
+        "startState": "default_path",
+        "endState": "intentional_path",
+        "transformation": "shift_focus"
+      },
+      "attention": [
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-217",
@@ -16452,7 +18817,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "escalate",
+      "visualArc": {
+        "startState": "under_control",
+        "endState": "overwhelmed",
+        "transformation": "overload"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-218",
@@ -16525,13 +18901,24 @@
       ],
       "texts": [
         {
-          "text": "PULL OUT YOUR PHONE",
+          "text": "ATTENTION CAPTURE",
           "style": "reveal",
           "color": "#181A20",
           "boxColor": "#E85D04",
           "enter": "pop",
           "at": 109
         }
+      ],
+      "visualJob": "reveal",
+      "visualArc": {
+        "startState": "surface_facade",
+        "endState": "underlying_reality",
+        "transformation": "reveal_truth"
+      },
+      "attention": [
+        "character",
+        "text",
+        "motif"
       ]
     },
     {
@@ -16602,7 +18989,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "ground",
+      "visualArc": {
+        "startState": "stable",
+        "endState": "focused",
+        "transformation": "grow"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-220",
@@ -16680,7 +19078,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "escalate",
+      "visualArc": {
+        "startState": "under_control",
+        "endState": "overwhelmed",
+        "transformation": "overload"
+      },
+      "attention": [
+        "partner",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-221",
@@ -16758,7 +19167,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "surprise",
+      "visualArc": {
+        "startState": "apparent_security",
+        "endState": "sudden_fracture",
+        "transformation": "shrink"
+      },
+      "attention": [
+        "partner",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-222",
@@ -16829,13 +19249,24 @@
       ],
       "texts": [
         {
-          "text": "PAIN WHICH WON'T LAST",
+          "text": "EMOTIONAL FRICTION",
           "style": "strike",
           "color": "#181A20",
           "boxColor": "#E85D04",
           "enter": "pop",
           "at": 198
         }
+      ],
+      "visualJob": "escalate",
+      "visualArc": {
+        "startState": "under_control",
+        "endState": "overwhelmed",
+        "transformation": "overload"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
       ]
     },
     {
@@ -16917,13 +19348,24 @@
       ],
       "texts": [
         {
-          "text": "YOU SCREAM NO PAIN",
+          "text": "CRITICAL DISTINCTION",
           "style": "strike",
           "color": "#181A20",
           "boxColor": "#E85D04",
           "enter": "pop",
           "at": 112
         }
+      ],
+      "visualJob": "reveal",
+      "visualArc": {
+        "startState": "surface_facade",
+        "endState": "underlying_reality",
+        "transformation": "reveal_truth"
+      },
+      "attention": [
+        "partner",
+        "motif",
+        "text"
       ]
     },
     {
@@ -16992,7 +19434,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "ground",
+      "visualArc": {
+        "startState": "normal",
+        "endState": "normal",
+        "transformation": "none"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-225",
@@ -17061,7 +19514,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "surprise",
+      "visualArc": {
+        "startState": "apparent_security",
+        "endState": "sudden_fracture",
+        "transformation": "shrink"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-226",
@@ -17141,7 +19605,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "escalate",
+      "visualArc": {
+        "startState": "under_control",
+        "endState": "overwhelmed",
+        "transformation": "overload"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-227",
@@ -17203,13 +19678,24 @@
       "props": [],
       "texts": [
         {
-          "text": "NEVER A TIME",
+          "text": "NOT WHAT IT SEEMS",
           "style": "strike",
           "color": "#181A20",
           "boxColor": "#E85D04",
           "enter": "pop",
           "at": 94
         }
+      ],
+      "visualJob": "escalate",
+      "visualArc": {
+        "startState": "under_control",
+        "endState": "overwhelmed",
+        "transformation": "overload"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
       ]
     },
     {
@@ -17299,7 +19785,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "reveal",
+      "visualArc": {
+        "startState": "surface_facade",
+        "endState": "underlying_reality",
+        "transformation": "reveal_truth"
+      },
+      "attention": [
+        "partner",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-229",
@@ -17358,7 +19855,17 @@
           "at": 0
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "ground",
+      "visualArc": {
+        "startState": "normal",
+        "endState": "normal",
+        "transformation": "none"
+      },
+      "attention": [
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-230",
@@ -17423,7 +19930,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "surprise",
+      "visualArc": {
+        "startState": "apparent_security",
+        "endState": "sudden_fracture",
+        "transformation": "shrink"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-231",
@@ -17502,7 +20020,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "escalate",
+      "visualArc": {
+        "startState": "under_control",
+        "endState": "overwhelmed",
+        "transformation": "overload"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-232",
@@ -17573,7 +20102,18 @@
           "color2": "#181A20"
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "reveal",
+      "visualArc": {
+        "startState": "surface_facade",
+        "endState": "underlying_reality",
+        "transformation": "reveal_truth"
+      },
+      "attention": [
+        "character",
+        "text",
+        "motif"
+      ]
     },
     {
       "id": "scene-233",
@@ -17643,7 +20183,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "ground",
+      "visualArc": {
+        "startState": "normal",
+        "endState": "normal",
+        "transformation": "none"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-234",
@@ -17708,13 +20259,23 @@
       ],
       "texts": [
         {
-          "text": "$100,000",
+          "text": "OUTCOME VS PROCESS",
           "style": "outline",
           "color": "#181A20",
           "boxColor": "#F59E0B",
           "enter": "pop",
           "at": 135
         }
+      ],
+      "visualJob": "surprise",
+      "visualArc": {
+        "startState": "apparent_security",
+        "endState": "sudden_fracture",
+        "transformation": "shrink"
+      },
+      "attention": [
+        "motif",
+        "text"
       ]
     },
     {
@@ -17785,7 +20346,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "escalate",
+      "visualArc": {
+        "startState": "under_control",
+        "endState": "overwhelmed",
+        "transformation": "overload"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-236",
@@ -17853,7 +20425,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "reveal",
+      "visualArc": {
+        "startState": "surface_facade",
+        "endState": "underlying_reality",
+        "transformation": "reveal_truth"
+      },
+      "attention": [
+        "character",
+        "text",
+        "motif"
+      ]
     },
     {
       "id": "scene-237",
@@ -17922,7 +20505,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "ground",
+      "visualArc": {
+        "startState": "stable",
+        "endState": "focused",
+        "transformation": "grow"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-238",
@@ -17993,13 +20587,24 @@
       ],
       "texts": [
         {
-          "text": "FORGET THE 5-YEAR PLAN",
+          "text": "THE 99% DEFAULT",
           "style": "outline",
           "color": "#181A20",
           "boxColor": "#F59E0B",
           "enter": "pop",
           "at": 0
         }
+      ],
+      "visualJob": "surprise",
+      "visualArc": {
+        "startState": "apparent_security",
+        "endState": "sudden_fracture",
+        "transformation": "shrink"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
       ]
     },
     {
@@ -18062,7 +20667,17 @@
           "at": 0
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "escalate",
+      "visualArc": {
+        "startState": "under_control",
+        "endState": "overwhelmed",
+        "transformation": "overload"
+      },
+      "attention": [
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-240",
@@ -18124,13 +20739,24 @@
       "props": [],
       "texts": [
         {
-          "text": "YOU CANNOT CONTROL",
+          "text": "CRITICAL DISTINCTION",
           "style": "strike",
           "color": "#181A20",
           "boxColor": "#E85D04",
           "enter": "pop",
           "at": 155
         }
+      ],
+      "visualJob": "reveal",
+      "visualArc": {
+        "startState": "surface_facade",
+        "endState": "underlying_reality",
+        "transformation": "reveal_truth"
+      },
+      "attention": [
+        "character",
+        "text",
+        "motif"
       ]
     },
     {
@@ -18191,13 +20817,24 @@
       "props": [],
       "texts": [
         {
-          "text": "300",
+          "text": "CRITICAL DISTINCTION",
           "style": "outline",
           "color": "#181A20",
           "boxColor": "#F59E0B",
           "enter": "pop",
           "at": 104
         }
+      ],
+      "visualJob": "ground",
+      "visualArc": {
+        "startState": "normal",
+        "endState": "normal",
+        "transformation": "none"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
       ]
     },
     {
@@ -18264,7 +20901,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "surprise",
+      "visualArc": {
+        "startState": "apparent_security",
+        "endState": "sudden_fracture",
+        "transformation": "shrink"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-243",
@@ -18325,13 +20973,23 @@
       ],
       "texts": [
         {
-          "text": "WORDS WHILE BODY",
+          "text": "CRITICAL DISTINCTION",
           "style": "outline",
           "color": "#181A20",
           "boxColor": "#F59E0B",
           "enter": "pop",
           "at": 34
         }
+      ],
+      "visualJob": "escalate",
+      "visualArc": {
+        "startState": "under_control",
+        "endState": "overwhelmed",
+        "transformation": "overload"
+      },
+      "attention": [
+        "motif",
+        "text"
       ]
     },
     {
@@ -18410,7 +21068,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "escalate",
+      "visualArc": {
+        "startState": "under_control",
+        "endState": "overwhelmed",
+        "transformation": "overload"
+      },
+      "attention": [
+        "partner",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-245",
@@ -18492,7 +21161,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "reveal",
+      "visualArc": {
+        "startState": "surface_facade",
+        "endState": "underlying_reality",
+        "transformation": "reveal_truth"
+      },
+      "attention": [
+        "character",
+        "text",
+        "motif"
+      ]
     },
     {
       "id": "scene-246",
@@ -18557,7 +21237,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "ground",
+      "visualArc": {
+        "startState": "stable",
+        "endState": "focused",
+        "transformation": "grow"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-247",
@@ -18636,7 +21327,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "surprise",
+      "visualArc": {
+        "startState": "apparent_security",
+        "endState": "sudden_fracture",
+        "transformation": "shrink"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-248",
@@ -18697,13 +21399,24 @@
       "props": [],
       "texts": [
         {
-          "text": "SMART GOAL",
+          "text": "CRITICAL DISTINCTION",
           "style": "highlight",
           "color": "#181A20",
           "boxColor": "#E85D04",
           "enter": "pop",
           "at": 18
         }
+      ],
+      "visualJob": "demonstrate",
+      "visualArc": {
+        "startState": "normal",
+        "endState": "normal",
+        "transformation": "none"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
       ]
     },
     {
@@ -18783,7 +21496,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "escalate",
+      "visualArc": {
+        "startState": "under_control",
+        "endState": "overwhelmed",
+        "transformation": "overload"
+      },
+      "attention": [
+        "partner",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-250",
@@ -18858,7 +21582,18 @@
           "color2": "#181A20"
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "reveal",
+      "visualArc": {
+        "startState": "surface_facade",
+        "endState": "underlying_reality",
+        "transformation": "reveal_truth"
+      },
+      "attention": [
+        "character",
+        "text",
+        "motif"
+      ]
     },
     {
       "id": "scene-251",
@@ -18920,7 +21655,17 @@
           "at": 0
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "ground",
+      "visualArc": {
+        "startState": "normal",
+        "endState": "normal",
+        "transformation": "none"
+      },
+      "attention": [
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-252",
@@ -18993,13 +21738,24 @@
       ],
       "texts": [
         {
-          "text": "MAKE FIVE PHONE",
+          "text": "ATTENTION CAPTURE",
           "style": "outline",
           "color": "#181A20",
           "boxColor": "#F59E0B",
           "enter": "pop",
           "at": 3
         }
+      ],
+      "visualJob": "surprise",
+      "visualArc": {
+        "startState": "apparent_security",
+        "endState": "sudden_fracture",
+        "transformation": "shrink"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
       ]
     },
     {
@@ -19069,7 +21825,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "escalate",
+      "visualArc": {
+        "startState": "under_control",
+        "endState": "overwhelmed",
+        "transformation": "overload"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-254",
@@ -19130,13 +21897,24 @@
       "props": [],
       "texts": [
         {
-          "text": "CLOSE ENOUGH",
+          "text": "CRITICAL DISTINCTION",
           "style": "highlight",
           "color": "#181A20",
           "boxColor": "#E85D04",
           "enter": "pop",
           "at": 147
         }
+      ],
+      "visualJob": "reveal",
+      "visualArc": {
+        "startState": "surface_facade",
+        "endState": "underlying_reality",
+        "transformation": "reveal_truth"
+      },
+      "attention": [
+        "character",
+        "text",
+        "motif"
       ]
     },
     {
@@ -19208,7 +21986,18 @@
           "color2": "#181A20"
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "ground",
+      "visualArc": {
+        "startState": "stable",
+        "endState": "focused",
+        "transformation": "grow"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-256",
@@ -19277,7 +22066,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "surprise",
+      "visualArc": {
+        "startState": "apparent_security",
+        "endState": "sudden_fracture",
+        "transformation": "shrink"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-257",
@@ -19360,7 +22160,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "escalate",
+      "visualArc": {
+        "startState": "under_control",
+        "endState": "overwhelmed",
+        "transformation": "overload"
+      },
+      "attention": [
+        "partner",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-258",
@@ -19430,7 +22241,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "reveal",
+      "visualArc": {
+        "startState": "surface_facade",
+        "endState": "underlying_reality",
+        "transformation": "reveal_truth"
+      },
+      "attention": [
+        "character",
+        "text",
+        "motif"
+      ]
     },
     {
       "id": "scene-259",
@@ -19491,13 +22313,24 @@
       "props": [],
       "texts": [
         {
-          "text": "FRONT DOOR",
+          "text": "CRITICAL DISTINCTION",
           "style": "highlight",
           "color": "#181A20",
           "boxColor": "#E85D04",
           "enter": "pop",
           "at": 37
         }
+      ],
+      "visualJob": "ground",
+      "visualArc": {
+        "startState": "normal",
+        "endState": "normal",
+        "transformation": "none"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
       ]
     },
     {
@@ -19577,7 +22410,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "contrast",
+      "visualArc": {
+        "startState": "default_path",
+        "endState": "intentional_path",
+        "transformation": "shift_focus"
+      },
+      "attention": [
+        "partner",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-261",
@@ -19660,13 +22504,24 @@
       ],
       "texts": [
         {
-          "text": "WRITE BUT YOUR HANDS",
+          "text": "CRITICAL DISTINCTION",
           "style": "reveal",
           "color": "#181A20",
           "boxColor": "#E85D04",
           "enter": "pop",
           "at": 39
         }
+      ],
+      "visualJob": "escalate",
+      "visualArc": {
+        "startState": "under_control",
+        "endState": "overwhelmed",
+        "transformation": "overload"
+      },
+      "attention": [
+        "partner",
+        "motif",
+        "text"
       ]
     },
     {
@@ -19737,7 +22592,18 @@
           "color2": "#181A20"
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "reveal",
+      "visualArc": {
+        "startState": "surface_facade",
+        "endState": "underlying_reality",
+        "transformation": "reveal_truth"
+      },
+      "attention": [
+        "character",
+        "text",
+        "motif"
+      ]
     },
     {
       "id": "scene-263",
@@ -19802,7 +22668,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "ground",
+      "visualArc": {
+        "startState": "normal",
+        "endState": "normal",
+        "transformation": "none"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-264",
@@ -19872,7 +22749,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "surprise",
+      "visualArc": {
+        "startState": "apparent_security",
+        "endState": "sudden_fracture",
+        "transformation": "shrink"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-265",
@@ -19932,7 +22820,17 @@
           "at": 0
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "quantify",
+      "visualArc": {
+        "startState": "single_point",
+        "endState": "compound_tower",
+        "transformation": "grow"
+      },
+      "attention": [
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-266",
@@ -20003,13 +22901,24 @@
       ],
       "texts": [
         {
-          "text": "QUIT WITH NO GUILT",
+          "text": "CRITICAL DISTINCTION",
           "style": "strike",
           "color": "#181A20",
           "boxColor": "#E85D04",
           "enter": "pop",
           "at": 111
         }
+      ],
+      "visualJob": "escalate",
+      "visualArc": {
+        "startState": "under_control",
+        "endState": "overwhelmed",
+        "transformation": "overload"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
       ]
     },
     {
@@ -20089,7 +22998,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "reveal",
+      "visualArc": {
+        "startState": "surface_facade",
+        "endState": "underlying_reality",
+        "transformation": "reveal_truth"
+      },
+      "attention": [
+        "character",
+        "text",
+        "motif"
+      ]
     },
     {
       "id": "scene-268",
@@ -20158,7 +23078,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "ground",
+      "visualArc": {
+        "startState": "normal",
+        "endState": "normal",
+        "transformation": "none"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-269",
@@ -20228,7 +23159,18 @@
           "color2": "#181A20"
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "surprise",
+      "visualArc": {
+        "startState": "apparent_security",
+        "endState": "sudden_fracture",
+        "transformation": "shrink"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-270",
@@ -20297,7 +23239,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "escalate",
+      "visualArc": {
+        "startState": "under_control",
+        "endState": "overwhelmed",
+        "transformation": "overload"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-271",
@@ -20377,7 +23330,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "reveal",
+      "visualArc": {
+        "startState": "surface_facade",
+        "endState": "underlying_reality",
+        "transformation": "reveal_truth"
+      },
+      "attention": [
+        "partner",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-272",
@@ -20441,7 +23405,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "ground",
+      "visualArc": {
+        "startState": "normal",
+        "endState": "normal",
+        "transformation": "none"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-273",
@@ -20502,7 +23477,17 @@
           "at": 0
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "surprise",
+      "visualArc": {
+        "startState": "apparent_security",
+        "endState": "sudden_fracture",
+        "transformation": "shrink"
+      },
+      "attention": [
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-274",
@@ -20574,13 +23559,24 @@
       ],
       "texts": [
         {
-          "text": "START THE 5 MINUTES",
+          "text": "SYSTEM 1 VS SYSTEM 2",
           "style": "reveal",
           "color": "#181A20",
           "boxColor": "#E85D04",
           "enter": "pop",
           "at": 159
         }
+      ],
+      "visualJob": "quantify",
+      "visualArc": {
+        "startState": "single_point",
+        "endState": "compound_tower",
+        "transformation": "grow"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
       ]
     },
     {
@@ -20646,7 +23642,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "escalate",
+      "visualArc": {
+        "startState": "under_control",
+        "endState": "overwhelmed",
+        "transformation": "overload"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-276",
@@ -20717,13 +23724,24 @@
       ],
       "texts": [
         {
-          "text": "TELL MYSELF I'M ONLY",
+          "text": "THE PASSENGER SEAT",
           "style": "reveal",
           "color": "#181A20",
           "boxColor": "#E85D04",
           "enter": "pop",
           "at": 121
         }
+      ],
+      "visualJob": "reveal",
+      "visualArc": {
+        "startState": "surface_facade",
+        "endState": "underlying_reality",
+        "transformation": "reveal_truth"
+      },
+      "attention": [
+        "character",
+        "text",
+        "motif"
       ]
     },
     {
@@ -20793,7 +23811,18 @@
           "color2": "#181A20"
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "ground",
+      "visualArc": {
+        "startState": "normal",
+        "endState": "normal",
+        "transformation": "none"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-278",
@@ -20854,13 +23883,24 @@
       "props": [],
       "texts": [
         {
-          "text": "GIVE YOURSELF",
+          "text": "CRITICAL DISTINCTION",
           "style": "highlight",
           "color": "#181A20",
           "boxColor": "#E85D04",
           "enter": "pop",
           "at": 27
         }
+      ],
+      "visualJob": "surprise",
+      "visualArc": {
+        "startState": "apparent_security",
+        "endState": "sudden_fracture",
+        "transformation": "shrink"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
       ]
     },
     {
@@ -20920,7 +23960,17 @@
           "at": 0
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "escalate",
+      "visualArc": {
+        "startState": "under_control",
+        "endState": "overwhelmed",
+        "transformation": "overload"
+      },
+      "attention": [
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-280",
@@ -20985,7 +24035,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "escalate",
+      "visualArc": {
+        "startState": "under_control",
+        "endState": "overwhelmed",
+        "transformation": "overload"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-281",
@@ -21061,13 +24122,24 @@
       ],
       "texts": [
         {
-          "text": "FIRST 5 MINUTES",
+          "text": "CRITICAL DISTINCTION",
           "style": "outline",
           "color": "#181A20",
           "boxColor": "#F59E0B",
           "enter": "pop",
           "at": 198
         }
+      ],
+      "visualJob": "reveal",
+      "visualArc": {
+        "startState": "surface_facade",
+        "endState": "underlying_reality",
+        "transformation": "reveal_truth"
+      },
+      "attention": [
+        "character",
+        "text",
+        "motif"
       ]
     },
     {
@@ -21147,7 +24219,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "ground",
+      "visualArc": {
+        "startState": "stable",
+        "endState": "focused",
+        "transformation": "grow"
+      },
+      "attention": [
+        "partner",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-283",
@@ -21218,13 +24301,24 @@
       ],
       "texts": [
         {
-          "text": "700",
+          "text": "CRITICAL DISTINCTION",
           "style": "outline",
           "color": "#181A20",
           "boxColor": "#F59E0B",
           "enter": "pop",
           "at": 145
         }
+      ],
+      "visualJob": "surprise",
+      "visualArc": {
+        "startState": "apparent_security",
+        "endState": "sudden_fracture",
+        "transformation": "shrink"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
       ]
     },
     {
@@ -21296,7 +24390,18 @@
           "color2": "#181A20"
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "escalate",
+      "visualArc": {
+        "startState": "under_control",
+        "endState": "overwhelmed",
+        "transformation": "overload"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-285",
@@ -21366,7 +24471,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "reveal",
+      "visualArc": {
+        "startState": "surface_facade",
+        "endState": "underlying_reality",
+        "transformation": "reveal_truth"
+      },
+      "attention": [
+        "character",
+        "text",
+        "motif"
+      ]
     },
     {
       "id": "scene-286",
@@ -21444,7 +24560,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "ground",
+      "visualArc": {
+        "startState": "normal",
+        "endState": "normal",
+        "transformation": "none"
+      },
+      "attention": [
+        "partner",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-287",
@@ -21509,7 +24636,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "surprise",
+      "visualArc": {
+        "startState": "apparent_security",
+        "endState": "sudden_fracture",
+        "transformation": "shrink"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-288",
@@ -21578,7 +24716,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "demonstrate",
+      "visualArc": {
+        "startState": "stable",
+        "endState": "focused",
+        "transformation": "grow"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-289",
@@ -21658,7 +24807,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "escalate",
+      "visualArc": {
+        "startState": "under_control",
+        "endState": "overwhelmed",
+        "transformation": "overload"
+      },
+      "attention": [
+        "partner",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-290",
@@ -21742,13 +24902,23 @@
       ],
       "texts": [
         {
-          "text": "YOUR DAY JOB",
+          "text": "CAREER LEVERAGE",
           "style": "reveal",
           "color": "#181A20",
           "boxColor": "#E85D04",
           "enter": "pop",
           "at": 208
         }
+      ],
+      "visualJob": "reveal",
+      "visualArc": {
+        "startState": "surface_facade",
+        "endState": "underlying_reality",
+        "transformation": "reveal_truth"
+      },
+      "attention": [
+        "motif",
+        "text"
       ]
     },
     {
@@ -21810,13 +24980,24 @@
       "props": [],
       "texts": [
         {
-          "text": "MEANS YOU CONTROL",
+          "text": "CRITICAL DISTINCTION",
           "style": "reveal",
           "color": "#181A20",
           "boxColor": "#E85D04",
           "enter": "pop",
           "at": 180
         }
+      ],
+      "visualJob": "ground",
+      "visualArc": {
+        "startState": "stable",
+        "endState": "focused",
+        "transformation": "grow"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
       ]
     },
     {
@@ -21897,7 +25078,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "surprise",
+      "visualArc": {
+        "startState": "apparent_security",
+        "endState": "sudden_fracture",
+        "transformation": "shrink"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-293",
@@ -21977,7 +25169,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "reveal",
+      "visualArc": {
+        "startState": "surface_facade",
+        "endState": "underlying_reality",
+        "transformation": "reveal_truth"
+      },
+      "attention": [
+        "character",
+        "text",
+        "motif"
+      ]
     },
     {
       "id": "scene-294",
@@ -22038,13 +25241,24 @@
       "props": [],
       "texts": [
         {
-          "text": "OUT OF GUILT",
+          "text": "CRITICAL DISTINCTION",
           "style": "reveal",
           "color": "#181A20",
           "boxColor": "#E85D04",
           "enter": "pop",
           "at": 118
         }
+      ],
+      "visualJob": "ground",
+      "visualArc": {
+        "startState": "stable",
+        "endState": "focused",
+        "transformation": "grow"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
       ]
     },
     {
@@ -22107,7 +25321,17 @@
           "at": 0
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "surprise",
+      "visualArc": {
+        "startState": "apparent_security",
+        "endState": "sudden_fracture",
+        "transformation": "shrink"
+      },
+      "attention": [
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-296",
@@ -22201,7 +25425,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "escalate",
+      "visualArc": {
+        "startState": "under_control",
+        "endState": "overwhelmed",
+        "transformation": "overload"
+      },
+      "attention": [
+        "partner",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-297",
@@ -22272,7 +25507,18 @@
           "color2": "#181A20"
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "reveal",
+      "visualArc": {
+        "startState": "surface_facade",
+        "endState": "underlying_reality",
+        "transformation": "reveal_truth"
+      },
+      "attention": [
+        "character",
+        "text",
+        "motif"
+      ]
     },
     {
       "id": "scene-298",
@@ -22337,7 +25583,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "ground",
+      "visualArc": {
+        "startState": "normal",
+        "endState": "normal",
+        "transformation": "none"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-299",
@@ -22426,7 +25683,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "surprise",
+      "visualArc": {
+        "startState": "apparent_security",
+        "endState": "sudden_fracture",
+        "transformation": "shrink"
+      },
+      "attention": [
+        "partner",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-300",
@@ -22500,13 +25768,24 @@
       "props": [],
       "texts": [
         {
-          "text": "UNTIL THE ALARM",
+          "text": "THE FIVE-ALARM TRAP",
           "style": "reveal",
           "color": "#181A20",
           "boxColor": "#E85D04",
           "enter": "pop",
           "at": 89
         }
+      ],
+      "visualJob": "escalate",
+      "visualArc": {
+        "startState": "under_control",
+        "endState": "overwhelmed",
+        "transformation": "overload"
+      },
+      "attention": [
+        "partner",
+        "motif",
+        "text"
       ]
     },
     {
@@ -22581,7 +25860,18 @@
           "color2": "#181A20"
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "reveal",
+      "visualArc": {
+        "startState": "surface_facade",
+        "endState": "underlying_reality",
+        "transformation": "reveal_truth"
+      },
+      "attention": [
+        "character",
+        "text",
+        "motif"
+      ]
     },
     {
       "id": "scene-302",
@@ -22649,6 +25939,17 @@
           "enter": "pop",
           "at": 219
         }
+      ],
+      "visualJob": "ground",
+      "visualArc": {
+        "startState": "normal",
+        "endState": "normal",
+        "transformation": "none"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
       ]
     },
     {
@@ -22708,7 +26009,17 @@
           "at": 0
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "surprise",
+      "visualArc": {
+        "startState": "apparent_security",
+        "endState": "sudden_fracture",
+        "transformation": "shrink"
+      },
+      "attention": [
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-304",
@@ -22773,7 +26084,18 @@
           "color2": "#181A20"
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "demonstrate",
+      "visualArc": {
+        "startState": "normal",
+        "endState": "normal",
+        "transformation": "none"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-305",
@@ -22842,7 +26164,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "escalate",
+      "visualArc": {
+        "startState": "under_control",
+        "endState": "overwhelmed",
+        "transformation": "overload"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-306",
@@ -22924,7 +26257,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "reveal",
+      "visualArc": {
+        "startState": "surface_facade",
+        "endState": "underlying_reality",
+        "transformation": "reveal_truth"
+      },
+      "attention": [
+        "partner",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-307",
@@ -22993,7 +26337,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "ground",
+      "visualArc": {
+        "startState": "normal",
+        "endState": "normal",
+        "transformation": "none"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-308",
@@ -23070,13 +26425,24 @@
       ],
       "texts": [
         {
-          "text": "YOU LOVE",
+          "text": "CRITICAL DISTINCTION",
           "style": "highlight",
           "color": "#181A20",
           "boxColor": "#E85D04",
           "enter": "pop",
           "at": 123
         }
+      ],
+      "visualJob": "surprise",
+      "visualArc": {
+        "startState": "apparent_security",
+        "endState": "sudden_fracture",
+        "transformation": "shrink"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
       ]
     },
     {
@@ -23138,7 +26504,17 @@
           "at": 0
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "escalate",
+      "visualArc": {
+        "startState": "under_control",
+        "endState": "overwhelmed",
+        "transformation": "overload"
+      },
+      "attention": [
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-310",
@@ -23218,7 +26594,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "reveal",
+      "visualArc": {
+        "startState": "surface_facade",
+        "endState": "underlying_reality",
+        "transformation": "reveal_truth"
+      },
+      "attention": [
+        "character",
+        "text",
+        "motif"
+      ]
     },
     {
       "id": "scene-311",
@@ -23284,7 +26671,18 @@
           "color2": "#181A20"
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "ground",
+      "visualArc": {
+        "startState": "normal",
+        "endState": "normal",
+        "transformation": "none"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-312",
@@ -23354,7 +26752,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "surprise",
+      "visualArc": {
+        "startState": "apparent_security",
+        "endState": "sudden_fracture",
+        "transformation": "shrink"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-313",
@@ -23444,7 +26853,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "escalate",
+      "visualArc": {
+        "startState": "under_control",
+        "endState": "overwhelmed",
+        "transformation": "overload"
+      },
+      "attention": [
+        "partner",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-314",
@@ -23515,7 +26935,18 @@
           "color2": "#181A20"
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "reveal",
+      "visualArc": {
+        "startState": "surface_facade",
+        "endState": "underlying_reality",
+        "transformation": "reveal_truth"
+      },
+      "attention": [
+        "character",
+        "text",
+        "motif"
+      ]
     },
     {
       "id": "scene-315",
@@ -23588,13 +27019,24 @@
       ],
       "texts": [
         {
-          "text": "QUIT THEIR JOB",
+          "text": "AUTHORITY BIAS",
           "style": "reveal",
           "color": "#181A20",
           "boxColor": "#E85D04",
           "enter": "pop",
           "at": 243
         }
+      ],
+      "visualJob": "ground",
+      "visualArc": {
+        "startState": "stable",
+        "endState": "focused",
+        "transformation": "grow"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
       ]
     },
     {
@@ -23678,7 +27120,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "contrast",
+      "visualArc": {
+        "startState": "default_path",
+        "endState": "intentional_path",
+        "transformation": "shift_focus"
+      },
+      "attention": [
+        "partner",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-317",
@@ -23747,7 +27200,18 @@
           "color2": "#181A20"
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "escalate",
+      "visualArc": {
+        "startState": "under_control",
+        "endState": "overwhelmed",
+        "transformation": "overload"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-318",
@@ -23830,13 +27294,24 @@
       ],
       "texts": [
         {
-          "text": "YOU CANNOT HATE",
+          "text": "SHORT-TERM ILLUSION",
           "style": "strike",
           "color": "#181A20",
           "boxColor": "#E85D04",
           "enter": "pop",
           "at": 90
         }
+      ],
+      "visualJob": "reveal",
+      "visualArc": {
+        "startState": "surface_facade",
+        "endState": "underlying_reality",
+        "transformation": "reveal_truth"
+      },
+      "attention": [
+        "partner",
+        "motif",
+        "text"
       ]
     },
     {
@@ -23917,7 +27392,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "ground",
+      "visualArc": {
+        "startState": "normal",
+        "endState": "normal",
+        "transformation": "none"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-320",
@@ -23996,7 +27482,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "surprise",
+      "visualArc": {
+        "startState": "apparent_security",
+        "endState": "sudden_fracture",
+        "transformation": "shrink"
+      },
+      "attention": [
+        "partner",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-321",
@@ -24075,7 +27572,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "escalate",
+      "visualArc": {
+        "startState": "under_control",
+        "endState": "overwhelmed",
+        "transformation": "overload"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-322",
@@ -24150,7 +27658,18 @@
           "color2": "#181A20"
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "reveal",
+      "visualArc": {
+        "startState": "surface_facade",
+        "endState": "underlying_reality",
+        "transformation": "reveal_truth"
+      },
+      "attention": [
+        "character",
+        "text",
+        "motif"
+      ]
     },
     {
       "id": "scene-323",
@@ -24221,7 +27740,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "ground",
+      "visualArc": {
+        "startState": "normal",
+        "endState": "normal",
+        "transformation": "none"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-324",
@@ -24285,13 +27815,24 @@
       "props": [],
       "texts": [
         {
-          "text": "DEIAN RYAN'S PROOF",
+          "text": "CRITICAL DISTINCTION",
           "style": "reveal",
           "color": "#181A20",
           "boxColor": "#E85D04",
           "enter": "pop",
           "at": 140
         }
+      ],
+      "visualJob": "surprise",
+      "visualArc": {
+        "startState": "apparent_security",
+        "endState": "sudden_fracture",
+        "transformation": "shrink"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
       ]
     },
     {
@@ -24361,7 +27902,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "escalate",
+      "visualArc": {
+        "startState": "under_control",
+        "endState": "overwhelmed",
+        "transformation": "overload"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-326",
@@ -24440,7 +27992,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "reveal",
+      "visualArc": {
+        "startState": "surface_facade",
+        "endState": "underlying_reality",
+        "transformation": "reveal_truth"
+      },
+      "attention": [
+        "character",
+        "text",
+        "motif"
+      ]
     },
     {
       "id": "scene-327",
@@ -24514,7 +28077,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "ground",
+      "visualArc": {
+        "startState": "stable",
+        "endState": "focused",
+        "transformation": "grow"
+      },
+      "attention": [
+        "partner",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-328",
@@ -24584,7 +28158,18 @@
           "color2": "#181A20"
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "surprise",
+      "visualArc": {
+        "startState": "apparent_security",
+        "endState": "sudden_fracture",
+        "transformation": "shrink"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-329",
@@ -24645,7 +28230,17 @@
           "at": 0
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "escalate",
+      "visualArc": {
+        "startState": "under_control",
+        "endState": "overwhelmed",
+        "transformation": "overload"
+      },
+      "attention": [
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-330",
@@ -24716,7 +28311,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "reveal",
+      "visualArc": {
+        "startState": "surface_facade",
+        "endState": "underlying_reality",
+        "transformation": "reveal_truth"
+      },
+      "attention": [
+        "character",
+        "text",
+        "motif"
+      ]
     },
     {
       "id": "scene-331",
@@ -24785,7 +28391,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "ground",
+      "visualArc": {
+        "startState": "normal",
+        "endState": "normal",
+        "transformation": "none"
+      },
+      "attention": [
+        "character",
+        "motif",
+        "text"
+      ]
     },
     {
       "id": "scene-332",
@@ -24846,7 +28463,18 @@
           "at": 12
         }
       ],
-      "texts": []
+      "texts": [],
+      "visualJob": "reveal",
+      "visualArc": {
+        "startState": "surface_facade",
+        "endState": "underlying_reality",
+        "transformation": "reveal_truth"
+      },
+      "attention": [
+        "character",
+        "text",
+        "motif"
+      ]
     }
   ],
   "captions": [
