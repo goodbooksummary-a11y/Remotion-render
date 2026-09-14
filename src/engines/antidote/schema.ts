@@ -370,6 +370,8 @@ export const propSchema = z.object({
   /** Visual State Machine (Phase 6.2): Step in the concept's progressive transformation */
   stateIndex: z.number().optional(),
   statePhase: z.string().optional(),
+  /** Secondary visual anchor for character drama (keeps motif alive in background) */
+  isSecondaryAnchor: z.boolean().optional(),
   /** Dynamic vector paths for custom motifs generated on the fly by AI Art Director */
   customSvg: z.object({
     viewBox: z.string().default("0 0 520 520"),
@@ -565,11 +567,47 @@ export const visualMode = z.enum([
 ]);
 export type VisualMode = z.infer<typeof visualMode>;
 
-export const visualInformationGain = z.enum(["high", "medium", "low"]);
+export const claimType = z.enum([
+  "assertion",      // Direct affirmation of a premise
+  "negation",       // Direct refutation / denial of a false premise
+  "contrast",       // Dynamic collision of two opposing viewpoints (A vs B)
+  "causal",         // Cause -> Effect mechanism
+  "question",       // Socratic probe / inquiry opening curiosity gap
+  "counterexample", // Outlier or objection disrupting general rule
+  "definition",     // Core conceptual essence
+  "analogy",        // Allegory / metaphorical mapping
+  "consequence",    // Unavoidable result / downstream impact
+]);
+export type ClaimType = z.infer<typeof claimType>;
+
+export const epistemicStance = z.enum(["affirmed", "refuted", "questioned", "hypothetical"]);
+export type EpistemicStance = z.infer<typeof epistemicStance>;
+
+export const visualInformationGain = z.union([
+  z.enum([
+    "high", "medium", "low",
+    "decorative", "reinforcing", "illustrative", "explanatory", "causal", "transformative",
+  ]),
+  z.number(),
+]);
 export type VisualInformationGain = z.infer<typeof visualInformationGain>;
+
+export const directorSchema = z.object({
+  viewerFocus: z.string().optional(),          // Focal element commanding initial viewer gaze
+  visualSubject: z.string().optional(),        // Primary subject
+  secondarySubject: z.string().optional(),      // Background contextual anchor
+  relationship: z.string().optional(),         // 'confrontation' | 'temptation' | 'allegory' | 'subjection' | etc.
+  cameraIntent: z.string().optional(),         // 'observe moral choice' | 'expose illusion' | etc.
+  composition: z.string().optional(),          // 'foreground-character / background-symbol' | etc.
+  motionIntent: z.string().optional(),         // 'slow push-in' | 'dramatic hold' | etc.
+  revealOrder: z.array(z.string()).default([]),// Chronological sequence of elements discovered by the eye
+});
+export type DirectorSpec = z.infer<typeof directorSchema>;
 
 export const visualPropositionSchema = z.object({
   claim: z.string(),                  // The core philosophical assertion
+  claimType: claimType.optional(),    // Epistemic category of the claim
+  epistemicStance: epistemicStance.optional(), // affirmed / refuted / questioned / hypothetical
   subject: z.string().optional(),     // Primary conceptual subject
   mechanism: z.string().optional(),   // Causal action or dynamic link
   stakes: z.string().optional(),      // Moral/philosophical friction
@@ -663,7 +701,10 @@ export const sceneSchema = z.object({
   /** Propositional Visual Grammar (Antidote 6.2): Causal mode and information gain */
   visualMode: visualMode.optional(),
   visualInformationGain: visualInformationGain.optional(),
+  vigScore: z.number().min(0).max(5).optional(),
   visualProposition: visualPropositionSchema.optional(),
+  /** Scene Director Layer (God Mode 8.0): Cinematic composition, focal hierarchy, and reveal order */
+  director: directorSchema.optional(),
   /** Visual Progression: intra-scene transformation from startState to endState. */
   visualArc: visualArcSchema.optional(),
   /** Attention Choreography: ordered sequence of where the viewer's eye should go. */

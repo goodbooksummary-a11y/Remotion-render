@@ -16,14 +16,15 @@ const fs = require("fs");
 const path = require("path");
 const https = require("https");
 const { ENDPOINT, stripThink } = require("./llm");
+const { calculateVIG, extractProposition, extractClaimType, extractEpistemicStance } = require("./visual-intent");
 
 const VISION_MODEL = process.env.NVIDIA_VISION_MODEL || "meta/llama-3.2-11b-vision-instruct";
 
 /**
  * Deterministic blind evaluation heuristic.
  * Emulates what an external critic perceives when inspecting:
- * - What is seen: background set, active props, character poses/blocking, shot type, diagrams, splits.
- * - What is heard: spoken narration sentence.
+ * - What is seen: background set, active props, character poses/blocking, shot type, diagrams, splits, secondary anchors.
+ * - What is heard: spoken narration sentence, claim type, epistemic stance.
  */
 function evaluateBlindHeuristic(scene, narration) {
   const text = String(narration || scene._narration || "").trim();
@@ -32,8 +33,13 @@ function evaluateBlindHeuristic(scene, narration) {
   const props = Array.isArray(scene.props) ? scene.props : [];
   const chars = Array.isArray(scene.characters) ? scene.characters : [];
   const hasDiagram = !!scene.diagram;
-  const isSplit = shot === "split" || shot === "beforeAfter";
-  const primaryProp = props[0];
+  const isSplit = shot === "split" || shot === "beforeAfter" || scene.visualMode === "comparison_split";
+  const primaryProp = props.find((p) => !p.isSecondaryAnchor) || props[0];
+  const secondaryAnchor = props.find((p) => p.isSecondaryAnchor);
+
+  const claimType = extractClaimType(text);
+  const epistemicStance = extractEpistemicStance(claimType, text);
+  const propRes = extractProposition(text);
 
   // 1. What does the viewer understand from this frame alone?
   let viewerUnderstanding = "";
@@ -41,34 +47,48 @@ function evaluateBlindHeuristic(scene, narration) {
     viewerUnderstanding = `A structured conceptual diagram explaining systemic or categorical relationships.`;
   } else if (isSplit) {
     viewerUnderstanding = `A direct side-by-side comparison contrasting two opposing principles, moral states, or choices.`;
-  } else if (primaryProp) {
+  } else if (primaryProp && !primaryProp.isSecondaryAnchor) {
     const phaseDesc = primaryProp.statePhase ? ` in phase '${primaryProp.statePhase}' (state ${primaryProp.stateIndex ?? 0})` : "";
     viewerUnderstanding = `Visual motif of '${primaryProp.type}'${phaseDesc} staged in a '${set}' environment.`;
   } else if (chars.length > 0) {
     viewerUnderstanding = `A character-driven scene depicting interpersonal dialogue or dialectical exchange in a '${set}' setting.`;
+    if (secondaryAnchor) {
+      viewerUnderstanding += ` Conceptual anchor '${secondaryAnchor.type}' is preserved as a muted secondary background element.`;
+    }
   } else {
-    viewerUnderstanding = `An atmospheric architectural backdrop of '${set}' without a focal subject.`;
+    viewerUnderstanding = `An atmospheric architectural backdrop of '${set}' without a foreground focal subject.`;
   }
 
   // 2. Is the core causal claim visible, or just decorative backdrop?
-  const hasCausalMarkers = /\b(because|leads to|causes|transforms|degenerates|turns into|if|results|therefore|impunity)\b/i.test(text);
+  const hasCausalMarkers = /\b(because|leads to|causes|transforms|degenerates|turns into|if|results|therefore|impunity|critique|rejects)\b/i.test(text);
   let causalClaimVisible = false;
   let causalVisibilityExplanation = "";
 
-  if (hasDiagram || isSplit || (primaryProp && primaryProp.stateIndex !== undefined)) {
+  if (hasDiagram || isSplit || (primaryProp && primaryProp.stateIndex !== undefined && !primaryProp.isSecondaryAnchor)) {
     causalClaimVisible = true;
-    causalVisibilityExplanation = `The visual explicitly structures the causal relationship (${isSplit ? "contrast/fork" : hasDiagram ? "mechanistic flow" : "state-machine progression"}).`;
-  } else if (primaryProp) {
+    causalVisibilityExplanation = `The visual explicitly structures the causal relationship (${isSplit ? "contrast/split refutation" : hasDiagram ? "mechanistic causal diagram" : "active state-machine progression"}).`;
+  } else if (primaryProp && !primaryProp.isSecondaryAnchor) {
     causalClaimVisible = true;
-    causalVisibilityExplanation = `The central motif '${primaryProp.type}' symbolizes the spoken subject, anchoring viewer attention.`;
+    causalVisibilityExplanation = `The central motif '${primaryProp.type}' directly anchors the spoken subject.`;
   } else if (chars.length > 0) {
-    causalClaimVisible = !hasCausalMarkers;
-    causalVisibilityExplanation = causalClaimVisible
-      ? `The characters reflect the spoken interpersonal exchange.`
-      : `Narration asserts an abstract causal claim, but the frame shows characters without a mechanistic diagram or state transformation.`;
+    if (claimType === "negation" || claimType === "contrast") {
+      causalClaimVisible = true;
+      causalVisibilityExplanation = `Character dramatic tension embodies the dialectical critique / refutation spoken in the narration.`;
+    } else {
+      causalClaimVisible = !hasCausalMarkers;
+      causalVisibilityExplanation = causalClaimVisible
+        ? `The characters reflect the spoken interpersonal exchange.`
+        : `Narration asserts an abstract causal claim, but the frame shows characters without a mechanistic diagram or state transformation.`;
+    }
   } else {
     causalClaimVisible = false;
     causalVisibilityExplanation = `Frame contains only background setting without a clear causal object.`;
+  }
+
+  // Epistemic check: Negation presented as literal affirmation
+  if (claimType === "negation" && scene.visualMode === "literal") {
+    causalClaimVisible = false;
+    causalVisibilityExplanation = `Narration refutes the concept, but the frame depicts a literal positive affirmation without contrast or refutation.`;
   }
 
   // 3. What is visual noise / decorative filler?
@@ -80,36 +100,28 @@ function evaluateBlindHeuristic(scene, narration) {
     visualNoise = `Empty stage with no foreground subject or cognitive anchor.`;
   }
 
-  // 4. Visual Information Gain (VIG)
-  let vig = "low";
-  let vigScore = 0;
-  let vigReason = "";
-  if (hasDiagram || isSplit || (primaryProp && (primaryProp.arc === "grow" || primaryProp.statePhase?.includes("transform")))) {
-    vig = "high";
-    vigScore = 2;
-    vigReason = "Visual introduces structural, comparative, or transformational information that deepens comprehension beyond words.";
-  } else if (primaryProp || (chars.length > 0 && shot !== "wide")) {
-    vig = "medium";
-    vigScore = 1;
-    vigReason = "Visual anchors the narrative subject with appropriate character interaction or thematic iconography.";
-  } else {
-    vig = "low";
-    vigScore = 0;
-    vigReason = "Visual functions as static wallpaper with minimal informational value.";
-  }
+  // 4. Visual Information Gain (VIG) — 0–5 Cognitive Scale
+  const vigData = calculateVIG(scene, propRes);
+  const vig = vigData.vig; // 'high' | 'medium' | 'low'
+  const vigScore = vigData.vigScore; // 0..5
+  const vigLevel = vigData.level; // 'decorative' | 'reinforcing' | 'illustrative' | 'explanatory' | 'causal' | 'transformative'
+  const vigReason = vigData.reason;
 
   // 5. Does the shot add new conceptual information beyond the spoken audio?
-  const addsInformationBeyondAudio = vig === "high" || (vig === "medium" && primaryProp && primaryProp.stateIndex !== undefined);
+  const addsInformationBeyondAudio = vigScore >= 3 || (vigScore >= 2 && primaryProp && primaryProp.stateIndex !== undefined);
 
   // Verdict & Recommendation
   let verdict = "pass";
   let recommendation = "Maintain current visual direction.";
-  if (vig === "low") {
+  if (vigScore === 0) {
     verdict = "fail";
-    recommendation = "Elevate to character drama or introduce a state-aware motif to prevent visual dead air.";
+    recommendation = "Elevate to character drama or introduce a state-aware motif to eliminate decorative wallpaper.";
   } else if (!causalClaimVisible && hasCausalMarkers) {
     verdict = "warn";
     recommendation = "Consider a split comparison or state-progression prop to visually embody the causal transformation.";
+  } else if (claimType === "negation" && scene.visualMode === "literal") {
+    verdict = "warn";
+    recommendation = "Shift to contrast split or character critique to reflect refutational epistemic stance.";
   }
 
   return {
@@ -119,8 +131,11 @@ function evaluateBlindHeuristic(scene, narration) {
     visualNoise,
     vig,
     vigScore,
+    vigLevel,
     vigReason,
     addsInformationBeyondAudio,
+    claimType,
+    epistemicStance,
     verdict,
     recommendation,
   };
@@ -144,14 +159,17 @@ You have NOT seen any source code, schema, or technical implementation.
 Voiceover Narration spoken during this exact frame:
 "${narration}"
 
-Answer these 5 critical questions strictly in JSON format:
+Answer these critical questions strictly in JSON format:
 {
   "viewerUnderstanding": "What does a first-time viewer understand from looking at this frame alone?",
   "causalClaimVisible": true or false,
   "causalVisibilityExplanation": "Brief explanation of whether the causal assertion is visually depicted or just wallpaper",
   "visualNoise": "Any decorative clutter or meaningless shapes distracting from the core claim (or 'none')",
   "vig": "high" | "medium" | "low",
-  "vigReason": "Why is the Visual Information Gain high, medium, or low?",
+  "vigScore": 0 to 5,
+  "vigLevel": "decorative" | "reinforcing" | "illustrative" | "explanatory" | "causal" | "transformative",
+  "vigReason": "Why is the Visual Information Gain at this level on the 0-5 cognitive scale?",
+  "claimType": "assertion" | "negation" | "contrast" | "causal" | "question" | "counterexample" | "definition" | "analogy" | "consequence",
   "addsInformationBeyondAudio": true or false,
   "verdict": "pass" | "warn" | "fail",
   "recommendation": "One actionable recommendation to improve visual-semantic alignment"

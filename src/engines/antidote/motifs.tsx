@@ -27,6 +27,7 @@ const Frame: React.FC<{ spec: PropSpec; children: React.ReactNode; w?: number; h
   const { fps } = useVideoConfig();
   const t = enter(spec.enter, frame, fps);
   if (t.opacity <= 0) return null;
+  const isSec = !!spec.isSecondaryAnchor;
   return (
     <div
       style={{
@@ -37,9 +38,11 @@ const Frame: React.FC<{ spec: PropSpec; children: React.ReactNode; w?: number; h
         height: h,
         marginLeft: -w / 2,
         marginTop: -h / 2,
-        opacity: t.opacity,
-        transform: `translate(${t.tx}px, ${t.ty}px) scale(${spec.scale * t.scale})`,
+        opacity: isSec ? t.opacity * 0.42 : t.opacity,
+        transform: `translate(${t.tx}px, ${t.ty}px) scale(${(spec.scale || 1) * t.scale * (isSec ? 0.72 : 1)})`,
         transformOrigin: "center",
+        filter: isSec ? "blur(0.5px)" : undefined,
+        pointerEvents: "none",
       }}
     >
       <svg width={w} height={h} viewBox={`0 0 ${w} ${h}`} style={{ overflow: "visible" }}>

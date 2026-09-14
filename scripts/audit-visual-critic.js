@@ -141,20 +141,36 @@ async function runVisualCriticAudit() {
 
   // Aggregate metrics
   const vigCounts = { high: 0, medium: 0, low: 0 };
+  const vigLevelCounts = {
+    decorative: 0,
+    reinforcing: 0,
+    illustrative: 0,
+    explanatory: 0,
+    causal: 0,
+    transformative: 0,
+  };
+  let totalVigScore = 0;
   let causalVisibleCount = 0;
   let noiseCount = 0;
   let beyondAudioCount = 0;
+  let secondaryAnchorCount = 0;
   const verdicts = { pass: 0, warn: 0, fail: 0 };
 
   for (const r of results) {
     const ev = r.evaluation;
     vigCounts[ev.vig] = (vigCounts[ev.vig] || 0) + 1;
+    const lvl = ev.vigLevel || (ev.vig === "high" ? "causal" : ev.vig === "medium" ? "illustrative" : "decorative");
+    vigLevelCounts[lvl] = (vigLevelCounts[lvl] || 0) + 1;
+    totalVigScore += typeof ev.vigScore === "number" ? ev.vigScore : (ev.vig === "high" ? 4 : ev.vig === "medium" ? 2 : 0);
+
     if (ev.causalClaimVisible) causalVisibleCount++;
     if (ev.visualNoise && ev.visualNoise !== "none") noiseCount++;
     if (ev.addsInformationBeyondAudio) beyondAudioCount++;
+    if (Array.isArray(r.scene?.props) && r.scene.props.some((p) => p.isSecondaryAnchor)) secondaryAnchorCount++;
     verdicts[ev.verdict] = (verdicts[ev.verdict] || 0) + 1;
   }
 
+  const avgVigScore = Number((totalVigScore / results.length).toFixed(2));
   const causalRate = Math.round((causalVisibleCount / results.length) * 100);
   const beyondAudioRate = Math.round((beyondAudioCount / results.length) * 100);
   const highVigRate = Math.round((vigCounts.high / results.length) * 100);
@@ -164,8 +180,16 @@ async function runVisualCriticAudit() {
   console.log(`\n── Aggregate Blind Critic Metrics ────────────────────────────────`);
   console.log(`  Causal Claim Visibility:       ${String(causalRate).padStart(3)}% (${causalVisibleCount}/${results.length})`);
   console.log(`  Information Beyond Audio:      ${String(beyondAudioRate).padStart(3)}% (${beyondAudioCount}/${results.length})`);
-  console.log(`  Visual Information Gain (VIG): High: ${vigCounts.high} (${highVigRate}%) | Med: ${vigCounts.medium} (${medVigRate}%) | Low: ${vigCounts.low} (${lowVigRate}%)`);
-  console.log(`  Visual Noise / Filler Detections: ${noiseCount} scenes`);
+  console.log(`  Average VIG Score (0–5):       ${avgVigScore} / 5.0`);
+  console.log(`  VIG Cognitive Scale Breakdown:`);
+  console.log(`    • Level 5 (Transformative):  ${vigLevelCounts.transformative} scenes`);
+  console.log(`    • Level 4 (Causal):          ${vigLevelCounts.causal} scenes`);
+  console.log(`    • Level 3 (Explanatory):     ${vigLevelCounts.explanatory} scenes`);
+  console.log(`    • Level 2 (Illustrative):    ${vigLevelCounts.illustrative} scenes`);
+  console.log(`    • Level 1 (Reinforcing):     ${vigLevelCounts.reinforcing} scenes`);
+  console.log(`    • Level 0 (Decorative):      ${vigLevelCounts.decorative} scenes`);
+  console.log(`  Secondary Anchors Active:      ${secondaryAnchorCount} scenes (retaining conceptual motifs behind character dialogue)`);
+  console.log(`  Visual Noise / Filler:         ${noiseCount} scenes`);
   console.log(`  Verdicts:                      Pass: ${verdicts.pass} | Warn: ${verdicts.warn} | Fail: ${verdicts.fail}`);
 
   console.log(`\n── Key Scene Deep-Dive (5 Blind Questions) ───────────────────────`);
@@ -173,12 +197,13 @@ async function runVisualCriticAudit() {
   for (const r of samplePrint) {
     const ev = r.evaluation;
     const propInfo = r.prop !== "none" ? ` | Prop: ${r.prop} [state ${r.stateIndex ?? 0}]` : "";
-    console.log(`\n  ▸ Scene #${r.index} [${r.sceneId}] (${r.shot} in ${r.set}${propInfo}) [${ev.verdict.toUpperCase()}]`);
+    const claimInfo = ev.claimType ? ` [Claim: ${ev.claimType} / ${ev.epistemicStance}]` : "";
+    console.log(`\n  ▸ Scene #${r.index} [${r.sceneId}] (${r.shot} in ${r.set}${propInfo})${claimInfo} [${ev.verdict.toUpperCase()}]`);
     console.log(`    Narration: "${r.narration.slice(0, 90)}${r.narration.length > 90 ? "..." : ""}"`);
     console.log(`    [Q1] Understanding:   ${ev.viewerUnderstanding}`);
     console.log(`    [Q2] Causal Visible:  ${ev.causalClaimVisible ? "YES" : "NO"} — ${ev.causalVisibilityExplanation}`);
     console.log(`    [Q3] Visual Noise:    ${ev.visualNoise}`);
-    console.log(`    [Q4] VIG Level:       ${ev.vig.toUpperCase()} — ${ev.vigReason}`);
+    console.log(`    [Q4] VIG Level:       ${(ev.vigLevel || ev.vig).toUpperCase()} (score ${ev.vigScore ?? 0}/5) — ${ev.vigReason}`);
     console.log(`    [Q5] Beyond Audio:    ${ev.addsInformationBeyondAudio ? "YES (deepens conceptual grasp)" : "NO"}`);
     if (ev.recommendation && ev.verdict !== "pass") {
       console.log(`    [REC]                 ${ev.recommendation}`);
@@ -196,7 +221,10 @@ async function runVisualCriticAudit() {
       metrics: {
         causalVisibilityRate: causalRate,
         informationBeyondAudioRate: beyondAudioRate,
+        averageVigScore: avgVigScore,
         vigDistribution: { high: vigCounts.high, medium: vigCounts.medium, low: vigCounts.low },
+        vigLevelDistribution: vigLevelCounts,
+        secondaryAnchorsActive: secondaryAnchorCount,
         verdicts,
         visualNoiseCount: noiseCount,
       },
@@ -206,7 +234,7 @@ async function runVisualCriticAudit() {
     console.log(`\n  Saved comprehensive report to books/${SLUG}/visual-critic-report.json`);
   }
 
-  const passed = verdicts.fail === 0 && lowVigRate <= 5 && causalRate >= 80;
+  const passed = verdicts.fail === 0 && avgVigScore >= 2.5 && causalRate >= 80;
   console.log(`\n  Final Blind Critic Verdict: [${passed ? "✓ PASS" : "✗ DEFICIT"}]`);
   if (!passed) process.exit(1);
 }

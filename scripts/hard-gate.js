@@ -124,6 +124,7 @@ function evaluateGates(slug, autoFix = false) {
 
     const scenes = cfg.scenes || [];
     let consecutiveLowVig = 0;
+    let totalVigScore = 0;
 
     for (let i = 0; i < scenes.length; i++) {
       const sc = scenes[i];
@@ -139,7 +140,7 @@ function evaluateGates(slug, autoFix = false) {
         });
       }
 
-      // Gate 10B: Propositional & Causal Integrity
+      // Gate 10B: Propositional & Causal Integrity & Director Spec
       if (res.semanticScore < 7) {
         propositionViolations.push({
           sceneId: sc.id,
@@ -149,23 +150,45 @@ function evaluateGates(slug, autoFix = false) {
         });
       }
 
-      // Gate 11: Visual Information Gain (VIG) & Anti-Stagnation Floor
-      const vig = sc.visualInformationGain || res.vig || "low";
-      if (vig === "low") {
+      if (!sc.director || !sc.director.viewerFocus) {
+        propositionViolations.push({
+          sceneId: sc.id,
+          index: i,
+          rule: "Gate 10B: Missing Director Spec",
+          reasons: [`Scene ${sc.id} is missing director specification (viewerFocus, visualSubject, relationship)`],
+        });
+      }
+
+      // Gate 11: Visual Information Gain (VIG 0–5 Cognitive Scale) & Anti-Stagnation Floor
+      const vigScore = typeof sc.vigScore === "number" ? sc.vigScore : (res.vigScore ?? (sc.visualInformationGain === "high" ? 4 : sc.visualInformationGain === "medium" ? 2 : 1));
+      totalVigScore += vigScore;
+
+      // Rule 1: No consecutive low VIG (score <= 1)
+      if (vigScore <= 1) {
         consecutiveLowVig++;
         if (consecutiveLowVig > 1) {
           vigViolations.push({
             sceneId: sc.id,
             index: i,
             rule: "Gate 11: Consecutive Low VIG",
-            message: `Consecutive low Visual Information Gain at scene ${sc.id} (index ${i})`,
+            message: `Consecutive low Visual Information Gain (score ${vigScore}/5, level '${res.vigLevel}') at scene ${sc.id} (index ${i})`,
           });
         }
       } else {
         consecutiveLowVig = 0;
       }
 
-      // Anti-stagnation: Static motif repetition without state progression or camera shift
+      // Rule 2: Zero decorative wallpaper (VIG 0) on conceptual argumentation beats
+      if (vigScore === 0 && res.proposition) {
+        vigViolations.push({
+          sceneId: sc.id,
+          index: i,
+          rule: "Gate 11: Decorative Wallpaper in Conceptual Beat",
+          message: `Scene ${sc.id} has VIG 0 (decorative) despite active proposition "${res.proposition.claim}"`,
+        });
+      }
+
+      // Rule 3: Anti-stagnation: Static motif repetition without state progression or camera shift
       if (i >= 2) {
         const p0 = scenes[i - 2].props?.[0];
         const p1 = scenes[i - 1].props?.[0];
@@ -186,6 +209,38 @@ function evaluateGates(slug, autoFix = false) {
           });
         }
       }
+
+      // Rule 4: State Machine Wrap-Around Ban: Never reset from >0 back to 0 without world change
+      if (i > 0) {
+        const prevProp = scenes[i - 1].props?.[0];
+        const currProp = sc.props?.[0];
+        if (
+          prevProp && currProp &&
+          prevProp.type === currProp.type &&
+          typeof prevProp.stateIndex === "number" &&
+          typeof currProp.stateIndex === "number"
+        ) {
+          if (prevProp.stateIndex > 0 && currProp.stateIndex === 0) {
+            vigViolations.push({
+              sceneId: sc.id,
+              index: i,
+              rule: "Gate 11: Illegal State Wrap-Around",
+              message: `Prop "${currProp.type}" illegally wrapped around from state ${prevProp.stateIndex} back to 0 at scene ${sc.id}`,
+            });
+          }
+        }
+      }
+    }
+
+    // Rule 5: Average VIG score floor across the entire video (>= 2.5/5.0)
+    const avgVig = scenes.length > 0 ? totalVigScore / scenes.length : 0;
+    if (scenes.length > 0 && avgVig < 2.5) {
+      vigViolations.push({
+        sceneId: "ALL",
+        index: -1,
+        rule: "Gate 11: Low Average VIG Score",
+        message: `Average VIG score across video is ${avgVig.toFixed(2)}/5.0 (minimum required: 2.5)`,
+      });
     }
   }
 

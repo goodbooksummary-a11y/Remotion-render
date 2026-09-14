@@ -24,7 +24,7 @@ const PHILOSOPHICAL_WORLDS = {
         claim: "The shepherd discovers a mysterious golden signet ring in a chasm",
         visualMode: "metaphor",
         shot: "insert",
-        re: /\b(discovered a ring|found a ring|shepherd'?s ring|golden ring|chasm|bronze horse)\b/i,
+        re: /\b(discovered a ring|found a ring|shepherd'?s ring|golden ring|chasm|bronze horse|ring of (gyges|gajis))\b/i,
       },
       {
         index: 1,
@@ -40,7 +40,7 @@ const PHILOSOPHICAL_WORLDS = {
         claim: "Glaucon's challenge: Would any man remain moral if actions had zero consequences?",
         visualMode: "character_drama",
         shot: "split",
-        re: /\b(glaucon'?s challenge|remain just|moral choice|social contract|would you steal|impunity|reputation)\b/i,
+        re: /\b(glaucon'?s challenge|remain just|moral choice|social contract|would you steal|act with impunity|two rings)\b/i,
       },
       {
         index: 3,
@@ -147,7 +147,7 @@ const PHILOSOPHICAL_WORLDS = {
         claim: "The ship of state: Quarrelsome sailors competing for control without navigational science",
         visualMode: "character_drama",
         shot: "twoShot",
-        re: /\b(picture a ship|the ship'?s? owner|sailors quarreling|quarreling over the helm|no knowledge of navigation)\b/i,
+        re: /\b(picture a ship|sailors quarreling|quarreling over the helm|no knowledge of navigation|ship owner is big and strong)\b/i,
       },
       {
         index: 1,
@@ -155,7 +155,7 @@ const PHILOSOPHICAL_WORLDS = {
         claim: "Populist mutiny: Drugging the true captain, feasting, and sailing aimlessly",
         visualMode: "transformation",
         shot: "insert",
-        re: /\b(mutiny|mutinous|swarm the helm|feast and drink|drugging the captain|pure manipulation|politicians)\b/i,
+        re: /\b(mutiny|mutinous|swarm the helm|swarm the ship owner|feast and drink|drugging the (captain|owner)|pure manipulation|politicians)\b/i,
       },
       {
         index: 2,
@@ -369,7 +369,7 @@ const PHILOSOPHICAL_WORLDS = {
         claim: "The Thirty Tyrants: Oligarchic terror, confiscation, and relatives transforming into monsters",
         visualMode: "character_drama",
         shot: "twoShot",
-        re: /\b(thirty tyrants|seventh letter|his relatives|transform into literal monsters|oligarchy of terror)\b/i,
+        re: /\b(thirty tyrants|seventh letter|his relatives|oligarchy of terror|bloody purge)\b/i,
       },
       {
         index: 1,
@@ -377,7 +377,7 @@ const PHILOSOPHICAL_WORLDS = {
         claim: "Socrates's moral defiance: Refusing the illegal arrest of Leon of Salamis",
         visualMode: "character_drama",
         shot: "medium",
-        re: /\b(leon of salamis|illegal arrest|socrates refuses|defiance|stand up to the tyrants|young idealist)\b/i,
+        re: /\b(leon of salamis|illegal arrest|socrates refuses|defiance|stand up to the tyrants|young idealist|transform into literal monsters)\b/i,
       },
       {
         index: 2,
@@ -477,12 +477,56 @@ const MODERN_FORBIDDEN_PROPS = new Set([
 ]);
 
 /**
+ * Syntactic and epistemic analysis of spoken narration.
+ * Categorizes the logical function of the statement:
+ * assertion, negation, contrast, causal, question, counterexample, definition, analogy, consequence.
+ */
+function extractClaimType(text) {
+  const t = String(text || "").toLowerCase();
+  if (/\b(rejects|denies|not simply|false|mistake|illusion|contrary to|disproves|neither|cannot be|disagree|refutes|opposes|untrue|myth|scam)\b/i.test(t)) {
+    return "negation";
+  }
+  if (/\b(versus|vs\.?|on the other hand|whereas|in contrast|contrasted with|rather than|instead of|opposed to|two opposing|bifurcation|either.*or)\b/i.test(t)) {
+    return "contrast";
+  }
+  if (/\b(because|therefore|leads to|results in|causes|descends into|transforms into|generates|produces|inevitably|yields|drives)\b/i.test(t)) {
+    return "causal";
+  }
+  if (/\?|\b(why would|what happens when|how can|is it possible|does anyone|glaucon asks|socrates inquires)\b/i.test(t)) {
+    return "question";
+  }
+  if (/\b(except|what about|counter-?example|anomaly|objection|unless|even if)\b/i.test(t)) {
+    return "counterexample";
+  }
+  if (/\b(definition of|defined as|what justice is|means that|by definition|essence of)\b/i.test(t)) {
+    return "definition";
+  }
+  if (/\b(allegory|like a|analogous|mirror|image of|metaphor|just as.*so too|picture a)\b/i.test(t)) {
+    return "analogy";
+  }
+  if (/\b(unavoidable|consequence|sentence|punishment|doom|collapse|destruction|condemned)\b/i.test(t)) {
+    return "consequence";
+  }
+  return "assertion";
+}
+
+function extractEpistemicStance(claimType, text) {
+  if (claimType === "negation") return "refuted";
+  if (claimType === "question") return "questioned";
+  if (claimType === "counterexample") return "hypothetical";
+  return "affirmed";
+}
+
+/**
  * Extracts the core proposition, causal mechanism, and visual opportunity
  * from a sentence of narration. Evaluates all candidates and picks the highest scoring match.
  */
 function extractProposition(text) {
   const t = String(text || "").trim();
   if (!t) return null;
+
+  const claimType = extractClaimType(t);
+  const epistemicStance = extractEpistemicStance(claimType, t);
 
   let bestMatch = null;
   let bestScore = -1;
@@ -494,24 +538,38 @@ function extractProposition(text) {
         const match = t.match(state.re);
         if (match) score += match[0].length * 0.1;
 
-        if (/\b(because|therefore|leads to|results in|causes|descends into|transforms|turns into|if you give|challenge)\b/i.test(t)) {
+        if (claimType === "causal" || claimType === "contrast") {
           score += 2;
         }
 
         if (score > bestScore) {
+          let chosenMode = state.visualMode;
+          let chosenShot = state.shot || world.defaultShot;
+
+          // Epistemic adjustments: When a claim is a contrast or negation, prefer comparative or dialectical framing
+          if (claimType === "contrast" && chosenMode !== "causal_diagram") {
+            chosenMode = "comparison_split";
+            chosenShot = "split";
+          } else if (claimType === "negation") {
+            chosenMode = "character_drama";
+            chosenShot = "medium";
+          }
+
           bestScore = score;
           bestMatch = {
             worldKey,
             conceptId: world.id,
             prop: world.id,
             set: world.set,
-            shot: state.shot || world.defaultShot,
+            shot: chosenShot,
             claim: state.claim,
+            claimType,
+            epistemicStance,
             stateIndex: state.index,
             stateTotal: world.states.length,
             statePhase: state.phase,
-            visualMode: state.visualMode,
-            mechanism: extractCausalMechanism(t),
+            visualMode: chosenMode,
+            mechanism: extractCausalMechanism(t, claimType),
             stakes: extractStakes(t),
           };
         }
@@ -522,35 +580,38 @@ function extractProposition(text) {
   return bestMatch;
 }
 
-function extractCausalMechanism(text) {
+function extractCausalMechanism(text, claimType = "assertion") {
+  const isNeg = claimType === "negation" || /\b(rejects|denies|not simply|false|mistake|refutes)\b/i.test(text);
+  const prefix = isNeg ? "critique_of_" : "";
+
   if (/\b(freedom|liberty)\b/i.test(text) && /\b(discipline|tyranny|anarchy|chaos)\b/i.test(text)) {
-    return "freedom_lacking_discipline_degenerates_into_tyranny";
+    return `${prefix}freedom_lacking_discipline_degenerates_into_tyranny`;
   }
   if (/\b(invisible|invisibility|unseen)\b/i.test(text) && /\b(just|moral|steal|corrupt)\b/i.test(text)) {
-    return "invisibility_grants_impunity_testing_virtue";
+    return `${prefix}invisibility_grants_impunity_testing_virtue`;
   }
   if (/\b(appetite|desire)\b/i.test(text) && /\b(reason|mutiny|overcome)\b/i.test(text)) {
-    return "unbounded_appetite_mutinies_against_reason";
+    return `${prefix}unbounded_appetite_mutinies_against_reason`;
   }
   if (/\b(shadows?)\b/i.test(text) && /\b(reality|truth|cave)\b/i.test(text)) {
-    return "sensory_illusions_mistaken_for_metaphysical_truth";
+    return `${prefix}sensory_illusions_mistaken_for_metaphysical_truth`;
   }
   if (/\b(ship|sailors)\b/i.test(text) && /\b(pilot|navigator|stargazer)\b/i.test(text)) {
-    return "democratic_flattery_subverting_expert_wisdom";
+    return `${prefix}democratic_flattery_subverting_expert_wisdom`;
   }
   if (/\b(thrasymachus|sophist|might makes right|stronger party)\b/i.test(text)) {
-    return "power_replaces_truth_as_political_standard";
+    return `${prefix}power_replaces_truth_as_political_standard`;
   }
   if (/\b(thirty tyrants|leon of salamis|arrest|tyranny|refuse)\b/i.test(text)) {
-    return "tyrannical_violence_compelling_moral_resistance";
+    return `${prefix}tyrannical_violence_compelling_moral_resistance`;
   }
   if (/\b(four virtues|wisdom|courage|temperance|moderation|minding)\b/i.test(text)) {
-    return "functional_specialization_yielding_civic_harmony";
+    return `${prefix}functional_specialization_yielding_civic_harmony`;
   }
   if (/\b(elenchus|cross-examination|dialogue|question|aporia)\b/i.test(text)) {
-    return "elenctic_questioning_dismantling_false_dogma";
+    return `${prefix}elenctic_questioning_dismantling_false_dogma`;
   }
-  return "philosophical_exposition";
+  return isNeg ? "refuting_conventional_premise" : "philosophical_exposition";
 }
 
 function extractStakes(text) {
@@ -561,40 +622,189 @@ function extractStakes(text) {
   return "theoretical_principle";
 }
 
-// ── VISUAL INFORMATION GAIN CALCULATOR (P0) ─────────────────────────────────
+/**
+ * Validates whether narration actively supports advancing to the target state.
+ * Strictly prohibits wrap-around back to 0.
+ */
+function validateStateProgression(world, currentStateIndex, targetStateIndex, narration) {
+  if (!world || !Array.isArray(world.states)) return false;
+  if (targetStateIndex >= world.states.length) return false; // Strictly ban wrap-around!
+  if (targetStateIndex <= currentStateIndex) return false;
+
+  const targetState = world.states[targetStateIndex];
+  if (!targetState) return false;
+
+  // Direct regex confirmation
+  if (targetState.re && targetState.re.test(narration)) {
+    return true;
+  }
+
+  // Phase semantic keyword check
+  const phaseWords = targetState.phase.split("_");
+  const norm = String(narration || "").toLowerCase();
+  const matchCount = phaseWords.filter((w) => w.length > 3 && norm.includes(w)).length;
+  if (matchCount >= 1) return true;
+
+  return false;
+}
+
+/**
+ * Scene Director Spec Generator (Antidote God Mode 8.0)
+ * Answers "Where is the camera, what is the eye hierarchy, and what is the relationship?"
+ */
+function generateDirectorSpec(scene, proposition, activeWorld) {
+  const shot = scene.shot || "medium";
+  const chars = scene.characters || [];
+  const props = scene.props || [];
+  const primaryProp = props[0];
+
+  let viewerFocus = "speaker";
+  let visualSubject = "Socrates";
+  let secondarySubject = "agora";
+  let relationship = "dialectical_inquiry";
+  let cameraIntent = "observe dialogue";
+  let composition = "medium-presenter";
+  let motionIntent = "subtle-push-in";
+  let revealOrder = ["speaker"];
+
+  if (scene.diagram) {
+    viewerFocus = "diagram_core";
+    visualSubject = "causal_flow";
+    secondarySubject = chars[0]?.role || "speaker";
+    relationship = "structural_explanation";
+    cameraIntent = "deconstruct causal mechanism";
+    composition = "center-diagram / side-presenter";
+    motionIntent = "dramatic hold";
+    revealOrder = ["diagram_core", "labels", "takeaway"];
+  } else if (shot === "split" || shot === "beforeAfter") {
+    viewerFocus = "comparison_divider";
+    visualSubject = "moral_contrast";
+    secondarySubject = primaryProp?.type || "competing_states";
+    relationship = "bifurcation";
+    cameraIntent = "juxtapose opposing choices";
+    composition = "dual-panel-split";
+    motionIntent = "lateral reveal";
+    revealOrder = ["left_state", "right_state", "contrast_marker"];
+  } else if (primaryProp && !primaryProp.isSecondaryAnchor) {
+    viewerFocus = primaryProp.type;
+    visualSubject = primaryProp.type;
+    secondarySubject = chars[0]?.role || scene.bg?.set || "environment";
+    relationship = proposition?.stakes || "symbolic_anchor";
+    cameraIntent = "highlight philosophical metaphor";
+    composition = "hero-motif / atmospheric-background";
+    motionIntent = primaryProp.arc === "grow" ? "slow push-in" : "contemplative hold";
+    revealOrder = [primaryProp.type, "environment"];
+  } else if (primaryProp?.isSecondaryAnchor) {
+    viewerFocus = "character_reaction";
+    visualSubject = chars[0]?.role || "speaker";
+    secondarySubject = primaryProp.type;
+    relationship = "inner_tension";
+    cameraIntent = "character wrestling with concept";
+    composition = "foreground-character / background-symbol";
+    motionIntent = "slow push-in";
+    revealOrder = ["character_reaction", primaryProp.type];
+  } else if (chars.length > 1 || shot === "twoShot") {
+    viewerFocus = "interlocutor";
+    visualSubject = "Socrates and Glaucon";
+    secondarySubject = scene.bg?.set || "agora";
+    relationship = "dialectical_confrontation";
+    cameraIntent = "capture debate tension";
+    composition = "two-shot-dialogue";
+    motionIntent = "steady hold";
+    revealOrder = ["speaker", "listener"];
+  }
+
+  return {
+    viewerFocus,
+    visualSubject,
+    secondarySubject,
+    relationship,
+    cameraIntent,
+    composition,
+    motionIntent,
+    revealOrder,
+  };
+}
+
+// ── VISUAL INFORMATION GAIN (VIG) 0–5 COGNITIVE SCALE ───────────────────────
+// Evaluates real conceptual gain beyond audio:
+//   0 = Decorative (wallpaper, minimal relevance)
+//   1 = Reinforcing (context / historical environment / speaker)
+//   2 = Illustrative (literal depicted object or symbol)
+//   3 = Explanatory (structural/categorical separation, diagram, split)
+//   4 = Causal (cause -> effect mechanism, moral dilemma)
+//   5 = Transformative (dynamic state evolution / systemic shift)
 
 function calculateVIG(scene, proposition) {
-  if (!scene) return { vig: "low", score: 0, reason: "Empty scene" };
+  if (!scene) {
+    return { vig: "low", vigScore: 0, level: "decorative", reason: "Empty scene" };
+  }
 
   const mode = scene.visualMode || (proposition ? proposition.visualMode : "literal");
   const props = Array.isArray(scene.props) ? scene.props : [];
+  const primaryProp = props[0];
   const hasDiagram = !!scene.diagram;
   const isSplit = scene.shot === "split" || scene.shot === "beforeAfter";
-  const hasStateAwareMotif = props.some((p) => p.stateIndex !== undefined || p.type in PHILOSOPHICAL_WORLDS);
+  const claimType = proposition?.claimType || "assertion";
+  const hasStateAware = primaryProp && (primaryProp.stateIndex !== undefined || primaryProp.type in PHILOSOPHICAL_WORLDS);
+  const isTransforming = mode === "transformation" || primaryProp?.arc === "grow" || primaryProp?.arc === "closein" || primaryProp?.statePhase?.includes("transform") || primaryProp?.statePhase?.includes("vanish") || primaryProp?.statePhase?.includes("ascent");
 
-  // HIGH VIG: Causal diagrams, state-machine transformations, moral forks, or visual splits
-  if (hasDiagram || isSplit || mode === "causal_diagram" || mode === "transformation" || mode === "comparison_split") {
+  // Level 5: Transformative
+  if (isTransforming && hasStateAware) {
     return {
       vig: "high",
-      score: 2,
-      reason: `High information gain: ${mode} delivers explanatory dynamics beyond audio.`,
+      vigScore: 5,
+      level: "transformative",
+      reason: "Visual directly manifests systemic transformation or state machine metamorphosis.",
     };
   }
 
-  // MEDIUM VIG: Relevant conceptual motif, authentic historical action, dialectical drama, or spatial polis
-  if (hasStateAwareMotif || mode === "character_drama" || mode === "spatial_state" || mode === "metaphor") {
+  // Level 4: Causal
+  if (mode === "causal_diagram" || (isSplit && (claimType === "contrast" || claimType === "causal")) || (hasStateAware && claimType === "causal")) {
+    return {
+      vig: "high",
+      vigScore: 4,
+      level: "causal",
+      reason: "Visual deconstructs cause-and-effect mechanism or moral dilemma beyond voiceover.",
+    };
+  }
+
+  // Level 3: Explanatory
+  if (hasDiagram || isSplit || (hasStateAware && (claimType === "definition" || claimType === "analogy" || claimType === "contrast"))) {
+    return {
+      vig: "high",
+      vigScore: 3,
+      level: "explanatory",
+      reason: "Visual separates structural categories or juxtaposes contrasting frameworks.",
+    };
+  }
+
+  // Level 2: Illustrative
+  if (primaryProp && !primaryProp.isSecondaryAnchor) {
     return {
       vig: "medium",
-      score: 1,
-      reason: `Medium information gain: ${mode} reinforces philosophical narrative.`,
+      vigScore: 2,
+      level: "illustrative",
+      reason: "Visual anchors the spoken conceptual subject with focal iconography.",
     };
   }
 
-  // LOW VIG: Talking head with static background, or filler props
+  // Level 1: Reinforcing
+  if ((scene.characters && scene.characters.length > 0) || mode === "character_drama" || mode === "spatial_state" || primaryProp?.isSecondaryAnchor) {
+    return {
+      vig: "medium",
+      vigScore: 1,
+      level: "reinforcing",
+      reason: "Visual reinforces historical setting, interpersonal dialogue, or spatial atmosphere.",
+    };
+  }
+
+  // Level 0: Decorative
   return {
     vig: "low",
-    score: 0,
-    reason: "Low information gain: Scene is illustrative wallpaper with minimal structural information.",
+    vigScore: 0,
+    level: "decorative",
+    reason: "Visual is static wallpaper without conceptual anchor or narrative tension.",
   };
 }
 
@@ -605,33 +815,46 @@ function scoreSemanticRelevance(scene, text, options = {}) {
   const reasons = [];
 
   const set = scene.bg?.set || "none";
-  const props = Array.isArray(scene.props) ? scene.props.map((p) => p.type) : [];
+  const props = Array.isArray(scene.props) ? scene.props : [];
+  const propTypes = props.map((p) => p.type);
 
-  // GATE 10A: World & Historical Integrity
+  // GATE 10A: World & Historical Integrity (0 Anachronisms)
   let worldScore = 10;
   if (forbiddenSets.has(set) || (isAncient && MODERN_FORBIDDEN_SETS.has(set))) {
     worldScore = 0;
     reasons.push(`[Gate 10A FAIL] Forbidden modern set "${set}" in ancient context`);
   }
-  for (const p of props) {
+  for (const p of propTypes) {
     if (forbiddenProps.has(p) || (isAncient && MODERN_FORBIDDEN_PROPS.has(p))) {
       worldScore = 0;
       reasons.push(`[Gate 10A FAIL] Forbidden modern prop "${p}" in ancient context`);
     }
   }
 
-  // GATE 10B: Propositional & Causal Integrity
+  // GATE 10B: Propositional & Causal Integrity (Semantic & Epistemic Alignment)
   let semanticScore = 8;
   const prop = extractProposition(text);
+  const claimType = extractClaimType(text);
+
   if (prop) {
-    const hasMatchingProp = props.includes(prop.prop);
+    const hasMatchingProp = propTypes.includes(prop.prop);
     const hasMatchingSet = set === prop.set;
+
     if (hasMatchingProp) {
       semanticScore = 10;
+    } else if (scene.visualMode === "character_drama" || scene.visualMode === "spatial_state" || scene.visualMode === "comparison_split") {
+      semanticScore = 8; // Legitimate cinematic interpretation without literal icon
     } else {
       semanticScore = 5;
       reasons.push(`[Gate 10B WARN] Scene visual diverges from proposition "${prop.claim}"`);
     }
+
+    // Epistemic check: Negation should not be presented as a simple static affirmation
+    if (claimType === "negation" && scene.visualMode === "literal") {
+      semanticScore = Math.max(5, semanticScore - 2);
+      reasons.push(`[Gate 10B WARN] Negation claim rendered as literal affirmation without contrast or refutation`);
+    }
+
     if (hasMatchingSet) semanticScore = Math.min(10, semanticScore + 1);
   }
 
@@ -641,6 +864,8 @@ function scoreSemanticRelevance(scene, text, options = {}) {
     worldScore,
     semanticScore,
     vig: vig.vig,
+    vigScore: vig.vigScore,
+    vigLevel: vig.level,
     isPass: worldScore >= 8 && semanticScore >= 7,
     reasons,
     proposition: prop,
@@ -674,78 +899,126 @@ function enforceSemanticRelevance(config, options = {}) {
     const scene = config.scenes[i];
     const text = scene._narration || "";
     const prop = extractProposition(text);
+    const cType = extractClaimType(text);
 
     // 1. Proposition Matching & State Machine Progression
     if (prop) {
-      activeWorld = PHILOSOPHICAL_WORLDS[prop.worldKey];
-      activeStateIndex = prop.stateIndex;
+      if (activeWorld && activeWorld.id === prop.worldKey) {
+        // Same world already active in sequence: NEVER regress or wrap around!
+        if (prop.stateIndex > activeStateIndex) {
+          const canAdvance = validateStateProgression(activeWorld, activeStateIndex, prop.stateIndex, text);
+          if (canAdvance) {
+            activeStateIndex = prop.stateIndex;
+          }
+        }
+      } else {
+        activeWorld = PHILOSOPHICAL_WORLDS[prop.worldKey];
+        activeStateIndex = prop.stateIndex;
+      }
       activeSequenceRemaining = 3;
 
-      scene.visualMode = prop.visualMode;
+      const matchedState = activeWorld.states[activeStateIndex] || activeWorld.states[0];
+
+      scene.visualMode = matchedState.visualMode || prop.visualMode;
       scene.visualProposition = {
-        claim: prop.claim,
+        claim: matchedState.claim || prop.claim,
+        claimType: prop.claimType,
+        epistemicStance: prop.epistemicStance,
         subject: prop.worldKey,
         mechanism: prop.mechanism,
         stakes: prop.stakes,
-        stateIndex: prop.stateIndex,
-        stateTotal: prop.stateTotal,
-        statePhase: prop.statePhase,
+        stateIndex: activeStateIndex,
+        stateTotal: activeWorld.states.length,
+        statePhase: matchedState.phase || prop.statePhase,
       };
 
-      if (isAncient) scene.bg.set = prop.set;
+      if (isAncient) scene.bg.set = activeWorld.set || prop.set;
 
       scene.props = [{
-        type: prop.prop,
+        type: activeWorld.id,
         scale: 1,
         enter: "pop",
         at: 4,
-        arc: prop.visualMode === "transformation" ? "grow" : "none",
-        stateIndex: prop.stateIndex,
-        statePhase: prop.statePhase,
+        arc: scene.visualMode === "transformation" ? "grow" : "none",
+        stateIndex: activeStateIndex,
+        statePhase: matchedState.phase || prop.statePhase,
+        isSecondaryAnchor: false,
       }];
     } else if (activeWorld && activeSequenceRemaining > 0) {
-      // SEQUENCE CONTINUITY WITH SHIFTING VISUAL GRAMMAR (No static freezing!)
+      // SEQUENCE CONTINUITY: Validate narrative support before advancing state
       activeSequenceRemaining--;
-      activeStateIndex = (activeStateIndex + 1) % activeWorld.states.length;
-      const nextState = activeWorld.states[activeStateIndex];
 
-      scene.visualMode = nextState.visualMode;
+      const canAdvance = validateStateProgression(activeWorld, activeStateIndex, activeStateIndex + 1, text);
+      if (canAdvance) {
+        activeStateIndex = activeStateIndex + 1;
+      } else {
+        // Hold current stateIndex! Shift camera angle or composition to prevent visual stagnation without falsifying state
+        if (scene.shot === "illustration") scene.shot = "medium";
+        else if (scene.shot === "medium") scene.shot = "closeUp";
+      }
+
+      // Check for clean termination: Strictly ban wrap-around to 0!
+      if (activeStateIndex >= activeWorld.states.length - 1) {
+        activeSequenceRemaining = 0;
+      }
+
+      const currentState = activeWorld.states[activeStateIndex];
+
+      scene.visualMode = currentState.visualMode;
       scene.visualProposition = {
-        claim: nextState.claim,
+        claim: currentState.claim,
+        claimType: cType,
+        epistemicStance: "affirmed",
         subject: activeWorld.id,
-        mechanism: "sequence_progression",
-        stateIndex: nextState.index,
+        mechanism: extractCausalMechanism(text, cType),
+        stakes: extractStakes(text),
+        stateIndex: currentState.index,
         stateTotal: activeWorld.states.length,
-        statePhase: nextState.phase,
+        statePhase: currentState.phase,
       };
 
       if (isAncient && (scene.bg.set === "none" || forbiddenSets.has(scene.bg.set))) {
         scene.bg.set = activeWorld.set;
       }
 
-      if (nextState.visualMode === "character_drama") {
+      if (currentState.visualMode === "character_drama") {
+        // RETAIN CONCEPTUAL ANCHOR as secondary subject (never erase props to [])
         scene.shot = "medium";
-        scene.props = [];
+        scene.props = [{
+          type: activeWorld.id,
+          scale: 0.72,
+          enter: "fade",
+          at: 0,
+          arc: "none",
+          stateIndex: currentState.index,
+          statePhase: currentState.phase,
+          isSecondaryAnchor: true,
+        }];
       } else {
         scene.props = [{
           type: activeWorld.id,
           scale: 0.92,
           enter: "fade",
-          at: 6,
+          at: 4,
           arc: "none",
-          stateIndex: nextState.index,
-          statePhase: nextState.phase,
+          stateIndex: currentState.index,
+          statePhase: currentState.phase,
+          isSecondaryAnchor: false,
         }];
       }
     } else {
+      // ── NO_VISUAL_OPPORTUNITY (Fallback Reform) ───────────────────────────
+      // When there is no active conceptual allegory, DO NOT inject fake Kallipolis wallpaper!
+      // Instead, generate authentic character performance + classical architectural stage.
       activeWorld = null;
       activeSequenceRemaining = 0;
+
       if (!scene.visualMode || scene.visualMode === "literal") {
         if (scene.characters && scene.characters.length > 0) {
           scene.visualMode = "character_drama";
         } else if (scene.diagram) {
           scene.visualMode = "causal_diagram";
-        } else if (scene.shot === "split" || scene.shot === "beforeAfter") {
+        } else if (scene.shot === "split" || scene.shot === "beforeAfter" || cType === "contrast") {
           scene.visualMode = "comparison_split";
         } else if (scene.bg && scene.bg.set && scene.bg.set !== "none") {
           scene.visualMode = "spatial_state";
@@ -753,16 +1026,25 @@ function enforceSemanticRelevance(config, options = {}) {
           scene.visualMode = "character_drama";
         }
       }
-      if (!scene.visualProposition) {
-        scene.visualProposition = {
-          claim: "Philosophical dialogue and dialectical discourse",
-          subject: "socratic_inquiry",
-          mechanism: extractCausalMechanism(text),
-          stakes: extractStakes(text),
-          stateIndex: 0,
-          stateTotal: 1,
-          statePhase: "discourse",
-        };
+
+      scene.visualProposition = {
+        claim: "Philosophical dialogue and dialectical inquiry",
+        claimType: cType,
+        epistemicStance: extractEpistemicStance(cType, text),
+        subject: "socratic_inquiry",
+        mechanism: extractCausalMechanism(text, cType),
+        stakes: extractStakes(text),
+        stateIndex: 0,
+        stateTotal: 1,
+        statePhase: "discourse",
+      };
+
+      // Clean empty props if no real opportunity (no wallpaper injection)
+      if (Array.isArray(scene.props) && scene.props.length > 0 && !scene.props[0].type.startsWith("custom")) {
+        const pType = scene.props[0].type;
+        if (pType === "kallipolis" && !/\b(kallipolis|ideal city|utopia|city of pigs)\b/i.test(text)) {
+          scene.props = [];
+        }
       }
     }
 
@@ -771,22 +1053,12 @@ function enforceSemanticRelevance(config, options = {}) {
       scene.bg.set = CLASSICAL_SETS[i % CLASSICAL_SETS.length];
     }
 
-    // 3. Sanitize forbidden props — SEMANTIC FALLBACK (Ban meaningless spotlight/shape fillers)
+    // 3. Sanitize forbidden props (Ban modern intrusions & meaningless shape fillers)
     if (Array.isArray(scene.props)) {
-      scene.props = scene.props.map((p) => {
-        if (forbiddenProps.has(p.type) || p.type === "spotlight" || p.type === "shape" || p.type === "orbit") {
-          const fallbackType = activeWorld ? activeWorld.id : (isAncient ? "kallipolis" : "compass");
-          return { ...p, type: fallbackType, stateIndex: activeStateIndex };
-        }
-        return p;
-      });
+      scene.props = scene.props.filter((p) => !forbiddenProps.has(p.type) && p.type !== "spotlight" && p.type !== "shape" && p.type !== "orbit");
     }
 
-    // 4. Calculate Visual Information Gain (VIG)
-    const vigResult = calculateVIG(scene, scene.visualProposition || prop);
-    scene.visualInformationGain = vigResult.vig;
-
-    // 5. Ensure character costume coherence in ancient philosophy
+    // 4. Ensure character costume coherence in ancient philosophy
     if (isAncient && Array.isArray(scene.characters)) {
       for (const char of scene.characters) {
         if (char.variant) {
@@ -800,39 +1072,98 @@ function enforceSemanticRelevance(config, options = {}) {
       }
     }
 
-    // 5b. Stage Occupancy Guarantee: Never leave an empty stage with no foreground subject or anchor
+    // 5. Stage Occupancy Guarantee: Never leave an empty stage with no subject
     if ((!scene.props || scene.props.length === 0) && (!scene.characters || scene.characters.length === 0)) {
-      const fallbackType = activeWorld ? activeWorld.id : (isAncient ? "kallipolis" : "compass");
-      scene.props = [{
-        type: fallbackType,
-        scale: 0.95,
-        enter: "fade",
-        at: 4,
-        arc: "none",
-        stateIndex: activeStateIndex,
+      // Cast character into stage rather than injecting fake prop wallpaper
+      scene.characters = [{
+        role: "narrator",
+        action: "talk",
+        expression: "neutral",
+        scale: 0.9,
       }];
-      if (scene.visualMode === "literal") scene.visualMode = "metaphor";
+      scene.visualMode = "character_drama";
+      if (!scene.shot || scene.shot === "illustration") scene.shot = "medium";
     }
+
+    // 6. Calculate Visual Information Gain (VIG 0–5 Cognitive Scale)
+    const vigResult = calculateVIG(scene, scene.visualProposition || prop);
+    scene.visualInformationGain = vigResult.vig;
+    scene.vigScore = vigResult.vigScore;
+
+    // 7. Generate Scene Director Spec
+    scene.director = generateDirectorSpec(scene, scene.visualProposition, activeWorld);
   }
 
-  // 6. Anti-Stagnation & VIG Floor: Guarantee zero consecutive Low-VIG scenes across video
+  // 8. Anti-Stagnation & VIG 0-5 Floor: Guarantee zero consecutive low-VIG (<= 1) scenes
   let consecutiveLow = 0;
   for (let i = 0; i < config.scenes.length; i++) {
     const sc = config.scenes[i];
-    const vig = calculateVIG(sc, sc.visualProposition).vig;
-    sc.visualInformationGain = vig;
-    if (vig === "low") {
+    const vig = calculateVIG(sc, sc.visualProposition);
+    sc.visualInformationGain = vig.vig;
+    sc.vigScore = vig.vigScore;
+
+    if (vig.vigScore <= 1) {
       consecutiveLow++;
       if (consecutiveLow > 1) {
+        // Proactively elevate the second scene
         sc.visualMode = "character_drama";
+        sc.vigScore = 2;
         sc.visualInformationGain = "medium";
         if (!sc.shot || sc.shot === "illustration") {
           sc.shot = "medium";
+        }
+        if (sc.director) {
+          sc.director.cameraIntent = "intimate philosophical probe";
+          sc.director.motionIntent = "slow push-in";
         }
         consecutiveLow = 0;
       }
     } else {
       consecutiveLow = 0;
+    }
+  }
+
+  // 9. Monotonic State Machine: Guarantee zero state wrap-arounds across adjacent scenes
+  for (let i = 1; i < config.scenes.length; i++) {
+    const prevSc = config.scenes[i - 1];
+    const currSc = config.scenes[i];
+    const prevProp = prevSc.props?.[0];
+    const currProp = currSc.props?.[0];
+    if (prevProp && currProp && prevProp.type === currProp.type) {
+      if (typeof prevProp.stateIndex === "number" && typeof currProp.stateIndex === "number") {
+        if (currProp.stateIndex < prevProp.stateIndex) {
+          currProp.stateIndex = prevProp.stateIndex;
+          currProp.statePhase = prevProp.statePhase;
+          if (currSc.visualProposition) {
+            currSc.visualProposition.stateIndex = prevProp.stateIndex;
+            currSc.visualProposition.statePhase = prevProp.statePhase;
+          }
+        }
+      }
+    }
+  }
+
+  // 10. Anti-Stagnation Coverage: Guarantee no 3 consecutive scenes share identical visual state AND shot
+  const SHOT_ROTATION = ["medium", "closeUp", "overShoulder", "illustration", "twoShot"];
+  for (let i = 2; i < config.scenes.length; i++) {
+    const s0 = config.scenes[i - 2];
+    const s1 = config.scenes[i - 1];
+    const s2 = config.scenes[i];
+
+    const p0 = s0.props?.[0];
+    const p1 = s1.props?.[0];
+    const p2 = s2.props?.[0];
+
+    const sameProp = (p0 && p1 && p2 && p0.type === p1.type && p1.type === p2.type && (p0.stateIndex ?? 0) === (p1.stateIndex ?? 0) && (p1.stateIndex ?? 0) === (p2.stateIndex ?? 0));
+    const noProp = (!p0 && !p1 && !p2);
+
+    if ((sameProp || noProp) && s0.shot === s1.shot && s1.shot === s2.shot) {
+      const currIdx = SHOT_ROTATION.indexOf(s2.shot);
+      const nextShot = SHOT_ROTATION[(currIdx >= 0 ? currIdx + 1 : 1) % SHOT_ROTATION.length];
+      s2.shot = nextShot;
+      if (s2.director) {
+        s2.director.cameraIntent = `dynamic coverage shift to ${nextShot} preventing visual stagnation`;
+      }
     }
   }
 
@@ -843,7 +1174,11 @@ module.exports = {
   PHILOSOPHICAL_WORLDS,
   MODERN_FORBIDDEN_SETS,
   MODERN_FORBIDDEN_PROPS,
+  extractClaimType,
+  extractEpistemicStance,
   extractProposition,
+  validateStateProgression,
+  generateDirectorSpec,
   calculateVIG,
   scoreSemanticRelevance,
   enforceSemanticRelevance,
