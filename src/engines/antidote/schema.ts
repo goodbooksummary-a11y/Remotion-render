@@ -367,6 +367,9 @@ export const propSchema = z.object({
    *  `meta.multiplane` is on; omit to let the shot decide (icon shots → focal,
    *  decorative motifs → set back). */
   depth: z.number().optional(),
+  /** Visual State Machine (Phase 6.2): Step in the concept's progressive transformation */
+  stateIndex: z.number().optional(),
+  statePhase: z.string().optional(),
   /** Dynamic vector paths for custom motifs generated on the fly by AI Art Director */
   customSvg: z.object({
     viewBox: z.string().default("0 0 520 520"),
@@ -548,6 +551,34 @@ export const visualArcSchema = z.object({
 });
 export type VisualArcSpec = z.infer<typeof visualArcSchema>;
 
+// ── PROPOSITIONAL VISUAL GRAMMAR & INFORMATION GAIN (Antidote 6.2) ──────────
+// Elevates the engine from keyword motif matching to proposition-level causality.
+export const visualMode = z.enum([
+  "literal",           // Direct real-world depiction (e.g. Athenian street / assembly)
+  "metaphor",          // Symbolic archetype (e.g. Ring of Gyges on plinth)
+  "causal_diagram",    // Dynamics showing how force A produces result B
+  "spatial_state",     // Living environmental stage progression (e.g. depths of cave -> sun)
+  "character_drama",   // Moral fork / philosophical dialectic between characters
+  "transformation",    // Entity degrading or evolving across states (e.g. regimes crumbling)
+  "comparison_split",  // Competing definitions or moral paths side-by-side
+  "environment_mood",  // Atmosphere and geography carrying the weight
+]);
+export type VisualMode = z.infer<typeof visualMode>;
+
+export const visualInformationGain = z.enum(["high", "medium", "low"]);
+export type VisualInformationGain = z.infer<typeof visualInformationGain>;
+
+export const visualPropositionSchema = z.object({
+  claim: z.string(),                  // The core philosophical assertion
+  subject: z.string().optional(),     // Primary conceptual subject
+  mechanism: z.string().optional(),   // Causal action or dynamic link
+  stakes: z.string().optional(),      // Moral/philosophical friction
+  stateIndex: z.number().optional(),  // Step in visual state machine (0, 1, 2...)
+  stateTotal: z.number().optional(),  // Total steps in state machine
+  statePhase: z.string().optional(),  // Descriptive phase name
+});
+export type VisualPropositionSpec = z.infer<typeof visualPropositionSchema>;
+
 export const attentionTarget = z.enum([
   "character",
   "partner",
@@ -629,6 +660,10 @@ export const sceneSchema = z.object({
   narrative: narrativeSignalsSchema.optional(),
   /** Semantic Visual Alignment: the narrative job this beat performs. */
   visualJob: visualJob.optional(),
+  /** Propositional Visual Grammar (Antidote 6.2): Causal mode and information gain */
+  visualMode: visualMode.optional(),
+  visualInformationGain: visualInformationGain.optional(),
+  visualProposition: visualPropositionSchema.optional(),
   /** Visual Progression: intra-scene transformation from startState to endState. */
   visualArc: visualArcSchema.optional(),
   /** Attention Choreography: ordered sequence of where the viewer's eye should go. */

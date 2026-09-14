@@ -2607,6 +2607,9 @@ const Kallipolis: React.FC<MotifProps> = ({ spec, accent, ink }) => {
 const CaveAllegory: React.FC<MotifProps> = ({ spec, accent, ink }) => {
   const frame = useCurrentFrame();
   const flicker = Math.sin(frame * 0.25) * 6;
+  const state = typeof spec.stateIndex === "number" ? spec.stateIndex : 0;
+  const isAscent = state >= 2;
+  const isPuppetFocus = state === 1;
   return (
     <Frame spec={spec}>
       {/* Cavern Rock Vault */}
@@ -2618,19 +2621,28 @@ const CaveAllegory: React.FC<MotifProps> = ({ spec, accent, ink }) => {
         strokeLinejoin="round"
       />
 
-      {/* Upper Daylight Exit (Right) */}
-      <polygon points="410,40 480,40 480,220 370,160" fill="#FEF08A" opacity={0.85} />
-      <line x1={370} y1={160} x2={220} y2={290} stroke="#FEF08A" strokeWidth={10} strokeDasharray="16 16" opacity={0.6} />
+      {/* Upper Daylight Exit (Right) - Expands dramatically on ascent / knowledge */}
+      <polygon points="410,40 480,40 480,220 370,160" fill="#FEF08A" opacity={isAscent ? 0.95 : 0.4} />
+      <line
+        x1={370}
+        y1={160}
+        x2={isAscent ? 180 : 220}
+        y2={isAscent ? 360 : 290}
+        stroke="#FEF08A"
+        strokeWidth={isAscent ? 22 : 10}
+        strokeDasharray={isAscent ? "none" : "16 16"}
+        opacity={isAscent ? 0.85 : 0.4}
+      />
 
       {/* The Fire on Pedestal (Center-Left) */}
-      <rect x={160} y={260} width={36} height={80} rx={4} fill={ink} />
+      <rect x={160} y={260} width={36} height={80} rx={4} fill={ink} opacity={isPuppetFocus ? 1 : 0.7} />
       <path
         d={`M178,${260 + flicker} Q150,220 178,180 Q210,220 178,${260 + flicker} Z`}
         fill="#EF4444"
         stroke="#F59E0B"
-        strokeWidth={6}
+        strokeWidth={isPuppetFocus ? 8 : 6}
       />
-      <circle cx={178} cy={220} r={14} fill="#FEF08A" />
+      <circle cx={178} cy={220} r={isPuppetFocus ? 18 : 14} fill="#FEF08A" />
 
       {/* Low Puppet Screen / Parapet */}
       <rect x={230} y={290} width={80} height={140} rx={6} fill={accent} stroke={ink} strokeWidth={10} />
@@ -2638,21 +2650,25 @@ const CaveAllegory: React.FC<MotifProps> = ({ spec, accent, ink }) => {
       <line x1={270} y1={290} x2={270} y2={230} stroke={ink} strokeWidth={6} />
       <polygon points="250,230 290,230 270,195" fill={ink} />
 
-      {/* Projected False Shadow on Cave Wall (Far Left) */}
-      <g opacity={0.4 + Math.sin(frame * 0.2) * 0.15}>
+      {/* Projected False Shadow on Cave Wall (Far Left) - Dimmed if prisoner turns away */}
+      <g opacity={isAscent ? 0.15 : 0.45 + Math.sin(frame * 0.2) * 0.15}>
         <polygon points="70,300 110,300 90,265" fill={ink} />
         <ellipse cx={90} cy={340} rx={24} ry={40} fill={ink} />
       </g>
 
-      {/* Chained Prisoner (Bottom-Right, facing left towards shadows) */}
-      <g>
-        <circle cx={360} cy={350} r={18} fill={accent} stroke={ink} strokeWidth={6} />
+      {/* Chained Prisoner / Ascending Seeker (Bottom-Right) */}
+      <g transform={isAscent ? "translate(30, -30) scale(1.05)" : undefined}>
+        <circle cx={360} cy={350} r={18} fill={isAscent ? "#FEF08A" : accent} stroke={ink} strokeWidth={6} />
         <path d="M360,370 L360,430 L340,460" stroke={ink} strokeWidth={10} strokeLinecap="round" strokeLinejoin="round" fill="none" />
-        <path d="M360,390 L340,410" stroke={ink} strokeWidth={8} strokeLinecap="round" />
-        {/* Neck / Leg Chains */}
-        <circle cx={360} cy={372} r={8} fill="none" stroke="#DC2626" strokeWidth={5} />
-        <ellipse cx={345} cy={440} rx={12} ry={6} fill="none" stroke="#DC2626" strokeWidth={5} />
-        <line x1={355} y1={440} x2={430} y2={455} stroke="#DC2626" strokeWidth={5} strokeDasharray="6 6" />
+        <path d={isAscent ? "M360,390 L390,360" : "M360,390 L340,410"} stroke={ink} strokeWidth={8} strokeLinecap="round" />
+        {/* Neck / Leg Chains - Broken if ascending */}
+        {!isAscent && (
+          <>
+            <circle cx={360} cy={372} r={8} fill="none" stroke="#DC2626" strokeWidth={5} />
+            <ellipse cx={345} cy={440} rx={12} ry={6} fill="none" stroke="#DC2626" strokeWidth={5} />
+            <line x1={355} y1={440} x2={430} y2={455} stroke="#DC2626" strokeWidth={5} strokeDasharray="6 6" />
+          </>
+        )}
       </g>
 
       {/* Cave Floor */}
@@ -2751,22 +2767,32 @@ const ShipOfState: React.FC<MotifProps> = ({ spec, accent, ink }) => {
 
 const TripartiteSoul: React.FC<MotifProps> = ({ spec, accent, ink }) => {
   const frame = useCurrentFrame();
-  const spiritLeap = Math.sin(frame * 0.12) * 8;
-  const appetiteStruggle = Math.sin(frame * 0.18) * 10;
+  const state = typeof spec.stateIndex === "number" ? spec.stateIndex : 0;
+  const isAppetiteMutiny = state === 1;
+  const isHarmony = state >= 2;
+  const spiritLeap = Math.sin(frame * 0.12) * (isAppetiteMutiny ? 4 : 8);
+  const appetiteStruggle = Math.sin(frame * (isAppetiteMutiny ? 0.35 : 0.18)) * (isAppetiteMutiny ? 22 : 10);
   return (
     <Frame spec={spec}>
       {/* Triangular Balance Structure */}
-      <polygon points="260,70 80,400 440,400" fill="none" stroke={ink} strokeWidth={8} strokeDasharray="12 8" opacity={0.3} />
+      <polygon
+        points="260,70 80,400 440,400"
+        fill={isHarmony ? "rgba(253, 224, 71, 0.08)" : "none"}
+        stroke={isHarmony ? "#F59E0B" : ink}
+        strokeWidth={isHarmony ? 10 : 8}
+        strokeDasharray={isHarmony ? "none" : "12 8"}
+        opacity={isHarmony ? 0.8 : 0.3}
+      />
 
       {/* TOP: REASON (Logistikon / Golden Charioteer / Wisdom) */}
       <g>
-        <circle cx={260} cy={95} r={46} fill="#FDE047" stroke={ink} strokeWidth={10} />
+        <circle cx={260} cy={95} r={46} fill={isHarmony ? "#FDE047" : "#FEF08A"} stroke={ink} strokeWidth={10} />
         {/* Golden Laurel Crown */}
         <path d="M230,85 Q260,60 290,85" fill="none" stroke="#D97706" strokeWidth={8} strokeLinecap="round" />
         <circle cx={260} cy={95} r={16} fill={accent} />
-        {/* Reins running down to horses */}
-        <path d="M240,125 Q170,200 130,280" fill="none" stroke="#D97706" strokeWidth={7} strokeDasharray="8 6" />
-        <path d="M280,125 Q350,200 390,280" fill="none" stroke="#D97706" strokeWidth={7} strokeDasharray="8 6" />
+        {/* Reins running down to horses - Strained red under appetite mutiny */}
+        <path d="M240,125 Q170,200 130,280" fill="none" stroke={isAppetiteMutiny ? "#DC2626" : "#D97706"} strokeWidth={isAppetiteMutiny ? 9 : 7} strokeDasharray="8 6" />
+        <path d="M280,125 Q350,200 390,280" fill="none" stroke={isAppetiteMutiny ? "#DC2626" : "#D97706"} strokeWidth={isAppetiteMutiny ? 9 : 7} strokeDasharray="8 6" />
       </g>
 
       {/* LEFT: SPIRIT (Thumos / White Noble Steed / Courage & Honor) */}
@@ -2781,13 +2807,13 @@ const TripartiteSoul: React.FC<MotifProps> = ({ spec, accent, ink }) => {
       </g>
 
       {/* RIGHT: APPETITE (Epithumia / Dark Wild Beast / Desire & Greed) */}
-      <g transform={`translate(0, ${appetiteStruggle})`}>
-        <rect x={320} y={260} width={130} height={140} rx={24} fill="#1E293B" stroke={ink} strokeWidth={10} />
+      <g transform={`translate(0, ${appetiteStruggle}) scale(${isAppetiteMutiny ? 1.12 : 1}) translate(${isAppetiteMutiny ? -20 : 0}, 0)`}>
+        <rect x={320} y={260} width={130} height={140} rx={24} fill={isAppetiteMutiny ? "#7F1D1D" : "#1E293B"} stroke={ink} strokeWidth={10} />
         {/* Beast horns / snarling maw */}
         <path d="M430,360 L430,300 Q400,250 360,280 L345,310 L370,330 L355,360 Z" fill="#DC2626" stroke={ink} strokeWidth={6} />
         <circle cx={375} cy={295} r={7} fill="#FEF08A" />
         {/* Restraining collar */}
-        <ellipse cx={385} cy={335} rx={26} ry={12} fill="none" stroke="#F59E0B" strokeWidth={6} />
+        <ellipse cx={385} cy={335} rx={26} ry={12} fill="none" stroke={isAppetiteMutiny ? "#DC2626" : "#F59E0B"} strokeWidth={isAppetiteMutiny ? 8 : 6} />
         <text x={385} y={387} textAnchor="middle" fontSize={16} fontWeight={900} fill="#DC2626">DESIRE</text>
       </g>
 
@@ -2801,10 +2827,13 @@ const TripartiteSoul: React.FC<MotifProps> = ({ spec, accent, ink }) => {
 const RingOfGyges: React.FC<MotifProps> = ({ spec, accent, ink }) => {
   const frame = useCurrentFrame();
   const shimmer = Math.sin(frame * 0.1) * 0.3 + 0.7;
+  const state = typeof spec.stateIndex === "number" ? spec.stateIndex : 0;
+  const isInvisible = state === 1;
+  const isMoralFork = state >= 2;
   return (
     <Frame spec={spec}>
       {/* Shimmering Invisibility Aura */}
-      <circle cx={260} cy={240} r={170} fill="none" stroke="#FDE047" strokeWidth={4} strokeDasharray="14 14" opacity={shimmer * 0.6} />
+      <circle cx={260} cy={240} r={170} fill="none" stroke="#FDE047" strokeWidth={isInvisible ? 8 : 4} strokeDasharray="14 14" opacity={shimmer * (isInvisible ? 0.9 : 0.6)} />
 
       {/* Massive Golden Ring Band */}
       <ellipse cx={260} cy={260} rx={140} ry={110} fill="none" stroke="#D97706" strokeWidth={32} />
@@ -2812,7 +2841,7 @@ const RingOfGyges: React.FC<MotifProps> = ({ spec, accent, ink }) => {
       <ellipse cx={260} cy={260} rx={140} ry={110} fill="none" stroke={ink} strokeWidth={8} />
 
       {/* Inward-turned Collet & Gem (The device of invisibility) */}
-      <g transform="rotate(-20 260 160)">
+      <g transform={`rotate(${isInvisible ? -55 : -20} 260 160)`}>
         <polygon points="220,170 300,170 320,120 200,120" fill={accent} stroke={ink} strokeWidth={10} strokeLinejoin="round" />
         <polygon points="230,120 290,120 310,75 210,75" fill="#7C3AED" stroke={ink} strokeWidth={10} strokeLinejoin="round" />
         {/* Mystic Eye of Gyges in Gem */}
@@ -2822,8 +2851,8 @@ const RingOfGyges: React.FC<MotifProps> = ({ spec, accent, ink }) => {
 
       {/* The Disappearing / Invisible Human Figure */}
       <g transform="translate(230, 200)">
-        {/* Left half: Solid visible man */}
-        <path d="M30,0 A20,20 0 0,0 10,20 L10,70 L25,70 L25,120 L30,120 Z" fill={ink} />
+        {/* Left half: Solid visible man (almost gone if invisible) */}
+        <path d="M30,0 A20,20 0 0,0 10,20 L10,70 L25,70 L25,120 L30,120 Z" fill={ink} opacity={isInvisible ? 0.15 : 1} />
         {/* Right half: Vanishing dotted ghost silhouette */}
         <path
           d="M30,0 A20,20 0 0,1 50,20 L50,70 L35,70 L35,120 L30,120 Z"
@@ -2831,16 +2860,16 @@ const RingOfGyges: React.FC<MotifProps> = ({ spec, accent, ink }) => {
           stroke={accent}
           strokeWidth={5}
           strokeDasharray="6 6"
-          opacity={shimmer}
+          opacity={isInvisible ? 0.35 : shimmer}
         />
       </g>
 
-      {/* Broken Scales of Justice beneath */}
+      {/* Moral Fork: Broken Scales of Justice beneath */}
       <line x1={150} y1={440} x2={370} y2={440} stroke={ink} strokeWidth={8} strokeLinecap="round" />
       <path d="M190,440 L160,400 M210,440 L240,400" stroke={ink} strokeWidth={4} />
       <path d="M160,400 Q200,420 240,400 Z" fill="#EF4444" stroke={ink} strokeWidth={6} />
       <path d="M310,440 L340,455 M330,440 L360,455" stroke={ink} strokeWidth={4} />
-      <path d="M320,460 Q340,480 360,460 Z" fill="#94A3B8" stroke={ink} strokeWidth={5} />
+      <path d="M320,460 Q340,480 360,460 Z" fill={isMoralFork ? "#FDE047" : "#94A3B8"} stroke={ink} strokeWidth={5} />
     </Frame>
   );
 };
@@ -2898,7 +2927,8 @@ const ThirtyTyrants: React.FC<MotifProps> = ({ spec, accent, ink }) => {
 
 const FiveRegimes: React.FC<MotifProps> = ({ spec, accent, ink }) => {
   const frame = useCurrentFrame();
-  const stepActive = Math.floor((frame / 20) % 5);
+  const state = typeof spec.stateIndex === "number" ? Math.min(4, Math.max(0, spec.stateIndex)) : Math.floor((frame / 20) % 5);
+  const stepActive = state;
   return (
     <Frame spec={spec}>
       {/* Stepped Downward Descent: Aristocracy -> Timocracy -> Oligarchy -> Democracy -> Tyranny */}

@@ -1,0 +1,217 @@
+#!/usr/bin/env node
+/**
+ * audit-visual-critic.js — Antidote God Mode: Blind Visual Critic Auditor (Phase 11)
+ *
+ * Implements P3: Evaluates the book's scenes against the 5 Blind Questions:
+ *   1. Viewer Understanding: What does the viewer understand from this frame alone?
+ *   2. Causal Visibility: Is the core causal claim visible, or just a decorative backdrop?
+ *   3. Visual Noise: What is visual noise / decorative filler that distracts from the core claim?
+ *   4. Visual Information Gain (VIG): Score (High, Medium, Low) and rationale.
+ *   5. Information Beyond Audio: Does the shot communicate relationships the ear cannot grasp from audio alone?
+ *
+ * Usage:
+ *   node scripts/audit-visual-critic.js --slug=<slug> [--sample=12] [--render-stills] [--use-llm] [--report]
+ */
+
+const fs = require("fs");
+const path = require("path");
+const { execSync } = require("child_process");
+const { abs } = require("./lib/paths");
+const { evaluateScene } = require("./lib/visual-critic");
+
+const args = Object.fromEntries(
+  process.argv.slice(2).map((a) => {
+    const m = a.match(/^--([^=]+)=(.*)$/);
+    return m ? [m[1], m[2]] : [a.replace(/^--/, ""), true];
+  })
+);
+
+const SLUG = args.slug;
+if (!SLUG) {
+  console.error("Error: --slug=<slug> is required");
+  process.exit(1);
+}
+
+const SAMPLE_SIZE = args.all ? Infinity : parseInt(args.sample || "14", 10);
+const RENDER_STILLS = !!args["render-stills"];
+const USE_LLM = !!args["use-llm"];
+const WRITE_REPORT = args.report !== false;
+
+async function runVisualCriticAudit() {
+  const cfgPath = abs.antidoteConfig(SLUG);
+  if (!fs.existsSync(cfgPath)) {
+    console.error(`Error: Config not found at ${cfgPath}`);
+    process.exit(1);
+  }
+
+  const config = JSON.parse(fs.readFileSync(cfgPath, "utf8"));
+  const scenes = config.scenes || [];
+  if (scenes.length === 0) {
+    console.error("Error: No scenes found in config");
+    process.exit(1);
+  }
+
+  // Select representative scenes
+  let selectedScenes = [];
+  if (SAMPLE_SIZE >= scenes.length) {
+    selectedScenes = scenes.map((s, i) => ({ scene: s, index: i }));
+  } else {
+    // Pick evenly spaced scenes plus scenes with unique props / state machines
+    const step = Math.max(1, Math.floor(scenes.length / SAMPLE_SIZE));
+    const seenIndices = new Set();
+
+    // 1. Every chapter boundary
+    scenes.forEach((s, i) => {
+      if (s.chapterCard || i === 0) {
+        seenIndices.add(i);
+      }
+    });
+
+    // 2. High-value concept scenes
+    scenes.forEach((s, i) => {
+      const p = s.props?.[0];
+      if (p && p.stateIndex !== undefined && !seenIndices.has(i)) {
+        if (seenIndices.size < SAMPLE_SIZE) seenIndices.add(i);
+      }
+    });
+
+    // 3. Spaced distribution
+    for (let i = 0; i < scenes.length && seenIndices.size < SAMPLE_SIZE; i += step) {
+      seenIndices.add(i);
+    }
+
+    const sortedIndices = Array.from(seenIndices).sort((a, b) => a - b).slice(0, SAMPLE_SIZE);
+    selectedScenes = sortedIndices.map((i) => ({ scene: scenes[i], index: i }));
+  }
+
+  console.log(`\n╔════════════════════════════════════════════════════════════════╗`);
+  console.log(`║  ANTIDOTE GOD MODE: BLIND VISUAL CRITIC AUDIT                  ║`);
+  console.log(`║  ${SLUG.padEnd(60)}  ║`);
+  console.log(`╠════════════════════════════════════════════════════════════════╣`);
+  console.log(`  Evaluating ${selectedScenes.length} scenes (out of ${scenes.length} total)`);
+  console.log(`  Render Stills: ${RENDER_STILLS ? "ENABLED" : "DISABLED (using structural frame analysis)"}`);
+  console.log(`  Evaluator:     ${USE_LLM ? "Vision LLM (with heuristic fallback)" : "Blind Semantic Heuristic Engine"}`);
+  console.log(`╚════════════════════════════════════════════════════════════════╝\n`);
+
+  const results = [];
+  const stillsDir = path.resolve(__dirname, `../public/scenes/${SLUG}`);
+  if (RENDER_STILLS && !fs.existsSync(stillsDir)) {
+    fs.mkdirSync(stillsDir, { recursive: true });
+  }
+
+  for (const { scene, index } of selectedScenes) {
+    let imagePath = null;
+    if (RENDER_STILLS) {
+      const frameNum = scene.fromFrame + Math.floor(scene.durationFrames / 2);
+      imagePath = path.join(stillsDir, `frame-${String(index).padStart(3, "0")}.png`);
+      if (!fs.existsSync(imagePath)) {
+        process.stdout.write(`  [STILL] Rendering scene ${index} at frame ${frameNum}... `);
+        try {
+          execSync(
+            `npx remotion still Antidote-${SLUG} ${imagePath} --frame=${frameNum} --puppeteer-timeout=60000 --log=warn`,
+            { stdio: "ignore" }
+          );
+          console.log("✓");
+        } catch (_) {
+          console.log("✗ (skipped)");
+          imagePath = null;
+        }
+      }
+    }
+
+    const evalResult = await evaluateScene(scene, scene._narration, {
+      imagePath,
+      useLLM: USE_LLM,
+    });
+
+    results.push({
+      index,
+      sceneId: scene.id,
+      fromFrame: scene.fromFrame,
+      durationFrames: scene.durationFrames,
+      shot: scene.shot,
+      set: scene.bg?.set || "none",
+      prop: scene.props?.[0]?.type || "none",
+      stateIndex: scene.props?.[0]?.stateIndex,
+      statePhase: scene.props?.[0]?.statePhase,
+      narration: (scene._narration || "").trim(),
+      evaluation: evalResult,
+    });
+  }
+
+  // Aggregate metrics
+  const vigCounts = { high: 0, medium: 0, low: 0 };
+  let causalVisibleCount = 0;
+  let noiseCount = 0;
+  let beyondAudioCount = 0;
+  const verdicts = { pass: 0, warn: 0, fail: 0 };
+
+  for (const r of results) {
+    const ev = r.evaluation;
+    vigCounts[ev.vig] = (vigCounts[ev.vig] || 0) + 1;
+    if (ev.causalClaimVisible) causalVisibleCount++;
+    if (ev.visualNoise && ev.visualNoise !== "none") noiseCount++;
+    if (ev.addsInformationBeyondAudio) beyondAudioCount++;
+    verdicts[ev.verdict] = (verdicts[ev.verdict] || 0) + 1;
+  }
+
+  const causalRate = Math.round((causalVisibleCount / results.length) * 100);
+  const beyondAudioRate = Math.round((beyondAudioCount / results.length) * 100);
+  const highVigRate = Math.round((vigCounts.high / results.length) * 100);
+  const medVigRate = Math.round((vigCounts.medium / results.length) * 100);
+  const lowVigRate = Math.round((vigCounts.low / results.length) * 100);
+
+  console.log(`\n── Aggregate Blind Critic Metrics ────────────────────────────────`);
+  console.log(`  Causal Claim Visibility:       ${String(causalRate).padStart(3)}% (${causalVisibleCount}/${results.length})`);
+  console.log(`  Information Beyond Audio:      ${String(beyondAudioRate).padStart(3)}% (${beyondAudioCount}/${results.length})`);
+  console.log(`  Visual Information Gain (VIG): High: ${vigCounts.high} (${highVigRate}%) | Med: ${vigCounts.medium} (${medVigRate}%) | Low: ${vigCounts.low} (${lowVigRate}%)`);
+  console.log(`  Visual Noise / Filler Detections: ${noiseCount} scenes`);
+  console.log(`  Verdicts:                      Pass: ${verdicts.pass} | Warn: ${verdicts.warn} | Fail: ${verdicts.fail}`);
+
+  console.log(`\n── Key Scene Deep-Dive (5 Blind Questions) ───────────────────────`);
+  const samplePrint = results.slice(0, 6);
+  for (const r of samplePrint) {
+    const ev = r.evaluation;
+    const propInfo = r.prop !== "none" ? ` | Prop: ${r.prop} [state ${r.stateIndex ?? 0}]` : "";
+    console.log(`\n  ▸ Scene #${r.index} [${r.sceneId}] (${r.shot} in ${r.set}${propInfo}) [${ev.verdict.toUpperCase()}]`);
+    console.log(`    Narration: "${r.narration.slice(0, 90)}${r.narration.length > 90 ? "..." : ""}"`);
+    console.log(`    [Q1] Understanding:   ${ev.viewerUnderstanding}`);
+    console.log(`    [Q2] Causal Visible:  ${ev.causalClaimVisible ? "YES" : "NO"} — ${ev.causalVisibilityExplanation}`);
+    console.log(`    [Q3] Visual Noise:    ${ev.visualNoise}`);
+    console.log(`    [Q4] VIG Level:       ${ev.vig.toUpperCase()} — ${ev.vigReason}`);
+    console.log(`    [Q5] Beyond Audio:    ${ev.addsInformationBeyondAudio ? "YES (deepens conceptual grasp)" : "NO"}`);
+    if (ev.recommendation && ev.verdict !== "pass") {
+      console.log(`    [REC]                 ${ev.recommendation}`);
+    }
+  }
+
+  // Write report
+  if (WRITE_REPORT) {
+    const reportPath = path.resolve(__dirname, `../books/${SLUG}/visual-critic-report.json`);
+    const reportData = {
+      slug: SLUG,
+      evaluatedAt: new Date().toISOString(),
+      sampleSize: results.length,
+      totalScenes: scenes.length,
+      metrics: {
+        causalVisibilityRate: causalRate,
+        informationBeyondAudioRate: beyondAudioRate,
+        vigDistribution: { high: vigCounts.high, medium: vigCounts.medium, low: vigCounts.low },
+        verdicts,
+        visualNoiseCount: noiseCount,
+      },
+      results,
+    };
+    fs.writeFileSync(reportPath, JSON.stringify(reportData, null, 2), "utf8");
+    console.log(`\n  Saved comprehensive report to books/${SLUG}/visual-critic-report.json`);
+  }
+
+  const passed = verdicts.fail === 0 && lowVigRate <= 5 && causalRate >= 80;
+  console.log(`\n  Final Blind Critic Verdict: [${passed ? "✓ PASS" : "✗ DEFICIT"}]`);
+  if (!passed) process.exit(1);
+}
+
+runVisualCriticAudit().catch((err) => {
+  console.error("Critic Audit Error:", err);
+  process.exit(1);
+});

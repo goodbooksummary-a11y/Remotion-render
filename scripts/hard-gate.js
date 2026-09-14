@@ -5,7 +5,7 @@
  * Enforces the 8 Non-Negotiable Golden Rules before any render or worker dispatch.
  * Blocks video export if any retention violation exists.
  *
- * The 8 Golden Gates:
+ * The Non-Negotiable Hard Gates:
  *   [GATE 1] Narrative Health: 0 explanation streaks (>2) & 0 escalation droughts (>28s).
  *   [GATE 2] Promise Integrity: 0 unresolved promises & 0 orphan payoffs.
  *   [GATE 3] Visual Freshness: 0 stagnation streaks (3 consecutive identical visual states).
@@ -14,6 +14,10 @@
  *   [GATE 6] Cognitive Compression: Character clears stage for diagram hero.
  *   [GATE 7] Audio Punctuation: 100% payoffs have DING chime & 100% chapters have THUD hit.
  *   [GATE 8] Master Retention: Composite Holistic Retention Score >= 85.
+ *   [GATE 9] Visual Contract Compliance: 0 forbidden motifs, characters preserved.
+ *   [GATE 10A] World & Historical Integrity: 0 anachronisms (sets, props, attire).
+ *   [GATE 10B] Propositional & Causal Integrity: Visuals embody philosophical claim & causal mechanism.
+ *   [GATE 11] Visual Information Gain & Anti-Stagnation Floor: 0 consecutive low-VIG scenes & active state progression.
  *
  * Usage:
  *   node scripts/hard-gate.js --slug=<slug> [--auto-fix]
@@ -105,31 +109,101 @@ function evaluateGates(slug, autoFix = false) {
     } catch (_) {}
   }
 
-  // Evaluate Semantic Relevance & Era Integrity (Gate 10)
+  // Evaluate Semantic Relevance, Era Integrity, Proposition Integrity & VIG (Gate 10A, 10B, 11)
   const isAncient = /philosophy|ancient|classical|history|classics|stoic|greek|roman/.test(String(config.meta?.genre || "").toLowerCase()) ||
     /plato|socrates|aristotle|marcus aurelius|seneca|epictetus/.test(String(config.meta?.author || "").toLowerCase());
 
-  let relevanceViolations = [];
-  for (const sc of config.scenes || []) {
-    const res = scoreSemanticRelevance(sc, sc._narration, { isAncient });
-    if (!res.isPass) {
-      relevanceViolations.push({
-        sceneId: sc.id,
-        score: res.score,
-        reasons: res.reasons,
-      });
+  let worldViolations = [];
+  let propositionViolations = [];
+  let vigViolations = [];
+
+  function evaluateSemanticAndVigGates(cfg) {
+    worldViolations = [];
+    propositionViolations = [];
+    vigViolations = [];
+
+    const scenes = cfg.scenes || [];
+    let consecutiveLowVig = 0;
+
+    for (let i = 0; i < scenes.length; i++) {
+      const sc = scenes[i];
+      const res = scoreSemanticRelevance(sc, sc._narration, { isAncient });
+
+      // Gate 10A: World & Historical Integrity (0 Anachronisms)
+      if (res.worldScore < 8) {
+        worldViolations.push({
+          sceneId: sc.id,
+          index: i,
+          rule: "Gate 10A: World & Era Integrity",
+          reasons: res.reasons.filter((r) => r.includes("Gate 10A")),
+        });
+      }
+
+      // Gate 10B: Propositional & Causal Integrity
+      if (res.semanticScore < 7) {
+        propositionViolations.push({
+          sceneId: sc.id,
+          index: i,
+          rule: "Gate 10B: Propositional Integrity",
+          reasons: res.reasons.filter((r) => r.includes("Gate 10B")),
+        });
+      }
+
+      // Gate 11: Visual Information Gain (VIG) & Anti-Stagnation Floor
+      const vig = sc.visualInformationGain || res.vig || "low";
+      if (vig === "low") {
+        consecutiveLowVig++;
+        if (consecutiveLowVig > 1) {
+          vigViolations.push({
+            sceneId: sc.id,
+            index: i,
+            rule: "Gate 11: Consecutive Low VIG",
+            message: `Consecutive low Visual Information Gain at scene ${sc.id} (index ${i})`,
+          });
+        }
+      } else {
+        consecutiveLowVig = 0;
+      }
+
+      // Anti-stagnation: Static motif repetition without state progression or camera shift
+      if (i >= 2) {
+        const p0 = scenes[i - 2].props?.[0];
+        const p1 = scenes[i - 1].props?.[0];
+        const p2 = sc.props?.[0];
+        if (
+          p0 && p1 && p2 &&
+          p0.type === p1.type && p1.type === p2.type &&
+          (p0.stateIndex ?? 0) === (p1.stateIndex ?? 0) &&
+          (p1.stateIndex ?? 0) === (p2.stateIndex ?? 0) &&
+          scenes[i - 2].shot === scenes[i - 1].shot &&
+          scenes[i - 1].shot === sc.shot
+        ) {
+          vigViolations.push({
+            sceneId: sc.id,
+            index: i,
+            rule: "Gate 11: Static Visual Stagnation",
+            message: `Static motif "${p2.type}" frozen across beats ${i - 2}..${i} without state progression or shot variation`,
+          });
+        }
+      }
     }
   }
 
-  if (autoFix && relevanceViolations.length > 0) {
+  evaluateSemanticAndVigGates(config);
+
+  if (autoFix && (worldViolations.length > 0 || propositionViolations.length > 0 || vigViolations.length > 0)) {
+    console.log(`  [AUTO-FIX] Enforcing Semantic Relevance, State Machines & VIG Floor for ${slug}...`);
     config = enforceSemanticRelevance(config, { isAncient });
     fs.writeFileSync(p, JSON.stringify(config, null, 2), "utf8");
-    console.log(`  [AUTO-FIX] Repaired ${relevanceViolations.length} scenes for semantic relevance & era integrity.`);
-    relevanceViolations = [];
+    evaluateSemanticAndVigGates(config);
+    console.log(`  [AUTO-FIX] Repaired: 10A violations: ${worldViolations.length}, 10B violations: ${propositionViolations.length}, 11 violations: ${vigViolations.length}`);
   }
-  const relevancePassed = relevanceViolations.length === 0;
 
-  // Evaluate the 10 Hard Gates
+  const worldPassed = worldViolations.length === 0;
+  const propositionPassed = propositionViolations.length === 0;
+  const vigPassed = vigViolations.length === 0;
+
+  // Evaluate the Hard Gates
   const gateChecks = [
     {
       gate: 1,
@@ -188,12 +262,28 @@ function evaluateGates(slug, autoFix = false) {
         : `${contractViolations.length} visual contract violations detected`,
     },
     {
-      gate: 10,
-      name: "Semantic Relevance & Era Integrity (0 Anachronisms)",
-      passed: relevancePassed,
-      detail: relevancePassed
-        ? "100% scenes semantically relevant and compliant with historical era"
-        : `${relevanceViolations.length} semantic relevance or anachronism violations detected`,
+      gate: "10A",
+      name: "World & Era Integrity (0 Anachronisms)",
+      passed: worldPassed,
+      detail: worldPassed
+        ? "100% scenes historically and environmentally coherent (0 modern intrusions)"
+        : `${worldViolations.length} era integrity / anachronism violations detected`,
+    },
+    {
+      gate: "10B",
+      name: "Propositional & Causal Integrity",
+      passed: propositionPassed,
+      detail: propositionPassed
+        ? "100% scenes visually embody philosophical claim & causal mechanism"
+        : `${propositionViolations.length} proposition / causal dissonance violations detected`,
+    },
+    {
+      gate: 11,
+      name: "Visual Information Gain & Dynamic Progression",
+      passed: vigPassed,
+      detail: vigPassed
+        ? "Zero consecutive low-VIG scenes & active state-machine progression"
+        : `${vigViolations.length} VIG deficits or static freezing violations detected`,
     },
   ];
 
@@ -205,7 +295,13 @@ function evaluateGates(slug, autoFix = false) {
     score: audit.score,
     grade: audit.grade,
     gateChecks,
-    violations: [...(audit.allViolations || []), ...contractViolations, ...relevanceViolations],
+    violations: [
+      ...(audit.allViolations || []),
+      ...contractViolations,
+      ...worldViolations,
+      ...propositionViolations,
+      ...vigViolations,
+    ],
   };
 }
 
