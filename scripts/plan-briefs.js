@@ -204,7 +204,13 @@ function deriveBriefs(cfg, bible) {
     // where
     const placeHit = PLACE_WORDS.find(([re]) => re.test(said));
     let place = placeHit ? placeHit[1] : (concept ? CONCEPT_SET[concept] : null);
-    if (place && biblePlaces.size && !biblePlaces.has(place) && !placeHit) place = null;
+    // A book's geography is the bible's claim, and it governs even a direct
+    // mention. `placeHit` used to be exempt, which is how three scenes of a
+    // parable set in ancient India ended up in a bedroom, a classroom and on a
+    // highway: one loose noun in the narration outranked the whole book. If the
+    // narration really does name a place the bible missed, the fix is to add it
+    // to the bible — that file is authored and regenerable; the film is not.
+    if (place && biblePlaces.size && !biblePlaces.has(place)) place = null;
 
     // how sure are we
     let confidence = 0.3;

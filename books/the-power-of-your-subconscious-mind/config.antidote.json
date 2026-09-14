@@ -211,7 +211,7 @@
       ],
       "props": [
         {
-          "type": "shadowSelf",
+          "type": "spotlight",
           "scale": 1,
           "enter": "pop",
           "color": "#3A4CB2",
@@ -236,8 +236,7 @@
           "enter": "pop",
           "at": 0
         }
-      ],
-      "_subject": "shadowSelf"
+      ]
     },
     {
       "id": "scene-01",
@@ -525,8 +524,7 @@
           "enter": "pop",
           "at": 173
         }
-      ],
-      "_subject": "shadowSelf"
+      ]
     },
     {
       "id": "scene-05",
@@ -659,7 +657,7 @@
       ],
       "props": [
         {
-          "type": "shadowSelf",
+          "type": "shape",
           "scale": 1,
           "enter": "pop",
           "color": "#3A4CB2",
@@ -668,8 +666,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "shadowSelf"
+      "texts": []
     },
     {
       "id": "scene-07",
@@ -1492,8 +1489,7 @@
           "color2": "#131B24"
         }
       ],
-      "texts": [],
-      "_subject": "shadowSelf"
+      "texts": []
     },
     {
       "id": "scene-19",
@@ -1919,7 +1915,7 @@
       ],
       "props": [
         {
-          "type": "gift",
+          "type": "shape",
           "scale": 1,
           "enter": "pop",
           "color": "#3A4CB2",
@@ -1937,8 +1933,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "gift"
+      "texts": []
     },
     {
       "id": "scene-25",
@@ -1993,15 +1988,7 @@
           "action": "talk"
         }
       ],
-      "props": [
-        {
-          "type": "storm",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "RAIN SLICK BRIDGE",
@@ -2011,8 +1998,7 @@
           "enter": "pop",
           "at": 143
         }
-      ],
-      "_subject": "storm"
+      ]
     },
     {
       "id": "scene-26",
@@ -2081,8 +2067,7 @@
           "color2": "#131B24"
         }
       ],
-      "texts": [],
-      "_subject": "storm"
+      "texts": []
     },
     {
       "id": "scene-27",
@@ -2138,7 +2123,7 @@
       ],
       "props": [
         {
-          "type": "storm",
+          "type": "ripple",
           "scale": 1,
           "enter": "pop",
           "color": "#3A4CB2",
@@ -2147,8 +2132,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "storm"
+      "texts": []
     },
     {
       "id": "scene-28",
@@ -2203,15 +2187,7 @@
           "action": "talk"
         }
       ],
-      "props": [
-        {
-          "type": "shadowSelf",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "ENGINE ROOM",
@@ -2221,8 +2197,7 @@
           "enter": "pop",
           "at": 145
         }
-      ],
-      "_subject": "shadowSelf"
+      ]
     },
     {
       "id": "scene-29",
@@ -2287,8 +2262,7 @@
           "color2": "#131B24"
         }
       ],
-      "texts": [],
-      "_subject": "storm"
+      "texts": []
     },
     {
       "id": "scene-30",
@@ -2421,8 +2395,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "shadowSelf"
+      "texts": []
     },
     {
       "id": "scene-32",
@@ -2697,8 +2670,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "Murphy"
+      "texts": []
     },
     {
       "id": "scene-36",
@@ -2887,15 +2859,7 @@
           "action": "point"
         }
       ],
-      "props": [
-        {
-          "type": "coin",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "LOOK AT THE PRICE",
@@ -2905,8 +2869,7 @@
           "enter": "pop",
           "at": 157
         }
-      ],
-      "_subject": "coin"
+      ]
     },
     {
       "id": "scene-39",
@@ -3027,8 +2990,7 @@
           "color2": "#131B24"
         }
       ],
-      "texts": [],
-      "_subject": "coin"
+      "texts": []
     },
     {
       "id": "scene-41",
@@ -3443,8 +3405,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "Murphy"
+      "texts": []
     },
     {
       "id": "scene-47",
@@ -3720,8 +3681,7 @@
           "color2": "#131B24"
         }
       ],
-      "texts": [],
-      "_subject": "shadowSelf"
+      "texts": []
     },
     {
       "id": "scene-51",
@@ -3836,15 +3796,7 @@
           "action": "think"
         }
       ],
-      "props": [
-        {
-          "type": "war",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "WENT TO WAR",
@@ -3854,8 +3806,7 @@
           "enter": "pop",
           "at": 166
         }
-      ],
-      "_subject": "war"
+      ]
     },
     {
       "id": "scene-53",
@@ -4113,7 +4064,7 @@
       "characters": [],
       "props": [
         {
-          "type": "shadowSelf",
+          "type": "orbit",
           "scale": 1,
           "enter": "pop",
           "color": "#3A4CB2",
@@ -4122,8 +4073,7 @@
           "at": 0
         }
       ],
-      "texts": [],
-      "_subject": "shadowSelf"
+      "texts": []
     },
     {
       "id": "scene-57",
@@ -4265,8 +4215,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "shield"
+      "texts": []
     },
     {
       "id": "scene-59",
@@ -4340,8 +4289,7 @@
           "enter": "pop",
           "at": 116
         }
-      ],
-      "_subject": "work"
+      ]
     },
     {
       "id": "scene-60",
@@ -4471,7 +4419,7 @@
       ],
       "props": [
         {
-          "type": "shield",
+          "type": "maze",
           "scale": 0.6,
           "enter": "fade",
           "color": "#3A4CB2",
@@ -4489,8 +4437,7 @@
           "enter": "pop",
           "at": 27
         }
-      ],
-      "_subject": "shield"
+      ]
     },
     {
       "id": "scene-62",
@@ -4625,7 +4572,7 @@
       ],
       "props": [
         {
-          "type": "shadowSelf",
+          "type": "orbit",
           "scale": 1,
           "enter": "pop",
           "color": "#3A4CB2",
@@ -4643,8 +4590,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "shadowSelf"
+      "texts": []
     },
     {
       "id": "scene-64",
@@ -5140,8 +5086,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "Murphy"
+      "texts": []
     },
     {
       "id": "scene-71",
@@ -5297,8 +5242,7 @@
           "enter": "pop",
           "at": 78
         }
-      ],
-      "_subject": "shadowSelf"
+      ]
     },
     {
       "id": "scene-73",
@@ -5497,8 +5441,7 @@
           "enter": "pop",
           "at": 0
         }
-      ],
-      "_subject": "Murphy"
+      ]
     },
     {
       "id": "scene-76",
@@ -5572,8 +5515,7 @@
           "enter": "pop",
           "at": 138
         }
-      ],
-      "_subject": "home"
+      ]
     },
     {
       "id": "scene-77",
@@ -5965,7 +5907,7 @@
       ],
       "props": [
         {
-          "type": "shadowSelf",
+          "type": "maze",
           "scale": 1,
           "enter": "pop",
           "color": "#3A4CB2",
@@ -5983,8 +5925,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "shadowSelf"
+      "texts": []
     },
     {
       "id": "scene-83",
@@ -6266,8 +6207,7 @@
           "enter": "pop",
           "at": 138
         }
-      ],
-      "_subject": "war"
+      ]
     },
     {
       "id": "scene-87",
@@ -6471,8 +6411,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "war"
+      "texts": []
     },
     {
       "id": "scene-90",
@@ -6676,7 +6615,7 @@
           "at": 12
         },
         {
-          "type": "war",
+          "type": "maze",
           "scale": 0.6,
           "enter": "fade",
           "color": "#3A4CB2",
@@ -6685,8 +6624,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "war"
+      "texts": []
     },
     {
       "id": "scene-93",
@@ -6738,7 +6676,7 @@
       ],
       "props": [
         {
-          "type": "war",
+          "type": "ripple",
           "scale": 1,
           "enter": "pop",
           "color": "#3A4CB2",
@@ -6747,8 +6685,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "war"
+      "texts": []
     },
     {
       "id": "scene-94",
@@ -7220,8 +7157,7 @@
           "enter": "pop",
           "at": 219
         }
-      ],
-      "_subject": "home"
+      ]
     },
     {
       "id": "scene-101",
@@ -7286,8 +7222,7 @@
           "color2": "#131B24"
         }
       ],
-      "texts": [],
-      "_subject": "home"
+      "texts": []
     },
     {
       "id": "scene-102",
@@ -7417,7 +7352,7 @@
       ],
       "props": [
         {
-          "type": "shield",
+          "type": "shape",
           "scale": 1,
           "enter": "pop",
           "color": "#3A4CB2",
@@ -7435,8 +7370,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "shield"
+      "texts": []
     },
     {
       "id": "scene-104",
@@ -7492,7 +7426,7 @@
       ],
       "props": [
         {
-          "type": "shield",
+          "type": "shape",
           "scale": 1,
           "enter": "pop",
           "color": "#3A4CB2",
@@ -7510,8 +7444,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "shield"
+      "texts": []
     },
     {
       "id": "scene-105",
@@ -7576,8 +7509,7 @@
           "color2": "#131B24"
         }
       ],
-      "texts": [],
-      "_subject": "shadowSelf"
+      "texts": []
     },
     {
       "id": "scene-106",
@@ -7782,8 +7714,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "Murphy"
+      "texts": []
     },
     {
       "id": "scene-109",
@@ -7912,7 +7843,7 @@
       ],
       "props": [
         {
-          "type": "war",
+          "type": "spotlight",
           "scale": 1,
           "enter": "pop",
           "color": "#3A4CB2",
@@ -7921,8 +7852,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "war"
+      "texts": []
     },
     {
       "id": "scene-111",
@@ -8186,8 +8116,7 @@
           "color2": "#131B24"
         }
       ],
-      "texts": [],
-      "_subject": "war"
+      "texts": []
     },
     {
       "id": "scene-115",
@@ -8251,7 +8180,7 @@
       ],
       "props": [
         {
-          "type": "shadowSelf",
+          "type": "spotlight",
           "scale": 1,
           "enter": "pop",
           "color": "#3A4CB2",
@@ -8260,8 +8189,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "shadowSelf"
+      "texts": []
     },
     {
       "id": "scene-116",
@@ -8708,8 +8636,7 @@
           "enter": "pop",
           "at": 89
         }
-      ],
-      "_subject": "work"
+      ]
     },
     {
       "id": "scene-122",
@@ -8774,8 +8701,7 @@
           "color2": "#131B24"
         }
       ],
-      "texts": [],
-      "_subject": "storm"
+      "texts": []
     },
     {
       "id": "scene-123",
@@ -8857,8 +8783,7 @@
           "enter": "pop",
           "at": 208
         }
-      ],
-      "_subject": "work"
+      ]
     },
     {
       "id": "scene-124",
@@ -8932,8 +8857,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "Murphy"
+      "texts": []
     },
     {
       "id": "scene-125",
@@ -9194,7 +9118,7 @@
       ],
       "props": [
         {
-          "type": "home",
+          "type": "spotlight",
           "scale": 1,
           "enter": "pop",
           "color": "#3A4CB2",
@@ -9203,8 +9127,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "home"
+      "texts": []
     },
     {
       "id": "scene-129",
@@ -9272,7 +9195,7 @@
       ],
       "props": [
         {
-          "type": "storm",
+          "type": "maze",
           "scale": 1,
           "enter": "pop",
           "color": "#3A4CB2",
@@ -9299,8 +9222,7 @@
           "enter": "pop",
           "at": 36
         }
-      ],
-      "_subject": "storm"
+      ]
     },
     {
       "id": "scene-130",
@@ -9577,8 +9499,7 @@
           "color2": "#131B24"
         }
       ],
-      "texts": [],
-      "_subject": "shadowSelf"
+      "texts": []
     },
     {
       "id": "scene-134",
@@ -9705,8 +9626,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "coin"
+      "texts": []
     },
     {
       "id": "scene-136",
@@ -9770,7 +9690,7 @@
       ],
       "props": [
         {
-          "type": "shadowSelf",
+          "type": "spotlight",
           "scale": 1,
           "enter": "pop",
           "color": "#3A4CB2",
@@ -9779,8 +9699,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "shadowSelf"
+      "texts": []
     },
     {
       "id": "scene-137",
@@ -9866,8 +9785,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "shadowSelf"
+      "texts": []
     },
     {
       "id": "scene-138",
@@ -9928,8 +9846,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "Murphy"
+      "texts": []
     },
     {
       "id": "scene-139",
@@ -10205,8 +10122,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "gift"
+      "texts": []
     },
     {
       "id": "scene-143",
@@ -10345,8 +10261,7 @@
           "enter": "pop",
           "at": 238
         }
-      ],
-      "_subject": "home"
+      ]
     },
     {
       "id": "scene-145",
@@ -10465,15 +10380,7 @@
           "action": "talk"
         }
       ],
-      "props": [
-        {
-          "type": "gift",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "MOVE YOUR MIND",
@@ -10483,8 +10390,7 @@
           "enter": "pop",
           "at": 238
         }
-      ],
-      "_subject": "gift"
+      ]
     },
     {
       "id": "scene-147",
@@ -10734,15 +10640,7 @@
           "action": "talk"
         }
       ],
-      "props": [
-        {
-          "type": "shadowSelf",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "BREAK",
@@ -10752,8 +10650,7 @@
           "enter": "pop",
           "at": 142
         }
-      ],
-      "_subject": "shadowSelf"
+      ]
     },
     {
       "id": "scene-151",
@@ -10818,8 +10715,7 @@
           "color2": "#131B24"
         }
       ],
-      "texts": [],
-      "_subject": "shadowSelf"
+      "texts": []
     },
     {
       "id": "scene-152",
@@ -11238,7 +11134,7 @@
       ],
       "props": [
         {
-          "type": "home",
+          "type": "orbit",
           "scale": 1,
           "enter": "pop",
           "color": "#3A4CB2",
@@ -11247,8 +11143,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "home"
+      "texts": []
     },
     {
       "id": "scene-158",
@@ -11564,8 +11459,7 @@
           "color2": "#131B24"
         }
       ],
-      "texts": [],
-      "_subject": "shadowSelf"
+      "texts": []
     },
     {
       "id": "scene-163",
@@ -11845,8 +11739,7 @@
           "enter": "pop",
           "at": 296
         }
-      ],
-      "_subject": "Murphy"
+      ]
     },
     {
       "id": "scene-167",
@@ -12176,8 +12069,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "Murphy"
+      "texts": []
     },
     {
       "id": "scene-172",
@@ -12246,8 +12138,7 @@
           "color2": "#131B24"
         }
       ],
-      "texts": [],
-      "_subject": "grave"
+      "texts": []
     },
     {
       "id": "scene-173",
@@ -12815,8 +12706,7 @@
           "enter": "pop",
           "at": 246
         }
-      ],
-      "_subject": "shadowSelf"
+      ]
     },
     {
       "id": "scene-181",
@@ -13158,15 +13048,7 @@
           "action": "idle"
         }
       ],
-      "props": [
-        {
-          "type": "shadowSelf",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "MIND BUILT YOUR BODY",
@@ -13176,8 +13058,7 @@
           "enter": "pop",
           "at": 301
         }
-      ],
-      "_subject": "shadowSelf"
+      ]
     },
     {
       "id": "scene-186",
@@ -13462,8 +13343,7 @@
           "color2": "#131B24"
         }
       ],
-      "texts": [],
-      "_subject": "shadowSelf"
+      "texts": []
     },
     {
       "id": "scene-190",
@@ -13659,8 +13539,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "Murphy"
+      "texts": []
     },
     {
       "id": "scene-193",
@@ -13928,8 +13807,7 @@
           "at": 0
         }
       ],
-      "texts": [],
-      "_subject": "shadowSelf"
+      "texts": []
     },
     {
       "id": "scene-197",
@@ -14002,7 +13880,7 @@
           "at": 12
         },
         {
-          "type": "shadowSelf",
+          "type": "maze",
           "scale": 0.6,
           "enter": "fade",
           "color": "#3A4CB2",
@@ -14011,8 +13889,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "shadowSelf"
+      "texts": []
     },
     {
       "id": "scene-198",
@@ -14085,8 +13962,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "shadowSelf"
+      "texts": []
     },
     {
       "id": "scene-199",
@@ -14282,7 +14158,7 @@
       ],
       "props": [
         {
-          "type": "work",
+          "type": "ripple",
           "scale": 1,
           "enter": "pop",
           "color": "#3A4CB2",
@@ -14291,8 +14167,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "work"
+      "texts": []
     },
     {
       "id": "scene-202",
@@ -14357,8 +14232,7 @@
           "color2": "#131B24"
         }
       ],
-      "texts": [],
-      "_subject": "work"
+      "texts": []
     },
     {
       "id": "scene-203",
@@ -14479,7 +14353,7 @@
       ],
       "props": [
         {
-          "type": "work",
+          "type": "orbit",
           "scale": 1,
           "enter": "pop",
           "color": "#3A4CB2",
@@ -14497,8 +14371,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "work"
+      "texts": []
     },
     {
       "id": "scene-205",
@@ -14576,8 +14449,7 @@
           "color2": "#131B24"
         }
       ],
-      "texts": [],
-      "_subject": "Murphy — fire"
+      "texts": []
     },
     {
       "id": "scene-206",
@@ -14642,8 +14514,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "coin"
+      "texts": []
     },
     {
       "id": "scene-207",
@@ -14717,8 +14588,7 @@
           "enter": "pop",
           "at": 267
         }
-      ],
-      "_subject": "coin"
+      ]
     },
     {
       "id": "scene-208",
@@ -14774,7 +14644,7 @@
       ],
       "props": [
         {
-          "type": "gift",
+          "type": "ripple",
           "scale": 1,
           "enter": "pop",
           "color": "#3A4CB2",
@@ -14783,8 +14653,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "gift"
+      "texts": []
     },
     {
       "id": "scene-209",
@@ -14927,8 +14796,7 @@
           "enter": "pop",
           "at": 8
         }
-      ],
-      "_subject": "Murphy — road"
+      ]
     },
     {
       "id": "scene-211",
@@ -14975,7 +14843,7 @@
       "characters": [],
       "props": [
         {
-          "type": "work",
+          "type": "orbit",
           "scale": 1,
           "enter": "pop",
           "color": "#3A4CB2",
@@ -14984,8 +14852,7 @@
           "at": 0
         }
       ],
-      "texts": [],
-      "_subject": "work"
+      "texts": []
     },
     {
       "id": "scene-212",
@@ -15127,8 +14994,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "shadowSelf"
+      "texts": []
     },
     {
       "id": "scene-214",
@@ -15215,8 +15081,7 @@
           "enter": "pop",
           "at": 113
         }
-      ],
-      "_subject": "work"
+      ]
     },
     {
       "id": "scene-215",
@@ -15272,7 +15137,7 @@
       ],
       "props": [
         {
-          "type": "work",
+          "type": "maze",
           "scale": 1,
           "enter": "pop",
           "color": "#3A4CB2",
@@ -15290,8 +15155,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "work"
+      "texts": []
     },
     {
       "id": "scene-216",
@@ -15437,7 +15301,7 @@
           "at": 2
         },
         {
-          "type": "work",
+          "type": "maze",
           "scale": 0.6,
           "enter": "fade",
           "color": "#3A4CB2",
@@ -15455,8 +15319,7 @@
           "enter": "pop",
           "at": 10
         }
-      ],
-      "_subject": "work"
+      ]
     },
     {
       "id": "scene-218",
@@ -15638,8 +15501,7 @@
           "color2": "#131B24"
         }
       ],
-      "texts": [],
-      "_subject": "gift"
+      "texts": []
     },
     {
       "id": "scene-221",
@@ -15759,7 +15621,7 @@
       ],
       "props": [
         {
-          "type": "work",
+          "type": "ripple",
           "scale": 1,
           "enter": "pop",
           "color": "#3A4CB2",
@@ -15777,8 +15639,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "work"
+      "texts": []
     },
     {
       "id": "scene-223",
@@ -16328,8 +16189,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "coin"
+      "texts": []
     },
     {
       "id": "scene-231",
@@ -16451,7 +16311,7 @@
       ],
       "props": [
         {
-          "type": "shield",
+          "type": "maze",
           "scale": 1,
           "enter": "pop",
           "color": "#3A4CB2",
@@ -16460,8 +16320,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "shield"
+      "texts": []
     },
     {
       "id": "scene-233",
@@ -16665,8 +16524,7 @@
           "enter": "pop",
           "at": 193
         }
-      ],
-      "_subject": "home"
+      ]
     },
     {
       "id": "scene-236",
@@ -16870,8 +16728,7 @@
           "color2": "#131B24"
         }
       ],
-      "texts": [],
-      "_subject": "shadowSelf"
+      "texts": []
     },
     {
       "id": "scene-239",
@@ -16927,7 +16784,7 @@
       ],
       "props": [
         {
-          "type": "shadowSelf",
+          "type": "orbit",
           "scale": 1,
           "enter": "pop",
           "color": "#3A4CB2",
@@ -16936,8 +16793,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "shadowSelf"
+      "texts": []
     },
     {
       "id": "scene-240",
@@ -17010,8 +16866,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "Murphy"
+      "texts": []
     },
     {
       "id": "scene-241",
@@ -17058,7 +16913,7 @@
       "characters": [],
       "props": [
         {
-          "type": "shadowSelf",
+          "type": "ripple",
           "scale": 1,
           "enter": "pop",
           "color": "#3A4CB2",
@@ -17076,8 +16931,7 @@
           "enter": "pop",
           "at": 265
         }
-      ],
-      "_subject": "shadowSelf"
+      ]
     },
     {
       "id": "scene-242",
@@ -17142,8 +16996,7 @@
           "color2": "#131B24"
         }
       ],
-      "texts": [],
-      "_subject": "storm"
+      "texts": []
     },
     {
       "id": "scene-243",
@@ -17205,15 +17058,7 @@
           "action": "idle"
         }
       ],
-      "props": [
-        {
-          "type": "war",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "BRAIN WAS NOT WEALTH",
@@ -17223,8 +17068,7 @@
           "enter": "pop",
           "at": 220
         }
-      ],
-      "_subject": "war"
+      ]
     },
     {
       "id": "scene-244",
@@ -17288,7 +17132,7 @@
       ],
       "props": [
         {
-          "type": "shadowSelf",
+          "type": "spotlight",
           "scale": 1,
           "enter": "pop",
           "color": "#3A4CB2",
@@ -17297,8 +17141,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "shadowSelf"
+      "texts": []
     },
     {
       "id": "scene-245",
@@ -17567,8 +17410,7 @@
           "color2": "#131B24"
         }
       ],
-      "texts": [],
-      "_subject": "Murphy"
+      "texts": []
     },
     {
       "id": "scene-249",
@@ -17997,8 +17839,7 @@
           "color2": "#131B24"
         }
       ],
-      "texts": [],
-      "_subject": "shadowSelf"
+      "texts": []
     },
     {
       "id": "scene-255",
@@ -18275,7 +18116,7 @@
           "at": 12
         },
         {
-          "type": "shadowSelf",
+          "type": "maze",
           "scale": 0.6,
           "enter": "fade",
           "color": "#3A4CB2",
@@ -18284,8 +18125,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "shadowSelf"
+      "texts": []
     },
     {
       "id": "scene-259",
@@ -18424,8 +18264,7 @@
           "enter": "pop",
           "at": 188
         }
-      ],
-      "_subject": "coin"
+      ]
     },
     {
       "id": "scene-261",
@@ -18684,15 +18523,7 @@
           "action": "talk"
         }
       ],
-      "props": [
-        {
-          "type": "shield",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "ALLOWS YOUR BODY",
@@ -18702,8 +18533,7 @@
           "enter": "pop",
           "at": 59
         }
-      ],
-      "_subject": "shield"
+      ]
     },
     {
       "id": "scene-265",
@@ -19089,8 +18919,7 @@
           "enter": "pop",
           "at": 125
         }
-      ],
-      "_subject": "shadowSelf"
+      ]
     },
     {
       "id": "scene-271",
@@ -19207,7 +19036,7 @@
       ],
       "props": [
         {
-          "type": "shadowSelf",
+          "type": "spotlight",
           "scale": 1,
           "enter": "pop",
           "color": "#3A4CB2",
@@ -19216,8 +19045,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "shadowSelf"
+      "texts": []
     },
     {
       "id": "scene-273",
@@ -19273,7 +19101,7 @@
       ],
       "props": [
         {
-          "type": "shadowSelf",
+          "type": "shape",
           "scale": 1,
           "enter": "pop",
           "color": "#3A4CB2",
@@ -19282,8 +19110,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "shadowSelf"
+      "texts": []
     },
     {
       "id": "scene-274",
@@ -19365,8 +19192,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "Murphy"
+      "texts": []
     },
     {
       "id": "scene-275",
@@ -19656,8 +19482,7 @@
           "color2": "#131B24"
         }
       ],
-      "texts": [],
-      "_subject": "storm"
+      "texts": []
     },
     {
       "id": "scene-279",
@@ -20198,8 +20023,7 @@
           "color2": "#131B24"
         }
       ],
-      "texts": [],
-      "_subject": "shadowSelf"
+      "texts": []
     },
     {
       "id": "scene-287",
@@ -20682,8 +20506,7 @@
           "color2": "#131B24"
         }
       ],
-      "texts": [],
-      "_subject": "work"
+      "texts": []
     },
     {
       "id": "scene-294",
@@ -20895,8 +20718,7 @@
           "color2": "#131B24"
         }
       ],
-      "texts": [],
-      "_subject": "shadowSelf"
+      "texts": []
     },
     {
       "id": "scene-297",
@@ -21025,15 +20847,7 @@
           "action": "think"
         }
       ],
-      "props": [
-        {
-          "type": "gift",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "ASSIGN THE WORK",
@@ -21043,8 +20857,7 @@
           "enter": "pop",
           "at": 75
         }
-      ],
-      "_subject": "gift"
+      ]
     },
     {
       "id": "scene-299",
@@ -21480,8 +21293,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "shadowSelf"
+      "texts": []
     },
     {
       "id": "scene-305",
@@ -21607,8 +21419,7 @@
           "color2": "#131B24"
         }
       ],
-      "texts": [],
-      "_subject": "shadowSelf"
+      "texts": []
     },
     {
       "id": "scene-307",
@@ -21664,7 +21475,7 @@
       ],
       "props": [
         {
-          "type": "home",
+          "type": "maze",
           "scale": 1,
           "enter": "pop",
           "color": "#3A4CB2",
@@ -21682,8 +21493,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "home"
+      "texts": []
     },
     {
       "id": "scene-308",
@@ -21739,7 +21549,7 @@
       ],
       "props": [
         {
-          "type": "war",
+          "type": "ripple",
           "scale": 1,
           "enter": "pop",
           "color": "#3A4CB2",
@@ -21748,8 +21558,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "war"
+      "texts": []
     },
     {
       "id": "scene-309",
@@ -21817,7 +21626,7 @@
       ],
       "props": [
         {
-          "type": "shadowSelf",
+          "type": "maze",
           "scale": 1,
           "enter": "pop",
           "color": "#3A4CB2",
@@ -21844,8 +21653,7 @@
           "enter": "pop",
           "at": 3
         }
-      ],
-      "_subject": "shadowSelf"
+      ]
     },
     {
       "id": "scene-310",
@@ -21978,8 +21786,7 @@
           "color2": "#131B24"
         }
       ],
-      "texts": [],
-      "_subject": "war"
+      "texts": []
     },
     {
       "id": "scene-312",
@@ -22221,8 +22028,7 @@
           "enter": "pop",
           "at": 32
         }
-      ],
-      "_subject": "storm"
+      ]
     },
     {
       "id": "scene-315",
@@ -22365,7 +22171,7 @@
       ],
       "props": [
         {
-          "type": "shadowSelf",
+          "type": "ripple",
           "scale": 1,
           "enter": "pop",
           "color": "#3A4CB2",
@@ -22383,8 +22189,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "shadowSelf"
+      "texts": []
     },
     {
       "id": "scene-317",
@@ -22515,8 +22320,7 @@
           "color2": "#131B24"
         }
       ],
-      "texts": [],
-      "_subject": "war"
+      "texts": []
     },
     {
       "id": "scene-319",
@@ -22796,7 +22600,7 @@
       ],
       "props": [
         {
-          "type": "shadowSelf",
+          "type": "maze",
           "scale": 1,
           "enter": "pop",
           "color": "#3A4CB2",
@@ -22814,8 +22618,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "shadowSelf"
+      "texts": []
     },
     {
       "id": "scene-323",
@@ -22954,8 +22757,7 @@
           "color2": "#131B24"
         }
       ],
-      "texts": [],
-      "_subject": "shadowSelf"
+      "texts": []
     },
     {
       "id": "scene-325",

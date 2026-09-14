@@ -14,9 +14,14 @@
       "look": "a lanky American teenage boy with dark messy hair, a black t-shirt and a battered jacket, restless, present day",
       "variant": {
         "height": 1.02,
-        "build": 0.95,
-        "garment": "hoodie",
-        "hair": "messy"
+        "build": "slight",
+        "outfit": "hoodie",
+        "hairStyle": "messy",
+        "gender": "m",
+        "age": "young",
+        "suit": "#1F2933",
+        "shirt": "#3B4754",
+        "hair": "#1A1A1A"
       },
       "mentions": 40
     },
@@ -26,8 +31,14 @@
       "look": "an American teenage girl with long blonde hair, a cardigan over a school dress, holding herself carefully, present day",
       "variant": {
         "height": 0.96,
-        "garment": "dress",
-        "hair": "long"
+        "build": "slight",
+        "outfit": "dress",
+        "hairStyle": "long",
+        "gender": "f",
+        "age": "young",
+        "suit": "#6B8CB5",
+        "shirt": "#F3EDE2",
+        "hair": "#C9A227"
       },
       "mentions": 38
     },
@@ -37,8 +48,14 @@
       "look": "a short, thickset middle-aged American school counsellor in a rumpled shirt and tie, built like a bull",
       "variant": {
         "height": 0.98,
-        "build": 1.25,
-        "garment": "vest"
+        "build": "heavy",
+        "outfit": "vest",
+        "hairStyle": "receding",
+        "beard": "stubble",
+        "gender": "m",
+        "age": "old",
+        "suit": "#4A4A4A",
+        "shirt": "#E8E3D8"
       },
       "mentions": 4
     },
@@ -48,8 +65,14 @@
       "look": "an American teenage girl in cheerleader colours, immaculate, watching who is watching",
       "variant": {
         "height": 0.95,
-        "garment": "dress",
-        "hair": "ponytail"
+        "build": "slight",
+        "outfit": "dress",
+        "hairStyle": "ponytail",
+        "gender": "f",
+        "age": "young",
+        "suit": "#B2304A",
+        "shirt": "#FFFFFF",
+        "hair": "#3B2415"
       },
       "mentions": 2
     }
@@ -111,17 +134,17 @@
     },
     {
       "act": "Wandering",
-      "fromFrame": 6000,
+      "fromFrame": 7306,
       "claim": "A school project becomes the only structure either of them has."
     },
     {
       "act": "The adults",
-      "fromFrame": 14000,
+      "fromFrame": 17222,
       "claim": "Every institution around them optimises for its own risk, not for the kid in front of it."
     },
     {
       "act": "The Blue Hole",
-      "fromFrame": 22000,
+      "fromFrame": 30270,
       "claim": "The illness did not make him deep; it killed the depth he already had."
     }
   ],

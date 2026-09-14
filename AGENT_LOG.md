@@ -29,6 +29,46 @@ _(clear your row when you stop; move the summary into the Changelog below.)_
 
 ## Changelog (newest first)
 
+### 2026-09-14 — relevance — PUBLISHED BOOKS ARE OFF LIMITS; two general fixes found by actually looking
+
+**REVERTED: the catalogue-wide retrofit.** The 2026-09-12 `apply-briefs --all` run rewrote all 49
+`config.*.json`, published books included. It changed no uploaded video — those are rendered mp4s
+— but a published book's config IS the record of what shipped, and a retrofit can only create a
+difference between it and the video people are watching. All 48 are restored; `siddhartha` (not
+published, being prepared) keeps the work. **`apply-briefs.js` now skips anything listed in
+`PUBLISHED_BOOKS.md` unless `--force`.** Note that file currently lists only 4 books while many
+more are live — it is the guard's source of truth and should be brought up to date.
+
+**The rule from here: we improve the system for the books that come NEXT.**
+
+**Two engine fixes, both found by opening the preview rather than by reading a number.**
+`siddhartha` scored 69.8% subject-bearing and looked fine on paper. On screen, at 21:03:
+
+1. **A set the book does not have.** The backdrop rotated through a GENRE menu that knows nothing
+   about the book: 17 sets including `kitchen` x40, `cafe` x32, `highway` x31, `classroom` x5 and
+   `startupGarage` x6 — for a parable set in ancient India. The director now reads
+   `books/<slug>/story-bible.json` itself (the `bible` argument is the older `creative-bible.json`)
+   and restricts the rotation, and any CONCEPT_SET override, to the places the bible declares plus
+   the placeless sets, which cannot be anachronistic. Result: 17 sets → 9, all of them the book's
+   own. A book with no bible, or one declaring no places, is untouched.
+2. **A wrong WORD standing on screen.** The HUD topic led with the beat's concept, so a loose regex
+   hit became a persistent caption: "SCHOOL" over the beat where Siddhartha goes to Kamala's grove,
+   because the narration said "teacher". A wrong icon is a bad picture; a wrong label is a false
+   caption. The HUD is a chapter slot, so it now names the act from the bible's `spine`
+   ("KAMALA AND THE CITY"), falling back to the old chain when there is no bible.
+
+**Also:** `plan-antidote.js` feeds `meta.cast` from the story bible when no `--cast` file is given,
+so a book ships its own characters instead of the five generic roles (narrator/protagonist/foil/
+mentor/extra) — that sameness across books is the templated-content signal the Character Foundry
+exists to remove. And `plan-bible.js` now validates `variant` against the real schema: the field
+names are not the obvious ones (`hair` is a COLOR, the style is `hairStyle`; `build` is an enum,
+the numbers are `height`/`headScale`; the garment field is `outfit`) and a wrong key is SILENT —
+it merges in, the schema default wins, and a shaven-headed monk keeps the auto-cast's muttonchops.
+
+**The lesson worth keeping:** every number said this book was fine. Two obvious errors were visible
+in the first frame anyone looked at. Open the preview.
+
+
 ### 2026-09-12 — relevance — wired into make-book, vocabulary linted, and the WHOLE CATALOGUE retrofitted
 
 Three things, in the order they were done.

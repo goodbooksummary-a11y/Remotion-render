@@ -338,8 +338,7 @@
           "enter": "pop",
           "at": 90
         }
-      ],
-      "_subject": "rocketLaunch"
+      ]
     },
     {
       "id": "scene-02",
@@ -413,8 +412,7 @@
           "color2": "#111827"
         }
       ],
-      "texts": [],
-      "_subject": "codeWindow"
+      "texts": []
     },
     {
       "id": "scene-03",
@@ -480,7 +478,7 @@
       ],
       "props": [
         {
-          "type": "heart",
+          "type": "ripple",
           "scale": 1,
           "enter": "pop",
           "color": "#16A34A",
@@ -498,8 +496,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "heart"
+      "texts": []
     },
     {
       "id": "scene-04",
@@ -656,8 +653,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "phone"
+      "texts": []
     },
     {
       "id": "scene-06",
@@ -742,8 +738,7 @@
           "enter": "pop",
           "at": 243
         }
-      ],
-      "_subject": "rocketLaunch"
+      ]
     },
     {
       "id": "scene-07",
@@ -1060,8 +1055,7 @@
           "enter": "pop",
           "at": 95
         }
-      ],
-      "_subject": "codeWindow"
+      ]
     },
     {
       "id": "scene-11",
@@ -1126,7 +1120,7 @@
       ],
       "props": [
         {
-          "type": "shield",
+          "type": "spotlight",
           "scale": 1,
           "enter": "pop",
           "color": "#16A34A",
@@ -1135,8 +1129,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "shield"
+      "texts": []
     },
     {
       "id": "scene-12",
@@ -1307,7 +1300,7 @@
           "rgb(252,251,249)",
           "rgb(251,250,247)"
         ],
-        "set": "cafe",
+        "set": "none",
         "texture": "grid",
         "accent": "#111827",
         "act": "setup",
@@ -1370,7 +1363,7 @@
           "at": 12
         },
         {
-          "type": "phone",
+          "type": "maze",
           "scale": 0.6,
           "enter": "fade",
           "color": "#16A34A",
@@ -1379,8 +1372,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "Validation — phone"
+      "texts": []
     },
     {
       "id": "scene-15",
@@ -1463,8 +1455,7 @@
           "enter": "pop",
           "at": 173
         }
-      ],
-      "_subject": "Validation — coin"
+      ]
     },
     {
       "id": "scene-16",
@@ -1607,7 +1598,7 @@
       ],
       "props": [
         {
-          "type": "rocketLaunch",
+          "type": "spotlight",
           "scale": 1,
           "enter": "pop",
           "color": "#16A34A",
@@ -1616,8 +1607,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "rocketLaunch"
+      "texts": []
     },
     {
       "id": "scene-18",
@@ -1751,7 +1741,7 @@
       ],
       "props": [
         {
-          "type": "phone",
+          "type": "orbit",
           "scale": 1,
           "enter": "pop",
           "color": "#16A34A",
@@ -1760,8 +1750,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "phone"
+      "texts": []
     },
     {
       "id": "scene-20",
@@ -2078,8 +2067,7 @@
           "enter": "pop",
           "at": 73
         }
-      ],
-      "_subject": "phone"
+      ]
     },
     {
       "id": "scene-24",
@@ -2319,8 +2307,7 @@
           "color2": "#111827"
         }
       ],
-      "texts": [],
-      "_subject": "phone"
+      "texts": []
     },
     {
       "id": "scene-27",
@@ -2468,15 +2455,7 @@
           "lookAt": "callout"
         }
       ],
-      "props": [
-        {
-          "type": "shield",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "WE'LL BE SAFE",
@@ -2486,8 +2465,7 @@
           "enter": "pop",
           "at": 202
         }
-      ],
-      "_subject": "shield"
+      ]
     },
     {
       "id": "scene-29",
@@ -2587,8 +2565,7 @@
           "enter": "pop",
           "at": 30
         }
-      ],
-      "_subject": "shield"
+      ]
     },
     {
       "id": "scene-30",
@@ -2665,8 +2642,7 @@
           "color2": "#111827"
         }
       ],
-      "texts": [],
-      "_subject": "lightbulb"
+      "texts": []
     },
     {
       "id": "scene-31",
@@ -2732,15 +2708,7 @@
           "lookAt": "heldProp"
         }
       ],
-      "props": [
-        {
-          "type": "dollarExchange",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "ASK TO A CUSTOMER",
@@ -2750,8 +2718,7 @@
           "enter": "pop",
           "at": 205
         }
-      ],
-      "_subject": "dollarExchange"
+      ]
     },
     {
       "id": "scene-32",
@@ -2829,8 +2796,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "rocketLaunch"
+      "texts": []
     },
     {
       "id": "scene-33",
@@ -2886,7 +2852,7 @@
       "characters": [],
       "props": [
         {
-          "type": "phone",
+          "type": "ripple",
           "scale": 1,
           "enter": "pop",
           "color": "#16A34A",
@@ -2895,8 +2861,7 @@
           "at": 0
         }
       ],
-      "texts": [],
-      "_subject": "phone"
+      "texts": []
     },
     {
       "id": "scene-34",
@@ -2978,8 +2943,7 @@
           "enter": "pop",
           "at": 56
         }
-      ],
-      "_subject": "phone"
+      ]
     },
     {
       "id": "scene-35",
@@ -3124,7 +3088,7 @@
       ],
       "props": [
         {
-          "type": "phone",
+          "type": "orbit",
           "scale": 0.6,
           "enter": "fade",
           "color": "#16A34A",
@@ -3142,8 +3106,7 @@
           "enter": "pop",
           "at": 118
         }
-      ],
-      "_subject": "phone"
+      ]
     },
     {
       "id": "scene-37",
@@ -3219,7 +3182,7 @@
       ],
       "props": [
         {
-          "type": "phone",
+          "type": "spotlight",
           "scale": 1,
           "enter": "pop",
           "color": "#16A34A",
@@ -3228,8 +3191,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "phone"
+      "texts": []
     },
     {
       "id": "scene-38",
@@ -3452,8 +3414,7 @@
           "color2": "#111827"
         }
       ],
-      "texts": [],
-      "_subject": "home"
+      "texts": []
     },
     {
       "id": "scene-41",
@@ -3516,15 +3477,7 @@
           "lookAt": "callout"
         }
       ],
-      "props": [
-        {
-          "type": "phone",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "BREAK THAT HABIT",
@@ -3534,8 +3487,7 @@
           "enter": "pop",
           "at": 140
         }
-      ],
-      "_subject": "phone"
+      ]
     },
     {
       "id": "scene-42",
@@ -3621,7 +3573,7 @@
           "at": 12
         },
         {
-          "type": "phone",
+          "type": "spotlight",
           "scale": 0.6,
           "enter": "fade",
           "color": "#16A34A",
@@ -3630,8 +3582,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "phone"
+      "texts": []
     },
     {
       "id": "scene-43",
@@ -3934,8 +3885,7 @@
           "color2": "#111827"
         }
       ],
-      "texts": [],
-      "_subject": "phone"
+      "texts": []
     },
     {
       "id": "scene-47",
@@ -4086,7 +4036,7 @@
       ],
       "props": [
         {
-          "type": "dollarExchange",
+          "type": "orbit",
           "scale": 1,
           "enter": "pop",
           "color": "#16A34A",
@@ -4104,8 +4054,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "dollarExchange"
+      "texts": []
     },
     {
       "id": "scene-49",
@@ -4265,8 +4214,7 @@
           "enter": "pop",
           "at": 252
         }
-      ],
-      "_subject": "dollarExchange"
+      ]
     },
     {
       "id": "scene-51",
@@ -4413,8 +4361,7 @@
           "color2": "#111827"
         }
       ],
-      "texts": [],
-      "_subject": "Validation — coin"
+      "texts": []
     },
     {
       "id": "scene-53",
@@ -4574,7 +4521,7 @@
       ],
       "props": [
         {
-          "type": "phone",
+          "type": "ripple",
           "scale": 1,
           "enter": "pop",
           "color": "#16A34A",
@@ -4583,8 +4530,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "phone"
+      "texts": []
     },
     {
       "id": "scene-55",
@@ -5102,15 +5048,7 @@
           "lookAt": "viewer"
         }
       ],
-      "props": [
-        {
-          "type": "coin",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "SAVING MONEY",
@@ -5120,8 +5058,7 @@
           "enter": "pop",
           "at": 243
         }
-      ],
-      "_subject": "coin"
+      ]
     },
     {
       "id": "scene-62",
@@ -5378,8 +5315,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "codeWindow"
+      "texts": []
     },
     {
       "id": "scene-65",
@@ -5531,8 +5467,7 @@
           "enter": "pop",
           "at": 152
         }
-      ],
-      "_subject": "shield"
+      ]
     },
     {
       "id": "scene-67",
@@ -5905,8 +5840,7 @@
           "color2": "#111827"
         }
       ],
-      "texts": [],
-      "_subject": "dollarExchange"
+      "texts": []
     },
     {
       "id": "scene-72",
@@ -6158,8 +6092,7 @@
           "color2": "#111827"
         }
       ],
-      "texts": [],
-      "_subject": "shield"
+      "texts": []
     },
     {
       "id": "scene-75",
@@ -6372,8 +6305,7 @@
           "color2": "#111827"
         }
       ],
-      "texts": [],
-      "_subject": "target"
+      "texts": []
     },
     {
       "id": "scene-78",
@@ -6470,8 +6402,7 @@
           "enter": "pop",
           "at": 224
         }
-      ],
-      "_subject": "target"
+      ]
     },
     {
       "id": "scene-79",
@@ -6784,7 +6715,7 @@
           "at": 12
         },
         {
-          "type": "phone",
+          "type": "maze",
           "scale": 0.6,
           "enter": "fade",
           "color": "#16A34A",
@@ -6793,8 +6724,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "phone"
+      "texts": []
     },
     {
       "id": "scene-83",
@@ -7428,15 +7358,7 @@
           "lookAt": "viewer"
         }
       ],
-      "props": [
-        {
-          "type": "dollarExchange",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "ASK A CUSTOMER",
@@ -7446,8 +7368,7 @@
           "enter": "pop",
           "at": 157
         }
-      ],
-      "_subject": "dollarExchange"
+      ]
     },
     {
       "id": "scene-91",
@@ -7592,8 +7513,7 @@
           "color2": "#111827"
         }
       ],
-      "texts": [],
-      "_subject": "coin"
+      "texts": []
     },
     {
       "id": "scene-93",
@@ -7649,7 +7569,7 @@
       "characters": [],
       "props": [
         {
-          "type": "dollarExchange",
+          "type": "ripple",
           "scale": 1,
           "enter": "pop",
           "color": "#16A34A",
@@ -7667,8 +7587,7 @@
           "enter": "pop",
           "at": 32
         }
-      ],
-      "_subject": "dollarExchange"
+      ]
     },
     {
       "id": "scene-94",
@@ -7734,15 +7653,7 @@
           "lookAt": "heldProp"
         }
       ],
-      "props": [
-        {
-          "type": "codeWindow",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "PUT YOUR HEAD",
@@ -7752,8 +7663,7 @@
           "enter": "pop",
           "at": 202
         }
-      ],
-      "_subject": "codeWindow"
+      ]
     },
     {
       "id": "scene-95",
@@ -7822,8 +7732,7 @@
           "color2": "#111827"
         }
       ],
-      "texts": [],
-      "_subject": "codeWindow"
+      "texts": []
     },
     {
       "id": "scene-96",
@@ -7908,8 +7817,7 @@
           "enter": "pop",
           "at": 44
         }
-      ],
-      "_subject": "coin"
+      ]
     },
     {
       "id": "scene-97",
@@ -7984,7 +7892,7 @@
       ],
       "props": [
         {
-          "type": "codeWindow",
+          "type": "spotlight",
           "scale": 1,
           "enter": "pop",
           "color": "#16A34A",
@@ -8002,8 +7910,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "codeWindow"
+      "texts": []
     },
     {
       "id": "scene-98",
@@ -8240,8 +8147,7 @@
           "color2": "#111827"
         }
       ],
-      "texts": [],
-      "_subject": "road"
+      "texts": []
     },
     {
       "id": "scene-101",
@@ -8308,7 +8214,7 @@
       ],
       "props": [
         {
-          "type": "lightbulb",
+          "type": "spotlight",
           "scale": 1,
           "enter": "pop",
           "color": "#16A34A",
@@ -8326,8 +8232,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "lightbulb"
+      "texts": []
     },
     {
       "id": "scene-102",
@@ -8391,15 +8296,7 @@
           "lookAt": "viewer"
         }
       ],
-      "props": [
-        {
-          "type": "coin",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "TIME MONEY",
@@ -8409,8 +8306,7 @@
           "enter": "pop",
           "at": 145
         }
-      ],
-      "_subject": "coin"
+      ]
     },
     {
       "id": "scene-103",
@@ -8497,8 +8393,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "codeWindow"
+      "texts": []
     },
     {
       "id": "scene-104",
@@ -8666,8 +8561,7 @@
           "enter": "pop",
           "at": 162
         }
-      ],
-      "_subject": "rocketLaunch"
+      ]
     },
     {
       "id": "scene-106",
@@ -8839,7 +8733,7 @@
           "at": 0
         },
         {
-          "type": "home",
+          "type": "maze",
           "scale": 0.6,
           "enter": "fade",
           "color": "#16A34A",
@@ -8857,8 +8751,7 @@
           "enter": "pop",
           "at": 0
         }
-      ],
-      "_subject": "home"
+      ]
     },
     {
       "id": "scene-108",
@@ -8934,8 +8827,7 @@
           "color2": "#111827"
         }
       ],
-      "texts": [],
-      "_subject": "target"
+      "texts": []
     },
     {
       "id": "scene-109",
@@ -9020,7 +8912,7 @@
           "at": 12
         },
         {
-          "type": "dollarExchange",
+          "type": "spotlight",
           "scale": 0.6,
           "enter": "fade",
           "color": "#16A34A",
@@ -9029,8 +8921,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "dollarExchange"
+      "texts": []
     },
     {
       "id": "scene-110",
@@ -9104,8 +8995,7 @@
           "enter": "pop",
           "at": 118
         }
-      ],
-      "_subject": "dollarExchange"
+      ]
     },
     {
       "id": "scene-111",
@@ -9425,8 +9315,7 @@
           "enter": "pop",
           "at": 133
         }
-      ],
-      "_subject": "rocketLaunch"
+      ]
     },
     {
       "id": "scene-115",
@@ -9592,7 +9481,7 @@
           "rgb(188,187,185)",
           "rgb(172,171,168)"
         ],
-        "set": "cafe",
+        "set": "none",
         "texture": "grid",
         "accent": "#111827",
         "act": "tension",
@@ -9645,7 +9534,7 @@
       ],
       "props": [
         {
-          "type": "phone",
+          "type": "maze",
           "scale": 1,
           "enter": "pop",
           "color": "#16A34A",
@@ -9654,8 +9543,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "phone"
+      "texts": []
     },
     {
       "id": "scene-118",
@@ -9730,8 +9618,7 @@
           "color2": "#111827"
         }
       ],
-      "texts": [],
-      "_subject": "dollarExchange"
+      "texts": []
     },
     {
       "id": "scene-119",
@@ -9813,8 +9700,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "rocketLaunch"
+      "texts": []
     },
     {
       "id": "scene-120",
@@ -9879,15 +9765,7 @@
           "lookAt": "viewer"
         }
       ],
-      "props": [
-        {
-          "type": "dollarExchange",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "CUSTOMER PAIN",
@@ -9897,8 +9775,7 @@
           "enter": "pop",
           "at": 155
         }
-      ],
-      "_subject": "dollarExchange"
+      ]
     },
     {
       "id": "scene-121",
@@ -10134,7 +10011,7 @@
       ],
       "props": [
         {
-          "type": "wallet",
+          "type": "ripple",
           "scale": 0.6,
           "enter": "fade",
           "color": "#16A34A",
@@ -10152,8 +10029,7 @@
           "enter": "pop",
           "at": 23
         }
-      ],
-      "_subject": "wallet"
+      ]
     },
     {
       "id": "scene-124",
@@ -10218,8 +10094,7 @@
           "at": 0
         }
       ],
-      "texts": [],
-      "_subject": "Validation"
+      "texts": []
     },
     {
       "id": "scene-125",
@@ -10379,8 +10254,7 @@
           "color2": "#111827"
         }
       ],
-      "texts": [],
-      "_subject": "codeWindow"
+      "texts": []
     },
     {
       "id": "scene-127",
@@ -10685,8 +10559,7 @@
           "enter": "pop",
           "at": 63
         }
-      ],
-      "_subject": "coin"
+      ]
     },
     {
       "id": "scene-131",
@@ -10780,8 +10653,7 @@
           "enter": "pop",
           "at": 6
         }
-      ],
-      "_subject": "phone"
+      ]
     },
     {
       "id": "scene-132",
@@ -10855,8 +10727,7 @@
           "color2": "#111827"
         }
       ],
-      "texts": [],
-      "_subject": "phone"
+      "texts": []
     },
     {
       "id": "scene-133",
@@ -10942,8 +10813,7 @@
           "enter": "pop",
           "at": 8
         }
-      ],
-      "_subject": "lightbulb"
+      ]
     },
     {
       "id": "scene-134",
@@ -11123,8 +10993,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "dollarExchange"
+      "texts": []
     },
     {
       "id": "scene-136",
@@ -11198,8 +11067,7 @@
           "enter": "pop",
           "at": 207
         }
-      ],
-      "_subject": "target"
+      ]
     },
     {
       "id": "scene-137",
@@ -11359,8 +11227,7 @@
           "color2": "#111827"
         }
       ],
-      "texts": [],
-      "_subject": "dollarExchange"
+      "texts": []
     },
     {
       "id": "scene-139",
@@ -11674,8 +11541,7 @@
           "at": 0
         }
       ],
-      "texts": [],
-      "_subject": "rocketLaunch"
+      "texts": []
     },
     {
       "id": "scene-143",
@@ -11844,8 +11710,7 @@
           "enter": "pop",
           "at": 3
         }
-      ],
-      "_subject": "coin"
+      ]
     },
     {
       "id": "scene-145",
@@ -11933,7 +11798,7 @@
           "at": 12
         },
         {
-          "type": "codeWindow",
+          "type": "spotlight",
           "scale": 0.6,
           "enter": "fade",
           "color": "#16A34A",
@@ -11942,8 +11807,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "codeWindow"
+      "texts": []
     },
     {
       "id": "scene-146",
@@ -12003,7 +11867,7 @@
       ],
       "props": [
         {
-          "type": "dollarExchange",
+          "type": "shape",
           "scale": 1,
           "enter": "pop",
           "color": "#16A34A",
@@ -12012,8 +11876,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "Validation — dollarExchange"
+      "texts": []
     },
     {
       "id": "scene-147",
@@ -12097,8 +11960,7 @@
           "enter": "pop",
           "at": 173
         }
-      ],
-      "_subject": "dollarExchange"
+      ]
     },
     {
       "id": "scene-148",
@@ -12154,7 +12016,7 @@
       "characters": [],
       "props": [
         {
-          "type": "target",
+          "type": "ripple",
           "scale": 1,
           "enter": "pop",
           "color": "#16A34A",
@@ -12172,8 +12034,7 @@
           "enter": "pop",
           "at": 260
         }
-      ],
-      "_subject": "target"
+      ]
     },
     {
       "id": "scene-149",
@@ -12255,8 +12116,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "heart"
+      "texts": []
     },
     {
       "id": "scene-150",
@@ -12338,8 +12198,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "dollarExchange"
+      "texts": []
     },
     {
       "id": "scene-151",
@@ -12499,8 +12358,7 @@
           "color2": "#111827"
         }
       ],
-      "texts": [],
-      "_subject": "phone"
+      "texts": []
     },
     {
       "id": "scene-153",
@@ -12564,15 +12422,7 @@
           "lookAt": "callout"
         }
       ],
-      "props": [
-        {
-          "type": "phone",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "YOU IMMEDIATELY HIDE",
@@ -12582,8 +12432,7 @@
           "enter": "pop",
           "at": 147
         }
-      ],
-      "_subject": "phone"
+      ]
     },
     {
       "id": "scene-154",
@@ -12657,8 +12506,7 @@
           "enter": "pop",
           "at": 0
         }
-      ],
-      "_subject": "rocketLaunch"
+      ]
     },
     {
       "id": "scene-155",
@@ -12734,7 +12582,7 @@
       ],
       "props": [
         {
-          "type": "phone",
+          "type": "maze",
           "scale": 0.6,
           "enter": "fade",
           "color": "#16A34A",
@@ -12752,8 +12600,7 @@
           "enter": "pop",
           "at": 32
         }
-      ],
-      "_subject": "phone"
+      ]
     },
     {
       "id": "scene-156",
@@ -12830,8 +12677,7 @@
           "color2": "#111827"
         }
       ],
-      "texts": [],
-      "_subject": "lightbulb"
+      "texts": []
     },
     {
       "id": "scene-157",
@@ -12856,7 +12702,7 @@
           "rgb(174,223,192)",
           "rgb(251,250,247)"
         ],
-        "set": "cafe",
+        "set": "none",
         "texture": "grain",
         "accent": "#111827",
         "act": "turn",
@@ -12917,7 +12763,7 @@
           "at": 12
         },
         {
-          "type": "phone",
+          "type": "maze",
           "scale": 0.6,
           "enter": "fade",
           "color": "#16A34A",
@@ -12935,8 +12781,7 @@
           "enter": "pop",
           "at": 56
         }
-      ],
-      "_subject": "phone"
+      ]
     },
     {
       "id": "scene-158",
@@ -13029,8 +12874,7 @@
           "enter": "pop",
           "at": 257
         }
-      ],
-      "_subject": "phone"
+      ]
     },
     {
       "id": "scene-159",
@@ -13103,8 +12947,7 @@
           "enter": "pop",
           "at": 95
         }
-      ],
-      "_subject": "road"
+      ]
     },
     {
       "id": "scene-160",
@@ -13187,8 +13030,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "phone"
+      "texts": []
     },
     {
       "id": "scene-161",
@@ -13337,8 +13179,7 @@
           "color2": "#111827"
         }
       ],
-      "texts": [],
-      "_subject": "phone"
+      "texts": []
     },
     {
       "id": "scene-163",
@@ -13411,7 +13252,7 @@
       ],
       "props": [
         {
-          "type": "phone",
+          "type": "spotlight",
           "scale": 1,
           "enter": "pop",
           "color": "#16A34A",
@@ -13420,8 +13261,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "phone"
+      "texts": []
     },
     {
       "id": "scene-164",
@@ -13654,8 +13494,7 @@
           "enter": "pop",
           "at": 87
         }
-      ],
-      "_subject": "dollarExchange"
+      ]
     },
     {
       "id": "scene-167",
@@ -13804,8 +13643,7 @@
           "color2": "#111827"
         }
       ],
-      "texts": [],
-      "_subject": "shield"
+      "texts": []
     },
     {
       "id": "scene-169",
@@ -13870,15 +13708,7 @@
           "lookAt": "viewer"
         }
       ],
-      "props": [
-        {
-          "type": "dollarExchange",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "I'M ONLY",
@@ -13888,8 +13718,7 @@
           "enter": "pop",
           "at": 104
         }
-      ],
-      "_subject": "dollarExchange"
+      ]
     },
     {
       "id": "scene-170",
@@ -13949,7 +13778,7 @@
       ],
       "props": [
         {
-          "type": "funnelMetrics",
+          "type": "orbit",
           "scale": 1,
           "enter": "pop",
           "color": "#16A34A",
@@ -13958,8 +13787,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "Validation — funnelMetrics"
+      "texts": []
     },
     {
       "id": "scene-171",
@@ -14115,7 +13943,7 @@
       ],
       "props": [
         {
-          "type": "dollarExchange",
+          "type": "orbit",
           "scale": 1,
           "enter": "pop",
           "color": "#16A34A",
@@ -14133,8 +13961,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "dollarExchange"
+      "texts": []
     },
     {
       "id": "scene-173",
@@ -14207,8 +14034,7 @@
           "color2": "#111827"
         }
       ],
-      "texts": [],
-      "_subject": "phone"
+      "texts": []
     },
     {
       "id": "scene-174",
@@ -14277,7 +14103,7 @@
       ],
       "props": [
         {
-          "type": "shield",
+          "type": "spotlight",
           "scale": 1,
           "enter": "pop",
           "color": "#16A34A",
@@ -14295,8 +14121,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "shield"
+      "texts": []
     },
     {
       "id": "scene-175",
@@ -14369,7 +14194,7 @@
       ],
       "props": [
         {
-          "type": "phone",
+          "type": "maze",
           "scale": 1,
           "enter": "pop",
           "color": "#16A34A",
@@ -14378,8 +14203,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "phone"
+      "texts": []
     },
     {
       "id": "scene-176",
@@ -14536,8 +14360,7 @@
           "color2": "#111827"
         }
       ],
-      "texts": [],
-      "_subject": "coin"
+      "texts": []
     },
     {
       "id": "scene-178",
@@ -14759,15 +14582,7 @@
           "lookAt": "partner"
         }
       ],
-      "props": [
-        {
-          "type": "lightbulb",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "THEIR ANSWER",
@@ -14777,8 +14592,7 @@
           "enter": "pop",
           "at": 119
         }
-      ],
-      "_subject": "lightbulb"
+      ]
     },
     {
       "id": "scene-181",
@@ -14940,8 +14754,7 @@
           "color2": "#111827"
         }
       ],
-      "texts": [],
-      "_subject": "heart"
+      "texts": []
     },
     {
       "id": "scene-183",
@@ -15010,7 +14823,7 @@
       ],
       "props": [
         {
-          "type": "lightbulb",
+          "type": "ripple",
           "scale": 1,
           "enter": "pop",
           "color": "#16A34A",
@@ -15019,8 +14832,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "lightbulb"
+      "texts": []
     },
     {
       "id": "scene-184",
@@ -15086,8 +14898,7 @@
           "at": 0
         }
       ],
-      "texts": [],
-      "_subject": "coin"
+      "texts": []
     },
     {
       "id": "scene-185",
@@ -15172,8 +14983,7 @@
           "enter": "pop",
           "at": 171
         }
-      ],
-      "_subject": "chains"
+      ]
     },
     {
       "id": "scene-186",
@@ -15258,8 +15068,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "rocketLaunch"
+      "texts": []
     },
     {
       "id": "scene-187",
@@ -15541,8 +15350,7 @@
           "at": 0
         }
       ],
-      "texts": [],
-      "_subject": "coin"
+      "texts": []
     },
     {
       "id": "scene-191",
@@ -15620,8 +15428,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "coin"
+      "texts": []
     },
     {
       "id": "scene-192",
@@ -15708,8 +15515,7 @@
           "enter": "pop",
           "at": 263
         }
-      ],
-      "_subject": "heart"
+      ]
     },
     {
       "id": "scene-193",
@@ -15772,15 +15578,7 @@
           "lookAt": "viewer"
         }
       ],
-      "props": [
-        {
-          "type": "chains",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "$3,000",
@@ -15790,8 +15588,7 @@
           "enter": "pop",
           "at": 224
         }
-      ],
-      "_subject": "chains"
+      ]
     },
     {
       "id": "scene-194",
@@ -15864,8 +15661,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "road"
+      "texts": []
     },
     {
       "id": "scene-195",
@@ -15940,8 +15736,7 @@
           "enter": "pop",
           "at": 130
         }
-      ],
-      "_subject": "phone"
+      ]
     },
     {
       "id": "scene-196",
@@ -16360,8 +16155,7 @@
           "at": 0
         }
       ],
-      "texts": [],
-      "_subject": "coin"
+      "texts": []
     },
     {
       "id": "scene-201",
@@ -16450,8 +16244,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "target"
+      "texts": []
     },
     {
       "id": "scene-202",
@@ -16619,8 +16412,7 @@
           "enter": "pop",
           "at": 188
         }
-      ],
-      "_subject": "coin"
+      ]
     },
     {
       "id": "scene-204",
@@ -16685,15 +16477,7 @@
           "lookAt": "viewer"
         }
       ],
-      "props": [
-        {
-          "type": "dollarExchange",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "MAKING YOUR FIRST",
@@ -16703,8 +16487,7 @@
           "enter": "pop",
           "at": 188
         }
-      ],
-      "_subject": "dollarExchange"
+      ]
     },
     {
       "id": "scene-205",
@@ -16782,8 +16565,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "dollarExchange"
+      "texts": []
     },
     {
       "id": "scene-206",
@@ -16868,8 +16650,7 @@
           "enter": "pop",
           "at": 162
         }
-      ],
-      "_subject": "chains"
+      ]
     },
     {
       "id": "scene-207",
@@ -17004,8 +16785,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "rocketLaunch"
+      "texts": []
     },
     {
       "id": "scene-209",
@@ -17070,15 +16850,7 @@
           "lookAt": "viewer"
         }
       ],
-      "props": [
-        {
-          "type": "chains",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "DEMAND FIRST",
@@ -17088,8 +16860,7 @@
           "enter": "pop",
           "at": 104
         }
-      ],
-      "_subject": "chains"
+      ]
     },
     {
       "id": "scene-210",
@@ -17164,8 +16935,7 @@
           "color2": "#111827"
         }
       ],
-      "texts": [],
-      "_subject": "road"
+      "texts": []
     },
     {
       "id": "scene-211",
@@ -17401,8 +17171,7 @@
           "enter": "pop",
           "at": 92
         }
-      ],
-      "_subject": "lightbulb"
+      ]
     },
     {
       "id": "scene-214",
@@ -17611,8 +17380,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "phone"
+      "texts": []
     },
     {
       "id": "scene-217",
@@ -18255,8 +18023,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "school"
+      "texts": []
     },
     {
       "id": "scene-225",
@@ -18331,8 +18098,7 @@
           "enter": "pop",
           "at": 22
         }
-      ],
-      "_subject": "phone"
+      ]
     },
     {
       "id": "scene-226",
@@ -18408,8 +18174,7 @@
           "color2": "#111827"
         }
       ],
-      "texts": [],
-      "_subject": "lightbulb"
+      "texts": []
     },
     {
       "id": "scene-227",
@@ -18492,8 +18257,7 @@
           "enter": "pop",
           "at": 71
         }
-      ],
-      "_subject": "dollarExchange"
+      ]
     },
     {
       "id": "scene-228",
@@ -18568,8 +18332,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "phone"
+      "texts": []
     },
     {
       "id": "scene-229",
@@ -19221,8 +18984,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "phone"
+      "texts": []
     },
     {
       "id": "scene-237",
@@ -19299,8 +19061,7 @@
           "color2": "#111827"
         }
       ],
-      "texts": [],
-      "_subject": "Validation — coin"
+      "texts": []
     },
     {
       "id": "scene-238",
@@ -19374,8 +19135,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "road"
+      "texts": []
     },
     {
       "id": "scene-239",
@@ -19535,8 +19295,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "coin"
+      "texts": []
     },
     {
       "id": "scene-241",
@@ -19602,8 +19361,7 @@
           "at": 0
         }
       ],
-      "texts": [],
-      "_subject": "phone"
+      "texts": []
     },
     {
       "id": "scene-242",
@@ -19688,8 +19446,7 @@
           "enter": "pop",
           "at": 71
         }
-      ],
-      "_subject": "dollarExchange"
+      ]
     },
     {
       "id": "scene-243",
@@ -19785,8 +19542,7 @@
           "enter": "pop",
           "at": 8
         }
-      ],
-      "_subject": "chains"
+      ]
     },
     {
       "id": "scene-244",
@@ -19869,8 +19625,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "Validation"
+      "texts": []
     },
     {
       "id": "scene-245",
@@ -19955,8 +19710,7 @@
           "enter": "pop",
           "at": 59
         }
-      ],
-      "_subject": "chains"
+      ]
     },
     {
       "id": "scene-246",
@@ -20022,7 +19776,7 @@
       ],
       "props": [
         {
-          "type": "dollarExchange",
+          "type": "orbit",
           "scale": 1,
           "enter": "pop",
           "color": "#16A34A",
@@ -20031,8 +19785,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "dollarExchange"
+      "texts": []
     },
     {
       "id": "scene-247",
@@ -20116,7 +19869,7 @@
           "at": 12
         },
         {
-          "type": "heart",
+          "type": "spotlight",
           "scale": 0.6,
           "enter": "fade",
           "color": "#16A34A",
@@ -20125,8 +19878,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "heart"
+      "texts": []
     },
     {
       "id": "scene-248",
@@ -20203,8 +19955,7 @@
           "color2": "#111827"
         }
       ],
-      "texts": [],
-      "_subject": "phone"
+      "texts": []
     },
     {
       "id": "scene-249",
@@ -20375,15 +20126,7 @@
           "lookAt": "partner"
         }
       ],
-      "props": [
-        {
-          "type": "rocketLaunch",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "RAN SMALL",
@@ -20393,8 +20136,7 @@
           "enter": "pop",
           "at": 39
         }
-      ],
-      "_subject": "rocketLaunch"
+      ]
     },
     {
       "id": "scene-251",
@@ -20468,8 +20210,7 @@
           "color2": "#111827"
         }
       ],
-      "texts": [],
-      "_subject": "road"
+      "texts": []
     },
     {
       "id": "scene-252",
@@ -20533,8 +20274,7 @@
           "at": 0
         }
       ],
-      "texts": [],
-      "_subject": "phone"
+      "texts": []
     },
     {
       "id": "scene-253",
@@ -20704,8 +20444,7 @@
           "color2": "#111827"
         }
       ],
-      "texts": [],
-      "_subject": "rocketLaunch"
+      "texts": []
     },
     {
       "id": "scene-255",
@@ -20948,7 +20687,7 @@
           "at": 12
         },
         {
-          "type": "rocketLaunch",
+          "type": "spotlight",
           "scale": 0.6,
           "enter": "fade",
           "color": "#16A34A",
@@ -20957,8 +20696,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "Validation — rocketLaunch"
+      "texts": []
     },
     {
       "id": "scene-258",
@@ -21109,8 +20847,7 @@
           "color2": "#111827"
         }
       ],
-      "texts": [],
-      "_subject": "coin"
+      "texts": []
     },
     {
       "id": "scene-260",
@@ -21177,7 +20914,7 @@
       ],
       "props": [
         {
-          "type": "rocketLaunch",
+          "type": "shape",
           "scale": 1,
           "enter": "pop",
           "color": "#16A34A",
@@ -21204,8 +20941,7 @@
           "enter": "pop",
           "at": 0
         }
-      ],
-      "_subject": "rocketLaunch"
+      ]
     },
     {
       "id": "scene-261",
@@ -21270,8 +21006,7 @@
           "at": 0
         }
       ],
-      "texts": [],
-      "_subject": "dollarExchange"
+      "texts": []
     },
     {
       "id": "scene-262",
@@ -21514,8 +21249,7 @@
           "color2": "#111827"
         }
       ],
-      "texts": [],
-      "_subject": "medical"
+      "texts": []
     },
     {
       "id": "scene-265",
@@ -21677,8 +21411,7 @@
           "enter": "pop",
           "at": 186
         }
-      ],
-      "_subject": "rocketLaunch"
+      ]
     },
     {
       "id": "scene-267",
@@ -21753,8 +21486,7 @@
           "color2": "#111827"
         }
       ],
-      "texts": [],
-      "_subject": "dollarExchange"
+      "texts": []
     },
     {
       "id": "scene-268",
@@ -22004,8 +21736,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "Validation — rocketLaunch"
+      "texts": []
     },
     {
       "id": "scene-271",
@@ -22082,8 +21813,7 @@
           "color2": "#111827"
         }
       ],
-      "texts": [],
-      "_subject": "chains"
+      "texts": []
     },
     {
       "id": "scene-272",
@@ -22315,8 +22045,7 @@
           "at": 0
         }
       ],
-      "texts": [],
-      "_subject": "rocketLaunch"
+      "texts": []
     },
     {
       "id": "scene-275",
@@ -22558,8 +22287,7 @@
           "enter": "pop",
           "at": 178
         }
-      ],
-      "_subject": "target"
+      ]
     },
     {
       "id": "scene-278",

@@ -212,7 +212,7 @@
       ],
       "props": [
         {
-          "type": "medical",
+          "type": "orbit",
           "scale": 0.6,
           "enter": "fade",
           "color": "#15803D",
@@ -237,8 +237,7 @@
           "enter": "pop",
           "at": 241
         }
-      ],
-      "_subject": "medical"
+      ]
     },
     {
       "id": "scene-01",
@@ -304,8 +303,7 @@
           "color2": "#0F2018"
         }
       ],
-      "texts": [],
-      "_subject": "medical"
+      "texts": []
     },
     {
       "id": "scene-02",
@@ -581,8 +579,7 @@
           "color2": "#0F2018"
         }
       ],
-      "texts": [],
-      "_subject": "coffee"
+      "texts": []
     },
     {
       "id": "scene-06",
@@ -656,8 +653,7 @@
           "enter": "pop",
           "at": 150
         }
-      ],
-      "_subject": "alarmClock"
+      ]
     },
     {
       "id": "scene-07",
@@ -723,7 +719,7 @@
       ],
       "props": [
         {
-          "type": "medical",
+          "type": "spotlight",
           "scale": 1,
           "enter": "pop",
           "color": "#15803D",
@@ -741,8 +737,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "medical"
+      "texts": []
     },
     {
       "id": "scene-08",
@@ -962,8 +957,7 @@
           "color2": "#0F2018"
         }
       ],
-      "texts": [],
-      "_subject": "medical"
+      "texts": []
     },
     {
       "id": "scene-11",
@@ -1272,8 +1266,7 @@
           "enter": "pop",
           "at": 312
         }
-      ],
-      "_subject": "food"
+      ]
     },
     {
       "id": "scene-15",
@@ -1409,7 +1402,7 @@
       ],
       "props": [
         {
-          "type": "target",
+          "type": "orbit",
           "scale": 1,
           "enter": "pop",
           "color": "#15803D",
@@ -1418,8 +1411,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "target"
+      "texts": []
     },
     {
       "id": "scene-17",
@@ -1695,8 +1687,7 @@
           "color2": "#0F2018"
         }
       ],
-      "texts": [],
-      "_subject": "phone"
+      "texts": []
     },
     {
       "id": "scene-21",
@@ -1847,8 +1838,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "Insulin"
+      "texts": []
     },
     {
       "id": "scene-23",
@@ -1914,8 +1904,7 @@
           "color2": "#0F2018"
         }
       ],
-      "texts": [],
-      "_subject": "medical"
+      "texts": []
     },
     {
       "id": "scene-24",
@@ -2223,8 +2212,7 @@
           "color2": "#0F2018"
         }
       ],
-      "texts": [],
-      "_subject": "home"
+      "texts": []
     },
     {
       "id": "scene-28",
@@ -2599,8 +2587,7 @@
           "color2": "#0F2018"
         }
       ],
-      "texts": [],
-      "_subject": "medical"
+      "texts": []
     },
     {
       "id": "scene-33",
@@ -2850,8 +2837,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "phone"
+      "texts": []
     },
     {
       "id": "scene-37",
@@ -2918,8 +2904,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "phone"
+      "texts": []
     },
     {
       "id": "scene-38",
@@ -3139,8 +3124,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "medical"
+      "texts": []
     },
     {
       "id": "scene-41",
@@ -3834,8 +3818,7 @@
           "enter": "pop",
           "at": 44
         }
-      ],
-      "_subject": "medical"
+      ]
     },
     {
       "id": "scene-51",
@@ -4459,8 +4442,7 @@
           "at": 0
         }
       ],
-      "texts": [],
-      "_subject": "medical"
+      "texts": []
     },
     {
       "id": "scene-60",
@@ -4777,8 +4759,7 @@
           "enter": "pop",
           "at": 217
         }
-      ],
-      "_subject": "medical"
+      ]
     },
     {
       "id": "scene-64",
@@ -4918,8 +4899,7 @@
           "enter": "pop",
           "at": 149
         }
-      ],
-      "_subject": "phone"
+      ]
     },
     {
       "id": "scene-66",
@@ -4976,7 +4956,7 @@
       ],
       "props": [
         {
-          "type": "key",
+          "type": "ripple",
           "scale": 1,
           "enter": "pop",
           "color": "#15803D",
@@ -4985,8 +4965,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "Insulin — key"
+      "texts": []
     },
     {
       "id": "scene-67",
@@ -5042,7 +5021,7 @@
       ],
       "props": [
         {
-          "type": "key",
+          "type": "shape",
           "scale": 1,
           "enter": "pop",
           "color": "#15803D",
@@ -5051,8 +5030,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "Insulin — key"
+      "texts": []
     },
     {
       "id": "scene-68",
@@ -5183,8 +5161,7 @@
           "color2": "#0F2018"
         }
       ],
-      "texts": [],
-      "_subject": "Insulin — door"
+      "texts": []
     },
     {
       "id": "scene-70",
@@ -5389,8 +5366,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "Insulin"
+      "texts": []
     },
     {
       "id": "scene-73",
@@ -5675,8 +5651,7 @@
           "at": 0
         }
       ],
-      "texts": [],
-      "_subject": "medical"
+      "texts": []
     },
     {
       "id": "scene-77",
@@ -5741,8 +5716,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "Insulin"
+      "texts": []
     },
     {
       "id": "scene-78",
@@ -5807,8 +5781,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "Insulin"
+      "texts": []
     },
     {
       "id": "scene-79",
@@ -5874,8 +5847,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "Insulin"
+      "texts": []
     },
     {
       "id": "scene-80",
@@ -5939,8 +5911,7 @@
           "enter": "pop",
           "at": 25
         }
-      ],
-      "_subject": "Insulin"
+      ]
     },
     {
       "id": "scene-81",
@@ -6006,8 +5977,7 @@
           "color2": "#0F2018"
         }
       ],
-      "texts": [],
-      "_subject": "Insulin — phone"
+      "texts": []
     },
     {
       "id": "scene-82",
@@ -6073,8 +6043,7 @@
           "enter": "pop",
           "at": 164
         }
-      ],
-      "_subject": "Insulin"
+      ]
     },
     {
       "id": "scene-83",
@@ -6149,8 +6118,7 @@
           "enter": "pop",
           "at": 113
         }
-      ],
-      "_subject": "home"
+      ]
     },
     {
       "id": "scene-84",
@@ -6226,8 +6194,7 @@
           "enter": "pop",
           "at": 181
         }
-      ],
-      "_subject": "Insulin — game"
+      ]
     },
     {
       "id": "scene-85",
@@ -6301,8 +6268,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "Insulin"
+      "texts": []
     },
     {
       "id": "scene-86",
@@ -6377,8 +6343,7 @@
           "enter": "pop",
           "at": 155
         }
-      ],
-      "_subject": "medical"
+      ]
     },
     {
       "id": "scene-87",
@@ -6435,8 +6400,7 @@
           "at": 0
         }
       ],
-      "texts": [],
-      "_subject": "Insulin — medical"
+      "texts": []
     },
     {
       "id": "scene-88",
@@ -6594,8 +6558,7 @@
           "enter": "pop",
           "at": 181
         }
-      ],
-      "_subject": "Insulin"
+      ]
     },
     {
       "id": "scene-90",
@@ -6661,7 +6624,7 @@
       ],
       "props": [
         {
-          "type": "medical",
+          "type": "maze",
           "scale": 1,
           "enter": "pop",
           "color": "#15803D",
@@ -6679,8 +6642,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "medical"
+      "texts": []
     },
     {
       "id": "scene-91",
@@ -6821,8 +6783,7 @@
           "color2": "#0F2018"
         }
       ],
-      "texts": [],
-      "_subject": "school"
+      "texts": []
     },
     {
       "id": "scene-93",
@@ -6945,8 +6906,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "medical"
+      "texts": []
     },
     {
       "id": "scene-95",
@@ -7030,8 +6990,7 @@
           "enter": "pop",
           "at": 123
         }
-      ],
-      "_subject": "Insulin — codeWindow"
+      ]
     },
     {
       "id": "scene-96",
@@ -7093,8 +7052,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "Insulin"
+      "texts": []
     },
     {
       "id": "scene-97",
@@ -7224,8 +7182,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "Insulin"
+      "texts": []
     },
     {
       "id": "scene-99",
@@ -7356,8 +7313,7 @@
           "enter": "pop",
           "at": 144
         }
-      ],
-      "_subject": "Insulin"
+      ]
     },
     {
       "id": "scene-101",
@@ -7544,15 +7500,7 @@
           "holds": "briefcase"
         }
       ],
-      "props": [
-        {
-          "type": "work",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "COUPLE OF HOURS",
@@ -7562,8 +7510,7 @@
           "enter": "pop",
           "at": 136
         }
-      ],
-      "_subject": "work"
+      ]
     },
     {
       "id": "scene-104",
@@ -7639,8 +7586,7 @@
           "enter": "pop",
           "at": 22
         }
-      ],
-      "_subject": "food"
+      ]
     },
     {
       "id": "scene-105",
@@ -7706,8 +7652,7 @@
           "color2": "#0F2018"
         }
       ],
-      "texts": [],
-      "_subject": "alarmClock"
+      "texts": []
     },
     {
       "id": "scene-106",
@@ -7981,8 +7926,7 @@
           "color2": "#0F2018"
         }
       ],
-      "texts": [],
-      "_subject": "food"
+      "texts": []
     },
     {
       "id": "scene-110",
@@ -8175,8 +8119,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "Insulin"
+      "texts": []
     },
     {
       "id": "scene-113",
@@ -8246,7 +8189,7 @@
       ],
       "props": [
         {
-          "type": "road",
+          "type": "maze",
           "scale": 1,
           "enter": "pop",
           "color": "#15803D",
@@ -8264,8 +8207,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "Insulin — road"
+      "texts": []
     },
     {
       "id": "scene-114",
@@ -8344,8 +8286,7 @@
           "enter": "pop",
           "at": 174
         }
-      ],
-      "_subject": "phone"
+      ]
     },
     {
       "id": "scene-115",
@@ -8531,7 +8472,7 @@
       ],
       "props": [
         {
-          "type": "coffee",
+          "type": "ripple",
           "scale": 1,
           "enter": "pop",
           "color": "#15803D",
@@ -8549,8 +8490,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "coffee"
+      "texts": []
     },
     {
       "id": "scene-118",
@@ -8700,8 +8640,7 @@
           "color2": "#0F2018"
         }
       ],
-      "texts": [],
-      "_subject": "medical"
+      "texts": []
     },
     {
       "id": "scene-120",
@@ -8895,8 +8834,7 @@
           "at": 0
         }
       ],
-      "texts": [],
-      "_subject": "medical"
+      "texts": []
     },
     {
       "id": "scene-123",
@@ -9067,8 +9005,7 @@
           "enter": "pop",
           "at": 80
         }
-      ],
-      "_subject": "Insulin"
+      ]
     },
     {
       "id": "scene-125",
@@ -9269,7 +9206,7 @@
       ],
       "props": [
         {
-          "type": "medical",
+          "type": "maze",
           "scale": 1,
           "enter": "pop",
           "color": "#15803D",
@@ -9287,8 +9224,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "medical"
+      "texts": []
     },
     {
       "id": "scene-128",
@@ -9844,8 +9780,7 @@
           "color2": "#0F2018"
         }
       ],
-      "texts": [],
-      "_subject": "food"
+      "texts": []
     },
     {
       "id": "scene-136",
@@ -10231,8 +10166,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "laptopMockup"
+      "texts": []
     },
     {
       "id": "scene-141",
@@ -10558,8 +10492,7 @@
           "color2": "#0F2018"
         }
       ],
-      "texts": [],
-      "_subject": "food"
+      "texts": []
     },
     {
       "id": "scene-146",
@@ -10624,8 +10557,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "food"
+      "texts": []
     },
     {
       "id": "scene-147",
@@ -10683,7 +10615,7 @@
       ],
       "props": [
         {
-          "type": "food",
+          "type": "spotlight",
           "scale": 1,
           "enter": "pop",
           "color": "#15803D",
@@ -10701,8 +10633,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "food"
+      "texts": []
     },
     {
       "id": "scene-148",
@@ -10768,7 +10699,7 @@
       ],
       "props": [
         {
-          "type": "food",
+          "type": "maze",
           "scale": 1,
           "enter": "pop",
           "color": "#15803D",
@@ -10786,8 +10717,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "food"
+      "texts": []
     },
     {
       "id": "scene-149",
@@ -10987,8 +10917,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "food"
+      "texts": []
     },
     {
       "id": "scene-152",
@@ -11194,8 +11123,7 @@
           "color2": "#0F2018"
         }
       ],
-      "texts": [],
-      "_subject": "phone"
+      "texts": []
     },
     {
       "id": "scene-155",
@@ -11397,7 +11325,7 @@
           "color2": "#0F2018"
         },
         {
-          "type": "food",
+          "type": "arrow",
           "x": 960,
           "y": 566,
           "scale": 0.72,
@@ -11417,8 +11345,7 @@
           "color2": "#0F2018"
         }
       ],
-      "texts": [],
-      "_subject": "food"
+      "texts": []
     },
     {
       "id": "scene-158",
@@ -11985,8 +11912,7 @@
           "color2": "#0F2018"
         }
       ],
-      "texts": [],
-      "_subject": "storm"
+      "texts": []
     },
     {
       "id": "scene-166",
@@ -12043,7 +11969,7 @@
       ],
       "props": [
         {
-          "type": "food",
+          "type": "shape",
           "scale": 1,
           "enter": "pop",
           "color": "#15803D",
@@ -12052,8 +11978,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "food"
+      "texts": []
     },
     {
       "id": "scene-167",
@@ -12118,8 +12043,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "storm"
+      "texts": []
     },
     {
       "id": "scene-168",
@@ -12185,8 +12109,7 @@
           "color2": "#0F2018"
         }
       ],
-      "texts": [],
-      "_subject": "food"
+      "texts": []
     },
     {
       "id": "scene-169",
@@ -12738,7 +12661,7 @@
       ],
       "props": [
         {
-          "type": "food",
+          "type": "spotlight",
           "scale": 1,
           "enter": "pop",
           "color": "#15803D",
@@ -12747,8 +12670,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "food"
+      "texts": []
     },
     {
       "id": "scene-177",
@@ -13034,8 +12956,7 @@
           "color2": "#0F2018"
         }
       ],
-      "texts": [],
-      "_subject": "food"
+      "texts": []
     },
     {
       "id": "scene-181",
@@ -13164,15 +13085,7 @@
           "action": "talk"
         }
       ],
-      "props": [
-        {
-          "type": "food",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "IT'S A PROFIT",
@@ -13182,8 +13095,7 @@
           "enter": "pop",
           "at": 0
         }
-      ],
-      "_subject": "food"
+      ]
     },
     {
       "id": "scene-183",
@@ -13464,7 +13376,7 @@
       ],
       "props": [
         {
-          "type": "food",
+          "type": "maze",
           "scale": 0.6,
           "enter": "fade",
           "color": "#15803D",
@@ -13482,8 +13394,7 @@
           "enter": "pop",
           "at": 186
         }
-      ],
-      "_subject": "food"
+      ]
     },
     {
       "id": "scene-187",
@@ -13624,8 +13535,7 @@
           "enter": "pop",
           "at": 126
         }
-      ],
-      "_subject": "alarmClock"
+      ]
     },
     {
       "id": "scene-189",
@@ -13691,8 +13601,7 @@
           "color2": "#0F2018"
         }
       ],
-      "texts": [],
-      "_subject": "school"
+      "texts": []
     },
     {
       "id": "scene-190",
@@ -13777,8 +13686,7 @@
           "enter": "pop",
           "at": 28
         }
-      ],
-      "_subject": "work"
+      ]
     },
     {
       "id": "scene-191",
@@ -14042,15 +13950,7 @@
           "action": "talk"
         }
       ],
-      "props": [
-        {
-          "type": "phone",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "BREAK",
@@ -14060,8 +13960,7 @@
           "enter": "pop",
           "at": 157
         }
-      ],
-      "_subject": "phone"
+      ]
     },
     {
       "id": "scene-195",
@@ -14216,8 +14115,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "phone"
+      "texts": []
     },
     {
       "id": "scene-197",
@@ -14301,8 +14199,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "phone"
+      "texts": []
     },
     {
       "id": "scene-198",
@@ -14443,8 +14340,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "Insulin"
+      "texts": []
     },
     {
       "id": "scene-200",
@@ -14501,7 +14397,7 @@
       ],
       "props": [
         {
-          "type": "gift",
+          "type": "ripple",
           "scale": 1,
           "enter": "pop",
           "color": "#15803D",
@@ -14510,8 +14406,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "Insulin — gift"
+      "texts": []
     },
     {
       "id": "scene-201",
@@ -14586,8 +14481,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "Insulin"
+      "texts": []
     },
     {
       "id": "scene-202",
@@ -14773,15 +14667,7 @@
           "holds": "cup"
         }
       ],
-      "props": [
-        {
-          "type": "food",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "NOT DO BIG",
@@ -14791,8 +14677,7 @@
           "enter": "pop",
           "at": 121
         }
-      ],
-      "_subject": "food"
+      ]
     },
     {
       "id": "scene-205",
@@ -15219,8 +15104,7 @@
           "color2": "#0F2018"
         }
       ],
-      "texts": [],
-      "_subject": "phone"
+      "texts": []
     },
     {
       "id": "scene-211",
@@ -15425,8 +15309,7 @@
           "color2": "#0F2018"
         }
       ],
-      "texts": [],
-      "_subject": "food"
+      "texts": []
     },
     {
       "id": "scene-214",
@@ -15502,8 +15385,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "Insulin — food"
+      "texts": []
     },
     {
       "id": "scene-215",
@@ -15648,7 +15530,7 @@
       ],
       "props": [
         {
-          "type": "food",
+          "type": "maze",
           "scale": 0.6,
           "enter": "fade",
           "color": "#15803D",
@@ -15666,8 +15548,7 @@
           "enter": "pop",
           "at": 73
         }
-      ],
-      "_subject": "food"
+      ]
     },
     {
       "id": "scene-217",
@@ -15811,8 +15692,7 @@
           "enter": "pop",
           "at": 157
         }
-      ],
-      "_subject": "alarmClock"
+      ]
     },
     {
       "id": "scene-219",
@@ -16111,8 +15991,7 @@
           "enter": "pop",
           "at": 63
         }
-      ],
-      "_subject": "phone"
+      ]
     },
     {
       "id": "scene-223",
@@ -16248,7 +16127,7 @@
       ],
       "props": [
         {
-          "type": "storm",
+          "type": "maze",
           "scale": 1,
           "enter": "pop",
           "color": "#15803D",
@@ -16257,8 +16136,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "storm"
+      "texts": []
     },
     {
       "id": "scene-225",
@@ -16316,7 +16194,7 @@
       ],
       "props": [
         {
-          "type": "alarmClock",
+          "type": "orbit",
           "scale": 1,
           "enter": "pop",
           "color": "#15803D",
@@ -16334,8 +16212,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "Insulin — alarmClock"
+      "texts": []
     },
     {
       "id": "scene-226",
@@ -16387,7 +16264,7 @@
       ],
       "props": [
         {
-          "type": "laptopMockup",
+          "type": "shape",
           "scale": 1,
           "enter": "pop",
           "color": "#15803D",
@@ -16396,8 +16273,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "Insulin — laptopMockup"
+      "texts": []
     },
     {
       "id": "scene-227",
@@ -16463,8 +16339,7 @@
           "enter": "pop",
           "at": 70
         }
-      ],
-      "_subject": "food"
+      ]
     },
     {
       "id": "scene-228",
@@ -16530,8 +16405,7 @@
           "color2": "#0F2018"
         }
       ],
-      "texts": [],
-      "_subject": "food"
+      "texts": []
     },
     {
       "id": "scene-229",
@@ -16599,15 +16473,7 @@
           "lookAt": "partner"
         }
       ],
-      "props": [
-        {
-          "type": "alarmClock",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "CLOCK ON THE WALL",
@@ -16617,8 +16483,7 @@
           "enter": "pop",
           "at": 94
         }
-      ],
-      "_subject": "alarmClock"
+      ]
     },
     {
       "id": "scene-230",
@@ -16694,8 +16559,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "alarmClock"
+      "texts": []
     },
     {
       "id": "scene-231",
@@ -16769,8 +16633,7 @@
           "enter": "pop",
           "at": 3
         }
-      ],
-      "_subject": "Insulin"
+      ]
     },
     {
       "id": "scene-232",
@@ -17139,8 +17002,7 @@
           "enter": "pop",
           "at": 257
         }
-      ],
-      "_subject": "alarmClock"
+      ]
     },
     {
       "id": "scene-237",
@@ -17205,8 +17067,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "work"
+      "texts": []
     },
     {
       "id": "scene-238",
@@ -17264,7 +17125,7 @@
       ],
       "props": [
         {
-          "type": "work",
+          "type": "ripple",
           "scale": 1,
           "enter": "pop",
           "color": "#15803D",
@@ -17273,8 +17134,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "work"
+      "texts": []
     },
     {
       "id": "scene-239",
@@ -17428,8 +17288,7 @@
           "color2": "#0F2018"
         }
       ],
-      "texts": [],
-      "_subject": "phone"
+      "texts": []
     },
     {
       "id": "scene-241",
@@ -17486,7 +17345,7 @@
       ],
       "props": [
         {
-          "type": "target",
+          "type": "maze",
           "scale": 0.6,
           "enter": "fade",
           "color": "#15803D",
@@ -17504,8 +17363,7 @@
           "enter": "pop",
           "at": 248
         }
-      ],
-      "_subject": "target"
+      ]
     },
     {
       "id": "scene-242",
@@ -17569,15 +17427,7 @@
           "lookAt": "partner"
         }
       ],
-      "props": [
-        {
-          "type": "home",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "YOUR HABITS",
@@ -17587,8 +17437,7 @@
           "enter": "pop",
           "at": 100
         }
-      ],
-      "_subject": "home"
+      ]
     },
     {
       "id": "scene-243",
@@ -18077,8 +17926,7 @@
           "enter": "pop",
           "at": 147
         }
-      ],
-      "_subject": "home"
+      ]
     },
     {
       "id": "scene-250",
@@ -18211,7 +18059,7 @@
       ],
       "props": [
         {
-          "type": "coffee",
+          "type": "ripple",
           "scale": 1,
           "enter": "pop",
           "color": "#15803D",
@@ -18220,8 +18068,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "coffee"
+      "texts": []
     },
     {
       "id": "scene-252",
@@ -18287,8 +18134,7 @@
           "color2": "#0F2018"
         }
       ],
-      "texts": [],
-      "_subject": "laptopMockup"
+      "texts": []
     },
     {
       "id": "scene-253",
@@ -18344,7 +18190,7 @@
       ],
       "props": [
         {
-          "type": "food",
+          "type": "orbit",
           "scale": 1,
           "enter": "pop",
           "color": "#15803D",
@@ -18353,8 +18199,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "food"
+      "texts": []
     },
     {
       "id": "scene-254",
@@ -18419,8 +18264,7 @@
           "enter": "pop",
           "at": 250
         }
-      ],
-      "_subject": "coin"
+      ]
     },
     {
       "id": "scene-255",
@@ -18486,8 +18330,7 @@
           "color2": "#0F2018"
         }
       ],
-      "texts": [],
-      "_subject": "coin"
+      "texts": []
     },
     {
       "id": "scene-256",
@@ -18554,7 +18397,7 @@
       ],
       "props": [
         {
-          "type": "food",
+          "type": "spotlight",
           "scale": 1,
           "enter": "pop",
           "color": "#15803D",
@@ -18581,8 +18424,7 @@
           "enter": "pop",
           "at": 227
         }
-      ],
-      "_subject": "food"
+      ]
     },
     {
       "id": "scene-257",
@@ -18781,7 +18623,7 @@
       ],
       "props": [
         {
-          "type": "food",
+          "type": "maze",
           "scale": 0.6,
           "enter": "fade",
           "color": "#15803D",
@@ -18799,8 +18641,7 @@
           "enter": "pop",
           "at": 114
         }
-      ],
-      "_subject": "food"
+      ]
     },
     {
       "id": "scene-260",
@@ -18950,8 +18791,7 @@
           "color2": "#0F2018"
         }
       ],
-      "texts": [],
-      "_subject": "school"
+      "texts": []
     },
     {
       "id": "scene-262",
@@ -19232,8 +19072,7 @@
           "color2": "#0F2018"
         }
       ],
-      "texts": [],
-      "_subject": "coin"
+      "texts": []
     },
     {
       "id": "scene-266",
@@ -19502,8 +19341,7 @@
           "at": 0
         }
       ],
-      "texts": [],
-      "_subject": "Insulin — alarmClock"
+      "texts": []
     },
     {
       "id": "scene-270",
@@ -19569,8 +19407,7 @@
           "color2": "#0F2018"
         }
       ],
-      "texts": [],
-      "_subject": "Insulin — medical"
+      "texts": []
     },
     {
       "id": "scene-271",
@@ -19848,15 +19685,7 @@
           "action": "think"
         }
       ],
-      "props": [
-        {
-          "type": "school",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "EXAM TABLE",
@@ -19866,8 +19695,7 @@
           "enter": "pop",
           "at": 99
         }
-      ],
-      "_subject": "school"
+      ]
     },
     {
       "id": "scene-275",
@@ -19914,7 +19742,7 @@
       "characters": [],
       "props": [
         {
-          "type": "medical",
+          "type": "ripple",
           "scale": 1,
           "enter": "pop",
           "color": "#15803D",
@@ -19923,8 +19751,7 @@
           "at": 0
         }
       ],
-      "texts": [],
-      "_subject": "medical"
+      "texts": []
     },
     {
       "id": "scene-276",
@@ -20065,7 +19892,7 @@
       ],
       "props": [
         {
-          "type": "target",
+          "type": "shape",
           "scale": 1,
           "enter": "pop",
           "color": "#15803D",
@@ -20074,8 +19901,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "target"
+      "texts": []
     },
     {
       "id": "scene-278",
@@ -20218,8 +20044,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "Insulin"
+      "texts": []
     },
     {
       "id": "scene-280",
@@ -20788,8 +20613,7 @@
           "color2": "#0F2018"
         }
       ],
-      "texts": [],
-      "_subject": "school"
+      "texts": []
     },
     {
       "id": "scene-288",
@@ -20855,8 +20679,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "Insulin"
+      "texts": []
     },
     {
       "id": "scene-289",
@@ -20987,8 +20810,7 @@
           "color2": "#0F2018"
         }
       ],
-      "texts": [],
-      "_subject": "food"
+      "texts": []
     },
     {
       "id": "scene-291",
@@ -21043,15 +20865,7 @@
           "holds": "cup"
         }
       ],
-      "props": [
-        {
-          "type": "food",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "CHANGE",
@@ -21061,8 +20875,7 @@
           "enter": "pop",
           "at": 140
         }
-      ],
-      "_subject": "food"
+      ]
     },
     {
       "id": "scene-292",
@@ -21109,7 +20922,7 @@
       "characters": [],
       "props": [
         {
-          "type": "food",
+          "type": "ripple",
           "scale": 1,
           "enter": "pop",
           "color": "#15803D",
@@ -21118,8 +20931,7 @@
           "at": 0
         }
       ],
-      "texts": [],
-      "_subject": "food"
+      "texts": []
     },
     {
       "id": "scene-293",
@@ -21331,15 +21143,7 @@
           "action": "talk"
         }
       ],
-      "props": [
-        {
-          "type": "alarmClock",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "YOUR FACE IS FREE",
@@ -21349,8 +21153,7 @@
           "enter": "pop",
           "at": 173
         }
-      ],
-      "_subject": "alarmClock"
+      ]
     },
     {
       "id": "scene-296",
@@ -21404,15 +21207,7 @@
           "action": "talk"
         }
       ],
-      "props": [
-        {
-          "type": "home",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "STOP EATING 3 HOURS",
@@ -21422,8 +21217,7 @@
           "enter": "pop",
           "at": 154
         }
-      ],
-      "_subject": "home"
+      ]
     },
     {
       "id": "scene-297",
@@ -21984,8 +21778,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "alarmClock"
+      "texts": []
     },
     {
       "id": "scene-305",
@@ -22051,8 +21844,7 @@
           "color2": "#0F2018"
         }
       ],
-      "texts": [],
-      "_subject": "phone"
+      "texts": []
     },
     {
       "id": "scene-306",
@@ -22202,15 +21994,7 @@
           "lookAt": "partner"
         }
       ],
-      "props": [
-        {
-          "type": "coffee",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "STOP",
@@ -22220,8 +22004,7 @@
           "enter": "pop",
           "at": 42
         }
-      ],
-      "_subject": "coffee"
+      ]
     },
     {
       "id": "scene-308",
@@ -22344,7 +22127,7 @@
       ],
       "props": [
         {
-          "type": "medical",
+          "type": "orbit",
           "scale": 0.6,
           "enter": "fade",
           "color": "#15803D",
@@ -22362,8 +22145,7 @@
           "enter": "pop",
           "at": 0
         }
-      ],
-      "_subject": "medical"
+      ]
     },
     {
       "id": "scene-310",
@@ -22420,8 +22202,7 @@
           "at": 0
         }
       ],
-      "texts": [],
-      "_subject": "food"
+      "texts": []
     },
     {
       "id": "scene-311",

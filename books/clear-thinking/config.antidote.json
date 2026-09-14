@@ -223,17 +223,8 @@
           "action": "idle"
         }
       ],
-      "props": [
-        {
-          "type": "work",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
-      "texts": [],
-      "_subject": "work"
+      "props": [],
+      "texts": []
     },
     {
       "id": "scene-02",
@@ -296,8 +287,7 @@
           "enter": "pop",
           "at": 133
         }
-      ],
-      "_subject": "phone"
+      ]
     },
     {
       "id": "scene-03",
@@ -318,7 +308,7 @@
           "rgb(244,246,248)",
           "rgb(240,244,245)"
         ],
-        "set": "cafe",
+        "set": "none",
         "texture": "grain",
         "accent": "#17242B",
         "split": [
@@ -358,17 +348,8 @@
           "action": "idle"
         }
       ],
-      "props": [
-        {
-          "type": "phone",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
-      "texts": [],
-      "_subject": "phone"
+      "props": [],
+      "texts": []
     },
     {
       "id": "scene-04",
@@ -417,17 +398,8 @@
           "action": "slump"
         }
       ],
-      "props": [
-        {
-          "type": "phone",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
-      "texts": [],
-      "_subject": "phone"
+      "props": [],
+      "texts": []
     },
     {
       "id": "scene-05",
@@ -507,8 +479,7 @@
           "enter": "pop",
           "at": 27
         }
-      ],
-      "_subject": "alarmClock"
+      ]
     },
     {
       "id": "scene-06",
@@ -529,7 +500,7 @@
           "rgb(245,247,248)",
           "rgb(241,244,246)"
         ],
-        "set": "office",
+        "set": "horizon",
         "texture": "grain",
         "accent": "#17242B"
       },
@@ -567,7 +538,7 @@
       ],
       "props": [
         {
-          "type": "work",
+          "type": "spotlight",
           "scale": 1,
           "enter": "pop",
           "color": "#1C7C8C",
@@ -575,8 +546,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "work"
+      "texts": []
     },
     {
       "id": "scene-07",
@@ -597,7 +567,7 @@
           "rgb(245,247,248)",
           "rgb(241,244,246)"
         ],
-        "set": "office",
+        "set": "horizon",
         "texture": "grain",
         "accent": "#17242B"
       },
@@ -629,15 +599,7 @@
           "action": "talk"
         }
       ],
-      "props": [
-        {
-          "type": "work",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "SAVED HIS JOB",
@@ -647,8 +609,7 @@
           "enter": "pop",
           "at": 0
         }
-      ],
-      "_subject": "work"
+      ]
     },
     {
       "id": "scene-08",
@@ -669,7 +630,7 @@
           "rgb(244,246,247)",
           "rgb(240,244,245)"
         ],
-        "set": "office",
+        "set": "none",
         "texture": "grain",
         "accent": "#17242B",
         "split": [
@@ -713,15 +674,7 @@
           "action": "idle"
         }
       ],
-      "props": [
-        {
-          "type": "work",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "MAKE A CHOICE",
@@ -731,8 +684,7 @@
           "enter": "pop",
           "at": 420
         }
-      ],
-      "_subject": "work"
+      ]
     },
     {
       "id": "scene-09",
@@ -992,8 +944,7 @@
           "enter": "pop",
           "at": 526
         }
-      ],
-      "_subject": "game"
+      ]
     },
     {
       "id": "scene-13",
@@ -1177,7 +1128,7 @@
           "rgb(244,247,248)",
           "rgb(241,244,246)"
         ],
-        "set": "office",
+        "set": "abstract",
         "texture": "dots",
         "accent": "#17242B"
       },
@@ -1217,15 +1168,7 @@
           "action": "idle"
         }
       ],
-      "props": [
-        {
-          "type": "work",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "TAKE THIS JOB",
@@ -1235,8 +1178,7 @@
           "enter": "pop",
           "at": 368
         }
-      ],
-      "_subject": "work"
+      ]
     },
     {
       "id": "scene-17",
@@ -1257,7 +1199,7 @@
           "rgb(243,246,247)",
           "rgb(240,244,245)"
         ],
-        "set": "office",
+        "set": "none",
         "texture": "dots",
         "accent": "#17242B",
         "split": [
@@ -1301,15 +1243,7 @@
           "action": "idle"
         }
       ],
-      "props": [
-        {
-          "type": "work",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "BREAK ROOM",
@@ -1319,8 +1253,7 @@
           "enter": "pop",
           "at": 399
         }
-      ],
-      "_subject": "work"
+      ]
     },
     {
       "id": "scene-18",
@@ -1487,15 +1420,7 @@
           "action": "talk"
         }
       ],
-      "props": [
-        {
-          "type": "fire",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "YOU JUST FIRE",
@@ -1505,8 +1430,7 @@
           "enter": "pop",
           "at": 0
         }
-      ],
-      "_subject": "fire"
+      ]
     },
     {
       "id": "scene-21",
@@ -1567,15 +1491,7 @@
           "action": "slump"
         }
       ],
-      "props": [
-        {
-          "type": "trophy",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "YOU DIDN'T WIN",
@@ -1585,8 +1501,7 @@
           "enter": "pop",
           "at": 1
         }
-      ],
-      "_subject": "trophy"
+      ]
     },
     {
       "id": "scene-22",
@@ -1761,15 +1676,7 @@
           "action": "idle"
         }
       ],
-      "props": [
-        {
-          "type": "phone",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "NEXT TIME",
@@ -1779,8 +1686,7 @@
           "enter": "pop",
           "at": 8
         }
-      ],
-      "_subject": "phone"
+      ]
     },
     {
       "id": "scene-25",
@@ -1845,15 +1751,7 @@
           "action": "idle"
         }
       ],
-      "props": [
-        {
-          "type": "game",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "NEXT TEAM MEETING",
@@ -1863,8 +1761,7 @@
           "enter": "pop",
           "at": 104
         }
-      ],
-      "_subject": "game"
+      ]
     },
     {
       "id": "scene-26",
@@ -1931,8 +1828,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "game"
+      "texts": []
     },
     {
       "id": "scene-27",
@@ -2037,7 +1933,7 @@
       ],
       "props": [
         {
-          "type": "trophy",
+          "type": "shape",
           "scale": 1,
           "enter": "pop",
           "color": "#1C7C8C",
@@ -2054,8 +1950,7 @@
           "enter": "pop",
           "at": 195
         }
-      ],
-      "_subject": "trophy"
+      ]
     },
     {
       "id": "scene-29",
@@ -2112,17 +2007,8 @@
           "action": "idle"
         }
       ],
-      "props": [
-        {
-          "type": "work",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
-      "texts": [],
-      "_subject": "work"
+      "props": [],
+      "texts": []
     },
     {
       "id": "scene-30",
@@ -2175,15 +2061,7 @@
           "action": "talk"
         }
       ],
-      "props": [
-        {
-          "type": "war",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "YOU PUT YOURSELF",
@@ -2193,8 +2071,7 @@
           "enter": "pop",
           "at": 61
         }
-      ],
-      "_subject": "war"
+      ]
     },
     {
       "id": "scene-31",
@@ -2266,8 +2143,7 @@
           "enter": "pop",
           "at": 200
         }
-      ],
-      "_subject": "war"
+      ]
     },
     {
       "id": "scene-32",
@@ -2393,8 +2269,7 @@
           "enter": "pop",
           "at": 70
         }
-      ],
-      "_subject": "People — fire"
+      ]
     },
     {
       "id": "scene-34",
@@ -2466,8 +2341,7 @@
           "enter": "pop",
           "at": 368
         }
-      ],
-      "_subject": "game"
+      ]
     },
     {
       "id": "scene-35",
@@ -2625,17 +2499,8 @@
           "action": "think"
         }
       ],
-      "props": [
-        {
-          "type": "lightbulb",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
-      "texts": [],
-      "_subject": "lightbulb"
+      "props": [],
+      "texts": []
     },
     {
       "id": "scene-38",
@@ -2656,7 +2521,7 @@
           "rgb(216,218,220)",
           "rgb(199,202,203)"
         ],
-        "set": "cafe",
+        "set": "abstract",
         "texture": "dots",
         "accent": "#17242B"
       },
@@ -2696,15 +2561,7 @@
           "action": "idle"
         }
       ],
-      "props": [
-        {
-          "type": "phone",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "COPYING YOUR BOSS",
@@ -2714,8 +2571,7 @@
           "enter": "pop",
           "at": 277
         }
-      ],
-      "_subject": "phone"
+      ]
     },
     {
       "id": "scene-39",
@@ -2770,7 +2626,7 @@
       ],
       "props": [
         {
-          "type": "shield",
+          "type": "orbit",
           "scale": 1,
           "enter": "pop",
           "color": "#1C7C8C",
@@ -2787,8 +2643,7 @@
           "enter": "pop",
           "at": 22
         }
-      ],
-      "_subject": "shield"
+      ]
     },
     {
       "id": "scene-40",
@@ -2872,7 +2727,7 @@
           "rgb(199,202,204)",
           "rgb(183,186,186)"
         ],
-        "set": "cafe",
+        "set": "none",
         "texture": "dots",
         "accent": "#17242B",
         "split": [
@@ -2916,15 +2771,7 @@
           "action": "idle"
         }
       ],
-      "props": [
-        {
-          "type": "phone",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "YOUR BOSS LOOKS ANGRY",
@@ -2934,8 +2781,7 @@
           "enter": "pop",
           "at": 341
         }
-      ],
-      "_subject": "phone"
+      ]
     },
     {
       "id": "scene-42",
@@ -3055,17 +2901,8 @@
           "action": "idle"
         }
       ],
-      "props": [
-        {
-          "type": "phone",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
-      "texts": [],
-      "_subject": "phone"
+      "props": [],
+      "texts": []
     },
     {
       "id": "scene-44",
@@ -3188,7 +3025,7 @@
       ],
       "props": [
         {
-          "type": "phone",
+          "type": "maze",
           "scale": 1,
           "enter": "pop",
           "color": "#1C7C8C",
@@ -3205,8 +3042,7 @@
           "enter": "pop",
           "at": 116
         }
-      ],
-      "_subject": "phone"
+      ]
     },
     {
       "id": "scene-46",
@@ -3311,7 +3147,7 @@
       "characters": [],
       "props": [
         {
-          "type": "phone",
+          "type": "orbit",
           "scale": 1,
           "enter": "pop",
           "color": "#1C7C8C",
@@ -3319,8 +3155,7 @@
           "at": 0
         }
       ],
-      "texts": [],
-      "_subject": "phone"
+      "texts": []
     },
     {
       "id": "scene-48",
@@ -3369,17 +3204,8 @@
           "action": "talk"
         }
       ],
-      "props": [
-        {
-          "type": "alarmClock",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
-      "texts": [],
-      "_subject": "alarmClock"
+      "props": [],
+      "texts": []
     },
     {
       "id": "scene-49",
@@ -3478,17 +3304,8 @@
           "action": "point"
         }
       ],
-      "props": [
-        {
-          "type": "food",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
-      "texts": [],
-      "_subject": "food"
+      "props": [],
+      "texts": []
     },
     {
       "id": "scene-51",
@@ -3660,7 +3477,7 @@
       "characters": [],
       "props": [
         {
-          "type": "war",
+          "type": "orbit",
           "scale": 1,
           "enter": "pop",
           "color": "#1C7C8C",
@@ -3668,8 +3485,7 @@
           "at": 0
         }
       ],
-      "texts": [],
-      "_subject": "war"
+      "texts": []
     },
     {
       "id": "scene-54",
@@ -3781,15 +3597,7 @@
           "action": "talk"
         }
       ],
-      "props": [
-        {
-          "type": "shield",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "STOP",
@@ -3799,8 +3607,7 @@
           "enter": "pop",
           "at": 521
         }
-      ],
-      "_subject": "shield"
+      ]
     },
     {
       "id": "scene-56",
@@ -3849,17 +3656,8 @@
           "action": "celebrate"
         }
       ],
-      "props": [
-        {
-          "type": "lightbulb",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
-      "texts": [],
-      "_subject": "lightbulb"
+      "props": [],
+      "texts": []
     },
     {
       "id": "scene-57",
@@ -3989,8 +3787,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "game"
+      "texts": []
     },
     {
       "id": "scene-59",
@@ -4203,17 +4000,8 @@
           "action": "slump"
         }
       ],
-      "props": [
-        {
-          "type": "game",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
-      "texts": [],
-      "_subject": "game"
+      "props": [],
+      "texts": []
     },
     {
       "id": "scene-63",
@@ -4328,15 +4116,7 @@
           "action": "celebrate"
         }
       ],
-      "props": [
-        {
-          "type": "war",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "YOUR OWN BEST",
@@ -4346,8 +4126,7 @@
           "enter": "pop",
           "at": 236
         }
-      ],
-      "_subject": "war"
+      ]
     },
     {
       "id": "scene-65",
@@ -4470,8 +4249,7 @@
           "enter": "pop",
           "at": 104
         }
-      ],
-      "_subject": "work"
+      ]
     },
     {
       "id": "scene-67",
@@ -4528,17 +4306,8 @@
           "action": "idle"
         }
       ],
-      "props": [
-        {
-          "type": "phone",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
-      "texts": [],
-      "_subject": "phone"
+      "props": [],
+      "texts": []
     },
     {
       "id": "scene-68",
@@ -4713,7 +4482,7 @@
       ],
       "props": [
         {
-          "type": "target",
+          "type": "maze",
           "scale": 1,
           "enter": "pop",
           "color": "#1C7C8C",
@@ -4721,8 +4490,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "target"
+      "texts": []
     },
     {
       "id": "scene-71",
@@ -4855,15 +4623,7 @@
           "action": "idle"
         }
       ],
-      "props": [
-        {
-          "type": "work",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "ADMIT I'M WRONG",
@@ -4873,8 +4633,7 @@
           "enter": "pop",
           "at": 476
         }
-      ],
-      "_subject": "work"
+      ]
     },
     {
       "id": "scene-73",
@@ -4946,8 +4705,7 @@
           "enter": "pop",
           "at": 5
         }
-      ],
-      "_subject": "lightbulb"
+      ]
     },
     {
       "id": "scene-74",
@@ -5070,8 +4828,7 @@
           "enter": "pop",
           "at": 260
         }
-      ],
-      "_subject": "target"
+      ]
     },
     {
       "id": "scene-76",
@@ -5222,8 +4979,7 @@
           "enter": "pop",
           "at": 10
         }
-      ],
-      "_subject": "shield"
+      ]
     },
     {
       "id": "scene-78",
@@ -5244,7 +5000,7 @@
           "rgb(193,196,197)",
           "rgb(177,180,180)"
         ],
-        "set": "office",
+        "set": "horizon",
         "texture": "grain",
         "accent": "#17242B"
       },
@@ -5272,17 +5028,8 @@
           "action": "think"
         }
       ],
-      "props": [
-        {
-          "type": "work",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
-      "texts": [],
-      "_subject": "work"
+      "props": [],
+      "texts": []
     },
     {
       "id": "scene-79",
@@ -5303,7 +5050,7 @@
           "rgb(193,195,197)",
           "rgb(176,179,180)"
         ],
-        "set": "office",
+        "set": "horizon",
         "texture": "grain",
         "accent": "#17242B"
       },
@@ -5335,15 +5082,7 @@
           "action": "talk"
         }
       ],
-      "props": [
-        {
-          "type": "work",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "UNDER THE TABLE",
@@ -5353,8 +5092,7 @@
           "enter": "pop",
           "at": 186
         }
-      ],
-      "_subject": "People — work"
+      ]
     },
     {
       "id": "scene-80",
@@ -5411,17 +5149,8 @@
           "action": "idle"
         }
       ],
-      "props": [
-        {
-          "type": "road",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
-      "texts": [],
-      "_subject": "road"
+      "props": [],
+      "texts": []
     },
     {
       "id": "scene-81",
@@ -5669,8 +5398,7 @@
           "enter": "pop",
           "at": 533
         }
-      ],
-      "_subject": "road"
+      ]
     },
     {
       "id": "scene-85",
@@ -5723,15 +5451,7 @@
           "action": "talk"
         }
       ],
-      "props": [
-        {
-          "type": "alarmClock",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "GROUP YOUR BRAIN",
@@ -5741,8 +5461,7 @@
           "enter": "pop",
           "at": 270
         }
-      ],
-      "_subject": "alarmClock"
+      ]
     },
     {
       "id": "scene-86",
@@ -5885,7 +5604,7 @@
           "rgb(173,176,177)",
           "rgb(157,160,160)"
         ],
-        "set": "office",
+        "set": "none",
         "texture": "dots",
         "accent": "#17242B",
         "split": [
@@ -5931,7 +5650,7 @@
       ],
       "props": [
         {
-          "type": "work",
+          "type": "maze",
           "scale": 1,
           "enter": "pop",
           "color": "#1C7C8C",
@@ -5948,8 +5667,7 @@
           "enter": "pop",
           "at": 255
         }
-      ],
-      "_subject": "work"
+      ]
     },
     {
       "id": "scene-89",
@@ -5970,7 +5688,7 @@
           "rgb(173,175,176)",
           "rgb(156,159,160)"
         ],
-        "set": "office",
+        "set": "abstract",
         "texture": "dots",
         "accent": "#17242B"
       },
@@ -6005,7 +5723,7 @@
       ],
       "props": [
         {
-          "type": "work",
+          "type": "ripple",
           "scale": 1,
           "enter": "pop",
           "color": "#1C7C8C",
@@ -6022,8 +5740,7 @@
           "enter": "pop",
           "at": 1
         }
-      ],
-      "_subject": "work"
+      ]
     },
     {
       "id": "scene-90",
@@ -6143,15 +5860,7 @@
           "action": "idle"
         }
       ],
-      "props": [
-        {
-          "type": "game",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "ROOM EVERY SINGLE TIME",
@@ -6161,8 +5870,7 @@
           "enter": "pop",
           "at": 349
         }
-      ],
-      "_subject": "game"
+      ]
     },
     {
       "id": "scene-92",
@@ -6215,15 +5923,7 @@
           "action": "talk"
         }
       ],
-      "props": [
-        {
-          "type": "war",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "GUY NOBODY",
@@ -6233,8 +5933,7 @@
           "enter": "pop",
           "at": 46
         }
-      ],
-      "_subject": "war"
+      ]
     },
     {
       "id": "scene-93",
@@ -6430,8 +6129,7 @@
           "enter": "pop",
           "at": 471
         }
-      ],
-      "_subject": "lightbulb"
+      ]
     },
     {
       "id": "scene-96",
@@ -6542,15 +6240,7 @@
           "action": "think"
         }
       ],
-      "props": [
-        {
-          "type": "phone",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "YOUR PHONE",
@@ -6560,8 +6250,7 @@
           "enter": "pop",
           "at": 330
         }
-      ],
-      "_subject": "phone"
+      ]
     },
     {
       "id": "scene-98",
@@ -6824,17 +6513,8 @@
           "action": "idle"
         }
       ],
-      "props": [
-        {
-          "type": "trophy",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
-      "texts": [],
-      "_subject": "trophy"
+      "props": [],
+      "texts": []
     },
     {
       "id": "scene-102",
@@ -6994,7 +6674,7 @@
           "rgb(174,208,214)",
           "rgb(241,244,246)"
         ],
-        "set": "cafe",
+        "set": "horizon",
         "texture": "grain",
         "accent": "#17242B"
       },
@@ -7045,8 +6725,7 @@
           "enter": "pop",
           "at": 519
         }
-      ],
-      "_subject": "phone"
+      ]
     },
     {
       "id": "scene-105",
@@ -7067,7 +6746,7 @@
           "rgb(187,216,220)",
           "rgb(242,245,247)"
         ],
-        "set": "cafe",
+        "set": "horizon",
         "texture": "grain",
         "accent": "#17242B"
       },
@@ -7103,17 +6782,8 @@
           "action": "idle"
         }
       ],
-      "props": [
-        {
-          "type": "phone",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
-      "texts": [],
-      "_subject": "phone"
+      "props": [],
+      "texts": []
     },
     {
       "id": "scene-106",
@@ -7134,7 +6804,7 @@
           "rgb(186,215,220)",
           "rgb(242,245,247)"
         ],
-        "set": "cafe",
+        "set": "horizon",
         "texture": "grain",
         "accent": "#17242B"
       },
@@ -7174,15 +6844,7 @@
           "action": "idle"
         }
       ],
-      "props": [
-        {
-          "type": "phone",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "HALF THE TIME",
@@ -7192,8 +6854,7 @@
           "enter": "pop",
           "at": 25
         }
-      ],
-      "_subject": "People — phone"
+      ]
     },
     {
       "id": "scene-107",
@@ -7265,8 +6926,7 @@
           "enter": "pop",
           "at": 66
         }
-      ],
-      "_subject": "People — work"
+      ]
     },
     {
       "id": "scene-108",
@@ -7496,17 +7156,8 @@
           "action": "talk"
         }
       ],
-      "props": [
-        {
-          "type": "game",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
-      "texts": [],
-      "_subject": "game"
+      "props": [],
+      "texts": []
     },
     {
       "id": "scene-112",
@@ -7527,7 +7178,7 @@
           "rgb(167,204,211)",
           "rgb(241,244,246)"
         ],
-        "set": "cafe",
+        "set": "abstract",
         "texture": "dots",
         "accent": "#17242B"
       },
@@ -7556,17 +7207,8 @@
           "crowd": 9
         }
       ],
-      "props": [
-        {
-          "type": "phone",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
-      "texts": [],
-      "_subject": "phone"
+      "props": [],
+      "texts": []
     },
     {
       "id": "scene-113",
@@ -7697,7 +7339,7 @@
           "rgb(165,203,209)",
           "rgb(241,244,246)"
         ],
-        "set": "cafe",
+        "set": "none",
         "texture": "grain",
         "accent": "#17242B",
         "split": [
@@ -7739,7 +7381,7 @@
       ],
       "props": [
         {
-          "type": "phone",
+          "type": "maze",
           "scale": 1,
           "enter": "pop",
           "color": "#1C7C8C",
@@ -7747,8 +7389,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "phone"
+      "texts": []
     },
     {
       "id": "scene-116",
@@ -7807,8 +7448,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "alarmClock"
+      "texts": []
     },
     {
       "id": "scene-117",
@@ -7861,15 +7501,7 @@
           "action": "point"
         }
       ],
-      "props": [
-        {
-          "type": "alarmClock",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "NEVER SEND WORK",
@@ -7879,8 +7511,7 @@
           "enter": "pop",
           "at": 138
         }
-      ],
-      "_subject": "alarmClock"
+      ]
     },
     {
       "id": "scene-118",
@@ -8010,8 +7641,7 @@
           "enter": "pop",
           "at": 107
         }
-      ],
-      "_subject": "work"
+      ]
     },
     {
       "id": "scene-120",
@@ -8122,15 +7752,7 @@
           "action": "point"
         }
       ],
-      "props": [
-        {
-          "type": "work",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "2 HOURS",
@@ -8140,8 +7762,7 @@
           "enter": "pop",
           "at": 414
         }
-      ],
-      "_subject": "work"
+      ]
     },
     {
       "id": "scene-122",
@@ -8190,17 +7811,8 @@
           "action": "think"
         }
       ],
-      "props": [
-        {
-          "type": "target",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
-      "texts": [],
-      "_subject": "target"
+      "props": [],
+      "texts": []
     },
     {
       "id": "scene-123",
@@ -8242,7 +7854,7 @@
       "characters": [],
       "props": [
         {
-          "type": "work",
+          "type": "ripple",
           "scale": 1,
           "enter": "pop",
           "color": "#1C7C8C",
@@ -8250,8 +7862,7 @@
           "at": 0
         }
       ],
-      "texts": [],
-      "_subject": "work"
+      "texts": []
     },
     {
       "id": "scene-124",
@@ -8668,7 +8279,7 @@
           "rgb(180,211,217)",
           "rgb(243,246,247)"
         ],
-        "set": "cafe",
+        "set": "horizon",
         "texture": "grain",
         "accent": "#17242B"
       },
@@ -8711,8 +8322,7 @@
           "enter": "pop",
           "at": 512
         }
-      ],
-      "_subject": "phone"
+      ]
     },
     {
       "id": "scene-131",
@@ -8777,15 +8387,7 @@
           "action": "idle"
         }
       ],
-      "props": [
-        {
-          "type": "fire",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "MAKE THE RIGHT CHOICE",
@@ -8795,8 +8397,7 @@
           "enter": "pop",
           "at": 171
         }
-      ],
-      "_subject": "fire"
+      ]
     },
     {
       "id": "scene-132",
@@ -8817,7 +8418,7 @@
           "rgb(178,211,216)",
           "rgb(243,246,247)"
         ],
-        "set": "cafe",
+        "set": "abstract",
         "texture": "dots",
         "accent": "#17242B"
       },
@@ -8849,15 +8450,7 @@
           "action": "point"
         }
       ],
-      "props": [
-        {
-          "type": "phone",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "CHECK EMAIL",
@@ -8867,8 +8460,7 @@
           "enter": "pop",
           "at": 58
         }
-      ],
-      "_subject": "phone"
+      ]
     },
     {
       "id": "scene-133",
@@ -8889,7 +8481,7 @@
           "rgb(150,194,202)",
           "rgb(241,244,246)"
         ],
-        "set": "cafe",
+        "set": "abstract",
         "texture": "dots",
         "accent": "#17242B"
       },
@@ -8929,15 +8521,7 @@
           "action": "idle"
         }
       ],
-      "props": [
-        {
-          "type": "phone",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "OPEN EMAIL",
@@ -8947,8 +8531,7 @@
           "enter": "pop",
           "at": 8
         }
-      ],
-      "_subject": "phone"
+      ]
     },
     {
       "id": "scene-134",
@@ -8969,7 +8552,7 @@
           "rgb(149,194,201)",
           "rgb(241,244,246)"
         ],
-        "set": "cafe",
+        "set": "abstract",
         "texture": "dots",
         "accent": "#17242B"
       },
@@ -9009,15 +8592,7 @@
           "action": "idle"
         }
       ],
-      "props": [
-        {
-          "type": "phone",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "EMAIL FIRST",
@@ -9027,8 +8602,7 @@
           "enter": "pop",
           "at": 313
         }
-      ],
-      "_subject": "phone"
+      ]
     },
     {
       "id": "scene-135",
@@ -9049,7 +8623,7 @@
           "rgb(175,209,215)",
           "rgb(243,246,247)"
         ],
-        "set": "cafe",
+        "set": "abstract",
         "texture": "dots",
         "accent": "#17242B"
       },
@@ -9091,8 +8665,7 @@
           "enter": "pop",
           "at": 356
         }
-      ],
-      "_subject": "phone"
+      ]
     },
     {
       "id": "scene-136",
@@ -9145,15 +8718,7 @@
           "action": "slump"
         }
       ],
-      "props": [
-        {
-          "type": "war",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "NOT TO LOSE",
@@ -9163,8 +8728,7 @@
           "enter": "pop",
           "at": 215
         }
-      ],
-      "_subject": "war"
+      ]
     },
     {
       "id": "scene-137",
@@ -9185,7 +8749,7 @@
           "rgb(160,200,207)",
           "rgb(242,245,247)"
         ],
-        "set": "cafe",
+        "set": "abstract",
         "texture": "dots",
         "accent": "#17242B"
       },
@@ -9217,15 +8781,7 @@
           "action": "think"
         }
       ],
-      "props": [
-        {
-          "type": "phone",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "CHECK MY EMAIL",
@@ -9235,8 +8791,7 @@
           "enter": "pop",
           "at": 172
         }
-      ],
-      "_subject": "phone"
+      ]
     },
     {
       "id": "scene-138",
@@ -9378,8 +8933,7 @@
           "enter": "pop",
           "at": 87
         }
-      ],
-      "_subject": "fire"
+      ]
     },
     {
       "id": "scene-140",
@@ -9562,15 +9116,7 @@
           "action": "idle"
         }
       ],
-      "props": [
-        {
-          "type": "game",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "PICTURE YOUR TEAM",
@@ -9580,8 +9126,7 @@
           "enter": "pop",
           "at": 396
         }
-      ],
-      "_subject": "game"
+      ]
     },
     {
       "id": "scene-143",
@@ -9632,8 +9177,7 @@
         }
       ],
       "props": [],
-      "texts": [],
-      "_subject": "People"
+      "texts": []
     },
     {
       "id": "scene-144",
@@ -9688,7 +9232,7 @@
       ],
       "props": [
         {
-          "type": "compass",
+          "type": "maze",
           "scale": 1,
           "enter": "pop",
           "color": "#1C7C8C",
@@ -9705,8 +9249,7 @@
           "enter": "pop",
           "at": 73
         }
-      ],
-      "_subject": "People — compass"
+      ]
     },
     {
       "id": "scene-145",
@@ -9817,17 +9360,8 @@
           "action": "think"
         }
       ],
-      "props": [
-        {
-          "type": "road",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
-      "texts": [],
-      "_subject": "road"
+      "props": [],
+      "texts": []
     },
     {
       "id": "scene-147",
@@ -10010,15 +9544,7 @@
           "action": "idle"
         }
       ],
-      "props": [
-        {
-          "type": "alarmClock",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "ONLY GOAL",
@@ -10028,8 +9554,7 @@
           "enter": "pop",
           "at": 1
         }
-      ],
-      "_subject": "alarmClock"
+      ]
     },
     {
       "id": "scene-150",
@@ -10086,17 +9611,8 @@
           "action": "idle"
         }
       ],
-      "props": [
-        {
-          "type": "game",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
-      "texts": [],
-      "_subject": "game"
+      "props": [],
+      "texts": []
     },
     {
       "id": "scene-151",
@@ -10208,17 +9724,8 @@
           "action": "point"
         }
       ],
-      "props": [
-        {
-          "type": "food",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
-      "texts": [],
-      "_subject": "food"
+      "props": [],
+      "texts": []
     },
     {
       "id": "scene-153",
@@ -10239,7 +9746,7 @@
           "rgb(243,216,166)",
           "rgb(239,242,244)"
         ],
-        "set": "cafe",
+        "set": "none",
         "texture": "grain",
         "accent": "#17242B",
         "split": [
@@ -10302,8 +9809,7 @@
           "enter": "pop",
           "at": 512
         }
-      ],
-      "_subject": "phone"
+      ]
     },
     {
       "id": "scene-154",
@@ -10362,7 +9868,7 @@
       ],
       "props": [
         {
-          "type": "shield",
+          "type": "maze",
           "scale": 1,
           "enter": "pop",
           "color": "#1C7C8C",
@@ -10370,8 +9876,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "shield"
+      "texts": []
     },
     {
       "id": "scene-155",
@@ -10585,7 +10090,7 @@
       "characters": [],
       "props": [
         {
-          "type": "road",
+          "type": "ripple",
           "scale": 1,
           "enter": "pop",
           "color": "#1C7C8C",
@@ -10593,8 +10098,7 @@
           "at": 0
         }
       ],
-      "texts": [],
-      "_subject": "road"
+      "texts": []
     },
     {
       "id": "scene-159",
@@ -10655,15 +10159,7 @@
           "action": "idle"
         }
       ],
-      "props": [
-        {
-          "type": "food",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "YOUR DEEP WORK",
@@ -10673,8 +10169,7 @@
           "enter": "pop",
           "at": 275
         }
-      ],
-      "_subject": "food"
+      ]
     },
     {
       "id": "scene-160",
@@ -11069,15 +10564,7 @@
           "action": "think"
         }
       ],
-      "props": [
-        {
-          "type": "food",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "PEOPLE LOVE",
@@ -11087,8 +10574,7 @@
           "enter": "pop",
           "at": 0
         }
-      ],
-      "_subject": "People — food"
+      ]
     },
     {
       "id": "scene-167",
@@ -11149,15 +10635,7 @@
           "action": "idle"
         }
       ],
-      "props": [
-        {
-          "type": "game",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "PLAY THE GAME",
@@ -11167,8 +10645,7 @@
           "enter": "pop",
           "at": 512
         }
-      ],
-      "_subject": "game"
+      ]
     },
     {
       "id": "scene-168",
@@ -11405,15 +10882,7 @@
           "action": "think"
         }
       ],
-      "props": [
-        {
-          "type": "shield",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "YOU DO CONTROL",
@@ -11423,8 +10892,7 @@
           "enter": "pop",
           "at": 306
         }
-      ],
-      "_subject": "shield"
+      ]
     },
     {
       "id": "scene-172",
@@ -11524,8 +10992,7 @@
           "at": 0
         }
       ],
-      "texts": [],
-      "_subject": "fire"
+      "texts": []
     },
     {
       "id": "scene-174",
@@ -11592,7 +11059,7 @@
       ],
       "props": [
         {
-          "type": "target",
+          "type": "maze",
           "scale": 1,
           "enter": "pop",
           "color": "#1C7C8C",
@@ -11609,8 +11076,7 @@
           "enter": "pop",
           "at": 53
         }
-      ],
-      "_subject": "target"
+      ]
     },
     {
       "id": "scene-175",
@@ -11659,17 +11125,8 @@
           "action": "talk"
         }
       ],
-      "props": [
-        {
-          "type": "road",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
-      "texts": [],
-      "_subject": "road"
+      "props": [],
+      "texts": []
     },
     {
       "id": "scene-176",
@@ -11690,7 +11147,7 @@
           "rgb(243,217,167)",
           "rgb(240,243,245)"
         ],
-        "set": "cafe",
+        "set": "horizon",
         "texture": "grain",
         "accent": "#17242B"
       },
@@ -11726,17 +11183,8 @@
           "action": "idle"
         }
       ],
-      "props": [
-        {
-          "type": "phone",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
-      "texts": [],
-      "_subject": "phone"
+      "props": [],
+      "texts": []
     },
     {
       "id": "scene-177",

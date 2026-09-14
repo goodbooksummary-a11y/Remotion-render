@@ -73,15 +73,7 @@
           "action": "talk"
         }
       ],
-      "props": [
-        {
-          "type": "road",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "HIDDEN POTENTIAL",
@@ -104,8 +96,7 @@
           "enter": "pop",
           "at": 22
         }
-      ],
-      "_subject": "road"
+      ]
     },
     {
       "id": "scene-01",
@@ -152,15 +143,7 @@
           "action": "point"
         }
       ],
-      "props": [
-        {
-          "type": "lightbulb",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "THE WRONG\nRULER",
@@ -173,8 +156,7 @@
           "enter": "pop",
           "at": 22
         }
-      ],
-      "_subject": "Talent — lightbulb"
+      ]
     },
     {
       "id": "scene-02",
@@ -223,7 +205,7 @@
       ],
       "props": [
         {
-          "type": "road",
+          "type": "arrow",
           "x": 1360,
           "y": 640,
           "scale": 1.2,
@@ -243,8 +225,7 @@
           "enter": "pop",
           "at": 22
         }
-      ],
-      "_subject": "Character and Talent and Scaffolding — road"
+      ]
     },
     {
       "id": "scene-03",
@@ -256,8 +237,7 @@
         "colors": [
           "rgb(250,225,189)",
           "rgb(240,244,238)"
-        ],
-        "set": "classroom"
+        ]
       },
       "camera": {
         "zoom": [
@@ -292,15 +272,7 @@
           "action": "talk"
         }
       ],
-      "props": [
-        {
-          "type": "school",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "RAW MATERIAL",
@@ -313,8 +285,7 @@
           "enter": "pop",
           "at": 22
         }
-      ],
-      "_subject": "school"
+      ]
     },
     {
       "id": "scene-04",
@@ -360,15 +331,7 @@
           "action": "point"
         }
       ],
-      "props": [
-        {
-          "type": "road",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "FIX THE RULER",
@@ -381,8 +344,7 @@
           "enter": "pop",
           "at": 22
         }
-      ],
-      "_subject": "road"
+      ]
     },
     {
       "id": "scene-05",
@@ -514,8 +476,7 @@
         "colors": [
           "rgb(250,225,189)",
           "rgb(240,244,238)"
-        ],
-        "set": "classroom"
+        ]
       },
       "camera": {
         "zoom": [
@@ -550,15 +511,7 @@
           "action": "talk"
         }
       ],
-      "props": [
-        {
-          "type": "school",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "KINDERGARTEN",
@@ -571,8 +524,7 @@
           "enter": "pop",
           "at": 22
         }
-      ],
-      "_subject": "school"
+      ]
     },
     {
       "id": "scene-08",
@@ -618,15 +570,7 @@
           "action": "talk"
         }
       ],
-      "props": [
-        {
-          "type": "phone",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "INTERNATIONAL",
@@ -639,8 +583,7 @@
           "enter": "pop",
           "at": 22
         }
-      ],
-      "_subject": "phone"
+      ]
     },
     {
       "id": "scene-09",
@@ -652,8 +595,7 @@
         "colors": [
           "rgb(242,246,241)",
           "#EAF0E8"
-        ],
-        "set": "classroom"
+        ]
       },
       "camera": {
         "zoom": [
@@ -688,15 +630,7 @@
           "action": "talk"
         }
       ],
-      "props": [
-        {
-          "type": "school",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "43",
@@ -709,8 +643,7 @@
           "enter": "pop",
           "at": 22
         }
-      ],
-      "_subject": "school"
+      ]
     },
     {
       "id": "scene-10",
@@ -757,15 +690,7 @@
           "action": "think"
         }
       ],
-      "props": [
-        {
-          "type": "game",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "COACHING",
@@ -778,8 +703,7 @@
           "enter": "pop",
           "at": 22
         }
-      ],
-      "_subject": "game"
+      ]
     },
     {
       "id": "scene-11",
@@ -826,15 +750,7 @@
           "action": "talk"
         }
       ],
-      "props": [
-        {
-          "type": "game",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "ENVIRONMENTAL",
@@ -847,8 +763,7 @@
           "enter": "pop",
           "at": 22
         }
-      ],
-      "_subject": "game"
+      ]
     },
     {
       "id": "scene-12",
@@ -894,15 +809,7 @@
           "action": "slump"
         }
       ],
-      "props": [
-        {
-          "type": "game",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "10",
@@ -915,8 +822,7 @@
           "enter": "pop",
           "at": 22
         }
-      ],
-      "_subject": "game"
+      ]
     },
     {
       "id": "scene-13",
@@ -1202,15 +1108,7 @@
           "action": "talk"
         }
       ],
-      "props": [
-        {
-          "type": "work",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "FRICTIONLESS",
@@ -1223,8 +1121,7 @@
           "enter": "pop",
           "at": 22
         }
-      ],
-      "_subject": "work"
+      ]
     },
     {
       "id": "scene-18",
@@ -1390,15 +1287,7 @@
           "action": "talk"
         }
       ],
-      "props": [
-        {
-          "type": "road",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "GOVERNMENT",
@@ -1411,8 +1300,7 @@
           "enter": "pop",
           "at": 22
         }
-      ],
-      "_subject": "Talent — road"
+      ]
     },
     {
       "id": "scene-21",
@@ -1459,15 +1347,7 @@
           "action": "think"
         }
       ],
-      "props": [
-        {
-          "type": "road",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "DISTANCE",
@@ -1480,8 +1360,7 @@
           "enter": "pop",
           "at": 22
         }
-      ],
-      "_subject": "road"
+      ]
     },
     {
       "id": "scene-22",
@@ -1528,15 +1407,7 @@
           "action": "talk"
         }
       ],
-      "props": [
-        {
-          "type": "phone",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "160",
@@ -1549,8 +1420,7 @@
           "enter": "pop",
           "at": 22
         }
-      ],
-      "_subject": "Mozart — phone"
+      ]
     },
     {
       "id": "scene-23",
@@ -1597,15 +1467,7 @@
           "action": "slump"
         }
       ],
-      "props": [
-        {
-          "type": "phone",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "UNCONDITIONAL",
@@ -1618,8 +1480,7 @@
           "enter": "pop",
           "at": 22
         }
-      ],
-      "_subject": "Mozart — phone"
+      ]
     },
     {
       "id": "scene-24",
@@ -1665,15 +1526,7 @@
           "action": "think"
         }
       ],
-      "props": [
-        {
-          "type": "notes",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "LIGHTNING",
@@ -1686,8 +1539,7 @@
           "enter": "pop",
           "at": 22
         }
-      ],
-      "_subject": "Mozart — notes"
+      ]
     },
     {
       "id": "scene-25",
@@ -1734,15 +1586,7 @@
           "action": "talk"
         }
       ],
-      "props": [
-        {
-          "type": "lightbulb",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "120",
@@ -1755,8 +1599,7 @@
           "enter": "pop",
           "at": 22
         }
-      ],
-      "_subject": "lightbulb"
+      ]
     },
     {
       "id": "scene-26",
@@ -1803,15 +1646,7 @@
           "action": "celebrate"
         }
       ],
-      "props": [
-        {
-          "type": "trophy",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "INTERNATIONALLY",
@@ -1824,8 +1659,7 @@
           "enter": "pop",
           "at": 22
         }
-      ],
-      "_subject": "trophy"
+      ]
     },
     {
       "id": "scene-27",
@@ -1837,8 +1671,7 @@
         "colors": [
           "rgb(250,225,189)",
           "rgb(240,244,238)"
-        ],
-        "set": "classroom"
+        ]
       },
       "camera": {
         "zoom": [
@@ -1873,15 +1706,7 @@
           "action": "talk"
         }
       ],
-      "props": [
-        {
-          "type": "school",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "INTERVIEWED",
@@ -1894,8 +1719,7 @@
           "enter": "pop",
           "at": 22
         }
-      ],
-      "_subject": "school"
+      ]
     },
     {
       "id": "scene-28",
@@ -1906,8 +1730,7 @@
         "type": "flat",
         "colors": [
           "rgb(239,244,238)"
-        ],
-        "set": "classroom"
+        ]
       },
       "camera": {
         "zoom": [
@@ -1942,15 +1765,7 @@
           "action": "point"
         }
       ],
-      "props": [
-        {
-          "type": "school",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "TOURNAMENTS",
@@ -1963,8 +1778,7 @@
           "enter": "pop",
           "at": 22
         }
-      ],
-      "_subject": "school"
+      ]
     },
     {
       "id": "scene-29",
@@ -2011,15 +1825,7 @@
           "action": "talk"
         }
       ],
-      "props": [
-        {
-          "type": "lightbulb",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "EXPERIMENT",
@@ -2032,8 +1838,7 @@
           "enter": "pop",
           "at": 22
         }
-      ],
-      "_subject": "Talent — lightbulb"
+      ]
     },
     {
       "id": "scene-30",
@@ -2199,15 +2004,7 @@
           "action": "talk"
         }
       ],
-      "props": [
-        {
-          "type": "road",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "ENVIRONMENT",
@@ -2220,8 +2017,7 @@
           "enter": "pop",
           "at": 22
         }
-      ],
-      "_subject": "road"
+      ]
     },
     {
       "id": "scene-33",
@@ -2293,8 +2089,7 @@
         "colors": [
           "rgb(182,212,204)",
           "rgb(238,243,237)"
-        ],
-        "set": "classroom"
+        ]
       },
       "camera": {
         "zoom": [
@@ -2329,15 +2124,7 @@
           "action": "talk"
         }
       ],
-      "props": [
-        {
-          "type": "phone",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "11,000",
@@ -2350,8 +2137,7 @@
           "enter": "pop",
           "at": 22
         }
-      ],
-      "_subject": "phone"
+      ]
     },
     {
       "id": "scene-35",
@@ -2363,8 +2149,7 @@
         "colors": [
           "rgb(250,225,189)",
           "rgb(240,244,238)"
-        ],
-        "set": "classroom"
+        ]
       },
       "camera": {
         "zoom": [
@@ -2399,15 +2184,7 @@
           "action": "talk"
         }
       ],
-      "props": [
-        {
-          "type": "school",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "25",
@@ -2420,8 +2197,7 @@
           "enter": "pop",
           "at": 22
         }
-      ],
-      "_subject": "school"
+      ]
     },
     {
       "id": "scene-36",
@@ -2432,8 +2208,7 @@
         "type": "flat",
         "colors": [
           "rgb(239,244,238)"
-        ],
-        "set": "classroom"
+        ]
       },
       "camera": {
         "zoom": [
@@ -2468,15 +2243,7 @@
           "action": "talk"
         }
       ],
-      "props": [
-        {
-          "type": "school",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "$320,000",
@@ -2489,8 +2256,7 @@
           "enter": "pop",
           "at": 22
         }
-      ],
-      "_subject": "school"
+      ]
     },
     {
       "id": "scene-37",
@@ -2562,8 +2328,7 @@
         "colors": [
           "rgb(182,212,204)",
           "rgb(238,243,237)"
-        ],
-        "set": "classroom"
+        ]
       },
       "camera": {
         "zoom": [
@@ -2598,15 +2363,7 @@
           "action": "talk"
         }
       ],
-      "props": [
-        {
-          "type": "school",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "STANDARDIZED",
@@ -2619,8 +2376,7 @@
           "enter": "pop",
           "at": 22
         }
-      ],
-      "_subject": "school"
+      ]
     },
     {
       "id": "scene-39",
@@ -2667,15 +2423,7 @@
           "action": "talk"
         }
       ],
-      "props": [
-        {
-          "type": "phone",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "20",
@@ -2688,8 +2436,7 @@
           "enter": "pop",
           "at": 22
         }
-      ],
-      "_subject": "Character — phone"
+      ]
     },
     {
       "id": "scene-40",
@@ -2735,15 +2482,7 @@
           "action": "think"
         }
       ],
-      "props": [
-        {
-          "type": "game",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "DETERMINATION",
@@ -2756,8 +2495,7 @@
           "enter": "pop",
           "at": 22
         }
-      ],
-      "_subject": "Character — game"
+      ]
     },
     {
       "id": "scene-41",
@@ -2804,15 +2542,7 @@
           "action": "talk"
         }
       ],
-      "props": [
-        {
-          "type": "game",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "STANDARDIZED",
@@ -2825,8 +2555,7 @@
           "enter": "pop",
           "at": 22
         }
-      ],
-      "_subject": "game"
+      ]
     },
     {
       "id": "scene-42",
@@ -2992,15 +2721,7 @@
           "action": "slump"
         }
       ],
-      "props": [
-        {
-          "type": "target",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "DIAGNOSING",
@@ -3013,8 +2734,7 @@
           "enter": "pop",
           "at": 22
         }
-      ],
-      "_subject": "target"
+      ]
     },
     {
       "id": "scene-45",
@@ -3074,8 +2794,7 @@
           "enter": "pop",
           "at": 22
         }
-      ],
-      "_subject": "Character"
+      ]
     },
     {
       "id": "scene-46",
@@ -3135,8 +2854,7 @@
           "enter": "pop",
           "at": 22
         }
-      ],
-      "_subject": "Character"
+      ]
     },
     {
       "id": "scene-47",
@@ -3196,8 +2914,7 @@
           "enter": "pop",
           "at": 22
         }
-      ],
-      "_subject": "Character"
+      ]
     },
     {
       "id": "scene-48",
@@ -3303,15 +3020,7 @@
           "action": "think"
         }
       ],
-      "props": [
-        {
-          "type": "rocketLaunch",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "RESOURCEFULNESS",
@@ -3324,8 +3033,7 @@
           "enter": "pop",
           "at": 22
         }
-      ],
-      "_subject": "Character — rocketLaunch"
+      ]
     },
     {
       "id": "scene-50",
@@ -3372,15 +3080,7 @@
           "action": "think"
         }
       ],
-      "props": [
-        {
-          "type": "family",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "30",
@@ -3393,8 +3093,7 @@
           "enter": "pop",
           "at": 22
         }
-      ],
-      "_subject": "Character — family"
+      ]
     },
     {
       "id": "scene-51",
@@ -3406,8 +3105,7 @@
         "colors": [
           "rgb(250,225,189)",
           "rgb(240,244,238)"
-        ],
-        "set": "classroom"
+        ]
       },
       "camera": {
         "zoom": [
@@ -3442,15 +3140,7 @@
           "action": "think"
         }
       ],
-      "props": [
-        {
-          "type": "school",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "45",
@@ -3463,8 +3153,7 @@
           "enter": "pop",
           "at": 22
         }
-      ],
-      "_subject": "Character — school"
+      ]
     },
     {
       "id": "scene-52",
@@ -3510,15 +3199,7 @@
           "action": "talk"
         }
       ],
-      "props": [
-        {
-          "type": "funnelTrap",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "PREDISPOSITION",
@@ -3531,8 +3212,7 @@
           "enter": "pop",
           "at": 22
         }
-      ],
-      "_subject": "Character — funnelTrap"
+      ]
     },
     {
       "id": "scene-53",
@@ -3579,15 +3259,7 @@
           "action": "think"
         }
       ],
-      "props": [
-        {
-          "type": "sword",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "DISTINCTION",
@@ -3600,8 +3272,7 @@
           "enter": "pop",
           "at": 22
         }
-      ],
-      "_subject": "Character — sword"
+      ]
     },
     {
       "id": "scene-54",
@@ -3661,8 +3332,7 @@
           "enter": "pop",
           "at": 22
         }
-      ],
-      "_subject": "Character"
+      ]
     },
     {
       "id": "scene-55",
@@ -3722,8 +3392,7 @@
           "enter": "pop",
           "at": 22
         }
-      ],
-      "_subject": "Character"
+      ]
     },
     {
       "id": "scene-56",
@@ -3769,15 +3438,7 @@
           "action": "think"
         }
       ],
-      "props": [
-        {
-          "type": "road",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "FUNDAMENTALLY",
@@ -3790,8 +3451,7 @@
           "enter": "pop",
           "at": 22
         }
-      ],
-      "_subject": "Character — road"
+      ]
     },
     {
       "id": "scene-57",
@@ -3838,15 +3498,7 @@
           "action": "talk"
         }
       ],
-      "props": [
-        {
-          "type": "heart",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "DELIBERATELY",
@@ -3859,8 +3511,7 @@
           "enter": "pop",
           "at": 22
         }
-      ],
-      "_subject": "heart"
+      ]
     },
     {
       "id": "scene-58",
@@ -3920,8 +3571,7 @@
           "enter": "pop",
           "at": 22
         }
-      ],
-      "_subject": "Martin"
+      ]
     },
     {
       "id": "scene-59",
@@ -3968,15 +3618,7 @@
           "action": "talk"
         }
       ],
-      "props": [
-        {
-          "type": "notes",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "AGONIZING",
@@ -3989,8 +3631,7 @@
           "enter": "pop",
           "at": 22
         }
-      ],
-      "_subject": "Martin — notes"
+      ]
     },
     {
       "id": "scene-60",
@@ -4096,15 +3737,7 @@
           "action": "slump"
         }
       ],
-      "props": [
-        {
-          "type": "notes",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "EXCRUCIATINGLY",
@@ -4117,8 +3750,7 @@
           "enter": "pop",
           "at": 22
         }
-      ],
-      "_subject": "notes"
+      ]
     },
     {
       "id": "scene-62",
@@ -4165,15 +3797,7 @@
           "action": "talk"
         }
       ],
-      "props": [
-        {
-          "type": "notes",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "AWKWARDNESS",
@@ -4186,8 +3810,7 @@
           "enter": "pop",
           "at": 22
         }
-      ],
-      "_subject": "notes"
+      ]
     },
     {
       "id": "scene-63",
@@ -4293,15 +3916,7 @@
           "action": "talk"
         }
       ],
-      "props": [
-        {
-          "type": "lightbulb",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "EXCLUSIVELY",
@@ -4314,8 +3929,7 @@
           "enter": "pop",
           "at": 22
         }
-      ],
-      "_subject": "lightbulb"
+      ]
     },
     {
       "id": "scene-65",
@@ -4327,8 +3941,7 @@
         "colors": [
           "rgb(242,246,241)",
           "#EAF0E8"
-        ],
-        "set": "classroom"
+        ]
       },
       "camera": {
         "zoom": [
@@ -4363,15 +3976,7 @@
           "action": "talk"
         }
       ],
-      "props": [
-        {
-          "type": "school",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "INSTRUCTION",
@@ -4384,8 +3989,7 @@
           "enter": "pop",
           "at": 22
         }
-      ],
-      "_subject": "school"
+      ]
     },
     {
       "id": "scene-66",
@@ -4432,15 +4036,7 @@
           "action": "think"
         }
       ],
-      "props": [
-        {
-          "type": "road",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "NEUROPLASTICITY",
@@ -4453,8 +4049,7 @@
           "enter": "pop",
           "at": 22
         }
-      ],
-      "_subject": "road"
+      ]
     },
     {
       "id": "scene-67",
@@ -4525,8 +4120,7 @@
         "type": "flat",
         "colors": [
           "rgb(239,244,238)"
-        ],
-        "set": "classroom"
+        ]
       },
       "camera": {
         "zoom": [
@@ -4561,15 +4155,7 @@
           "action": "talk"
         }
       ],
-      "props": [
-        {
-          "type": "school",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "BRILLIANT",
@@ -4582,8 +4168,7 @@
           "enter": "pop",
           "at": 22
         }
-      ],
-      "_subject": "school"
+      ]
     },
     {
       "id": "scene-69",
@@ -4595,8 +4180,7 @@
         "colors": [
           "rgb(242,246,241)",
           "#EAF0E8"
-        ],
-        "set": "classroom"
+        ]
       },
       "camera": {
         "zoom": [
@@ -4631,15 +4215,7 @@
           "action": "think"
         }
       ],
-      "props": [
-        {
-          "type": "school",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "SENTENCE",
@@ -4652,8 +4228,7 @@
           "enter": "pop",
           "at": 22
         }
-      ],
-      "_subject": "school"
+      ]
     },
     {
       "id": "scene-70",
@@ -4665,8 +4240,7 @@
         "colors": [
           "rgb(182,212,204)",
           "rgb(238,243,237)"
-        ],
-        "set": "bedroom"
+        ]
       },
       "camera": {
         "zoom": [
@@ -4701,15 +4275,7 @@
           "action": "talk"
         }
       ],
-      "props": [
-        {
-          "type": "phone",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "COMFORTABLE",
@@ -4722,8 +4288,7 @@
           "enter": "pop",
           "at": 22
         }
-      ],
-      "_subject": "phone"
+      ]
     },
     {
       "id": "scene-71",
@@ -4735,8 +4300,7 @@
         "colors": [
           "rgb(250,225,189)",
           "rgb(240,244,238)"
-        ],
-        "set": "street"
+        ]
       },
       "camera": {
         "zoom": [
@@ -4771,15 +4335,7 @@
           "action": "talk"
         }
       ],
-      "props": [
-        {
-          "type": "heart",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "SPEAKING",
@@ -4792,8 +4348,7 @@
           "enter": "pop",
           "at": 22
         }
-      ],
-      "_subject": "heart"
+      ]
     },
     {
       "id": "scene-72",
@@ -4839,15 +4394,7 @@
           "action": "think"
         }
       ],
-      "props": [
-        {
-          "type": "target",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "200",
@@ -4860,8 +4407,7 @@
           "enter": "pop",
           "at": 22
         }
-      ],
-      "_subject": "target"
+      ]
     },
     {
       "id": "scene-73",
@@ -5087,15 +4633,7 @@
           "action": "talk"
         }
       ],
-      "props": [
-        {
-          "type": "target",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "TERRIFYING",
@@ -5108,8 +4646,7 @@
           "enter": "pop",
           "at": 22
         }
-      ],
-      "_subject": "target"
+      ]
     },
     {
       "id": "scene-77",
@@ -5216,15 +4753,7 @@
           "action": "point"
         }
       ],
-      "props": [
-        {
-          "type": "target",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "200",
@@ -5237,8 +4766,7 @@
           "enter": "pop",
           "at": 22
         }
-      ],
-      "_subject": "target"
+      ]
     },
     {
       "id": "scene-79",
@@ -5285,15 +4813,7 @@
           "action": "think"
         }
       ],
-      "props": [
-        {
-          "type": "road",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "COMFORTABLY",
@@ -5306,8 +4826,7 @@
           "enter": "pop",
           "at": 22
         }
-      ],
-      "_subject": "road"
+      ]
     },
     {
       "id": "scene-80",
@@ -5366,8 +4885,7 @@
           "enter": "pop",
           "at": 22
         }
-      ],
-      "_subject": "Character"
+      ]
     },
     {
       "id": "scene-81",
@@ -5379,8 +4897,7 @@
         "colors": [
           "rgb(242,246,241)",
           "#EAF0E8"
-        ],
-        "set": "classroom"
+        ]
       },
       "camera": {
         "zoom": [
@@ -5415,15 +4932,7 @@
           "action": "talk"
         }
       ],
-      "props": [
-        {
-          "type": "school",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "ELECTRICITY",
@@ -5436,8 +4945,7 @@
           "enter": "pop",
           "at": 22
         }
-      ],
-      "_subject": "Melody — school"
+      ]
     },
     {
       "id": "scene-82",
@@ -5449,8 +4957,7 @@
         "colors": [
           "rgb(182,212,204)",
           "rgb(238,243,237)"
-        ],
-        "set": "classroom"
+        ]
       },
       "camera": {
         "zoom": [
@@ -5485,15 +4992,7 @@
           "action": "talk"
         }
       ],
-      "props": [
-        {
-          "type": "school",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "REPOSSESSED",
@@ -5506,8 +5005,7 @@
           "enter": "pop",
           "at": 22
         }
-      ],
-      "_subject": "Melody — school"
+      ]
     },
     {
       "id": "scene-83",
@@ -5686,8 +5184,7 @@
           "enter": "pop",
           "at": 22
         }
-      ],
-      "_subject": "Melody"
+      ]
     },
     {
       "id": "scene-86",
@@ -5747,8 +5244,7 @@
           "enter": "pop",
           "at": 22
         }
-      ],
-      "_subject": "Character"
+      ]
     },
     {
       "id": "scene-87",
@@ -5795,15 +5291,7 @@
           "action": "point"
         }
       ],
-      "props": [
-        {
-          "type": "heart",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "DIFFERENCE",
@@ -5816,8 +5304,7 @@
           "enter": "pop",
           "at": 22
         }
-      ],
-      "_subject": "heart"
+      ]
     },
     {
       "id": "scene-88",
@@ -5863,15 +5350,7 @@
           "action": "think"
         }
       ],
-      "props": [
-        {
-          "type": "work",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "GROWTHORIENTED",
@@ -5884,8 +5363,7 @@
           "enter": "pop",
           "at": 22
         }
-      ],
-      "_subject": "work"
+      ]
     },
     {
       "id": "scene-89",
@@ -5992,15 +5470,7 @@
           "action": "point"
         }
       ],
-      "props": [
-        {
-          "type": "work",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "SWEATING",
@@ -6013,8 +5483,7 @@
           "enter": "pop",
           "at": 22
         }
-      ],
-      "_subject": "work"
+      ]
     },
     {
       "id": "scene-91",
@@ -6061,15 +5530,7 @@
           "action": "slump"
         }
       ],
-      "props": [
-        {
-          "type": "notes",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "BREATHING",
@@ -6082,8 +5543,7 @@
           "enter": "pop",
           "at": 22
         }
-      ],
-      "_subject": "notes"
+      ]
     },
     {
       "id": "scene-92",
@@ -6189,15 +5649,7 @@
           "action": "point"
         }
       ],
-      "props": [
-        {
-          "type": "target",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "CHEERLEADERS",
@@ -6210,8 +5662,7 @@
           "enter": "pop",
           "at": 22
         }
-      ],
-      "_subject": "target"
+      ]
     },
     {
       "id": "scene-94",
@@ -6318,15 +5769,7 @@
           "action": "talk"
         }
       ],
-      "props": [
-        {
-          "type": "game",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "SOLICITING",
@@ -6339,8 +5782,7 @@
           "enter": "pop",
           "at": 22
         }
-      ],
-      "_subject": "game"
+      ]
     },
     {
       "id": "scene-96",
@@ -6506,15 +5948,7 @@
           "action": "point"
         }
       ],
-      "props": [
-        {
-          "type": "family",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "CREDIBILITY",
@@ -6527,8 +5961,7 @@
           "enter": "pop",
           "at": 22
         }
-      ],
-      "_subject": "family"
+      ]
     },
     {
       "id": "scene-99",
@@ -6634,15 +6067,7 @@
           "action": "talk"
         }
       ],
-      "props": [
-        {
-          "type": "road",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "PSYCHOLOGICAL",
@@ -6655,8 +6080,7 @@
           "enter": "pop",
           "at": 22
         }
-      ],
-      "_subject": "road"
+      ]
     },
     {
       "id": "scene-101",
@@ -6703,15 +6127,7 @@
           "action": "talk"
         }
       ],
-      "props": [
-        {
-          "type": "game",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "14",
@@ -6724,8 +6140,7 @@
           "enter": "pop",
           "at": 22
         }
-      ],
-      "_subject": "game"
+      ]
     },
     {
       "id": "scene-102",
@@ -7095,8 +6510,7 @@
         "type": "flat",
         "colors": [
           "rgb(239,244,238)"
-        ],
-        "set": "classroom"
+        ]
       },
       "camera": {
         "zoom": [
@@ -7131,15 +6545,7 @@
           "action": "point"
         }
       ],
-      "props": [
-        {
-          "type": "school",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "PERFORMANCE",
@@ -7152,8 +6558,7 @@
           "enter": "pop",
           "at": 22
         }
-      ],
-      "_subject": "school"
+      ]
     },
     {
       "id": "scene-109",
@@ -7200,15 +6605,7 @@
           "action": "point"
         }
       ],
-      "props": [
-        {
-          "type": "game",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "14",
@@ -7221,8 +6618,7 @@
           "enter": "pop",
           "at": 22
         }
-      ],
-      "_subject": "game"
+      ]
     },
     {
       "id": "scene-110",
@@ -7269,15 +6665,7 @@
           "action": "slump"
         }
       ],
-      "props": [
-        {
-          "type": "game",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "10",
@@ -7290,8 +6678,7 @@
           "enter": "pop",
           "at": 22
         }
-      ],
-      "_subject": "game"
+      ]
     },
     {
       "id": "scene-111",
@@ -7397,15 +6784,7 @@
           "action": "slump"
         }
       ],
-      "props": [
-        {
-          "type": "work",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "COUNTERINTUITIVE",
@@ -7418,8 +6797,7 @@
           "enter": "pop",
           "at": 22
         }
-      ],
-      "_subject": "work"
+      ]
     },
     {
       "id": "scene-113",
@@ -7526,15 +6904,7 @@
           "action": "slump"
         }
       ],
-      "props": [
-        {
-          "type": "phone",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "PERFECTIONISTS",
@@ -7547,8 +6917,7 @@
           "enter": "pop",
           "at": 22
         }
-      ],
-      "_subject": "phone"
+      ]
     },
     {
       "id": "scene-115",
@@ -7595,15 +6964,7 @@
           "action": "point"
         }
       ],
-      "props": [
-        {
-          "type": "lightbulb",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "REPUTATION",
@@ -7616,8 +6977,7 @@
           "enter": "pop",
           "at": 22
         }
-      ],
-      "_subject": "lightbulb"
+      ]
     },
     {
       "id": "scene-116",
@@ -7663,15 +7023,7 @@
           "action": "point"
         }
       ],
-      "props": [
-        {
-          "type": "notes",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "MEDIOCRITY",
@@ -7684,8 +7036,7 @@
           "enter": "pop",
           "at": 22
         }
-      ],
-      "_subject": "notes"
+      ]
     },
     {
       "id": "scene-117",
@@ -7732,15 +7083,7 @@
           "action": "point"
         }
       ],
-      "props": [
-        {
-          "type": "road",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "PERFECTIONISTS",
@@ -7753,8 +7096,7 @@
           "enter": "pop",
           "at": 22
         }
-      ],
-      "_subject": "road"
+      ]
     },
     {
       "id": "scene-118",
@@ -7801,15 +7143,7 @@
           "action": "talk"
         }
       ],
-      "props": [
-        {
-          "type": "work",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "2012",
@@ -7822,8 +7156,7 @@
           "enter": "pop",
           "at": 22
         }
-      ],
-      "_subject": "work"
+      ]
     },
     {
       "id": "scene-119",
@@ -7929,15 +7262,7 @@
           "action": "slump"
         }
       ],
-      "props": [
-        {
-          "type": "trophy",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "GEOGRAPHICAL",
@@ -7950,8 +7275,7 @@
           "enter": "pop",
           "at": 22
         }
-      ],
-      "_subject": "trophy"
+      ]
     },
     {
       "id": "scene-121",
@@ -7998,15 +7322,7 @@
           "action": "point"
         }
       ],
-      "props": [
-        {
-          "type": "phone",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "CONSTRUCTION",
@@ -8019,8 +7335,7 @@
           "enter": "pop",
           "at": 22
         }
-      ],
-      "_subject": "phone"
+      ]
     },
     {
       "id": "scene-122",
@@ -8080,8 +7395,7 @@
           "enter": "pop",
           "at": 22
         }
-      ],
-      "_subject": "Scaffolding"
+      ]
     },
     {
       "id": "scene-123",
@@ -8128,15 +7442,7 @@
           "action": "think"
         }
       ],
-      "props": [
-        {
-          "type": "heart",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "13",
@@ -8149,8 +7455,7 @@
           "enter": "pop",
           "at": 22
         }
-      ],
-      "_subject": "Scaffolding — heart"
+      ]
     },
     {
       "id": "scene-124",
@@ -8256,15 +7561,7 @@
           "action": "talk"
         }
       ],
-      "props": [
-        {
-          "type": "star",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "SCAFFOLDING",
@@ -8277,8 +7574,7 @@
           "enter": "pop",
           "at": 22
         }
-      ],
-      "_subject": "Scaffolding — star"
+      ]
     },
     {
       "id": "scene-126",
@@ -8325,15 +7621,7 @@
           "action": "think"
         }
       ],
-      "props": [
-        {
-          "type": "game",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "STRUGGLING",
@@ -8346,8 +7634,7 @@
           "enter": "pop",
           "at": 22
         }
-      ],
-      "_subject": "game"
+      ]
     },
     {
       "id": "scene-127",
@@ -8573,15 +7860,7 @@
           "action": "think"
         }
       ],
-      "props": [
-        {
-          "type": "phone",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "PSYCHOLOGICAL",
@@ -8594,8 +7873,7 @@
           "enter": "pop",
           "at": 22
         }
-      ],
-      "_subject": "phone"
+      ]
     },
     {
       "id": "scene-131",
@@ -8714,8 +7992,7 @@
           "enter": "pop",
           "at": 22
         }
-      ],
-      "_subject": "Scaffolding"
+      ]
     },
     {
       "id": "scene-133",
@@ -8762,15 +8039,7 @@
           "action": "talk"
         }
       ],
-      "props": [
-        {
-          "type": "road",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "SCAFFOLDING",
@@ -8783,8 +8052,7 @@
           "enter": "pop",
           "at": 22
         }
-      ],
-      "_subject": "Scaffolding — road"
+      ]
     },
     {
       "id": "scene-134",
@@ -8831,15 +8099,7 @@
           "action": "talk"
         }
       ],
-      "props": [
-        {
-          "type": "notes",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "1996",
@@ -8852,8 +8112,7 @@
           "enter": "pop",
           "at": 22
         }
-      ],
-      "_subject": "Scaffolding — notes"
+      ]
     },
     {
       "id": "scene-135",
@@ -8900,15 +8159,7 @@
           "action": "talk"
         }
       ],
-      "props": [
-        {
-          "type": "notes",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "11",
@@ -8921,8 +8172,7 @@
           "enter": "pop",
           "at": 22
         }
-      ],
-      "_subject": "notes"
+      ]
     },
     {
       "id": "scene-136",
@@ -8968,15 +8218,7 @@
           "action": "think"
         }
       ],
-      "props": [
-        {
-          "type": "notes",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "11",
@@ -8989,8 +8231,7 @@
           "enter": "pop",
           "at": 22
         }
-      ],
-      "_subject": "notes"
+      ]
     },
     {
       "id": "scene-137",
@@ -9216,15 +8457,7 @@
           "action": "talk"
         }
       ],
-      "props": [
-        {
-          "type": "family",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "10",
@@ -9237,8 +8470,7 @@
           "enter": "pop",
           "at": 22
         }
-      ],
-      "_subject": "family"
+      ]
     },
     {
       "id": "scene-141",
@@ -9285,15 +8517,7 @@
           "action": "talk"
         }
       ],
-      "props": [
-        {
-          "type": "coin",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "10",
@@ -9306,8 +8530,7 @@
           "enter": "pop",
           "at": 22
         }
-      ],
-      "_subject": "Talent and Scaffolding — coin"
+      ]
     },
     {
       "id": "scene-142",
@@ -9486,8 +8709,7 @@
           "enter": "pop",
           "at": 22
         }
-      ],
-      "_subject": "Scaffolding"
+      ]
     },
     {
       "id": "scene-145",
@@ -9607,8 +8829,7 @@
           "enter": "pop",
           "at": 22
         }
-      ],
-      "_subject": "Character and Melody"
+      ]
     },
     {
       "id": "scene-147",
@@ -9727,8 +8948,7 @@
           "enter": "pop",
           "at": 22
         }
-      ],
-      "_subject": "Character"
+      ]
     },
     {
       "id": "scene-149",
@@ -9788,8 +9008,7 @@
           "enter": "pop",
           "at": 22
         }
-      ],
-      "_subject": "Character"
+      ]
     },
     {
       "id": "scene-150",
@@ -9849,8 +9068,7 @@
           "enter": "pop",
           "at": 22
         }
-      ],
-      "_subject": "Character"
+      ]
     },
     {
       "id": "scene-151",
@@ -10016,15 +9234,7 @@
           "action": "think"
         }
       ],
-      "props": [
-        {
-          "type": "road",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "SYNTHESIZE",
@@ -10037,8 +9247,7 @@
           "enter": "pop",
           "at": 22
         }
-      ],
-      "_subject": "road"
+      ]
     },
     {
       "id": "scene-154",
@@ -10085,15 +9294,7 @@
           "action": "think"
         }
       ],
-      "props": [
-        {
-          "type": "road",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "HOW FAR?",
@@ -10106,8 +9307,7 @@
           "enter": "pop",
           "at": 22
         }
-      ],
-      "_subject": "Scaffolding — road"
+      ]
     },
     {
       "id": "scene-155",
@@ -10154,15 +9354,7 @@
           "action": "talk"
         }
       ],
-      "props": [
-        {
-          "type": "family",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "PROVOCATIVE",
@@ -10175,8 +9367,7 @@
           "enter": "pop",
           "at": 22
         }
-      ],
-      "_subject": "Talent — family"
+      ]
     },
     {
       "id": "scene-156",
@@ -10222,15 +9413,7 @@
           "action": "surprised"
         }
       ],
-      "props": [
-        {
-          "type": "summit",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "THE UNCUT\nGEM",
@@ -10243,8 +9426,7 @@
           "enter": "pop",
           "at": 22
         }
-      ],
-      "_subject": "summit"
+      ]
     },
     {
       "id": "scene-157",
@@ -10293,7 +9475,7 @@
       ],
       "props": [
         {
-          "type": "road",
+          "type": "arrow",
           "x": 560,
           "y": 640,
           "scale": 1.2,
@@ -10313,8 +9495,7 @@
           "enter": "pop",
           "at": 22
         }
-      ],
-      "_subject": "road"
+      ]
     }
   ],
   "captions": [

@@ -129,7 +129,7 @@
           "rgb(249,246,243)",
           "rgb(246,243,238)"
         ],
-        "set": "forest",
+        "set": "abstract",
         "texture": "dots",
         "accent": "#14171A",
         "act": "setup"
@@ -162,15 +162,7 @@
           "action": "talk"
         }
       ],
-      "props": [
-        {
-          "type": "storm",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "ALL THE COLORS OF THE DARK",
@@ -187,8 +179,7 @@
           "enter": "pop",
           "at": 179
         }
-      ],
-      "_subject": "storm"
+      ]
     },
     {
       "id": "scene-01",
@@ -289,17 +280,8 @@
           "action": "talk"
         }
       ],
-      "props": [
-        {
-          "type": "gift",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
-      "texts": [],
-      "_subject": "gift"
+      "props": [],
+      "texts": []
     },
     {
       "id": "scene-03",
@@ -411,8 +393,7 @@
           "color2": "#14171A"
         }
       ],
-      "texts": [],
-      "_subject": "Patch"
+      "texts": []
     },
     {
       "id": "scene-05",
@@ -463,8 +444,7 @@
         }
       ],
       "props": [],
-      "texts": [],
-      "_subject": "Grace"
+      "texts": []
     },
     {
       "id": "scene-06",
@@ -522,17 +502,8 @@
           "action": "idle"
         }
       ],
-      "props": [
-        {
-          "type": "star",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
-      "texts": [],
-      "_subject": "star"
+      "props": [],
+      "texts": []
     },
     {
       "id": "scene-07",
@@ -598,8 +569,7 @@
           "enter": "pop",
           "at": 0
         }
-      ],
-      "_subject": "Grace"
+      ]
     },
     {
       "id": "scene-08",
@@ -660,8 +630,7 @@
           "color2": "#14171A"
         }
       ],
-      "texts": [],
-      "_subject": "storm"
+      "texts": []
     },
     {
       "id": "scene-09",
@@ -746,7 +715,7 @@
           "rgb(249,247,243)",
           "rgb(247,244,239)"
         ],
-        "set": "forest",
+        "set": "horizon",
         "texture": "grain",
         "accent": "#14171A",
         "act": "setup"
@@ -779,15 +748,7 @@
           "action": "talk"
         }
       ],
-      "props": [
-        {
-          "type": "tree",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "1975",
@@ -797,8 +758,7 @@
           "enter": "pop",
           "at": 126
         }
-      ],
-      "_subject": "tree"
+      ]
     },
     {
       "id": "scene-11",
@@ -819,7 +779,7 @@
           "rgb(249,247,243)",
           "rgb(247,244,239)"
         ],
-        "set": "forest",
+        "set": "horizon",
         "texture": "grain",
         "accent": "#14171A",
         "act": "setup"
@@ -848,17 +808,8 @@
           "action": "talk"
         }
       ],
-      "props": [
-        {
-          "type": "tree",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
-      "texts": [],
-      "_subject": "Patch — tree"
+      "props": [],
+      "texts": []
     },
     {
       "id": "scene-12",
@@ -919,8 +870,7 @@
           "color2": "#14171A"
         }
       ],
-      "texts": [],
-      "_subject": "Patch — star"
+      "texts": []
     },
     {
       "id": "scene-13",
@@ -978,17 +928,8 @@
           "action": "idle"
         }
       ],
-      "props": [
-        {
-          "type": "star",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
-      "texts": [],
-      "_subject": "star"
+      "props": [],
+      "texts": []
     },
     {
       "id": "scene-14",
@@ -1046,17 +987,8 @@
           "action": "idle"
         }
       ],
-      "props": [
-        {
-          "type": "mask",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
-      "texts": [],
-      "_subject": "mask"
+      "props": [],
+      "texts": []
     },
     {
       "id": "scene-15",
@@ -1171,8 +1103,7 @@
         }
       ],
       "props": [],
-      "texts": [],
-      "_subject": "Misty"
+      "texts": []
     },
     {
       "id": "scene-17",
@@ -1238,8 +1169,7 @@
           "enter": "pop",
           "at": 99
         }
-      ],
-      "_subject": "Patch and Misty — star"
+      ]
     },
     {
       "id": "scene-18",
@@ -1308,8 +1238,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "Patch"
+      "texts": []
     },
     {
       "id": "scene-19",
@@ -1371,8 +1300,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "Misty"
+      "texts": []
     },
     {
       "id": "scene-20",
@@ -1548,8 +1476,7 @@
           "color2": "#14171A"
         }
       ],
-      "texts": [],
-      "_subject": "road"
+      "texts": []
     },
     {
       "id": "scene-23",
@@ -1669,8 +1596,7 @@
         }
       ],
       "props": [],
-      "texts": [],
-      "_subject": "Patch and Misty"
+      "texts": []
     },
     {
       "id": "scene-25",
@@ -1794,8 +1720,7 @@
         }
       ],
       "props": [],
-      "texts": [],
-      "_subject": "Patch"
+      "texts": []
     },
     {
       "id": "scene-27",
@@ -1875,7 +1800,7 @@
           "rgb(248,245,241)",
           "rgb(246,243,238)"
         ],
-        "set": "cafe",
+        "set": "abstract",
         "texture": "dots",
         "accent": "#14171A",
         "act": "setup"
@@ -1913,8 +1838,7 @@
         }
       ],
       "props": [],
-      "texts": [],
-      "_subject": "Patch"
+      "texts": []
     },
     {
       "id": "scene-29",
@@ -1965,8 +1889,7 @@
         }
       ],
       "props": [],
-      "texts": [],
-      "_subject": "Patch"
+      "texts": []
     },
     {
       "id": "scene-30",
@@ -2284,17 +2207,8 @@
           "action": "talk"
         }
       ],
-      "props": [
-        {
-          "type": "shield",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
-      "texts": [],
-      "_subject": "shield"
+      "props": [],
+      "texts": []
     },
     {
       "id": "scene-35",
@@ -2316,7 +2230,7 @@
           "rgb(227,224,220)",
           "rgb(210,207,202)"
         ],
-        "set": "forest",
+        "set": "horizon",
         "texture": "grain",
         "accent": "#14171A",
         "act": "tension"
@@ -2355,8 +2269,7 @@
           "color2": "#14171A"
         }
       ],
-      "texts": [],
-      "_subject": "tree"
+      "texts": []
     },
     {
       "id": "scene-36",
@@ -2422,8 +2335,7 @@
           "enter": "pop",
           "at": 0
         }
-      ],
-      "_subject": "Patch"
+      ]
     },
     {
       "id": "scene-37",
@@ -2717,7 +2629,7 @@
       ],
       "props": [
         {
-          "type": "road",
+          "type": "spotlight",
           "scale": 1,
           "enter": "pop",
           "color": "#B91C1C",
@@ -2726,8 +2638,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "road"
+      "texts": []
     },
     {
       "id": "scene-42",
@@ -2796,8 +2707,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "Misty"
+      "texts": []
     },
     {
       "id": "scene-43",
@@ -2988,8 +2898,7 @@
           "enter": "pop",
           "at": 313
         }
-      ],
-      "_subject": "tree"
+      ]
     },
     {
       "id": "scene-46",
@@ -3175,8 +3084,7 @@
           "color2": "#14171A"
         }
       ],
-      "texts": [],
-      "_subject": "storm"
+      "texts": []
     },
     {
       "id": "scene-49",
@@ -3248,7 +3156,7 @@
           "rgb(236,233,228)",
           "rgb(218,215,210)"
         ],
-        "set": "highway",
+        "set": "abstract",
         "texture": "dots",
         "accent": "#14171A",
         "act": "tension"
@@ -3280,8 +3188,7 @@
           "at": 0
         }
       ],
-      "texts": [],
-      "_subject": "Patch — road"
+      "texts": []
     },
     {
       "id": "scene-51",
@@ -3341,7 +3248,7 @@
       ],
       "props": [
         {
-          "type": "storm",
+          "type": "spotlight",
           "scale": 1,
           "enter": "pop",
           "color": "#B91C1C",
@@ -3350,8 +3257,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "storm"
+      "texts": []
     },
     {
       "id": "scene-52",
@@ -3484,8 +3390,7 @@
         }
       ],
       "props": [],
-      "texts": [],
-      "_subject": "Grace"
+      "texts": []
     },
     {
       "id": "scene-54",
@@ -3808,8 +3713,7 @@
           "enter": "pop",
           "at": 149
         }
-      ],
-      "_subject": "Grace"
+      ]
     },
     {
       "id": "scene-59",
@@ -3878,8 +3782,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "shield"
+      "texts": []
     },
     {
       "id": "scene-60",
@@ -3991,8 +3894,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "Patch and Grace"
+      "texts": []
     },
     {
       "id": "scene-62",
@@ -4053,8 +3955,7 @@
           "color2": "#14171A"
         }
       ],
-      "texts": [],
-      "_subject": "star"
+      "texts": []
     },
     {
       "id": "scene-63",
@@ -4555,7 +4456,7 @@
       ],
       "props": [
         {
-          "type": "magnifier",
+          "type": "maze",
           "scale": 1,
           "enter": "pop",
           "color": "#B91C1C",
@@ -4564,8 +4465,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "Grace — magnifier"
+      "texts": []
     },
     {
       "id": "scene-71",
@@ -4685,8 +4585,7 @@
         }
       ],
       "props": [],
-      "texts": [],
-      "_subject": "Patch and Grace"
+      "texts": []
     },
     {
       "id": "scene-73",
@@ -4747,8 +4646,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "Grace"
+      "texts": []
     },
     {
       "id": "scene-74",
@@ -4951,8 +4849,7 @@
           "at": 0
         }
       ],
-      "texts": [],
-      "_subject": "gift"
+      "texts": []
     },
     {
       "id": "scene-77",
@@ -5026,8 +4923,7 @@
           "enter": "pop",
           "at": 301
         }
-      ],
-      "_subject": "star"
+      ]
     },
     {
       "id": "scene-78",
@@ -5515,8 +5411,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "Saint"
+      "texts": []
     },
     {
       "id": "scene-86",
@@ -5732,7 +5627,7 @@
       ],
       "props": [
         {
-          "type": "shield",
+          "type": "orbit",
           "scale": 1,
           "enter": "pop",
           "color": "#B91C1C",
@@ -5741,8 +5636,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "Patch — shield"
+      "texts": []
     },
     {
       "id": "scene-90",
@@ -5816,8 +5710,7 @@
           "enter": "pop",
           "at": 188
         }
-      ],
-      "_subject": "Saint — grave"
+      ]
     },
     {
       "id": "scene-91",
@@ -5869,7 +5762,7 @@
       ],
       "props": [
         {
-          "type": "home",
+          "type": "ripple",
           "scale": 1,
           "enter": "pop",
           "color": "#B91C1C",
@@ -5878,8 +5771,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "Saint — home"
+      "texts": []
     },
     {
       "id": "scene-92",
@@ -6012,8 +5904,7 @@
           "color2": "#14171A"
         }
       ],
-      "texts": [],
-      "_subject": "Patch and Grace"
+      "texts": []
     },
     {
       "id": "scene-94",
@@ -6182,8 +6073,7 @@
         }
       ],
       "props": [],
-      "texts": [],
-      "_subject": "Saint"
+      "texts": []
     },
     {
       "id": "scene-97",
@@ -6377,8 +6267,7 @@
           "color2": "#14171A"
         }
       ],
-      "texts": [],
-      "_subject": "mask"
+      "texts": []
     },
     {
       "id": "scene-100",
@@ -6399,7 +6288,7 @@
           "rgb(200,198,194)",
           "rgb(183,181,176)"
         ],
-        "set": "forest",
+        "set": "abstract",
         "texture": "dots",
         "accent": "#14171A",
         "act": "tension"
@@ -6421,7 +6310,7 @@
       "characters": [],
       "props": [
         {
-          "type": "tree",
+          "type": "ripple",
           "scale": 1,
           "enter": "pop",
           "color": "#B91C1C",
@@ -6430,8 +6319,7 @@
           "at": 0
         }
       ],
-      "texts": [],
-      "_subject": "tree"
+      "texts": []
     },
     {
       "id": "scene-101",
@@ -6496,8 +6384,7 @@
           "enter": "pop",
           "at": 90
         }
-      ],
-      "_subject": "Patch"
+      ]
     },
     {
       "id": "scene-102",
@@ -6691,8 +6578,7 @@
           "enter": "pop",
           "at": 135
         }
-      ],
-      "_subject": "Grace"
+      ]
     },
     {
       "id": "scene-105",
@@ -6757,8 +6643,7 @@
           "enter": "pop",
           "at": 179
         }
-      ],
-      "_subject": "Patch and Saint"
+      ]
     },
     {
       "id": "scene-106",
@@ -6881,8 +6766,7 @@
           "enter": "pop",
           "at": 51
         }
-      ],
-      "_subject": "Patch"
+      ]
     },
     {
       "id": "scene-108",
@@ -6954,8 +6838,7 @@
           "enter": "pop",
           "at": 239
         }
-      ],
-      "_subject": "Patch and Sammy"
+      ]
     },
     {
       "id": "scene-109",
@@ -7065,8 +6948,7 @@
         }
       ],
       "props": [],
-      "texts": [],
-      "_subject": "Patch and Grace"
+      "texts": []
     },
     {
       "id": "scene-111",
@@ -7127,8 +7009,7 @@
           "color2": "#14171A"
         }
       ],
-      "texts": [],
-      "_subject": "star"
+      "texts": []
     },
     {
       "id": "scene-112",
@@ -7194,15 +7075,7 @@
           "action": "idle"
         }
       ],
-      "props": [
-        {
-          "type": "home",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "THINK THE STORY",
@@ -7212,8 +7085,7 @@
           "enter": "pop",
           "at": 66
         }
-      ],
-      "_subject": "Patch — home"
+      ]
     },
     {
       "id": "scene-113",
@@ -7410,8 +7282,7 @@
           "at": 0
         }
       ],
-      "texts": [],
-      "_subject": "tree"
+      "texts": []
     },
     {
       "id": "scene-116",
@@ -7531,8 +7402,7 @@
           "color2": "#14171A"
         }
       ],
-      "texts": [],
-      "_subject": "Patch and Misty — star"
+      "texts": []
     },
     {
       "id": "scene-118",
@@ -7590,17 +7460,8 @@
           "action": "idle"
         }
       ],
-      "props": [
-        {
-          "type": "heart",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
-      "texts": [],
-      "_subject": "Misty — heart"
+      "props": [],
+      "texts": []
     },
     {
       "id": "scene-119",
@@ -7664,8 +7525,7 @@
           "enter": "pop",
           "at": 25
         }
-      ],
-      "_subject": "Grace"
+      ]
     },
     {
       "id": "scene-120",
@@ -7724,8 +7584,7 @@
         }
       ],
       "props": [],
-      "texts": [],
-      "_subject": "Grace"
+      "texts": []
     },
     {
       "id": "scene-121",
@@ -7799,8 +7658,7 @@
           "enter": "pop",
           "at": 41
         }
-      ],
-      "_subject": "Misty — coin"
+      ]
     },
     {
       "id": "scene-122",
@@ -7852,8 +7710,7 @@
           "at": 0
         }
       ],
-      "texts": [],
-      "_subject": "Sammy — law"
+      "texts": []
     },
     {
       "id": "scene-123",
@@ -7917,8 +7774,7 @@
           "enter": "pop",
           "at": 234
         }
-      ],
-      "_subject": "Sammy"
+      ]
     },
     {
       "id": "scene-124",
@@ -7979,8 +7835,7 @@
           "color2": "#14171A"
         }
       ],
-      "texts": [],
-      "_subject": "Sammy — chains"
+      "texts": []
     },
     {
       "id": "scene-125",
@@ -8054,8 +7909,7 @@
           "enter": "pop",
           "at": 3
         }
-      ],
-      "_subject": "Sammy"
+      ]
     },
     {
       "id": "scene-126",
@@ -8156,17 +8010,8 @@
           "action": "celebrate"
         }
       ],
-      "props": [
-        {
-          "type": "shield",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
-      "texts": [],
-      "_subject": "Sammy — shield"
+      "props": [],
+      "texts": []
     },
     {
       "id": "scene-128",
@@ -8227,8 +8072,7 @@
           "color2": "#14171A"
         }
       ],
-      "texts": [],
-      "_subject": "Patch — mask"
+      "texts": []
     },
     {
       "id": "scene-129",
@@ -8348,8 +8192,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "Sammy — crack"
+      "texts": []
     },
     {
       "id": "scene-131",
@@ -8410,8 +8253,7 @@
           "color2": "#14171A"
         }
       ],
-      "texts": [],
-      "_subject": "Patch — butterfly"
+      "texts": []
     },
     {
       "id": "scene-132",
@@ -8480,8 +8322,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "Sammy"
+      "texts": []
     },
     {
       "id": "scene-133",
@@ -8554,8 +8395,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "Sammy — law"
+      "texts": []
     },
     {
       "id": "scene-134",
@@ -8616,8 +8456,7 @@
           "color2": "#14171A"
         }
       ],
-      "texts": [],
-      "_subject": "Patch and Sammy — chains"
+      "texts": []
     },
     {
       "id": "scene-135",
@@ -8689,8 +8528,7 @@
           "enter": "pop",
           "at": 229
         }
-      ],
-      "_subject": "Grace"
+      ]
     },
     {
       "id": "scene-136",
@@ -8794,7 +8632,7 @@
       ],
       "props": [
         {
-          "type": "gift",
+          "type": "shape",
           "scale": 1,
           "enter": "pop",
           "color": "#B91C1C",
@@ -8803,8 +8641,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "Patch — gift"
+      "texts": []
     },
     {
       "id": "scene-138",
@@ -8865,8 +8702,7 @@
           "color2": "#14171A"
         }
       ],
-      "texts": [],
-      "_subject": "road"
+      "texts": []
     },
     {
       "id": "scene-139",
@@ -8916,17 +8752,8 @@
           "action": "think"
         }
       ],
-      "props": [
-        {
-          "type": "road",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
-      "texts": [],
-      "_subject": "road"
+      "props": [],
+      "texts": []
     },
     {
       "id": "scene-140",
@@ -8976,17 +8803,8 @@
           "action": "talk"
         }
       ],
-      "props": [
-        {
-          "type": "ledge",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
-      "texts": [],
-      "_subject": "Patch — ledge"
+      "props": [],
+      "texts": []
     },
     {
       "id": "scene-141",
@@ -9047,8 +8865,7 @@
           "color2": "#14171A"
         }
       ],
-      "texts": [],
-      "_subject": "Grace — coin"
+      "texts": []
     },
     {
       "id": "scene-142",
@@ -9091,7 +8908,7 @@
       "characters": [],
       "props": [
         {
-          "type": "law",
+          "type": "orbit",
           "scale": 1,
           "enter": "pop",
           "color": "#B91C1C",
@@ -9100,8 +8917,7 @@
           "at": 0
         }
       ],
-      "texts": [],
-      "_subject": "law"
+      "texts": []
     },
     {
       "id": "scene-143",
@@ -9371,7 +9187,7 @@
           "rgb(233,185,185)",
           "rgb(247,244,239)"
         ],
-        "set": "highway",
+        "set": "abstract",
         "texture": "dots",
         "accent": "#14171A",
         "act": "turn"
@@ -9410,8 +9226,7 @@
           "color2": "#14171A"
         }
       ],
-      "texts": [],
-      "_subject": "Patch and Walter — road"
+      "texts": []
     },
     {
       "id": "scene-148",
@@ -9473,15 +9288,7 @@
           "action": "idle"
         }
       ],
-      "props": [
-        {
-          "type": "family",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "WENT MISSING YEARS",
@@ -9491,8 +9298,7 @@
           "enter": "pop",
           "at": 169
         }
-      ],
-      "_subject": "Eloise — family"
+      ]
     },
     {
       "id": "scene-149",
@@ -9553,8 +9359,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "Patch and Grace — family"
+      "texts": []
     },
     {
       "id": "scene-150",
@@ -9575,7 +9380,7 @@
           "rgb(233,183,183)",
           "rgb(247,244,239)"
         ],
-        "set": "highway",
+        "set": "horizon",
         "texture": "grain",
         "accent": "#14171A",
         "act": "turn"
@@ -9612,17 +9417,8 @@
           "action": "idle"
         }
       ],
-      "props": [
-        {
-          "type": "road",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
-      "texts": [],
-      "_subject": "Walter — road"
+      "props": [],
+      "texts": []
     },
     {
       "id": "scene-151",
@@ -9687,8 +9483,7 @@
           "enter": "pop",
           "at": 198
         }
-      ],
-      "_subject": "Walter and Eloise"
+      ]
     },
     {
       "id": "scene-152",
@@ -9710,7 +9505,7 @@
           "rgb(232,182,182)",
           "rgb(247,244,239)"
         ],
-        "set": "bedroom",
+        "set": "horizon",
         "texture": "grain",
         "accent": "#14171A",
         "act": "turn"
@@ -9749,8 +9544,7 @@
           "color2": "#14171A"
         }
       ],
-      "texts": [],
-      "_subject": "Patch and Walter — mirror"
+      "texts": []
     },
     {
       "id": "scene-153",
@@ -9981,17 +9775,8 @@
           "action": "idle"
         }
       ],
-      "props": [
-        {
-          "type": "coin",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
-      "texts": [],
-      "_subject": "coin"
+      "props": [],
+      "texts": []
     },
     {
       "id": "scene-157",
@@ -10155,8 +9940,7 @@
         }
       ],
       "props": [],
-      "texts": [],
-      "_subject": "Patch"
+      "texts": []
     },
     {
       "id": "scene-160",
@@ -10355,8 +10139,7 @@
           "enter": "pop",
           "at": 267
         }
-      ],
-      "_subject": "Grace — coin"
+      ]
     },
     {
       "id": "scene-163",
@@ -10465,17 +10248,8 @@
           "action": "idle"
         }
       ],
-      "props": [
-        {
-          "type": "law",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
-      "texts": [],
-      "_subject": "law"
+      "props": [],
+      "texts": []
     },
     {
       "id": "scene-165",
@@ -10536,8 +10310,7 @@
           "color2": "#14171A"
         }
       ],
-      "texts": [],
-      "_subject": "star"
+      "texts": []
     },
     {
       "id": "scene-166",
@@ -10650,15 +10423,7 @@
           "action": "talk"
         }
       ],
-      "props": [
-        {
-          "type": "home",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "SITS ALONE",
@@ -10668,8 +10433,7 @@
           "enter": "pop",
           "at": 3
         }
-      ],
-      "_subject": "home"
+      ]
     },
     {
       "id": "scene-168",
@@ -10728,8 +10492,7 @@
         }
       ],
       "props": [],
-      "texts": [],
-      "_subject": "Patch and Saint"
+      "texts": []
     },
     {
       "id": "scene-169",
@@ -10790,8 +10553,7 @@
           "color2": "#14171A"
         }
       ],
-      "texts": [],
-      "_subject": "Patch — work"
+      "texts": []
     },
     {
       "id": "scene-170",
@@ -10856,8 +10618,7 @@
           "enter": "pop",
           "at": 0
         }
-      ],
-      "_subject": "Grace"
+      ]
     },
     {
       "id": "scene-171",
@@ -11107,8 +10868,7 @@
           "color2": "#14171A"
         }
       ],
-      "texts": [],
-      "_subject": "home"
+      "texts": []
     },
     {
       "id": "scene-175",
@@ -11166,17 +10926,8 @@
           "action": "idle"
         }
       ],
-      "props": [
-        {
-          "type": "law",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
-      "texts": [],
-      "_subject": "Patch — law"
+      "props": [],
+      "texts": []
     },
     {
       "id": "scene-176",
@@ -11258,8 +11009,7 @@
           "enter": "pop",
           "at": 22
         }
-      ],
-      "_subject": "Saint"
+      ]
     },
     {
       "id": "scene-177",
@@ -11314,15 +11064,7 @@
           "crowd": 9
         }
       ],
-      "props": [
-        {
-          "type": "target",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "SAINT NOBODY",
@@ -11332,8 +11074,7 @@
           "enter": "pop",
           "at": 185
         }
-      ],
-      "_subject": "Saint — target"
+      ]
     },
     {
       "id": "scene-178",
@@ -11394,8 +11135,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "Patch"
+      "texts": []
     },
     {
       "id": "scene-179",
@@ -11658,8 +11398,7 @@
           "enter": "pop",
           "at": 264
         }
-      ],
-      "_subject": "Patch — law"
+      ]
     },
     {
       "id": "scene-183",
@@ -11712,8 +11451,7 @@
           "at": 0
         }
       ],
-      "texts": [],
-      "_subject": "tree"
+      "texts": []
     },
     {
       "id": "scene-184",
@@ -11763,17 +11501,8 @@
           "action": "point"
         }
       ],
-      "props": [
-        {
-          "type": "law",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
-      "texts": [],
-      "_subject": "law"
+      "props": [],
+      "texts": []
     },
     {
       "id": "scene-185",
@@ -11847,8 +11576,7 @@
           "enter": "pop",
           "at": 203
         }
-      ],
-      "_subject": "home"
+      ]
     },
     {
       "id": "scene-186",
@@ -12015,7 +11743,7 @@
       ],
       "props": [
         {
-          "type": "home",
+          "type": "ripple",
           "scale": 1,
           "enter": "pop",
           "color": "#B91C1C",
@@ -12024,8 +11752,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "Patch and Saint — home"
+      "texts": []
     },
     {
       "id": "scene-189",
@@ -12086,8 +11813,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "Grace"
+      "texts": []
     },
     {
       "id": "scene-190",
@@ -12213,8 +11939,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "Patch"
+      "texts": []
     },
     {
       "id": "scene-192",
@@ -12265,17 +11990,8 @@
           "crowd": 9
         }
       ],
-      "props": [
-        {
-          "type": "law",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
-      "texts": [],
-      "_subject": "law"
+      "props": [],
+      "texts": []
     },
     {
       "id": "scene-193",
@@ -12521,8 +12237,7 @@
           "enter": "pop",
           "at": 159
         }
-      ],
-      "_subject": "Patch — chains"
+      ]
     },
     {
       "id": "scene-197",
@@ -12596,8 +12311,7 @@
           "enter": "pop",
           "at": 169
         }
-      ],
-      "_subject": "Patch — shield"
+      ]
     },
     {
       "id": "scene-198",
@@ -12729,8 +12443,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "Grace"
+      "texts": []
     },
     {
       "id": "scene-200",
@@ -12784,15 +12497,7 @@
           "action": "talk"
         }
       ],
-      "props": [
-        {
-          "type": "gift",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "30 YEARS",
@@ -12802,8 +12507,7 @@
           "enter": "pop",
           "at": 181
         }
-      ],
-      "_subject": "Grace — gift"
+      ]
     },
     {
       "id": "scene-201",
@@ -13026,8 +12730,7 @@
           "color2": "#14171A"
         }
       ],
-      "texts": [],
-      "_subject": "Patch — chains"
+      "texts": []
     },
     {
       "id": "scene-205",
@@ -13085,17 +12788,8 @@
           "action": "idle"
         }
       ],
-      "props": [
-        {
-          "type": "heart",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
-      "texts": [],
-      "_subject": "Patch — heart"
+      "props": [],
+      "texts": []
     },
     {
       "id": "scene-206",
@@ -13147,7 +12841,7 @@
       ],
       "props": [
         {
-          "type": "chains",
+          "type": "spotlight",
           "scale": 1,
           "enter": "pop",
           "color": "#B91C1C",
@@ -13156,8 +12850,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "chains"
+      "texts": []
     },
     {
       "id": "scene-207",
@@ -13209,8 +12902,7 @@
           "at": 0
         }
       ],
-      "texts": [],
-      "_subject": "Saint — star"
+      "texts": []
     },
     {
       "id": "scene-208",
@@ -13271,8 +12963,7 @@
           "color2": "#14171A"
         }
       ],
-      "texts": [],
-      "_subject": "storm"
+      "texts": []
     },
     {
       "id": "scene-209",
@@ -13336,8 +13027,7 @@
           "enter": "pop",
           "at": 133
         }
-      ],
-      "_subject": "Saint"
+      ]
     },
     {
       "id": "scene-210",
@@ -13395,17 +13085,8 @@
           "action": "idle"
         }
       ],
-      "props": [
-        {
-          "type": "war",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
-      "texts": [],
-      "_subject": "Patch — war"
+      "props": [],
+      "texts": []
     },
     {
       "id": "scene-211",
@@ -13532,8 +13213,7 @@
         }
       ],
       "props": [],
-      "texts": [],
-      "_subject": "Saint"
+      "texts": []
     },
     {
       "id": "scene-213",
@@ -13647,8 +13327,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "Patch"
+      "texts": []
     },
     {
       "id": "scene-215",
@@ -13700,8 +13379,7 @@
         }
       ],
       "props": [],
-      "texts": [],
-      "_subject": "Patch and Saint"
+      "texts": []
     },
     {
       "id": "scene-216",
@@ -13762,8 +13440,7 @@
           "color2": "#14171A"
         }
       ],
-      "texts": [],
-      "_subject": "law"
+      "texts": []
     },
     {
       "id": "scene-217",
@@ -13932,8 +13609,7 @@
         }
       ],
       "props": [],
-      "texts": [],
-      "_subject": "Grace"
+      "texts": []
     },
     {
       "id": "scene-220",
@@ -13994,8 +13670,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "Saint"
+      "texts": []
     },
     {
       "id": "scene-221",
@@ -14069,8 +13744,7 @@
           "enter": "pop",
           "at": 51
         }
-      ],
-      "_subject": "chains"
+      ]
     },
     {
       "id": "scene-222",
@@ -14197,15 +13871,7 @@
           "action": "idle"
         }
       ],
-      "props": [
-        {
-          "type": "chains",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "CAGE BUT TRUE",
@@ -14215,8 +13881,7 @@
           "enter": "pop",
           "at": 188
         }
-      ],
-      "_subject": "Patch — chains"
+      ]
     },
     {
       "id": "scene-224",
@@ -14269,8 +13934,7 @@
           "at": 0
         }
       ],
-      "texts": [],
-      "_subject": "Saint — coin"
+      "texts": []
     },
     {
       "id": "scene-225",
@@ -14331,8 +13995,7 @@
           "color2": "#14171A"
         }
       ],
-      "texts": [],
-      "_subject": "star"
+      "texts": []
     },
     {
       "id": "scene-226",
@@ -14465,8 +14128,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "law"
+      "texts": []
     },
     {
       "id": "scene-228",
@@ -14578,8 +14240,7 @@
           "color2": "#14171A"
         }
       ],
-      "texts": [],
-      "_subject": "road"
+      "texts": []
     },
     {
       "id": "scene-230",
@@ -14743,17 +14404,8 @@
           "action": "talk"
         }
       ],
-      "props": [
-        {
-          "type": "shield",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
-      "texts": [],
-      "_subject": "shield"
+      "props": [],
+      "texts": []
     },
     {
       "id": "scene-233",
@@ -15060,15 +14712,7 @@
           "action": "idle"
         }
       ],
-      "props": [
-        {
-          "type": "road",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "TRAUMA BROKE",
@@ -15078,8 +14722,7 @@
           "enter": "pop",
           "at": 58
         }
-      ],
-      "_subject": "road"
+      ]
     },
     {
       "id": "scene-238",
@@ -15219,8 +14862,7 @@
           "enter": "pop",
           "at": 241
         }
-      ],
-      "_subject": "Grace and Saint — star"
+      ]
     },
     {
       "id": "scene-240",
@@ -15377,7 +15019,7 @@
           "rgb(238,194,143)",
           "rgb(245,242,236)"
         ],
-        "set": "forest",
+        "set": "abstract",
         "texture": "dots",
         "accent": "#14171A",
         "act": "resolution"
@@ -15416,8 +15058,7 @@
           "color2": "#14171A"
         }
       ],
-      "texts": [],
-      "_subject": "tree"
+      "texts": []
     },
     {
       "id": "scene-243",
@@ -15438,7 +15079,7 @@
           "rgb(240,202,158)",
           "rgb(246,243,237)"
         ],
-        "set": "highway",
+        "set": "abstract",
         "texture": "dots",
         "accent": "#14171A",
         "act": "resolution"
@@ -15492,8 +15133,7 @@
           "enter": "pop",
           "at": 236
         }
-      ],
-      "_subject": "Grace — road"
+      ]
     },
     {
       "id": "scene-244",
@@ -15604,8 +15244,7 @@
         }
       ],
       "props": [],
-      "texts": [],
-      "_subject": "Patch"
+      "texts": []
     },
     {
       "id": "scene-246",
@@ -15626,7 +15265,7 @@
           "rgb(240,201,157)",
           "rgb(246,243,237)"
         ],
-        "set": "forest",
+        "set": "horizon",
         "texture": "grain",
         "accent": "#14171A",
         "act": "resolution"
@@ -15680,8 +15319,7 @@
           "enter": "pop",
           "at": 159
         }
-      ],
-      "_subject": "storm"
+      ]
     }
   ],
   "captions": [

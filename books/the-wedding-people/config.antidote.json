@@ -199,7 +199,7 @@
           "rgb(244,242,237)",
           "rgb(239,237,230)"
         ],
-        "set": "highway",
+        "set": "abstract",
         "texture": "dots",
         "accent": "#1E1E22"
       },
@@ -235,17 +235,8 @@
           "action": "idle"
         }
       ],
-      "props": [
-        {
-          "type": "crash",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
-      "texts": [],
-      "_subject": "crash"
+      "props": [],
+      "texts": []
     },
     {
       "id": "scene-02",
@@ -266,7 +257,7 @@
           "rgb(243,242,237)",
           "rgb(239,237,230)"
         ],
-        "set": "cafe",
+        "set": "abstract",
         "texture": "dots",
         "accent": "#1E1E22"
       },
@@ -298,15 +289,7 @@
           "action": "talk"
         }
       ],
-      "props": [
-        {
-          "type": "phone",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "HER DARKEST PLAN",
@@ -323,8 +306,7 @@
           "enter": "pop",
           "at": 46
         }
-      ],
-      "_subject": "Which — phone"
+      ]
     },
     {
       "id": "scene-03",
@@ -345,7 +327,7 @@
           "rgb(242,240,235)",
           "rgb(238,235,228)"
         ],
-        "set": "cafe",
+        "set": "none",
         "texture": "dots",
         "accent": "#1E1E22",
         "split": [
@@ -385,15 +367,7 @@
           "action": "idle"
         }
       ],
-      "props": [
-        {
-          "type": "heart",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "PERFORMANCE vs HONESTY",
@@ -403,8 +377,7 @@
           "enter": "up",
           "at": 10
         }
-      ],
-      "_subject": "heart"
+      ]
     },
     {
       "id": "scene-04",
@@ -467,8 +440,7 @@
           "enter": "pop",
           "at": 8
         }
-      ],
-      "_subject": "Phoebe"
+      ]
     },
     {
       "id": "scene-05",
@@ -555,8 +527,7 @@
           "enter": "pop",
           "at": 48
         }
-      ],
-      "_subject": "Phoebe"
+      ]
     },
     {
       "id": "scene-06",
@@ -577,7 +548,7 @@
           "rgb(243,241,236)",
           "rgb(239,237,230)"
         ],
-        "set": "cafe",
+        "set": "horizon",
         "texture": "grain",
         "accent": "#1E1E22"
       },
@@ -607,7 +578,7 @@
       ],
       "props": [
         {
-          "type": "heart",
+          "type": "spotlight",
           "scale": 1,
           "enter": "pop",
           "color": "#D9603C",
@@ -624,8 +595,7 @@
           "enter": "pop",
           "at": 10
         }
-      ],
-      "_subject": "Which — heart"
+      ]
     },
     {
       "id": "scene-07",
@@ -689,8 +659,7 @@
           "enter": "pop",
           "at": 10
         }
-      ],
-      "_subject": "gift"
+      ]
     },
     {
       "id": "scene-08",
@@ -747,17 +716,8 @@
           "action": "idle"
         }
       ],
-      "props": [
-        {
-          "type": "shield",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
-      "texts": [],
-      "_subject": "Phoebe and Leela and Which — shield"
+      "props": [],
+      "texts": []
     },
     {
       "id": "scene-09",
@@ -827,8 +787,7 @@
           "enter": "up",
           "at": 8
         }
-      ],
-      "_subject": "Phoebe"
+      ]
     },
     {
       "id": "scene-10",
@@ -849,7 +808,7 @@
           "rgb(242,241,235)",
           "rgb(239,237,230)"
         ],
-        "set": "kitchen",
+        "set": "horizon",
         "texture": "grain",
         "accent": "#1E1E22"
       },
@@ -877,15 +836,7 @@
           "action": "talk"
         }
       ],
-      "props": [
-        {
-          "type": "family",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "WHOSE SIDE ARE YOU ON?",
@@ -895,8 +846,7 @@
           "enter": "up",
           "at": 8
         }
-      ],
-      "_subject": "Phoebe — family"
+      ]
     },
     {
       "id": "scene-11",
@@ -966,8 +916,7 @@
           "enter": "pop",
           "at": 60
         }
-      ],
-      "_subject": "Phoebe"
+      ]
     },
     {
       "id": "scene-12",
@@ -1173,8 +1122,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "Phoebe and Which — phone"
+      "texts": []
     },
     {
       "id": "scene-15",
@@ -1295,8 +1243,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "Which"
+      "texts": []
     },
     {
       "id": "scene-17",
@@ -1368,8 +1315,7 @@
           "enter": "up",
           "at": 8
         }
-      ],
-      "_subject": "Phoebe"
+      ]
     },
     {
       "id": "scene-18",
@@ -1486,15 +1432,7 @@
           "crowd": 11
         }
       ],
-      "props": [
-        {
-          "type": "heart",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "“MY WEDDING”",
@@ -1511,8 +1449,7 @@
           "enter": "pop",
           "at": 44
         }
-      ],
-      "_subject": "Phoebe — heart"
+      ]
     },
     {
       "id": "scene-20",
@@ -1583,8 +1520,7 @@
           "at": 540
         }
       ],
-      "texts": [],
-      "_subject": "heart"
+      "texts": []
     },
     {
       "id": "scene-21",
@@ -1723,8 +1659,7 @@
           "enter": "pop",
           "at": 8
         }
-      ],
-      "_subject": "Phoebe"
+      ]
     },
     {
       "id": "scene-23",
@@ -1783,7 +1718,7 @@
       ],
       "props": [
         {
-          "type": "phone",
+          "type": "spotlight",
           "scale": 1,
           "enter": "pop",
           "color": "#D9603C",
@@ -1799,8 +1734,7 @@
           "enter": "up",
           "at": 8
         }
-      ],
-      "_subject": "Phoebe and Which — phone"
+      ]
     },
     {
       "id": "scene-24",
@@ -1821,7 +1755,7 @@
           "rgb(214,212,207)",
           "rgb(197,195,188)"
         ],
-        "set": "cafe",
+        "set": "abstract",
         "texture": "dots",
         "accent": "#1E1E22"
       },
@@ -1855,7 +1789,7 @@
       ],
       "props": [
         {
-          "type": "heart",
+          "type": "orbit",
           "scale": 1,
           "enter": "pop",
           "color": "#D9603C",
@@ -1871,8 +1805,7 @@
           "enter": "up",
           "at": 8
         }
-      ],
-      "_subject": "heart"
+      ]
     },
     {
       "id": "scene-25",
@@ -1960,7 +1893,7 @@
           "rgb(212,211,205)",
           "rgb(196,193,186)"
         ],
-        "set": "classroom",
+        "set": "abstract",
         "texture": "dots",
         "accent": "#1E1E22"
       },
@@ -1988,15 +1921,7 @@
           "action": "talk"
         }
       ],
-      "props": [
-        {
-          "type": "school",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "PERFORMING VULNERABILITY",
@@ -2005,8 +1930,7 @@
           "enter": "up",
           "at": 8
         }
-      ],
-      "_subject": "Leela — school"
+      ]
     },
     {
       "id": "scene-27",
@@ -2092,8 +2016,7 @@
           "enter": "up",
           "at": 60
         }
-      ],
-      "_subject": "Leela and Which"
+      ]
     },
     {
       "id": "scene-28",
@@ -2114,7 +2037,7 @@
           "rgb(196,195,190)",
           "rgb(180,177,171)"
         ],
-        "set": "cafe",
+        "set": "abstract",
         "texture": "dots",
         "accent": "#1E1E22"
       },
@@ -2145,7 +2068,7 @@
       ],
       "props": [
         {
-          "type": "heart",
+          "type": "orbit",
           "scale": 1,
           "enter": "pop",
           "color": "#D9603C",
@@ -2162,8 +2085,7 @@
           "enter": "pop",
           "at": 8
         }
-      ],
-      "_subject": "heart"
+      ]
     },
     {
       "id": "scene-29",
@@ -2184,7 +2106,7 @@
           "rgb(195,194,189)",
           "rgb(179,177,170)"
         ],
-        "set": "highway",
+        "set": "none",
         "texture": "dots",
         "accent": "#1E1E22",
         "split": [
@@ -2243,8 +2165,7 @@
           "enter": "up",
           "at": 8
         }
-      ],
-      "_subject": "crash"
+      ]
     },
     {
       "id": "scene-30",
@@ -2265,7 +2186,7 @@
           "rgb(223,222,216)",
           "rgb(206,204,197)"
         ],
-        "set": "kitchen",
+        "set": "horizon",
         "texture": "grain",
         "accent": "#1E1E22"
       },
@@ -2304,8 +2225,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "Leela — family"
+      "texts": []
     },
     {
       "id": "scene-31",
@@ -2376,7 +2296,7 @@
           "rgb(207,206,200)",
           "rgb(190,188,182)"
         ],
-        "set": "kitchen",
+        "set": "horizon",
         "texture": "grain",
         "accent": "#1E1E22"
       },
@@ -2416,15 +2336,7 @@
           "action": "idle"
         }
       ],
-      "props": [
-        {
-          "type": "family",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "CONTROLLING THE STORY",
@@ -2434,8 +2346,7 @@
           "enter": "pop",
           "at": 8
         }
-      ],
-      "_subject": "family"
+      ]
     },
     {
       "id": "scene-33",
@@ -2456,7 +2367,7 @@
           "rgb(206,205,200)",
           "rgb(190,187,181)"
         ],
-        "set": "highway",
+        "set": "horizon",
         "texture": "grain",
         "accent": "#1E1E22"
       },
@@ -2490,7 +2401,7 @@
       ],
       "props": [
         {
-          "type": "road",
+          "type": "orbit",
           "scale": 1,
           "enter": "pop",
           "color": "#D9603C",
@@ -2506,8 +2417,7 @@
           "enter": "up",
           "at": 8
         }
-      ],
-      "_subject": "Phoebe — road"
+      ]
     },
     {
       "id": "scene-34",
@@ -2588,7 +2498,7 @@
           "rgb(190,189,184)",
           "rgb(174,172,166)"
         ],
-        "set": "cafe",
+        "set": "none",
         "texture": "grain",
         "accent": "#1E1E22",
         "split": [
@@ -2632,15 +2542,7 @@
           "action": "idle"
         }
       ],
-      "props": [
-        {
-          "type": "phone",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "A SURVIVAL MECHANISM",
@@ -2650,8 +2552,7 @@
           "enter": "pop",
           "at": 8
         }
-      ],
-      "_subject": "Phoebe — phone"
+      ]
     },
     {
       "id": "scene-36",
@@ -2700,17 +2601,8 @@
           "action": "think"
         }
       ],
-      "props": [
-        {
-          "type": "crash",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
-      "texts": [],
-      "_subject": "crash"
+      "props": [],
+      "texts": []
     },
     {
       "id": "scene-37",
@@ -2767,15 +2659,7 @@
           "action": "idle"
         }
       ],
-      "props": [
-        {
-          "type": "heart",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "A MAGNETIC ANOMALY",
@@ -2785,8 +2669,7 @@
           "enter": "pop",
           "at": 8
         }
-      ],
-      "_subject": "Phoebe — heart"
+      ]
     },
     {
       "id": "scene-38",
@@ -2858,8 +2741,7 @@
           "enter": "up",
           "at": 46
         }
-      ],
-      "_subject": "Which — phone"
+      ]
     },
     {
       "id": "scene-39",
@@ -2916,17 +2798,8 @@
           "action": "idle"
         }
       ],
-      "props": [
-        {
-          "type": "ledge",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
-      "texts": [],
-      "_subject": "Phoebe and Leela — ledge"
+      "props": [],
+      "texts": []
     },
     {
       "id": "scene-40",
@@ -2998,8 +2871,7 @@
           "enter": "up",
           "at": 8
         }
-      ],
-      "_subject": "Leela — family"
+      ]
     },
     {
       "id": "scene-41",
@@ -3082,8 +2954,7 @@
           "enter": "pop",
           "at": 40
         }
-      ],
-      "_subject": "Phoebe and Leela"
+      ]
     },
     {
       "id": "scene-42",
@@ -3146,8 +3017,7 @@
           "enter": "pop",
           "at": 8
         }
-      ],
-      "_subject": "Phoebe and Leela and Which"
+      ]
     },
     {
       "id": "scene-43",
@@ -3210,8 +3080,7 @@
           "enter": "up",
           "at": 8
         }
-      ],
-      "_subject": "Leela"
+      ]
     },
     {
       "id": "scene-44",
@@ -3277,8 +3146,7 @@
           "enter": "up",
           "at": 8
         }
-      ],
-      "_subject": "Phoebe"
+      ]
     },
     {
       "id": "scene-45",
@@ -3345,8 +3213,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "Phoebe and Leela — home"
+      "texts": []
     },
     {
       "id": "scene-46",
@@ -3399,15 +3266,7 @@
           "action": "talk"
         }
       ],
-      "props": [
-        {
-          "type": "heart",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "TWO WAYS TO RUN",
@@ -3417,8 +3276,7 @@
           "enter": "pop",
           "at": 8
         }
-      ],
-      "_subject": "Phoebe and Leela — heart"
+      ]
     },
     {
       "id": "scene-47",
@@ -3469,8 +3327,7 @@
           "at": 0
         }
       ],
-      "texts": [],
-      "_subject": "Phoebe and Leela — heart"
+      "texts": []
     },
     {
       "id": "scene-48",
@@ -3523,15 +3380,7 @@
           "action": "think"
         }
       ],
-      "props": [
-        {
-          "type": "magnifier",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "LILA = PHOEBE",
@@ -3548,8 +3397,7 @@
           "enter": "pop",
           "at": 46
         }
-      ],
-      "_subject": "Phoebe and Leela — magnifier"
+      ]
     },
     {
       "id": "scene-49",
@@ -3570,7 +3418,7 @@
           "rgb(193,191,186)",
           "rgb(176,174,168)"
         ],
-        "set": "cafe",
+        "set": "abstract",
         "texture": "dots",
         "accent": "#1E1E22"
       },
@@ -3606,15 +3454,7 @@
           "action": "idle"
         }
       ],
-      "props": [
-        {
-          "type": "phone",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "“SORRY, 3 MINUTES OVER”",
@@ -3623,8 +3463,7 @@
           "enter": "up",
           "at": 8
         }
-      ],
-      "_subject": "Phoebe — phone"
+      ]
     },
     {
       "id": "scene-50",
@@ -3701,8 +3540,7 @@
           "enter": "pop",
           "at": 8
         }
-      ],
-      "_subject": "Leela — coin"
+      ]
     },
     {
       "id": "scene-51",
@@ -3723,7 +3561,7 @@
           "rgb(191,189,185)",
           "rgb(174,172,166)"
         ],
-        "set": "highway",
+        "set": "abstract",
         "texture": "dots",
         "accent": "#1E1E22"
       },
@@ -3751,15 +3589,7 @@
           "action": "talk"
         }
       ],
-      "props": [
-        {
-          "type": "crash",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "THE STRANGER PARADOX",
@@ -3769,8 +3599,7 @@
           "enter": "pop",
           "at": 8
         }
-      ],
-      "_subject": "crash"
+      ]
     },
     {
       "id": "scene-52",
@@ -3791,7 +3620,7 @@
           "rgb(205,203,198)",
           "rgb(188,185,179)"
         ],
-        "set": "sky",
+        "set": "abstract",
         "texture": "dots",
         "accent": "#1E1E22"
       },
@@ -3832,8 +3661,7 @@
           "enter": "up",
           "at": 8
         }
-      ],
-      "_subject": "Phoebe and Leela — storm"
+      ]
     },
     {
       "id": "scene-53",
@@ -3854,7 +3682,7 @@
           "rgb(175,173,169)",
           "rgb(158,156,151)"
         ],
-        "set": "kitchen",
+        "set": "abstract",
         "texture": "dots",
         "accent": "#1E1E22"
       },
@@ -3885,7 +3713,7 @@
       ],
       "props": [
         {
-          "type": "family",
+          "type": "ripple",
           "scale": 1,
           "enter": "pop",
           "color": "#D9603C",
@@ -3901,8 +3729,7 @@
           "enter": "up",
           "at": 8
         }
-      ],
-      "_subject": "family"
+      ]
     },
     {
       "id": "scene-54",
@@ -3923,7 +3750,7 @@
           "rgb(203,201,196)",
           "rgb(186,184,177)"
         ],
-        "set": "kitchen",
+        "set": "horizon",
         "texture": "grain",
         "accent": "#1E1E22"
       },
@@ -3955,15 +3782,7 @@
           "action": "talk"
         }
       ],
-      "props": [
-        {
-          "type": "food",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "INTIMACY = POLITE LIES",
@@ -3980,8 +3799,7 @@
           "enter": "pop",
           "at": 48
         }
-      ],
-      "_subject": "food"
+      ]
     },
     {
       "id": "scene-55",
@@ -4002,7 +3820,7 @@
           "rgb(173,172,167)",
           "rgb(157,155,149)"
         ],
-        "set": "cafe",
+        "set": "none",
         "texture": "grain",
         "accent": "#1E1E22",
         "split": [
@@ -4042,17 +3860,8 @@
           "action": "idle"
         }
       ],
-      "props": [
-        {
-          "type": "heart",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
-      "texts": [],
-      "_subject": "heart"
+      "props": [],
+      "texts": []
     },
     {
       "id": "scene-56",
@@ -4109,15 +3918,7 @@
           "action": "idle"
         }
       ],
-      "props": [
-        {
-          "type": "funnelTrap",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "SHE JUST FROZE",
@@ -4126,8 +3927,7 @@
           "enter": "up",
           "at": 8
         }
-      ],
-      "_subject": "Phoebe — funnelTrap"
+      ]
     },
     {
       "id": "scene-57",
@@ -4148,7 +3948,7 @@
           "rgb(200,199,194)",
           "rgb(184,181,175)"
         ],
-        "set": "room",
+        "set": "horizon",
         "texture": "grain",
         "accent": "#1E1E22"
       },
@@ -4197,8 +3997,7 @@
           "enter": "pop",
           "at": 48
         }
-      ],
-      "_subject": "Phoebe — home"
+      ]
     },
     {
       "id": "scene-58",
@@ -4219,7 +4018,7 @@
           "rgb(171,169,165)",
           "rgb(154,152,147)"
         ],
-        "set": "cafe",
+        "set": "horizon",
         "texture": "grain",
         "accent": "#1E1E22"
       },
@@ -4255,17 +4054,8 @@
           "action": "idle"
         }
       ],
-      "props": [
-        {
-          "type": "heart",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
-      "texts": [],
-      "_subject": "heart"
+      "props": [],
+      "texts": []
     },
     {
       "id": "scene-59",
@@ -4398,15 +4188,7 @@
           "action": "idle"
         }
       ],
-      "props": [
-        {
-          "type": "family",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "HEART EMOJIS WHEN HE DIES",
@@ -4423,8 +4205,7 @@
           "enter": "pop",
           "at": 52
         }
-      ],
-      "_subject": "Leela — family"
+      ]
     },
     {
       "id": "scene-61",
@@ -4483,8 +4264,7 @@
           "enter": "pop",
           "at": 8
         }
-      ],
-      "_subject": "Phoebe"
+      ]
     },
     {
       "id": "scene-62",
@@ -4534,15 +4314,7 @@
           "crowd": 9
         }
       ],
-      "props": [
-        {
-          "type": "phone",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "A SEA OF BLACK BOXES",
@@ -4551,8 +4323,7 @@
           "enter": "up",
           "at": 8
         }
-      ],
-      "_subject": "Phoebe — phone"
+      ]
     },
     {
       "id": "scene-63",
@@ -4621,8 +4392,7 @@
           "enter": "up",
           "at": 52
         }
-      ],
-      "_subject": "phone"
+      ]
     },
     {
       "id": "scene-64",
@@ -4761,15 +4531,7 @@
           "action": "idle"
         }
       ],
-      "props": [
-        {
-          "type": "heart",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "SHE STOPPED CHOOSING",
@@ -4778,8 +4540,7 @@
           "enter": "up",
           "at": 8
         }
-      ],
-      "_subject": "heart"
+      ]
     },
     {
       "id": "scene-66",
@@ -4836,17 +4597,8 @@
           "action": "idle"
         }
       ],
-      "props": [
-        {
-          "type": "family",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
-      "texts": [],
-      "_subject": "family"
+      "props": [],
+      "texts": []
     },
     {
       "id": "scene-67",
@@ -4901,7 +4653,7 @@
       ],
       "props": [
         {
-          "type": "home",
+          "type": "shape",
           "scale": 1,
           "enter": "pop",
           "color": "#D9603C",
@@ -4917,8 +4669,7 @@
           "enter": "up",
           "at": 8
         }
-      ],
-      "_subject": "Which — home"
+      ]
     },
     {
       "id": "scene-68",
@@ -4967,15 +4718,7 @@
           "action": "slump"
         }
       ],
-      "props": [
-        {
-          "type": "chains",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "IT WAS HER CAGE",
@@ -4985,8 +4728,7 @@
           "enter": "pop",
           "at": 8
         }
-      ],
-      "_subject": "chains"
+      ]
     },
     {
       "id": "scene-69",
@@ -5173,15 +4915,7 @@
           "action": "think"
         }
       ],
-      "props": [
-        {
-          "type": "heart",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "SHE STOPS READING",
@@ -5198,8 +4932,7 @@
           "enter": "pop",
           "at": 44
         }
-      ],
-      "_subject": "heart"
+      ]
     },
     {
       "id": "scene-72",
@@ -5220,7 +4953,7 @@
           "rgb(243,203,191)",
           "rgb(240,238,232)"
         ],
-        "set": "kitchen",
+        "set": "abstract",
         "texture": "dots",
         "accent": "#1E1E22"
       },
@@ -5256,17 +4989,8 @@
           "action": "idle"
         }
       ],
-      "props": [
-        {
-          "type": "food",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
-      "texts": [],
-      "_subject": "Which — food"
+      "props": [],
+      "texts": []
     },
     {
       "id": "scene-73",
@@ -5287,7 +5011,7 @@
           "rgb(245,212,202)",
           "rgb(242,240,234)"
         ],
-        "set": "cafe",
+        "set": "abstract",
         "texture": "dots",
         "accent": "#1E1E22"
       },
@@ -5319,15 +5043,7 @@
           "action": "talk"
         }
       ],
-      "props": [
-        {
-          "type": "heart",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "$22 SQUASH TOAST",
@@ -5337,8 +5053,7 @@
           "enter": "pop",
           "at": 8
         }
-      ],
-      "_subject": "Leela and Which — heart"
+      ]
     },
     {
       "id": "scene-74",
@@ -5359,7 +5074,7 @@
           "rgb(242,201,189)",
           "rgb(240,238,232)"
         ],
-        "set": "forest",
+        "set": "abstract",
         "texture": "dots",
         "accent": "#1E1E22"
       },
@@ -5395,15 +5110,7 @@
           "action": "idle"
         }
       ],
-      "props": [
-        {
-          "type": "grave",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "NOT BY PHILOSOPHY",
@@ -5412,8 +5119,7 @@
           "enter": "up",
           "at": 8
         }
-      ],
-      "_subject": "Phoebe — grave"
+      ]
     },
     {
       "id": "scene-75",
@@ -5462,15 +5168,7 @@
           "action": "talk"
         }
       ],
-      "props": [
-        {
-          "type": "storm",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "A GENUINELY GOOD AFTERNOON",
@@ -5480,8 +5178,7 @@
           "enter": "pop",
           "at": 8
         }
-      ],
-      "_subject": "storm"
+      ]
     },
     {
       "id": "scene-76",
@@ -5564,7 +5261,7 @@
           "rgb(241,198,186)",
           "rgb(240,238,232)"
         ],
-        "set": "forest",
+        "set": "abstract",
         "texture": "dots",
         "accent": "#1E1E22"
       },
@@ -5600,17 +5297,8 @@
           "action": "idle"
         }
       ],
-      "props": [
-        {
-          "type": "grave",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
-      "texts": [],
-      "_subject": "Phoebe and Leela — grave"
+      "props": [],
+      "texts": []
     },
     {
       "id": "scene-78",
@@ -5631,7 +5319,7 @@
           "rgb(241,198,184)",
           "rgb(240,238,232)"
         ],
-        "set": "kitchen",
+        "set": "horizon",
         "texture": "grain",
         "accent": "#1E1E22"
       },
@@ -5667,15 +5355,7 @@
           "action": "idle"
         }
       ],
-      "props": [
-        {
-          "type": "family",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "HIS LAST WORD: “HERBAL”",
@@ -5684,8 +5364,7 @@
           "enter": "up",
           "at": 8
         }
-      ],
-      "_subject": "Phoebe — family"
+      ]
     },
     {
       "id": "scene-79",
@@ -5743,8 +5422,7 @@
           "enter": "up",
           "at": 8
         }
-      ],
-      "_subject": "Phoebe"
+      ]
     },
     {
       "id": "scene-80",
@@ -5877,7 +5555,7 @@
           "rgb(243,203,192)",
           "rgb(242,240,234)"
         ],
-        "set": "kitchen",
+        "set": "horizon",
         "texture": "grain",
         "accent": "#1E1E22"
       },
@@ -5918,8 +5596,7 @@
           "enter": "up",
           "at": 8
         }
-      ],
-      "_subject": "family"
+      ]
     },
     {
       "id": "scene-83",
@@ -5978,8 +5655,7 @@
           "enter": "pop",
           "at": 8
         }
-      ],
-      "_subject": "Phoebe"
+      ]
     },
     {
       "id": "scene-84",
@@ -6028,17 +5704,8 @@
           "action": "think"
         }
       ],
-      "props": [
-        {
-          "type": "heart",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
-      "texts": [],
-      "_subject": "Which — heart"
+      "props": [],
+      "texts": []
     },
     {
       "id": "scene-85",
@@ -6176,8 +5843,7 @@
           "enter": "pop",
           "at": 8
         }
-      ],
-      "_subject": "Phoebe"
+      ]
     },
     {
       "id": "scene-87",
@@ -6230,15 +5896,7 @@
           "action": "point"
         }
       ],
-      "props": [
-        {
-          "type": "grave",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "SHE LOCKED HER HEART",
@@ -6247,8 +5905,7 @@
           "enter": "up",
           "at": 8
         }
-      ],
-      "_subject": "grave"
+      ]
     },
     {
       "id": "scene-88",
@@ -6315,8 +5972,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "Phoebe and Leela — heart"
+      "texts": []
     },
     {
       "id": "scene-89",
@@ -6367,7 +6023,7 @@
       ],
       "props": [
         {
-          "type": "rocketLaunch",
+          "type": "spotlight",
           "scale": 1,
           "enter": "pop",
           "color": "#D9603C",
@@ -6383,8 +6039,7 @@
           "enter": "up",
           "at": 8
         }
-      ],
-      "_subject": "Phoebe and Leela — rocketLaunch"
+      ]
     },
     {
       "id": "scene-90",
@@ -6577,15 +6232,7 @@
           "crowd": 9
         }
       ],
-      "props": [
-        {
-          "type": "heart",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "REAL LIFE IS MESSY",
@@ -6595,8 +6242,7 @@
           "enter": "pop",
           "at": 8
         }
-      ],
-      "_subject": "heart"
+      ]
     },
     {
       "id": "scene-93",
@@ -6666,8 +6312,7 @@
           "enter": "up",
           "at": 8
         }
-      ],
-      "_subject": "Phoebe"
+      ]
     },
     {
       "id": "scene-94",
@@ -6716,15 +6361,7 @@
           "action": "talk"
         }
       ],
-      "props": [
-        {
-          "type": "grave",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "THE DRESS SHE’D DIE IN",
@@ -6733,8 +6370,7 @@
           "enter": "up",
           "at": 8
         }
-      ],
-      "_subject": "Phoebe and Leela — grave"
+      ]
     },
     {
       "id": "scene-95",
@@ -6795,15 +6431,7 @@
           "action": "idle"
         }
       ],
-      "props": [
-        {
-          "type": "crash",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "NOT A MAKEOVER",
@@ -6820,8 +6448,7 @@
           "enter": "pop",
           "at": 46
         }
-      ],
-      "_subject": "crash"
+      ]
     },
     {
       "id": "scene-96",
@@ -6871,8 +6498,7 @@
         }
       ],
       "props": [],
-      "texts": [],
-      "_subject": "Phoebe and Leela"
+      "texts": []
     },
     {
       "id": "scene-97",
@@ -6893,7 +6519,7 @@
           "rgb(237,222,195)",
           "rgb(239,236,229)"
         ],
-        "set": "pitchStage",
+        "set": "abstract",
         "texture": "dots",
         "accent": "#1E1E22"
       },
@@ -6934,8 +6560,7 @@
           "enter": "up",
           "at": 8
         }
-      ],
-      "_subject": "Phoebe — dollarExchange"
+      ]
     },
     {
       "id": "scene-98",
@@ -6992,17 +6617,8 @@
           "action": "idle"
         }
       ],
-      "props": [
-        {
-          "type": "lightbulb",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
-      "texts": [],
-      "_subject": "Phoebe — lightbulb"
+      "props": [],
+      "texts": []
     },
     {
       "id": "scene-99",
@@ -7023,7 +6639,7 @@
           "rgb(234,215,182)",
           "rgb(237,235,227)"
         ],
-        "set": "cafe",
+        "set": "abstract",
         "texture": "dots",
         "accent": "#1E1E22"
       },
@@ -7061,7 +6677,7 @@
       ],
       "props": [
         {
-          "type": "heart",
+          "type": "spotlight",
           "scale": 1,
           "enter": "pop",
           "color": "#D9603C",
@@ -7078,8 +6694,7 @@
           "enter": "up",
           "at": 8
         }
-      ],
-      "_subject": "heart"
+      ]
     },
     {
       "id": "scene-100",
@@ -7179,7 +6794,7 @@
           "rgb(233,214,181)",
           "rgb(237,235,227)"
         ],
-        "set": "sky",
+        "set": "abstract",
         "texture": "dots",
         "accent": "#1E1E22"
       },
@@ -7211,15 +6826,7 @@
           "action": "talk"
         }
       ],
-      "props": [
-        {
-          "type": "storm",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "THE ONLY HONEST ONE",
@@ -7229,8 +6836,7 @@
           "enter": "pop",
           "at": 8
         }
-      ],
-      "_subject": "storm"
+      ]
     },
     {
       "id": "scene-102",
@@ -7251,7 +6857,7 @@
           "rgb(233,214,180)",
           "rgb(237,235,227)"
         ],
-        "set": "cafe",
+        "set": "horizon",
         "texture": "grain",
         "accent": "#1E1E22"
       },
@@ -7279,15 +6885,7 @@
           "action": "talk"
         }
       ],
-      "props": [
-        {
-          "type": "phone",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "IS IT WISH FULFILLMENT?",
@@ -7297,8 +6895,7 @@
           "enter": "up",
           "at": 8
         }
-      ],
-      "_subject": "phone"
+      ]
     },
     {
       "id": "scene-103",
@@ -7319,7 +6916,7 @@
           "rgb(236,220,191)",
           "rgb(239,236,229)"
         ],
-        "set": "cafe",
+        "set": "horizon",
         "texture": "grain",
         "accent": "#1E1E22"
       },
@@ -7361,8 +6958,7 @@
           "enter": "pop",
           "at": 8
         }
-      ],
-      "_subject": "heart"
+      ]
     },
     {
       "id": "scene-104",
@@ -7419,17 +7015,8 @@
           "action": "idle"
         }
       ],
-      "props": [
-        {
-          "type": "coin",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
-      "texts": [],
-      "_subject": "coin"
+      "props": [],
+      "texts": []
     },
     {
       "id": "scene-105",
@@ -7450,7 +7037,7 @@
           "rgb(229,207,168)",
           "rgb(236,233,225)"
         ],
-        "set": "sky",
+        "set": "horizon",
         "texture": "grain",
         "accent": "#1E1E22"
       },
@@ -7485,7 +7072,7 @@
       ],
       "props": [
         {
-          "type": "star",
+          "type": "orbit",
           "scale": 1,
           "enter": "pop",
           "color": "#D9603C",
@@ -7502,8 +7089,7 @@
           "enter": "up",
           "at": 8
         }
-      ],
-      "_subject": "Which — star"
+      ]
     },
     {
       "id": "scene-106",
@@ -7524,7 +7110,7 @@
           "rgb(235,218,189)",
           "rgb(239,236,229)"
         ],
-        "set": "highway",
+        "set": "horizon",
         "texture": "grain",
         "accent": "#1E1E22"
       },
@@ -7571,8 +7157,7 @@
           "enter": "pop",
           "at": 8
         }
-      ],
-      "_subject": "crash"
+      ]
     },
     {
       "id": "scene-107",
@@ -7625,15 +7210,7 @@
           "action": "think"
         }
       ],
-      "props": [
-        {
-          "type": "coin",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "WHAT MAKES YOU TELL THE TRUTH?",
@@ -7642,8 +7219,7 @@
           "enter": "up",
           "at": 8
         }
-      ],
-      "_subject": "coin"
+      ]
     },
     {
       "id": "scene-108",
@@ -7711,8 +7287,7 @@
           "enter": "pop",
           "at": 8
         }
-      ],
-      "_subject": "Which"
+      ]
     },
     {
       "id": "scene-109",
@@ -7767,7 +7342,7 @@
       ],
       "props": [
         {
-          "type": "phone",
+          "type": "orbit",
           "scale": 1,
           "enter": "pop",
           "color": "#D9603C",
@@ -7791,8 +7366,7 @@
           "enter": "pop",
           "at": 50
         }
-      ],
-      "_subject": "phone"
+      ]
     },
     {
       "id": "scene-110",
@@ -7907,15 +7481,7 @@
           "action": "think"
         }
       ],
-      "props": [
-        {
-          "type": "home",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "WHO GETS THE REAL YOU?",
@@ -7925,8 +7491,7 @@
           "enter": "up",
           "at": 8
         }
-      ],
-      "_subject": "Which — home"
+      ]
     },
     {
       "id": "scene-112",
@@ -7987,15 +7552,7 @@
           "action": "idle"
         }
       ],
-      "props": [
-        {
-          "type": "shield",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "ONLY WITH STRANGERS?",
@@ -8005,8 +7562,7 @@
           "enter": "pop",
           "at": 8
         }
-      ],
-      "_subject": "shield"
+      ]
     },
     {
       "id": "scene-113",
@@ -8119,7 +7675,7 @@
       ],
       "props": [
         {
-          "type": "food",
+          "type": "orbit",
           "scale": 1,
           "enter": "pop",
           "color": "#D9603C",
@@ -8135,8 +7691,7 @@
           "enter": "up",
           "at": 8
         }
-      ],
-      "_subject": "food"
+      ]
     },
     {
       "id": "scene-115",
@@ -8193,15 +7748,7 @@
           "action": "idle"
         }
       ],
-      "props": [
-        {
-          "type": "shield",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "CHECK THE ELEVATOR DOORS",
@@ -8211,8 +7758,7 @@
           "enter": "pop",
           "at": 8
         }
-      ],
-      "_subject": "shield"
+      ]
     }
   ],
   "captions": [

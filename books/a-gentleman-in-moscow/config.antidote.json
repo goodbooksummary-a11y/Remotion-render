@@ -368,8 +368,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "chains"
+      "texts": []
     },
     {
       "id": "scene-04",
@@ -608,17 +607,8 @@
           "crowd": 9
         }
       ],
-      "props": [
-        {
-          "type": "food",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
-      "texts": [],
-      "_subject": "food"
+      "props": [],
+      "texts": []
     },
     {
       "id": "scene-08",
@@ -794,8 +784,7 @@
           "enter": "pop",
           "at": 94
         }
-      ],
-      "_subject": "notes"
+      ]
     },
     {
       "id": "scene-11",
@@ -869,8 +858,7 @@
           "color2": "#1E1E22"
         }
       ],
-      "texts": [],
-      "_subject": "home"
+      "texts": []
     },
     {
       "id": "scene-12",
@@ -1000,17 +988,8 @@
           "action": "idle"
         }
       ],
-      "props": [
-        {
-          "type": "law",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
-      "texts": [],
-      "_subject": "law"
+      "props": [],
+      "texts": []
     },
     {
       "id": "scene-14",
@@ -1135,8 +1114,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "Vashinsky"
+      "texts": []
     },
     {
       "id": "scene-16",
@@ -1208,8 +1186,7 @@
           "enter": "pop",
           "at": 239
         }
-      ],
-      "_subject": "Vashinsky"
+      ]
     },
     {
       "id": "scene-17",
@@ -1270,8 +1247,7 @@
           "color2": "#1E1E22"
         }
       ],
-      "texts": [],
-      "_subject": "notes"
+      "texts": []
     },
     {
       "id": "scene-18",
@@ -1392,17 +1368,8 @@
           "action": "idle"
         }
       ],
-      "props": [
-        {
-          "type": "game",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
-      "texts": [],
-      "_subject": "Vashinsky — game"
+      "props": [],
+      "texts": []
     },
     {
       "id": "scene-20",
@@ -1601,8 +1568,7 @@
           "color2": "#1E1E22"
         }
       ],
-      "texts": [],
-      "_subject": "coin"
+      "texts": []
     },
     {
       "id": "scene-23",
@@ -1720,8 +1686,7 @@
         }
       ],
       "props": [],
-      "texts": [],
-      "_subject": "Rostov"
+      "texts": []
     },
     {
       "id": "scene-25",
@@ -2109,8 +2074,7 @@
           "enter": "pop",
           "at": 68
         }
-      ],
-      "_subject": "home"
+      ]
     },
     {
       "id": "scene-31",
@@ -2455,17 +2419,8 @@
           "action": "idle"
         }
       ],
-      "props": [
-        {
-          "type": "notes",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
-      "texts": [],
-      "_subject": "notes"
+      "props": [],
+      "texts": []
     },
     {
       "id": "scene-37",
@@ -2519,15 +2474,7 @@
           "action": "talk"
         }
       ],
-      "props": [
-        {
-          "type": "trophy",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "MOURNS THE LOSS",
@@ -2537,8 +2484,7 @@
           "enter": "pop",
           "at": 212
         }
-      ],
-      "_subject": "Rostov — trophy"
+      ]
     },
     {
       "id": "scene-38",
@@ -2612,8 +2558,7 @@
           "enter": "pop",
           "at": 212
         }
-      ],
-      "_subject": "food"
+      ]
     },
     {
       "id": "scene-39",
@@ -2679,15 +2624,7 @@
           "action": "idle"
         }
       ],
-      "props": [
-        {
-          "type": "coin",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "STEALS YOUR MONEY",
@@ -2697,8 +2634,7 @@
           "enter": "pop",
           "at": 27
         }
-      ],
-      "_subject": "coin"
+      ]
     },
     {
       "id": "scene-40",
@@ -2752,15 +2688,7 @@
           "action": "think"
         }
       ],
-      "props": [
-        {
-          "type": "game",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "LOST A GAME",
@@ -2770,8 +2698,7 @@
           "enter": "pop",
           "at": 142
         }
-      ],
-      "_subject": "game"
+      ]
     },
     {
       "id": "scene-41",
@@ -2881,8 +2808,7 @@
         }
       ],
       "props": [],
-      "texts": [],
-      "_subject": "Rosttov"
+      "texts": []
     },
     {
       "id": "scene-43",
@@ -3759,8 +3685,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "Rostoff"
+      "texts": []
     },
     {
       "id": "scene-57",
@@ -3861,17 +3786,8 @@
           "action": "talk"
         }
       ],
-      "props": [
-        {
-          "type": "coin",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
-      "texts": [],
-      "_subject": "coin"
+      "props": [],
+      "texts": []
     },
     {
       "id": "scene-59",
@@ -4048,8 +3964,7 @@
           "color2": "#1E1E22"
         }
       ],
-      "texts": [],
-      "_subject": "coin"
+      "texts": []
     },
     {
       "id": "scene-62",
@@ -4244,8 +4159,7 @@
           "enter": "pop",
           "at": 30
         }
-      ],
-      "_subject": "Rostoff"
+      ]
     },
     {
       "id": "scene-65",
@@ -4295,17 +4209,8 @@
           "action": "talk"
         }
       ],
-      "props": [
-        {
-          "type": "compass",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
-      "texts": [],
-      "_subject": "compass"
+      "props": [],
+      "texts": []
     },
     {
       "id": "scene-66",
@@ -4388,8 +4293,7 @@
           "enter": "pop",
           "at": 169
         }
-      ],
-      "_subject": "coin"
+      ]
     },
     {
       "id": "scene-67",
@@ -4564,17 +4468,8 @@
           "action": "talk"
         }
       ],
-      "props": [
-        {
-          "type": "chains",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
-      "texts": [],
-      "_subject": "chains"
+      "props": [],
+      "texts": []
     },
     {
       "id": "scene-70",
@@ -4811,7 +4706,7 @@
           "rgb(216,214,208)",
           "rgb(199,196,189)"
         ],
-        "set": "bedroom",
+        "set": "abstract",
         "texture": "dots",
         "accent": "#1E1E22",
         "act": "tension"
@@ -4865,8 +4760,7 @@
           "enter": "pop",
           "at": 75
         }
-      ],
-      "_subject": "home"
+      ]
     },
     {
       "id": "scene-74",
@@ -5063,7 +4957,7 @@
           "rgb(214,212,207)",
           "rgb(197,194,188)"
         ],
-        "set": "cafe",
+        "set": "abstract",
         "texture": "dots",
         "accent": "#1E1E22",
         "act": "tension"
@@ -5115,8 +5009,7 @@
           "enter": "pop",
           "at": 229
         }
-      ],
-      "_subject": "Nah — heart"
+      ]
     },
     {
       "id": "scene-78",
@@ -5292,8 +5185,7 @@
           "color2": "#1E1E22"
         }
       ],
-      "texts": [],
-      "_subject": "game"
+      "texts": []
     },
     {
       "id": "scene-81",
@@ -5419,8 +5311,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "Nah"
+      "texts": []
     },
     {
       "id": "scene-83",
@@ -5660,8 +5551,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "Nah"
+      "texts": []
     },
     {
       "id": "scene-87",
@@ -5735,8 +5625,7 @@
           "enter": "pop",
           "at": 20
         }
-      ],
-      "_subject": "Nah — family"
+      ]
     },
     {
       "id": "scene-88",
@@ -5866,8 +5755,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "lightbulb"
+      "texts": []
     },
     {
       "id": "scene-90",
@@ -5928,8 +5816,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "family"
+      "texts": []
     },
     {
       "id": "scene-91",
@@ -6003,8 +5890,7 @@
           "enter": "pop",
           "at": 41
         }
-      ],
-      "_subject": "notes"
+      ]
     },
     {
       "id": "scene-92",
@@ -6073,8 +5959,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "Rosttov"
+      "texts": []
     },
     {
       "id": "scene-93",
@@ -6579,8 +6464,7 @@
           "enter": "pop",
           "at": 0
         }
-      ],
-      "_subject": "work"
+      ]
     },
     {
       "id": "scene-101",
@@ -6718,8 +6602,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "work"
+      "texts": []
     },
     {
       "id": "scene-103",
@@ -6769,17 +6652,8 @@
           "action": "talk"
         }
       ],
-      "props": [
-        {
-          "type": "compass",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
-      "texts": [],
-      "_subject": "compass"
+      "props": [],
+      "texts": []
     },
     {
       "id": "scene-104",
@@ -6801,7 +6675,7 @@
           "rgb(187,185,181)",
           "rgb(170,168,162)"
         ],
-        "set": "cafe",
+        "set": "horizon",
         "texture": "grain",
         "accent": "#1E1E22",
         "act": "tension"
@@ -6840,8 +6714,7 @@
           "color2": "#1E1E22"
         }
       ],
-      "texts": [],
-      "_subject": "school"
+      "texts": []
     },
     {
       "id": "scene-105",
@@ -7036,8 +6909,7 @@
           "color2": "#1E1E22"
         }
       ],
-      "texts": [],
-      "_subject": "food"
+      "texts": []
     },
     {
       "id": "scene-108",
@@ -7562,8 +7434,7 @@
           "color2": "#1E1E22"
         }
       ],
-      "texts": [],
-      "_subject": "food"
+      "texts": []
     },
     {
       "id": "scene-117",
@@ -7617,15 +7488,7 @@
           "action": "talk"
         }
       ],
-      "props": [
-        {
-          "type": "work",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "ONLY REAL JOB",
@@ -7635,8 +7498,7 @@
           "enter": "pop",
           "at": 181
         }
-      ],
-      "_subject": "work"
+      ]
     },
     {
       "id": "scene-118",
@@ -7836,8 +7698,7 @@
           "enter": "pop",
           "at": 3
         }
-      ],
-      "_subject": "Nah"
+      ]
     },
     {
       "id": "scene-121",
@@ -7898,8 +7759,7 @@
           "color2": "#1E1E22"
         }
       ],
-      "texts": [],
-      "_subject": "Sophia — family"
+      "texts": []
     },
     {
       "id": "scene-122",
@@ -8027,8 +7887,7 @@
         }
       ],
       "props": [],
-      "texts": [],
-      "_subject": "Nah"
+      "texts": []
     },
     {
       "id": "scene-124",
@@ -8100,7 +7959,7 @@
           "rgb(244,207,197)",
           "rgb(240,238,232)"
         ],
-        "set": "cafe",
+        "set": "abstract",
         "texture": "dots",
         "accent": "#1E1E22",
         "act": "turn"
@@ -8143,8 +8002,7 @@
           "enter": "pop",
           "at": 299
         }
-      ],
-      "_subject": "Rostoff"
+      ]
     },
     {
       "id": "scene-126",
@@ -8285,7 +8143,7 @@
           "rgb(243,206,195)",
           "rgb(240,238,232)"
         ],
-        "set": "court",
+        "set": "horizon",
         "texture": "grain",
         "accent": "#1E1E22",
         "act": "turn"
@@ -8333,8 +8191,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "law"
+      "texts": []
     },
     {
       "id": "scene-129",
@@ -8456,17 +8313,8 @@
           "action": "idle"
         }
       ],
-      "props": [
-        {
-          "type": "lightbulb",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
-      "texts": [],
-      "_subject": "lightbulb"
+      "props": [],
+      "texts": []
     },
     {
       "id": "scene-131",
@@ -8542,8 +8390,7 @@
           "enter": "pop",
           "at": 15
         }
-      ],
-      "_subject": "Nah"
+      ]
     },
     {
       "id": "scene-132",
@@ -8829,17 +8676,8 @@
           "action": "talk"
         }
       ],
-      "props": [
-        {
-          "type": "chains",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
-      "texts": [],
-      "_subject": "chains"
+      "props": [],
+      "texts": []
     },
     {
       "id": "scene-137",
@@ -9158,8 +8996,7 @@
           "enter": "pop",
           "at": 8
         }
-      ],
-      "_subject": "Mishka — home"
+      ]
     },
     {
       "id": "scene-142",
@@ -9210,8 +9047,7 @@
         }
       ],
       "props": [],
-      "texts": [],
-      "_subject": "Mishka"
+      "texts": []
     },
     {
       "id": "scene-143",
@@ -9265,15 +9101,7 @@
           "action": "point"
         }
       ],
-      "props": [
-        {
-          "type": "work",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "ROOM AT HIS BOSS",
@@ -9283,8 +9111,7 @@
           "enter": "pop",
           "at": 155
         }
-      ],
-      "_subject": "work"
+      ]
     },
     {
       "id": "scene-144",
@@ -9496,8 +9323,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "Mishka and Rosto"
+      "texts": []
     },
     {
       "id": "scene-147",
@@ -9550,8 +9376,7 @@
           "at": 0
         }
       ],
-      "texts": [],
-      "_subject": "home"
+      "texts": []
     },
     {
       "id": "scene-148",
@@ -9722,8 +9547,7 @@
           "color2": "#1E1E22"
         }
       ],
-      "texts": [],
-      "_subject": "Rostov — notes"
+      "texts": []
     },
     {
       "id": "scene-151",
@@ -9777,15 +9601,7 @@
           "action": "talk"
         }
       ],
-      "props": [
-        {
-          "type": "notes",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "ZSAR'S SECRET",
@@ -9795,8 +9611,7 @@
           "enter": "pop",
           "at": 172
         }
-      ],
-      "_subject": "Rosttov and Mishka — notes"
+      ]
     },
     {
       "id": "scene-152",
@@ -9846,17 +9661,8 @@
           "action": "talk"
         }
       ],
-      "props": [
-        {
-          "type": "grave",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
-      "texts": [],
-      "_subject": "Mishka — grave"
+      "props": [],
+      "texts": []
     },
     {
       "id": "scene-153",
@@ -10367,8 +10173,7 @@
         }
       ],
       "props": [],
-      "texts": [],
-      "_subject": "Rosttov"
+      "texts": []
     },
     {
       "id": "scene-161",
@@ -10501,17 +10306,8 @@
           "action": "idle"
         }
       ],
-      "props": [
-        {
-          "type": "lightbulb",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
-      "texts": [],
-      "_subject": "lightbulb"
+      "props": [],
+      "texts": []
     },
     {
       "id": "scene-163",
@@ -10715,8 +10511,7 @@
           "enter": "pop",
           "at": 148
         }
-      ],
-      "_subject": "law"
+      ]
     },
     {
       "id": "scene-166",
@@ -10836,8 +10631,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "Rostoff — road"
+      "texts": []
     },
     {
       "id": "scene-168",
@@ -10898,8 +10692,7 @@
           "color2": "#1E1E22"
         }
       ],
-      "texts": [],
-      "_subject": "Rostov"
+      "texts": []
     },
     {
       "id": "scene-169",
@@ -11081,8 +10874,7 @@
         }
       ],
       "props": [],
-      "texts": [],
-      "_subject": "Rosttov"
+      "texts": []
     },
     {
       "id": "scene-172",
@@ -11145,8 +10937,7 @@
         }
       ],
       "props": [],
-      "texts": [],
-      "_subject": "Rostov"
+      "texts": []
     },
     {
       "id": "scene-173",
@@ -11256,8 +11047,7 @@
         }
       ],
       "props": [],
-      "texts": [],
-      "_subject": "Mishka"
+      "texts": []
     },
     {
       "id": "scene-175",
@@ -11547,8 +11337,7 @@
           "at": 0
         }
       ],
-      "texts": [],
-      "_subject": "Rosto — target"
+      "texts": []
     },
     {
       "id": "scene-180",
@@ -11804,15 +11593,7 @@
           "action": "idle"
         }
       ],
-      "props": [
-        {
-          "type": "chains",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "CLOCK ESCAPE",
@@ -11822,8 +11603,7 @@
           "enter": "pop",
           "at": 85
         }
-      ],
-      "_subject": "chains"
+      ]
     },
     {
       "id": "scene-184",
@@ -11884,8 +11664,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "chains"
+      "texts": []
     },
     {
       "id": "scene-185",
@@ -11946,8 +11725,7 @@
           "color2": "#1E1E22"
         }
       ],
-      "texts": [],
-      "_subject": "Sophia — family"
+      "texts": []
     },
     {
       "id": "scene-186",
@@ -12023,8 +11801,7 @@
           "enter": "pop",
           "at": 6
         }
-      ],
-      "_subject": "Rostoff"
+      ]
     },
     {
       "id": "scene-187",
@@ -12135,7 +11912,7 @@
       ],
       "props": [
         {
-          "type": "chains",
+          "type": "orbit",
           "scale": 1,
           "enter": "pop",
           "color": "#D9603C",
@@ -12144,8 +11921,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "chains"
+      "texts": []
     },
     {
       "id": "scene-189",
@@ -12209,7 +11985,7 @@
       ],
       "props": [
         {
-          "type": "chains",
+          "type": "spotlight",
           "scale": 1,
           "enter": "pop",
           "color": "#D9603C",
@@ -12227,8 +12003,7 @@
           "enter": "pop",
           "at": 0
         }
-      ],
-      "_subject": "chains"
+      ]
     },
     {
       "id": "scene-190",
@@ -12358,8 +12133,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "chains"
+      "texts": []
     },
     {
       "id": "scene-192",
@@ -12409,17 +12183,8 @@
           "action": "talk"
         }
       ],
-      "props": [
-        {
-          "type": "compass",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
-      "texts": [],
-      "_subject": "Sophia — compass"
+      "props": [],
+      "texts": []
     },
     {
       "id": "scene-193",
@@ -12474,15 +12239,7 @@
           "crowd": 10
         }
       ],
-      "props": [
-        {
-          "type": "family",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "NOT A LARGER LIFE",
@@ -12492,8 +12249,7 @@
           "enter": "pop",
           "at": 121
         }
-      ],
-      "_subject": "family"
+      ]
     },
     {
       "id": "scene-194",
@@ -12665,15 +12421,7 @@
           "action": "talk"
         }
       ],
-      "props": [
-        {
-          "type": "compass",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "STRONG HONEST",
@@ -12683,8 +12431,7 @@
           "enter": "pop",
           "at": 179
         }
-      ],
-      "_subject": "compass"
+      ]
     },
     {
       "id": "scene-197",
@@ -12736,8 +12483,7 @@
           "at": 0
         }
       ],
-      "texts": [],
-      "_subject": "lightbulb"
+      "texts": []
     },
     {
       "id": "scene-198",
@@ -12854,15 +12600,7 @@
           "action": "talk"
         }
       ],
-      "props": [
-        {
-          "type": "lightbulb",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "LET'S BE REAL",
@@ -12872,8 +12610,7 @@
           "enter": "pop",
           "at": 0
         }
-      ],
-      "_subject": "Rostov — lightbulb"
+      ]
     },
     {
       "id": "scene-200",
@@ -13052,8 +12789,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "lightbulb"
+      "texts": []
     },
     {
       "id": "scene-203",
@@ -13104,8 +12840,7 @@
         }
       ],
       "props": [],
-      "texts": [],
-      "_subject": "Rosto"
+      "texts": []
     },
     {
       "id": "scene-204",
@@ -13166,8 +12901,7 @@
           "color2": "#1E1E22"
         }
       ],
-      "texts": [],
-      "_subject": "coin"
+      "texts": []
     },
     {
       "id": "scene-205",
@@ -13378,8 +13112,7 @@
           "enter": "pop",
           "at": 257
         }
-      ],
-      "_subject": "home"
+      ]
     },
     {
       "id": "scene-208",
@@ -13429,17 +13162,8 @@
           "action": "talk"
         }
       ],
-      "props": [
-        {
-          "type": "work",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
-      "texts": [],
-      "_subject": "work"
+      "props": [],
+      "texts": []
     },
     {
       "id": "scene-209",
@@ -13578,8 +13302,7 @@
           "enter": "pop",
           "at": 131
         }
-      ],
-      "_subject": "chains"
+      ]
     },
     {
       "id": "scene-211",
@@ -13631,7 +13354,7 @@
       ],
       "props": [
         {
-          "type": "chains",
+          "type": "orbit",
           "scale": 1,
           "enter": "pop",
           "color": "#D9603C",
@@ -13640,8 +13363,7 @@
           "at": 12
         }
       ],
-      "texts": [],
-      "_subject": "chains"
+      "texts": []
     },
     {
       "id": "scene-212",
@@ -13784,8 +13506,7 @@
           "enter": "pop",
           "at": 281
         }
-      ],
-      "_subject": "family"
+      ]
     },
     {
       "id": "scene-214",
@@ -13839,15 +13560,7 @@
           "action": "talk"
         }
       ],
-      "props": [
-        {
-          "type": "chains",
-          "scale": 1,
-          "enter": "pop",
-          "arc": "none",
-          "at": 12
-        }
-      ],
+      "props": [],
       "texts": [
         {
           "text": "YOUR OWN LIFE",
@@ -13857,8 +13570,7 @@
           "enter": "pop",
           "at": 109
         }
-      ],
-      "_subject": "chains"
+      ]
     },
     {
       "id": "scene-215",

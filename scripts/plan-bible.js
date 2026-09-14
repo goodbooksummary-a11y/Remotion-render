@@ -54,6 +54,30 @@ if (!SLUG) {
 }
 const OUT = args.out || path.join(ROOT, "books", SLUG, "story-bible.json");
 
+/**
+ * The Antidote `variant` vocabulary (src/engines/antidote/schema.ts).
+ *
+ * Worth stating in full, because the field names are not the obvious ones and a
+ * wrong key is SILENT — it merges in, the schema default wins, and a shaved-head
+ * monk keeps the auto-cast's muttonchops. `hair` is a COLOR; the style is
+ * `hairStyle`. `build` is an enum, not a number — the numbers are `height` and
+ * `headScale`. The garment field is `outfit`.
+ */
+const VARIANT_ENUMS = {
+  hairStyle: ["short", "buzz", "bald", "long", "bun", "afro", "curly", "ponytail", "braids", "pigtails", "messy", "receding"],
+  beard: ["none", "stubble", "full", "mustache", "goatee", "muttonchops"],
+  build: ["slight", "average", "heavy"],
+  outfit: ["suit", "casual", "uniform", "robe", "coat", "dress", "apron", "armor", "overalls", "vest", "cloak", "hoodie", "rags"],
+  headwear: ["none", "cap", "fedora", "beanie", "hood", "headscarf", "bonnet", "crown", "helmet", "topHat", "beret", "veil", "cowboy"],
+  accessory: ["none", "tie", "bowtie", "scarf", "necklace", "badge", "satchel", "suspenders", "collar"],
+  age: ["child", "young", "adult", "old"],
+  gender: ["m", "f"],
+  expression: ["neutral", "happy", "sad", "surprised", "worried"],
+};
+const VARIANT_NUMBERS = new Set(["height", "headScale"]);
+const VARIANT_COLORS = new Set(["skin", "hair", "suit", "shirt", "trim"]);
+const VARIANT_KEYS = new Set([...Object.keys(VARIANT_ENUMS), ...VARIANT_NUMBERS, ...VARIANT_COLORS, "glasses", "overlay"]);
+
 /** Backdrop sets the Antidote engine can actually draw (Backdrop.tsx SETS). */
 const VALID_SETS = new Set(["horizon", "office", "street", "room", "stage", "sky", "abstract",
   "kitchen", "bedroom", "classroom", "library", "cafe", "hospital", "court", "forest", "shore",
@@ -277,6 +301,25 @@ function validate(b) {
   for (const [k, c] of Object.entries(b.cast || {})) {
     if (!/^[a-z0-9-]+$/.test(k)) errs.push(`cast key "${k}" must be a lowercase slug`);
     if (!c.look) warns.push(`cast.${k}.look is empty — this character will look different every time`);
+    // A wrong variant key is silent: it merges in, the schema default wins, and
+    // the auto-cast's look survives underneath. Catch it here instead.
+    for (const [vk, vv] of Object.entries(c.variant || {})) {
+      if (!VARIANT_KEYS.has(vk)) {
+        errs.push(`cast.${k}.variant.${vk} is not a variant field — did you mean ` +
+          `${vk === "garment" ? "outfit" : vk === "hair" ? "hairStyle (hair is a COLOR)" : [...VARIANT_KEYS].slice(0, 6).join("/")}?`);
+        continue;
+      }
+      if (VARIANT_ENUMS[vk] && !VARIANT_ENUMS[vk].includes(vv)) {
+        errs.push(`cast.${k}.variant.${vk} = ${JSON.stringify(vv)} — must be one of ${VARIANT_ENUMS[vk].join(" ")}`);
+      }
+      if (VARIANT_NUMBERS.has(vk) && typeof vv !== "number") {
+        errs.push(`cast.${k}.variant.${vk} must be a number (0.72 child → 1.12 tall adult)`);
+      }
+      if (VARIANT_COLORS.has(vk) && !/^#|^rgb/.test(String(vv))) {
+        errs.push(`cast.${k}.variant.${vk} is a COLOR (hex or rgb()), got ${JSON.stringify(vv)}` +
+          (vk === "hair" ? " — the hair STYLE field is `hairStyle`" : ""));
+      }
+    }
   }
   for (const [k, p] of Object.entries(b.places || {})) {
     if (!VALID_SETS.has(p.set)) errs.push(`places.${k}.set "${p.set}" is not a Backdrop set`);

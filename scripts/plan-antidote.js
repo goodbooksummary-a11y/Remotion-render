@@ -336,8 +336,15 @@ function roleIndex(cast) {
   const auto = castBook({ slug: SLUG, palette: PAL, genre: GENRE, title: TITLE, sample, world: WORLD });
   let CAST_BIBLE = auto.cast;
   let CAST_WORLD = auto.world;
-  if (CAST_IN) {
-    const loaded = JSON.parse(fs.readFileSync(CAST_IN, "utf8"));
+  // The story bible already names this book's real people and carries a
+  // `variant` for each, in exactly the shape --cast expects. Without this the
+  // auto-cast wins and every book ships the same five generic roles — narrator,
+  // protagonist, foil, mentor, extra — which is the templated-content signal the
+  // Character Foundry was built to remove. An explicit --cast file still wins.
+  const BIBLE_CAST_PATH = abs.bookDir(SLUG) + "/story-bible.json";
+  const castSource = CAST_IN || (fs.existsSync(BIBLE_CAST_PATH) ? BIBLE_CAST_PATH : null);
+  if (castSource) {
+    const loaded = JSON.parse(fs.readFileSync(castSource, "utf8"));
     const authored = loaded && loaded.cast ? loaded.cast : loaded;
     if (authored && typeof authored === "object" && Object.keys(authored).length) {
       // Merge over the auto-cast per member, so Claude can set three fields on a
@@ -358,6 +365,28 @@ function roleIndex(cast) {
       if (loaded && loaded.world) CAST_WORLD = loaded.world;
     }
   }
+  /**
+   * Which act of the book a frame falls in, from the story bible's `spine`.
+   * Returns "" when there is no bible or no spine, which keeps the old HUD
+   * behaviour for every book that has neither.
+   */
+  const SPINE = (() => {
+    try {
+      const b = fs.existsSync(BIBLE_CAST_PATH) ? JSON.parse(fs.readFileSync(BIBLE_CAST_PATH, "utf8")) : null;
+      const sp = (b && Array.isArray(b.spine) ? b.spine : [])
+        .filter((x) => x && x.act)
+        .map((x) => ({ act: x.act, from: Number(x.fromFrame) || 0 }))
+        .sort((a, c) => a.from - c.from);
+      return sp.length ? sp : null;
+    } catch { return null; }
+  })();
+  const ACT_AT = (frame) => {
+    if (!SPINE) return "";
+    let cur = "";
+    for (const e of SPINE) { if (e.from <= frame) cur = e.act; else break; }
+    return cur;
+  };
+
   const castKeyFor = roleIndex(CAST_BIBLE);
 
   // ── Claude handoff: dump the cast and stop ──────────────────────────────
@@ -653,7 +682,20 @@ function roleIndex(cast) {
     };
 
     const firstText = texts[0] && texts[0].text ? texts[0].text.replace(/[\r\n]+/g, " ").trim() : "";
+    // THE HUD LABEL IS A CHAPTER SLOT, NOT AN ICON NAME.
+    //
+    // It used to lead with the beat's concept, so a loose regex hit became a
+    // confident WORD standing on screen for the whole scene: "SCHOOL" over a
+    // beat where Siddhartha goes to Kamala's grove, because the narration said
+    // "teacher". A wrong icon is a bad picture; a wrong label is a false
+    // caption, and it persists.
+    //
+    // The story bible's `spine` says which act we are in — a stable, correct
+    // thing to name — so it wins when there is one. Everything below it is the
+    // previous chain, so a book with no bible is untouched.
+    const act = ACT_AT(s.from);
     const hudTopic =
+      (act ? String(act).toUpperCase() : "") ||
       (d.concept && CONCEPT_HUMAN_LABELS[d.concept]) ||
       (firstText && firstText.length <= 32 ? firstText.toUpperCase() : "") ||
       (d.concept ? String(d.concept).replace(/([A-Z])/g, " $1").toUpperCase() : "") ||

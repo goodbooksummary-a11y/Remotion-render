@@ -25,9 +25,15 @@
       "look": "a young Indian brahmin man with a shaved head and a plain ochre robe, lean from fasting, ancient India",
       "variant": {
         "height": 1.02,
-        "build": 0.92,
-        "garment": "cloak",
-        "hair": "shaved"
+        "build": "slight",
+        "outfit": "robe",
+        "hairStyle": "bald",
+        "beard": "none",
+        "gender": "m",
+        "age": "young",
+        "skin": "#A96C42",
+        "suit": "#C2803F",
+        "shirt": "#E6D2AE"
       },
       "mentions": 60
     },
@@ -37,8 +43,15 @@
       "look": "a devoted young Indian monk in a saffron robe, softer-featured, always half a step behind, ancient India",
       "variant": {
         "height": 0.98,
-        "garment": "cloak",
-        "hair": "shaved"
+        "build": "average",
+        "outfit": "robe",
+        "hairStyle": "bald",
+        "beard": "none",
+        "gender": "m",
+        "age": "young",
+        "skin": "#9C6136",
+        "suit": "#D9A441",
+        "shirt": "#EFE0BE"
       },
       "mentions": 20
     },
@@ -48,9 +61,16 @@
       "look": "an old Indian ferryman with a white beard and a weathered wrap, standing at a pole on a wooden raft, ancient India",
       "variant": {
         "height": 0.96,
-        "build": 1.05,
-        "garment": "rags",
-        "beard": "long"
+        "build": "average",
+        "outfit": "rags",
+        "hairStyle": "long",
+        "beard": "full",
+        "gender": "m",
+        "age": "old",
+        "skin": "#8A5A33",
+        "suit": "#8C7A5E",
+        "shirt": "#E8DCC4",
+        "hair": "#EDEDED"
       },
       "mentions": 15
     },
@@ -60,8 +80,15 @@
       "look": "an elegant Indian courtesan in red and gold silk with heavy earrings, composed, ancient India",
       "variant": {
         "height": 0.97,
-        "garment": "dress",
-        "hair": "long"
+        "build": "slight",
+        "outfit": "dress",
+        "hairStyle": "bun",
+        "gender": "f",
+        "age": "adult",
+        "skin": "#B07443",
+        "suit": "#B22B2B",
+        "shirt": "#D9A441",
+        "accessory": "necklace"
       },
       "mentions": 18
     },
@@ -71,8 +98,15 @@
       "look": "a heavyset middle-aged Indian merchant in embroidered cloth, rings on his fingers, ancient India",
       "variant": {
         "height": 0.97,
-        "build": 1.2,
-        "garment": "coat"
+        "build": "heavy",
+        "outfit": "coat",
+        "hairStyle": "receding",
+        "beard": "mustache",
+        "gender": "m",
+        "age": "old",
+        "skin": "#A96C42",
+        "suit": "#6B4F2A",
+        "shirt": "#E8DCC4"
       },
       "mentions": 6
     }
@@ -97,6 +131,11 @@
       "set": "room",
       "look": "Kamala's pavilion, cushions and hanging cloth, a garden beyond the opening",
       "mentions": 6
+    },
+    "bedroom": {
+      "set": "bedroom",
+      "look": "a sleeping mat and hanging cloth in the merchant-quarter house, dawn light",
+      "mentions": 1
     }
   },
   "objects": [
@@ -134,22 +173,22 @@
     },
     {
       "act": "The ascetics and the Buddha",
-      "fromFrame": 5000,
+      "fromFrame": 11700,
       "claim": "He refuses the perfect teacher, because a teaching cannot transmit the one thing he wants."
     },
     {
       "act": "Kamala and the city",
-      "fromFrame": 12000,
+      "fromFrame": 27579,
       "claim": "He goes all the way into appetite, and it hollows him out exactly as promised."
     },
     {
       "act": "The river",
-      "fromFrame": 20000,
+      "fromFrame": 48472,
       "claim": "The ferryman teaches nothing; the river does, by refusing to be a sequence."
     },
     {
       "act": "The son",
-      "fromFrame": 28000,
+      "fromFrame": 66858,
       "claim": "He is made to suffer his own leaving from the other side, and that is the last lesson."
     }
   ],

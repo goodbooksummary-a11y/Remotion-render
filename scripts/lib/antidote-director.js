@@ -417,9 +417,55 @@ function genreSets(genre) {
  */
 function createDirector({ palette, genre, slug, bible }) {
   const PAL = palette;
-  const sets = (bible && bible.antidote && Array.isArray(bible.antidote.preferredSets) && bible.antidote.preferredSets.length > 0)
+
+  /**
+   * WHERE THIS BOOK IS ALLOWED TO HAPPEN.
+   *
+   * The backdrop used to rotate through a GENRE's set menu, which knows nothing
+   * about the book. Measured on `siddhartha` — a parable set in ancient India —
+   * the film used 17 sets including `kitchen` x40, `cafe` x32, `highway` x31,
+   * `classroom` x5 and `startupGarage` x6. A startup garage in ancient India is
+   * not a near miss; it is the loudest mistake the engine can make, and no
+   * amount of per-beat art direction fixes it because the rotation never asked.
+   *
+   * `books/<slug>/story-bible.json` already names the places a book actually
+   * has (`plan-bible.js` finds them in the narration). When it does, the
+   * rotation is restricted to those plus the placeless sets, which cannot be
+   * anachronistic because they depict nowhere. A CONCEPT_SET override is
+   * filtered through the same list, so "the word `launch` appeared" can no
+   * longer teleport a 5th-century BCE scene into a garage.
+   *
+   * BACKWARD COMPATIBLE: a book with no story-bible.json, or one that declares
+   * no places, keeps the genre rotation exactly as before.
+   */
+  const PLACELESS_SETS = ["abstract", "horizon", "sky", "stage"];
+  // Read the story bible here rather than taking it from the caller: the `bible`
+  // argument is `creative-bible.json` (a different, older artifact), and this
+  // has to hold for anything that constructs a director.
+  const storyBible = (() => {
+    try {
+      const fsx = require("fs");
+      const p = require("path").join(__dirname, "..", "..", "books", String(slug || ""), "story-bible.json");
+      return fsx.existsSync(p) ? JSON.parse(fsx.readFileSync(p, "utf8")) : null;
+    } catch { return null; }
+  })();
+  const allowedSets = (() => {
+    const declared = storyBible && storyBible.places
+      ? [...new Set(Object.values(storyBible.places).map((p) => p && p.set).filter(Boolean))]
+      : [];
+    if (!declared.length) return null;                      // no claim -> no constraint
+    return new Set([...declared, ...PLACELESS_SETS]);
+  })();
+  const permitted = (set) => !allowedSets || allowedSets.has(set);
+
+  const base = (bible && bible.antidote && Array.isArray(bible.antidote.preferredSets) && bible.antidote.preferredSets.length > 0)
     ? bible.antidote.preferredSets
     : genreSets(genre);
+  const filtered = base.filter(permitted);
+  // never leave the rotation empty — a book whose declared places share nothing
+  // with its genre menu still needs somewhere to be
+  const sets = filtered.length ? filtered
+    : allowedSets ? [...allowedSets] : base;
   /**
    * PER-BOOK VISUAL VOCABULARY.
    *
@@ -823,6 +869,12 @@ function arcFor(cls, motif) {
     }
     state.setRun += 1;
     let placed = concept ? CONCEPT_SET[concept] : null;
+    // A concept may only move us somewhere the book actually has. Without this,
+    // one loose regex hit ("launch", "class", "the doctor") relocates a scene to
+    // a place the story does not contain — which is how a parable set in ancient
+    // India acquired a startup garage. See the `allowedSets` note above; when a
+    // book declares no places this is a no-op.
+    if (placed && !permitted(placed)) placed = null;
     // Genre-aware sanitation (Antidote 5.0):
     // In business/tech/finance genres, strictly forbid domestic (kitchen/bedroom), clinical (hospital)
     // or criminal/legal (court) backdrops. Remap them to workplace/strategy equivalents.
@@ -833,6 +885,8 @@ function arcFor(cls, motif) {
       else if (placed === "court") placed = "pitchStage";
       else if (concept === "phone") placed = "workstation"; // cold outreach / customer validation is at the desk, not a cafe
       else if (placed === "forest" || placed === "shore") placed = "startupGarage";
+      // the remap above can land on a set this book does not have either
+      if (placed && !permitted(placed)) placed = null;
     }
 
     if (placed && placed !== state.forcedSet && index - state.forcedSetAt >= 3) {

@@ -25,8 +25,14 @@
       "variant": {
         "height": 0.78,
         "headScale": 1.18,
-        "garment": "dress",
-        "hair": "bob"
+        "build": "slight",
+        "outfit": "dress",
+        "hairStyle": "short",
+        "gender": "f",
+        "age": "child",
+        "suit": "#F3EFE6",
+        "shirt": "#FFFFFF",
+        "hair": "#2E2119"
       },
       "aliases": [
         "Bry",
@@ -40,8 +46,14 @@
       "look": "a bored, elegant young Englishwoman of twenty-three in a green silk evening dress, dark hair pinned up, a cigarette, 1935",
       "variant": {
         "height": 1,
-        "garment": "dress",
-        "hair": "updo"
+        "build": "slight",
+        "outfit": "dress",
+        "hairStyle": "bun",
+        "gender": "f",
+        "age": "young",
+        "suit": "#2F6B4F",
+        "shirt": "#EFE7D8",
+        "hair": "#241A14"
       },
       "mentions": 8
     },
@@ -51,8 +63,14 @@
       "look": "a tall young Englishman in his early twenties, the housekeeper's son, shirtsleeves and braces in summer, later a private's battledress, 1935-1940",
       "variant": {
         "height": 1.06,
-        "build": 1.05,
-        "garment": "vest"
+        "build": "average",
+        "outfit": "vest",
+        "hairStyle": "short",
+        "gender": "m",
+        "age": "young",
+        "suit": "#6E6353",
+        "shirt": "#FFFFFF",
+        "hair": "#2A1F18"
       },
       "mentions": 24
     },
@@ -62,8 +80,14 @@
       "look": "a fifteen-year-old English girl, coppery hair, an older girl's dress worn too deliberately, 1935",
       "variant": {
         "height": 0.92,
-        "garment": "dress",
-        "hair": "long"
+        "build": "slight",
+        "outfit": "dress",
+        "hairStyle": "long",
+        "gender": "f",
+        "age": "child",
+        "suit": "#8C4A3A",
+        "shirt": "#F0E4D2",
+        "hair": "#8A3B1E"
       },
       "mentions": 3
     }
@@ -125,22 +149,22 @@
     },
     {
       "act": "The letter and the library",
-      "fromFrame": 3600,
+      "fromFrame": 10266,
       "claim": "Desire becomes legible to everyone except the child interpreting it."
     },
     {
       "act": "The accusation",
-      "fromFrame": 9000,
+      "fromFrame": 24199,
       "claim": "Interpretation becomes an act of violence, and a class system supplies the verdict."
     },
     {
       "act": "Dunkirk and the ward",
-      "fromFrame": 16000,
+      "fromFrame": 42532,
       "claim": "The cost is paid by the two people who never got to answer."
     },
     {
       "act": "1999",
-      "fromFrame": 26000,
+      "fromFrame": 58665,
       "claim": "The novel admits it is the crime, and the atonement is the lie."
     }
   ],
