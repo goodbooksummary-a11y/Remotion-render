@@ -42,8 +42,6 @@ import cfg_slow_productivity from '../books/slow-productivity/config.vox.json';
 import meta_slow_productivity from '../books/slow-productivity/youtube-meta.json';
 import cfg_sway from '../books/sway/config.vox.json';
 import meta_sway from '../books/sway/youtube-meta.json';
-import cfg_the_chosen from '../books/the-chosen/config.vox.json';
-import meta_the_chosen from '../books/the-chosen/youtube-meta.json';
 import cfg_the_color_purple from '../books/the-color-purple/config.vox.json';
 import meta_the_color_purple from '../books/the-color-purple/youtube-meta.json';
 import cfg_the_frozen_river from '../books/the-frozen-river/config.vox.json';
@@ -143,7 +141,6 @@ export const BOOK_PALETTES: Record<string, Palette> = {
   'single-dad-dilemma': { paper: '#F1E4E1', ink: '#2A1D22', red: '#D64A6B', gold: '#E0A25C' },
   'slow-productivity': { paper: '#E6E5DE', ink: '#1C1E22', red: '#3E7CA8', gold: '#C99A48' },
   'sway': { paper: '#E4E1E8', ink: '#1C1822', red: '#7C3AED', gold: '#D9A13C' },
-  'the-chosen': { paper: '#F3EFE8', ink: '#15181E', red: '#1E3A8A', gold: '#C48B28' },
   'the-iliad': { paper: '#F4EFE6', ink: '#141312', red: '#9E2A2B', gold: '#C28833' },
   'the-mountain-is-you': { paper: '#DBE0DE', ink: '#22303C', red: '#E4762B', gold: '#4E93A0' },
   'the-odyssey': { paper: '#F6F1E5', ink: '#131922', red: '#B33827', gold: '#C89538' },
@@ -167,7 +164,6 @@ export const BOOK_BG_TINT: Record<string, boolean> = {
   'million-dollar-weekend': true,
   'siddhartha': true,
   'supercommunicators': true,
-  'the-chosen': true,
   'the-handmaids-tale': true,
   'the-power-of-your-subconscious-mind': true,
   'the-stranger': true,
@@ -299,12 +295,6 @@ export const BOOKS: BookEntry[] = [
     engine: 'vox',
     config: cfg_sway as any,
     meta: meta_sway as any,
-  },
-  {
-    slug: 'the-chosen',
-    engine: 'vox',
-    config: cfg_the_chosen as any,
-    meta: meta_the_chosen as any,
   },
   {
     slug: 'the-color-purple',
