@@ -205,7 +205,7 @@ export function resolveChoreographedLookAt(
 
   const preset = shotPreset(scene.shot);
   const timeline = resolveAttentionTimeline(scene, durationFrames);
-  const { target, progress, prevTarget } = currentAttentionTarget(timeline, localFrame);
+  const { target, prevTarget } = currentAttentionTarget(timeline, localFrame);
 
   const curPoint = pointForTarget(target, scene, charSpec, charIndex, bodies, preset);
   if (target === prevTarget) {

@@ -243,17 +243,24 @@
           "at": 161
         }
       ],
-      "visualJob": "ground",
+      "visualJob": "surprise",
       "visualArc": {
-        "startState": "normal",
-        "endState": "normal",
-        "transformation": "none"
+        "startState": "apparent_security",
+        "endState": "sudden_fracture",
+        "transformation": "shrink"
       },
       "attention": [
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "HOOK",
+        "payoffPromise": "promise-01",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-01",
@@ -324,17 +331,23 @@
         }
       ],
       "texts": [],
-      "visualJob": "surprise",
+      "visualJob": "contrast",
       "visualArc": {
-        "startState": "apparent_security",
-        "endState": "sudden_fracture",
-        "transformation": "shrink"
+        "startState": "default_path",
+        "endState": "intentional_path",
+        "transformation": "shift_focus"
       },
       "attention": [
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "CONTRADICTION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-02",
@@ -424,17 +437,23 @@
           "at": 191
         }
       ],
-      "visualJob": "escalate",
+      "visualJob": "contrast",
       "visualArc": {
-        "startState": "under_control",
-        "endState": "overwhelmed",
-        "transformation": "overload"
+        "startState": "default_path",
+        "endState": "intentional_path",
+        "transformation": "shift_focus"
       },
       "attention": [
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "CONTRADICTION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-03",
@@ -502,17 +521,23 @@
           "at": 68
         }
       ],
-      "visualJob": "reveal",
+      "visualJob": "escalate",
       "visualArc": {
-        "startState": "surface_facade",
-        "endState": "underlying_reality",
-        "transformation": "reveal_truth"
+        "startState": "under_control",
+        "endState": "overwhelmed",
+        "transformation": "overload"
       },
       "attention": [
         "character",
-        "text",
-        "motif"
-      ]
+        "motif",
+        "text"
+      ],
+      "narrative": {
+        "function": "TENSION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": true
+      }
     },
     {
       "id": "scene-04",
@@ -591,17 +616,23 @@
         }
       ],
       "texts": [],
-      "visualJob": "ground",
+      "visualJob": "escalate",
       "visualArc": {
-        "startState": "normal",
-        "endState": "normal",
-        "transformation": "none"
+        "startState": "under_control",
+        "endState": "overwhelmed",
+        "transformation": "overload"
       },
       "attention": [
         "partner",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "TENSION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": true
+      }
     },
     {
       "id": "scene-05",
@@ -681,17 +712,23 @@
           "at": 154
         }
       ],
-      "visualJob": "surprise",
+      "visualJob": "contrast",
       "visualArc": {
-        "startState": "apparent_security",
-        "endState": "sudden_fracture",
-        "transformation": "shrink"
+        "startState": "default_path",
+        "endState": "intentional_path",
+        "transformation": "shift_focus"
       },
       "attention": [
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "CONTRADICTION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-06",
@@ -792,7 +829,13 @@
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "TENSION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": true
+      }
     },
     {
       "id": "scene-07",
@@ -882,7 +925,14 @@
         "character",
         "text",
         "motif"
-      ]
+      ],
+      "narrative": {
+        "function": "REVEAL",
+        "payoff": "promise-01",
+        "escalates": true,
+        "conceptual": true,
+        "emotional": false
+      }
     },
     {
       "id": "scene-08",
@@ -953,17 +1003,24 @@
         }
       ],
       "texts": [],
-      "visualJob": "ground",
+      "visualJob": "surprise",
       "visualArc": {
-        "startState": "normal",
-        "endState": "normal",
-        "transformation": "none"
+        "startState": "apparent_security",
+        "endState": "sudden_fracture",
+        "transformation": "shrink"
       },
       "attention": [
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "QUESTION",
+        "payoffPromise": "promise-02",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-09",
@@ -1029,17 +1086,23 @@
         }
       ],
       "texts": [],
-      "visualJob": "surprise",
+      "visualJob": "contrast",
       "visualArc": {
-        "startState": "apparent_security",
-        "endState": "sudden_fracture",
-        "transformation": "shrink"
+        "startState": "default_path",
+        "endState": "intentional_path",
+        "transformation": "shift_focus"
       },
       "attention": [
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "CONTRADICTION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-10",
@@ -1133,17 +1196,23 @@
         }
       ],
       "texts": [],
-      "visualJob": "escalate",
+      "visualJob": "contrast",
       "visualArc": {
-        "startState": "under_control",
-        "endState": "overwhelmed",
-        "transformation": "overload"
+        "startState": "default_path",
+        "endState": "intentional_path",
+        "transformation": "shift_focus"
       },
       "attention": [
         "partner",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "CONTRADICTION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-11",
@@ -1233,7 +1302,14 @@
         "character",
         "text",
         "motif"
-      ]
+      ],
+      "narrative": {
+        "function": "REVEAL",
+        "payoff": "promise-02",
+        "escalates": true,
+        "conceptual": true,
+        "emotional": false
+      }
     },
     {
       "id": "scene-12",
@@ -1302,7 +1378,13 @@
       "attention": [
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "SETUP",
+        "escalates": false,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-13",
@@ -1374,17 +1456,23 @@
         }
       ],
       "texts": [],
-      "visualJob": "surprise",
+      "visualJob": "contrast",
       "visualArc": {
-        "startState": "apparent_security",
-        "endState": "sudden_fracture",
-        "transformation": "shrink"
+        "startState": "default_path",
+        "endState": "intentional_path",
+        "transformation": "shift_focus"
       },
       "attention": [
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "CONTRADICTION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-14",
@@ -1475,7 +1563,13 @@
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "TENSION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": true
+      }
     },
     {
       "id": "scene-15",
@@ -1556,17 +1650,24 @@
           "at": 154
         }
       ],
-      "visualJob": "reveal",
+      "visualJob": "surprise",
       "visualArc": {
-        "startState": "surface_facade",
-        "endState": "underlying_reality",
-        "transformation": "reveal_truth"
+        "startState": "apparent_security",
+        "endState": "sudden_fracture",
+        "transformation": "shrink"
       },
       "attention": [
         "character",
-        "text",
-        "motif"
-      ]
+        "motif",
+        "text"
+      ],
+      "narrative": {
+        "function": "QUESTION",
+        "payoffPromise": "promise-03",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-16",
@@ -1646,17 +1747,23 @@
         }
       ],
       "texts": [],
-      "visualJob": "ground",
+      "visualJob": "contrast",
       "visualArc": {
-        "startState": "normal",
-        "endState": "normal",
-        "transformation": "none"
+        "startState": "default_path",
+        "endState": "intentional_path",
+        "transformation": "shift_focus"
       },
       "attention": [
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "CONTRADICTION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-17",
@@ -1714,16 +1821,22 @@
         }
       ],
       "texts": [],
-      "visualJob": "surprise",
+      "visualJob": "contrast",
       "visualArc": {
-        "startState": "apparent_security",
-        "endState": "sudden_fracture",
-        "transformation": "shrink"
+        "startState": "default_path",
+        "endState": "intentional_path",
+        "transformation": "shift_focus"
       },
       "attention": [
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "CONTRADICTION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-18",
@@ -1805,7 +1918,13 @@
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "TENSION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": true
+      }
     },
     {
       "id": "scene-19",
@@ -1897,7 +2016,14 @@
         "character",
         "text",
         "motif"
-      ]
+      ],
+      "narrative": {
+        "function": "REVEAL",
+        "payoff": "promise-03",
+        "escalates": true,
+        "conceptual": true,
+        "emotional": false
+      }
     },
     {
       "id": "scene-20",
@@ -1972,7 +2098,13 @@
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "SETUP",
+        "escalates": false,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-21",
@@ -2065,17 +2197,23 @@
           "at": 238
         }
       ],
-      "visualJob": "surprise",
+      "visualJob": "contrast",
       "visualArc": {
-        "startState": "apparent_security",
-        "endState": "sudden_fracture",
-        "transformation": "shrink"
+        "startState": "default_path",
+        "endState": "intentional_path",
+        "transformation": "shift_focus"
       },
       "attention": [
         "partner",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "CONTRADICTION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-22",
@@ -2147,7 +2285,13 @@
       "attention": [
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "TENSION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": true
+      }
     },
     {
       "id": "scene-23",
@@ -2228,7 +2372,13 @@
         "character",
         "text",
         "motif"
-      ]
+      ],
+      "narrative": {
+        "function": "REVEAL",
+        "escalates": true,
+        "conceptual": true,
+        "emotional": false
+      }
     },
     {
       "id": "scene-24",
@@ -2323,7 +2473,13 @@
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "SETUP",
+        "escalates": false,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-25",
@@ -2393,17 +2549,23 @@
           "at": 229
         }
       ],
-      "visualJob": "surprise",
+      "visualJob": "contrast",
       "visualArc": {
-        "startState": "apparent_security",
-        "endState": "sudden_fracture",
-        "transformation": "shrink"
+        "startState": "default_path",
+        "endState": "intentional_path",
+        "transformation": "shift_focus"
       },
       "attention": [
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "CONTRADICTION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-26",
@@ -2485,7 +2647,13 @@
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "TENSION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": true
+      }
     },
     {
       "id": "scene-27",
@@ -2577,7 +2745,13 @@
         "character",
         "text",
         "motif"
-      ]
+      ],
+      "narrative": {
+        "function": "REVEAL",
+        "escalates": true,
+        "conceptual": true,
+        "emotional": false
+      }
     },
     {
       "id": "scene-28",
@@ -2657,7 +2831,13 @@
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "SETUP",
+        "escalates": false,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-29",
@@ -2747,17 +2927,23 @@
           "at": 37
         }
       ],
-      "visualJob": "surprise",
+      "visualJob": "contrast",
       "visualArc": {
-        "startState": "apparent_security",
-        "endState": "sudden_fracture",
-        "transformation": "shrink"
+        "startState": "default_path",
+        "endState": "intentional_path",
+        "transformation": "shift_focus"
       },
       "attention": [
         "partner",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "CONTRADICTION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-30",
@@ -2847,7 +3033,13 @@
         "partner",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "TENSION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": true
+      }
     },
     {
       "id": "scene-31",
@@ -2913,17 +3105,24 @@
         }
       ],
       "texts": [],
-      "visualJob": "reveal",
+      "visualJob": "surprise",
       "visualArc": {
-        "startState": "surface_facade",
-        "endState": "underlying_reality",
-        "transformation": "reveal_truth"
+        "startState": "apparent_security",
+        "endState": "sudden_fracture",
+        "transformation": "shrink"
       },
       "attention": [
         "character",
-        "text",
-        "motif"
-      ]
+        "motif",
+        "text"
+      ],
+      "narrative": {
+        "function": "QUESTION",
+        "payoffPromise": "promise-04",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-32",
@@ -2993,17 +3192,23 @@
         }
       ],
       "texts": [],
-      "visualJob": "ground",
+      "visualJob": "escalate",
       "visualArc": {
-        "startState": "normal",
-        "endState": "normal",
-        "transformation": "none"
+        "startState": "under_control",
+        "endState": "overwhelmed",
+        "transformation": "overload"
       },
       "attention": [
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "TENSION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": true
+      }
     },
     {
       "id": "scene-33",
@@ -3074,17 +3279,23 @@
           "at": 212
         }
       ],
-      "visualJob": "surprise",
+      "visualJob": "contrast",
       "visualArc": {
-        "startState": "apparent_security",
-        "endState": "sudden_fracture",
-        "transformation": "shrink"
+        "startState": "default_path",
+        "endState": "intentional_path",
+        "transformation": "shift_focus"
       },
       "attention": [
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "CONTRADICTION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-34",
@@ -3165,7 +3376,13 @@
       "attention": [
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "TENSION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": true
+      }
     },
     {
       "id": "scene-35",
@@ -3231,17 +3448,23 @@
         }
       ],
       "texts": [],
-      "visualJob": "reveal",
+      "visualJob": "escalate",
       "visualArc": {
-        "startState": "surface_facade",
-        "endState": "underlying_reality",
-        "transformation": "reveal_truth"
+        "startState": "under_control",
+        "endState": "overwhelmed",
+        "transformation": "overload"
       },
       "attention": [
         "character",
-        "text",
-        "motif"
-      ]
+        "motif",
+        "text"
+      ],
+      "narrative": {
+        "function": "TENSION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": true
+      }
     },
     {
       "id": "scene-36",
@@ -3310,17 +3533,23 @@
         }
       ],
       "texts": [],
-      "visualJob": "ground",
+      "visualJob": "escalate",
       "visualArc": {
-        "startState": "stable",
-        "endState": "focused",
-        "transformation": "grow"
+        "startState": "under_control",
+        "endState": "overwhelmed",
+        "transformation": "overload"
       },
       "attention": [
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "TENSION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": true
+      }
     },
     {
       "id": "scene-37",
@@ -3389,17 +3618,23 @@
           "at": 157
         }
       ],
-      "visualJob": "surprise",
+      "visualJob": "contrast",
       "visualArc": {
-        "startState": "apparent_security",
-        "endState": "sudden_fracture",
-        "transformation": "shrink"
+        "startState": "default_path",
+        "endState": "intentional_path",
+        "transformation": "shift_focus"
       },
       "attention": [
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "CONTRADICTION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-38",
@@ -3501,7 +3736,13 @@
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "TENSION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": true
+      }
     },
     {
       "id": "scene-39",
@@ -3577,17 +3818,23 @@
         }
       ],
       "texts": [],
-      "visualJob": "reveal",
+      "visualJob": "escalate",
       "visualArc": {
-        "startState": "surface_facade",
-        "endState": "underlying_reality",
-        "transformation": "reveal_truth"
+        "startState": "under_control",
+        "endState": "overwhelmed",
+        "transformation": "overload"
       },
       "attention": [
         "character",
-        "text",
-        "motif"
-      ]
+        "motif",
+        "text"
+      ],
+      "narrative": {
+        "function": "TENSION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": true
+      }
     },
     {
       "id": "scene-40",
@@ -3668,17 +3915,23 @@
           "at": 44
         }
       ],
-      "visualJob": "ground",
+      "visualJob": "escalate",
       "visualArc": {
-        "startState": "normal",
-        "endState": "normal",
-        "transformation": "none"
+        "startState": "under_control",
+        "endState": "overwhelmed",
+        "transformation": "overload"
       },
       "attention": [
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "TENSION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": true
+      }
     },
     {
       "id": "scene-41",
@@ -3749,17 +4002,23 @@
         }
       ],
       "texts": [],
-      "visualJob": "surprise",
+      "visualJob": "contrast",
       "visualArc": {
-        "startState": "apparent_security",
-        "endState": "sudden_fracture",
-        "transformation": "shrink"
+        "startState": "default_path",
+        "endState": "intentional_path",
+        "transformation": "shift_focus"
       },
       "attention": [
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "CONTRADICTION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-42",
@@ -3858,7 +4117,13 @@
         "partner",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "TENSION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": true
+      }
     },
     {
       "id": "scene-43",
@@ -3950,7 +4215,14 @@
         "partner",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "REVEAL",
+        "payoff": "promise-04",
+        "escalates": true,
+        "conceptual": true,
+        "emotional": false
+      }
     },
     {
       "id": "scene-44",
@@ -4031,7 +4303,13 @@
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "SETUP",
+        "escalates": false,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-45",
@@ -4112,17 +4390,23 @@
           "at": 219
         }
       ],
-      "visualJob": "surprise",
+      "visualJob": "contrast",
       "visualArc": {
-        "startState": "apparent_security",
-        "endState": "sudden_fracture",
-        "transformation": "shrink"
+        "startState": "default_path",
+        "endState": "intentional_path",
+        "transformation": "shift_focus"
       },
       "attention": [
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "CONTRADICTION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-46",
@@ -4213,7 +4497,13 @@
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "TENSION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": true
+      }
     },
     {
       "id": "scene-47",
@@ -4294,17 +4584,23 @@
           "at": 118
         }
       ],
-      "visualJob": "reveal",
+      "visualJob": "escalate",
       "visualArc": {
-        "startState": "surface_facade",
-        "endState": "underlying_reality",
-        "transformation": "reveal_truth"
+        "startState": "under_control",
+        "endState": "overwhelmed",
+        "transformation": "overload"
       },
       "attention": [
         "character",
-        "text",
-        "motif"
-      ]
+        "motif",
+        "text"
+      ],
+      "narrative": {
+        "function": "TENSION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": true
+      }
     },
     {
       "id": "scene-48",
@@ -4374,17 +4670,23 @@
         }
       ],
       "texts": [],
-      "visualJob": "ground",
+      "visualJob": "escalate",
       "visualArc": {
-        "startState": "stable",
-        "endState": "focused",
-        "transformation": "grow"
+        "startState": "under_control",
+        "endState": "overwhelmed",
+        "transformation": "overload"
       },
       "attention": [
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "TENSION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": true
+      }
     },
     {
       "id": "scene-49",
@@ -4473,17 +4775,23 @@
         }
       ],
       "texts": [],
-      "visualJob": "surprise",
+      "visualJob": "contrast",
       "visualArc": {
-        "startState": "apparent_security",
-        "endState": "sudden_fracture",
-        "transformation": "shrink"
+        "startState": "default_path",
+        "endState": "intentional_path",
+        "transformation": "shift_focus"
       },
       "attention": [
         "partner",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "CONTRADICTION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-50",
@@ -4564,7 +4872,13 @@
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "TENSION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": true
+      }
     },
     {
       "id": "scene-51",
@@ -4646,7 +4960,13 @@
         "character",
         "text",
         "motif"
-      ]
+      ],
+      "narrative": {
+        "function": "REVEAL",
+        "escalates": true,
+        "conceptual": true,
+        "emotional": false
+      }
     },
     {
       "id": "scene-52",
@@ -4716,7 +5036,7 @@
         }
       ],
       "texts": [],
-      "visualJob": "ground",
+      "visualJob": "reinforce",
       "visualArc": {
         "startState": "normal",
         "endState": "normal",
@@ -4726,7 +5046,13 @@
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "PAYOFF",
+        "escalates": false,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-53",
@@ -4795,17 +5121,23 @@
           "at": 121
         }
       ],
-      "visualJob": "surprise",
+      "visualJob": "contrast",
       "visualArc": {
-        "startState": "apparent_security",
-        "endState": "sudden_fracture",
-        "transformation": "shrink"
+        "startState": "default_path",
+        "endState": "intentional_path",
+        "transformation": "shift_focus"
       },
       "attention": [
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "CONTRADICTION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-54",
@@ -4897,7 +5229,13 @@
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "TENSION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": true
+      }
     },
     {
       "id": "scene-55",
@@ -4959,16 +5297,22 @@
         }
       ],
       "texts": [],
-      "visualJob": "reveal",
+      "visualJob": "contrast",
       "visualArc": {
-        "startState": "surface_facade",
-        "endState": "underlying_reality",
-        "transformation": "reveal_truth"
+        "startState": "default_path",
+        "endState": "intentional_path",
+        "transformation": "shift_focus"
       },
       "attention": [
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "CONTRADICTION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-56",
@@ -5059,7 +5403,13 @@
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "SETUP",
+        "escalates": false,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-57",
@@ -5129,17 +5479,23 @@
         }
       ],
       "texts": [],
-      "visualJob": "surprise",
+      "visualJob": "contrast",
       "visualArc": {
-        "startState": "apparent_security",
-        "endState": "sudden_fracture",
-        "transformation": "shrink"
+        "startState": "default_path",
+        "endState": "intentional_path",
+        "transformation": "shift_focus"
       },
       "attention": [
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "CONTRADICTION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-58",
@@ -5236,7 +5592,13 @@
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "TENSION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": true
+      }
     },
     {
       "id": "scene-59",
@@ -5322,7 +5684,13 @@
         "character",
         "text",
         "motif"
-      ]
+      ],
+      "narrative": {
+        "function": "REVEAL",
+        "escalates": true,
+        "conceptual": true,
+        "emotional": false
+      }
     },
     {
       "id": "scene-60",
@@ -5404,7 +5772,13 @@
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "SETUP",
+        "escalates": false,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-61",
@@ -5475,17 +5849,23 @@
           "at": 20
         }
       ],
-      "visualJob": "surprise",
+      "visualJob": "contrast",
       "visualArc": {
-        "startState": "apparent_security",
-        "endState": "sudden_fracture",
-        "transformation": "shrink"
+        "startState": "default_path",
+        "endState": "intentional_path",
+        "transformation": "shift_focus"
       },
       "attention": [
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "CONTRADICTION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-62",
@@ -5566,7 +5946,13 @@
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "TENSION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": true
+      }
     },
     {
       "id": "scene-63",
@@ -5648,7 +6034,13 @@
         "character",
         "text",
         "motif"
-      ]
+      ],
+      "narrative": {
+        "function": "REVEAL",
+        "escalates": true,
+        "conceptual": true,
+        "emotional": false
+      }
     },
     {
       "id": "scene-64",
@@ -5738,7 +6130,13 @@
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "SETUP",
+        "escalates": false,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-65",
@@ -5803,7 +6201,13 @@
       "attention": [
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "CONTRADICTION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-66",
@@ -5869,17 +6273,23 @@
         }
       ],
       "texts": [],
-      "visualJob": "demonstrate",
+      "visualJob": "escalate",
       "visualArc": {
-        "startState": "stable",
-        "endState": "focused",
-        "transformation": "grow"
+        "startState": "under_control",
+        "endState": "overwhelmed",
+        "transformation": "overload"
       },
       "attention": [
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "TENSION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": true
+      }
     },
     {
       "id": "scene-67",
@@ -5963,17 +6373,23 @@
         }
       ],
       "texts": [],
-      "visualJob": "escalate",
+      "visualJob": "contrast",
       "visualArc": {
-        "startState": "under_control",
-        "endState": "overwhelmed",
-        "transformation": "overload"
+        "startState": "default_path",
+        "endState": "intentional_path",
+        "transformation": "shift_focus"
       },
       "attention": [
         "partner",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "CONTRADICTION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-68",
@@ -6072,7 +6488,13 @@
         "character",
         "text",
         "motif"
-      ]
+      ],
+      "narrative": {
+        "function": "REVEAL",
+        "escalates": true,
+        "conceptual": true,
+        "emotional": false
+      }
     },
     {
       "id": "scene-69",
@@ -6153,17 +6575,23 @@
           "at": 313
         }
       ],
-      "visualJob": "ground",
+      "visualJob": "escalate",
       "visualArc": {
-        "startState": "stable",
-        "endState": "focused",
-        "transformation": "grow"
+        "startState": "under_control",
+        "endState": "overwhelmed",
+        "transformation": "overload"
       },
       "attention": [
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "TENSION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": true
+      }
     },
     {
       "id": "scene-70",
@@ -6234,17 +6662,23 @@
         }
       ],
       "texts": [],
-      "visualJob": "surprise",
+      "visualJob": "contrast",
       "visualArc": {
-        "startState": "apparent_security",
-        "endState": "sudden_fracture",
-        "transformation": "shrink"
+        "startState": "default_path",
+        "endState": "intentional_path",
+        "transformation": "shift_focus"
       },
       "attention": [
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "CONTRADICTION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-71",
@@ -6309,7 +6743,13 @@
       "attention": [
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "TENSION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": true
+      }
     },
     {
       "id": "scene-72",
@@ -6410,7 +6850,13 @@
         "partner",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "REVEAL",
+        "escalates": true,
+        "conceptual": true,
+        "emotional": false
+      }
     },
     {
       "id": "scene-73",
@@ -6493,17 +6939,23 @@
           "at": 135
         }
       ],
-      "visualJob": "ground",
+      "visualJob": "escalate",
       "visualArc": {
-        "startState": "normal",
-        "endState": "normal",
-        "transformation": "none"
+        "startState": "under_control",
+        "endState": "overwhelmed",
+        "transformation": "overload"
       },
       "attention": [
         "partner",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "TENSION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": true
+      }
     },
     {
       "id": "scene-74",
@@ -6586,17 +7038,23 @@
         }
       ],
       "texts": [],
-      "visualJob": "surprise",
+      "visualJob": "contrast",
       "visualArc": {
-        "startState": "apparent_security",
-        "endState": "sudden_fracture",
-        "transformation": "shrink"
+        "startState": "default_path",
+        "endState": "intentional_path",
+        "transformation": "shift_focus"
       },
       "attention": [
         "partner",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "CONTRADICTION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-75",
@@ -6696,7 +7154,13 @@
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "TENSION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": true
+      }
     },
     {
       "id": "scene-76",
@@ -6774,17 +7238,23 @@
         }
       ],
       "texts": [],
-      "visualJob": "reveal",
+      "visualJob": "escalate",
       "visualArc": {
-        "startState": "surface_facade",
-        "endState": "underlying_reality",
-        "transformation": "reveal_truth"
+        "startState": "under_control",
+        "endState": "overwhelmed",
+        "transformation": "overload"
       },
       "attention": [
         "character",
-        "text",
-        "motif"
-      ]
+        "motif",
+        "text"
+      ],
+      "narrative": {
+        "function": "TENSION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": true
+      }
     },
     {
       "id": "scene-77",
@@ -6863,17 +7333,24 @@
           "at": 109
         }
       ],
-      "visualJob": "ground",
+      "visualJob": "surprise",
       "visualArc": {
-        "startState": "normal",
-        "endState": "normal",
-        "transformation": "none"
+        "startState": "apparent_security",
+        "endState": "sudden_fracture",
+        "transformation": "shrink"
       },
       "attention": [
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "QUESTION",
+        "payoffPromise": "promise-05",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-78",
@@ -6934,7 +7411,7 @@
         }
       ],
       "texts": [],
-      "visualJob": "demonstrate",
+      "visualJob": "explain",
       "visualArc": {
         "startState": "stable",
         "endState": "focused",
@@ -6943,7 +7420,13 @@
       "attention": [
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "EXPLANATION",
+        "escalates": false,
+        "conceptual": true,
+        "emotional": false
+      }
     },
     {
       "id": "scene-79",
@@ -7023,17 +7506,23 @@
         }
       ],
       "texts": [],
-      "visualJob": "surprise",
+      "visualJob": "contrast",
       "visualArc": {
-        "startState": "apparent_security",
-        "endState": "sudden_fracture",
-        "transformation": "shrink"
+        "startState": "default_path",
+        "endState": "intentional_path",
+        "transformation": "shift_focus"
       },
       "attention": [
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "CONTRADICTION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-80",
@@ -7124,7 +7613,14 @@
         "character",
         "text",
         "motif"
-      ]
+      ],
+      "narrative": {
+        "function": "REVEAL",
+        "payoff": "promise-05",
+        "escalates": true,
+        "conceptual": true,
+        "emotional": false
+      }
     },
     {
       "id": "scene-81",
@@ -7205,7 +7701,13 @@
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "SETUP",
+        "escalates": false,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-82",
@@ -7272,17 +7774,23 @@
         }
       ],
       "texts": [],
-      "visualJob": "surprise",
+      "visualJob": "contrast",
       "visualArc": {
-        "startState": "apparent_security",
-        "endState": "sudden_fracture",
-        "transformation": "shrink"
+        "startState": "default_path",
+        "endState": "intentional_path",
+        "transformation": "shift_focus"
       },
       "attention": [
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "CONTRADICTION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-83",
@@ -7352,7 +7860,7 @@
           "at": 210
         }
       ],
-      "visualJob": "demonstrate",
+      "visualJob": "explain",
       "visualArc": {
         "startState": "normal",
         "endState": "normal",
@@ -7362,7 +7870,13 @@
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "EXPLANATION",
+        "escalates": false,
+        "conceptual": true,
+        "emotional": false
+      }
     },
     {
       "id": "scene-84",
@@ -7442,7 +7956,13 @@
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "TENSION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": true
+      }
     },
     {
       "id": "scene-85",
@@ -7524,7 +8044,13 @@
         "character",
         "text",
         "motif"
-      ]
+      ],
+      "narrative": {
+        "function": "REVEAL",
+        "escalates": true,
+        "conceptual": true,
+        "emotional": false
+      }
     },
     {
       "id": "scene-86",
@@ -7614,7 +8140,13 @@
         "partner",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "SETUP",
+        "escalates": false,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-87",
@@ -7704,7 +8236,13 @@
         "partner",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "CONTRADICTION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-88",
@@ -7777,7 +8315,7 @@
         }
       ],
       "texts": [],
-      "visualJob": "demonstrate",
+      "visualJob": "explain",
       "visualArc": {
         "startState": "normal",
         "endState": "normal",
@@ -7787,7 +8325,13 @@
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "EXPLANATION",
+        "escalates": false,
+        "conceptual": true,
+        "emotional": false
+      }
     },
     {
       "id": "scene-89",
@@ -7880,7 +8424,13 @@
         "partner",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "TENSION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": true
+      }
     },
     {
       "id": "scene-90",
@@ -7970,7 +8520,13 @@
         "character",
         "text",
         "motif"
-      ]
+      ],
+      "narrative": {
+        "function": "REVEAL",
+        "escalates": true,
+        "conceptual": true,
+        "emotional": false
+      }
     },
     {
       "id": "scene-91",
@@ -8059,7 +8615,13 @@
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "SETUP",
+        "escalates": false,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-92",
@@ -8160,7 +8722,13 @@
         "partner",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "CONTRADICTION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-93",
@@ -8241,7 +8809,13 @@
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "TENSION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": true
+      }
     },
     {
       "id": "scene-94",
@@ -8323,7 +8897,13 @@
         "character",
         "text",
         "motif"
-      ]
+      ],
+      "narrative": {
+        "function": "REVEAL",
+        "escalates": true,
+        "conceptual": true,
+        "emotional": false
+      }
     },
     {
       "id": "scene-95",
@@ -8404,17 +8984,23 @@
           "at": 39
         }
       ],
-      "visualJob": "ground",
+      "visualJob": "escalate",
       "visualArc": {
-        "startState": "normal",
-        "endState": "normal",
-        "transformation": "none"
+        "startState": "under_control",
+        "endState": "overwhelmed",
+        "transformation": "overload"
       },
       "attention": [
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "TENSION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": true
+      }
     },
     {
       "id": "scene-96",
@@ -8495,17 +9081,23 @@
           "at": 301
         }
       ],
-      "visualJob": "surprise",
+      "visualJob": "contrast",
       "visualArc": {
-        "startState": "apparent_security",
-        "endState": "sudden_fracture",
-        "transformation": "shrink"
+        "startState": "default_path",
+        "endState": "intentional_path",
+        "transformation": "shift_focus"
       },
       "attention": [
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "CONTRADICTION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-97",
@@ -8576,17 +9168,23 @@
           "at": 166
         }
       ],
-      "visualJob": "reveal",
+      "visualJob": "escalate",
       "visualArc": {
-        "startState": "surface_facade",
-        "endState": "underlying_reality",
-        "transformation": "reveal_truth"
+        "startState": "under_control",
+        "endState": "overwhelmed",
+        "transformation": "overload"
       },
       "attention": [
         "character",
-        "text",
-        "motif"
-      ]
+        "motif",
+        "text"
+      ],
+      "narrative": {
+        "function": "TENSION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": true
+      }
     },
     {
       "id": "scene-98",
@@ -8665,7 +9263,13 @@
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "SETUP",
+        "escalates": false,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-99",
@@ -8722,16 +9326,22 @@
         }
       ],
       "texts": [],
-      "visualJob": "surprise",
+      "visualJob": "contrast",
       "visualArc": {
-        "startState": "apparent_security",
-        "endState": "sudden_fracture",
-        "transformation": "shrink"
+        "startState": "default_path",
+        "endState": "intentional_path",
+        "transformation": "shift_focus"
       },
       "attention": [
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "CONTRADICTION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-100",
@@ -8821,7 +9431,13 @@
         "partner",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "TENSION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": true
+      }
     },
     {
       "id": "scene-101",
@@ -8912,7 +9528,13 @@
         "character",
         "text",
         "motif"
-      ]
+      ],
+      "narrative": {
+        "function": "REVEAL",
+        "escalates": true,
+        "conceptual": true,
+        "emotional": false
+      }
     },
     {
       "id": "scene-102",
@@ -8995,7 +9617,7 @@
         }
       ],
       "texts": [],
-      "visualJob": "ground",
+      "visualJob": "reinforce",
       "visualArc": {
         "startState": "stable",
         "endState": "focused",
@@ -9005,7 +9627,13 @@
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "PAYOFF",
+        "escalates": false,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-103",
@@ -9102,17 +9730,23 @@
           "at": 53
         }
       ],
-      "visualJob": "surprise",
+      "visualJob": "contrast",
       "visualArc": {
-        "startState": "apparent_security",
-        "endState": "sudden_fracture",
-        "transformation": "shrink"
+        "startState": "default_path",
+        "endState": "intentional_path",
+        "transformation": "shift_focus"
       },
       "attention": [
         "partner",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "CONTRADICTION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-104",
@@ -9206,17 +9840,23 @@
         }
       ],
       "texts": [],
-      "visualJob": "escalate",
+      "visualJob": "contrast",
       "visualArc": {
-        "startState": "under_control",
-        "endState": "overwhelmed",
-        "transformation": "overload"
+        "startState": "default_path",
+        "endState": "intentional_path",
+        "transformation": "shift_focus"
       },
       "attention": [
         "partner",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "CONTRADICTION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-105",
@@ -9306,7 +9946,13 @@
         "character",
         "text",
         "motif"
-      ]
+      ],
+      "narrative": {
+        "function": "REVEAL",
+        "escalates": true,
+        "conceptual": true,
+        "emotional": false
+      }
     },
     {
       "id": "scene-106",
@@ -9385,7 +10031,13 @@
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "SETUP",
+        "escalates": false,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-107",
@@ -9455,7 +10107,7 @@
         }
       ],
       "texts": [],
-      "visualJob": "demonstrate",
+      "visualJob": "explain",
       "visualArc": {
         "startState": "normal",
         "endState": "normal",
@@ -9465,7 +10117,13 @@
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "EXPLANATION",
+        "escalates": false,
+        "conceptual": true,
+        "emotional": false
+      }
     },
     {
       "id": "scene-108",
@@ -9536,17 +10194,23 @@
         }
       ],
       "texts": [],
-      "visualJob": "surprise",
+      "visualJob": "contrast",
       "visualArc": {
-        "startState": "apparent_security",
-        "endState": "sudden_fracture",
-        "transformation": "shrink"
+        "startState": "default_path",
+        "endState": "intentional_path",
+        "transformation": "shift_focus"
       },
       "attention": [
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "CONTRADICTION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-109",
@@ -9627,17 +10291,23 @@
           "at": 0
         }
       ],
-      "visualJob": "reveal",
+      "visualJob": "escalate",
       "visualArc": {
-        "startState": "surface_facade",
-        "endState": "underlying_reality",
-        "transformation": "reveal_truth"
+        "startState": "under_control",
+        "endState": "overwhelmed",
+        "transformation": "overload"
       },
       "attention": [
         "character",
-        "text",
-        "motif"
-      ]
+        "motif",
+        "text"
+      ],
+      "narrative": {
+        "function": "TENSION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": true
+      }
     },
     {
       "id": "scene-110",
@@ -9713,7 +10383,13 @@
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "SETUP",
+        "escalates": false,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-111",
@@ -9782,7 +10458,7 @@
           "at": 70
         }
       ],
-      "visualJob": "demonstrate",
+      "visualJob": "explain",
       "visualArc": {
         "startState": "stable",
         "endState": "focused",
@@ -9792,7 +10468,13 @@
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "EXPLANATION",
+        "escalates": false,
+        "conceptual": true,
+        "emotional": false
+      }
     },
     {
       "id": "scene-112",
@@ -9861,7 +10543,7 @@
         }
       ],
       "texts": [],
-      "visualJob": "demonstrate",
+      "visualJob": "explain",
       "visualArc": {
         "startState": "normal",
         "endState": "normal",
@@ -9871,7 +10553,13 @@
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "EXPLANATION",
+        "escalates": false,
+        "conceptual": true,
+        "emotional": false
+      }
     },
     {
       "id": "scene-113",
@@ -9941,17 +10629,23 @@
         }
       ],
       "texts": [],
-      "visualJob": "surprise",
+      "visualJob": "contrast",
       "visualArc": {
-        "startState": "apparent_security",
-        "endState": "sudden_fracture",
-        "transformation": "shrink"
+        "startState": "default_path",
+        "endState": "intentional_path",
+        "transformation": "shift_focus"
       },
       "attention": [
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "CONTRADICTION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-114",
@@ -10042,7 +10736,13 @@
         "character",
         "text",
         "motif"
-      ]
+      ],
+      "narrative": {
+        "function": "REVEAL",
+        "escalates": true,
+        "conceptual": true,
+        "emotional": false
+      }
     },
     {
       "id": "scene-115",
@@ -10114,17 +10814,24 @@
         }
       ],
       "texts": [],
-      "visualJob": "ground",
+      "visualJob": "contrast",
       "visualArc": {
-        "startState": "normal",
-        "endState": "normal",
-        "transformation": "none"
+        "startState": "default_path",
+        "endState": "intentional_path",
+        "transformation": "shift_focus"
       },
       "attention": [
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "QUESTION",
+        "payoffPromise": "promise-06",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-116",
@@ -10194,16 +10901,22 @@
           "at": 75
         }
       ],
-      "visualJob": "surprise",
+      "visualJob": "contrast",
       "visualArc": {
-        "startState": "apparent_security",
-        "endState": "sudden_fracture",
-        "transformation": "shrink"
+        "startState": "default_path",
+        "endState": "intentional_path",
+        "transformation": "shift_focus"
       },
       "attention": [
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "CONTRADICTION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-117",
@@ -10296,7 +11009,14 @@
         "character",
         "text",
         "motif"
-      ]
+      ],
+      "narrative": {
+        "function": "REVEAL",
+        "payoff": "promise-06",
+        "escalates": true,
+        "conceptual": true,
+        "emotional": false
+      }
     },
     {
       "id": "scene-118",
@@ -10378,7 +11098,13 @@
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "SETUP",
+        "escalates": false,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-119",
@@ -10449,17 +11175,23 @@
           "at": 13
         }
       ],
-      "visualJob": "surprise",
+      "visualJob": "contrast",
       "visualArc": {
-        "startState": "apparent_security",
-        "endState": "sudden_fracture",
-        "transformation": "shrink"
+        "startState": "default_path",
+        "endState": "intentional_path",
+        "transformation": "shift_focus"
       },
       "attention": [
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "CONTRADICTION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-120",
@@ -10543,7 +11275,13 @@
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "TENSION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": true
+      }
     },
     {
       "id": "scene-121",
@@ -10622,7 +11360,13 @@
         "character",
         "text",
         "motif"
-      ]
+      ],
+      "narrative": {
+        "function": "REVEAL",
+        "escalates": true,
+        "conceptual": true,
+        "emotional": false
+      }
     },
     {
       "id": "scene-122",
@@ -10713,7 +11457,13 @@
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "SETUP",
+        "escalates": false,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-123",
@@ -10796,16 +11546,22 @@
         }
       ],
       "texts": [],
-      "visualJob": "surprise",
+      "visualJob": "contrast",
       "visualArc": {
-        "startState": "apparent_security",
-        "endState": "sudden_fracture",
-        "transformation": "shrink"
+        "startState": "default_path",
+        "endState": "intentional_path",
+        "transformation": "shift_focus"
       },
       "attention": [
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "CONTRADICTION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-124",
@@ -10896,7 +11652,13 @@
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "TENSION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": true
+      }
     },
     {
       "id": "scene-125",
@@ -10975,7 +11737,13 @@
         "character",
         "text",
         "motif"
-      ]
+      ],
+      "narrative": {
+        "function": "REVEAL",
+        "escalates": true,
+        "conceptual": true,
+        "emotional": false
+      }
     },
     {
       "id": "scene-126",
@@ -11065,7 +11833,13 @@
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "SETUP",
+        "escalates": false,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-127",
@@ -11159,16 +11933,22 @@
           "at": 44
         }
       ],
-      "visualJob": "surprise",
+      "visualJob": "contrast",
       "visualArc": {
-        "startState": "apparent_security",
-        "endState": "sudden_fracture",
-        "transformation": "shrink"
+        "startState": "default_path",
+        "endState": "intentional_path",
+        "transformation": "shift_focus"
       },
       "attention": [
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "CONTRADICTION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-128",
@@ -11228,16 +12008,22 @@
         }
       ],
       "texts": [],
-      "visualJob": "escalate",
+      "visualJob": "contrast",
       "visualArc": {
-        "startState": "under_control",
-        "endState": "overwhelmed",
-        "transformation": "overload"
+        "startState": "default_path",
+        "endState": "intentional_path",
+        "transformation": "shift_focus"
       },
       "attention": [
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "CONTRADICTION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-129",
@@ -11308,17 +12094,23 @@
         }
       ],
       "texts": [],
-      "visualJob": "reveal",
+      "visualJob": "contrast",
       "visualArc": {
-        "startState": "surface_facade",
-        "endState": "underlying_reality",
-        "transformation": "reveal_truth"
+        "startState": "default_path",
+        "endState": "intentional_path",
+        "transformation": "shift_focus"
       },
       "attention": [
         "character",
-        "text",
-        "motif"
-      ]
+        "motif",
+        "text"
+      ],
+      "narrative": {
+        "function": "CONTRADICTION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-130",
@@ -11397,7 +12189,13 @@
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "SETUP",
+        "escalates": false,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-131",
@@ -11468,17 +12266,23 @@
         }
       ],
       "texts": [],
-      "visualJob": "surprise",
+      "visualJob": "contrast",
       "visualArc": {
-        "startState": "apparent_security",
-        "endState": "sudden_fracture",
-        "transformation": "shrink"
+        "startState": "default_path",
+        "endState": "intentional_path",
+        "transformation": "shift_focus"
       },
       "attention": [
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "CONTRADICTION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-132",
@@ -11544,7 +12348,7 @@
         }
       ],
       "texts": [],
-      "visualJob": "demonstrate",
+      "visualJob": "explain",
       "visualArc": {
         "startState": "stable",
         "endState": "focused",
@@ -11554,7 +12358,13 @@
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "EXPLANATION",
+        "escalates": false,
+        "conceptual": true,
+        "emotional": false
+      }
     },
     {
       "id": "scene-133",
@@ -11635,7 +12445,13 @@
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "TENSION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": true
+      }
     },
     {
       "id": "scene-134",
@@ -11725,7 +12541,13 @@
         "character",
         "text",
         "motif"
-      ]
+      ],
+      "narrative": {
+        "function": "REVEAL",
+        "escalates": true,
+        "conceptual": true,
+        "emotional": false
+      }
     },
     {
       "id": "scene-135",
@@ -11796,17 +12618,24 @@
         }
       ],
       "texts": [],
-      "visualJob": "ground",
+      "visualJob": "surprise",
       "visualArc": {
-        "startState": "stable",
-        "endState": "focused",
-        "transformation": "grow"
+        "startState": "apparent_security",
+        "endState": "sudden_fracture",
+        "transformation": "shrink"
       },
       "attention": [
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "QUESTION",
+        "payoffPromise": "promise-07",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-136",
@@ -11882,17 +12711,23 @@
         }
       ],
       "texts": [],
-      "visualJob": "surprise",
+      "visualJob": "contrast",
       "visualArc": {
-        "startState": "apparent_security",
-        "endState": "sudden_fracture",
-        "transformation": "shrink"
+        "startState": "default_path",
+        "endState": "intentional_path",
+        "transformation": "shift_focus"
       },
       "attention": [
         "partner",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "CONTRADICTION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-137",
@@ -11973,7 +12808,13 @@
       "attention": [
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "TENSION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": true
+      }
     },
     {
       "id": "scene-138",
@@ -12054,7 +12895,14 @@
         "character",
         "text",
         "motif"
-      ]
+      ],
+      "narrative": {
+        "function": "REVEAL",
+        "payoff": "promise-07",
+        "escalates": true,
+        "conceptual": true,
+        "emotional": false
+      }
     },
     {
       "id": "scene-139",
@@ -12144,7 +12992,13 @@
         "partner",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "SETUP",
+        "escalates": false,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-140",
@@ -12226,17 +13080,23 @@
           "at": 22
         }
       ],
-      "visualJob": "surprise",
+      "visualJob": "contrast",
       "visualArc": {
-        "startState": "apparent_security",
-        "endState": "sudden_fracture",
-        "transformation": "shrink"
+        "startState": "default_path",
+        "endState": "intentional_path",
+        "transformation": "shift_focus"
       },
       "attention": [
         "partner",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "CONTRADICTION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-141",
@@ -12316,7 +13176,13 @@
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "TENSION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": true
+      }
     },
     {
       "id": "scene-142",
@@ -12396,17 +13262,23 @@
           "at": 138
         }
       ],
-      "visualJob": "reveal",
+      "visualJob": "escalate",
       "visualArc": {
-        "startState": "surface_facade",
-        "endState": "underlying_reality",
-        "transformation": "reveal_truth"
+        "startState": "under_control",
+        "endState": "overwhelmed",
+        "transformation": "overload"
       },
       "attention": [
         "character",
-        "text",
-        "motif"
-      ]
+        "motif",
+        "text"
+      ],
+      "narrative": {
+        "function": "TENSION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": true
+      }
     },
     {
       "id": "scene-143",
@@ -12486,7 +13358,13 @@
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "SETUP",
+        "escalates": false,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-144",
@@ -12556,17 +13434,23 @@
           "at": 106
         }
       ],
-      "visualJob": "surprise",
+      "visualJob": "contrast",
       "visualArc": {
-        "startState": "apparent_security",
-        "endState": "sudden_fracture",
-        "transformation": "shrink"
+        "startState": "default_path",
+        "endState": "intentional_path",
+        "transformation": "shift_focus"
       },
       "attention": [
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "CONTRADICTION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-145",
@@ -12645,7 +13529,13 @@
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "TENSION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": true
+      }
     },
     {
       "id": "scene-146",
@@ -12749,7 +13639,13 @@
         "partner",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "REVEAL",
+        "escalates": true,
+        "conceptual": true,
+        "emotional": false
+      }
     },
     {
       "id": "scene-147",
@@ -12830,7 +13726,13 @@
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "SETUP",
+        "escalates": false,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-148",
@@ -12910,17 +13812,23 @@
         }
       ],
       "texts": [],
-      "visualJob": "surprise",
+      "visualJob": "contrast",
       "visualArc": {
-        "startState": "apparent_security",
-        "endState": "sudden_fracture",
-        "transformation": "shrink"
+        "startState": "default_path",
+        "endState": "intentional_path",
+        "transformation": "shift_focus"
       },
       "attention": [
         "partner",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "CONTRADICTION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-149",
@@ -13029,7 +13937,13 @@
         "partner",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "TENSION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": true
+      }
     },
     {
       "id": "scene-150",
@@ -13109,7 +14023,13 @@
       "attention": [
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "REVEAL",
+        "escalates": true,
+        "conceptual": true,
+        "emotional": false
+      }
     },
     {
       "id": "scene-151",
@@ -13188,7 +14108,13 @@
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "SETUP",
+        "escalates": false,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-152",
@@ -13258,17 +14184,23 @@
         }
       ],
       "texts": [],
-      "visualJob": "surprise",
+      "visualJob": "contrast",
       "visualArc": {
-        "startState": "apparent_security",
-        "endState": "sudden_fracture",
-        "transformation": "shrink"
+        "startState": "default_path",
+        "endState": "intentional_path",
+        "transformation": "shift_focus"
       },
       "attention": [
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "CONTRADICTION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-153",
@@ -13350,7 +14282,13 @@
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "TENSION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": true
+      }
     },
     {
       "id": "scene-154",
@@ -13440,7 +14378,13 @@
         "character",
         "text",
         "motif"
-      ]
+      ],
+      "narrative": {
+        "function": "REVEAL",
+        "escalates": true,
+        "conceptual": true,
+        "emotional": false
+      }
     },
     {
       "id": "scene-155",
@@ -13531,7 +14475,13 @@
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "SETUP",
+        "escalates": false,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-156",
@@ -13594,16 +14544,22 @@
         }
       ],
       "texts": [],
-      "visualJob": "surprise",
+      "visualJob": "contrast",
       "visualArc": {
-        "startState": "apparent_security",
-        "endState": "sudden_fracture",
-        "transformation": "shrink"
+        "startState": "default_path",
+        "endState": "intentional_path",
+        "transformation": "shift_focus"
       },
       "attention": [
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "CONTRADICTION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-157",
@@ -13696,7 +14652,13 @@
         "partner",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "TENSION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": true
+      }
     },
     {
       "id": "scene-158",
@@ -13774,7 +14736,13 @@
         "character",
         "text",
         "motif"
-      ]
+      ],
+      "narrative": {
+        "function": "REVEAL",
+        "escalates": true,
+        "conceptual": true,
+        "emotional": false
+      }
     },
     {
       "id": "scene-159",
@@ -13865,7 +14833,13 @@
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "SETUP",
+        "escalates": false,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-160",
@@ -13949,16 +14923,22 @@
         }
       ],
       "texts": [],
-      "visualJob": "surprise",
+      "visualJob": "contrast",
       "visualArc": {
-        "startState": "apparent_security",
-        "endState": "sudden_fracture",
-        "transformation": "shrink"
+        "startState": "default_path",
+        "endState": "intentional_path",
+        "transformation": "shift_focus"
       },
       "attention": [
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "CONTRADICTION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-161",
@@ -14036,7 +15016,13 @@
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "TENSION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": true
+      }
     },
     {
       "id": "scene-162",
@@ -14136,7 +15122,13 @@
         "partner",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "REVEAL",
+        "escalates": true,
+        "conceptual": true,
+        "emotional": false
+      }
     },
     {
       "id": "scene-163",
@@ -14217,7 +15209,13 @@
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "SETUP",
+        "escalates": false,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-164",
@@ -14299,17 +15297,23 @@
           "at": 70
         }
       ],
-      "visualJob": "surprise",
+      "visualJob": "contrast",
       "visualArc": {
-        "startState": "apparent_security",
-        "endState": "sudden_fracture",
-        "transformation": "shrink"
+        "startState": "default_path",
+        "endState": "intentional_path",
+        "transformation": "shift_focus"
       },
       "attention": [
         "partner",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "CONTRADICTION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-165",
@@ -14380,17 +15384,23 @@
         }
       ],
       "texts": [],
-      "visualJob": "demonstrate",
+      "visualJob": "contrast",
       "visualArc": {
-        "startState": "stable",
-        "endState": "focused",
-        "transformation": "grow"
+        "startState": "default_path",
+        "endState": "intentional_path",
+        "transformation": "shift_focus"
       },
       "attention": [
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "CONTRADICTION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-166",
@@ -14470,7 +15480,13 @@
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "TENSION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": true
+      }
     },
     {
       "id": "scene-167",
@@ -14559,7 +15575,13 @@
         "partner",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "REVEAL",
+        "escalates": true,
+        "conceptual": true,
+        "emotional": false
+      }
     },
     {
       "id": "scene-168",
@@ -14641,17 +15663,23 @@
           "at": 80
         }
       ],
-      "visualJob": "ground",
+      "visualJob": "contrast",
       "visualArc": {
-        "startState": "stable",
-        "endState": "focused",
-        "transformation": "grow"
+        "startState": "default_path",
+        "endState": "intentional_path",
+        "transformation": "shift_focus"
       },
       "attention": [
         "partner",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "CONTRADICTION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-169",
@@ -14731,7 +15759,13 @@
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "CONTRADICTION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-170",
@@ -14821,7 +15855,13 @@
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "TENSION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": true
+      }
     },
     {
       "id": "scene-171",
@@ -14897,7 +15937,13 @@
         "character",
         "text",
         "motif"
-      ]
+      ],
+      "narrative": {
+        "function": "REVEAL",
+        "escalates": true,
+        "conceptual": true,
+        "emotional": false
+      }
     },
     {
       "id": "scene-172",
@@ -14972,17 +16018,23 @@
         }
       ],
       "texts": [],
-      "visualJob": "ground",
+      "visualJob": "reveal",
       "visualArc": {
-        "startState": "normal",
-        "endState": "normal",
-        "transformation": "none"
+        "startState": "surface_facade",
+        "endState": "underlying_reality",
+        "transformation": "reveal_truth"
       },
       "attention": [
         "partner",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "REVEAL",
+        "escalates": true,
+        "conceptual": true,
+        "emotional": false
+      }
     },
     {
       "id": "scene-173",
@@ -15066,17 +16118,23 @@
         }
       ],
       "texts": [],
-      "visualJob": "surprise",
+      "visualJob": "contrast",
       "visualArc": {
-        "startState": "apparent_security",
-        "endState": "sudden_fracture",
-        "transformation": "shrink"
+        "startState": "default_path",
+        "endState": "intentional_path",
+        "transformation": "shift_focus"
       },
       "attention": [
         "partner",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "CONTRADICTION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-174",
@@ -15176,7 +16234,13 @@
         "partner",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "TENSION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": true
+      }
     },
     {
       "id": "scene-175",
@@ -15257,7 +16321,13 @@
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "TENSION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": true
+      }
     },
     {
       "id": "scene-176",
@@ -15342,7 +16412,13 @@
         "partner",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "REVEAL",
+        "escalates": true,
+        "conceptual": true,
+        "emotional": false
+      }
     },
     {
       "id": "scene-177",
@@ -15412,17 +16488,23 @@
         }
       ],
       "texts": [],
-      "visualJob": "ground",
+      "visualJob": "reveal",
       "visualArc": {
-        "startState": "stable",
-        "endState": "focused",
-        "transformation": "grow"
+        "startState": "surface_facade",
+        "endState": "underlying_reality",
+        "transformation": "reveal_truth"
       },
       "attention": [
         "character",
-        "motif",
-        "text"
-      ]
+        "text",
+        "motif"
+      ],
+      "narrative": {
+        "function": "REVEAL",
+        "escalates": true,
+        "conceptual": true,
+        "emotional": false
+      }
     },
     {
       "id": "scene-178",
@@ -15488,17 +16570,23 @@
         }
       ],
       "texts": [],
-      "visualJob": "surprise",
+      "visualJob": "contrast",
       "visualArc": {
-        "startState": "apparent_security",
-        "endState": "sudden_fracture",
-        "transformation": "shrink"
+        "startState": "default_path",
+        "endState": "intentional_path",
+        "transformation": "shift_focus"
       },
       "attention": [
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "CONTRADICTION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-179",
@@ -15564,7 +16652,7 @@
         }
       ],
       "texts": [],
-      "visualJob": "demonstrate",
+      "visualJob": "explain",
       "visualArc": {
         "startState": "normal",
         "endState": "normal",
@@ -15574,7 +16662,13 @@
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "EXPLANATION",
+        "escalates": false,
+        "conceptual": true,
+        "emotional": false
+      }
     },
     {
       "id": "scene-180",
@@ -15645,7 +16739,13 @@
       "attention": [
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "TENSION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": true
+      }
     },
     {
       "id": "scene-181",
@@ -15735,7 +16835,13 @@
         "character",
         "text",
         "motif"
-      ]
+      ],
+      "narrative": {
+        "function": "REVEAL",
+        "escalates": true,
+        "conceptual": true,
+        "emotional": false
+      }
     },
     {
       "id": "scene-182",
@@ -15814,7 +16920,13 @@
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "SETUP",
+        "escalates": false,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-183",
@@ -15880,17 +16992,23 @@
         }
       ],
       "texts": [],
-      "visualJob": "surprise",
+      "visualJob": "contrast",
       "visualArc": {
-        "startState": "apparent_security",
-        "endState": "sudden_fracture",
-        "transformation": "shrink"
+        "startState": "default_path",
+        "endState": "intentional_path",
+        "transformation": "shift_focus"
       },
       "attention": [
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "CONTRADICTION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-184",
@@ -15960,7 +17078,7 @@
         }
       ],
       "texts": [],
-      "visualJob": "demonstrate",
+      "visualJob": "explain",
       "visualArc": {
         "startState": "normal",
         "endState": "normal",
@@ -15970,7 +17088,13 @@
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "EXPLANATION",
+        "escalates": false,
+        "conceptual": true,
+        "emotional": false
+      }
     },
     {
       "id": "scene-185",
@@ -16060,7 +17184,13 @@
         "partner",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "TENSION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": true
+      }
     },
     {
       "id": "scene-186",
@@ -16140,7 +17270,13 @@
         "character",
         "text",
         "motif"
-      ]
+      ],
+      "narrative": {
+        "function": "REVEAL",
+        "escalates": true,
+        "conceptual": true,
+        "emotional": false
+      }
     },
     {
       "id": "scene-187",
@@ -16209,7 +17345,13 @@
       "attention": [
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "SETUP",
+        "escalates": false,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-188",
@@ -16291,17 +17433,23 @@
           "at": 6
         }
       ],
-      "visualJob": "surprise",
+      "visualJob": "contrast",
       "visualArc": {
-        "startState": "apparent_security",
-        "endState": "sudden_fracture",
-        "transformation": "shrink"
+        "startState": "default_path",
+        "endState": "intentional_path",
+        "transformation": "shift_focus"
       },
       "attention": [
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "CONTRADICTION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-189",
@@ -16390,17 +17538,23 @@
         }
       ],
       "texts": [],
-      "visualJob": "escalate",
+      "visualJob": "contrast",
       "visualArc": {
-        "startState": "under_control",
-        "endState": "overwhelmed",
-        "transformation": "overload"
+        "startState": "default_path",
+        "endState": "intentional_path",
+        "transformation": "shift_focus"
       },
       "attention": [
         "partner",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "CONTRADICTION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-190",
@@ -16480,7 +17634,13 @@
         "character",
         "text",
         "motif"
-      ]
+      ],
+      "narrative": {
+        "function": "REVEAL",
+        "escalates": true,
+        "conceptual": true,
+        "emotional": false
+      }
     },
     {
       "id": "scene-191",
@@ -16580,7 +17740,13 @@
         "partner",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "SETUP",
+        "escalates": false,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-192",
@@ -16651,16 +17817,22 @@
           "at": 215
         }
       ],
-      "visualJob": "surprise",
+      "visualJob": "contrast",
       "visualArc": {
-        "startState": "apparent_security",
-        "endState": "sudden_fracture",
-        "transformation": "shrink"
+        "startState": "default_path",
+        "endState": "intentional_path",
+        "transformation": "shift_focus"
       },
       "attention": [
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "CONTRADICTION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-193",
@@ -16751,7 +17923,13 @@
         "character",
         "text",
         "motif"
-      ]
+      ],
+      "narrative": {
+        "function": "REVEAL",
+        "escalates": true,
+        "conceptual": true,
+        "emotional": false
+      }
     },
     {
       "id": "scene-194",
@@ -16851,7 +18029,13 @@
         "partner",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "SETUP",
+        "escalates": false,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-195",
@@ -16921,17 +18105,23 @@
         }
       ],
       "texts": [],
-      "visualJob": "surprise",
+      "visualJob": "contrast",
       "visualArc": {
-        "startState": "apparent_security",
-        "endState": "sudden_fracture",
-        "transformation": "shrink"
+        "startState": "default_path",
+        "endState": "intentional_path",
+        "transformation": "shift_focus"
       },
       "attention": [
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "CONTRADICTION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-196",
@@ -17021,7 +18211,13 @@
         "partner",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "TENSION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": true
+      }
     },
     {
       "id": "scene-197",
@@ -17120,7 +18316,13 @@
         "partner",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "REVEAL",
+        "escalates": true,
+        "conceptual": true,
+        "emotional": false
+      }
     },
     {
       "id": "scene-198",
@@ -17201,7 +18403,13 @@
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "SETUP",
+        "escalates": false,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-199",
@@ -17262,16 +18470,22 @@
         }
       ],
       "texts": [],
-      "visualJob": "surprise",
+      "visualJob": "contrast",
       "visualArc": {
-        "startState": "apparent_security",
-        "endState": "sudden_fracture",
-        "transformation": "shrink"
+        "startState": "default_path",
+        "endState": "intentional_path",
+        "transformation": "shift_focus"
       },
       "attention": [
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "CONTRADICTION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-200",
@@ -17352,7 +18566,13 @@
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "TENSION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": true
+      }
     },
     {
       "id": "scene-201",
@@ -17446,7 +18666,13 @@
         "character",
         "text",
         "motif"
-      ]
+      ],
+      "narrative": {
+        "function": "REVEAL",
+        "escalates": true,
+        "conceptual": true,
+        "emotional": false
+      }
     },
     {
       "id": "scene-202",
@@ -17528,7 +18754,13 @@
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "SETUP",
+        "escalates": false,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-203",
@@ -17607,17 +18839,23 @@
           "at": 39
         }
       ],
-      "visualJob": "surprise",
+      "visualJob": "contrast",
       "visualArc": {
-        "startState": "apparent_security",
-        "endState": "sudden_fracture",
-        "transformation": "shrink"
+        "startState": "default_path",
+        "endState": "intentional_path",
+        "transformation": "shift_focus"
       },
       "attention": [
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "CONTRADICTION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-204",
@@ -17708,7 +18946,13 @@
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "TENSION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": true
+      }
     },
     {
       "id": "scene-205",
@@ -17799,7 +19043,13 @@
         "character",
         "text",
         "motif"
-      ]
+      ],
+      "narrative": {
+        "function": "REVEAL",
+        "escalates": true,
+        "conceptual": true,
+        "emotional": false
+      }
     },
     {
       "id": "scene-206",
@@ -17913,7 +19163,13 @@
         "partner",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "SETUP",
+        "escalates": false,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-207",
@@ -17980,17 +19236,23 @@
         }
       ],
       "texts": [],
-      "visualJob": "surprise",
+      "visualJob": "contrast",
       "visualArc": {
-        "startState": "apparent_security",
-        "endState": "sudden_fracture",
-        "transformation": "shrink"
+        "startState": "default_path",
+        "endState": "intentional_path",
+        "transformation": "shift_focus"
       },
       "attention": [
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "CONTRADICTION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-208",
@@ -18080,17 +19342,23 @@
           "at": 34
         }
       ],
-      "visualJob": "escalate",
+      "visualJob": "contrast",
       "visualArc": {
-        "startState": "under_control",
-        "endState": "overwhelmed",
-        "transformation": "overload"
+        "startState": "default_path",
+        "endState": "intentional_path",
+        "transformation": "shift_focus"
       },
       "attention": [
         "partner",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "CONTRADICTION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-209",
@@ -18155,17 +19423,23 @@
         }
       ],
       "texts": [],
-      "visualJob": "reveal",
+      "visualJob": "escalate",
       "visualArc": {
-        "startState": "surface_facade",
-        "endState": "underlying_reality",
-        "transformation": "reveal_truth"
+        "startState": "under_control",
+        "endState": "overwhelmed",
+        "transformation": "overload"
       },
       "attention": [
         "character",
-        "text",
-        "motif"
-      ]
+        "motif",
+        "text"
+      ],
+      "narrative": {
+        "function": "TENSION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": true
+      }
     },
     {
       "id": "scene-210",
@@ -18241,7 +19515,13 @@
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "SETUP",
+        "escalates": false,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-211",
@@ -18311,17 +19591,23 @@
         }
       ],
       "texts": [],
-      "visualJob": "surprise",
+      "visualJob": "contrast",
       "visualArc": {
-        "startState": "apparent_security",
-        "endState": "sudden_fracture",
-        "transformation": "shrink"
+        "startState": "default_path",
+        "endState": "intentional_path",
+        "transformation": "shift_focus"
       },
       "attention": [
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "CONTRADICTION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-212",
@@ -18400,7 +19686,7 @@
           "at": 85
         }
       ],
-      "visualJob": "demonstrate",
+      "visualJob": "explain",
       "visualArc": {
         "startState": "normal",
         "endState": "normal",
@@ -18410,7 +19696,13 @@
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "EXPLANATION",
+        "escalates": false,
+        "conceptual": true,
+        "emotional": false
+      }
     },
     {
       "id": "scene-213",
@@ -18502,7 +19794,13 @@
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "TENSION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": true
+      }
     },
     {
       "id": "scene-214",
@@ -18583,17 +19881,24 @@
           "at": 257
         }
       ],
-      "visualJob": "reveal",
+      "visualJob": "surprise",
       "visualArc": {
-        "startState": "surface_facade",
-        "endState": "underlying_reality",
-        "transformation": "reveal_truth"
+        "startState": "apparent_security",
+        "endState": "sudden_fracture",
+        "transformation": "shrink"
       },
       "attention": [
         "character",
-        "text",
-        "motif"
-      ]
+        "motif",
+        "text"
+      ],
+      "narrative": {
+        "function": "QUESTION",
+        "payoffPromise": "promise-08",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-215",
@@ -18675,7 +19980,13 @@
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "SETUP",
+        "escalates": false,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-216",
@@ -18747,7 +20058,13 @@
       "attention": [
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "CONTRADICTION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-217",
@@ -18828,7 +20145,13 @@
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "TENSION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": true
+      }
     },
     {
       "id": "scene-218",
@@ -18919,7 +20242,14 @@
         "character",
         "text",
         "motif"
-      ]
+      ],
+      "narrative": {
+        "function": "REVEAL",
+        "payoff": "promise-08",
+        "escalates": true,
+        "conceptual": true,
+        "emotional": false
+      }
     },
     {
       "id": "scene-219",
@@ -18990,7 +20320,7 @@
         }
       ],
       "texts": [],
-      "visualJob": "ground",
+      "visualJob": "reinforce",
       "visualArc": {
         "startState": "stable",
         "endState": "focused",
@@ -19000,7 +20330,13 @@
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "REFLECTION",
+        "escalates": false,
+        "conceptual": true,
+        "emotional": false
+      }
     },
     {
       "id": "scene-220",
@@ -19089,7 +20425,13 @@
         "partner",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "TENSION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": true
+      }
     },
     {
       "id": "scene-221",
@@ -19168,17 +20510,23 @@
         }
       ],
       "texts": [],
-      "visualJob": "surprise",
+      "visualJob": "contrast",
       "visualArc": {
-        "startState": "apparent_security",
-        "endState": "sudden_fracture",
-        "transformation": "shrink"
+        "startState": "default_path",
+        "endState": "intentional_path",
+        "transformation": "shift_focus"
       },
       "attention": [
         "partner",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "CONTRADICTION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-222",
@@ -19267,7 +20615,13 @@
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "TENSION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": true
+      }
     },
     {
       "id": "scene-223",
@@ -19366,7 +20720,13 @@
         "partner",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "REVEAL",
+        "escalates": true,
+        "conceptual": true,
+        "emotional": false
+      }
     },
     {
       "id": "scene-224",
@@ -19445,7 +20805,13 @@
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "SETUP",
+        "escalates": false,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-225",
@@ -19515,17 +20881,23 @@
         }
       ],
       "texts": [],
-      "visualJob": "surprise",
+      "visualJob": "contrast",
       "visualArc": {
-        "startState": "apparent_security",
-        "endState": "sudden_fracture",
-        "transformation": "shrink"
+        "startState": "default_path",
+        "endState": "intentional_path",
+        "transformation": "shift_focus"
       },
       "attention": [
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "CONTRADICTION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-226",
@@ -19616,7 +20988,13 @@
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "TENSION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": true
+      }
     },
     {
       "id": "scene-227",
@@ -19696,7 +21074,13 @@
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "TENSION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": true
+      }
     },
     {
       "id": "scene-228",
@@ -19796,7 +21180,13 @@
         "partner",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "REVEAL",
+        "escalates": true,
+        "conceptual": true,
+        "emotional": false
+      }
     },
     {
       "id": "scene-229",
@@ -19856,16 +21246,23 @@
         }
       ],
       "texts": [],
-      "visualJob": "ground",
+      "visualJob": "surprise",
       "visualArc": {
-        "startState": "normal",
-        "endState": "normal",
-        "transformation": "none"
+        "startState": "apparent_security",
+        "endState": "sudden_fracture",
+        "transformation": "shrink"
       },
       "attention": [
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "QUESTION",
+        "payoffPromise": "promise-09",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-230",
@@ -19931,17 +21328,23 @@
         }
       ],
       "texts": [],
-      "visualJob": "surprise",
+      "visualJob": "contrast",
       "visualArc": {
-        "startState": "apparent_security",
-        "endState": "sudden_fracture",
-        "transformation": "shrink"
+        "startState": "default_path",
+        "endState": "intentional_path",
+        "transformation": "shift_focus"
       },
       "attention": [
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "CONTRADICTION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-231",
@@ -20031,7 +21434,13 @@
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "TENSION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": true
+      }
     },
     {
       "id": "scene-232",
@@ -20113,7 +21522,14 @@
         "character",
         "text",
         "motif"
-      ]
+      ],
+      "narrative": {
+        "function": "REVEAL",
+        "payoff": "promise-09",
+        "escalates": true,
+        "conceptual": true,
+        "emotional": false
+      }
     },
     {
       "id": "scene-233",
@@ -20184,17 +21600,24 @@
         }
       ],
       "texts": [],
-      "visualJob": "ground",
+      "visualJob": "surprise",
       "visualArc": {
-        "startState": "normal",
-        "endState": "normal",
-        "transformation": "none"
+        "startState": "apparent_security",
+        "endState": "sudden_fracture",
+        "transformation": "shrink"
       },
       "attention": [
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "QUESTION",
+        "payoffPromise": "promise-10",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-234",
@@ -20267,16 +21690,22 @@
           "at": 135
         }
       ],
-      "visualJob": "surprise",
+      "visualJob": "contrast",
       "visualArc": {
-        "startState": "apparent_security",
-        "endState": "sudden_fracture",
-        "transformation": "shrink"
+        "startState": "default_path",
+        "endState": "intentional_path",
+        "transformation": "shift_focus"
       },
       "attention": [
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "CONTRADICTION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-235",
@@ -20357,7 +21786,13 @@
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "TENSION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": true
+      }
     },
     {
       "id": "scene-236",
@@ -20436,7 +21871,14 @@
         "character",
         "text",
         "motif"
-      ]
+      ],
+      "narrative": {
+        "function": "REVEAL",
+        "payoff": "promise-10",
+        "escalates": true,
+        "conceptual": true,
+        "emotional": false
+      }
     },
     {
       "id": "scene-237",
@@ -20506,17 +21948,24 @@
         }
       ],
       "texts": [],
-      "visualJob": "ground",
+      "visualJob": "surprise",
       "visualArc": {
-        "startState": "stable",
-        "endState": "focused",
-        "transformation": "grow"
+        "startState": "apparent_security",
+        "endState": "sudden_fracture",
+        "transformation": "shrink"
       },
       "attention": [
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "QUESTION",
+        "payoffPromise": "promise-11",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-238",
@@ -20595,17 +22044,23 @@
           "at": 0
         }
       ],
-      "visualJob": "surprise",
+      "visualJob": "contrast",
       "visualArc": {
-        "startState": "apparent_security",
-        "endState": "sudden_fracture",
-        "transformation": "shrink"
+        "startState": "default_path",
+        "endState": "intentional_path",
+        "transformation": "shift_focus"
       },
       "attention": [
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "CONTRADICTION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-239",
@@ -20668,16 +22123,22 @@
         }
       ],
       "texts": [],
-      "visualJob": "escalate",
+      "visualJob": "contrast",
       "visualArc": {
-        "startState": "under_control",
-        "endState": "overwhelmed",
-        "transformation": "overload"
+        "startState": "default_path",
+        "endState": "intentional_path",
+        "transformation": "shift_focus"
       },
       "attention": [
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "CONTRADICTION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-240",
@@ -20757,7 +22218,14 @@
         "character",
         "text",
         "motif"
-      ]
+      ],
+      "narrative": {
+        "function": "REVEAL",
+        "payoff": "promise-11",
+        "escalates": true,
+        "conceptual": true,
+        "emotional": false
+      }
     },
     {
       "id": "scene-241",
@@ -20835,7 +22303,13 @@
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "SETUP",
+        "escalates": false,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-242",
@@ -20902,17 +22376,23 @@
         }
       ],
       "texts": [],
-      "visualJob": "surprise",
+      "visualJob": "contrast",
       "visualArc": {
-        "startState": "apparent_security",
-        "endState": "sudden_fracture",
-        "transformation": "shrink"
+        "startState": "default_path",
+        "endState": "intentional_path",
+        "transformation": "shift_focus"
       },
       "attention": [
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "CONTRADICTION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-243",
@@ -20990,7 +22470,13 @@
       "attention": [
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "TENSION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": true
+      }
     },
     {
       "id": "scene-244",
@@ -21079,7 +22565,13 @@
         "partner",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "TENSION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": true
+      }
     },
     {
       "id": "scene-245",
@@ -21172,7 +22664,13 @@
         "character",
         "text",
         "motif"
-      ]
+      ],
+      "narrative": {
+        "function": "REVEAL",
+        "escalates": true,
+        "conceptual": true,
+        "emotional": false
+      }
     },
     {
       "id": "scene-246",
@@ -21248,7 +22746,13 @@
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "SETUP",
+        "escalates": false,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-247",
@@ -21328,17 +22832,23 @@
         }
       ],
       "texts": [],
-      "visualJob": "surprise",
+      "visualJob": "contrast",
       "visualArc": {
-        "startState": "apparent_security",
-        "endState": "sudden_fracture",
-        "transformation": "shrink"
+        "startState": "default_path",
+        "endState": "intentional_path",
+        "transformation": "shift_focus"
       },
       "attention": [
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "CONTRADICTION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-248",
@@ -21407,7 +22917,7 @@
           "at": 18
         }
       ],
-      "visualJob": "demonstrate",
+      "visualJob": "explain",
       "visualArc": {
         "startState": "normal",
         "endState": "normal",
@@ -21417,7 +22927,13 @@
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "EXPLANATION",
+        "escalates": false,
+        "conceptual": true,
+        "emotional": false
+      }
     },
     {
       "id": "scene-249",
@@ -21507,7 +23023,13 @@
         "partner",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "TENSION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": true
+      }
     },
     {
       "id": "scene-250",
@@ -21593,7 +23115,13 @@
         "character",
         "text",
         "motif"
-      ]
+      ],
+      "narrative": {
+        "function": "REVEAL",
+        "escalates": true,
+        "conceptual": true,
+        "emotional": false
+      }
     },
     {
       "id": "scene-251",
@@ -21656,16 +23184,22 @@
         }
       ],
       "texts": [],
-      "visualJob": "ground",
+      "visualJob": "contrast",
       "visualArc": {
-        "startState": "normal",
-        "endState": "normal",
-        "transformation": "none"
+        "startState": "default_path",
+        "endState": "intentional_path",
+        "transformation": "shift_focus"
       },
       "attention": [
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "CONTRADICTION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-252",
@@ -21746,17 +23280,23 @@
           "at": 3
         }
       ],
-      "visualJob": "surprise",
+      "visualJob": "contrast",
       "visualArc": {
-        "startState": "apparent_security",
-        "endState": "sudden_fracture",
-        "transformation": "shrink"
+        "startState": "default_path",
+        "endState": "intentional_path",
+        "transformation": "shift_focus"
       },
       "attention": [
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "CONTRADICTION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-253",
@@ -21836,7 +23376,13 @@
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "TENSION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": true
+      }
     },
     {
       "id": "scene-254",
@@ -21915,7 +23461,13 @@
         "character",
         "text",
         "motif"
-      ]
+      ],
+      "narrative": {
+        "function": "REVEAL",
+        "escalates": true,
+        "conceptual": true,
+        "emotional": false
+      }
     },
     {
       "id": "scene-255",
@@ -21987,17 +23539,23 @@
         }
       ],
       "texts": [],
-      "visualJob": "ground",
+      "visualJob": "escalate",
       "visualArc": {
-        "startState": "stable",
-        "endState": "focused",
-        "transformation": "grow"
+        "startState": "under_control",
+        "endState": "overwhelmed",
+        "transformation": "overload"
       },
       "attention": [
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "TENSION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": true
+      }
     },
     {
       "id": "scene-256",
@@ -22067,17 +23625,23 @@
         }
       ],
       "texts": [],
-      "visualJob": "surprise",
+      "visualJob": "contrast",
       "visualArc": {
-        "startState": "apparent_security",
-        "endState": "sudden_fracture",
-        "transformation": "shrink"
+        "startState": "default_path",
+        "endState": "intentional_path",
+        "transformation": "shift_focus"
       },
       "attention": [
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "CONTRADICTION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-257",
@@ -22171,7 +23735,13 @@
         "partner",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "TENSION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": true
+      }
     },
     {
       "id": "scene-258",
@@ -22252,7 +23822,13 @@
         "character",
         "text",
         "motif"
-      ]
+      ],
+      "narrative": {
+        "function": "REVEAL",
+        "escalates": true,
+        "conceptual": true,
+        "emotional": false
+      }
     },
     {
       "id": "scene-259",
@@ -22331,7 +23907,13 @@
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "SETUP",
+        "escalates": false,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-260",
@@ -22421,7 +24003,13 @@
         "partner",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "CONTRADICTION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-261",
@@ -22522,7 +24110,13 @@
         "partner",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "TENSION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": true
+      }
     },
     {
       "id": "scene-262",
@@ -22603,7 +24197,13 @@
         "character",
         "text",
         "motif"
-      ]
+      ],
+      "narrative": {
+        "function": "REVEAL",
+        "escalates": true,
+        "conceptual": true,
+        "emotional": false
+      }
     },
     {
       "id": "scene-263",
@@ -22669,17 +24269,24 @@
         }
       ],
       "texts": [],
-      "visualJob": "ground",
+      "visualJob": "surprise",
       "visualArc": {
-        "startState": "normal",
-        "endState": "normal",
-        "transformation": "none"
+        "startState": "apparent_security",
+        "endState": "sudden_fracture",
+        "transformation": "shrink"
       },
       "attention": [
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "QUESTION",
+        "payoffPromise": "promise-12",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-264",
@@ -22750,17 +24357,23 @@
         }
       ],
       "texts": [],
-      "visualJob": "surprise",
+      "visualJob": "contrast",
       "visualArc": {
-        "startState": "apparent_security",
-        "endState": "sudden_fracture",
-        "transformation": "shrink"
+        "startState": "default_path",
+        "endState": "intentional_path",
+        "transformation": "shift_focus"
       },
       "attention": [
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "CONTRADICTION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-265",
@@ -22830,7 +24443,13 @@
       "attention": [
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "EXPLANATION",
+        "escalates": false,
+        "conceptual": true,
+        "emotional": false
+      }
     },
     {
       "id": "scene-266",
@@ -22919,7 +24538,13 @@
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "TENSION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": true
+      }
     },
     {
       "id": "scene-267",
@@ -22999,17 +24624,23 @@
         }
       ],
       "texts": [],
-      "visualJob": "reveal",
+      "visualJob": "contrast",
       "visualArc": {
-        "startState": "surface_facade",
-        "endState": "underlying_reality",
-        "transformation": "reveal_truth"
+        "startState": "default_path",
+        "endState": "intentional_path",
+        "transformation": "shift_focus"
       },
       "attention": [
         "character",
-        "text",
-        "motif"
-      ]
+        "motif",
+        "text"
+      ],
+      "narrative": {
+        "function": "CONTRADICTION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-268",
@@ -23079,17 +24710,23 @@
         }
       ],
       "texts": [],
-      "visualJob": "ground",
+      "visualJob": "escalate",
       "visualArc": {
-        "startState": "normal",
-        "endState": "normal",
-        "transformation": "none"
+        "startState": "under_control",
+        "endState": "overwhelmed",
+        "transformation": "overload"
       },
       "attention": [
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "TENSION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": true
+      }
     },
     {
       "id": "scene-269",
@@ -23160,17 +24797,23 @@
         }
       ],
       "texts": [],
-      "visualJob": "surprise",
+      "visualJob": "contrast",
       "visualArc": {
-        "startState": "apparent_security",
-        "endState": "sudden_fracture",
-        "transformation": "shrink"
+        "startState": "default_path",
+        "endState": "intentional_path",
+        "transformation": "shift_focus"
       },
       "attention": [
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "CONTRADICTION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-270",
@@ -23250,7 +24893,13 @@
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "TENSION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": true
+      }
     },
     {
       "id": "scene-271",
@@ -23341,7 +24990,14 @@
         "partner",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "REVEAL",
+        "payoff": "promise-12",
+        "escalates": true,
+        "conceptual": true,
+        "emotional": false
+      }
     },
     {
       "id": "scene-272",
@@ -23416,7 +25072,13 @@
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "SETUP",
+        "escalates": false,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-273",
@@ -23478,16 +25140,22 @@
         }
       ],
       "texts": [],
-      "visualJob": "surprise",
+      "visualJob": "contrast",
       "visualArc": {
-        "startState": "apparent_security",
-        "endState": "sudden_fracture",
-        "transformation": "shrink"
+        "startState": "default_path",
+        "endState": "intentional_path",
+        "transformation": "shift_focus"
       },
       "attention": [
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "CONTRADICTION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-274",
@@ -23577,7 +25245,13 @@
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "EXPLANATION",
+        "escalates": false,
+        "conceptual": true,
+        "emotional": false
+      }
     },
     {
       "id": "scene-275",
@@ -23643,17 +25317,23 @@
         }
       ],
       "texts": [],
-      "visualJob": "escalate",
+      "visualJob": "contrast",
       "visualArc": {
-        "startState": "under_control",
-        "endState": "overwhelmed",
-        "transformation": "overload"
+        "startState": "default_path",
+        "endState": "intentional_path",
+        "transformation": "shift_focus"
       },
       "attention": [
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "CONTRADICTION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-276",
@@ -23742,7 +25422,13 @@
         "character",
         "text",
         "motif"
-      ]
+      ],
+      "narrative": {
+        "function": "REVEAL",
+        "escalates": true,
+        "conceptual": true,
+        "emotional": false
+      }
     },
     {
       "id": "scene-277",
@@ -23812,17 +25498,23 @@
         }
       ],
       "texts": [],
-      "visualJob": "ground",
+      "visualJob": "contrast",
       "visualArc": {
-        "startState": "normal",
-        "endState": "normal",
-        "transformation": "none"
+        "startState": "default_path",
+        "endState": "intentional_path",
+        "transformation": "shift_focus"
       },
       "attention": [
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "CONTRADICTION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-278",
@@ -23891,17 +25583,23 @@
           "at": 27
         }
       ],
-      "visualJob": "surprise",
+      "visualJob": "contrast",
       "visualArc": {
-        "startState": "apparent_security",
-        "endState": "sudden_fracture",
-        "transformation": "shrink"
+        "startState": "default_path",
+        "endState": "intentional_path",
+        "transformation": "shift_focus"
       },
       "attention": [
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "CONTRADICTION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-279",
@@ -23970,7 +25668,13 @@
       "attention": [
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "TENSION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": true
+      }
     },
     {
       "id": "scene-280",
@@ -24046,7 +25750,13 @@
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "TENSION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": true
+      }
     },
     {
       "id": "scene-281",
@@ -24140,7 +25850,13 @@
         "character",
         "text",
         "motif"
-      ]
+      ],
+      "narrative": {
+        "function": "REVEAL",
+        "escalates": true,
+        "conceptual": true,
+        "emotional": false
+      }
     },
     {
       "id": "scene-282",
@@ -24220,17 +25936,23 @@
         }
       ],
       "texts": [],
-      "visualJob": "ground",
+      "visualJob": "escalate",
       "visualArc": {
-        "startState": "stable",
-        "endState": "focused",
-        "transformation": "grow"
+        "startState": "under_control",
+        "endState": "overwhelmed",
+        "transformation": "overload"
       },
       "attention": [
         "partner",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "TENSION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": true
+      }
     },
     {
       "id": "scene-283",
@@ -24309,17 +26031,23 @@
           "at": 145
         }
       ],
-      "visualJob": "surprise",
+      "visualJob": "contrast",
       "visualArc": {
-        "startState": "apparent_security",
-        "endState": "sudden_fracture",
-        "transformation": "shrink"
+        "startState": "default_path",
+        "endState": "intentional_path",
+        "transformation": "shift_focus"
       },
       "attention": [
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "CONTRADICTION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-284",
@@ -24401,7 +26129,13 @@
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "TENSION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": true
+      }
     },
     {
       "id": "scene-285",
@@ -24482,7 +26216,13 @@
         "character",
         "text",
         "motif"
-      ]
+      ],
+      "narrative": {
+        "function": "REVEAL",
+        "escalates": true,
+        "conceptual": true,
+        "emotional": false
+      }
     },
     {
       "id": "scene-286",
@@ -24571,7 +26311,13 @@
         "partner",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "SETUP",
+        "escalates": false,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-287",
@@ -24637,17 +26383,23 @@
         }
       ],
       "texts": [],
-      "visualJob": "surprise",
+      "visualJob": "contrast",
       "visualArc": {
-        "startState": "apparent_security",
-        "endState": "sudden_fracture",
-        "transformation": "shrink"
+        "startState": "default_path",
+        "endState": "intentional_path",
+        "transformation": "shift_focus"
       },
       "attention": [
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "CONTRADICTION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-288",
@@ -24717,7 +26469,7 @@
         }
       ],
       "texts": [],
-      "visualJob": "demonstrate",
+      "visualJob": "explain",
       "visualArc": {
         "startState": "stable",
         "endState": "focused",
@@ -24727,7 +26479,13 @@
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "EXPLANATION",
+        "escalates": false,
+        "conceptual": true,
+        "emotional": false
+      }
     },
     {
       "id": "scene-289",
@@ -24818,7 +26576,13 @@
         "partner",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "TENSION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": true
+      }
     },
     {
       "id": "scene-290",
@@ -24919,7 +26683,13 @@
       "attention": [
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "REVEAL",
+        "escalates": true,
+        "conceptual": true,
+        "emotional": false
+      }
     },
     {
       "id": "scene-291",
@@ -24988,17 +26758,23 @@
           "at": 180
         }
       ],
-      "visualJob": "ground",
+      "visualJob": "contrast",
       "visualArc": {
-        "startState": "stable",
-        "endState": "focused",
-        "transformation": "grow"
+        "startState": "default_path",
+        "endState": "intentional_path",
+        "transformation": "shift_focus"
       },
       "attention": [
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "CONTRADICTION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-292",
@@ -25079,17 +26855,23 @@
         }
       ],
       "texts": [],
-      "visualJob": "surprise",
+      "visualJob": "contrast",
       "visualArc": {
-        "startState": "apparent_security",
-        "endState": "sudden_fracture",
-        "transformation": "shrink"
+        "startState": "default_path",
+        "endState": "intentional_path",
+        "transformation": "shift_focus"
       },
       "attention": [
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "CONTRADICTION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-293",
@@ -25180,7 +26962,13 @@
         "character",
         "text",
         "motif"
-      ]
+      ],
+      "narrative": {
+        "function": "REVEAL",
+        "escalates": true,
+        "conceptual": true,
+        "emotional": false
+      }
     },
     {
       "id": "scene-294",
@@ -25259,7 +27047,13 @@
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "SETUP",
+        "escalates": false,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-295",
@@ -25322,16 +27116,22 @@
         }
       ],
       "texts": [],
-      "visualJob": "surprise",
+      "visualJob": "contrast",
       "visualArc": {
-        "startState": "apparent_security",
-        "endState": "sudden_fracture",
-        "transformation": "shrink"
+        "startState": "default_path",
+        "endState": "intentional_path",
+        "transformation": "shift_focus"
       },
       "attention": [
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "CONTRADICTION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-296",
@@ -25436,7 +27236,13 @@
         "partner",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "TENSION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": true
+      }
     },
     {
       "id": "scene-297",
@@ -25518,7 +27324,13 @@
         "character",
         "text",
         "motif"
-      ]
+      ],
+      "narrative": {
+        "function": "REVEAL",
+        "escalates": true,
+        "conceptual": true,
+        "emotional": false
+      }
     },
     {
       "id": "scene-298",
@@ -25594,7 +27406,13 @@
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "SETUP",
+        "escalates": false,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-299",
@@ -25684,17 +27502,23 @@
         }
       ],
       "texts": [],
-      "visualJob": "surprise",
+      "visualJob": "contrast",
       "visualArc": {
-        "startState": "apparent_security",
-        "endState": "sudden_fracture",
-        "transformation": "shrink"
+        "startState": "default_path",
+        "endState": "intentional_path",
+        "transformation": "shift_focus"
       },
       "attention": [
         "partner",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "CONTRADICTION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-300",
@@ -25776,17 +27600,23 @@
           "at": 89
         }
       ],
-      "visualJob": "escalate",
+      "visualJob": "contrast",
       "visualArc": {
-        "startState": "under_control",
-        "endState": "overwhelmed",
-        "transformation": "overload"
+        "startState": "default_path",
+        "endState": "intentional_path",
+        "transformation": "shift_focus"
       },
       "attention": [
         "partner",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "CONTRADICTION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-301",
@@ -25871,7 +27701,13 @@
         "character",
         "text",
         "motif"
-      ]
+      ],
+      "narrative": {
+        "function": "REVEAL",
+        "escalates": true,
+        "conceptual": true,
+        "emotional": false
+      }
     },
     {
       "id": "scene-302",
@@ -25940,17 +27776,24 @@
           "at": 219
         }
       ],
-      "visualJob": "ground",
+      "visualJob": "surprise",
       "visualArc": {
-        "startState": "normal",
-        "endState": "normal",
-        "transformation": "none"
+        "startState": "apparent_security",
+        "endState": "sudden_fracture",
+        "transformation": "shrink"
       },
       "attention": [
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "QUESTION",
+        "payoffPromise": "promise-13",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-303",
@@ -26010,16 +27853,22 @@
         }
       ],
       "texts": [],
-      "visualJob": "surprise",
+      "visualJob": "contrast",
       "visualArc": {
-        "startState": "apparent_security",
-        "endState": "sudden_fracture",
-        "transformation": "shrink"
+        "startState": "default_path",
+        "endState": "intentional_path",
+        "transformation": "shift_focus"
       },
       "attention": [
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "CONTRADICTION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-304",
@@ -26085,7 +27934,7 @@
         }
       ],
       "texts": [],
-      "visualJob": "demonstrate",
+      "visualJob": "explain",
       "visualArc": {
         "startState": "normal",
         "endState": "normal",
@@ -26095,7 +27944,13 @@
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "EXPLANATION",
+        "escalates": false,
+        "conceptual": true,
+        "emotional": false
+      }
     },
     {
       "id": "scene-305",
@@ -26175,7 +28030,13 @@
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "TENSION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": true
+      }
     },
     {
       "id": "scene-306",
@@ -26268,7 +28129,14 @@
         "partner",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "REVEAL",
+        "payoff": "promise-13",
+        "escalates": true,
+        "conceptual": true,
+        "emotional": false
+      }
     },
     {
       "id": "scene-307",
@@ -26348,7 +28216,13 @@
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "SETUP",
+        "escalates": false,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-308",
@@ -26433,17 +28307,23 @@
           "at": 123
         }
       ],
-      "visualJob": "surprise",
+      "visualJob": "contrast",
       "visualArc": {
-        "startState": "apparent_security",
-        "endState": "sudden_fracture",
-        "transformation": "shrink"
+        "startState": "default_path",
+        "endState": "intentional_path",
+        "transformation": "shift_focus"
       },
       "attention": [
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "CONTRADICTION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-309",
@@ -26514,7 +28394,13 @@
       "attention": [
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "TENSION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": true
+      }
     },
     {
       "id": "scene-310",
@@ -26605,7 +28491,13 @@
         "character",
         "text",
         "motif"
-      ]
+      ],
+      "narrative": {
+        "function": "REVEAL",
+        "escalates": true,
+        "conceptual": true,
+        "emotional": false
+      }
     },
     {
       "id": "scene-311",
@@ -26682,7 +28574,13 @@
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "SETUP",
+        "escalates": false,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-312",
@@ -26753,17 +28651,23 @@
         }
       ],
       "texts": [],
-      "visualJob": "surprise",
+      "visualJob": "contrast",
       "visualArc": {
-        "startState": "apparent_security",
-        "endState": "sudden_fracture",
-        "transformation": "shrink"
+        "startState": "default_path",
+        "endState": "intentional_path",
+        "transformation": "shift_focus"
       },
       "attention": [
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "CONTRADICTION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-313",
@@ -26864,7 +28768,13 @@
         "partner",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "TENSION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": true
+      }
     },
     {
       "id": "scene-314",
@@ -26946,7 +28856,13 @@
         "character",
         "text",
         "motif"
-      ]
+      ],
+      "narrative": {
+        "function": "REVEAL",
+        "escalates": true,
+        "conceptual": true,
+        "emotional": false
+      }
     },
     {
       "id": "scene-315",
@@ -27037,7 +28953,13 @@
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "SETUP",
+        "escalates": false,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-316",
@@ -27131,7 +29053,13 @@
         "partner",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "CONTRADICTION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-317",
@@ -27211,7 +29139,13 @@
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "TENSION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": true
+      }
     },
     {
       "id": "scene-318",
@@ -27312,7 +29246,13 @@
         "partner",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "REVEAL",
+        "escalates": true,
+        "conceptual": true,
+        "emotional": false
+      }
     },
     {
       "id": "scene-319",
@@ -27403,7 +29343,13 @@
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "SETUP",
+        "escalates": false,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-320",
@@ -27483,17 +29429,23 @@
         }
       ],
       "texts": [],
-      "visualJob": "surprise",
+      "visualJob": "contrast",
       "visualArc": {
-        "startState": "apparent_security",
-        "endState": "sudden_fracture",
-        "transformation": "shrink"
+        "startState": "default_path",
+        "endState": "intentional_path",
+        "transformation": "shift_focus"
       },
       "attention": [
         "partner",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "CONTRADICTION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-321",
@@ -27583,7 +29535,13 @@
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "TENSION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": true
+      }
     },
     {
       "id": "scene-322",
@@ -27669,7 +29627,13 @@
         "character",
         "text",
         "motif"
-      ]
+      ],
+      "narrative": {
+        "function": "REVEAL",
+        "escalates": true,
+        "conceptual": true,
+        "emotional": false
+      }
     },
     {
       "id": "scene-323",
@@ -27751,7 +29715,13 @@
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "SETUP",
+        "escalates": false,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-324",
@@ -27823,17 +29793,23 @@
           "at": 140
         }
       ],
-      "visualJob": "surprise",
+      "visualJob": "contrast",
       "visualArc": {
-        "startState": "apparent_security",
-        "endState": "sudden_fracture",
-        "transformation": "shrink"
+        "startState": "default_path",
+        "endState": "intentional_path",
+        "transformation": "shift_focus"
       },
       "attention": [
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "CONTRADICTION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-325",
@@ -27913,7 +29889,13 @@
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "TENSION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": true
+      }
     },
     {
       "id": "scene-326",
@@ -27993,17 +29975,23 @@
         }
       ],
       "texts": [],
-      "visualJob": "reveal",
+      "visualJob": "escalate",
       "visualArc": {
-        "startState": "surface_facade",
-        "endState": "underlying_reality",
-        "transformation": "reveal_truth"
+        "startState": "under_control",
+        "endState": "overwhelmed",
+        "transformation": "overload"
       },
       "attention": [
         "character",
-        "text",
-        "motif"
-      ]
+        "motif",
+        "text"
+      ],
+      "narrative": {
+        "function": "TENSION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": true
+      }
     },
     {
       "id": "scene-327",
@@ -28088,7 +30076,13 @@
         "partner",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "SETUP",
+        "escalates": false,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-328",
@@ -28159,17 +30153,23 @@
         }
       ],
       "texts": [],
-      "visualJob": "surprise",
+      "visualJob": "contrast",
       "visualArc": {
-        "startState": "apparent_security",
-        "endState": "sudden_fracture",
-        "transformation": "shrink"
+        "startState": "default_path",
+        "endState": "intentional_path",
+        "transformation": "shift_focus"
       },
       "attention": [
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "CONTRADICTION",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-329",
@@ -28231,16 +30231,23 @@
         }
       ],
       "texts": [],
-      "visualJob": "escalate",
+      "visualJob": "surprise",
       "visualArc": {
-        "startState": "under_control",
-        "endState": "overwhelmed",
-        "transformation": "overload"
+        "startState": "apparent_security",
+        "endState": "sudden_fracture",
+        "transformation": "shrink"
       },
       "attention": [
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "QUESTION",
+        "payoffPromise": "promise-14",
+        "escalates": true,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-330",
@@ -28322,7 +30329,14 @@
         "character",
         "text",
         "motif"
-      ]
+      ],
+      "narrative": {
+        "function": "REVEAL",
+        "payoff": "promise-14",
+        "escalates": true,
+        "conceptual": true,
+        "emotional": false
+      }
     },
     {
       "id": "scene-331",
@@ -28402,7 +30416,13 @@
         "character",
         "motif",
         "text"
-      ]
+      ],
+      "narrative": {
+        "function": "SETUP",
+        "escalates": false,
+        "conceptual": false,
+        "emotional": false
+      }
     },
     {
       "id": "scene-332",
@@ -28474,7 +30494,13 @@
         "character",
         "text",
         "motif"
-      ]
+      ],
+      "narrative": {
+        "function": "REVEAL",
+        "escalates": true,
+        "conceptual": true,
+        "emotional": false
+      }
     }
   ],
   "captions": [

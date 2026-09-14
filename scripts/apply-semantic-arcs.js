@@ -16,6 +16,7 @@ const fs = require("fs");
 const path = require("path");
 const { abs } = require("./lib/paths");
 const { directSemanticBeat } = require("./lib/antidote-semantic-director");
+const { directNarrativeFlow } = require("./lib/antidote-narrative-rules");
 
 const args = Object.fromEntries(
   process.argv.slice(2).map((a) => {
@@ -42,9 +43,10 @@ const scenes = config.scenes || [];
 
 // Load or derive sequence arcs
 const seqPath = path.join(path.dirname(configPath), "sequence-arcs.json");
+let seqData = { sequences: [] };
 let roleMap = new Map();
 if (fs.existsSync(seqPath)) {
-  const seqData = JSON.parse(fs.readFileSync(seqPath, "utf8"));
+  seqData = JSON.parse(fs.readFileSync(seqPath, "utf8"));
   for (const seq of seqData.sequences || []) {
     for (const b of seq.beats || []) {
       roleMap.set(b.index, b.role);
@@ -52,16 +54,31 @@ if (fs.existsSync(seqPath)) {
   }
 }
 
+// 1. Story Director Layer: Assign narrative functions and promise/payoff pairings
+const narrativeFlow = directNarrativeFlow(scenes, seqData);
+
 let rewrittenTexts = 0;
 let dynamicArcs = 0;
 
 for (let i = 0; i < scenes.length; i++) {
   const s = scenes[i];
   const role = roleMap.get(i) || (i % 4 === 0 ? "setup" : i % 4 === 1 ? "question" : i % 4 === 2 ? "complication" : "reveal");
-  
+  const n = narrativeFlow[i] || { function: "EXPLANATION", escalates: false };
+
+  s.narrative = {
+    function: n.function,
+    ...(n.payoffPromise ? { payoffPromise: n.payoffPromise } : {}),
+    ...(n.payoff ? { payoff: n.payoff } : {}),
+    escalates: n.escalates,
+    conceptual: n.conceptual,
+    emotional: n.emotional,
+  };
+
+  // 2. Visual Director Layer: Driven directly by the Story Director's function
   const semantic = directSemanticBeat({
     scene: s,
     sequenceRole: role,
+    narrativeFunction: n.function,
     index: i,
     totalScenes: scenes.length,
   });

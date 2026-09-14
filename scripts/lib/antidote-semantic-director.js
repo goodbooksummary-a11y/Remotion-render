@@ -97,31 +97,67 @@ function deriveComplementaryPunch(narration, rawCallout) {
 /**
  * Assigns visualJob, visualArc, attention milestones, and non-redundant text.
  */
-function directSemanticBeat({ scene, sequenceRole, index, totalScenes }) {
+function directSemanticBeat({ scene, sequenceRole, narrativeFunction, index, totalScenes }) {
   const narration = scene._narration || "";
   const isTitle = index === 0;
 
-  // 1. Visual Job
+  // 1. Visual Job (Story Function → Visual Job mapping)
   let visualJob = "explain";
-  switch (sequenceRole) {
-    case "setup":
-      visualJob = isTitle ? "ground" : "ground";
-      break;
-    case "question":
-      visualJob = /\b(vs|or|instead|however)\b/i.test(narration) ? "contrast" : "surprise";
-      break;
-    case "partial_answer":
-      visualJob = /\b(\d+|percent|rate|scale)\b/i.test(narration) ? "quantify" : "demonstrate";
-      break;
-    case "complication":
-      visualJob = "escalate";
-      break;
-    case "reveal":
-      visualJob = "reveal";
-      break;
-    default:
-      visualJob = "reinforce";
-      break;
+  if (narrativeFunction) {
+    switch (narrativeFunction) {
+      case "HOOK":
+        visualJob = "surprise";
+        break;
+      case "QUESTION":
+        visualJob = /\b(vs|or|instead|however)\b/i.test(narration) ? "contrast" : "surprise";
+        break;
+      case "CONTRADICTION":
+        visualJob = "contrast";
+        break;
+      case "TENSION":
+        visualJob = "escalate";
+        break;
+      case "REVEAL":
+        visualJob = "reveal";
+        break;
+      case "PAYOFF":
+        visualJob = "reinforce";
+        break;
+      case "TRANSITION":
+        visualJob = "ground";
+        break;
+      case "REFLECTION":
+        visualJob = "reinforce";
+        break;
+      case "SETUP":
+        visualJob = "ground";
+        break;
+      case "EXPLANATION":
+      default:
+        visualJob = /\b(\d+|percent|rate|scale|compounds?)\b/i.test(narration) ? "quantify" : "explain";
+        break;
+    }
+  } else {
+    switch (sequenceRole) {
+      case "setup":
+        visualJob = isTitle ? "ground" : "ground";
+        break;
+      case "question":
+        visualJob = /\b(vs|or|instead|however)\b/i.test(narration) ? "contrast" : "surprise";
+        break;
+      case "partial_answer":
+        visualJob = /\b(\d+|percent|rate|scale)\b/i.test(narration) ? "quantify" : "demonstrate";
+        break;
+      case "complication":
+        visualJob = "escalate";
+        break;
+      case "reveal":
+        visualJob = "reveal";
+        break;
+      default:
+        visualJob = "reinforce";
+        break;
+    }
   }
 
   // 2. Visual Arc (State Progression)

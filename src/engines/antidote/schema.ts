@@ -554,6 +554,34 @@ export type AttentionTarget = z.infer<typeof attentionTarget>;
 export const attentionMilestonesSchema = z.array(attentionTarget);
 export type AttentionMilestonesSpec = z.infer<typeof attentionMilestonesSchema>;
 
+// ── NARRATIVE DIRECTOR CORE (Antidote God Mode: Phase 1) ──────────────────────
+// Answers "Why does this beat exist?". Governs macro tension, curiosity gaps,
+// and promise/payoff cycles so the film moves forward relentlessly.
+export const narrativeFunction = z.enum([
+  "HOOK",           // Initial attention-grabber / opening hook
+  "QUESTION",       // Opens a cognitive curiosity gap / probe
+  "SETUP",          // Establishes context, baseline premise, or promise
+  "EXPLANATION",    // Unpacks mechanism / conceptual information
+  "TENSION",        // Emotional or situational friction rises
+  "CONTRADICTION",  // Subverts conventional wisdom / counter-intuitive turn
+  "REVEAL",         // Breakthrough insight / unmasking the truth
+  "PAYOFF",         // Fulfills an earlier promise / resolution
+  "TRANSITION",     // Bridge between chapters / conceptual shift
+  "REFLECTION",     // Contemplative takeaways / philosophical pause
+]);
+export type NarrativeFunction = z.infer<typeof narrativeFunction>;
+
+export const narrativeSignalsSchema = z.object({
+  function: narrativeFunction,
+  nextQuestion: z.string().optional(),     // New question or tension raised
+  payoffPromise: z.string().optional(),    // Promise ID opened by this beat
+  payoff: z.string().optional(),           // Promise ID resolved by this beat
+  escalates: z.boolean().default(false),   // Does this beat increase the stakes?
+  conceptual: z.boolean().default(false),  // Is it an abstract theoretical principle?
+  emotional: z.boolean().default(false),   // Is it a high-stakes emotional beat?
+});
+export type NarrativeSignalsSpec = z.infer<typeof narrativeSignalsSchema>;
+
 export const sceneSchema = z.object({
   id: z.string(),
   fromFrame: z.number(),
@@ -562,6 +590,8 @@ export const sceneSchema = z.object({
    *  Set by the director's concept lexicon / Claude; drives the illustration shot
    *  + scene icon. Advisory/telemetry — the icon itself lives in `props`. */
   concept: z.string().optional(),
+  /** Story Director Core (God Mode 1.0): Narrative purpose, promise/payoff tracking, and tension signals. */
+  narrative: narrativeSignalsSchema.optional(),
   /** Semantic Visual Alignment: the narrative job this beat performs. */
   visualJob: visualJob.optional(),
   /** Visual Progression: intra-scene transformation from startState to endState. */
