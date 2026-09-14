@@ -78,7 +78,7 @@ const del = (p, viaGit) => {
   const tracked = viaGit && isTracked(p);
   console.log(`  🗑 ${p}  (${MB(bytes)} MB)${tracked ? " [git rm]" : ""}`);
   if (!DRY) {
-    if (tracked) execSync(`git rm -r --quiet -- "${p}"`, { cwd: ROOT });
+    if (tracked) execSync(`git rm -rf --quiet -- "${p}"`, { cwd: ROOT });
     else fs.rmSync(abs(p), { recursive: true, force: true });
   }
   freed += bytes;

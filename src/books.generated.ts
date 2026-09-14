@@ -42,6 +42,7 @@ import cfg_slow_productivity from '../books/slow-productivity/config.vox.json';
 import meta_slow_productivity from '../books/slow-productivity/youtube-meta.json';
 import cfg_sway from '../books/sway/config.vox.json';
 import meta_sway from '../books/sway/youtube-meta.json';
+import cfg_the_chosen from '../books/the-chosen/config.vox.json';
 import cfg_the_color_purple from '../books/the-color-purple/config.vox.json';
 import meta_the_color_purple from '../books/the-color-purple/youtube-meta.json';
 import cfg_the_frozen_river from '../books/the-frozen-river/config.vox.json';
@@ -90,8 +91,7 @@ import ant_million_dollar_weekend from '../books/million-dollar-weekend/config.a
 import ant_meta_million_dollar_weekend from '../books/million-dollar-weekend/youtube-meta.json';
 import ant_psychology_of_money from '../books/psychology-of-money/config.antidote.json';
 import ant_meta_psychology_of_money from '../books/psychology-of-money/youtube-meta.json';
-import ant_siddhartha from '../books/siddhartha/config.antidote.json';
-import ant_meta_siddhartha from '../books/siddhartha/youtube-meta.json';
+import ant_stargirl from '../books/stargirl/config.antidote.json';
 import ant_supercommunicators from '../books/supercommunicators/config.antidote.json';
 import ant_meta_supercommunicators from '../books/supercommunicators/youtube-meta.json';
 import ant_the_power_of_your_subconscious_mind from '../books/the-power-of-your-subconscious-mind/config.antidote.json';
@@ -137,9 +137,9 @@ export const BOOK_PALETTES: Record<string, Palette> = {
   'outlive': { paper: '#DBE7EA', ink: '#142229', red: '#1FA0A6', gold: '#E4A63C' },
   'project-hail-mary': { paper: '#0B1120', ink: '#E8EDF3', red: '#FF6B35', gold: '#00D4AA' },
   'psychology-of-money': { paper: '#DEE4DC', ink: '#17201A', red: '#2F8F5B', gold: '#D9A93A' },
-  'siddhartha': { paper: '#F6F1E7', ink: '#1A1714', red: '#C04A26', gold: '#D97706' },
   'single-dad-dilemma': { paper: '#F1E4E1', ink: '#2A1D22', red: '#D64A6B', gold: '#E0A25C' },
   'slow-productivity': { paper: '#E6E5DE', ink: '#1C1E22', red: '#3E7CA8', gold: '#C99A48' },
+  'stargirl': { paper: '#FDF9F0', ink: '#1C1917', red: '#E0533C', gold: '#F59E0B' },
   'sway': { paper: '#E4E1E8', ink: '#1C1822', red: '#7C3AED', gold: '#D9A13C' },
   'the-iliad': { paper: '#F4EFE6', ink: '#141312', red: '#9E2A2B', gold: '#C28833' },
   'the-mountain-is-you': { paper: '#DBE0DE', ink: '#22303C', red: '#E4762B', gold: '#4E93A0' },
@@ -162,7 +162,7 @@ export const BOOK_BG_TINT: Record<string, boolean> = {
   'good-energy': true,
   'i-m-thinking-of-ending-things': true,
   'million-dollar-weekend': true,
-  'siddhartha': true,
+  'stargirl': true,
   'supercommunicators': true,
   'the-handmaids-tale': true,
   'the-power-of-your-subconscious-mind': true,
@@ -295,6 +295,12 @@ export const BOOKS: BookEntry[] = [
     engine: 'vox',
     config: cfg_sway as any,
     meta: meta_sway as any,
+  },
+  {
+    slug: 'the-chosen',
+    engine: 'vox',
+    config: cfg_the_chosen as any,
+    meta: null,
   },
   {
     slug: 'the-color-purple',
@@ -444,10 +450,10 @@ export const ANTIDOTE_BOOKS: AntidoteBookEntry[] = [
     meta: ant_meta_psychology_of_money as any,
   },
   {
-    slug: 'siddhartha',
+    slug: 'stargirl',
     engine: 'antidote',
-    config: ant_siddhartha as any,
-    meta: ant_meta_siddhartha as any,
+    config: ant_stargirl as any,
+    meta: null,
   },
   {
     slug: 'supercommunicators',

@@ -1,4 +1,4 @@
-﻿# 📚 Published Books History Log
+# 📚 Published Books History Log
 
 Permanent record of all book summary videos produced and published to the YouTube channel (US market).
 This log preserves full publishing packs, SEO metadata, chapters, and production specs without retaining multi-gigabyte video render files on local disk.
@@ -13,6 +13,7 @@ This log preserves full publishing packs, SEO metadata, chapters, and production
 | 2 | `the-iliad` | **The Iliad** — Homer | 2026-09-03 | 36:12 | *The Iliad Summary: Homer's Epic Was Never About Glory* | `THE PRIZE IS A LIE` |
 | 3 | `single-dad-dilemma`| **Single Dad Dilemma** — Amanda Prowse | 2026-09-02 | 41:20 | *Single Dad Dilemma — Full Book Breakdown & Analysis* | `HE WAS ALONE` |
 | 4 | `project-hail-mary` | **Project Hail Mary** — Andy Weir | 2026-08-28 | 38:45 | *Project Hail Mary Explained: Humanity's Last Desperate Gamble* | `AMAZE AMAZE AMAZE` |
+| 5 | `siddhartha` | **Siddhartha** — Hermann Hesse | 2026-09-14 | 46:36 | *Siddhartha Summary (Hermann Hesse) — The Truth About Enlightenment* | `HE WALKED AWAY` |
 
 ---
 
@@ -114,3 +115,59 @@ The Iliad summary, The Iliad Homer, Homer Iliad, The Iliad explained, The Iliad 
 ```
 
 ---
+
+### 3. Siddhartha — Hermann Hesse
+- **Slug:** `siddhartha`
+- **Engine:** Antidote (`Antidote-siddhartha`)
+- **Published Date:** September 14, 2026
+- **Video Specs:** 46:36 duration · 83,573 frames · 1080p 30fps · Rendered via 10-worker GitHub Actions split pool
+
+#### YouTube Metadata (US Market)
+- **Primary Title:** `Siddhartha Summary (Hermann Hesse) — The Truth About Enlightenment` *(65 chars)*
+- **Alternative Titles:**
+  1. `Hermann Hesse's Siddhartha: Full Analysis & Philosophy Explained`
+  2. `Siddhartha Explained: Why You Must Sin to Achieve Enlightenment`
+  3. `Why Siddhartha Walked Away From the Buddha — Hermann Hesse Analysis`
+  4. `Siddhartha by Hermann Hesse: 8 Life Lessons Most People Miss`
+- **Primary Search Keyword:** `Siddhartha summary`
+- **Thumbnail Hook:** `HE WALKED AWAY`
+
+#### Description & Cold Open Hook
+```text
+Siddhartha meets Gautama Buddha, the only human being in history who achieved complete enlightenment, looks him in the eye, bows, and walks away. Because the moment you follow an enlightened master, you guarantee you will never become one.
+
+That is the radical, central paradox of Hermann Hesse's masterpiece "Siddhartha". This is not a tranquil manual for spiritual awakening—it is a devastating critique of religious discipleship and dogmatic teaching. Hesse proves that wisdom cannot be communicated through words, and enlightenment cannot be inherited from even the most perfect master. To become whole, one cannot bypass greed, lust, suffering, and despair: the detour through the material world is the only path to true awakening.
+
+A deep, chapter-by-chapter philosophical analysis of "Siddhartha" by Hermann Hesse — breaking down his time with the Brahmins, the Samanas, the Buddha in Jetavana Grove, the courtesan Kamala, merchant Kamaswami, and Vasudeva the ferryman by the eternal river.
+
+Best for students, book clubs, and anyone seeking the deeper meaning behind Hesse's classic.
+
+⏱️ Chapters:
+0:00 Why Siddhartha Walked Away From Buddha
+2:37 The Core Thesis: Enlightenment Cannot Be Taught
+4:38 The Brahmin's Cage: Why Piety Can't Awaken You
+6:53 The Samana Illusion: Self-Denial as Hidden Ego
+14:16 Meeting the Buddha: The Flaw of Following a Master
+16:36 Wisdom vs. Knowledge: Why Doctrines Always Fail
+20:31 Kamala & The City: Why Awakening Requires Desire
+23:40 "I Can Think, Wait, Fast": Playing the Worldly Game
+27:01 The Songbird's Death: The Sickness of Samsara
+30:46 The Riverbank: Why You Must Hit Absolute Bottom
+32:31 Vasudeva the Ferryman: The Illusion of Time
+37:25 The Father's Heartbreak: Love Cannot Save the Son
+41:20 The River's Laughter: The Single Chord of Existence
+44:21 The Great Paradox: Every Truth Contains Its Opposite
+45:30 Govinda's Vision: The Dissolving of the Self
+
+🔔 Subscribe for in-depth literary and philosophical breakdowns.
+
+#Siddhartha #BookSummary #HermannHesse #Classics #Philosophy #BookTube
+```
+
+#### Tags
+```text
+Siddhartha summary, Siddhartha Hermann Hesse summary, Siddhartha explained, Siddhartha analysis, Siddhartha full summary, Siddhartha book analysis, Siddhartha book summary, Hermann Hesse Siddhartha, Hermann Hesse, Siddhartha themes, Siddhartha ending explained, Siddhartha philosophy, Siddhartha Gotama Buddha, Siddhartha Kamala, Siddhartha Vasudeva, classics book summary, book review, booktube
+```
+
+---
+
