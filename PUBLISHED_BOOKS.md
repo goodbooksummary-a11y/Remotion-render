@@ -14,6 +14,7 @@ This log preserves full publishing packs, SEO metadata, chapters, and production
 | 3 | `single-dad-dilemma`| **Single Dad Dilemma** — Amanda Prowse | 2026-09-02 | 41:20 | *Single Dad Dilemma — Full Book Breakdown & Analysis* | `HE WAS ALONE` |
 | 4 | `project-hail-mary` | **Project Hail Mary** — Andy Weir | 2026-08-28 | 38:45 | *Project Hail Mary Explained: Humanity's Last Desperate Gamble* | `AMAZE AMAZE AMAZE` |
 | 5 | `siddhartha` | **Siddhartha** — Hermann Hesse | 2026-09-14 | 46:36 | *Siddhartha Summary (Hermann Hesse) — The Truth About Enlightenment* | `HE WALKED AWAY` |
+| 6 | `stargirl` | **Stargirl** — Jerry Spinelli | 2026-09-14 | 24:16 | *Stargirl Summary (Jerry Spinelli) — The Dark Truth of Peer Pressure* | `THE CRIME OF GRACE` |
 
 ---
 
@@ -170,4 +171,54 @@ Siddhartha summary, Siddhartha Hermann Hesse summary, Siddhartha explained, Sidd
 ```
 
 ---
+
+### 6. Stargirl — Jerry Spinelli
+- **Slug:** `stargirl`
+- **Engine:** Antidote (`Antidote-stargirl`)
+- **Published Date:** September 14, 2026
+- **Video Specs:** 24:16 duration · 43,289 frames · 1080p 30fps · Rendered via 10-worker GitHub Actions split pool
+
+#### YouTube Metadata (US Market)
+- **Primary Title:** `Stargirl Summary (Jerry Spinelli) — The Dark Truth of Peer Pressure` *(68 chars)*
+- **Alternative Titles:**
+  1. `Jerry Spinelli's Stargirl: Full Book Summary & Analysis`
+  2. `Stargirl Explained: Why the High School Shunning Is Pure Horror`
+  3. `Stargirl: The Ending Everyone Gets Completely Wrong`
+  4. `Stargirl Book Summary: 8 Lessons on Conformity and Cowardice`
+- **Primary Search Keyword:** `Stargirl Jerry Spinelli summary`
+- **Thumbnail Hook:** `THE CRIME OF GRACE`
+
+#### Description & Cold Open Hook
+```text
+We remember Stargirl as this cute story about high school nonconformity, right? Like a quirky girl with a ukulele. But it's actually an autopsy of pure surveillance. The exact moment Stargirl consoles an injured kid from the opposing team, an entire high school decides she deserves to be completely socially erased.
+
+A deep, original analysis of "Stargirl" by Jerry Spinelli — the characters, turning points, high school tribalism, and the devastating cost of peer surveillance. We break down the exact mechanics of how a suburban high school turns into a feral mob, why Leo Borlock's cowardly love is more lethal than Hillari Kimble's bullying, and what Archie Brubaker's prehistoric wisdom reveals about staying human.
+
+Best for students, book clubs, and anyone looking to understand the real psychological depth of Stargirl — spoilers included.
+
+⏱️ Chapters:
+0:00 The Autopsy of Peer Surveillance
+1:54 Wayne Parr & The Panopticon of Apathy
+6:54 The Ukulele & Radical Freedom
+10:14 Cheerleading Mascot: Commodifying the Saint
+12:08 Cradling Ron Kovac: The Crime of Compassion
+14:28 The Hot Seat & The Lethal Shunning
+16:27 The Lover's Betrayal: Leo Begs Her to Be Small
+18:23 The Empty Parking Lot: Why Conformity Fails
+20:31 The Bunny Hop & Archie's Ancient Bones
+22:20 Counterpoint: Is Stargirl an Impossible Trope?
+23:40 The Payoff: Why We Put Away Our Own Ukulele
+
+🔔 Subscribe for more deep book breakdowns.
+
+#Stargirl #BookSummary #JerrySpinelli #YoungAdult #BookTube
+```
+
+#### Tags
+```text
+Stargirl summary, Stargirl explained, Stargirl analysis, Stargirl ending explained, Stargirl book, Stargirl themes, Stargirl characters, Jerry Spinelli, Stargirl Jerry Spinelli, Jerry Spinelli Stargirl, Jerry Spinelli books, book summary, book analysis, book review, booktube, young adult books, best young adult books, book club, Stargirl
+```
+
+---
+
 

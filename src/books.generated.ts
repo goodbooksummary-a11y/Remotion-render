@@ -91,12 +91,12 @@ import ant_million_dollar_weekend from '../books/million-dollar-weekend/config.a
 import ant_meta_million_dollar_weekend from '../books/million-dollar-weekend/youtube-meta.json';
 import ant_psychology_of_money from '../books/psychology-of-money/config.antidote.json';
 import ant_meta_psychology_of_money from '../books/psychology-of-money/youtube-meta.json';
-import ant_stargirl from '../books/stargirl/config.antidote.json';
-import ant_meta_stargirl from '../books/stargirl/youtube-meta.json';
 import ant_supercommunicators from '../books/supercommunicators/config.antidote.json';
 import ant_meta_supercommunicators from '../books/supercommunicators/youtube-meta.json';
 import ant_the_power_of_your_subconscious_mind from '../books/the-power-of-your-subconscious-mind/config.antidote.json';
 import ant_meta_the_power_of_your_subconscious_mind from '../books/the-power-of-your-subconscious-mind/youtube-meta.json';
+import ant_the_republic from '../books/the-republic/config.antidote.json';
+import ant_meta_the_republic from '../books/the-republic/youtube-meta.json';
 import ant_the_wedding_people from '../books/the-wedding-people/config.antidote.json';
 
 export type Palette = { paper: string; ink: string; red: string; gold: string; captionHighlight?: string };
@@ -140,12 +140,12 @@ export const BOOK_PALETTES: Record<string, Palette> = {
   'psychology-of-money': { paper: '#DEE4DC', ink: '#17201A', red: '#2F8F5B', gold: '#D9A93A' },
   'single-dad-dilemma': { paper: '#F1E4E1', ink: '#2A1D22', red: '#D64A6B', gold: '#E0A25C' },
   'slow-productivity': { paper: '#E6E5DE', ink: '#1C1E22', red: '#3E7CA8', gold: '#C99A48' },
-  'stargirl': { paper: '#FDF9F0', ink: '#1C1917', red: '#E0533C', gold: '#F59E0B' },
   'sway': { paper: '#E4E1E8', ink: '#1C1822', red: '#7C3AED', gold: '#D9A13C' },
   'the-iliad': { paper: '#F4EFE6', ink: '#141312', red: '#9E2A2B', gold: '#C28833' },
   'the-mountain-is-you': { paper: '#DBE0DE', ink: '#22303C', red: '#E4762B', gold: '#4E93A0' },
   'the-odyssey': { paper: '#F6F1E5', ink: '#131922', red: '#B33827', gold: '#C89538' },
   'the-power-of-your-subconscious-mind': { paper: '#F5F3EC', ink: '#131B24', red: '#3A4CB2', gold: '#E5A838' },
+  'the-republic': { paper: '#F6F1E8', ink: '#181514', red: '#B83A24', gold: '#C98A2C' },
   'the-righteous-mind': { paper: '#E3E0E6', ink: '#1E1A24', red: '#9B3FA0', gold: '#D8A23E' },
   'the-unknown': { paper: '#DCE2E6', ink: '#14181C', red: '#9B2233', gold: '#B08D4C' },
   'this-is-me': { paper: '#EEE7D9', ink: '#241E16', red: '#DB5B3A', gold: '#E0A94B' },
@@ -163,10 +163,10 @@ export const BOOK_BG_TINT: Record<string, boolean> = {
   'good-energy': true,
   'i-m-thinking-of-ending-things': true,
   'million-dollar-weekend': true,
-  'stargirl': true,
   'supercommunicators': true,
   'the-handmaids-tale': true,
   'the-power-of-your-subconscious-mind': true,
+  'the-republic': true,
   'the-stranger': true,
 };
 
@@ -451,12 +451,6 @@ export const ANTIDOTE_BOOKS: AntidoteBookEntry[] = [
     meta: ant_meta_psychology_of_money as any,
   },
   {
-    slug: 'stargirl',
-    engine: 'antidote',
-    config: ant_stargirl as any,
-    meta: ant_meta_stargirl as any,
-  },
-  {
     slug: 'supercommunicators',
     engine: 'antidote',
     config: ant_supercommunicators as any,
@@ -467,6 +461,12 @@ export const ANTIDOTE_BOOKS: AntidoteBookEntry[] = [
     engine: 'antidote',
     config: ant_the_power_of_your_subconscious_mind as any,
     meta: ant_meta_the_power_of_your_subconscious_mind as any,
+  },
+  {
+    slug: 'the-republic',
+    engine: 'antidote',
+    config: ant_the_republic as any,
+    meta: ant_meta_the_republic as any,
   },
   {
     slug: 'the-wedding-people',
