@@ -2551,6 +2551,441 @@ const Sword: React.FC<MotifProps> = ({ spec, accent, ink }) => {
   );
 };
 
+// ── CLASSICAL PHILOSOPHY & CONCEPTUAL THOUGHT EXPERIMENTS (Antidote 6.1) ────
+
+const Kallipolis: React.FC<MotifProps> = ({ spec, accent, ink }) => {
+  const frame = useCurrentFrame();
+  const sunPulse = 1 + Math.sin(frame * 0.08) * 0.05;
+  return (
+    <Frame spec={spec}>
+      {/* Radiating Sun of the Good / Truth above the Ideal City */}
+      <g transform={`translate(260, 90) scale(${sunPulse}) translate(-260, -90)`}>
+        <circle cx={260} cy={90} r={46} fill="#F59E0B" opacity={0.3} />
+        <circle cx={260} cy={90} r={32} fill="#FDE047" stroke={ink} strokeWidth={6} />
+        {[0, 45, 90, 135, 180, 225, 270, 315].map((ang) => (
+          <line
+            key={ang}
+            x1={260 + Math.cos((ang * Math.PI) / 180) * 38}
+            y1={90 + Math.sin((ang * Math.PI) / 180) * 38}
+            x2={260 + Math.cos((ang * Math.PI) / 180) * 54}
+            y2={90 + Math.sin((ang * Math.PI) / 180) * 54}
+            stroke="#F59E0B"
+            strokeWidth={5}
+            strokeLinecap="round"
+          />
+        ))}
+      </g>
+
+      {/* Tier 1: Gold / Rulers & Philosopher Kings Citadel */}
+      <polygon points="260,140 210,195 310,195" fill={accent} stroke={ink} strokeWidth={10} strokeLinejoin="round" />
+      <circle cx={260} cy={172} r={12} fill="#FFFFFF" />
+
+      {/* Tier 2: Silver / Guardians & Protectors Ramparts */}
+      <path d="M160,205 L360,205 L380,310 L140,310 Z" fill="#E2E8F0" stroke={ink} strokeWidth={12} strokeLinejoin="round" />
+      {/* Battlements */}
+      <rect x={175} y={192} width={26} height={20} fill={ink} />
+      <rect x={225} y={192} width={26} height={20} fill={ink} />
+      <rect x={270} y={192} width={26} height={20} fill={ink} />
+      <rect x={320} y={192} width={26} height={20} fill={ink} />
+      {/* Guardian Shields */}
+      <circle cx={215} cy={260} r={22} fill={accent} stroke={ink} strokeWidth={6} />
+      <circle cx={305} cy={260} r={22} fill={accent} stroke={ink} strokeWidth={6} />
+
+      {/* Tier 3: Bronze / Producers & Artisans Foundation Walls */}
+      <path d="M90,320 L430,320 L460,450 L60,450 Z" fill="#D97706" stroke={ink} strokeWidth={14} strokeLinejoin="round" />
+      {/* Classical Arches / Workshops */}
+      <path d="M120,450 L120,380 A40,40 0 0,1 200,380 L200,450" fill={ink} />
+      <path d="M220,450 L220,370 A40,40 0 0,1 300,370 L300,450" fill={ink} />
+      <path d="M320,450 L320,380 A40,40 0 0,1 400,380 L400,450" fill={ink} />
+
+      {/* Foundation plinth */}
+      <rect x={40} y={450} width={440} height={24} rx={6} fill={ink} />
+    </Frame>
+  );
+};
+
+const CaveAllegory: React.FC<MotifProps> = ({ spec, accent, ink }) => {
+  const frame = useCurrentFrame();
+  const flicker = Math.sin(frame * 0.25) * 6;
+  return (
+    <Frame spec={spec}>
+      {/* Cavern Rock Vault */}
+      <path
+        d="M40,470 L40,140 Q150,40 320,40 Q440,40 480,180 L480,470 Z"
+        fill="#1E293B"
+        stroke={ink}
+        strokeWidth={14}
+        strokeLinejoin="round"
+      />
+
+      {/* Upper Daylight Exit (Right) */}
+      <polygon points="410,40 480,40 480,220 370,160" fill="#FEF08A" opacity={0.85} />
+      <line x1={370} y1={160} x2={220} y2={290} stroke="#FEF08A" strokeWidth={10} strokeDasharray="16 16" opacity={0.6} />
+
+      {/* The Fire on Pedestal (Center-Left) */}
+      <rect x={160} y={260} width={36} height={80} rx={4} fill={ink} />
+      <path
+        d={`M178,${260 + flicker} Q150,220 178,180 Q210,220 178,${260 + flicker} Z`}
+        fill="#EF4444"
+        stroke="#F59E0B"
+        strokeWidth={6}
+      />
+      <circle cx={178} cy={220} r={14} fill="#FEF08A" />
+
+      {/* Low Puppet Screen / Parapet */}
+      <rect x={230} y={290} width={80} height={140} rx={6} fill={accent} stroke={ink} strokeWidth={10} />
+      {/* Puppet held over screen */}
+      <line x1={270} y1={290} x2={270} y2={230} stroke={ink} strokeWidth={6} />
+      <polygon points="250,230 290,230 270,195" fill={ink} />
+
+      {/* Projected False Shadow on Cave Wall (Far Left) */}
+      <g opacity={0.4 + Math.sin(frame * 0.2) * 0.15}>
+        <polygon points="70,300 110,300 90,265" fill={ink} />
+        <ellipse cx={90} cy={340} rx={24} ry={40} fill={ink} />
+      </g>
+
+      {/* Chained Prisoner (Bottom-Right, facing left towards shadows) */}
+      <g>
+        <circle cx={360} cy={350} r={18} fill={accent} stroke={ink} strokeWidth={6} />
+        <path d="M360,370 L360,430 L340,460" stroke={ink} strokeWidth={10} strokeLinecap="round" strokeLinejoin="round" fill="none" />
+        <path d="M360,390 L340,410" stroke={ink} strokeWidth={8} strokeLinecap="round" />
+        {/* Neck / Leg Chains */}
+        <circle cx={360} cy={372} r={8} fill="none" stroke="#DC2626" strokeWidth={5} />
+        <ellipse cx={345} cy={440} rx={12} ry={6} fill="none" stroke="#DC2626" strokeWidth={5} />
+        <line x1={355} y1={440} x2={430} y2={455} stroke="#DC2626" strokeWidth={5} strokeDasharray="6 6" />
+      </g>
+
+      {/* Cave Floor */}
+      <line x1={30} y1={470} x2={490} y2={470} stroke={ink} strokeWidth={14} strokeLinecap="round" />
+    </Frame>
+  );
+};
+
+const ShipOfState: React.FC<MotifProps> = ({ spec, accent, ink }) => {
+  const frame = useCurrentFrame();
+  const pitch = Math.sin(frame * 0.08) * 8;
+  return (
+    <Frame spec={spec}>
+      {/* Night Sky with Guiding Constellation / True Pilot's Star */}
+      <g opacity={0.9}>
+        <circle cx={390} cy={90} r={14} fill="#FDE047" stroke={ink} strokeWidth={4} />
+        {[0, 60, 120, 180, 240, 300].map((deg) => (
+          <line
+            key={deg}
+            x1={390 + Math.cos((deg * Math.PI) / 180) * 16}
+            y1={90 + Math.sin((deg * Math.PI) / 180) * 16}
+            x2={390 + Math.cos((deg * Math.PI) / 180) * 26}
+            y2={90 + Math.sin((deg * Math.PI) / 180) * 26}
+            stroke="#FDE047"
+            strokeWidth={4}
+            strokeLinecap="round"
+          />
+        ))}
+        {/* Constellation lines */}
+        <circle cx={320} cy={120} r={4} fill="#FFFFFF" />
+        <circle cx={440} cy={130} r={4} fill="#FFFFFF" />
+        <circle cx={350} cy={60} r={4} fill="#FFFFFF" />
+        <line x1={320} y1={120} x2={350} y2={60} stroke="#FFFFFF" strokeWidth={2} opacity={0.5} />
+        <line x1={350} y1={60} x2={390} y2={90} stroke="#FFFFFF" strokeWidth={2} opacity={0.5} />
+        <line x1={390} y1={90} x2={440} y2={130} stroke="#FFFFFF" strokeWidth={2} opacity={0.5} />
+      </g>
+
+      {/* Greek Galley / Trireme Ship tossing on waves */}
+      <g transform={`rotate(${pitch} 260 320)`}>
+        {/* Mast and Rigging */}
+        <line x1={260} y1={120} x2={260} y2={340} stroke={ink} strokeWidth={14} strokeLinecap="round" />
+        <line x1={260} y1={140} x2={110} y2={320} stroke={ink} strokeWidth={5} />
+        <line x1={260} y1={140} x2={410} y2={320} stroke={ink} strokeWidth={5} />
+        {/* Main Yard & Billowing Sail */}
+        <line x1={150} y1={160} x2={370} y2={160} stroke={ink} strokeWidth={10} strokeLinecap="round" />
+        <path d="M160,160 Q260,200 360,160 Q280,270 170,260 Z" fill="#FFFBEB" stroke={ink} strokeWidth={10} />
+
+        {/* The True Pilot at Stern (Stern on Right) */}
+        <circle cx={380} cy={270} r={12} fill="#F59E0B" stroke={ink} strokeWidth={5} />
+        <path d="M380,282 L380,315 M380,295 L405,275" stroke={ink} strokeWidth={7} strokeLinecap="round" />
+        {/* Steering Oar (Rudder) */}
+        <line x1={390} y1={310} x2={440} y2={410} stroke={accent} strokeWidth={10} strokeLinecap="round" />
+
+        {/* Quarreling Mutinous Sailors at Prow (Left) */}
+        <circle cx={150} cy={290} r={10} fill="#EF4444" stroke={ink} strokeWidth={4} />
+        <line x1={150} y1={300} x2={150} y2={325} stroke={ink} strokeWidth={6} />
+        <circle cx={185} cy={285} r={10} fill="#EF4444" stroke={ink} strokeWidth={4} />
+        <line x1={185} y1={295} x2={195} y2={325} stroke={ink} strokeWidth={6} />
+        {/* Clashing daggers/fists */}
+        <line x1={155} y1={295} x2={180} y2={295} stroke="#DC2626" strokeWidth={5} />
+
+        {/* Galley Hull with Classical Battering Ram */}
+        <path
+          d="M60,330 L90,320 L420,320 Q440,320 450,290 L460,340 Q390,390 120,380 L50,350 Z"
+          fill={accent}
+          stroke={ink}
+          strokeWidth={14}
+          strokeLinejoin="round"
+        />
+        {/* Row of Oars */}
+        {[130, 170, 210, 250, 290, 330].map((ox) => (
+          <line key={ox} x1={ox} y1={350} x2={ox - 35} y2={430} stroke={ink} strokeWidth={6} strokeLinecap="round" />
+        ))}
+      </g>
+
+      {/* Churning Ocean Storm Waves */}
+      <g>
+        <path
+          d="M20,420 Q90,380 160,420 Q230,460 300,420 Q370,380 440,420 Q490,450 510,420 L510,490 L20,490 Z"
+          fill="#0284C7"
+          stroke={ink}
+          strokeWidth={10}
+          opacity={0.7}
+        />
+        <path
+          d="M-20,440 Q60,400 140,440 Q220,480 300,440 Q380,400 460,440 L460,500 L-20,500 Z"
+          fill="#0369A1"
+          stroke={ink}
+          strokeWidth={8}
+          opacity={0.85}
+        />
+      </g>
+    </Frame>
+  );
+};
+
+const TripartiteSoul: React.FC<MotifProps> = ({ spec, accent, ink }) => {
+  const frame = useCurrentFrame();
+  const spiritLeap = Math.sin(frame * 0.12) * 8;
+  const appetiteStruggle = Math.sin(frame * 0.18) * 10;
+  return (
+    <Frame spec={spec}>
+      {/* Triangular Balance Structure */}
+      <polygon points="260,70 80,400 440,400" fill="none" stroke={ink} strokeWidth={8} strokeDasharray="12 8" opacity={0.3} />
+
+      {/* TOP: REASON (Logistikon / Golden Charioteer / Wisdom) */}
+      <g>
+        <circle cx={260} cy={95} r={46} fill="#FDE047" stroke={ink} strokeWidth={10} />
+        {/* Golden Laurel Crown */}
+        <path d="M230,85 Q260,60 290,85" fill="none" stroke="#D97706" strokeWidth={8} strokeLinecap="round" />
+        <circle cx={260} cy={95} r={16} fill={accent} />
+        {/* Reins running down to horses */}
+        <path d="M240,125 Q170,200 130,280" fill="none" stroke="#D97706" strokeWidth={7} strokeDasharray="8 6" />
+        <path d="M280,125 Q350,200 390,280" fill="none" stroke="#D97706" strokeWidth={7} strokeDasharray="8 6" />
+      </g>
+
+      {/* LEFT: SPIRIT (Thumos / White Noble Steed / Courage & Honor) */}
+      <g transform={`translate(0, ${spiritLeap})`}>
+        <rect x={70} y={260} width={130} height={140} rx={24} fill="#F8FAFC" stroke={ink} strokeWidth={10} />
+        {/* Noble horse head silhouette / crest */}
+        <path d="M90,360 L90,290 Q120,250 160,270 L175,300 L150,320 L165,360 Z" fill={accent} stroke={ink} strokeWidth={6} />
+        <circle cx={145} cy={285} r={8} fill="#FDE047" />
+        {/* Silver Shield */}
+        <circle cx={135} cy={380} r={28} fill="#94A3B8" stroke={ink} strokeWidth={6} />
+        <text x={135} y={387} textAnchor="middle" fontSize={18} fontWeight={900} fill="#FFFFFF">HONOR</text>
+      </g>
+
+      {/* RIGHT: APPETITE (Epithumia / Dark Wild Beast / Desire & Greed) */}
+      <g transform={`translate(0, ${appetiteStruggle})`}>
+        <rect x={320} y={260} width={130} height={140} rx={24} fill="#1E293B" stroke={ink} strokeWidth={10} />
+        {/* Beast horns / snarling maw */}
+        <path d="M430,360 L430,300 Q400,250 360,280 L345,310 L370,330 L355,360 Z" fill="#DC2626" stroke={ink} strokeWidth={6} />
+        <circle cx={375} cy={295} r={7} fill="#FEF08A" />
+        {/* Restraining collar */}
+        <ellipse cx={385} cy={335} rx={26} ry={12} fill="none" stroke="#F59E0B" strokeWidth={6} />
+        <text x={385} y={387} textAnchor="middle" fontSize={16} fontWeight={900} fill="#DC2626">DESIRE</text>
+      </g>
+
+      {/* Balance Fulcrum Plinth */}
+      <polygon points="260,370 230,440 290,440" fill={ink} />
+      <line x1={110} y1={440} x2={410} y2={440} stroke={ink} strokeWidth={12} strokeLinecap="round" />
+    </Frame>
+  );
+};
+
+const RingOfGyges: React.FC<MotifProps> = ({ spec, accent, ink }) => {
+  const frame = useCurrentFrame();
+  const shimmer = Math.sin(frame * 0.1) * 0.3 + 0.7;
+  return (
+    <Frame spec={spec}>
+      {/* Shimmering Invisibility Aura */}
+      <circle cx={260} cy={240} r={170} fill="none" stroke="#FDE047" strokeWidth={4} strokeDasharray="14 14" opacity={shimmer * 0.6} />
+
+      {/* Massive Golden Ring Band */}
+      <ellipse cx={260} cy={260} rx={140} ry={110} fill="none" stroke="#D97706" strokeWidth={32} />
+      <ellipse cx={260} cy={260} rx={140} ry={110} fill="none" stroke="#FDE047" strokeWidth={18} />
+      <ellipse cx={260} cy={260} rx={140} ry={110} fill="none" stroke={ink} strokeWidth={8} />
+
+      {/* Inward-turned Collet & Gem (The device of invisibility) */}
+      <g transform="rotate(-20 260 160)">
+        <polygon points="220,170 300,170 320,120 200,120" fill={accent} stroke={ink} strokeWidth={10} strokeLinejoin="round" />
+        <polygon points="230,120 290,120 310,75 210,75" fill="#7C3AED" stroke={ink} strokeWidth={10} strokeLinejoin="round" />
+        {/* Mystic Eye of Gyges in Gem */}
+        <ellipse cx={260} cy={98} rx={26} ry={14} fill="#FFFFFF" stroke={ink} strokeWidth={5} />
+        <circle cx={260} cy={98} r={9} fill="#4C1D95" />
+      </g>
+
+      {/* The Disappearing / Invisible Human Figure */}
+      <g transform="translate(230, 200)">
+        {/* Left half: Solid visible man */}
+        <path d="M30,0 A20,20 0 0,0 10,20 L10,70 L25,70 L25,120 L30,120 Z" fill={ink} />
+        {/* Right half: Vanishing dotted ghost silhouette */}
+        <path
+          d="M30,0 A20,20 0 0,1 50,20 L50,70 L35,70 L35,120 L30,120 Z"
+          fill="none"
+          stroke={accent}
+          strokeWidth={5}
+          strokeDasharray="6 6"
+          opacity={shimmer}
+        />
+      </g>
+
+      {/* Broken Scales of Justice beneath */}
+      <line x1={150} y1={440} x2={370} y2={440} stroke={ink} strokeWidth={8} strokeLinecap="round" />
+      <path d="M190,440 L160,400 M210,440 L240,400" stroke={ink} strokeWidth={4} />
+      <path d="M160,400 Q200,420 240,400 Z" fill="#EF4444" stroke={ink} strokeWidth={6} />
+      <path d="M310,440 L340,455 M330,440 L360,455" stroke={ink} strokeWidth={4} />
+      <path d="M320,460 Q340,480 360,460 Z" fill="#94A3B8" stroke={ink} strokeWidth={5} />
+    </Frame>
+  );
+};
+
+const ThirtyTyrants: React.FC<MotifProps> = ({ spec, accent, ink }) => {
+  const frame = useCurrentFrame();
+  const pulse = Math.sin(frame * 0.15) * 4;
+  return (
+    <Frame spec={spec}>
+      {/* Ring of Inward-Pointing Spartan Spearheads */}
+      <circle cx={260} cy={260} r={180} fill="#7F1D1D" opacity={0.15} />
+
+      {[0, 45, 90, 135, 180, 225, 270, 315].map((angle, i) => {
+        const rad = (angle * Math.PI) / 180;
+        const x1 = 260 + Math.cos(rad) * (200 + pulse);
+        const y1 = 260 + Math.sin(rad) * (200 + pulse);
+        const x2 = 260 + Math.cos(rad) * 115;
+        const y2 = 260 + Math.sin(rad) * 115;
+        return (
+          <g key={i}>
+            <line x1={x1} y1={y1} x2={x2} y2={y2} stroke={ink} strokeWidth={10} strokeLinecap="round" />
+            <polygon
+              points={`${x2},${y2} ${x2 + Math.cos(rad + 0.3) * 26},${y2 + Math.sin(rad + 0.3) * 26} ${x2 + Math.cos(rad - 0.3) * 26},${y2 + Math.sin(rad - 0.3) * 26}`}
+              fill="#DC2626"
+              stroke={ink}
+              strokeWidth={4}
+            />
+          </g>
+        );
+      })}
+
+      {/* Center: Crushed Athenian Democracy */}
+      <g>
+        <ellipse cx={260} cy={275} rx={85} ry={45} fill="#DC2626" opacity={0.4} />
+        <g transform="rotate(65 260 260)">
+          <ellipse cx={260} cy={260} rx={34} ry={54} fill={accent} stroke={ink} strokeWidth={9} />
+          <rect x={245} y={200} width={30} height={20} rx={4} fill={ink} />
+          <circle cx={220} cy={260} r={8} fill="#FFFFFF" stroke={ink} strokeWidth={3} />
+          <circle cx={205} cy={275} r={8} fill="#FFFFFF" stroke={ink} strokeWidth={3} />
+          <circle cx={190} cy={255} r={8} fill="#FFFFFF" stroke={ink} strokeWidth={3} />
+        </g>
+        <path d="M220,300 Q260,285 300,310" stroke="#15803D" strokeWidth={6} fill="none" strokeLinecap="round" />
+        <ellipse cx={245} cy={290} rx={9} ry={5} fill="#22C55E" />
+        <ellipse cx={285} cy={300} rx={9} ry={5} fill="#22C55E" />
+      </g>
+
+      {/* Spartan Lambda (Λ) Crest */}
+      <g transform="translate(260, 110)">
+        <polygon points="-40,40 40,40 0,-30" fill="#DC2626" stroke={ink} strokeWidth={7} strokeLinejoin="round" />
+        <path d="M-18,28 L0,-12 L18,28" stroke="#FDE047" strokeWidth={8} strokeLinecap="round" strokeLinejoin="round" fill="none" />
+      </g>
+    </Frame>
+  );
+};
+
+const FiveRegimes: React.FC<MotifProps> = ({ spec, accent, ink }) => {
+  const frame = useCurrentFrame();
+  const stepActive = Math.floor((frame / 20) % 5);
+  return (
+    <Frame spec={spec}>
+      {/* Stepped Downward Descent: Aristocracy -> Timocracy -> Oligarchy -> Democracy -> Tyranny */}
+      <path d="M60,110 L140,110 L140,180 L220,180 L220,250 L300,250 L300,320 L380,320 L380,390 L460,390" fill="none" stroke={ink} strokeWidth={10} strokeLinejoin="round" />
+
+      {/* Cascading Downward Fall Arrow */}
+      <path d="M100,80 Q260,120 440,360" fill="none" stroke="#DC2626" strokeWidth={6} strokeDasharray="10 8" />
+      <polygon points="440,360 445,340 425,350" fill="#DC2626" />
+
+      {/* Step 1: Aristocracy (Crown / Wisdom) */}
+      <g transform="translate(100, 75)">
+        <circle cx={0} cy={0} r={24} fill={stepActive === 0 ? "#FDE047" : "#CBD5E1"} stroke={ink} strokeWidth={6} />
+        <polygon points="-12,6 12,6 12,-6 6,0 0,-10 -6,0 -12,-6" fill={ink} />
+      </g>
+
+      {/* Step 2: Timocracy (Spear / Honor) */}
+      <g transform="translate(180, 145)">
+        <circle cx={0} cy={0} r={24} fill={stepActive === 1 ? "#94A3B8" : "#E2E8F0"} stroke={ink} strokeWidth={6} />
+        <line x1={-10} y1={10} x2={10} y2={-10} stroke={ink} strokeWidth={5} />
+        <polygon points="8,-8 14,-14 6,-14" fill="#DC2626" />
+      </g>
+
+      {/* Step 3: Oligarchy (Gold Coin / Wealth) */}
+      <g transform="translate(260, 215)">
+        <circle cx={0} cy={0} r={24} fill={stepActive === 2 ? "#F59E0B" : "#FDE68A"} stroke={ink} strokeWidth={6} />
+        <text x={0} y={7} textAnchor="middle" fontSize={22} fontWeight={900} fill={ink}>$</text>
+      </g>
+
+      {/* Step 4: Democracy (Ballot Urn / Equality-License) */}
+      <g transform="translate(340, 285)">
+        <circle cx={0} cy={0} r={24} fill={stepActive === 3 ? accent : "#BAE6FD"} stroke={ink} strokeWidth={6} />
+        <rect x={-8} y={-8} width={16} height={16} rx={3} fill={ink} />
+        <line x1={-4} y1={-8} x2={4} y2={-8} stroke="#FFFFFF" strokeWidth={3} />
+      </g>
+
+      {/* Step 5: Tyranny (Iron Shackle & Dagger / Pure Appetite) */}
+      <g transform="translate(420, 355)">
+        <circle cx={0} cy={0} r={26} fill={stepActive === 4 ? "#EF4444" : "#FCA5A5"} stroke={ink} strokeWidth={7} />
+        <line x1={-8} y1={-8} x2={8} y2={8} stroke="#1E293B" strokeWidth={6} strokeLinecap="round" />
+        <circle cx={-8} cy={-8} r={5} fill="none" stroke="#1E293B" strokeWidth={3} />
+      </g>
+
+      {/* Stage Floor */}
+      <line x1={40} y1={440} x2={480} y2={440} stroke={ink} strokeWidth={12} strokeLinecap="round" />
+    </Frame>
+  );
+};
+
+const MythOfEr: React.FC<MotifProps> = ({ spec, accent, ink }) => {
+  const frame = useCurrentFrame();
+  const rot1 = (frame * 0.4) % 360;
+  const rot2 = (-frame * 0.6) % 360;
+  return (
+    <Frame spec={spec}>
+      {/* The Central Pillar of Light */}
+      <line x1={260} y1={40} x2={260} y2={480} stroke="#FEF08A" strokeWidth={24} opacity={0.4} />
+      <line x1={260} y1={40} x2={260} y2={480} stroke="#FFFFFF" strokeWidth={8} opacity={0.8} />
+
+      {/* The Cosmic Spindle of Necessity */}
+      <g transform={`translate(260, 240) rotate(${rot1})`}>
+        <ellipse cx={0} cy={0} rx={180} ry={70} fill="none" stroke={ink} strokeWidth={7} strokeDasharray="14 10" />
+        <circle cx={180} cy={0} r={12} fill="#38BDF8" stroke={ink} strokeWidth={4} />
+      </g>
+
+      <g transform={`translate(260, 240) rotate(${rot2})`}>
+        <ellipse cx={0} cy={0} rx={130} ry={50} fill="none" stroke={accent} strokeWidth={8} />
+        <circle cx={-130} cy={0} r={10} fill="#F59E0B" stroke={ink} strokeWidth={4} />
+      </g>
+
+      {/* Central Spindle Shaft */}
+      <rect x={248} y={150} width={24} height={180} rx={12} fill="#D97706" stroke={ink} strokeWidth={8} />
+      <circle cx={260} cy={240} r={32} fill="#FDE047" stroke={ink} strokeWidth={8} />
+      <circle cx={260} cy={240} r={12} fill={ink} />
+
+      {/* The Three Fates' Threads */}
+      <path d="M120,440 Q180,340 250,250" fill="none" stroke="#EC4899" strokeWidth={6} strokeLinecap="round" />
+      <path d="M260,250 Q320,350 400,440" fill="none" stroke="#8B5CF6" strokeWidth={6} strokeLinecap="round" />
+      <path d="M260,260 L260,450" fill="none" stroke="#10B981" strokeWidth={6} strokeLinecap="round" />
+
+      {/* Soul Lots Cast on Ground */}
+      <ellipse cx={180} cy={445} rx={16} ry={7} fill="#FFFFFF" stroke={ink} strokeWidth={4} />
+      <ellipse cx={260} cy={455} rx={16} ry={7} fill="#FFFFFF" stroke={ink} strokeWidth={4} />
+      <ellipse cx={340} cy={445} rx={16} ry={7} fill="#FFFFFF" stroke={ink} strokeWidth={4} />
+    </Frame>
+  );
+};
+
 const REGISTRY: Record<PropSpec["type"], React.FC<MotifProps>> = {
   moneyRain: MoneyRain, coin: Coin, book: Book, arrow: Arrow, shape: Shape,
   barChart: BarChart, lineGrowth: LineGrowth, balance: Balance, ladder: Ladder,
@@ -2591,6 +3026,15 @@ const REGISTRY: Record<PropSpec["type"], React.FC<MotifProps>> = {
   butterfly: Butterfly,
   coffee: Coffee,
   car: Car,
+  // Classical Philosophy & Conceptual Thought Experiments (Antidote 6.1)
+  kallipolis: Kallipolis,
+  caveAllegory: CaveAllegory,
+  shipOfState: ShipOfState,
+  tripartiteSoul: TripartiteSoul,
+  ringOfGyges: RingOfGyges,
+  thirtyTyrants: ThirtyTyrants,
+  fiveRegimes: FiveRegimes,
+  mythOfEr: MythOfEr,
   // Dynamic Extensible SVG Motifs (AI Art Director)
   customSvg: CustomSvgMotif,
 };
@@ -2605,6 +3049,7 @@ export const SCENE_ICONS: PropSpec["type"][] = [
   "codeWindow", "laptopMockup", "funnelMetrics", "rocketLaunch", "dollarExchange",
   "alarmClock", "hourglass", "zap", "shield", "target", "trophy", "sword",
   "magnifier", "wallet", "gift", "subway", "butterfly", "coffee", "car",
+  "kallipolis", "caveAllegory", "shipOfState", "tripartiteSoul", "ringOfGyges", "thirtyTyrants", "fiveRegimes", "mythOfEr",
   "customSvg",
 ];
 

@@ -29,6 +29,48 @@ _(clear your row when you stop; move the summary into the Changelog below.)_
 
 ## Changelog (newest first)
 
+### 2026-09-14 — audit — ⚠️ ANTIDOTE 6.0 / GOD MODE: measured regression + the frozen-books guard does not work
+
+Read-only audit; **I changed no code and no config**. Findings on `765093a` / `aa07815` /
+`0f6123d` / `5d7ee12`. Please read before continuing that line of work.
+
+**1. The Text != Voice pass made callouts generic.** `a-good-man-is-hard-to-find`: 169 callouts /
+169 distinct BEFORE (`8aeffb4`) → 169 callouts / **42 distinct** now. Hand-authored O'Connor copy
+("GUN TO HER CHEST", "THE TRAP SNAPS SHUT", "SHE LURES YOU IN") was overwritten with
+`CRITICAL DISTINCTION` — **589 occurrences across 14 books, 94 of them in that one short story.**
+Echo reached ~0% by making the text say nothing. Reproduce:
+`grep -c "CRITICAL DISTINCTION" books/*/config.antidote.json`
+
+**2. The published-books guard is local to one script.** `publishedSlugs()` exists only in
+`apply-briefs.js:77`; `apply-semantic-arcs.js`, `hard-gate.js` and `plan-sequence-arcs.js` never
+consult it. `0f6123d` rewrote **15** `config.antidote.json`, at least four of them published
+(a-good-man, supercommunicators, fruit-fly, all-the-bright-places) — the rule added two commits
+earlier in `8aeffb4`. `PUBLISHED_BOOKS.md` is also still the stale 4-Vox-book list.
+**The guard belongs at a shared layer, not inside one script.**
+
+**3. Two rejected precedents were re-run.** AGENT_LOG:183-190 (an authored-metaphor pass scored
+WORSE: subject 55.9→52.1, wrong 4.5→10.3) and AGENT_LOG:1080-1090 ("a wrong scene is worse than a
+repeated one"). `visualJob` selection reads GENRE, not meaning — `quantify` fires 32× in
+good-energy and 0× in stargirl — while 8 of 15 Antidote books are fiction.
+
+**4. `audit-semantic-redundancy.js` cannot see the visual channel:** it substring-matches the
+prop's ENUM NAME. Combined with `hard-gate.js --auto-fix` rewriting the config for up to 4 passes
+until it scores ≥95, this is a validator that edits until it passes itself.
+
+**5. Still unfixed, and it is the real mechanical defect.** `MotifProps = {spec, accent, ink}`
+(motifs.tsx:22) has no time contract — motifs animate 20–65 frames inside a 275-frame mean scene —
+and `plan-antidote.js:633` clamps every non-quantity motif to `MOTIF_LATEST=12`, the first 0.4 s,
+to satisfy the dead-air budget. `resolveVisualArcTransform` reaches props only (Scene.tsx:288), so
+a scene with a live arc and no props renders motionless (fruit-fly: 46 of 79). Characters still
+have no `at`, though movements.ts:19 already honours the delay.
+
+**6. Dead on arrival:** `scripts/lib/antidote-scene-graph.js` is imported by nothing and emits
+`"listen"`, which is not in the `charAction` enum (schema.ts:20-29) — the documented silent-blank
+failure mode.
+
+No revert performed — waiting on the operator. `8aeffb4` is the last known-good config state.
+
+
 ### 2026-09-14 — relevance — ✅ `siddhartha` IS READY TO RENDER (handoff)
 
 Not published, so it got every current system. **Whoever picks up the render: it is done, go.**

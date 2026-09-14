@@ -42,7 +42,7 @@ function validateSceneAgainstContract(scene, brief) {
   const violations = [];
   if (!brief) return { valid: true, violations };
 
-  // 1. Check mustNotShow
+  // 1. Check mustNotShow motifs
   const forbidden = new Set(brief.mustNotShow || (brief.antidote && brief.antidote.forbiddenMotifs) || []);
   if (Array.isArray(scene.props)) {
     for (const p of scene.props) {
@@ -54,6 +54,15 @@ function validateSceneAgainstContract(scene, brief) {
         });
       }
     }
+  }
+
+  // 1b. Check forbidden sets
+  if (scene.bg && forbidden.has(scene.bg.set)) {
+    violations.push({
+      rule: "FORBIDDEN_SET",
+      set: scene.bg.set,
+      message: `Scene ${scene.id} uses set "${scene.bg.set}" which is forbidden by visual contract`,
+    });
   }
 
   // 2. Check mustShow characters
@@ -96,6 +105,14 @@ function repairSceneContract(scene, brief, palette = { red: "#DC2626", ink: "#1C
       }
       return p;
     });
+  }
+
+  // 1b. Fix forbidden sets
+  if (scene.bg && forbidden.has(scene.bg.set)) {
+    const replacementSet = (brief.place && !forbidden.has(brief.place))
+      ? brief.place
+      : (forbidden.has("classroom") ? "agora" : "room");
+    scene.bg.set = replacementSet;
   }
 
   // 2. Fix missing characters on character beats

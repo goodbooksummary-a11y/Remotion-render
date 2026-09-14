@@ -117,6 +117,15 @@ const WORLDS = {
     accessory: { any: ["none", "none", "scarf"], m: ["suspenders"], f: [] },
     beards: ["none", "stubble", "full"],
   },
+  classical: {
+    label: "Classical antiquity (Greek / Roman)",
+    outfits: { any: ["robe", "cloak"], m: [], f: [] },
+    headwear: { any: ["none", "none", "none"], m: [], f: [] },
+    hair: { any: ["curly", "short", "long"], m: ["bald", "receding"], f: ["bun", "braids"] },
+    accessory: { any: ["none"], m: [], f: [] },
+    beards: ["full", "full", "stubble", "none"],
+    glasses: false,
+  },
   dystopian: {
     label: "Regime / speculative",
     outfits: { any: ["rags", "hoodie", "uniform", "cloak"], m: [], f: ["robe", "dress"] },
@@ -137,6 +146,7 @@ const poolFor = (slot, gender) => [...(slot.any || []), ...(slot[gender] || [])]
  * is the strongest evidence we have — the book tells us what it wears.
  */
 const WORLD_SIGNS = [
+  ["classical", /\b(ancient\s*greece|athens|athenian|sparta|plato|socrates|republic|philosopher|bc\b|bce\b|roman|rome|caesar|stoic|seneca|marcus\s*aurelius|aristotle|kallipolis)\b/i],
   ["medieval", /\b(medieval|knight|kingdom|castle|sword|peasant|monk|crusade|the king|the queen|dragon|village elder|thou|thy)\b/i],
   ["jazzAge", /\b(1920s|nineteen twenties|jazz age|prohibition|flapper|speakeasy|roaring twenties|bootleg|model t|gramophone)\b/i],
   ["victorian", /\b(victorian|1800s|eighteen (hundred|forty|fifty|sixty|seventy|eighty|ninety)|nineteenth century|19th century|carriage|parlour|corset|governess|almshouse|workhouse)\b/i],
@@ -149,9 +159,9 @@ const WORLD_SIGNS = [
 
 const GENRE_WORLD = {
   money: "office", business: "office", finance: "office", investing: "office",
-  psychology: "academic", science: "academic", philosophy: "academic",
+  psychology: "academic", science: "academic", philosophy: "classical", classics: "classical",
   history: "victorian", memoir: "modern", "self-help": "modern", habits: "modern",
-  fantasy: "medieval", classic: "victorian", fiction: "modern", thriller: "modern",
+  fantasy: "medieval", classic: "classical", fiction: "modern", thriller: "modern",
 };
 
 function detectWorld({ genre, title, sample }) {
@@ -248,7 +258,7 @@ function castBook({ slug, palette, genre, title, sample, world: forcedWorld }) {
         shirt: i % 2 === 0 ? lighten(PAL.paper, 0.34) : "#FFFFFF",
         expression: "neutral",
         hairStyle: hair,
-        glasses: role === "mentor" ? true : rnd(s + 29) > 0.78,
+        glasses: W.glasses === false ? false : (role === "mentor" ? true : rnd(s + 29) > 0.78),
         beard: gender === "m" ? pick(W.beards, s + 31) : "none",
         gender,
         age: shape.age,

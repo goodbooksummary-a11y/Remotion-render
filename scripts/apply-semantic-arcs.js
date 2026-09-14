@@ -22,6 +22,7 @@ const { planPromiseLifecycles } = require("./lib/antidote-promise-engine");
 const { planChapterArcs } = require("./lib/antidote-chapter-arcs");
 const { balanceNoveltyBudget } = require("./lib/antidote-novelty-budget");
 const { directAudioEvents } = require("./lib/antidote-audio-director");
+const { enforceSemanticRelevance } = require("./lib/visual-intent");
 
 const args = Object.fromEntries(
   process.argv.slice(2).map((a) => {
@@ -153,6 +154,10 @@ for (const s of scenes) {
     }
   }
 }
+
+// 9. Semantic Relevance & Conceptual Alignment Engine (Antidote 6.1)
+enforceSemanticRelevance(config);
+scenes = config.scenes;
 
 console.log(`\n══════════════════════════════════════════════════════════════`);
 console.log(`  APPLY SEMANTIC ARCS: ${SLUG}`);

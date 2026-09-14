@@ -156,6 +156,13 @@ function findCast(sents) {
 
 /** concrete locations the narration actually names, with the set they map to */
 const PLACE_WORDS = [
+  // Classical Antiquity & Philosophical Sets
+  [/\b(agora|marketplace|acropolis|assembly|pnyx|polis|square)\b/i, "agora"],
+  [/\b(colonnade|temple|portico|columns?|stoa|atrium|pediment|sanctuary)\b/i, "colonnade"],
+  [/\b(cave|cavern|underground|stalactite|shadows? on the wall|chained|darkness)\b/i, "cave"],
+  [/\b(ship|galley|trireme|deck|mast|sail|rudder|helm|pilot|steersman|sea|ocean|waves)\b/i, "shipDeck"],
+  [/\b(manuscript|scroll|parchment|papyrus|text|dialogue|treatise|writing|codex)\b/i, "manuscript"],
+  // Modern & General Sets
   [/\b(kitchen|dinner table|the stove)\b/i, "kitchen"],
   [/\b(bedroom|her room|his room)\b/i, "bedroom"],
   [/\b(classroom|the school\b|schoolyard|lecture hall)\b/i, "classroom"],
@@ -169,10 +176,12 @@ const PLACE_WORDS = [
   [/\b(the office\b|his office|her office|the boardroom)\b/i, "office"],
   [/\b(the street\b|the sidewalk|downtown|the alley)\b/i, "street"],
 ];
-function findPlaces(sents) {
+
+function findPlaces(sents, forbidSets = new Set()) {
   const hits = Object.create(null);
   for (const { text, s } of sents) {
     for (const [re, set] of PLACE_WORDS) {
+      if (forbidSets.has(set)) continue;
       if (!re.test(text)) continue;
       const h = hits[set] || (hits[set] = { set, count: 0, first: s, quotes: [] });
       h.count++;
@@ -201,26 +210,76 @@ function findObjects(sents) {
  * the loudest possible anachronism, and today nothing prevents one.
  */
 const PERIOD_HINTS = [
-  [/\b(smartphone|iphone|internet|online|email|laptop|website|social media|app\b)\b/i, { era: "contemporary", from: 1995 }],
-  [/\b(television|the war\b|world war|nineteen (forties|fifties|sixties))\b/i, { era: "mid-20th century", from: 1930 }],
+  [/\b(temple|the gods|ancient|antiquity|the emperor|chariot|plato|socrates|aristotle|athens|sparta|kallipolis)\b/i, { era: "classical antiquity", from: -375 }],
   [/\b(carriage|horseback|telegram|the empire|steamship|gaslight)\b/i, { era: "19th century or earlier", from: 1800 }],
-  [/\b(temple|the gods|ancient|antiquity|the emperor|chariot)\b/i, { era: "pre-modern", from: 0 }],
+  [/\b(television|the war\b|world war|nineteen (forties|fifties|sixties))\b/i, { era: "mid-20th century", from: 1930 }],
+  [/\b(smartphone|iphone|internet|online|email|laptop|website|social media|app\b)\b/i, { era: "contemporary", from: 1995 }],
 ];
 const MODERN_ONLY = ["phone", "codeWindow", "laptopMockup", "rocketLaunch", "funnelMetrics",
-  "dollarExchange", "subway", "car", "alarmClock", "medical"];
-function findEra(allText) {
-  const years = (allText.match(/\b(1[0-9]\d\d|20\d\d)\b/g) || []).map(Number).filter((y) => y > 1000 && y < 2100);
+  "dollarExchange", "subway", "car", "alarmClock", "medical", "coffee"];
+const MODERN_FORBIDDEN_SETS = ["classroom", "office", "workstation", "startupGarage", "serverRoom",
+  "pitchStage", "kitchen", "bedroom", "hospital"];
+
+function loadBookMeta(slug) {
+  const dir = path.join(ROOT, "books", slug);
+  let book = null, creative = null;
+  try {
+    const p = path.join(dir, "book.json");
+    if (fs.existsSync(p)) book = JSON.parse(fs.readFileSync(p, "utf8"));
+  } catch {}
+  try {
+    const p = path.join(dir, "creative-bible.json");
+    if (fs.existsSync(p)) creative = JSON.parse(fs.readFileSync(p, "utf8"));
+  } catch {}
+  return { book, creative };
+}
+
+function findEra(allText, bookMeta = {}) {
   let era = null, from = null;
-  if (years.length) {
-    years.sort((a, b) => a - b);
-    from = years[Math.floor(years.length / 2)];         // median, not the outlier
-    era = `${years[0]}–${years[years.length - 1]}`;
+
+  // 1. Check metadata overrides
+  const universeKey = bookMeta.creative?.world?.universeKey || "";
+  const genre = String(bookMeta.book?.genre || "").toLowerCase();
+  const author = String(bookMeta.book?.author || "").toLowerCase();
+  const isAncientMeta = universeKey === "ancient_philosophy" ||
+    genre === "philosophy" ||
+    /plato|socrates|aristotle|marcus aurelius|seneca|epictetus|homer|cicero/.test(author);
+
+  // 2. Check explicit BC / BCE years
+  const bcMatch = allText.match(/\b(\d{1,4})\s*(?:bc|bce)\b/i);
+  if (bcMatch) {
+    from = -parseInt(bcMatch[1], 10);
+    era = `${bcMatch[1]} BC`;
   }
+
+  // 3. Check 4-digit AD years if no BC year
+  if (from == null) {
+    const years = (allText.match(/\b(1[0-9]\d\d|20\d\d)\b/g) || []).map(Number).filter((y) => y > 1000 && y < 2100);
+    if (years.length && !isAncientMeta) {
+      years.sort((a, b) => a - b);
+      from = years[Math.floor(years.length / 2)];
+      era = `${years[0]}–${years[years.length - 1]}`;
+    }
+  }
+
+  // 4. Period hints check (with ancient check taking precedence for ancient authors/meta)
   if (!era) {
-    const hit = PERIOD_HINTS.find(([re]) => re.test(allText));
-    if (hit) { era = hit[1].era; from = hit[1].from; }
+    if (isAncientMeta) {
+      era = "classical antiquity";
+      from = from != null ? from : -375;
+    } else {
+      const hit = PERIOD_HINTS.find(([re]) => re.test(allText));
+      if (hit) { era = hit[1].era; from = hit[1].from; }
+    }
   }
-  const forbid = from != null && from < 1980 ? MODERN_ONLY.slice() : [];
+
+  let forbid = [];
+  if (from != null && from < 500) {
+    forbid = [...MODERN_ONLY, ...MODERN_FORBIDDEN_SETS];
+  } else if (from != null && from < 1980) {
+    forbid = MODERN_ONLY.slice();
+  }
+
   return { era: era || "unspecified", approxYear: from, forbid };
 }
 
@@ -246,10 +305,11 @@ function findSpine(cfg, sents, fps) {
 function draft(nar) {
   const sents = sentences(nar.words);
   const allText = sents.map((s) => s.text).join(" ");
+  const bookMeta = loadBookMeta(SLUG);
+  const world = findEra(allText, bookMeta);
   const cast = findCast(sents);
-  const places = findPlaces(sents);
+  const places = findPlaces(sents, new Set(world.forbid));
   const objects = findObjects(sents);
-  const world = findEra(allText);
 
   return {
     bible: {

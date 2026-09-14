@@ -170,21 +170,18 @@ function compileNarrativeBeat({
   // 3. Narrative & Visual Intent
   let narrativeIntent = "";
   let visualIntent = "";
-  if (beatType === "characterization" && entityKeys.includes("wayne")) {
-    narrativeIntent = "Demonstrate that high school apathy is crowned as social royalty to shield against vulnerability";
-    visualIntent = "Wayne positioned in calm, indifferent posture in classroom while peers observe defensively";
-  } else if (beatType === "social_pressure" || fullText.includes("shun")) {
+  if (beatType === "social_pressure" || fullText.includes("shun")) {
     narrativeIntent = "Expose how collective silence and social panopticon erase nonconforming individuals";
     visualIntent = "Subject surrounded by cold silhouette crowd or cold empty space, feeling the weight of the panopticon";
-  } else if (beatType === "compassion_treason") {
+  } else if (beatType === "compassion_treison") {
     narrativeIntent = "Highlight the high crime of extending grace to an opponent in tribal competition";
     visualIntent = "Hero cradling or reaching towards the outsider in direct defiance of the surrounding arena";
   } else if (beatType === "intimacy_betrayal") {
-    narrativeIntent = "Dramatize the devastating betrayal when the person who loves you begs you to conform";
-    visualIntent = "Intimate two-shot friction: lover pleading in anguish, asking the hero to shrink";
+    narrativeIntent = "Dramatize the devastating betrayal when someone asks you to conform to expectations";
+    visualIntent = "Intimate two-shot friction: confronting party in anguish, asking the subject to shrink";
   } else if (beatType === "defeat_desolation") {
-    narrativeIntent = "Show the total failure of the conformity bargain: empty parking lot after winning";
-    visualIntent = "Wide silhouette shot of lone figure standing in overwhelming empty asphalt under harsh sun";
+    narrativeIntent = "Show the total failure of the conformity bargain: isolation after surrender";
+    visualIntent = "Wide silhouette shot of lone figure standing in overwhelming empty space";
   } else {
     narrativeIntent = `Dramatize the thematic conflict of ${beatType.replace(/_/g, " ")}`;
     visualIntent = entities.length
@@ -195,6 +192,10 @@ function compileNarrativeBeat({
   // 4. MustShow & MustNotShow Visual Contract
   const mustShow = [];
   const mustNotShow = [];
+
+  if (bible && bible.world && Array.isArray(bible.world.forbid)) {
+    mustNotShow.push(...bible.world.forbid);
+  }
 
   if (entities.length > 0 || beatType === "characterization" || beatType === "intimacy_betrayal") {
     mustShow.push("characters");
@@ -231,12 +232,29 @@ function compileNarrativeBeat({
 
   const shotPreference = (matchedEvent && matchedEvent.preferredShots) || (entities.length >= 2 ? ["twoShot", "overShoulder", "split"] : ["medium", "diorama", "closeUp"]);
 
-  let place = (prevBrief && prevBrief.place) || "classroom";
-  if (/\b(hospital|ambulance|ankle|injury)\b/i.test(fullText)) place = "hospital";
-  else if (/\b(stadium|field|halftime|court|game|gym)\b/i.test(fullText)) place = "stage";
-  else if (/\b(desert|saguaro|canyon|arizona)\b/i.test(fullText)) place = "horizon";
-  else if (/\b(school|class|classroom|cafeteria|hallway|locker)\b/i.test(fullText)) place = "classroom";
-  else if (/\b(parking lot|asphalt|cars?)\b/i.test(fullText)) place = "street";
+  const isAncientOrPhilosophy = /philosophy|ancient|classical|history|classics|stoic|greek|roman/.test(String(genre || "").toLowerCase()) ||
+    (bible && bible.world && (bible.world.era?.includes("ancient") || bible.world.era?.includes("classical") || (bible.world.approxYear != null && bible.world.approxYear < 500)));
+
+  const declaredPlaces = bible && bible.places ? Object.keys(bible.places) : [];
+  const defaultPlace = declaredPlaces.length ? declaredPlaces[0] : (isAncientOrPhilosophy ? "agora" : "room");
+  let place = (prevBrief && prevBrief.place) || defaultPlace;
+
+  if (isAncientOrPhilosophy) {
+    if (/\b(agora|marketplace|acropolis|assembly|pnyx|polis|square)\b/i.test(fullText)) place = "agora";
+    else if (/\b(colonnade|temple|portico|columns?|stoa|atrium|pediment)\b/i.test(fullText)) place = "colonnade";
+    else if (/\b(cave|cavern|underground|stalactite|shadows? on the wall|chained)\b/i.test(fullText)) place = "cave";
+    else if (/\b(ship|galley|trireme|deck|mast|sail|rudder|helm|pilot|sea|waves)\b/i.test(fullText)) place = "shipDeck";
+    else if (/\b(manuscript|scroll|parchment|papyrus|treatise|writing|dialogue)\b/i.test(fullText)) place = "manuscript";
+    else if (place === "classroom" || place === "hospital" || place === "office" || place === "kitchen" || place === "bedroom") {
+      place = "agora";
+    }
+  } else {
+    if (/\b(hospital|ambulance|clinic|injury)\b/i.test(fullText)) place = "hospital";
+    else if (/\b(court|law|trial|judge)\b/i.test(fullText)) place = "court";
+    else if (/\b(school|classroom|schoolyard|lecture hall)\b/i.test(fullText)) place = "classroom";
+    else if (/\b(office|boardroom|workplace)\b/i.test(fullText)) place = "office";
+    else if (/\b(street|sidewalk|avenue)\b/i.test(fullText)) place = "street";
+  }
 
   const subject = entities.length
     ? `${entities.map((e) => e.name).join(" & ")} — ${beatType.replace(/_/g, " ")}`

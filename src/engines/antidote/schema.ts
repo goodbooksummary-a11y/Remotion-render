@@ -330,6 +330,8 @@ export const propType = z.enum([
   // High-Retention Narrative & Metaphor Motifs (Antidote 5.1)
   "alarmClock", "hourglass", "zap", "shield", "target", "trophy", "sword",
   "magnifier", "wallet", "gift", "subway", "butterfly", "coffee", "car",
+  // Classical Philosophy & Conceptual Thought Experiments (Antidote 6.1)
+  "kallipolis", "caveAllegory", "shipOfState", "tripartiteSoul", "ringOfGyges", "thirtyTyrants", "fiveRegimes", "mythOfEr",
   // Dynamic Extensible SVG Motifs (AI Art Director)
   "customSvg",
 ]);
@@ -430,6 +432,9 @@ export const setName = z.enum([
   // ── TECH & BUSINESS PLACES (Antidote 5.0) ─────────────────────────────────
   // Workplaces for Silicon Valley, SaaS, coding, startups and business strategy.
   "workstation", "startupGarage", "serverRoom", "pitchStage",
+  // ── CLASSICAL ANTIQUITY & PHILOSOPHICAL SETS (Antidote 6.1) ───────────────
+  // For ancient Greek philosophy, historical statecraft, and foundational thought.
+  "agora", "colonnade", "cave", "shipDeck", "manuscript",
 ]);
 export type SetName = z.infer<typeof setName>;
 export const textureName = z.enum(["none", "grain", "dots", "rays", "grid", "paper"]);

@@ -752,6 +752,197 @@ export const SETS: Record<string, Array<React.FC<LayerProps>>> = {
       </g>
     ),
   ],
+
+  // ── CLASSICAL ANTIQUITY & PHILOSOPHY PLACES (Antidote 6.1) ───────────────
+  agora: [
+    ({ ink }) => (
+      <g opacity={0.12}>
+        {/* Distant Athenian Acropolis & Parthenon silhouette on hilltop */}
+        <path d="M-100,680 Q300,560 760,630 Q1200,690 1560,570 Q1800,520 2020,580 L2020,1080 L-100,1080 Z" fill={ink} />
+        {/* Acropolis Temple outline on the distant hill */}
+        <rect x={1480} y={490} width={260} height={12} fill={ink} />
+        <polygon points="1470,490 1610,430 1750,490" fill={ink} />
+        {[0, 1, 2, 3, 4, 5, 6].map((i) => (
+          <rect key={i} x={1500 + i * 36} y={502} width={10} height={50} fill={ink} />
+        ))}
+      </g>
+    ),
+    ({ ink, accent }) => (
+      <g opacity={0.2}>
+        {/* Classical Stone Portico, Doric columns left and right, olive branch */}
+        <rect x={80} y={160} width={220} height={36} rx={4} fill={ink} />
+        <rect x={110} y={196} width={50} height={700} fill={ink} />
+        <rect x={220} y={196} width={50} height={700} fill={ink} />
+        {/* Pedestal with philosopher bust silhouette on right */}
+        <rect x={1640} y={540} width={160} height={360} rx={6} fill={ink} />
+        <ellipse cx={1720} cy={510} rx={45} ry={55} fill={accent} opacity={0.8} />
+        <rect x={1700} y={480} width={40} height={30} fill={ink} opacity={0.5} />
+        {/* Olive branch wreath / leaves */}
+        <path d="M120,400 Q180,380 240,410 Q190,430 120,400 Z" fill={accent} opacity={0.6} />
+      </g>
+    ),
+    ({ ink }) => (
+      <g>
+        {/* Agora stone flagstones */}
+        <rect x={-100} y={896} width={2120} height={230} fill={ink} opacity={0.18} />
+        <g stroke={ink} strokeWidth={4} opacity={0.15}>
+          {[0, 280, 560, 840, 1120, 1400, 1680, 1960].map((x) => (
+            <line key={x} x1={x} y1={896} x2={x - 60} y2={1080} />
+          ))}
+          <line x1={-100} y1={980} x2={2020} y2={980} />
+        </g>
+      </g>
+    ),
+  ],
+
+  colonnade: [
+    ({ ink }) => (
+      <g opacity={0.14}>
+        {/* Colonnade perspective receding into Mediterranean horizon */}
+        <rect x={-100} y={0} width={2120} height={600} fill={ink} opacity={0.1} />
+        {/* Distant pediment arch */}
+        <polygon points="600,240 960,110 1320,240" fill={ink} opacity={0.4} />
+        <rect x={620} y={240} width={680} height={30} fill={ink} opacity={0.5} />
+      </g>
+    ),
+    ({ ink, accent }) => (
+      <g opacity={0.24}>
+        {/* Monumental Ionic columns framing left and right */}
+        {/* Left column */}
+        <rect x={120} y={40} width={180} height={42} rx={6} fill={ink} />
+        <ellipse cx={210} cy={82} rx={95} ry={18} fill={accent} opacity={0.6} />
+        <rect x={155} y={100} width={110} height={790} fill={ink} />
+        {/* Fluting lines */}
+        {[175, 195, 215, 235, 255].map((x) => (
+          <line key={x} x1={x} y1={100} x2={x} y2={890} stroke="#FFFFFF" strokeWidth={3} opacity={0.2} />
+        ))}
+        {/* Right column */}
+        <rect x={1620} y={40} width={180} height={42} rx={6} fill={ink} />
+        <ellipse cx={1710} cy={82} rx={95} ry={18} fill={accent} opacity={0.6} />
+        <rect x={1655} y={100} width={110} height={790} fill={ink} />
+        {[1675, 1695, 1715, 1735, 1755].map((x) => (
+          <line key={x} x1={x} y1={100} x2={x} y2={890} stroke="#FFFFFF" strokeWidth={3} opacity={0.2} />
+        ))}
+      </g>
+    ),
+    ({ ink }) => (
+      <g>
+        {/* Stepped marble stylobate */}
+        <rect x={-100} y={880} width={2120} height={40} fill={ink} opacity={0.25} />
+        <rect x={-100} y={920} width={2120} height={200} fill={ink} opacity={0.16} />
+      </g>
+    ),
+  ],
+
+  cave: [
+    ({ ink, accent }) => (
+      <g opacity={0.3}>
+        {/* Dark underground cavern ceiling stalactites */}
+        <path d="M-100,0 L2020,0 L2020,320 Q1700,450 1500,280 Q1300,150 1100,340 Q900,200 700,310 Q400,160 -100,280 Z" fill={ink} />
+        {/* High diagonal opening with exit ray of light */}
+        <polygon points="1750,0 1880,0 1520,700 1380,700" fill="#FFFBEB" opacity={0.18} />
+      </g>
+    ),
+    ({ ink, accent }) => (
+      <g opacity={0.26}>
+        {/* Low stone puppet screen wall */}
+        <rect x={260} y={580} width={1400} height={310} rx={8} fill={ink} />
+        {/* Warm flickering firelight glow behind the wall */}
+        <ellipse cx={960} cy={540} rx={420} ry={120} fill={accent} opacity={0.45} />
+        {/* Puppet poles / shadows poking over the screen */}
+        <line x1={600} y1={580} x2={600} y2={450} stroke={ink} strokeWidth={8} />
+        <polygon points="560,450 640,450 600,390" fill={ink} />
+        <line x1={1200} y1={580} x2={1200} y2={430} stroke={ink} strokeWidth={8} />
+        <circle cx={1200} cy={400} r={32} fill={ink} />
+      </g>
+    ),
+    ({ ink }) => (
+      <g>
+        {/* Cave floor with scattered iron chains */}
+        <rect x={-100} y={890} width={2120} height={230} fill={ink} opacity={0.3} />
+        {/* Chain links lying on rock floor */}
+        <g stroke={ink} strokeWidth={6} fill="none" opacity={0.5}>
+          <ellipse cx={450} cy={950} rx={28} ry={14} />
+          <ellipse cx={490} cy={952} rx={28} ry={14} />
+          <ellipse cx={530} cy={950} rx={28} ry={14} />
+          <ellipse cx={1380} cy={940} rx={28} ry={14} />
+          <ellipse cx={1420} cy={942} rx={28} ry={14} />
+        </g>
+      </g>
+    ),
+  ],
+
+  shipDeck: [
+    ({ ink }) => (
+      <g opacity={0.16}>
+        {/* Midnight sky with constellation navigation stars */}
+        <rect x={-100} y={0} width={2120} height={600} fill={ink} opacity={0.4} />
+        {/* Navigational stars & lines (Ursa / Polaris) */}
+        {[[300, 120], [420, 160], [540, 150], [660, 220], [780, 210], [920, 160], [1050, 120]].map(([x, y], i) => (
+          <circle key={i} cx={x} cy={y} r={5} fill="#FFFFFF" opacity={0.9} />
+        ))}
+        <path d="M300,120 L420,160 L540,150 L660,220 L780,210 L920,160 L1050,120" fill="none" stroke="#FFFFFF" strokeWidth={2} opacity={0.4} />
+        {/* Ocean waves on horizon */}
+        <path d="M-100,600 Q200,560 500,600 Q800,640 1100,600 Q1400,560 1700,600 Q1900,630 2020,600 L2020,1080 L-100,1080 Z" fill={ink} opacity={0.4} />
+      </g>
+    ),
+    ({ ink, accent }) => (
+      <g opacity={0.25}>
+        {/* Ship's main wooden mast and taut rigging ropes */}
+        <rect x={930} y={0} width={60} height={890} fill={ink} />
+        <line x1={960} y1={120} x2={200} y2={880} stroke={ink} strokeWidth={6} />
+        <line x1={960} y1={120} x2={1720} y2={880} stroke={ink} strokeWidth={6} />
+        {/* Wooden ship gunwale / railing */}
+        <rect x={-100} y={780} width={2120} height={24} rx={6} fill={accent} opacity={0.7} />
+        {[100, 350, 600, 850, 1100, 1350, 1600, 1850].map((x) => (
+          <rect key={x} x={x} y={804} width={18} height={80} fill={ink} />
+        ))}
+      </g>
+    ),
+    ({ ink }) => (
+      <g>
+        {/* Wooden deck planks with brass bolts */}
+        <rect x={-100} y={880} width={2120} height={240} fill={ink} opacity={0.22} />
+        <g stroke={ink} strokeWidth={5} opacity={0.2}>
+          {[0, 180, 360, 540, 720, 900, 1080, 1260, 1440, 1620, 1800].map((x) => (
+            <line key={x} x1={x} y1={880} x2={x} y2={1080} />
+          ))}
+        </g>
+      </g>
+    ),
+  ],
+
+  manuscript: [
+    ({ ink }) => (
+      <g opacity={0.1}>
+        {/* Huge architectural / parchment drafting grid */}
+        <rect x={120} y={80} width={1680} height={660} fill="none" stroke={ink} strokeWidth={6} />
+        {/* Geometric circles, golden ratio spirals, compass arcs */}
+        <circle cx={960} cy={410} r={280} fill="none" stroke={ink} strokeWidth={4} />
+        <circle cx={960} cy={410} r={180} fill="none" stroke={ink} strokeWidth={3} />
+        <circle cx={960} cy={410} r={80} fill="none" stroke={ink} strokeWidth={3} />
+        <line x1={600} y1={410} x2={1320} y2={410} stroke={ink} strokeWidth={3} />
+        <line x1={960} y1={100} x2={960} y2={720} stroke={ink} strokeWidth={3} />
+      </g>
+    ),
+    ({ ink, accent }) => (
+      <g opacity={0.22}>
+        {/* Heavy wooden scholar's table with rolled papyrus scroll */}
+        <rect x={240} y={640} width={1440} height={32} rx={8} fill={ink} />
+        {/* Rolled scroll with red wax seal */}
+        <rect x={360} y={590} width={220} height={46} rx={12} fill="#FFFBEB" opacity={0.8} />
+        <circle cx={470} cy={613} r={16} fill={accent} />
+        {/* Drafting divider compass */}
+        <path d="M1420,530 L1380,635 M1420,530 L1460,635" stroke={ink} strokeWidth={9} strokeLinecap="round" />
+        <circle cx={1420} cy={530} r={10} fill={accent} />
+      </g>
+    ),
+    ({ ink }) => (
+      <g>
+        <rect x={-100} y={900} width={2120} height={220} fill={ink} opacity={0.16} />
+      </g>
+    ),
+  ],
 };
 
 // ── textures: static CSS tiles, so they cost nothing per frame ──────────────

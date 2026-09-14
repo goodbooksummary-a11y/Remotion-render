@@ -1,22 +1,23 @@
 # The Republic — Plato  ·  _philosophy_
 
 > Bu kitabın **hub klasörü**. Kitaba dair her şey (config, meta, prompt, upload pack) burada; render çıktıları `public/` ve `out/` altında, aşağıda linkli.
+> Meta durumu: **claude-hand-refined** ✓
 
 ## Dosyalar
 
 | | Konum | Not |
 |---|---|---|
 | 🎬 Final video | `out/the-republic.mp4` _(yok)_ | render çıktısı |
-| 🖼️ Thumbnail | `out/thumbnail-the-republic.png` _(yok)_ | YouTube kapak |
-| 📝 YouTube pack | `books/the-republic/youtube.md` _(yok)_ | başlık/açıklama/tag/bölümler |
-| 💬 Captions (CC) | `public/captions/the-republic.clean.vtt` _(yok)_ | YouTube'a "With timing" yükle |
-| 💬 Captions (ham) | `public/captions/the-republic.vtt` _(yok)_ | kelime-zamanlı (karaoke kaynağı) |
-| 🎙️ Audio | `public/audio/the-republic.m4a` _(yok)_ | NotebookLM sesi |
-| 🖼️ Scene images | `public/scenes/the-republic/` _(yok)_ | Flux görselleri |
+| 🖼️ Thumbnail | [`out/thumbnail-the-republic.png`](../../out/thumbnail-the-republic.png) | YouTube kapak |
+| 📝 YouTube pack | [`books/the-republic/youtube.md`](youtube.md) | başlık/açıklama/tag/bölümler |
+| 💬 Captions (CC) | [`public/captions/the-republic.clean.vtt`](../../public/captions/the-republic.clean.vtt) | YouTube'a "With timing" yükle |
+| 💬 Captions (ham) | [`public/captions/the-republic.vtt`](../../public/captions/the-republic.vtt) | kelime-zamanlı (karaoke kaynağı) |
+| 🎙️ Audio | [`public/audio/the-republic.m4a`](../../public/audio/the-republic.m4a) | NotebookLM sesi |
+| 🖼️ Scene images | [`public/scenes/the-republic/`](../../public/scenes/the-republic) | Flux görselleri |
 | ✍️ NotebookLM prompt | [`books/the-republic/prompt.notebooklm.md`](prompt.notebooklm.md) | orijinal analiz açısı |
 | 📖 Manifest | [`books/the-republic/book.json`](book.json) | book.json (slug/başlık/engine) |
 | ⚙️ Vox config | `books/the-republic/config.vox.json` _(yok)_ | render config (beats/captions) |
-| ⚙️ YouTube meta | `books/the-republic/youtube-meta.json` _(yok)_ | SEO/meta + thumbnail brief |
+| ⚙️ YouTube meta | [`books/the-republic/youtube-meta.json`](youtube-meta.json) | SEO/meta + thumbnail brief |
 | 🎞️ Render chunks | `out_Vox-the-republic_chunks/` _(yok)_ | ara mp4 parçaları + parts.txt |
 
 ## Yükleme sırası

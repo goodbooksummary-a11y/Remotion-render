@@ -104,7 +104,7 @@ const CONCEPT_LEXICON = [
   ["medical", /\b(hospital|\bdoctor|therapist|therapy|counsel(or|ing)|diagnos(is|ed)|medication|\bpills?\b|clinic|\bnurse|psychiatr|mental illness|depression|bipolar)\b/i],
   ["notes", /\b(post-?its?|sticky notes?|\bnotes?\b|letter|\bwrote\b|writes?|writing|journal|diary|scribbl)\b/i],
   ["phone", /\b(text(s|ed|ing)?|\bphone|call(ed|s|ing)?|message|voicemail|\bscreen\b|\bemail)\b/i],
-  ["school", /\b(school|classroom|\bclass(es)?\b|teacher|\bexam|homework|student|graduation|college|principal)\b/i],
+  ["school", /\b(school|classroom|schoolyard|homework|student|graduation|college|principal|\bgrades?\b|\bteacher\b|\bexam(s)?\b|\bin class\b|(?:math|science|history|art|english) class)\b/i],
   ["home", /\b(\bhome\b|\bhouse\b|bedroom|kitchen|\bcloset|living room|\bher room|\bhis room|apartment|the doorway)\b/i],
   ["family", /\b(mother|father|\bmom\b|\bdad\b|parents|\bfamily|\bsister|brother|siblings?|\bson\b|daughter)\b/i],
   ["road", /\b(\broad\b|highway|\bmap\b|drove|driving|\bdrive\b|journey|road trip|travel(ed|ing|s)?|wander(ed|ing|s)?|\bmiles?\b)\b/i],
@@ -132,16 +132,21 @@ const CONCEPT_LEXICON = [
   ["lightbulb", /\b(idea|lightbulb|invention|invented|spark|electricity|discovery|eureka|breakthrough|illumination|genius|light in the dark)\b/i],
   ["shadowSelf", /\b(shadow|dark side|subconscious|repressed|hidden self|dark nature|sinister|hidden motive|unconscious drive)\b/i],
   ["puppeteer", /\b(puppeteer|puppet|strings|manipulat(e|ion|ed|ing)|controlled|marionette|pull the strings|mastermind)\b/i],
-  // (the plain `iceberg` entry lived here and matched the same words as
-  // `icebergDepth` below, which sits later in a first-match-wins list — so the
-  // richer drawing never won once in 3309 beats. Removed; `icebergDepth` is the
-  // iceberg now.)
   ["chains", /\b(chains|chained|freedom|escape|break free|liberation|shackles|prison|cage|unshackle)\b/i],
   ["compass", /\b(compass|true north|direction|guidance|navigation|purpose|moral compass|orient)\b/i],
   // Hypnotic Vector Metaphors (Compounding, Depth, Focus)
   ["dominoCascade", /\b(domino(es)?|compound(ing|ed)?|exponential|chain reaction|atomic habits?|small habits?|slight edge|ripple effect|snowball effect)\b/i],
   ["icebergDepth", /\b(iceberg|below the surface|hidden depths?|under the water|tip of the iceberg|unseen (effort|work|sacrifice)|what people see)\b/i],
   ["funnelTrap", /\b(funnel|prioritiz(e|ation|ing)|filter(ing)? the noise|essentialism|the one thing|ruthless(ly)?|100 distractions|noise into signal)\b/i],
+  // Classical Philosophy & Conceptual Thought Experiments (Antidote 6.1)
+  ["thirtyTyrants", /\b(thirty tyrants|tyrants|coup|404\s*bc|oligarch(s|y)?|sparta(n)?|critias|terror regime|bloody purge|30-?man\s*jun[ta]+|junta)\b/i],
+  ["ringOfGyges", /\b(ring of gyges|gyges|invisible|invisibility|unseen|glaucon'?s challenge|impunity|shepherd'?s ring)\b/i],
+  ["caveAllegory", /\b(allegory of the cave|the cave|shadows? on the wall|cave wall|shackled|prisoners in the cave|firelight|sunlight|ascent from the cave|platonic cave)\b/i],
+  ["shipOfState", /\b(ship of state|the ship|the pilot|steersman|captain|mutinous crew|mutiny|true navigator|stargazer|star-gazer)\b/i],
+  ["tripartiteSoul", /\b(tripartite soul|three parts of the soul|appetite|spirited part|charioteer|two horses|logistikon|thumos|epithumia|inner harmony|balance the soul)\b/i],
+  ["kallipolis", /\b(kallipolis|ideal city|just city|philosopher king(s)?|philosopher ruler(s)?|guardian class|city in speech|city in the heavens|noble lie|three classes of the state)\b/i],
+  ["fiveRegimes", /\b(five regimes|decline of the city|timocracy|oligarchy|democracy|tyranny|aristocracy|degeneration|decay of the state)\b/i],
+  ["mythOfEr", /\b(myth of er|spindle of necessity|ananke|reincarnation|afterlife|transmigration|lots of souls|fates|clotho|lachesis|atropos)\b/i],
   // ── drawable motifs that had no way of being chosen by meaning ────────────
   // `lint-vocabulary.js` reports 18 of these. The abstract ones — spotlight,
   // ripple, orbit, shape, maze, arrow — stay unreachable ON PURPOSE: they carry
@@ -250,12 +255,21 @@ const CONCEPT_SET = {
   coffee: "kitchen",
   hourglass: "room",
   zap: "abstract",
+  // Classical Philosophy & Conceptual Thought Experiments (Antidote 6.1)
+  thirtyTyrants: "agora",
+  ringOfGyges: "colonnade",
+  caveAllegory: "cave",
+  shipOfState: "shipDeck",
+  tripartiteSoul: "colonnade",
+  kallipolis: "agora",
+  fiveRegimes: "colonnade",
+  mythOfEr: "manuscript",
 };
 // Places a figure can plausibly SIT in — the sit pose needs furniture behind it
 // or it reads as a person crouching in a void.
-const SEATED_SETS = new Set(["kitchen", "cafe", "library", "classroom", "hospital", "bedroom", "office", "room", "workstation", "startupGarage", "pitchStage"]);
+const SEATED_SETS = new Set(["kitchen", "cafe", "library", "classroom", "hospital", "bedroom", "office", "room", "workstation", "startupGarage", "pitchStage", "colonnade", "manuscript", "agora"]);
 // Places that are outdoors and wide — where WALKING across the frame reads.
-const WALKABLE_SETS = new Set(["street", "highway", "forest", "shore", "horizon", "city", "sky"]);
+const WALKABLE_SETS = new Set(["street", "highway", "forest", "shore", "horizon", "city", "sky", "agora", "colonnade", "shipDeck", "cave"]);
 // Shots that draw the full rig (must mirror charsFull in src/engines/antidote/shots.ts).
 // Only these can show legs, so only these can walk or sit.
 const FULL_BODY_SHOTS = new Set(["wide", "crowd", "diorama", "illustration", "lowAngle", "silhouette"]);
@@ -274,6 +288,11 @@ const CONCEPT_HOLD = {
   gift: "gift",
   zap: "zap",
   phone: "phone",
+  // Classical Philosophy handprops
+  ringOfGyges: "coin",
+  thirtyTyrants: "sword",
+  kallipolis: "shield",
+  tripartiteSoul: "shield",
   // Tech & Business Handprops (5.0)
   codeWindow: "laptop",
   laptopMockup: "laptop",
@@ -361,13 +380,14 @@ const SET_MENU = {
   business: ["workstation", "startupGarage", "pitchStage", "office", "serverRoom"],
   tech: ["workstation", "serverRoom", "startupGarage", "office"],
   psychology: ["room", "abstract", "horizon", "stage"],
-  philosophy: ["horizon", "sky", "abstract", "stage"],
+  philosophy: ["agora", "colonnade", "cave", "manuscript", "shipDeck", "horizon", "stage"],
   "self-help": ["room", "horizon", "abstract", "street"],
   default: ["abstract", "horizon", "room", "street"],
 };
 const TEXTURE_FOR = {
   office: "grid", street: "grain", room: "grain", stage: "rays", sky: "none", abstract: "dots", horizon: "grain", none: "grain",
   workstation: "grid", startupGarage: "dots", serverRoom: "grid", pitchStage: "grain",
+  agora: "grain", colonnade: "grain", cave: "grain", shipDeck: "grain", manuscript: "paper",
 };
 
 // ── transitions per beat class ──────────────────────────────────────────────
@@ -451,14 +471,17 @@ function createDirector({ palette, genre, slug, bible }) {
       return fsx.existsSync(p) ? JSON.parse(fsx.readFileSync(p, "utf8")) : null;
     } catch { return null; }
   })();
+  const forbiddenSets = new Set([
+    ...(storyBible?.world?.forbid || []).filter((f) => /^(classroom|office|workstation|startupGarage|serverRoom|pitchStage|kitchen|bedroom|hospital|street|highway)$/.test(f)),
+  ]);
   const allowedSets = (() => {
     const declared = storyBible && storyBible.places
       ? [...new Set(Object.values(storyBible.places).map((p) => p && p.set).filter(Boolean))]
       : [];
     if (!declared.length) return null;                      // no claim -> no constraint
-    return new Set([...declared, ...PLACELESS_SETS]);
+    return new Set([...declared, ...PLACELESS_SETS].filter((s) => !forbiddenSets.has(s)));
   })();
-  const permitted = (set) => !allowedSets || allowedSets.has(set);
+  const permitted = (set) => (!allowedSets || allowedSets.has(set)) && !forbiddenSets.has(set);
 
   const base = (bible && bible.antidote && Array.isArray(bible.antidote.preferredSets) && bible.antidote.preferredSets.length > 0)
     ? bible.antidote.preferredSets
@@ -912,6 +935,20 @@ function arcFor(cls, motif) {
       if (placed && !permitted(placed)) placed = null;
     }
 
+    // Philosophy & Classical Antiquity sanitation (Antidote 6.1):
+    const isAncientOrPhilosophy = /philosophy|ancient|classical|history|classics|stoic|greek|roman/.test(String(genre || "").toLowerCase()) ||
+      (storyBible && (storyBible.world?.era?.includes("ancient") || storyBible.world?.era?.includes("classical") || (storyBible.world?.approxYear != null && storyBible.world.approxYear < 500)));
+    if (isAncientOrPhilosophy) {
+      if (placed === "classroom" || placed === "office" || placed === "workstation" || placed === "pitchStage" || placed === "startupGarage" || placed === "serverRoom") {
+        placed = "agora";
+      } else if (placed === "kitchen" || placed === "bedroom") {
+        placed = "colonnade";
+      } else if (placed === "hospital") {
+        placed = "agora";
+      }
+      if (placed && !permitted(placed)) placed = "agora";
+    }
+
     if (placed && placed !== state.forcedSet && index - state.forcedSetAt >= 3) {
       state.forcedSet = placed;
       state.forcedSetAt = index;
@@ -924,6 +961,9 @@ function arcFor(cls, motif) {
     let set = state.forcedSet || sets[state.setIndex % sets.length];
     if (brief && brief.antidote && brief.antidote.set && permitted(brief.antidote.set)) {
       set = brief.antidote.set;
+    }
+    if (isAncientOrPhilosophy && !permitted(set)) {
+      set = "agora";
     }
     const field = colorScript(total ? index / total : 0, cls);
 

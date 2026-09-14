@@ -26,6 +26,7 @@ const { abs } = require("./lib/paths");
 const { auditHolisticRetention } = require("./lib/antidote-retention-auditor");
 const { autoRepairAntidote } = require("./lib/antidote-auto-repair");
 const { validateSceneAgainstContract, repairSceneContract } = require("./lib/visual-contract");
+const { enforceSemanticRelevance, scoreSemanticRelevance } = require("./lib/visual-intent");
 
 const args = Object.fromEntries(
   process.argv.slice(2).map((a) => {
@@ -104,7 +105,31 @@ function evaluateGates(slug, autoFix = false) {
     } catch (_) {}
   }
 
-  // Evaluate the 9 Hard Gates
+  // Evaluate Semantic Relevance & Era Integrity (Gate 10)
+  const isAncient = /philosophy|ancient|classical|history|classics|stoic|greek|roman/.test(String(config.meta?.genre || "").toLowerCase()) ||
+    /plato|socrates|aristotle|marcus aurelius|seneca|epictetus/.test(String(config.meta?.author || "").toLowerCase());
+
+  let relevanceViolations = [];
+  for (const sc of config.scenes || []) {
+    const res = scoreSemanticRelevance(sc, sc._narration, { isAncient });
+    if (!res.isPass) {
+      relevanceViolations.push({
+        sceneId: sc.id,
+        score: res.score,
+        reasons: res.reasons,
+      });
+    }
+  }
+
+  if (autoFix && relevanceViolations.length > 0) {
+    config = enforceSemanticRelevance(config, { isAncient });
+    fs.writeFileSync(p, JSON.stringify(config, null, 2), "utf8");
+    console.log(`  [AUTO-FIX] Repaired ${relevanceViolations.length} scenes for semantic relevance & era integrity.`);
+    relevanceViolations = [];
+  }
+  const relevancePassed = relevanceViolations.length === 0;
+
+  // Evaluate the 10 Hard Gates
   const gateChecks = [
     {
       gate: 1,
@@ -162,6 +187,14 @@ function evaluateGates(slug, autoFix = false) {
         ? "100% scenes satisfy visual contracts (0 forbidden motifs, characters preserved)"
         : `${contractViolations.length} visual contract violations detected`,
     },
+    {
+      gate: 10,
+      name: "Semantic Relevance & Era Integrity (0 Anachronisms)",
+      passed: relevancePassed,
+      detail: relevancePassed
+        ? "100% scenes semantically relevant and compliant with historical era"
+        : `${relevanceViolations.length} semantic relevance or anachronism violations detected`,
+    },
   ];
 
   const allPassed = gateChecks.every((g) => g.passed);
@@ -172,7 +205,7 @@ function evaluateGates(slug, autoFix = false) {
     score: audit.score,
     grade: audit.grade,
     gateChecks,
-    violations: [...(audit.allViolations || []), ...contractViolations],
+    violations: [...(audit.allViolations || []), ...contractViolations, ...relevanceViolations],
   };
 }
 
