@@ -1,0 +1,154 @@
+{
+  "slug": "stargirl",
+  "world": {
+    "era": "contemporary",
+    "approxYear": 1995,
+    "setting": "",
+    "register": "",
+    "forbid": []
+  },
+  "cast": {
+    "leo": {
+      "name": "Leo",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 7
+    },
+    "starirl": {
+      "name": "Starirl",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 6
+    },
+    "wayne": {
+      "name": "Wayne",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 2
+    },
+    "kimble": {
+      "name": "Kimble",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 2
+    },
+    "archie": {
+      "name": "Archie",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 2
+    }
+  },
+  "places": {
+    "classroom": {
+      "set": "classroom",
+      "look": "",
+      "mentions": 10
+    },
+    "hospital": {
+      "set": "hospital",
+      "look": "",
+      "mentions": 1
+    },
+    "street": {
+      "set": "street",
+      "look": "",
+      "mentions": 1
+    }
+  },
+  "objects": [
+    {
+      "concept": "school",
+      "mentions": 21,
+      "why": ""
+    },
+    {
+      "concept": "game",
+      "mentions": 12,
+      "why": ""
+    },
+    {
+      "concept": "shield",
+      "mentions": 10,
+      "why": ""
+    },
+    {
+      "concept": "trophy",
+      "mentions": 10,
+      "why": ""
+    },
+    {
+      "concept": "heart",
+      "mentions": 9,
+      "why": ""
+    },
+    {
+      "concept": "war",
+      "mentions": 8,
+      "why": ""
+    },
+    {
+      "concept": "chains",
+      "mentions": 7,
+      "why": ""
+    },
+    {
+      "concept": "law",
+      "mentions": 6,
+      "why": ""
+    },
+    {
+      "concept": "phone",
+      "mentions": 4,
+      "why": ""
+    },
+    {
+      "concept": "storm",
+      "mentions": 4,
+      "why": ""
+    },
+    {
+      "concept": "target",
+      "mentions": 3,
+      "why": ""
+    },
+    {
+      "concept": "magnifier",
+      "mentions": 3,
+      "why": ""
+    }
+  ],
+  "spine": [
+    {
+      "act": "setup",
+      "fromFrame": 2,
+      "claim": ""
+    },
+    {
+      "act": "development",
+      "fromFrame": 10162,
+      "claim": ""
+    },
+    {
+      "act": "turn",
+      "fromFrame": 18350,
+      "claim": ""
+    },
+    {
+      "act": "consequence",
+      "fromFrame": 26808,
+      "claim": ""
+    },
+    {
+      "act": "close",
+      "fromFrame": 34939,
+      "claim": ""
+    }
+  ],
+  "authored": false
+}

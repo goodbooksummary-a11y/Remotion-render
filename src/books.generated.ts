@@ -92,6 +92,7 @@ import ant_meta_million_dollar_weekend from '../books/million-dollar-weekend/you
 import ant_psychology_of_money from '../books/psychology-of-money/config.antidote.json';
 import ant_meta_psychology_of_money from '../books/psychology-of-money/youtube-meta.json';
 import ant_stargirl from '../books/stargirl/config.antidote.json';
+import ant_meta_stargirl from '../books/stargirl/youtube-meta.json';
 import ant_supercommunicators from '../books/supercommunicators/config.antidote.json';
 import ant_meta_supercommunicators from '../books/supercommunicators/youtube-meta.json';
 import ant_the_power_of_your_subconscious_mind from '../books/the-power-of-your-subconscious-mind/config.antidote.json';
@@ -453,7 +454,7 @@ export const ANTIDOTE_BOOKS: AntidoteBookEntry[] = [
     slug: 'stargirl',
     engine: 'antidote',
     config: ant_stargirl as any,
-    meta: null,
+    meta: ant_meta_stargirl as any,
   },
   {
     slug: 'supercommunicators',

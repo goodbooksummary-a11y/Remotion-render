@@ -25,6 +25,7 @@ const path = require("path");
 const { abs } = require("./lib/paths");
 const { auditHolisticRetention } = require("./lib/antidote-retention-auditor");
 const { autoRepairAntidote } = require("./lib/antidote-auto-repair");
+const { validateSceneAgainstContract, repairSceneContract } = require("./lib/visual-contract");
 
 const args = Object.fromEntries(
   process.argv.slice(2).map((a) => {
@@ -65,7 +66,45 @@ function evaluateGates(slug, autoFix = false) {
     console.log(`  [AUTO-FIX] Repaired to Score: ${audit.score}/100 (${repairResult.repairs.length} repairs applied).`);
   }
 
-  // Evaluate the 8 Hard Gates
+  // Evaluate Visual Contract Compliance (Gate 9)
+  const briefsPath = path.resolve(__dirname, `../books/${slug}/beat-briefs.json`);
+  let contractPassed = true;
+  let contractViolations = [];
+  if (fs.existsSync(briefsPath)) {
+    try {
+      const briefsData = JSON.parse(fs.readFileSync(briefsPath, "utf8"));
+      const briefsArr = briefsData.briefs || briefsData;
+      const fp = (text) => {
+        const norm = String(text).toLowerCase().replace(/[^a-z0-9 ]/g, "").replace(/\s+/g, " ").trim();
+        let h = 2166136261;
+        for (let i = 0; i < norm.length; i++) { h ^= norm.charCodeAt(i); h = Math.imul(h, 16777619); }
+        return (h >>> 0).toString(36);
+      };
+      const briefMap = new Map(briefsArr.map((b) => [b.fp, b]));
+      let repairedCount = 0;
+      for (let i = 0; i < (config.scenes || []).length; i++) {
+        const sc = config.scenes[i];
+        const brief = briefMap.get(fp(sc._narration?.slice(0, 160) || ""));
+        if (!brief) continue;
+        const val = validateSceneAgainstContract(sc, brief);
+        if (!val.valid) {
+          if (autoFix) {
+            config.scenes[i] = repairSceneContract(sc, brief);
+            repairedCount++;
+          } else {
+            contractViolations.push(...val.violations);
+          }
+        }
+      }
+      if (autoFix && repairedCount > 0) {
+        fs.writeFileSync(p, JSON.stringify(config, null, 2), "utf8");
+        console.log(`  [AUTO-FIX] Repaired ${repairedCount} scenes violating visual contract.`);
+      }
+      contractPassed = contractViolations.length === 0;
+    } catch (_) {}
+  }
+
+  // Evaluate the 9 Hard Gates
   const gateChecks = [
     {
       gate: 1,
@@ -115,6 +154,14 @@ function evaluateGates(slug, autoFix = false) {
       passed: audit.score >= 85,
       detail: `Retention score ${audit.score}/100 [${audit.grade}]`,
     },
+    {
+      gate: 9,
+      name: "Visual Contract Compliance",
+      passed: contractPassed,
+      detail: contractPassed
+        ? "100% scenes satisfy visual contracts (0 forbidden motifs, characters preserved)"
+        : `${contractViolations.length} visual contract violations detected`,
+    },
   ];
 
   const allPassed = gateChecks.every((g) => g.passed);
@@ -125,7 +172,7 @@ function evaluateGates(slug, autoFix = false) {
     score: audit.score,
     grade: audit.grade,
     gateChecks,
-    violations: audit.allViolations,
+    violations: [...(audit.allViolations || []), ...contractViolations],
   };
 }
 

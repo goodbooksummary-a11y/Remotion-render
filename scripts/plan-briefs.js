@@ -48,6 +48,7 @@ const path = require("path");
 
 const ROOT = path.join(__dirname, "..");
 const { CONCEPT_LEXICON, CONCEPT_SET } = require("./lib/antidote-director.js");
+const { compileNarrativeBeat } = require("./lib/narrative-compiler.js");
 
 const args = Object.fromEntries(
   process.argv.slice(2).map((a) => {
@@ -181,6 +182,7 @@ function deriveBriefs(cfg, bible) {
   const bibleConcepts = new Set((bible.objects || []).map((o) => o.concept));
   const biblePlaces = new Set(Object.values(bible.places || {}).map((p) => p.set));
 
+  let prevBrief = null;
   return units.map((u, i) => {
     const from = u.fromFrame || 0, to = from + (u.durationFrames || 0);
     const words = W.filter((w) => w.e > from && w.s < to).map((w) => w.w);
@@ -224,19 +226,48 @@ function deriveBriefs(cfg, bible) {
       ? `${people.map((p) => p.entry.name).join(" and ")}${concept ? " — " + concept : ""}`
       : concept || "";
 
+    const compiled = compileNarrativeBeat({
+      index: i,
+      total: units.length,
+      from,
+      text: planned,
+      said,
+      bible,
+      genre: (cfg.meta && cfg.meta.genre) || "",
+      prevBrief,
+    });
+    prevBrief = compiled;
+
+    const finalSubject = compiled.subject || subject;
+    const finalEntities = compiled.entities && compiled.entities.length ? compiled.entities : people.map((p) => p.key);
+    const finalConcept = compiled.antidote?.concept || concept;
+    const finalPlace = compiled.place || place;
+    const finalConfidence = Math.max(confidence, compiled.confidence || 0);
+
     return {
       fp: fingerprint(planned),
       i, from,
-      subject,
-      entities: people.map((p) => p.key),
-      concept,
-      place,
-      confidence: Math.round(confidence * 100) / 100,
-      vox: { shot: shotBrief({ people, place, concept, bible, said }) },
+      subject: finalSubject,
+      entities: finalEntities,
+      concept: finalConcept,
+      place: finalPlace,
+      confidence: Math.round(finalConfidence * 100) / 100,
+      event: compiled.event,
+      state: compiled.state,
+      relationship: compiled.relationship,
+      beatType: compiled.beatType,
+      narrative_intent: compiled.narrative_intent,
+      visual_intent: compiled.visual_intent,
+      mustShow: compiled.mustShow,
+      mustNotShow: compiled.mustNotShow,
+      vox: { shot: shotBrief({ people, place: finalPlace, concept: finalConcept, bible, said }) },
       antidote: {
-        concept,
-        set: place,
-        cast: people.map((p) => p.key),
+        concept: finalConcept,
+        set: finalPlace,
+        cast: compiled.antidote?.cast || people.map((p) => p.key),
+        shotPreference: compiled.antidote?.shotPreference,
+        forbiddenShots: compiled.antidote?.forbiddenShots,
+        forbiddenMotifs: compiled.antidote?.forbiddenMotifs,
       },
       _said: said.slice(0, 180),
     };

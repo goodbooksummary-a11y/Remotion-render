@@ -25,6 +25,7 @@ const { parseWords, buildCaptions } = require("./lib/vtt");
 const { createDirector, classify: beatOf, SCENE_ICONS, detectEmotion } = require("./lib/antidote-director");
 const { createCopywriter } = require("./lib/antidote-copy");
 const { castBook, WORLD_NAMES } = require("./lib/antidote-costume");
+const { repairSceneContract } = require("./lib/visual-contract");
 
 const FPS = 30;
 const args = Object.fromEntries(
@@ -532,6 +533,7 @@ function roleIndex(cast) {
       text: s.text, index: i, isTitle, calloutAt, total: scenes.length, durationFrames,
       concept: hasOwn(ART && ART[i], "concept") ? ART[i].concept
         : (brief && brief.antidote && brief.antidote.concept) ? brief.antidote.concept : undefined,
+      brief,
     });
     // The brief's place wins over the genre rotation for the same reason. The
     // director's own HOLD/decay rule still governs how long we stay there — a
@@ -708,7 +710,7 @@ function roleIndex(cast) {
           topic: hudTopic,
         };
 
-    return {
+    const rawScene = {
       id: isTitle ? "intro" : `scene-${String(i).padStart(2, "0")}`,
       fromFrame: s.from,
       durationFrames: Math.max(FPS, durationFrames),
@@ -728,6 +730,7 @@ function roleIndex(cast) {
       props,
       texts,
     };
+    return brief ? repairSceneContract(rawScene, brief, PAL) : rawScene;
   });
 
   // ── Claude handoff: dump the beats and stop, so the copy can be authored ──

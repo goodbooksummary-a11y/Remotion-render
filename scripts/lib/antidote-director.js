@@ -12,6 +12,8 @@
  * stay reproducible and resumable.
  */
 
+const { filterMotifsByContract, filterShotsByContract } = require("./visual-contract");
+
 // ── color helpers (kept local so the director owns its own palette math) ────
 // Accepts hex AND the `rgb(r,g,b)` strings these helpers themselves return —
 // the color script composes them (darken(lighten(x))), and a hex-only parser
@@ -340,7 +342,7 @@ const ILLUSTRATABLE = new Set(["story", "neutral", "negative", "positive", "ques
 
 // ── motifs per beat class ───────────────────────────────────────────────────
 const MOTIF_MENU = {
-  stat: ["counter", "barChart", "coin"],
+  stat: ["counter", "barChart"],
   crowd: ["orbit", "ripple"],
   contrast: ["balance", "door", "maze"],
   question: ["maze", "orbit", "ripple"],
@@ -560,8 +562,12 @@ function createDirector({ palette, genre, slug, bible }) {
     }
   }
 
-  function pickShot(cls, i) {
-    const menu = SHOT_MENU[cls] || SHOT_MENU.neutral;
+  function pickShot(cls, i, brief = null) {
+    let rawMenu = SHOT_MENU[cls] || SHOT_MENU.neutral;
+    if (brief && brief.antidote && Array.isArray(brief.antidote.shotPreference) && brief.antidote.shotPreference.length > 0) {
+      rawMenu = [...brief.antidote.shotPreference, ...rawMenu];
+    }
+    const menu = filterShotsByContract(rawMenu, brief);
     const tail = state.recentShots.slice(-3);
     // force a pattern interrupt if the film has been "talking head" for too long
     const needInterrupt = state.scenesSinceInterrupt >= 6;
@@ -666,16 +672,19 @@ function arcFor(cls, motif) {
     dollarExchange: "dollarExchange",
   };
 
-  function pickMotif(cls, shot, i, text, concept) {
+  function pickMotif(cls, shot, i, text, concept, brief = null) {
+    const forbidden = new Set(brief?.mustNotShow || (brief?.antidote && brief.antidote.forbiddenMotifs) || []);
+
     // The beat's own subject, when we have one, beats a seeded draw from a menu
     // keyed on grammar. `state.lastMotif` still blocks an immediate repeat.
-    if (concept && CONCEPT_MOTIF[concept] && CONCEPT_MOTIF[concept] !== state.lastMotif) {
+    if (concept && CONCEPT_MOTIF[concept] && !forbidden.has(CONCEPT_MOTIF[concept]) && CONCEPT_MOTIF[concept] !== state.lastMotif) {
       const type = CONCEPT_MOTIF[concept];
       state.lastMotif = type;
       return { type, scale: 1, enter: "pop", color: PAL.red, color2: PAL.ink, arc: arcFor(cls, type) };
     }
     if (customMotifs && typeof customMotifs === "object") {
       for (const [mKey, mDef] of Object.entries(customMotifs)) {
+        if (forbidden.has(mKey)) continue;
         // Two landmines lived in this one line. An entry with no `title` built
         // `\b(key|)\b`, whose empty alternative matches EVERY beat — one custom
         // SVG on every scene of the film. And an unescaped `.` or `(` in a key
@@ -701,6 +710,10 @@ function arcFor(cls, motif) {
     }
     const isMoney = /\$|\bmoney|dollars?|wealth|income|salary|cost|price|invest/i.test(text);
     let menu = isMoney ? MONEY_MOTIFS : MOTIF_MENU[cls] || MOTIF_MENU.neutral;
+    if (brief && brief.antidote && Array.isArray(brief.antidote.motifPreference) && brief.antidote.motifPreference.length > 0) {
+      menu = [...brief.antidote.motifPreference, ...menu];
+    }
+    menu = filterMotifsByContract(menu, brief);
     menu = menu.filter((m) => m !== state.lastMotif);
     // A `counter` renders its number at 188px. With no number in the narration
     // it used to fall back to `value = 90` — twelve shipped scenes count up to a
@@ -713,7 +726,12 @@ function arcFor(cls, motif) {
       return n > 0 && n < 1000000 ? n : null;
     })();
     if (spokenNumber === null) menu = menu.filter((m) => m !== "counter");
-    if (!menu.length) menu = MOTIF_MENU.neutral.filter((m) => m !== "counter");
+    if (!menu.length) {
+      menu = filterMotifsByContract(MOTIF_MENU.neutral.filter((m) => m !== "counter"), brief);
+    }
+    if (!menu.length) {
+      menu = ["spotlight"];
+    }
     const motif = menu[Math.floor(rnd(seedBase + i * 7) * menu.length) % menu.length];
     state.lastMotif = motif;
     const spec = { type: motif, scale: 1, enter: "pop", color: PAL.red, color2: PAL.ink };
@@ -732,7 +750,7 @@ function arcFor(cls, motif) {
    * Direct one beat.
    * @returns {{shot,transition,bg,props,cast,camera,class:string}}
    */
-  function direct({ text, index, isTitle, calloutAt, total, durationFrames, concept: authoredConcept }) {
+  function direct({ text, index, isTitle, calloutAt, total, durationFrames, concept: authoredConcept, brief = null }) {
     const cls = isTitle ? "title" : classify(text);
 
     // ── SUBJECT → illustration shot ──────────────────────────────────────────
@@ -779,7 +797,7 @@ function arcFor(cls, motif) {
     const canBeforeAfter =
       useIllustration && cls === "contrast" && otherIcon &&
       index - (state.lastConceptAt[otherIcon] ?? -99) >= 6;
-    const shot = isTitle
+    const rawShot = isTitle
       ? "lowAngle"
       : useIllustration
         ? canBeforeAfter
@@ -787,7 +805,12 @@ function arcFor(cls, motif) {
           : DIORAMA_ICONS.has(concept)
             ? "diorama"
             : "illustration"
-        : pickShot(cls, index);
+        : pickShot(cls, index, brief);
+    let shot = rawShot;
+    if (brief && brief.mustShow && brief.mustShow.includes("characters") && shot === "insert") {
+      const allowed = filterShotsByContract(SHOT_MENU[cls] || SHOT_MENU.neutral, brief);
+      shot = allowed[0] || "medium";
+    }
 
     // ── SUSTAIN: is this beat a continuation of the previous take? ──────────
     // A sustained beat is deliberately NOT re-directed: same shot, same set,
@@ -898,7 +921,10 @@ function arcFor(cls, motif) {
       // a location isn't sticky forever; fall back to the genre rotation
       state.forcedSet = "";
     }
-    const set = state.forcedSet || sets[state.setIndex % sets.length];
+    let set = state.forcedSet || sets[state.setIndex % sets.length];
+    if (brief && brief.antidote && brief.antidote.set && permitted(brief.antidote.set)) {
+      set = brief.antidote.set;
+    }
     const field = colorScript(total ? index / total : 0, cls);
 
     const bg = {
@@ -939,7 +965,7 @@ function arcFor(cls, motif) {
     const wantsMotif = shot === "insert" || calloutAt == null || rnd(seedBase + index * 13) < 0.34;
     let props;
     if (!useIllustration) {
-      props = wantsMotif ? [pickMotif(cls, shot, index, text, concept)] : [];
+      props = wantsMotif ? [pickMotif(cls, shot, index, text, concept, brief)] : [];
     } else if (shot === "beforeAfter") {
       props = [
         { type: concept, x: 548, y: 560, scale: 1.32, enter: "left", at: 0, color: PAL.red, color2: PAL.ink },
@@ -950,6 +976,16 @@ function arcFor(cls, motif) {
       // illustration or diorama — the shot preset positions the single icon + figure
       props = [{ type: concept, scale: 1, enter: "pop", at: 0, color: PAL.red, color2: PAL.ink }];
     }
+    if (brief && Array.isArray(brief.mustNotShow) && props.length > 0) {
+      const forbidden = new Set(brief.mustNotShow);
+      props = props.map((p) => {
+        if (forbidden.has(p.type)) {
+          const fallback = (concept && !forbidden.has(concept)) ? concept : "spotlight";
+          return { ...p, type: fallback };
+        }
+        return p;
+      });
+    }
 
     // cast plan — staging comes from the shot preset, so only intent is stored.
     // Roles (not looks) are chosen here; the look is resolved from the book's
@@ -957,6 +993,10 @@ function arcFor(cls, motif) {
     let castCount = 1;
     if (shot === "insert" || shot === "beforeAfter") castCount = 0;
     else if (shot === "twoShot" || shot === "split" || shot === "overShoulder") castCount = 2;
+    if (brief && brief.mustShow && brief.mustShow.includes("characters") && castCount === 0) {
+      castCount = 1;
+      if (shot === "insert") shot = "medium";
+    }
     const cast = { count: castCount, crowd: shot === "crowd" ? 7 + (index % 5) : 0, roles: castRoles(cls, castCount, index) };
 
     // ── BUSINESS: what the lead actually DOES with their body ───────────────
@@ -1018,7 +1058,7 @@ function arcFor(cls, motif) {
     // third, gets a second smaller motif late.
     const frontLoaded = calloutAt != null && calloutAt < durationFrames * 0.35;
     if ((beatSecs >= 10 || (beatSecs >= 7.5 && frontLoaded)) && !useIllustration && shot !== "insert" && shot !== "beforeAfter") {
-      const late = pickMotif(cls, shot, index + 501, text, concept);
+      const late = pickMotif(cls, shot, index + 501, text, concept, brief);
       props = [...props, { ...late, at: Math.round(durationFrames * 0.66), enter: "fade", scale: 0.6 }];
     }
 
