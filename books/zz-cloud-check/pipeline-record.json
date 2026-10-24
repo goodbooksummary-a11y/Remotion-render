@@ -1,0 +1,16 @@
+{
+  "note": "production-guard.js: which code each pipeline step ran on",
+  "runs": [
+    {
+      "step": "render",
+      "at": "2026-10-24T06:28:09.456Z",
+      "head": "110c1bd26c2ab7ce3475443de6256ae99119447f",
+      "scriptsTree": "bbfa427bf9d0147f6a2effcd755f88b2eec09c60",
+      "srcTree": "9983007b4ce22ec80182e35d2707a98b1aaa943f",
+      "behindOrigin": 0,
+      "linkedWorktree": true,
+      "dirty": 0,
+      "allowReason": null
+    }
+  ]
+}

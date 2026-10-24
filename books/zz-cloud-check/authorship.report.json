@@ -1,0 +1,16 @@
+{
+  "slug": "zz-cloud-check",
+  "engine": "antidote",
+  "generatedAt": "2026-10-24T06:28:10.189Z",
+  "frozen": false,
+  "status": "PASS",
+  "violations": [],
+  "metrics": {
+    "idleWallpaper": 3,
+    "authoredPropositions": 0
+  },
+  "counts": {
+    "beats": 17,
+    "unauthored": 0
+  }
+}

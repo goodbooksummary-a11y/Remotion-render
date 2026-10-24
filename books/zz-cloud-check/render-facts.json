@@ -1,0 +1,28 @@
+{
+  "note": "Three facts per run: technical (output file), quality (firewall PASS/FAIL), decision (operator). Append-only; FAIL records are never removed.",
+  "runs": [
+    {
+      "at": "2026-10-24T06:28:11.389Z",
+      "kind": "preflight",
+      "mode": "production",
+      "commit": "110c1bd2",
+      "configHash": "ad1c38b84dce415d",
+      "renderInputHash": "b789216e3729d586",
+      "quality": {
+        "status": "FAIL",
+        "blocks": 0,
+        "reviews": 27
+      },
+      "decision": {
+        "kind": "ACCEPTED_DEBT (recorded now)",
+        "ok": true,
+        "accepted": true,
+        "reason": "Cloud assembly verification: sandbox copy zz-cloud-check (first 18 scenes of the published the-island-of-missing-trees, tone audio), operator-approved P0 work 2026-10-24",
+        "covered": 13,
+        "newFindings": 0,
+        "goneFindings": 0
+      },
+      "technical": "NOT_RUN"
+    }
+  ]
+}
